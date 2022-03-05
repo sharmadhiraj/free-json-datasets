@@ -1,0 +1,1958 @@
+[
+    {
+        "name": "10 % NMB DEBENTURE 2085",
+        "symbol": "NMBD2085",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10% Himalayan Bank Debenture 2083",
+        "symbol": "HBLD83",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10% Laxmi Bank Debenture 2086",
+        "symbol": "LBLD86",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10% Nabil Debenture 2082",
+        "symbol": "NBLD82",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10% Nepal SBI Bank Debenture 2086",
+        "symbol": "SBIBD86",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10% NIC Asia Debenture 2085/86",
+        "symbol": "NICAD 85/86",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10% Prabhu Bank Debenture 2084",
+        "symbol": "PBLD84",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10% Sanima Bank Limited Debenture",
+        "symbol": "SAND2085",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10% Sunrise Debenture 2080",
+        "symbol": "SRD80",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.25% Citizens Bank Debenture 2086",
+        "symbol": "CIZBD86",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81",
+        "symbol": "GBD80/81",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.25% KBL Debenture 2086",
+        "symbol": "KBLD86",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.25% Machhapuchhre Bank Debenture 2085",
+        "symbol": "MBLD2085",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.25% NBBL Debenture 2085",
+        "symbol": "NBBD2085",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.25% NIC Asia Debenture 2083/84",
+        "symbol": "NICD83/84",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.25% Prabhu Bank Debenture 2086",
+        "symbol": "PBLD86",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.25% SBL Debenture 2083",
+        "symbol": "SBLD83",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.25% Sunrise Bank Debenture 2083",
+        "symbol": "SRBLD83",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.35% Agricultural Bank Debenture 2083",
+        "symbol": "ADBLD83",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.5 % NEPAL INVESTMENT DEBENTURE 2082",
+        "symbol": "NIBD2082",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "10.50% SBL Debenture 2082",
+        "symbol": "SBLD2082",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "11% NIC Asia Debenture 082/83",
+        "symbol": "NICAD8283",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "12 % Goodwill Finance Limited Debenture 2083",
+        "symbol": "GWFD83",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "12% ICFC Finance Limited Debenture 2083",
+        "symbol": "ICFCD83",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "4% Agricultural Bond",
+        "symbol": "ADBLB",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8% BOK Debenture 2079",
+        "symbol": "BOKD2079",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8% EBL Debenture 2078",
+        "symbol": "EBLD2078",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.5% BOK Debenture 2086",
+        "symbol": "BOKD86",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.5% Laxmi Bank Debenture 2088",
+        "symbol": "LBLD88",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.5% Machhapuchchhre Debenture 2087",
+        "symbol": "MBLD87",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.5% Nepal Bank Debenture 2087",
+        "symbol": "NBLD87",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.5% Nepal Investment Bank Debenture 2084",
+        "symbol": "NIBD84",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.5% Prabhu Bank Debenture 2087",
+        "symbol": "PBLD87",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.5% RBBL Debenture 2083",
+        "symbol": "RBBD83",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.5% Sanima Debenture 2087",
+        "symbol": "SBD87",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.5% SBL Debenture 2084",
+        "symbol": "SBLD84",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "8.75 % Prime Debenture 2085",
+        "symbol": "PBD85",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "9% Kamana Sewa Bikas Bank Limited Debenture 2087",
+        "symbol": "KSBBLD87",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "9% NIC Asia Debenture 2081/82",
+        "symbol": "NICAD8182",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "9.5% Manjushree Finance Limited Debenture 2085",
+        "symbol": "MFLD85",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "9.5% NCC Debenture 2086",
+        "symbol": "NCCD86",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
+        "symbol": "ACLBSL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/b18d4cc0aa519c1ead50eaa4ce1e71ae.jpg"
+    },
+    {
+        "name": "ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED",
+        "symbol": "AKBSL",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Agricultural Bond (8 Year)",
+        "symbol": "ADBLB86",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "Agricultural Bond (9 Year)",
+        "symbol": "ADBLB87",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "Agricultural Development Bank Limited",
+        "symbol": "ADBL",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/7796f7758600d44efaaa95d89b8c96a0.jpg"
+    },
+    {
+        "name": "Ajod Insurance Limited",
+        "symbol": "AIL",
+        "category": "Non Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/129d2f6b5ee3b58bbb59439649fbb16c.JPG"
+    },
+    {
+        "name": "Ankhu Khola Jalvidhyut Company Ltd",
+        "symbol": "AKJCL",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/23c3eb9a3a42c67b58f218c6920bf442.jpg"
+    },
+    {
+        "name": "Api Power Company Ltd.",
+        "symbol": "API",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/12e59d1883ac7a58ea512167aede21e4.jpg"
+    },
+    {
+        "name": "Arambha Microfinance Bittiya Sanstha Ltd.",
+        "symbol": "AMFI",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/e2c60a3b7722dd754289f292b74e1fcb.png"
+    },
+    {
+        "name": "Arun Kabeli Power Ltd.",
+        "symbol": "AKPL",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/d103a6d6b51a17cc81aa0aa74c96b639.jpg"
+    },
+    {
+        "name": "Arun Valley Hydropower Development Co. Ltd.",
+        "symbol": "AHPC",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Arun Vanaspati Udhyog Limited",
+        "symbol": "AVU",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Asha Laghubitta Bittiya Sanstha Ltd",
+        "symbol": "ALBSL",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Asian Life Insurance Co. Limited",
+        "symbol": "ALICL",
+        "category": "Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Bank of Kathmandu Ltd.",
+        "symbol": "BOKL",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/aa0f53236ece1483b4c2443ca6f72e94.jpg"
+    },
+    {
+        "name": "Barun Hydropower Co. Ltd.",
+        "symbol": "BARUN",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/6dc43135db3ae9138ea9d23ccd88c7db.JPG"
+    },
+    {
+        "name": "Best Finance Company Ltd.",
+        "symbol": "BFC",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Bhargav Bikash Bank Ltd.",
+        "symbol": "BHBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/c857dac121d3e55a28571842f66960a4.jpg"
+    },
+    {
+        "name": "Birat Shoe Limited",
+        "symbol": "BSL",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Bishal Bazar Company Limited",
+        "symbol": "BBC",
+        "category": "Tradings",
+        "logo": "http://www.nepalstock.com/uploads/images/company/6cfa6f456f17e0e84a70d99154fedd9c.jpg"
+    },
+    {
+        "name": "Bottlers Nepal (Balaju) Limited",
+        "symbol": "BNL",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Bottlers Nepal (Terai) Limited",
+        "symbol": "BNT",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Buddha Bhumi Nepal Hydropower Company Limited",
+        "symbol": "BNHC",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Butwal Power Company Limited",
+        "symbol": "BPCL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Butwal Spinning Mills Limited",
+        "symbol": "BSM",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Capital Merchant Bank & Finance Co. Ltd.",
+        "symbol": "CMB",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "CEDB Hydropower Development Company Limited",
+        "symbol": "CHDC",
+        "category": "Investment",
+        "logo": ""
+    },
+    {
+        "name": "Central Finance Co. Ltd.",
+        "symbol": "CFCL",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Century Commercial Bank Ltd.",
+        "symbol": "CCBL",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Chandragiri Hills Limited",
+        "symbol": "CGH",
+        "category": "Hotels",
+        "logo": ""
+    },
+    {
+        "name": "Chhimek Laghubitta Bikas Bank Limited",
+        "symbol": "CBBL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/38c53cf90ff1c8f012069fd42d558673.jpg"
+    },
+    {
+        "name": "Chhyangdi Hydropower Ltd.",
+        "symbol": "CHL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Chilime Hydropower Company Limited",
+        "symbol": "CHCL",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/9e01e7db58b5b122881eac7c8318d666.png"
+    },
+    {
+        "name": "Citizen Bank International Limited",
+        "symbol": "CZBIL",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/77c356cf5bed6ff7705ced99d5c10986.PNG"
+    },
+    {
+        "name": "Citizen Investment Trust",
+        "symbol": "CIT",
+        "category": "Investment",
+        "logo": "http://www.nepalstock.com/uploads/images/company/a5b7b899a0e765783601205f9f30ceab.gif"
+    },
+    {
+        "name": "Citizens Mutual Fund -1",
+        "symbol": "CMF1",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "CITIZENS MUTUAL FUND 2",
+        "symbol": "CMF2",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "City Express Finance Co. Limited",
+        "symbol": "CEFL",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Civil Bank Ltd",
+        "symbol": "CBL",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/a3d2a50b4fce1384979bfb98abedbcc5.jpg"
+    },
+    {
+        "name": "Civil Laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "CLBSL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/7f5009a8b739163eac21d22feb32d299.png"
+    },
+    {
+        "name": "Corporate Development Bank Limited",
+        "symbol": "CORBL",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Crystal Finance Ltd.",
+        "symbol": "CFL",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
+        "symbol": "DDBL",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Dibyashwori Hydropower Ltd.",
+        "symbol": "DHPL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Everest Bank Limited",
+        "symbol": "EBL",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Everest Bank Limited Con. Pref.",
+        "symbol": "EBLCP",
+        "category": "Preferred Stock",
+        "logo": ""
+    },
+    {
+        "name": "Everest Insurance Co. Ltd.",
+        "symbol": "EIC",
+        "category": "Non Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/995c3f9f6615f26987fcc1b5dbfdb998.png"
+    },
+    {
+        "name": "Excel Development Bank Ltd.",
+        "symbol": "EDBL",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "First Micro Finance Laghubitta Bittiya Sanstha Limited",
+        "symbol": "FMDBL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/9e768f842f997fff4c1e26495081da7c.jpg"
+    },
+    {
+        "name": "Fleur Himalayan Limited",
+        "symbol": "FHL",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Forward Microfinance Bittiya Sanstha Ltd.",
+        "symbol": "FOWAD",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Ganapati Laghubitta Bittiya Sanstha Limited",
+        "symbol": "GMFBS",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/156bd85c2bdeef091ddc633b21bbafba.png"
+    },
+    {
+        "name": "Gandaki Bikas Bank Limited",
+        "symbol": "GDBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/b1b3a273d3b4e2ec13cb5936f3f54e4b.jpg"
+    },
+    {
+        "name": "Garima Bikas Bank Limited",
+        "symbol": "GBBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/28080d088666b23480e3c96f4b47e16e.jpg"
+    },
+    {
+        "name": "General Insurance Company Nepal Ltd",
+        "symbol": "GIC",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Ghalemdi Hydro Limited",
+        "symbol": "GHL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Ghodighoda Laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "GGBSL",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Global IME Bank Limited",
+        "symbol": "GBIME",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Global IME Bank Limited Debenture 2086/87",
+        "symbol": "GBILD86/87",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "GILB",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Global IME Samunnat Scheme-1",
+        "symbol": "GIMES1",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Goodwill Finance Limited",
+        "symbol": "GFCL",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/de09040b5d53eae698c5b1b0a752a947.jpg"
+    },
+    {
+        "name": "Gorakhkali Rubber Udhyog Limited",
+        "symbol": "GRU",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "GBLBS",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/ef1db6581d908b48ddb0a4c364ca32b5.png"
+    },
+    {
+        "name": "Green Development Bank Ltd.",
+        "symbol": "GRDBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/546ece2c1e7e0b633b738692dd158e88.jpg"
+    },
+    {
+        "name": "GreenLife Hydropower Limited",
+        "symbol": "GLH",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+        "symbol": "GMFIL",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/2691b31b4be2e2eab338b27570f864a5.JPG"
+    },
+    {
+        "name": "Gurans Laghubitta Bittiya Sanstha Limited",
+        "symbol": "GLBSL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/38c0971d8dc95aa4e1baee9c75d7572a.jpg"
+    },
+    {
+        "name": "Gurans Life Insurance Company Ltd.",
+        "symbol": "GLICL",
+        "category": "Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/a254cae85fc968bba1303f097c08a045.jpg"
+    },
+    {
+        "name": "Gurkhas Finance Ltd.",
+        "symbol": "GUFL",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/467d4eac70e7df14ef4a9e1471afad0a.jpg"
+    },
+    {
+        "name": "Hamro Bikas Bank Ltd.",
+        "symbol": "HAMRO",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Harisiddhi Brick And Tiles Limited",
+        "symbol": "HBT",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Hathway Finance Company Limited",
+        "symbol": "HATH",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/3f6645782d22873ad9193d4ab2a1d76f.jpg"
+    },
+    {
+        "name": "Himal Dolakha Hydropower Company Limited",
+        "symbol": "HDHPC",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Himalaya Urja Bikas Company Limited",
+        "symbol": "HURJA",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Himalayan Bank Limited",
+        "symbol": "HBL",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Himalayan Distillery Limited",
+        "symbol": "HDL",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Himalayan Finance Limited (Bittiya Sanstha)",
+        "symbol": "HFL",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Himalayan General Insurance Co. Ltd",
+        "symbol": "HGI",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Himalayan Power Partner Ltd.",
+        "symbol": "HPPL",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/2637312b55a84c5e2dc0e2ed11034cb1.jpg"
+    },
+    {
+        "name": "Hydorelectricity Investment and Development Company Ltd",
+        "symbol": "HIDCL",
+        "category": "Investment",
+        "logo": "http://www.nepalstock.com/uploads/images/company/be150f8a4a7e2958407c0b7bcf3f5394.jpg"
+    },
+    {
+        "name": "ICFC Finance Limited",
+        "symbol": "ICFC",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/f747f1ad1664dd61ed5afad64c87c664.jpg"
+    },
+    {
+        "name": "IME General Insurance Ltd.",
+        "symbol": "IGI",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Infinity Laghubitta Bittiya Sanstha Limited",
+        "symbol": "ILBS",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/3f315347e8bc4695dcaf7fbf69c83386.png"
+    },
+    {
+        "name": "Janaki Finance Ltd.",
+        "symbol": "JFL",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Janata Bank Nepal Ltd.",
+        "symbol": "JBNL",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/8fc39fb4f475f6c2f567ee1892c32846.jpg"
+    },
+    {
+        "name": "Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
+        "symbol": "JSLBB",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Jeevan Bikas Laghubitta Bittya Sanstha Ltd",
+        "symbol": "JBLB",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Joshi Hydropower Development Company Ltd",
+        "symbol": "JOSHI",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Jyoti Bikas Bank Limited",
+        "symbol": "JBBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/fe89014663a5e5390fe682fc2267a8ed.gif"
+    },
+    {
+        "name": "Jyoti Bikash Bank Bond 2087",
+        "symbol": "JBBD87",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "Jyoti Life Insurance Company Limited",
+        "symbol": "JLI",
+        "category": "Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/38ff17bc7274f88405a5081203f59d30.PNG"
+    },
+    {
+        "name": "Jyoti Sinning Mills Limited",
+        "symbol": "JSM",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Kalika Laghubitta Bittiya Sanstha Ltd",
+        "symbol": "KMCDB",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/4e9eec69e9f4dd837d39bb0c8281bda8.png"
+    },
+    {
+        "name": "Kalika power Company Ltd",
+        "symbol": "KPCL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Kamana Sewa Bikas Bank Limited",
+        "symbol": "KSBBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/a3687d8755dd298186ee2166af6bf26f.png"
+    },
+    {
+        "name": "Kankai Bikas Bank Ltd.",
+        "symbol": "KNBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/623209bd528e69da059944ebc1f8a0ad.jpg"
+    },
+    {
+        "name": "Karnali Development Bank Limited",
+        "symbol": "KRBL",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Khanikhola Hydropower Co. Ltd.",
+        "symbol": "KKHC",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Kisan Lagubitta Bittiya Sanstha Limited",
+        "symbol": "KLBSL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/bcc6a6cd6e47aee7df25143ef8ddf2f4.jpg"
+    },
+    {
+        "name": "Kumari Bank Limited",
+        "symbol": "KBL",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/708c163b4794976852f1c9f395715e73.jpg"
+    },
+    {
+        "name": "Kumari Equity Fund",
+        "symbol": "KEF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Lalitpur Finance Ltd.",
+        "symbol": "LFC",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Laxmi Bank Limited",
+        "symbol": "LBL",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Laxmi Equity Fund",
+        "symbol": "LEMF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "LLBS",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/9559892f077e7ea9b20c5ea15f4abac8.jpg"
+    },
+    {
+        "name": "Laxmi Unnati Kosh",
+        "symbol": "LUK",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Liberty Energy Company Limited",
+        "symbol": "LEC",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Life Insurance Co. Nepal",
+        "symbol": "LICN",
+        "category": "Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/83917bbb242bc81141b13e91b4beb037.jpg"
+    },
+    {
+        "name": "Lumbini Bikas Bank Ltd.",
+        "symbol": "LBBL",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Lumbini General Insurance Co. Ltd.",
+        "symbol": "LGIL",
+        "category": "Non Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/1ddb1165cc33cadd90e4726f0166c83b.jpg"
+    },
+    {
+        "name": "Machhapuchhre Bank Limited",
+        "symbol": "MBL",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Madhya Bhotekoshi Jalavidyut Company Limited",
+        "symbol": "MBJC",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Mahalaxmi Bikas Bank Ltd.",
+        "symbol": "MLBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/701a8a852c97630428f8ae3bcac6afef.jpg"
+    },
+    {
+        "name": "Mahila Lagubitta Bittiya Sanstha Limited",
+        "symbol": "MLBSL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/e0ff4ece4c6a7f315348ae8dce149d62.jpg"
+    },
+    {
+        "name": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
+        "symbol": "MSMBS",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Mahuli Laghubitta Bittiya Sanstha Limited",
+        "symbol": "MSLB",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/fc14f5e0db442fe12f57c836e00d0663.jpg"
+    },
+    {
+        "name": "Mailung Khola Jal Vidhyut Company Limited",
+        "symbol": "MKJC",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
+        "symbol": "MKLB",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/a33f9aadc297ebdde0b392da2df57a00.jpg"
+    },
+    {
+        "name": "Manjushree Finance Ltd.",
+        "symbol": "MFIL",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/00d73c6aa58acc96abd198b912fb83e9.jpg"
+    },
+    {
+        "name": "Manushi Laghubitta Bittiya Sanstha Limited",
+        "symbol": "MLBS",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Mega Bank Nepal Ltd.",
+        "symbol": "MEGA",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Mega Mutual Fund -1",
+        "symbol": "MMF1",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Mero Microfinance Bittiya Sanstha Ltd.",
+        "symbol": "MERO",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Mirmire Microfinance Development Bank Ltd.",
+        "symbol": "MMFDB",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Miteri Development Bank Limited",
+        "symbol": "MDB",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Mithila LaghuBitta Bittiya Sanstha Limited",
+        "symbol": "MLBBL",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Mountain Energy Nepal Limited",
+        "symbol": "MEN",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Mountain Hydro Nepal Limited",
+        "symbol": "MHNL",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/c2ad0b2265515a1e1973681ba67fb8c6.png"
+    },
+    {
+        "name": "Muktinath Bikas Bank Ltd.",
+        "symbol": "MNBBL",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Muktinath Debenture 2084/85",
+        "symbol": "MND84/85",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "Multipurpose Finance Company Limited",
+        "symbol": "MPFL",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/d5fb063f63e05341041e6fa7fdf57dc8.jpg"
+    },
+    {
+        "name": "NABIL BALANCED FUND-2",
+        "symbol": "NBF2",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "nabil Balanced Fund-3",
+        "symbol": "NBF3",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Nabil Bank Limited",
+        "symbol": "NABIL",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Nabil Debenture 2085",
+        "symbol": "NBLD85",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "Nabil Equity Fund",
+        "symbol": "NEF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
+        "symbol": "NADEP",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/f32c41bda6b997a228903945002b157b.jpg"
+    },
+    {
+        "name": "Narayani Development Bank Limited",
+        "symbol": "NABBC",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/628fbebee7a4fd710652da75a8ec8ae4.jpg"
+    },
+    {
+        "name": "National Hydro Power Company Limited",
+        "symbol": "NHPC",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "National Life Insurance Co. Ltd.",
+        "symbol": "NLICL",
+        "category": "Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/2db3cc8098d4b37351e07848afad0260.png"
+    },
+    {
+        "name": "National Microfinance Bittiya Sanstha Ltd.",
+        "symbol": "NMFBS",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Naya Sarathi Laghubitta Bittiya Sanstha Limited",
+        "symbol": "NSLB",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/7c7f25faa51a125b20b40c19e19256ce.jpg"
+    },
+    {
+        "name": "Neco Insurance Co. Ltd.",
+        "symbol": "NIL",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Nepal Agro Laghubitta Bittiya Sanstha Limited",
+        "symbol": "NAGRO",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/cfdceb5aef17dd9f7ad0d46921fd2cb9.jpg"
+    },
+    {
+        "name": "Nepal Bangladesh Bank Limited",
+        "symbol": "NBB",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/a3e9d7318370e7fbf25462a5fc3b85b1.jpg"
+    },
+    {
+        "name": "Nepal Bank Limited",
+        "symbol": "NBL",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/1f801c152a2bad35340c306237b7054f.jpg"
+    },
+    {
+        "name": "Nepal Bitumin And Barrel Udhyog Limited",
+        "symbol": "NBBU",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Nepal Credit And Commercial Bank Limited",
+        "symbol": "NCCB",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/aa14350e879ba37b5d44545aef0071ec.jpg"
+    },
+    {
+        "name": "Nepal Doorsanchar Comapany Limited",
+        "symbol": "NTC",
+        "category": "Others",
+        "logo": "http://www.nepalstock.com/uploads/images/company/9b8d37c49e239d2d2eb2bc6dec47ac28.jpg"
+    },
+    {
+        "name": "Nepal Film Development Company Limited",
+        "symbol": "NFD",
+        "category": "Others",
+        "logo": ""
+    },
+    {
+        "name": "Nepal Finance Ltd.",
+        "symbol": "NFS",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/2c433b24a75f2d4d4c0224ed7507465d.jpg"
+    },
+    {
+        "name": "Nepal Hydro Developers Ltd.",
+        "symbol": "NHDL",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/899b6e11deb281ae25f8cd5b707673e4.jpg"
+    },
+    {
+        "name": "Nepal Infrastructure Bank Limited",
+        "symbol": "NIFRA",
+        "category": "Investment",
+        "logo": "http://www.nepalstock.com/uploads/images/company/926a15735ae37af0906054ddeb9d48f2.png"
+    },
+    {
+        "name": "Nepal Insurance Co. Ltd.",
+        "symbol": "NICL",
+        "category": "Non Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/03cd984843a70602351689145ec1c5d9.jpg"
+    },
+    {
+        "name": "Nepal Investment Bank Limited",
+        "symbol": "NIB",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Nepal Khadya Udhyog Limited",
+        "symbol": "NKU",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Nepal Life Insurance Co. Ltd.",
+        "symbol": "NLIC",
+        "category": "Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/54155be9a2e328d0bd55393e1645bcbf.jpg"
+    },
+    {
+        "name": "Nepal Lube Oil Limited",
+        "symbol": "NLO",
+        "category": "Manufacturing And Processing",
+        "logo": "http://www.nepalstock.com/uploads/images/company/46b0200a025c28b65ddc9698799cf564.jpg"
+    },
+    {
+        "name": "Nepal Reinsurance Company Limited",
+        "symbol": "NRIC",
+        "category": "Others",
+        "logo": "http://www.nepalstock.com/uploads/images/company/e11a43529f32b219aaa97348ac7a4437.png"
+    },
+    {
+        "name": "Nepal SBI Bank Limited",
+        "symbol": "SBI",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/39a73cd1bbf185b5666a1001071b65f9.png"
+    },
+    {
+        "name": "Nepal Share Markets Ltd.",
+        "symbol": "NSM",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Nepal Tading Limited",
+        "symbol": "NTL",
+        "category": "Tradings",
+        "logo": ""
+    },
+    {
+        "name": "Nepal Vanaspati Ghee Udhyog Limited",
+        "symbol": "NVG",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Nepal Welfare Company Limited",
+        "symbol": "NWC",
+        "category": "Tradings",
+        "logo": ""
+    },
+    {
+        "name": "Nerude Laghubita Bikas Bank Limited",
+        "symbol": "NLBBL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/73eab410b756197e1ccd2e89a12d1296.jpg"
+    },
+    {
+        "name": "Ngadi Group Power Ltd.",
+        "symbol": "NGPL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "NIBL Pragati Fund",
+        "symbol": "NIBLPF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "NIBL Samriddhi Fund -2",
+        "symbol": "NIBSF2",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "NIBL Samriddhi Fund 1",
+        "symbol": "NIBSF1",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "NIC Asia Balanced Fund",
+        "symbol": "NICBF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "NIC Asia Bank Ltd.",
+        "symbol": "NICA",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/31078da74e3bfff017756c6600e05044.PNG"
+    },
+    {
+        "name": "NIC Asia Growth Fund",
+        "symbol": "NICGF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "NIC ASIA Laghubitta Bittiya Sanstha Limited",
+        "symbol": "NICLBSL",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "NIC ASIA Rinpatra 2088",
+        "symbol": "NICD88",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "NIC Asia Select Fund 30",
+        "symbol": "NICSF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "NIDC Development Bank Ltd.",
+        "symbol": "NIDC",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+        "symbol": "NUBL",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "NLG Insurance Company Ltd.",
+        "symbol": "NLG",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "NMB Microfinance Bittiya Sanstha Ltd.",
+        "symbol": "NMBMF",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/02d75339a10293e01bbd31e238000070.jpg"
+    },
+    {
+        "name": "NMB 50",
+        "symbol": "NMB50",
+        "category": "Mutual Fund",
+        "logo": "http://www.nepalstock.com/uploads/images/company/cab9195c755c89197ce870fffd1a1561.png"
+    },
+    {
+        "name": "NMB Bank Limited",
+        "symbol": "NMB",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "NMB Debenture 8.50% - 2087/88",
+        "symbol": "NMBD87/88",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "NMB Energy Bond 4% - 2092/93",
+        "symbol": "NMBEB92/93",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "NMB Hybrid Fund L-1",
+        "symbol": "NMBHF1",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "NRN Infrastructure and Development Limited",
+        "symbol": "NRN",
+        "category": "Investment",
+        "logo": "http://www.nepalstock.com/uploads/images/company/e1df418a902b2996823f658cc8481fff.png"
+    },
+    {
+        "name": "Nyadi Hydropower Limited",
+        "symbol": "NYADI",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/b2d755479d20be3859725da7c2fba945.jpg"
+    },
+    {
+        "name": "Om Development Bank Ltd.",
+        "symbol": "ODBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/f025c396e91d0a1dfd6882226759b913.jpg"
+    },
+    {
+        "name": "Oriental Hotels Limited",
+        "symbol": "OHL",
+        "category": "Hotels",
+        "logo": ""
+    },
+    {
+        "name": "Panchakanya Mai Hydropower Ltd",
+        "symbol": "PMHPL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Panchthar Power Compant Limited",
+        "symbol": "PPCL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Pokhara Finance Ltd.",
+        "symbol": "PFL",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/18073d5fce4eee668dc10ae58917d574.png"
+    },
+    {
+        "name": "Prabhu Bank Limited",
+        "symbol": "PRVU",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Prabhu Insurance Ltd.",
+        "symbol": "PRIN",
+        "category": "Non Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/63a339fb4d1184a73d775ee0bf8b3d00.jpg"
+    },
+    {
+        "name": "Prabhu Life Insurance Limited",
+        "symbol": "PLI",
+        "category": "Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Prabhu Select Fund",
+        "symbol": "PSF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Premier Insurance Co. Ltd.",
+        "symbol": "PIC",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Prime Commercial Bank Ltd.",
+        "symbol": "PCBL",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/f65b7a8ee9e701b58043f837f13cd118.JPG"
+    },
+    {
+        "name": "Prime Life Insurance Company Limited",
+        "symbol": "PLIC",
+        "category": "Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "ProgressiveFinance Limited",
+        "symbol": "PROFL",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/d23c179289f843411d87077ca60046ab.jpg"
+    },
+    {
+        "name": "Prudential Insurance Co. Ltd.",
+        "symbol": "PICL",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Radhi Bidyut Company Ltd",
+        "symbol": "RADHI",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/11d1675d859e607ba51ffbd9b7a26a41.png"
+    },
+    {
+        "name": "Raghupati Jute Mills Limited",
+        "symbol": "RJM",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Rairang Hydropower Development Company Ltd.",
+        "symbol": "RRHP",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Rastriya Beema Company Limited",
+        "symbol": "RBCL",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
+        "symbol": "RHPL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "RBB Mutual Fund 1",
+        "symbol": "RMF1",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Reliance Finance Ltd.",
+        "symbol": "RLFL",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/5f022a33abada25f84add8502a16649e.png"
+    },
+    {
+        "name": "Reliance Life Insurance Limited",
+        "symbol": "RLI",
+        "category": "Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Ridi Hydropower Development Company Ltd.",
+        "symbol": "RHPC",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "RMDC Laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "RMDC",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "RSDC",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/e1a79befe9a9b068946b34997098d5f7.jpg"
+    },
+    {
+        "name": "Ru Ru Jalbidhyut Pariyojana Limited",
+        "symbol": "RURU",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED",
+        "symbol": "SABSL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/ba83c8f307195f78161b5e6de19c7250.jpg"
+    },
+    {
+        "name": "Sadhana Laghubitta Bittiya Sanstha Limited",
+        "symbol": "SDLBSL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/2d645858061248afef3299c3913ab683.png"
+    },
+    {
+        "name": "Sagarmatha Insurance Co. Ltd.",
+        "symbol": "SIC",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Sahara Bikas Bank Ltd.",
+        "symbol": "SHBL",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Sahas Urja Limited",
+        "symbol": "SAHAS",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Sahayogi Bikas Bank Limited",
+        "symbol": "SBBLJ",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Salt Trading Corporation",
+        "symbol": "STC",
+        "category": "Tradings",
+        "logo": ""
+    },
+    {
+        "name": "Samaj Laghubittya Bittiya Sanstha Limited",
+        "symbol": "SAMAJ",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+        "symbol": "SMATA",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/1eae443a433bbb33eb121ea87c225318.jpg"
+    },
+    {
+        "name": "Samjhana Finance Co. Ltd.",
+        "symbol": "SFC",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Samling Power Company Limited",
+        "symbol": "SPC",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/64287cb768da657b55de2acd8e1aa35f.jpg"
+    },
+    {
+        "name": "Samriddhi Finance Company Limited",
+        "symbol": "SFCL",
+        "category": "Finance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/79f0d11440cb8c7e5c37505e71f7dbbd.png"
+    },
+    {
+        "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
+        "symbol": "SLBSL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/a3ad5fa6c505d780cfaea6715e383b12.jpg"
+    },
+    {
+        "name": "Sana Kisan Bikas Bank Ltd",
+        "symbol": "SKBBL",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Sanima Bank Limited",
+        "symbol": "SANIMA",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Sanima Equity Fund",
+        "symbol": "SAEF",
+        "category": "Mutual Fund",
+        "logo": "http://www.nepalstock.com/uploads/images/company/e3363a0173b26181cfd1ec4e4f1e0270.jpg"
+    },
+    {
+        "name": "Sanima General Insurance Limited",
+        "symbol": "SGI",
+        "category": "Non Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/21386c6a0556f8f642d4d22f14a6f87a.png"
+    },
+    {
+        "name": "Sanima Large Cap Fund",
+        "symbol": "SLCF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Sanima Life Insurance Limited",
+        "symbol": "SLI",
+        "category": "Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Sanima Mai Hydropower Ltd.",
+        "symbol": "SHPC",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/93e2b1dfa836cb959fedcead72fdb8d2.jpg"
+    },
+    {
+        "name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
+        "symbol": "SJCL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Saptakoshi Development Bank Ltd",
+        "symbol": "SAPDBL",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Shangri-la Development Bank Debenture 2087",
+        "symbol": "SDBD87",
+        "category": "Corporate Debenture",
+        "logo": ""
+    },
+    {
+        "name": "Shangrila Development Bank Ltd.",
+        "symbol": "SADBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/4db6d2af6db31b95649b33634602521f.gif"
+    },
+    {
+        "name": "Shikhar Insurance Co. Ltd.",
+        "symbol": "SICL",
+        "category": "Non Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Shine Resunga Development Bank Ltd.",
+        "symbol": "SHINE",
+        "category": "Development Banks",
+        "logo": ""
+    },
+    {
+        "name": "Shiva Shree Hydropower Ltd",
+        "symbol": "SSHL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "SHIVAM CEMENTS LTD",
+        "symbol": "SHIVM",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Shree Bhrikuti Pulp And Paper Limited",
+        "symbol": "SBPP",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Shree Investment Finance Co. Ltd.",
+        "symbol": "SIFC",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Shree Ram Sugar Mills Limited",
+        "symbol": "SRS",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Shrijana Finance (Bittaya Sanstha)",
+        "symbol": "SFFIL",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Siddhartha Bank Limited",
+        "symbol": "SBL",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Siddhartha Equity Fund",
+        "symbol": "SEF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Siddhartha Equity Orineted Scheme",
+        "symbol": "SEOS",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Siddhartha Insurance Ltd.",
+        "symbol": "SIL",
+        "category": "Non Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/3e28610372fa651cb62c0e71f8476dc6.png"
+    },
+    {
+        "name": "Siddhartha Investment Growth Scheme - 2",
+        "symbol": "SIGS2",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Sindhu Bikash Bank Ltd",
+        "symbol": "SINDU",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/4598ec3af5ba5ecac5db683d93b47618.gif"
+    },
+    {
+        "name": "Singati Hydro Energy Limited",
+        "symbol": "SHEL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Soaltee Hotel Limited",
+        "symbol": "SHL",
+        "category": "Hotels",
+        "logo": "http://www.nepalstock.com/uploads/images/company/58059287ae8df04e1c407539585a7c91.JPG"
+    },
+    {
+        "name": "Sparsha Laghubitta Bittiya Sanstha Limited",
+        "symbol": "SPARS",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/f5f23b71afb7e98e642e834d5cd9cf43.jpg"
+    },
+    {
+        "name": "Standard Chartered Bank Limited",
+        "symbol": "SCB",
+        "category": "Commercial Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/c4a8f2371440b3dd629801315a85852a.jpg"
+    },
+    {
+        "name": "Summit Laghubitta Bittiya Sanstha Limited",
+        "symbol": "SMFDB",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/6bbb272a476d9b200b7d68aab67b6bbd.jpg"
+    },
+    {
+        "name": "Sunrise Bank Limited",
+        "symbol": "SRBL",
+        "category": "Commercial Banks",
+        "logo": ""
+    },
+    {
+        "name": "Sunrise Bluechip Fund",
+        "symbol": "SBCF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Sunrise First Mutual Fund",
+        "symbol": "SFMF",
+        "category": "Mutual Fund",
+        "logo": ""
+    },
+    {
+        "name": "Support Microfinance Bittiya Sanstha Ltd.",
+        "symbol": "SMB",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/780772d68dbb5dcc914dc8add91dc29a.JPG"
+    },
+    {
+        "name": "Surya Life Insurance Company Limited",
+        "symbol": "SLICL",
+        "category": "Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "SLBS",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+        "symbol": "SWBBL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/b9fe31f1160088f6bb35bcf84c21f079.jpg"
+    },
+    {
+        "name": "Swabhimaan Laghubitta Bittiya Sanstha Limited",
+        "symbol": "SMFBS",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/bfa8b1191d40e39d0a6f315dd7ba867e.jpg"
+    },
+    {
+        "name": "Swadeshi Laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "SDESI",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/38788ba57f221bd56de63cd6bd480fab.jpg"
+    },
+    {
+        "name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
+        "symbol": "SLBBL",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/01bb3b180c1d046213fdc05c063e299d.jpg"
+    },
+    {
+        "name": "Synergy Finance Ltd.",
+        "symbol": "SYFL",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "Synergy Power Development Ltd.",
+        "symbol": "SPDL",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/6b323e01e2c7836e439dcbf62409b37e.jpg"
+    },
+    {
+        "name": "Taragaon Regency Hotel Limited",
+        "symbol": "TRH",
+        "category": "Hotels",
+        "logo": ""
+    },
+    {
+        "name": "Terhathum Power Company Limited",
+        "symbol": "TPC",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/11495100307552648de69e6bd1905d35.JPG"
+    },
+    {
+        "name": "Tinau Mission Development Bank Limited",
+        "symbol": "TMDBL",
+        "category": "Development Banks",
+        "logo": "http://www.nepalstock.com/uploads/images/company/44625be0e95737a3f3e116c0098c2f8d.png"
+    },
+    {
+        "name": "Unilever Nepal Limited",
+        "symbol": "UNL",
+        "category": "Manufacturing And Processing",
+        "logo": ""
+    },
+    {
+        "name": "Union Hydropower Limited",
+        "symbol": "UNHPL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Union Life Insurance Company Limited",
+        "symbol": "ULI",
+        "category": "Life Insurance",
+        "logo": ""
+    },
+    {
+        "name": "United Finance Ltd.",
+        "symbol": "UFL",
+        "category": "Finance",
+        "logo": ""
+    },
+    {
+        "name": "United IDI Mardi RB Hydropower Limited.",
+        "symbol": "UMRH",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "United Insurance Co. (Nepal) Ltd.",
+        "symbol": "UIC",
+        "category": "Non Life Insurance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/bc8935d3f24471f491c020cd7c48afb2.jpg"
+    },
+    {
+        "name": "United Modi Hydropower Ltd.",
+        "symbol": "UMHL",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/06d26ff5daf3e416239ee90aac0fbe86.jpg"
+    },
+    {
+        "name": "UNIVERSAL POWER COMPANY LTD",
+        "symbol": "UPCL",
+        "category": "Hydro Power",
+        "logo": ""
+    },
+    {
+        "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+        "symbol": "USLB",
+        "category": "Microfinance",
+        "logo": ""
+    },
+    {
+        "name": "Upper Tamakoshi Hydropower Ltd",
+        "symbol": "UPPER",
+        "category": "Hydro Power",
+        "logo": "http://www.nepalstock.com/uploads/images/company/a4536cbcc9e694bdd3c0d06aefd0f88b.jpg"
+    },
+    {
+        "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+        "symbol": "VLBS",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/7b207a33e0677f0b6cac3e931085ebb3.jpg"
+    },
+    {
+        "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
+        "symbol": "WNLB",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/8a59aec9f5362390428059b155de9161.jpg"
+    },
+    {
+        "name": "Womi Microfinance Bittiya Sanstha Ltd.",
+        "symbol": "WOMI",
+        "category": "Microfinance",
+        "logo": "http://www.nepalstock.com/uploads/images/company/7055a2ccb42bcd9b004fbb37b005974d.jpg"
+    },
+    {
+        "name": "Yak And Yeti Hotel Limited",
+        "symbol": "YHL",
+        "category": "Hotels",
+        "logo": ""
+    }
+]
