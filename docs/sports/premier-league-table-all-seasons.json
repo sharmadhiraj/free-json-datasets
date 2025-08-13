@@ -1,14 +1,13 @@
 {
   "title": "Premier League Tables",
   "subtitle": "Season-by-season league tables from 1992/93 to 2024/2025",
-  "updated_at": "August 13, 2025 02:27 PM UTC",
+  "updated_at": "August 13, 2025 02:31 PM UTC",
   "data": [
     {
       "season": "Season 2024/2025",
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -39,7 +38,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -70,7 +68,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -101,7 +98,6 @@
         },
         {
           "position": 4,
-          "starting_position": 5,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -132,7 +128,6 @@
         },
         {
           "position": 5,
-          "starting_position": 4,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -163,7 +158,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -194,7 +188,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Nottingham Forest",
           "short_name": "Nott'm Forest",
           "abbr": "NFO",
@@ -225,7 +218,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Brighton and Hove Albion",
           "short_name": "Brighton",
           "abbr": "BHA",
@@ -256,7 +248,6 @@
         },
         {
           "position": 9,
-          "starting_position": 11,
           "team_name": "Bournemouth",
           "short_name": "Bournemouth",
           "abbr": "BOU",
@@ -287,7 +278,6 @@
         },
         {
           "position": 10,
-          "starting_position": 9,
           "team_name": "Brentford",
           "short_name": "Brentford",
           "abbr": "BRE",
@@ -318,7 +308,6 @@
         },
         {
           "position": 11,
-          "starting_position": 10,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -349,7 +338,6 @@
         },
         {
           "position": 12,
-          "starting_position": 12,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -380,7 +368,6 @@
         },
         {
           "position": 13,
-          "starting_position": 13,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -411,7 +398,6 @@
         },
         {
           "position": 14,
-          "starting_position": 15,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -442,7 +428,6 @@
         },
         {
           "position": 15,
-          "starting_position": 16,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -473,7 +458,6 @@
         },
         {
           "position": 16,
-          "starting_position": 14,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -504,7 +488,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -535,7 +518,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -566,7 +548,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Ipswich Town",
           "short_name": "Ipswich",
           "abbr": "IPS",
@@ -597,7 +578,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -633,7 +613,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 2,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -664,7 +643,6 @@
         },
         {
           "position": 2,
-          "starting_position": 1,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -695,7 +673,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -726,7 +703,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -757,7 +733,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -788,7 +763,6 @@
         },
         {
           "position": 6,
-          "starting_position": 7,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -819,7 +793,6 @@
         },
         {
           "position": 7,
-          "starting_position": 6,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -850,7 +823,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -881,7 +853,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -912,7 +883,6 @@
         },
         {
           "position": 10,
-          "starting_position": 12,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -943,7 +913,6 @@
         },
         {
           "position": 11,
-          "starting_position": 10,
           "team_name": "Brighton and Hove Albion",
           "short_name": "Brighton",
           "abbr": "BHA",
@@ -974,7 +943,6 @@
         },
         {
           "position": 12,
-          "starting_position": 11,
           "team_name": "Bournemouth",
           "short_name": "Bournemouth",
           "abbr": "BOU",
@@ -1005,7 +973,6 @@
         },
         {
           "position": 13,
-          "starting_position": 14,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -1036,7 +1003,6 @@
         },
         {
           "position": 14,
-          "starting_position": 13,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -1067,7 +1033,6 @@
         },
         {
           "position": 15,
-          "starting_position": 15,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -1098,7 +1063,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Brentford",
           "short_name": "Brentford",
           "abbr": "BRE",
@@ -1129,7 +1093,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Nottingham Forest",
           "short_name": "Nott'm Forest",
           "abbr": "NFO",
@@ -1160,7 +1123,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Luton Town",
           "short_name": "Luton",
           "abbr": "LUT",
@@ -1191,7 +1153,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Burnley",
           "short_name": "Burnley",
           "abbr": "BUR",
@@ -1222,7 +1183,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Sheffield United",
           "short_name": "Sheff Utd",
           "abbr": "SHU",
@@ -1258,7 +1218,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -1289,7 +1248,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -1320,7 +1278,6 @@
         },
         {
           "position": 3,
-          "starting_position": 4,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -1351,7 +1308,6 @@
         },
         {
           "position": 4,
-          "starting_position": 3,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -1382,7 +1338,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -1413,7 +1368,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Brighton and Hove Albion",
           "short_name": "Brighton",
           "abbr": "BHA",
@@ -1444,7 +1398,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -1475,7 +1428,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -1506,7 +1458,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "Brentford",
           "short_name": "Brentford",
           "abbr": "BRE",
@@ -1537,7 +1488,6 @@
         },
         {
           "position": 10,
-          "starting_position": 10,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -1568,7 +1518,6 @@
         },
         {
           "position": 11,
-          "starting_position": 11,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -1599,7 +1548,6 @@
         },
         {
           "position": 12,
-          "starting_position": 12,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -1630,7 +1578,6 @@
         },
         {
           "position": 13,
-          "starting_position": 13,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -1661,7 +1608,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -1692,7 +1638,6 @@
         },
         {
           "position": 15,
-          "starting_position": 15,
           "team_name": "Bournemouth",
           "short_name": "Bournemouth",
           "abbr": "BOU",
@@ -1723,7 +1668,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Nottingham Forest",
           "short_name": "Nott'm Forest",
           "abbr": "NFO",
@@ -1754,7 +1698,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -1785,7 +1728,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -1816,7 +1758,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -1847,7 +1788,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -1883,7 +1823,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -1914,7 +1853,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -1945,7 +1883,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -1976,7 +1913,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -2007,7 +1943,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -2038,7 +1973,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -2069,7 +2003,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -2100,7 +2033,6 @@
         },
         {
           "position": 8,
-          "starting_position": 9,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -2131,7 +2063,6 @@
         },
         {
           "position": 9,
-          "starting_position": 10,
           "team_name": "Brighton and Hove Albion",
           "short_name": "Brighton",
           "abbr": "BHA",
@@ -2162,7 +2093,6 @@
         },
         {
           "position": 10,
-          "starting_position": 8,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -2193,7 +2123,6 @@
         },
         {
           "position": 11,
-          "starting_position": 12,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -2224,7 +2153,6 @@
         },
         {
           "position": 12,
-          "starting_position": 13,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -2255,7 +2183,6 @@
         },
         {
           "position": 13,
-          "starting_position": 11,
           "team_name": "Brentford",
           "short_name": "Brentford",
           "abbr": "BRE",
@@ -2286,7 +2213,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -2317,7 +2243,6 @@
         },
         {
           "position": 15,
-          "starting_position": 15,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -2348,7 +2273,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -2379,7 +2303,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -2410,7 +2333,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Burnley",
           "short_name": "Burnley",
           "abbr": "BUR",
@@ -2441,7 +2363,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Watford",
           "short_name": "Watford",
           "abbr": "WAT",
@@ -2472,7 +2393,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -2508,7 +2428,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -2539,7 +2458,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -2570,7 +2488,6 @@
         },
         {
           "position": 3,
-          "starting_position": 4,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -2601,7 +2518,6 @@
         },
         {
           "position": 4,
-          "starting_position": 3,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -2632,7 +2548,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -2663,7 +2578,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -2694,7 +2608,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -2725,7 +2638,6 @@
         },
         {
           "position": 8,
-          "starting_position": 9,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -2756,7 +2668,6 @@
         },
         {
           "position": 9,
-          "starting_position": 10,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -2787,7 +2698,6 @@
         },
         {
           "position": 10,
-          "starting_position": 8,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -2818,7 +2728,6 @@
         },
         {
           "position": 11,
-          "starting_position": 11,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -2849,7 +2758,6 @@
         },
         {
           "position": 12,
-          "starting_position": 15,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -2880,7 +2788,6 @@
         },
         {
           "position": 13,
-          "starting_position": 12,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -2911,7 +2818,6 @@
         },
         {
           "position": 14,
-          "starting_position": 13,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -2942,7 +2848,6 @@
         },
         {
           "position": 15,
-          "starting_position": 14,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -2973,7 +2878,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Brighton and Hove Albion",
           "short_name": "Brighton",
           "abbr": "BHA",
@@ -3004,7 +2908,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Burnley",
           "short_name": "Burnley",
           "abbr": "BUR",
@@ -3035,7 +2938,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -3066,7 +2968,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -3097,7 +2998,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Sheffield United",
           "short_name": "Sheff Utd",
           "abbr": "SHU",
@@ -3133,7 +3033,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -3164,7 +3063,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -3195,7 +3093,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -3226,7 +3123,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -3257,7 +3153,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -3288,7 +3183,6 @@
         },
         {
           "position": 6,
-          "starting_position": 7,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -3319,7 +3213,6 @@
         },
         {
           "position": 7,
-          "starting_position": 6,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -3350,7 +3243,6 @@
         },
         {
           "position": 8,
-          "starting_position": 10,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -3381,7 +3273,6 @@
         },
         {
           "position": 9,
-          "starting_position": 8,
           "team_name": "Sheffield United",
           "short_name": "Sheff Utd",
           "abbr": "SHU",
@@ -3412,7 +3303,6 @@
         },
         {
           "position": 10,
-          "starting_position": 9,
           "team_name": "Burnley",
           "short_name": "Burnley",
           "abbr": "BUR",
@@ -3443,7 +3333,6 @@
         },
         {
           "position": 11,
-          "starting_position": 12,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -3474,7 +3363,6 @@
         },
         {
           "position": 12,
-          "starting_position": 11,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -3505,7 +3393,6 @@
         },
         {
           "position": 13,
-          "starting_position": 13,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -3536,7 +3423,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -3567,7 +3453,6 @@
         },
         {
           "position": 15,
-          "starting_position": 16,
           "team_name": "Brighton and Hove Albion",
           "short_name": "Brighton",
           "abbr": "BHA",
@@ -3598,7 +3483,6 @@
         },
         {
           "position": 16,
-          "starting_position": 15,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -3629,7 +3513,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -3660,7 +3543,6 @@
         },
         {
           "position": 18,
-          "starting_position": 19,
           "team_name": "Bournemouth",
           "short_name": "Bournemouth",
           "abbr": "BOU",
@@ -3691,7 +3573,6 @@
         },
         {
           "position": 19,
-          "starting_position": 18,
           "team_name": "Watford",
           "short_name": "Watford",
           "abbr": "WAT",
@@ -3722,7 +3603,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -3758,7 +3638,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -3789,7 +3668,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -3820,7 +3698,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -3851,7 +3728,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -3882,7 +3758,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -3913,7 +3788,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -3944,7 +3818,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -3975,7 +3848,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -4006,7 +3878,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -4037,7 +3908,6 @@
         },
         {
           "position": 10,
-          "starting_position": 11,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -4068,7 +3938,6 @@
         },
         {
           "position": 11,
-          "starting_position": 10,
           "team_name": "Watford",
           "short_name": "Watford",
           "abbr": "WAT",
@@ -4099,7 +3968,6 @@
         },
         {
           "position": 12,
-          "starting_position": 12,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -4130,7 +3998,6 @@
         },
         {
           "position": 13,
-          "starting_position": 14,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -4161,7 +4028,6 @@
         },
         {
           "position": 14,
-          "starting_position": 13,
           "team_name": "Bournemouth",
           "short_name": "Bournemouth",
           "abbr": "BOU",
@@ -4192,7 +4058,6 @@
         },
         {
           "position": 15,
-          "starting_position": 15,
           "team_name": "Burnley",
           "short_name": "Burnley",
           "abbr": "BUR",
@@ -4223,7 +4088,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -4254,7 +4118,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Brighton and Hove Albion",
           "short_name": "Brighton",
           "abbr": "BHA",
@@ -4285,7 +4148,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Cardiff City",
           "short_name": "Cardiff",
           "abbr": "CAR",
@@ -4316,7 +4178,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -4347,7 +4208,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Huddersfield Town",
           "short_name": "Huddersfield",
           "abbr": "HUD",
@@ -4383,7 +4243,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -4414,7 +4273,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -4445,7 +4303,6 @@
         },
         {
           "position": 3,
-          "starting_position": 4,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -4476,7 +4333,6 @@
         },
         {
           "position": 4,
-          "starting_position": 3,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -4507,7 +4363,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -4538,7 +4393,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -4569,7 +4423,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Burnley",
           "short_name": "Burnley",
           "abbr": "BUR",
@@ -4600,7 +4453,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -4631,7 +4483,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -4662,7 +4513,6 @@
         },
         {
           "position": 10,
-          "starting_position": 10,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -4693,7 +4543,6 @@
         },
         {
           "position": 11,
-          "starting_position": 11,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -4724,7 +4573,6 @@
         },
         {
           "position": 12,
-          "starting_position": 12,
           "team_name": "Bournemouth",
           "short_name": "Bournemouth",
           "abbr": "BOU",
@@ -4755,7 +4603,6 @@
         },
         {
           "position": 13,
-          "starting_position": 15,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -4786,7 +4633,6 @@
         },
         {
           "position": 14,
-          "starting_position": 13,
           "team_name": "Watford",
           "short_name": "Watford",
           "abbr": "WAT",
@@ -4817,7 +4663,6 @@
         },
         {
           "position": 15,
-          "starting_position": 14,
           "team_name": "Brighton and Hove Albion",
           "short_name": "Brighton",
           "abbr": "BHA",
@@ -4848,7 +4693,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Huddersfield Town",
           "short_name": "Huddersfield",
           "abbr": "HUD",
@@ -4879,7 +4723,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -4910,7 +4753,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Swansea City",
           "short_name": "Swansea",
           "abbr": "SWA",
@@ -4941,7 +4783,6 @@
         },
         {
           "position": 19,
-          "starting_position": 20,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -4972,7 +4813,6 @@
         },
         {
           "position": 20,
-          "starting_position": 19,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -5008,7 +4848,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -5039,7 +4878,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -5070,7 +4908,6 @@
         },
         {
           "position": 3,
-          "starting_position": 4,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -5101,7 +4938,6 @@
         },
         {
           "position": 4,
-          "starting_position": 3,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -5132,7 +4968,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -5163,7 +4998,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -5194,7 +5028,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -5225,7 +5058,6 @@
         },
         {
           "position": 8,
-          "starting_position": 9,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -5256,7 +5088,6 @@
         },
         {
           "position": 9,
-          "starting_position": 10,
           "team_name": "Bournemouth",
           "short_name": "Bournemouth",
           "abbr": "BOU",
@@ -5287,7 +5118,6 @@
         },
         {
           "position": 10,
-          "starting_position": 8,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -5318,7 +5148,6 @@
         },
         {
           "position": 11,
-          "starting_position": 12,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -5349,7 +5178,6 @@
         },
         {
           "position": 12,
-          "starting_position": 11,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -5380,7 +5208,6 @@
         },
         {
           "position": 13,
-          "starting_position": 14,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -5411,7 +5238,6 @@
         },
         {
           "position": 14,
-          "starting_position": 13,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -5442,7 +5268,6 @@
         },
         {
           "position": 15,
-          "starting_position": 17,
           "team_name": "Swansea City",
           "short_name": "Swansea",
           "abbr": "SWA",
@@ -5473,7 +5298,6 @@
         },
         {
           "position": 16,
-          "starting_position": 15,
           "team_name": "Burnley",
           "short_name": "Burnley",
           "abbr": "BUR",
@@ -5504,7 +5328,6 @@
         },
         {
           "position": 17,
-          "starting_position": 16,
           "team_name": "Watford",
           "short_name": "Watford",
           "abbr": "WAT",
@@ -5535,7 +5358,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Hull City",
           "short_name": "Hull",
           "abbr": "HUL",
@@ -5566,7 +5388,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -5597,7 +5418,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -5633,7 +5453,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -5664,7 +5483,6 @@
         },
         {
           "position": 2,
-          "starting_position": 3,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -5695,7 +5513,6 @@
         },
         {
           "position": 3,
-          "starting_position": 2,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -5726,7 +5543,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -5757,7 +5573,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -5788,7 +5603,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -5819,7 +5633,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -5850,7 +5663,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -5881,7 +5693,6 @@
         },
         {
           "position": 9,
-          "starting_position": 10,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -5912,7 +5723,6 @@
         },
         {
           "position": 10,
-          "starting_position": 9,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -5943,7 +5753,6 @@
         },
         {
           "position": 11,
-          "starting_position": 12,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -5974,7 +5783,6 @@
         },
         {
           "position": 12,
-          "starting_position": 11,
           "team_name": "Swansea City",
           "short_name": "Swansea",
           "abbr": "SWA",
@@ -6005,7 +5813,6 @@
         },
         {
           "position": 13,
-          "starting_position": 13,
           "team_name": "Watford",
           "short_name": "Watford",
           "abbr": "WAT",
@@ -6036,7 +5843,6 @@
         },
         {
           "position": 14,
-          "starting_position": 15,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -6067,7 +5873,6 @@
         },
         {
           "position": 15,
-          "starting_position": 14,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -6098,7 +5903,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Bournemouth",
           "short_name": "Bournemouth",
           "abbr": "BOU",
@@ -6129,7 +5933,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -6160,7 +5963,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -6191,7 +5993,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -6222,7 +6023,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -6258,7 +6058,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -6289,7 +6088,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -6320,7 +6118,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -6351,7 +6148,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -6382,7 +6178,6 @@
         },
         {
           "position": 5,
-          "starting_position": 6,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -6413,7 +6208,6 @@
         },
         {
           "position": 6,
-          "starting_position": 5,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -6444,7 +6238,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -6475,7 +6268,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Swansea City",
           "short_name": "Swansea",
           "abbr": "SWA",
@@ -6506,7 +6298,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -6537,7 +6328,6 @@
         },
         {
           "position": 10,
-          "starting_position": 12,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -6568,7 +6358,6 @@
         },
         {
           "position": 11,
-          "starting_position": 10,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -6599,7 +6388,6 @@
         },
         {
           "position": 12,
-          "starting_position": 11,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -6630,7 +6418,6 @@
         },
         {
           "position": 13,
-          "starting_position": 13,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -6661,7 +6448,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -6692,7 +6478,6 @@
         },
         {
           "position": 15,
-          "starting_position": 17,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -6723,7 +6508,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -6754,7 +6538,6 @@
         },
         {
           "position": 17,
-          "starting_position": 15,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -6785,7 +6568,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Hull City",
           "short_name": "Hull",
           "abbr": "HUL",
@@ -6816,7 +6598,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Burnley",
           "short_name": "Burnley",
           "abbr": "BUR",
@@ -6847,7 +6628,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Queens Park Rangers",
           "short_name": "QPR",
           "abbr": "QPR",
@@ -6883,7 +6663,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -6914,7 +6693,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -6945,7 +6723,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -6976,7 +6753,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -7007,7 +6783,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -7038,7 +6813,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -7069,7 +6843,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -7100,7 +6873,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -7131,7 +6903,6 @@
         },
         {
           "position": 9,
-          "starting_position": 10,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -7162,7 +6933,6 @@
         },
         {
           "position": 10,
-          "starting_position": 9,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -7193,7 +6963,6 @@
         },
         {
           "position": 11,
-          "starting_position": 11,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -7224,7 +6993,6 @@
         },
         {
           "position": 12,
-          "starting_position": 13,
           "team_name": "Swansea City",
           "short_name": "Swansea",
           "abbr": "SWA",
@@ -7255,7 +7023,6 @@
         },
         {
           "position": 13,
-          "starting_position": 12,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -7286,7 +7053,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -7317,7 +7083,6 @@
         },
         {
           "position": 15,
-          "starting_position": 15,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -7348,7 +7113,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Hull City",
           "short_name": "Hull",
           "abbr": "HUL",
@@ -7379,7 +7143,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -7410,7 +7173,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -7441,7 +7203,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -7472,7 +7233,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Cardiff City",
           "short_name": "Cardiff",
           "abbr": "CAR",
@@ -7508,7 +7268,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -7539,7 +7298,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -7570,7 +7328,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -7601,7 +7358,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -7632,7 +7388,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -7663,7 +7418,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -7694,7 +7448,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -7725,7 +7478,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -7756,7 +7508,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "Swansea City",
           "short_name": "Swansea",
           "abbr": "SWA",
@@ -7787,7 +7538,6 @@
         },
         {
           "position": 10,
-          "starting_position": 10,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -7818,7 +7568,6 @@
         },
         {
           "position": 11,
-          "starting_position": 12,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -7849,7 +7598,6 @@
         },
         {
           "position": 12,
-          "starting_position": 15,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -7880,7 +7628,6 @@
         },
         {
           "position": 13,
-          "starting_position": 11,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -7911,7 +7658,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -7942,7 +7688,6 @@
         },
         {
           "position": 15,
-          "starting_position": 16,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -7973,7 +7718,6 @@
         },
         {
           "position": 16,
-          "starting_position": 13,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -8004,7 +7748,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -8035,7 +7778,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Wigan Athletic",
           "short_name": "Wigan",
           "abbr": "WIG",
@@ -8066,7 +7808,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Reading",
           "short_name": "Reading",
           "abbr": "REA",
@@ -8097,7 +7838,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Queens Park Rangers",
           "short_name": "QPR",
           "abbr": "QPR",
@@ -8133,7 +7873,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -8164,7 +7903,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -8195,7 +7933,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -8226,7 +7963,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -8257,7 +7993,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -8288,7 +8023,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -8319,7 +8053,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -8350,7 +8083,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -8381,7 +8113,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -8412,7 +8143,6 @@
         },
         {
           "position": 10,
-          "starting_position": 10,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -8443,7 +8173,6 @@
         },
         {
           "position": 11,
-          "starting_position": 12,
           "team_name": "Swansea City",
           "short_name": "Swansea",
           "abbr": "SWA",
@@ -8474,7 +8203,6 @@
         },
         {
           "position": 12,
-          "starting_position": 13,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -8505,7 +8233,6 @@
         },
         {
           "position": 13,
-          "starting_position": 11,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -8536,7 +8263,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -8567,7 +8293,6 @@
         },
         {
           "position": 15,
-          "starting_position": 15,
           "team_name": "Wigan Athletic",
           "short_name": "Wigan",
           "abbr": "WIG",
@@ -8598,7 +8323,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -8629,7 +8353,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Queens Park Rangers",
           "short_name": "QPR",
           "abbr": "QPR",
@@ -8660,7 +8383,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -8691,7 +8413,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -8722,7 +8443,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -8758,7 +8478,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -8789,7 +8508,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -8820,7 +8538,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -8851,7 +8568,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -8882,7 +8598,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -8913,7 +8628,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -8944,7 +8658,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -8975,7 +8688,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -9006,7 +8718,6 @@
         },
         {
           "position": 9,
-          "starting_position": 13,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -9037,7 +8748,6 @@
         },
         {
           "position": 10,
-          "starting_position": 14,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -9068,7 +8778,6 @@
         },
         {
           "position": 11,
-          "starting_position": 11,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -9099,7 +8808,6 @@
         },
         {
           "position": 12,
-          "starting_position": 12,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -9130,7 +8838,6 @@
         },
         {
           "position": 13,
-          "starting_position": 9,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -9161,7 +8868,6 @@
         },
         {
           "position": 14,
-          "starting_position": 10,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -9192,7 +8898,6 @@
         },
         {
           "position": 15,
-          "starting_position": 15,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -9223,7 +8928,6 @@
         },
         {
           "position": 16,
-          "starting_position": 19,
           "team_name": "Wigan Athletic",
           "short_name": "Wigan",
           "abbr": "WIG",
@@ -9254,7 +8958,6 @@
         },
         {
           "position": 17,
-          "starting_position": 16,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -9285,7 +8988,6 @@
         },
         {
           "position": 18,
-          "starting_position": 17,
           "team_name": "Birmingham City",
           "short_name": "Birmingham",
           "abbr": "BIR",
@@ -9316,7 +9018,6 @@
         },
         {
           "position": 19,
-          "starting_position": 18,
           "team_name": "Blackpool",
           "short_name": "Blackpool",
           "abbr": "BPL",
@@ -9347,7 +9048,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -9383,7 +9083,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -9414,7 +9113,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -9445,7 +9143,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -9476,7 +9173,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -9507,7 +9203,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -9538,7 +9233,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -9569,7 +9263,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -9600,7 +9293,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -9631,7 +9323,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "Birmingham City",
           "short_name": "Birmingham",
           "abbr": "BIR",
@@ -9662,7 +9353,6 @@
         },
         {
           "position": 10,
-          "starting_position": 10,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -9693,7 +9383,6 @@
         },
         {
           "position": 11,
-          "starting_position": 13,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -9724,7 +9413,6 @@
         },
         {
           "position": 12,
-          "starting_position": 11,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -9755,7 +9443,6 @@
         },
         {
           "position": 13,
-          "starting_position": 12,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -9786,7 +9473,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -9817,7 +9503,6 @@
         },
         {
           "position": 15,
-          "starting_position": 16,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -9848,7 +9533,6 @@
         },
         {
           "position": 16,
-          "starting_position": 15,
           "team_name": "Wigan Athletic",
           "short_name": "Wigan",
           "abbr": "WIG",
@@ -9879,7 +9563,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -9910,7 +9593,6 @@
         },
         {
           "position": 18,
-          "starting_position": 19,
           "team_name": "Burnley",
           "short_name": "Burnley",
           "abbr": "BUR",
@@ -9941,7 +9623,6 @@
         },
         {
           "position": 19,
-          "starting_position": 18,
           "team_name": "Hull City",
           "short_name": "Hull",
           "abbr": "HUL",
@@ -9972,7 +9653,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Portsmouth",
           "short_name": "Portsmouth",
           "abbr": "POR",
@@ -10008,7 +9688,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -10039,7 +9718,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -10070,7 +9748,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -10101,7 +9778,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -10132,7 +9808,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -10163,7 +9838,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -10194,7 +9868,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -10225,7 +9898,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -10256,7 +9928,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -10287,7 +9958,6 @@
         },
         {
           "position": 10,
-          "starting_position": 10,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -10318,7 +9988,6 @@
         },
         {
           "position": 11,
-          "starting_position": 12,
           "team_name": "Wigan Athletic",
           "short_name": "Wigan",
           "abbr": "WIG",
@@ -10349,7 +10018,6 @@
         },
         {
           "position": 12,
-          "starting_position": 11,
           "team_name": "Stoke City",
           "short_name": "Stoke",
           "abbr": "STO",
@@ -10380,7 +10048,6 @@
         },
         {
           "position": 13,
-          "starting_position": 13,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -10411,7 +10078,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "Portsmouth",
           "short_name": "Portsmouth",
           "abbr": "POR",
@@ -10442,7 +10108,6 @@
         },
         {
           "position": 15,
-          "starting_position": 15,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -10473,7 +10138,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -10504,7 +10168,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Hull City",
           "short_name": "Hull",
           "abbr": "HUL",
@@ -10535,7 +10198,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -10566,7 +10228,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -10597,7 +10258,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -10633,7 +10293,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -10664,7 +10323,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -10695,7 +10353,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -10726,7 +10383,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -10757,7 +10413,6 @@
         },
         {
           "position": 5,
-          "starting_position": 5,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -10788,7 +10443,6 @@
         },
         {
           "position": 6,
-          "starting_position": 6,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -10819,7 +10473,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -10850,7 +10503,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Portsmouth",
           "short_name": "Portsmouth",
           "abbr": "POR",
@@ -10881,7 +10533,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -10912,7 +10563,6 @@
         },
         {
           "position": 10,
-          "starting_position": 10,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -10943,7 +10593,6 @@
         },
         {
           "position": 11,
-          "starting_position": 11,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -10974,7 +10623,6 @@
         },
         {
           "position": 12,
-          "starting_position": 12,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -11005,7 +10653,6 @@
         },
         {
           "position": 13,
-          "starting_position": 14,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -11036,7 +10683,6 @@
         },
         {
           "position": 14,
-          "starting_position": 13,
           "team_name": "Wigan Athletic",
           "short_name": "Wigan",
           "abbr": "WIG",
@@ -11067,7 +10713,6 @@
         },
         {
           "position": 15,
-          "starting_position": 15,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -11098,7 +10743,6 @@
         },
         {
           "position": 16,
-          "starting_position": 16,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -11129,7 +10773,6 @@
         },
         {
           "position": 17,
-          "starting_position": 17,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -11160,7 +10803,6 @@
         },
         {
           "position": 18,
-          "starting_position": 18,
           "team_name": "Reading",
           "short_name": "Reading",
           "abbr": "REA",
@@ -11191,7 +10833,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Birmingham City",
           "short_name": "Birmingham",
           "abbr": "BIR",
@@ -11222,7 +10863,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Derby County",
           "short_name": "Derby",
           "abbr": "DER",
@@ -11258,7 +10898,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 1,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -11289,7 +10928,6 @@
         },
         {
           "position": 2,
-          "starting_position": 2,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -11320,7 +10958,6 @@
         },
         {
           "position": 3,
-          "starting_position": 3,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -11351,7 +10988,6 @@
         },
         {
           "position": 4,
-          "starting_position": 4,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -11382,7 +11018,6 @@
         },
         {
           "position": 5,
-          "starting_position": 6,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -11413,7 +11048,6 @@
         },
         {
           "position": 6,
-          "starting_position": 5,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -11444,7 +11078,6 @@
         },
         {
           "position": 7,
-          "starting_position": 7,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -11475,7 +11108,6 @@
         },
         {
           "position": 8,
-          "starting_position": 8,
           "team_name": "Reading",
           "short_name": "Reading",
           "abbr": "REA",
@@ -11506,7 +11138,6 @@
         },
         {
           "position": 9,
-          "starting_position": 9,
           "team_name": "Portsmouth",
           "short_name": "Portsmouth",
           "abbr": "POR",
@@ -11537,7 +11168,6 @@
         },
         {
           "position": 10,
-          "starting_position": 10,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -11568,7 +11198,6 @@
         },
         {
           "position": 11,
-          "starting_position": 11,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -11599,7 +11228,6 @@
         },
         {
           "position": 12,
-          "starting_position": 12,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -11630,7 +11258,6 @@
         },
         {
           "position": 13,
-          "starting_position": 13,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -11661,7 +11288,6 @@
         },
         {
           "position": 14,
-          "starting_position": 14,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -11692,7 +11318,6 @@
         },
         {
           "position": 15,
-          "starting_position": 17,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -11723,7 +11348,6 @@
         },
         {
           "position": 16,
-          "starting_position": 15,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -11754,7 +11378,6 @@
         },
         {
           "position": 17,
-          "starting_position": 18,
           "team_name": "Wigan Athletic",
           "short_name": "Wigan",
           "abbr": "WIG",
@@ -11785,7 +11408,6 @@
         },
         {
           "position": 18,
-          "starting_position": 16,
           "team_name": "Sheffield United",
           "short_name": "Sheff Utd",
           "abbr": "SHU",
@@ -11816,7 +11438,6 @@
         },
         {
           "position": 19,
-          "starting_position": 19,
           "team_name": "Charlton Athletic",
           "short_name": "Charlton",
           "abbr": "CHA",
@@ -11847,7 +11468,6 @@
         },
         {
           "position": 20,
-          "starting_position": 20,
           "team_name": "Watford",
           "short_name": "Watford",
           "abbr": "WAT",
@@ -11883,7 +11503,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -11914,7 +11533,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -11945,7 +11563,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -11976,7 +11593,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -12007,7 +11623,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -12038,7 +11653,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -12069,7 +11683,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -12100,7 +11713,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -12131,7 +11743,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -12162,7 +11773,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Wigan Athletic",
           "short_name": "Wigan",
           "abbr": "WIG",
@@ -12193,7 +11803,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -12224,7 +11833,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -12255,7 +11863,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Charlton Athletic",
           "short_name": "Charlton",
           "abbr": "CHA",
@@ -12286,7 +11893,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -12317,7 +11923,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -12348,7 +11953,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -12379,7 +11983,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Portsmouth",
           "short_name": "Portsmouth",
           "abbr": "POR",
@@ -12410,7 +12013,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Birmingham City",
           "short_name": "Birmingham",
           "abbr": "BIR",
@@ -12441,7 +12043,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -12472,7 +12073,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -12508,7 +12108,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -12539,7 +12138,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -12570,7 +12168,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -12601,7 +12198,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -12632,7 +12228,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -12663,7 +12258,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -12694,7 +12288,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -12725,7 +12318,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -12756,7 +12348,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -12787,7 +12378,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -12818,7 +12408,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Charlton Athletic",
           "short_name": "Charlton",
           "abbr": "CHA",
@@ -12849,7 +12438,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Birmingham City",
           "short_name": "Birmingham",
           "abbr": "BIR",
@@ -12880,7 +12468,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -12911,7 +12498,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -12942,7 +12528,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -12973,7 +12558,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Portsmouth",
           "short_name": "Portsmouth",
           "abbr": "POR",
@@ -13004,7 +12588,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -13035,7 +12618,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -13066,7 +12648,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -13097,7 +12678,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -13133,7 +12713,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -13164,7 +12743,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -13195,7 +12773,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -13226,7 +12803,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -13257,7 +12833,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -13288,7 +12863,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -13319,7 +12893,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Charlton Athletic",
           "short_name": "Charlton",
           "abbr": "CHA",
@@ -13350,7 +12923,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -13381,7 +12953,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -13412,7 +12983,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Birmingham City",
           "short_name": "Birmingham",
           "abbr": "BIR",
@@ -13443,7 +13013,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -13474,7 +13043,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -13505,7 +13073,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Portsmouth",
           "short_name": "Portsmouth",
           "abbr": "POR",
@@ -13536,7 +13103,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -13567,7 +13133,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -13598,7 +13163,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -13629,7 +13193,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -13660,7 +13223,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -13691,7 +13253,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -13722,7 +13283,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Wolverhampton Wanderers",
           "short_name": "Wolves",
           "abbr": "WOL",
@@ -13758,7 +13318,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -13789,7 +13348,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -13820,7 +13378,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -13851,7 +13408,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -13882,7 +13438,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -13913,7 +13468,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -13944,7 +13498,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -13975,7 +13528,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -14006,7 +13558,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -14037,7 +13588,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -14068,7 +13618,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -14099,7 +13648,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Charlton Athletic",
           "short_name": "Charlton",
           "abbr": "CHA",
@@ -14130,7 +13678,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Birmingham City",
           "short_name": "Birmingham",
           "abbr": "BIR",
@@ -14161,7 +13708,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -14192,7 +13738,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -14223,7 +13768,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -14254,7 +13798,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -14285,7 +13828,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -14316,7 +13858,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "West Bromwich Albion",
           "short_name": "West Brom",
           "abbr": "WBA",
@@ -14347,7 +13888,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -14383,7 +13923,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -14414,7 +13953,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -14445,7 +13983,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -14476,7 +14013,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -14507,7 +14043,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -14538,7 +14073,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -14569,7 +14103,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -14600,7 +14133,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -14631,7 +14163,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -14662,7 +14193,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -14693,7 +14223,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -14724,7 +14253,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -14755,7 +14283,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Fulham",
           "short_name": "Fulham",
           "abbr": "FUL",
@@ -14786,7 +14313,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Charlton Athletic",
           "short_name": "Charlton",
           "abbr": "CHA",
@@ -14817,7 +14343,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -14848,7 +14373,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -14879,7 +14403,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -14910,7 +14433,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Ipswich Town",
           "short_name": "Ipswich",
           "abbr": "IPS",
@@ -14941,7 +14463,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Derby County",
           "short_name": "Derby",
           "abbr": "DER",
@@ -14972,7 +14493,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -15008,7 +14528,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -15039,7 +14558,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -15070,7 +14588,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -15101,7 +14618,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -15132,7 +14648,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Ipswich Town",
           "short_name": "Ipswich",
           "abbr": "IPS",
@@ -15163,7 +14678,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -15194,7 +14708,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -15225,7 +14738,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -15256,7 +14768,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Charlton Athletic",
           "short_name": "Charlton",
           "abbr": "CHA",
@@ -15287,7 +14798,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -15318,7 +14828,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -15349,7 +14858,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -15380,7 +14888,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -15411,7 +14918,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -15442,7 +14948,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -15473,7 +14978,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -15504,7 +15008,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Derby County",
           "short_name": "Derby",
           "abbr": "DER",
@@ -15535,7 +15038,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -15566,7 +15068,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Coventry City",
           "short_name": "Coventry",
           "abbr": "COV",
@@ -15597,7 +15098,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Bradford City",
           "short_name": "Bradford",
           "abbr": "BRA",
@@ -15633,7 +15133,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -15664,7 +15163,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -15695,7 +15193,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -15726,7 +15223,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -15757,7 +15253,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -15788,7 +15283,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -15819,7 +15313,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -15850,7 +15343,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -15881,7 +15373,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -15912,7 +15403,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -15943,7 +15433,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -15974,7 +15463,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -16005,7 +15493,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -16036,7 +15523,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Coventry City",
           "short_name": "Coventry",
           "abbr": "COV",
@@ -16067,7 +15553,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -16098,7 +15583,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Derby County",
           "short_name": "Derby",
           "abbr": "DER",
@@ -16129,7 +15613,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Bradford City",
           "short_name": "Bradford",
           "abbr": "BRA",
@@ -16160,7 +15643,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Wimbledon",
           "short_name": "Wimbledon",
           "abbr": "WIM",
@@ -16191,7 +15673,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Sheffield Wednesday",
           "short_name": "Sheff Wed",
           "abbr": "SHW",
@@ -16222,7 +15703,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Watford",
           "short_name": "Watford",
           "abbr": "WAT",
@@ -16258,7 +15738,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -16289,7 +15768,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -16320,7 +15798,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -16351,7 +15828,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -16382,7 +15858,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -16413,7 +15888,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -16444,7 +15918,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -16475,7 +15948,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Derby County",
           "short_name": "Derby",
           "abbr": "DER",
@@ -16506,7 +15978,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -16537,7 +16008,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -16568,7 +16038,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -16599,7 +16068,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Sheffield Wednesday",
           "short_name": "Sheff Wed",
           "abbr": "SHW",
@@ -16630,7 +16098,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -16661,7 +16128,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -16692,7 +16158,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Coventry City",
           "short_name": "Coventry",
           "abbr": "COV",
@@ -16723,7 +16188,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Wimbledon",
           "short_name": "Wimbledon",
           "abbr": "WIM",
@@ -16754,7 +16218,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -16785,7 +16248,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Charlton Athletic",
           "short_name": "Charlton",
           "abbr": "CHA",
@@ -16816,7 +16278,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -16847,7 +16308,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Nottingham Forest",
           "short_name": "Nott'm Forest",
           "abbr": "NFO",
@@ -16883,7 +16343,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -16914,7 +16373,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -16945,7 +16403,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -16976,7 +16433,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -17007,7 +16463,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -17038,7 +16493,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -17069,7 +16523,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -17100,7 +16553,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -17131,7 +16583,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Derby County",
           "short_name": "Derby",
           "abbr": "DER",
@@ -17162,7 +16613,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -17193,7 +16643,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Coventry City",
           "short_name": "Coventry",
           "abbr": "COV",
@@ -17224,7 +16673,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -17255,7 +16703,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -17286,7 +16733,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -17317,7 +16763,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Wimbledon",
           "short_name": "Wimbledon",
           "abbr": "WIM",
@@ -17348,7 +16793,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Sheffield Wednesday",
           "short_name": "Sheff Wed",
           "abbr": "SHW",
@@ -17379,7 +16823,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -17410,7 +16853,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -17441,7 +16883,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Barnsley",
           "short_name": "Barnsley",
           "abbr": "BAR",
@@ -17472,7 +16913,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -17508,7 +16948,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -17539,7 +16978,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -17570,7 +17008,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -17601,7 +17038,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -17632,7 +17068,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -17663,7 +17098,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -17694,7 +17128,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Sheffield Wednesday",
           "short_name": "Sheff Wed",
           "abbr": "SHW",
@@ -17725,7 +17158,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Wimbledon",
           "short_name": "Wimbledon",
           "abbr": "WIM",
@@ -17756,7 +17188,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -17787,7 +17218,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -17818,7 +17248,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -17849,7 +17278,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Derby County",
           "short_name": "Derby",
           "abbr": "DER",
@@ -17880,7 +17308,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -17911,7 +17338,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -17942,7 +17368,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -17973,7 +17398,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -18004,7 +17428,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Coventry City",
           "short_name": "Coventry",
           "abbr": "COV",
@@ -18035,7 +17458,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Sunderland",
           "short_name": "Sunderland",
           "abbr": "SUN",
@@ -18066,7 +17488,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -18097,7 +17518,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Nottingham Forest",
           "short_name": "Nott'm Forest",
           "abbr": "NFO",
@@ -18133,7 +17553,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -18164,7 +17583,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -18195,7 +17613,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -18226,7 +17643,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -18257,7 +17673,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -18288,7 +17703,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -18319,7 +17733,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -18350,7 +17763,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -18381,7 +17793,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Nottingham Forest",
           "short_name": "Nott'm Forest",
           "abbr": "NFO",
@@ -18412,7 +17823,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -18443,7 +17853,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -18474,7 +17883,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -18505,7 +17913,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -18536,7 +17943,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Wimbledon",
           "short_name": "Wimbledon",
           "abbr": "WIM",
@@ -18567,7 +17973,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Sheffield Wednesday",
           "short_name": "Sheff Wed",
           "abbr": "SHW",
@@ -18598,7 +18003,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Coventry City",
           "short_name": "Coventry",
           "abbr": "COV",
@@ -18629,7 +18033,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -18660,7 +18063,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -18691,7 +18093,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Queens Park Rangers",
           "short_name": "QPR",
           "abbr": "QPR",
@@ -18722,7 +18123,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Bolton Wanderers",
           "short_name": "Bolton",
           "abbr": "BOL",
@@ -18758,7 +18158,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -18789,7 +18188,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -18820,7 +18218,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Nottingham Forest",
           "short_name": "Nott'm Forest",
           "abbr": "NFO",
@@ -18851,7 +18248,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -18882,7 +18278,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -18913,7 +18308,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -18944,7 +18338,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -18975,7 +18368,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Queens Park Rangers",
           "short_name": "QPR",
           "abbr": "QPR",
@@ -19006,7 +18398,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Wimbledon",
           "short_name": "Wimbledon",
           "abbr": "WIM",
@@ -19037,7 +18428,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -19068,7 +18458,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -19099,7 +18488,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -19130,7 +18518,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Sheffield Wednesday",
           "short_name": "Sheff Wed",
           "abbr": "SHW",
@@ -19161,7 +18548,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -19192,7 +18578,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -19223,7 +18608,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Coventry City",
           "short_name": "Coventry",
           "abbr": "COV",
@@ -19254,7 +18638,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -19285,7 +18668,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -19316,7 +18698,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -19347,7 +18728,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -19378,7 +18758,6 @@
         },
         {
           "position": 21,
-          "starting_position": 0,
           "team_name": "Leicester City",
           "short_name": "Leicester",
           "abbr": "LEI",
@@ -19409,7 +18788,6 @@
         },
         {
           "position": 22,
-          "starting_position": 0,
           "team_name": "Ipswich Town",
           "short_name": "Ipswich",
           "abbr": "IPS",
@@ -19445,7 +18823,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -19476,7 +18853,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -19507,7 +18883,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Newcastle United",
           "short_name": "Newcastle",
           "abbr": "NEW",
@@ -19538,7 +18913,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -19569,7 +18943,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -19600,7 +18973,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Wimbledon",
           "short_name": "Wimbledon",
           "abbr": "WIM",
@@ -19631,7 +19003,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Sheffield Wednesday",
           "short_name": "Sheff Wed",
           "abbr": "SHW",
@@ -19662,7 +19033,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -19693,7 +19063,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Queens Park Rangers",
           "short_name": "QPR",
           "abbr": "QPR",
@@ -19724,7 +19093,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -19755,7 +19123,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Coventry City",
           "short_name": "Coventry",
           "abbr": "COV",
@@ -19786,7 +19153,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -19817,7 +19183,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "West Ham United",
           "short_name": "West Ham",
           "abbr": "WHU",
@@ -19848,7 +19213,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -19879,7 +19243,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -19910,7 +19273,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -19941,7 +19303,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -19972,7 +19333,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -20003,7 +19363,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Ipswich Town",
           "short_name": "Ipswich",
           "abbr": "IPS",
@@ -20034,7 +19393,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Sheffield United",
           "short_name": "Sheff Utd",
           "abbr": "SHU",
@@ -20065,7 +19423,6 @@
         },
         {
           "position": 21,
-          "starting_position": 0,
           "team_name": "Oldham Athletic",
           "short_name": "Oldham",
           "abbr": "OLD",
@@ -20096,7 +19453,6 @@
         },
         {
           "position": 22,
-          "starting_position": 0,
           "team_name": "Swindon Town",
           "short_name": "Swindon",
           "abbr": "SWI",
@@ -20132,7 +19488,6 @@
       "table": [
         {
           "position": 1,
-          "starting_position": 0,
           "team_name": "Manchester United",
           "short_name": "Man Utd",
           "abbr": "MUN",
@@ -20163,7 +19518,6 @@
         },
         {
           "position": 2,
-          "starting_position": 0,
           "team_name": "Aston Villa",
           "short_name": "Aston Villa",
           "abbr": "AVL",
@@ -20194,7 +19548,6 @@
         },
         {
           "position": 3,
-          "starting_position": 0,
           "team_name": "Norwich City",
           "short_name": "Norwich",
           "abbr": "NOR",
@@ -20225,7 +19578,6 @@
         },
         {
           "position": 4,
-          "starting_position": 0,
           "team_name": "Blackburn Rovers",
           "short_name": "Blackburn",
           "abbr": "BLA",
@@ -20256,7 +19608,6 @@
         },
         {
           "position": 5,
-          "starting_position": 0,
           "team_name": "Queens Park Rangers",
           "short_name": "QPR",
           "abbr": "QPR",
@@ -20287,7 +19638,6 @@
         },
         {
           "position": 6,
-          "starting_position": 0,
           "team_name": "Liverpool",
           "short_name": "Liverpool",
           "abbr": "LIV",
@@ -20318,7 +19668,6 @@
         },
         {
           "position": 7,
-          "starting_position": 0,
           "team_name": "Sheffield Wednesday",
           "short_name": "Sheff Wed",
           "abbr": "SHW",
@@ -20349,7 +19698,6 @@
         },
         {
           "position": 8,
-          "starting_position": 0,
           "team_name": "Tottenham Hotspur",
           "short_name": "Spurs",
           "abbr": "TOT",
@@ -20380,7 +19728,6 @@
         },
         {
           "position": 9,
-          "starting_position": 0,
           "team_name": "Manchester City",
           "short_name": "Man City",
           "abbr": "MCI",
@@ -20411,7 +19758,6 @@
         },
         {
           "position": 10,
-          "starting_position": 0,
           "team_name": "Arsenal",
           "short_name": "Arsenal",
           "abbr": "ARS",
@@ -20442,7 +19788,6 @@
         },
         {
           "position": 11,
-          "starting_position": 0,
           "team_name": "Chelsea",
           "short_name": "Chelsea",
           "abbr": "CHE",
@@ -20473,7 +19818,6 @@
         },
         {
           "position": 12,
-          "starting_position": 0,
           "team_name": "Wimbledon",
           "short_name": "Wimbledon",
           "abbr": "WIM",
@@ -20504,7 +19848,6 @@
         },
         {
           "position": 13,
-          "starting_position": 0,
           "team_name": "Everton",
           "short_name": "Everton",
           "abbr": "EVE",
@@ -20535,7 +19878,6 @@
         },
         {
           "position": 14,
-          "starting_position": 0,
           "team_name": "Sheffield United",
           "short_name": "Sheff Utd",
           "abbr": "SHU",
@@ -20566,7 +19908,6 @@
         },
         {
           "position": 15,
-          "starting_position": 0,
           "team_name": "Coventry City",
           "short_name": "Coventry",
           "abbr": "COV",
@@ -20597,7 +19938,6 @@
         },
         {
           "position": 16,
-          "starting_position": 0,
           "team_name": "Ipswich Town",
           "short_name": "Ipswich",
           "abbr": "IPS",
@@ -20628,7 +19968,6 @@
         },
         {
           "position": 17,
-          "starting_position": 0,
           "team_name": "Leeds United",
           "short_name": "Leeds",
           "abbr": "LEE",
@@ -20659,7 +19998,6 @@
         },
         {
           "position": 18,
-          "starting_position": 0,
           "team_name": "Southampton",
           "short_name": "Southampton",
           "abbr": "SOU",
@@ -20690,7 +20028,6 @@
         },
         {
           "position": 19,
-          "starting_position": 0,
           "team_name": "Oldham Athletic",
           "short_name": "Oldham",
           "abbr": "OLD",
@@ -20721,7 +20058,6 @@
         },
         {
           "position": 20,
-          "starting_position": 0,
           "team_name": "Crystal Palace",
           "short_name": "Crystal Palace",
           "abbr": "CRY",
@@ -20752,7 +20088,6 @@
         },
         {
           "position": 21,
-          "starting_position": 0,
           "team_name": "Middlesbrough",
           "short_name": "Boro",
           "abbr": "MID",
@@ -20783,7 +20118,6 @@
         },
         {
           "position": 22,
-          "starting_position": 0,
           "team_name": "Nottingham Forest",
           "short_name": "Nott'm Forest",
           "abbr": "NFO",
