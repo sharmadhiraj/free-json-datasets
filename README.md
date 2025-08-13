@@ -11,7 +11,7 @@ Please use responsibly and in accordance with **GitHub’s Fair Use Policy** to 
 > **⚠️ Note:**  
 > The `datasets` directory contains **deprecated data** that will be removed soon.  
 > The project is now **organized by categories**, updated regularly, and hosted on **GitHub Pages**.  
-> New and updated datasets are stored in the `data` folder.
+> New and updated datasets are stored in the `docs` folder.
 
 ## Dataset Structure
 

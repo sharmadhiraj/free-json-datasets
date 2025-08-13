@@ -5,8 +5,8 @@
       {
         "title": "World Population by Country (2025)",
         "subtitle": "Latest country-wise population data as of 2025",
-        "updated_at": "August 13, 2025 02:06 PM UTC",
-        "file": "world_population_by_country"
+        "updated_at": "August 13, 2025 02:19 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-world-data/world_population_by_country.json"
       }
     ]
   },
@@ -16,8 +16,8 @@
       {
         "title": "Premier League Tables",
         "subtitle": "Season-by-season league tables from 1992/93 to 2024/2025",
-        "updated_at": "August 13, 2025 02:07 PM UTC",
-        "file": "premier-league-table-all-seasons"
+        "updated_at": "August 13, 2025 02:19 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports/premier-league-table-all-seasons.json"
       }
     ]
   },
@@ -27,8 +27,8 @@
       {
         "title": "Nobel Prizes 2024",
         "subtitle": "Complete list of Nobel Prizes from 1901 to 2024",
-        "updated_at": "August 13, 2025 02:06 PM UTC",
-        "file": "nobel-prizes"
+        "updated_at": "August 13, 2025 02:19 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards/nobel-prizes.json"
       }
     ]
   },
@@ -38,8 +38,8 @@
       {
         "title": "NEPSE Listed Companies",
         "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
-        "updated_at": "August 13, 2025 02:06 PM UTC",
-        "file": "nepse-listed-companies"
+        "updated_at": "August 13, 2025 02:19 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/finance/nepse-listed-companies.json"
       }
     ]
   }
