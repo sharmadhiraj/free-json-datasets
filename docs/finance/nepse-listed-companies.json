@@ -1,0 +1,4247 @@
+{
+  "title": "NEPSE Listed Companies",
+  "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
+  "updated_at": "August 13, 2025 02:06 PM UTC",
+  "data": [
+    {
+      "symbol": "ADBL",
+      "name": "Agriculture Development Bank Limited",
+      "listed_shares": 134516741,
+      "paid_up_value": 100.0,
+      "total_paid_up": 13187915800.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "CZBIL",
+      "name": "Citizen Bank International Limited",
+      "listed_shares": 142009741,
+      "paid_up_value": 100.0,
+      "total_paid_up": 14200974100.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "EBL",
+      "name": "Everest Bank Limited",
+      "listed_shares": 106980945,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10698094500.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "GBIME",
+      "name": "Global IME Bank Limited",
+      "listed_shares": 357710597,
+      "paid_up_value": 100.0,
+      "total_paid_up": 35771059700.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "HBL",
+      "name": "Himalayan Bank Limited",
+      "listed_shares": 216566158,
+      "paid_up_value": 100.0,
+      "total_paid_up": 14006223872.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "KBL",
+      "name": "Kumari Bank Limited",
+      "listed_shares": 262258613,
+      "paid_up_value": 100.0,
+      "total_paid_up": 26225861300.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "MBL",
+      "name": "Machhapuchchhre Bank Limited",
+      "listed_shares": 102571556,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10257155600.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "NABIL",
+      "name": "Nabil Bank Limited",
+      "listed_shares": 270569984,
+      "paid_up_value": 100.0,
+      "total_paid_up": 27056996352.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "NBL",
+      "name": "Nepal Bank Limited",
+      "listed_shares": 146940224,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4000000000.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "NICA",
+      "name": "NIC Asia Bank Ltd.",
+      "listed_shares": 115640056,
+      "paid_up_value": 100.0,
+      "total_paid_up": 11564005600.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "NMB",
+      "name": "NMB Bank Limited",
+      "listed_shares": 183667060,
+      "paid_up_value": 100.0,
+      "total_paid_up": 18366706000.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "PCBL",
+      "name": "Prime Commercial Bank Ltd.",
+      "listed_shares": 194025760,
+      "paid_up_value": 100.0,
+      "total_paid_up": 19402575872.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "SANIMA",
+      "name": "Sanima Bank Limited",
+      "listed_shares": 124601152,
+      "paid_up_value": 100.0,
+      "total_paid_up": 12460114944.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "SBI",
+      "name": "Nepal SBI Bank Limited",
+      "listed_shares": 101206288,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10120629248.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "SBL",
+      "name": "Siddhartha Bank Limited",
+      "listed_shares": 140899808,
+      "paid_up_value": 100.0,
+      "total_paid_up": 14089979904.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "SCB",
+      "name": "Standard Chartered Bank Limited",
+      "listed_shares": 94294539,
+      "paid_up_value": 100.0,
+      "total_paid_up": 9429453900.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "PRVU",
+      "name": "Prabhu Bank Limited",
+      "listed_shares": 135347696,
+      "paid_up_value": 100.0,
+      "total_paid_up": 13534770176.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "NIMB",
+      "name": "Nepal Investment Mega Bank Limited",
+      "listed_shares": 341285949,
+      "paid_up_value": 100.0,
+      "total_paid_up": 34128594900.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "LSL",
+      "name": "Laxmi Sunrise Bank Limited",
+      "listed_shares": 216702379,
+      "paid_up_value": 100.0,
+      "total_paid_up": 21670237900.0,
+      "sector": "Commercial Banks"
+    },
+    {
+      "symbol": "EBLB2079",
+      "name": "Everest Bank Limited--2079",
+      "listed_shares": 468850,
+      "paid_up_value": 100.0,
+      "total_paid_up": 46885000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "GBIMEB2076",
+      "name": "Global IME Bank -2076",
+      "listed_shares": 400000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 40000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBIB2079",
+      "name": "Nepal SBI Bank - 2079",
+      "listed_shares": 400000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 40000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBLB2076",
+      "name": "Siddhartha Bank Ltd. Bond -2076",
+      "listed_shares": 303520,
+      "paid_up_value": 100.0,
+      "total_paid_up": 30352000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SAND2085",
+      "name": "10% Sanima Bank Limited Debenture",
+      "listed_shares": 2000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NICAD85/86",
+      "name": "NIC Asia Debenture 2085/86",
+      "listed_shares": 2404688,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2404688000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NICAD8283",
+      "name": "11% NIC Asia Debenture 082/83",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBLD2082",
+      "name": "10.50% SBL Debenture 2082",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NMBD2085",
+      "name": "10% NMB DEBENTURE 2085",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SRD80",
+      "name": "10% Sunrise Debenture 2080",
+      "listed_shares": 1000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NICD83/84",
+      "name": "10.25% NIC Asia Debenture 2083/84",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "PBLD86",
+      "name": "10.25% Prabhu Bank Debenture 2086",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBLD83",
+      "name": "10.25% SBL Debenture 2083",
+      "listed_shares": 2401482,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2401482000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SRBLD83",
+      "name": "10.25% Sunrise Bank Debenture 2083",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "BOKD2079",
+      "name": "8% BOK Debenture 2079",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NIBD2082",
+      "name": "10.5% Nepal Investment Debenture 2082",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "KBLD86",
+      "name": "10.25% Kumari Bank Debenture 2086",
+      "listed_shares": 3000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBIBD86",
+      "name": "10% Nepal SBI Bank Debenture 2086",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "GBD80/81",
+      "name": "10.25% Global IME Bank Limited Debenture 2080/81",
+      "listed_shares": 103105160,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 103105160000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "PBLD84",
+      "name": "10% Prabhu Bank Debenture 2084",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "BOKD2086",
+      "name": "8.5% Bank of Kathmadu Limited 2086",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "HBLD83",
+      "name": "10% Himalayan Bank Debenture 2083",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "BOKD86",
+      "name": "8.5% BOK Debenture 2086",
+      "listed_shares": 1600000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1600000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NIBD2084",
+      "name": "8.5% Nepal Investment Bank Bond",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "KSBBLD87",
+      "name": "9% Kamana Sewa Bikas Bank Limited Debenture 2087",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "ICFCD83",
+      "name": "12% ICFC Finance Limited Debenture 2083",
+      "listed_shares": 200000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 200000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "GWFD83",
+      "name": "12% Goodwill finance Debenture 2083",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "PBD85",
+      "name": "8.75% Prime Commercial Bank Debenture 2085",
+      "listed_shares": 2447963,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2447963000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "GBILD86/87",
+      "name": "8.5% Global IME Bank Limited Debenture 2086/87",
+      "listed_shares": 3000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NBBD2085",
+      "name": "10.25% NBB Debenture 2085",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "MFLD85",
+      "name": "9.5% Manjushree Finance Limited Debenture 2085",
+      "listed_shares": 500000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 500000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NBR2087",
+      "name": "8.5% Nepal Bank Rinpatra 2087",
+      "listed_shares": 3500000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3500000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "MBLD2085",
+      "name": "10.25% Machhapuchhre Bank Debenture 2085",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "LBLD86",
+      "name": "10% Laxmi Bank Debenture 2086",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "ADBLD83",
+      "name": "10.35% Agricultural Bank Debenture 2083",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NMBD87/88",
+      "name": "8.50% NMB Rinpatra 2087/88",
+      "listed_shares": 2000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "PBLD87",
+      "name": "8.5% Prabhu Bank Debenture 2087",
+      "listed_shares": 2650000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2650000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NBLD82",
+      "name": "10% Nabil Debenture 2082",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "RBBD83",
+      "name": "8.5% RBBL Debenture 2083",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBD87",
+      "name": "8.5% Sanima Debenture 2087",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBLD84",
+      "name": "8.5% SBL Debenture 2084",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SDBD87",
+      "name": "9% Shangri-la Development Bank Debenture 2087",
+      "listed_shares": 750000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 750000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NICD88",
+      "name": "8.5% NIC Asia Rinpatra 2088",
+      "listed_shares": 1573872,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1573872000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "JBBD87",
+      "name": "Jyoti Bikash Bank Bond 2087",
+      "listed_shares": 1500000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1500000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "LBLD88",
+      "name": "8.5% Laxmi Bank Debenture 2088",
+      "listed_shares": 2000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "MBLD87",
+      "name": "8.50% Machhapuchchhre Debenture 2087",
+      "listed_shares": 3000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "MND84/85",
+      "name": "8.75% Muktinath Debenture/Rinpatra 2084/85",
+      "listed_shares": 1250000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NBLD85",
+      "name": "8% Nabil Debenture 2085",
+      "listed_shares": 3000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NCCD86",
+      "name": "9.5% NCC Debenture 2086",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "GBBD85",
+      "name": "Garima Debenture, 2085",
+      "listed_shares": 1000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NIBD84",
+      "name": "8.5% Nepal Investment Bank Debenture 2084",
+      "listed_shares": 4000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 4000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "CBLD88",
+      "name": "Civil Bank Debenture 2088",
+      "listed_shares": 3000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "EBLD86",
+      "name": "8.5% of Everest Bank Limited Debenture 2086",
+      "listed_shares": 2000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "PBD88",
+      "name": "10% Prime Debenture 2088",
+      "listed_shares": 1741884,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1741884000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NBLD87",
+      "name": "8.5% Nepal Bank Debenture 2087",
+      "listed_shares": 3500000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3500000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NMBUR93/94",
+      "name": "4% NMB Urja Rinpatra (Energy Bond II) 4%-2093/94",
+      "listed_shares": 2727437,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2727437000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "CCBD88",
+      "name": "Century Debenture 2088",
+      "listed_shares": 2200000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2200000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "PBD84",
+      "name": "10.15% Prime Debenture 2084",
+      "listed_shares": 5000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 5000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBLD89",
+      "name": "10.75% SBL Debenture 2089",
+      "listed_shares": 4000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 4000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBD89",
+      "name": "10.25% Sanima Debenture 2089",
+      "listed_shares": 5000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 5000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "EBLD85",
+      "name": "10.50% Everest Bank Limited Debenture 2085",
+      "listed_shares": 2000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "BOKD86KA",
+      "name": "BOK Debenture 2086 \"KA\"",
+      "listed_shares": 1100000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1100000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "HBLD86",
+      "name": "Himalayan Bank Limited Bond, 2086",
+      "listed_shares": 2500000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2500000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "KBLD89",
+      "name": "11% KBL Debenture 2089",
+      "listed_shares": 3000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBID83",
+      "name": "10.25% Nepal SBI Bank Debenture 2083",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NIFRAUR85/86",
+      "name": "Nifra Urja 7% -2085/86",
+      "listed_shares": 5000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 5000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SCBD",
+      "name": "10.30% Standard Chartered Bank Nepal Limited Rinpatra",
+      "listed_shares": 2400000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2400000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "GBILD84/85",
+      "name": "Global IME Bank Debenture 2084/85",
+      "listed_shares": 5000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 5000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NMBD89/90",
+      "name": "NMB Debenture 10.75%-2089/2090",
+      "listed_shares": 4000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 4000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "MLBLD89",
+      "name": "11% Mahalaxmi Debenture-2089",
+      "listed_shares": 1000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "EBLE89",
+      "name": "Everest Bank Limited Urja Rinpatra 2089",
+      "listed_shares": 746830,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 746830000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "LBBLD89",
+      "name": "11% L.B.B.L. Debenture 2089",
+      "listed_shares": 1000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "CIZBD86",
+      "name": "10.25% Citizens Bank Debenture 2086",
+      "listed_shares": 2500000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2500000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "KBLD90",
+      "name": "10% KBL Debenture 2090",
+      "listed_shares": 5000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 5000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NABILD87",
+      "name": "9% Nabil Debenture 2087",
+      "listed_shares": 3000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "SBID89",
+      "name": "9% Nepal SBI Bank debenture 2089",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NIMBD90",
+      "name": "10% NIMB Debenture 2090",
+      "listed_shares": 4040000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 4040000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "ICFCD88",
+      "name": "9% ICFC Finance Limited Debenture-2088",
+      "listed_shares": 300000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 0.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "EBLD91",
+      "name": "Everest Bank Limited Rinpatra 2091",
+      "listed_shares": 3000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 3000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "RBBD2088",
+      "name": "7% RBBL Debenture 2088",
+      "listed_shares": 2500000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 2500000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NIFRAGED",
+      "name": "Nifra Green Energy Debenture 6% - 2088/89",
+      "listed_shares": 5000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 5000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "CORBL",
+      "name": "Corporate Development Bank Limited",
+      "listed_shares": 5250000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 525000000.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "EDBL",
+      "name": "Excel Development Bank Ltd.",
+      "listed_shares": 12496945,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1249694464.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "GBBL",
+      "name": "Garima Bikas Bank Limited",
+      "listed_shares": 51752784,
+      "paid_up_value": 100.0,
+      "total_paid_up": 5175278592.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "JBBL",
+      "name": "Jyoti Bikas Bank Limited",
+      "listed_shares": 43957860,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4395786000.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "MDB",
+      "name": "Miteri Development Bank Limited",
+      "listed_shares": 10150015,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1015001472.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "MNBBL",
+      "name": "Muktinath Bikas Bank Ltd.",
+      "listed_shares": 64209004,
+      "paid_up_value": 100.0,
+      "total_paid_up": 6420900352.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "NABBC",
+      "name": "Narayani Development Bank Limited",
+      "listed_shares": 2624676,
+      "paid_up_value": 100.0,
+      "total_paid_up": 262467600.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "SADBL",
+      "name": "Shangrila Development Bank Ltd.",
+      "listed_shares": 30106697,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3010669700.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "SHINE",
+      "name": "Shine Resunga Development Bank Ltd.",
+      "listed_shares": 42838832,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4283883264.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "SINDU",
+      "name": "Sindhu Bikash Bank Ltd",
+      "listed_shares": 5574561,
+      "paid_up_value": 100.0,
+      "total_paid_up": 557456100.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "GRDBL",
+      "name": "Green Development Bank Ltd.",
+      "listed_shares": 5190000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 519000000.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "MLBL",
+      "name": "Mahalaxmi Bikas Bank Ltd.",
+      "listed_shares": 41713184,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4171318528.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "LBBL",
+      "name": "Lumbini Bikas Bank Ltd.",
+      "listed_shares": 33828216,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3382821376.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "KSBBL",
+      "name": "Kamana Sewa Bikas Bank Limited",
+      "listed_shares": 31425771,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3142577100.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "SAPDBL",
+      "name": "Saptakoshi Development Bank Ltd",
+      "listed_shares": 8343385,
+      "paid_up_value": 100.0,
+      "total_paid_up": 834338500.0,
+      "sector": "Development Bank Limited"
+    },
+    {
+      "symbol": "CFCL",
+      "name": "Central Finance Co. Ltd.",
+      "listed_shares": 9488756,
+      "paid_up_value": 100.0,
+      "total_paid_up": 948875584.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "GFCL",
+      "name": "Goodwill Finance Co. Ltd.",
+      "listed_shares": 9461152,
+      "paid_up_value": 100.0,
+      "total_paid_up": 946115200.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "GMFIL",
+      "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+      "listed_shares": 10121760,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1012176000.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "ICFC",
+      "name": "ICFC Finance Limited",
+      "listed_shares": 11834710,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1183470976.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "JFL",
+      "name": "Janaki Finance Ltd.",
+      "listed_shares": 6904728,
+      "paid_up_value": 100.0,
+      "total_paid_up": 690472832.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "MFIL",
+      "name": "Manjushree Finance Ltd.",
+      "listed_shares": 13515529,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1351552896.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "MPFL",
+      "name": "Multipurpose Finance Company Limited",
+      "listed_shares": 4520000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 452000000.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "NFS",
+      "name": "Nepal Finance Ltd.",
+      "listed_shares": 8389439,
+      "paid_up_value": 100.0,
+      "total_paid_up": 838943872.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "PFL",
+      "name": "Pokhara Finance Ltd.",
+      "listed_shares": 10825567,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1082556672.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "PROFL",
+      "name": "Progressive Finance Limited",
+      "listed_shares": 8561070,
+      "paid_up_value": 100.0,
+      "total_paid_up": 856107008.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "SIFC",
+      "name": "Shree Investment Finance Co. Ltd.",
+      "listed_shares": 9816832,
+      "paid_up_value": 100.0,
+      "total_paid_up": 981683200.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "RLFL",
+      "name": "Reliance Finance Ltd.",
+      "listed_shares": 10530064,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1053006400.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "GUFL",
+      "name": "Gurkhas Finance Ltd.",
+      "listed_shares": 8679937,
+      "paid_up_value": 100.0,
+      "total_paid_up": 867993700.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "BFC",
+      "name": "Best Finance Company Ltd.",
+      "listed_shares": 8289138,
+      "paid_up_value": 100.0,
+      "total_paid_up": 828913800.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "SFCL",
+      "name": "Samriddhi Finance Company Limited",
+      "listed_shares": 8189114,
+      "paid_up_value": 100.0,
+      "total_paid_up": 818911400.0,
+      "sector": "Finance"
+    },
+    {
+      "symbol": "NRBBR2067ga",
+      "name": "Bikash Rinpatra 2067 Ga",
+      "listed_shares": 7500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 750000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2067ka",
+      "name": "Bikash Rinpatra 2067 Ka",
+      "listed_shares": 10000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2067kha",
+      "name": "Bikash Rinpatra 2067 Kha",
+      "listed_shares": 7500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 750000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2069",
+      "name": "Bikash Rinpatra 2069",
+      "listed_shares": 15000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1500000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2071ka",
+      "name": "Bikash Rinpatra 2071 Ka",
+      "listed_shares": 20000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2000000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2071Kha",
+      "name": "Bikash Rinpatra 2071 Kha",
+      "listed_shares": 30000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3000000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2072",
+      "name": "Bikash Rinpatra 2072",
+      "listed_shares": 7500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 750000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2072ka",
+      "name": "Bikash Rinpatra 2072 Ka",
+      "listed_shares": 15000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1500000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2073 KA",
+      "name": "Bikash Rinpatra 2073 Ka",
+      "listed_shares": 27500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2750000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2075",
+      "name": "Bikash Rinpatra 2075",
+      "listed_shares": 12000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1200000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2075ka",
+      "name": "Bikash Rinpatra 2075 Ka",
+      "listed_shares": 21000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2100000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2076",
+      "name": "Bikash Rinpatra 2076",
+      "listed_shares": 22000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2200000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2076Ga",
+      "name": "Bikash Rinpatra 2076 Ga",
+      "listed_shares": 4600000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 460000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2076ka",
+      "name": "Bikash Rinpatra 2076 Ka",
+      "listed_shares": 9000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 900000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2076Kha",
+      "name": "Bikash Rinpatra 2076 Kha",
+      "listed_shares": 10400000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1040000000.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "9%CSB2082",
+      "name": "Nepal Rastra Bank Nagarik Bachatpatra 2082 Ka",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2085Gha",
+      "name": "Bikash Rinpatra 2085 Gha",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "9%CSB2083",
+      "name": "Nepal Rastra Bank Nagarik Bachatpatra 2083 (5 Years)",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "NRBBR2083Gha",
+      "name": "Nepal Rastra Bank Bikash Rinpatra 2083 Gha",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Government Bond"
+    },
+    {
+      "symbol": "OHL",
+      "name": "Oriental Hotels Limited",
+      "listed_shares": 11280905,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1128090500.0,
+      "sector": "Hotels And Tourism"
+    },
+    {
+      "symbol": "SHL",
+      "name": "Soaltee Hotel Limited",
+      "listed_shares": 88471506,
+      "paid_up_value": 10.0,
+      "total_paid_up": 8847150600.0,
+      "sector": "Hotels And Tourism"
+    },
+    {
+      "symbol": "TRH",
+      "name": "Taragaon Regency Hotel Limited",
+      "listed_shares": 18866540,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1886654000.0,
+      "sector": "Hotels And Tourism"
+    },
+    {
+      "symbol": "CGH",
+      "name": "Chandragiri Hills Limited",
+      "listed_shares": 15340910,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1534091000.0,
+      "sector": "Hotels And Tourism"
+    },
+    {
+      "symbol": "KDL",
+      "name": "Kalinchowk Darshan Limited",
+      "listed_shares": 6000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 600000000.0,
+      "sector": "Hotels And Tourism"
+    },
+    {
+      "symbol": "CITY",
+      "name": "City Hotel Limited",
+      "listed_shares": 16740000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1674000000.0,
+      "sector": "Hotels And Tourism"
+    },
+    {
+      "symbol": "AHPC",
+      "name": "Arun Valley Hydropower Development Co. Ltd.",
+      "listed_shares": 18679626,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1867962600.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "BPCL",
+      "name": "Butwal Power Company Limited",
+      "listed_shares": 34086432,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3408643072.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "CHCL",
+      "name": "Chilime Hydropower Company Limited",
+      "listed_shares": 72581792,
+      "paid_up_value": 100.0,
+      "total_paid_up": 7258179584.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "NHPC",
+      "name": "National Hydro Power Company Limited",
+      "listed_shares": 16417919,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1641791872.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SHPC",
+      "name": "Sanima Mai Hydropower Ltd.",
+      "listed_shares": 30892510,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3089251000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "HURJA",
+      "name": "Himalaya Urja Bikas Company Limited",
+      "listed_shares": 9900000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 990000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "AKPL",
+      "name": "Arun Kabeli Power Ltd.",
+      "listed_shares": 20407316,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2040731600.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "BARUN",
+      "name": "Barun Hydropower Co. Ltd.",
+      "listed_shares": 5358150,
+      "paid_up_value": 100.0,
+      "total_paid_up": 535815000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "API",
+      "name": "Api Power Company Ltd.",
+      "listed_shares": 41332842,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4133284200.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "NGPL",
+      "name": "Ngadi Group Power Ltd.",
+      "listed_shares": 18512792,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1851279200.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MHL",
+      "name": "Mandakini Hydropower Limited",
+      "listed_shares": 5880369,
+      "paid_up_value": 100.0,
+      "total_paid_up": 588036900.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "NYADI",
+      "name": "Nyadi Hydropower Limited",
+      "listed_shares": 15000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1500000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SJCL",
+      "name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
+      "listed_shares": 32850000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3285000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "RHPL",
+      "name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
+      "listed_shares": 61578900,
+      "paid_up_value": 100.0,
+      "total_paid_up": 6157890000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "UMHL",
+      "name": "United Modi Hydropower Ltd.",
+      "listed_shares": 11500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1150000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "DORDI",
+      "name": "Dordi Khola Jal Bidyut Company Limited",
+      "listed_shares": 10542604,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1054260400.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "PHCL",
+      "name": "Peoples Hydropower Company Limited",
+      "listed_shares": 32000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3200000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "PPL",
+      "name": "People's Power Limited",
+      "listed_shares": 6326000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 632600000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "UPCL",
+      "name": "UNIVERSAL POWER COMPANY LTD",
+      "listed_shares": 21003500,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2100350000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SPL",
+      "name": "Shuvam Power Company Limited",
+      "listed_shares": 2000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 200000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SPDL",
+      "name": "Synergy Power Development Ltd.",
+      "listed_shares": 8065750,
+      "paid_up_value": 100.0,
+      "total_paid_up": 806574976.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MKJC",
+      "name": "Mailung Khola Jal Vidhyut Company  Limited",
+      "listed_shares": 3681430,
+      "paid_up_value": 100.0,
+      "total_paid_up": 368143000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SAHAS",
+      "name": "Sahas Urja Limited",
+      "listed_shares": 35000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3500000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "KKHC",
+      "name": "Khanikhola Hydropower Co. Ltd.",
+      "listed_shares": 4657143,
+      "paid_up_value": 100.0,
+      "total_paid_up": 465714300.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "HPPL",
+      "name": "Himalayan Power Partner Ltd.",
+      "listed_shares": 10654170,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1065417000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "DHPL",
+      "name": "Dibyashwori Hydropower Ltd.",
+      "listed_shares": 2640000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 264000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "BHPL",
+      "name": "Barahi Hydropower Public Limited",
+      "listed_shares": 2500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 250000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MHNL",
+      "name": "Mountain Hydro Nepal Limited",
+      "listed_shares": 12500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "CHL",
+      "name": "Chhyangdi Hydropower Ltd.",
+      "listed_shares": 3869775,
+      "paid_up_value": 100.0,
+      "total_paid_up": 386977500.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "USHL",
+      "name": "Upper Syange  Hydropower Limited",
+      "listed_shares": 2200000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 220000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SPHL",
+      "name": "Sayapatri Hydropower Limited",
+      "listed_shares": 900000,
+      "paid_up_value": 0.0,
+      "total_paid_up": 300000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "NHDL",
+      "name": "Nepal Hydro Developers Ltd.",
+      "listed_shares": 3359265,
+      "paid_up_value": 100.0,
+      "total_paid_up": 335926496.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "RADHI",
+      "name": "Radhi Bidyut Company Ltd",
+      "listed_shares": 16759799,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1675979900.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "BNHC",
+      "name": "Buddhabhumi Nepal Hydropower Company Limited",
+      "listed_shares": 4000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 400000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "RHGCL",
+      "name": "Rapti Hydro and General Construction Limited",
+      "listed_shares": 6127938,
+      "paid_up_value": 100.0,
+      "total_paid_up": 612793792.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "KPCL",
+      "name": "Kalika power Company Ltd",
+      "listed_shares": 7935000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 793500000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "TAMOR",
+      "name": "Sanima Middle Tamor Hydropower Limited",
+      "listed_shares": 33325000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3332500000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "GHL",
+      "name": "Ghalemdi Hydro Limited",
+      "listed_shares": 5500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 550000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "EHPL",
+      "name": "Eastern Hydropower Limited",
+      "listed_shares": 6200000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 620000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MKHC",
+      "name": "Maya Khola Hydropower Company Limited",
+      "listed_shares": 10000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "BEDC",
+      "name": "Bhugol Energy Development Company Limited",
+      "listed_shares": 5440534,
+      "paid_up_value": 100.0,
+      "total_paid_up": 544053400.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "PMHPL",
+      "name": "Panchakanya Mai Hydropower Ltd",
+      "listed_shares": 11000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1100000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "KBSH",
+      "name": "Kutheli Bukhari Small Hydropower Limited",
+      "listed_shares": 1218657,
+      "paid_up_value": 100.0,
+      "total_paid_up": 121865700.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MBJC",
+      "name": "Madhya Bhotekoshi Jalavidyut Company Limited",
+      "listed_shares": 60000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 6000000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "GLH",
+      "name": "Greenlife Hydropower Limited",
+      "listed_shares": 18000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1800000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "USHEC",
+      "name": "Upper Solu Hydro Electric Company Limited",
+      "listed_shares": 13500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1350000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "AKJCL",
+      "name": "Ankhu Khola Jalvidhyut Company Ltd",
+      "listed_shares": 8000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 800000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "LEC",
+      "name": "Liberty Energy Company Limited",
+      "listed_shares": 15000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1500000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "TPC",
+      "name": "Terhathum Power Company Limited",
+      "listed_shares": 4000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 400000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Singati Hydro Energy Limited",
+      "listed_shares": 14500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1450000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "PPCL",
+      "name": "Panchthar Power Company Limited",
+      "listed_shares": 9625000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 962500000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "TSHL",
+      "name": "Three Star Hydropower Limited",
+      "listed_shares": 4925000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 492500000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SSHL",
+      "name": "Shiva Shree Hydropower Limited",
+      "listed_shares": 14764000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1476400000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "JOSHI",
+      "name": "Joshi Hydropower Development Company Ltd",
+      "listed_shares": 3714000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 371400000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "UPPER",
+      "name": "Upper Tamakoshi Hydropower Ltd",
+      "listed_shares": 105900000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10590000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "TVCL",
+      "name": "Trishuli Jal Vidhyut Company Limited",
+      "listed_shares": 18525000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1852500000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "UNHPL",
+      "name": "Union Hydropower Limited",
+      "listed_shares": 7500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 750000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SPC",
+      "name": "Samling Power Company Limited",
+      "listed_shares": 5000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 500000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SGHC",
+      "name": "Swet-Ganga Hydropower & Construction Limited",
+      "listed_shares": 15930000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1592999936.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "AHL",
+      "name": "Asian Hydropower Limited",
+      "listed_shares": 3400000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 340000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "BHDC",
+      "name": "Bindyabasini Hydropower Development Company Limited",
+      "listed_shares": 10000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "HDHPC",
+      "name": "Himal Dolakha Hydropower Company Limited",
+      "listed_shares": 16000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1600000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MHCL",
+      "name": "Molung Hydropower Company Limited",
+      "listed_shares": 8025000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 802500000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SMH",
+      "name": "Super Mai Hydropower Limited",
+      "listed_shares": 5000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 500000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "RFPL",
+      "name": "River Falls Power Limited",
+      "listed_shares": 7000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 700000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MEN",
+      "name": "Mountain Energy Nepal Limited",
+      "listed_shares": 19680270,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1968027000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "UHEWA",
+      "name": "Upper Hewakhola Hydropower Company Limited",
+      "listed_shares": 5000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 500000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "HHL",
+      "name": "Himalayan Hydropower Limited",
+      "listed_shares": 10950000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1095000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "UMRH",
+      "name": "United IDI Mardi RB Hydropower Limited.",
+      "listed_shares": 4200000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 420000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SIKLES",
+      "name": "Sikles Hydropower Limited",
+      "listed_shares": 8500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 850000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MEL",
+      "name": "Modi Energy Limited",
+      "listed_shares": 29000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2900000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "RURU",
+      "name": "Ru Ru Jalbidhyut Pariyojana Limited",
+      "listed_shares": 4933237,
+      "paid_up_value": 100.0,
+      "total_paid_up": 493323712.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MAKAR",
+      "name": "Makar Jitumaya Suri Hydropower Limited",
+      "listed_shares": 7600000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 760000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SMJC",
+      "name": "Sagarmatha Jalabidhyut Company Limited",
+      "listed_shares": 11200000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1120000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MKHL",
+      "name": "Mai Khola Hydropower Limited",
+      "listed_shares": 3921568,
+      "paid_up_value": 100.0,
+      "total_paid_up": 392156800.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "CKHL",
+      "name": "Chirkhwa Hydropower Limited",
+      "listed_shares": 4000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 400000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MMKJL",
+      "name": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "listed_shares": 10000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "DOLTI",
+      "name": "Dolti Power Company Limited",
+      "listed_shares": 5364860,
+      "paid_up_value": 100.0,
+      "total_paid_up": 536486000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "BHL",
+      "name": "Balephi Hydropower Limited",
+      "listed_shares": 18279700,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1827970000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "GVL",
+      "name": "Green Ventures Limited",
+      "listed_shares": 3125000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 3124999936.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MSHL",
+      "name": "Mid-Solu Hydropower Limited",
+      "listed_shares": 7484000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 748400000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "RIDI",
+      "name": "Ridi Power Company Limited",
+      "listed_shares": 15489012,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1548901200.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MEHL",
+      "name": "Manakamana Engineering Hydropower Limited",
+      "listed_shares": 8000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 800000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "IHL",
+      "name": "Ingwa Hydropower Limited",
+      "listed_shares": 6000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 600000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SMHL",
+      "name": "Super Madi Hydropower Limited",
+      "listed_shares": 21000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2100000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MCHL",
+      "name": "Menchhiyam Hydropower Limited",
+      "listed_shares": 5425833,
+      "paid_up_value": 100.0,
+      "total_paid_up": 542583300.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "SANVI",
+      "name": "Sanvi Energy Limited",
+      "listed_shares": 8800000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 880000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "RAWA",
+      "name": "Rawa Energy Development Limited",
+      "listed_shares": 2800000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 280000000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "ULHC",
+      "name": "Upper Lohore Khola Hydropower Company Limited",
+      "listed_shares": 5098040,
+      "paid_up_value": 100.0,
+      "total_paid_up": 509804000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "BGWT",
+      "name": "Bhagawati Hydropower Development Company Ltd.",
+      "listed_shares": 5720647,
+      "paid_up_value": 100.0,
+      "total_paid_up": 572064700.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "MANDU",
+      "name": "Mandu Hydropower Ltd.",
+      "listed_shares": 13636370,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1363637000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "VLUCL",
+      "name": "Vision Lumbini Urja Company Limited",
+      "listed_shares": 19125000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1912500000.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "CIT",
+      "name": "Citizen Investment Trust",
+      "listed_shares": 42510003,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4251000576.0,
+      "sector": "Investment"
+    },
+    {
+      "symbol": "HATHY",
+      "name": "Hathway Investment Nepal Limited",
+      "listed_shares": 23400000,
+      "paid_up_value": 50.0,
+      "total_paid_up": 1170000000.0,
+      "sector": "Investment"
+    },
+    {
+      "symbol": "HIDCL",
+      "name": "Hydorelectricity Investment and Development Company Ltd",
+      "listed_shares": 246708000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 24670799872.0,
+      "sector": "Investment"
+    },
+    {
+      "symbol": "NIFRA",
+      "name": "Nepal Infrastructure Bank Limited",
+      "listed_shares": 216000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 21600000000.0,
+      "sector": "Investment"
+    },
+    {
+      "symbol": "ENL",
+      "name": "Emerging Nepal Limited",
+      "listed_shares": 555600,
+      "paid_up_value": 100.0,
+      "total_paid_up": 55560000.0,
+      "sector": "Investment"
+    },
+    {
+      "symbol": "NRN",
+      "name": "NRN Infrastructure and Development Limited",
+      "listed_shares": 12232117,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1223211648.0,
+      "sector": "Investment"
+    },
+    {
+      "symbol": "CHDC",
+      "name": "CEDB Holdings Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Investment"
+    },
+    {
+      "symbol": "ALICL",
+      "name": "Asian Life Insurance Co. Limited",
+      "listed_shares": 29081112,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2908111104.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "LICN",
+      "name": "Life Insurance Co. Nepal",
+      "listed_shares": 26532000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2653200000.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "NLIC",
+      "name": "Nepal Life Insurance Co. Ltd.",
+      "listed_shares": 82079666,
+      "paid_up_value": 100.0,
+      "total_paid_up": 8207966600.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "NLICL",
+      "name": "National Life Insurance Co. Ltd.",
+      "listed_shares": 46404320,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4640432128.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "CLI",
+      "name": "Citizen Life Insurance Company Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "RNLI",
+      "name": "Reliable Nepal Life Insurance Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "ILI",
+      "name": "IME Life Insurance Company Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "SNLI",
+      "name": "Sun Nepal Life Insurance Company Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "SJLIC",
+      "name": "SuryaJyoti Life Insurance Company Limited",
+      "listed_shares": 45455721,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4545572100.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "SRLI",
+      "name": "Sanima Reliance Life Insurance Limited",
+      "listed_shares": 41840000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4184000000.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "HLI",
+      "name": "Himalayan Life Insurance Limited",
+      "listed_shares": 80203836,
+      "paid_up_value": 100.0,
+      "total_paid_up": 8020383602.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "PMLI",
+      "name": "Prabhu Mahalaxmi Life Insurance Limited",
+      "listed_shares": 42960000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4296000000.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "GMLI",
+      "name": "Guardian Micro-Life Insurance Limited",
+      "listed_shares": 7500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 750000000.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "CREST",
+      "name": "Crest Micro Life Insurance Ltd.",
+      "listed_shares": 7500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 75000000.0,
+      "sector": "Life Insurance"
+    },
+    {
+      "symbol": "BNL",
+      "name": "Bottlers Nepal (Balaju) Limited",
+      "listed_shares": 1948887,
+      "paid_up_value": 100.0,
+      "total_paid_up": 194888700.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "BNT",
+      "name": "Bottlers Nepal (Terai) Limited",
+      "listed_shares": 1210000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 121000000.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "HDL",
+      "name": "Himalayan Distillery Limited",
+      "listed_shares": 24295666,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2429566720.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "NLO",
+      "name": "Nepal Lube Oil Limited",
+      "listed_shares": 485749,
+      "paid_up_value": 100.0,
+      "total_paid_up": 48574900.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "UNL",
+      "name": "Unilever Nepal Limited",
+      "listed_shares": 920700,
+      "paid_up_value": 100.0,
+      "total_paid_up": 92070000.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "SHIVM",
+      "name": "SHIVAM CEMENTS LTD",
+      "listed_shares": 44000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 4400000000.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "SARBTM",
+      "name": "Sarbottam Cement Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 16781850000.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "SONA",
+      "name": "Sonapur Minerals and Oil Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "OMPL",
+      "name": "Om Megashree Pharmaceuticals Limited",
+      "listed_shares": 6000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 600000000.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "GCIL",
+      "name": "Ghorahi Cement Industry Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Manufacturing And Processing"
+    },
+    {
+      "symbol": "CBBL",
+      "name": "Chhimek Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 23241000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2324100000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "DDBL",
+      "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 13874985,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1387498500.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "FMDBL",
+      "name": "First Micro Finance Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 11477460,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1147746048.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "KMCDB",
+      "name": "Kalika Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 3128755,
+      "paid_up_value": 100.0,
+      "total_paid_up": 312875500.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "NUBL",
+      "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 26120798,
+      "paid_up_value": 100.0,
+      "total_paid_up": 26120798.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SKBBL",
+      "name": "Sana Kisan Bikas Laghubitta Bittiya sanstha Limited.",
+      "listed_shares": 15644138,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1564413824.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SLBBL",
+      "name": "Swarojgar Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 5140992,
+      "paid_up_value": 100.0,
+      "total_paid_up": 514099200.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SWBBL",
+      "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 12904955,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1290495500.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "MLBBL",
+      "name": "Mithila Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 1960029,
+      "paid_up_value": 100.0,
+      "total_paid_up": 196002900.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "LLBS",
+      "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 3840540,
+      "paid_up_value": 100.0,
+      "total_paid_up": 384053984.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "JSLBB",
+      "name": "Janautthan Samudayic Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 1479060,
+      "paid_up_value": 100.0,
+      "total_paid_up": 147906000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "VLBS",
+      "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 3200000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 320000000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "RSDC",
+      "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 8695683,
+      "paid_up_value": 100.0,
+      "total_paid_up": 869568320.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "NMBMF",
+      "name": "NMB Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 6558630,
+      "paid_up_value": 100.0,
+      "total_paid_up": 655862848.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "MERO",
+      "name": "Meromicrofinance Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 13200000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1320000000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "NADEP",
+      "name": "Nadep Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "ALBSL",
+      "name": "Asha Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 3339140,
+      "paid_up_value": 100.0,
+      "total_paid_up": 333913984.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "NMFBS",
+      "name": "National Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 10842063,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1084206300.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "GMFBS",
+      "name": "Ganapati Microfinance Bittiya Sanstha Ltd",
+      "listed_shares": 1515546,
+      "paid_up_value": 100.0,
+      "total_paid_up": 151554592.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "HLBSL",
+      "name": "Himalayan Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 3198182,
+      "paid_up_value": 100.0,
+      "total_paid_up": 319818200.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "ILBS",
+      "name": "Infinity Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 4974160,
+      "paid_up_value": 100.0,
+      "total_paid_up": 497416000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "FOWAD",
+      "name": "Forward Microfinance Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 10555639,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10555639.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SMATA",
+      "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 3427442,
+      "paid_up_value": 100.0,
+      "total_paid_up": 342744224.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "MSLB",
+      "name": "Mahuli Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 2821694,
+      "paid_up_value": 100.0,
+      "total_paid_up": 282169408.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "GILB",
+      "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 6189001,
+      "paid_up_value": 100.0,
+      "total_paid_up": 618900100.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SMB",
+      "name": "Support Microfinance Bittiya Sanstha Ltd.",
+      "listed_shares": 858000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 85800000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "GBLBS",
+      "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+      "listed_shares": 9825000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 982500000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "NESDO",
+      "name": "NESDO Sambridha Laghubitta Bittiye Sanstha Limited",
+      "listed_shares": 2550000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 255000000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "MLBSL",
+      "name": "Mahila Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 2175625,
+      "paid_up_value": 100.0,
+      "total_paid_up": 217562500.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "GLBSL",
+      "name": "Gurans Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 1014000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 101400000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "NICLBSL",
+      "name": "NIC Asia Laghubitta Biitiya Sanstha Limited",
+      "listed_shares": 17394400,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1739440000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SLBSL",
+      "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 1320000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 132000000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "UNLB",
+      "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 1106325,
+      "paid_up_value": 100.0,
+      "total_paid_up": 110632500.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "JBLB",
+      "name": "Jeevan Bikas Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 10342800,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1034280000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SHLB",
+      "name": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 1093750,
+      "paid_up_value": 100.0,
+      "total_paid_up": 109375000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "ULBSL",
+      "name": "Upakar Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 1061484,
+      "paid_up_value": 100.0,
+      "total_paid_up": 106148400.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SMFBS",
+      "name": "Swabhimaan Laghubitta Bittiya Sanstha Ltd",
+      "listed_shares": 1217822,
+      "paid_up_value": 100.0,
+      "total_paid_up": 121782152.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "WNLB",
+      "name": "WEAN Nepal Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 792055,
+      "paid_up_value": 100.0,
+      "total_paid_up": 79205504.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SAMAJ",
+      "name": "Samaj Laghubittya Bittiya Sanstha Limited",
+      "listed_shares": 228500,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "DLBS",
+      "name": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 1331000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 133100000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "ANLB",
+      "name": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 623380,
+      "paid_up_value": 100.0,
+      "total_paid_up": 62338000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "MLBS",
+      "name": "Manushi Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 1093750,
+      "paid_up_value": 100.0,
+      "total_paid_up": 109375000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "AVYAN",
+      "name": "Aviyan Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 2500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 250000000.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "ACLBSL",
+      "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 3671435,
+      "paid_up_value": 100.0,
+      "total_paid_up": 367143488.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "USLB",
+      "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 2290207,
+      "paid_up_value": 100.0,
+      "total_paid_up": 229020704.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "CYCL",
+      "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 1581343,
+      "paid_up_value": 100.0,
+      "total_paid_up": 158134304.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SWMF",
+      "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 7919848,
+      "paid_up_value": 100.0,
+      "total_paid_up": 791984800.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "NMLBBL",
+      "name": "Nerude Mirmire Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 13977643,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1397764300.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "MATRI",
+      "name": "Matribhumi Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 628357337.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SMPDA",
+      "name": "Sampada Laghubitta Bittiya Sanstha Limited",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 700858345.0,
+      "sector": "Microfinance"
+    },
+    {
+      "symbol": "SEF",
+      "name": "Siddhartha Equity Fund",
+      "listed_shares": 150000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1500000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SAEF",
+      "name": "Sanima Equity Fund",
+      "listed_shares": 130000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1300000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NBF2",
+      "name": "NABIL BALANCED FUND-2",
+      "listed_shares": 112000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1120000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "CMF2",
+      "name": "CITIZENS MUTUAL FUND 2",
+      "listed_shares": 56000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 560000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NIBLSF",
+      "name": "NIBL Sahabhagita Fund",
+      "listed_shares": 36516605,
+      "paid_up_value": 10.0,
+      "total_paid_up": 365166050.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NMB50",
+      "name": "NMB 50",
+      "listed_shares": 125000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SIGS2",
+      "name": "Siddhartha Investment Growth Scheme - 2",
+      "listed_shares": 120000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1200000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NICBF",
+      "name": "NIC Asia Balanced Fund",
+      "listed_shares": 75500000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 755000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SFMF",
+      "name": "Sunrise First Mutual Fund",
+      "listed_shares": 86000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 860000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "LUK",
+      "name": "Laxmi unnati Kosh",
+      "listed_shares": 65262360,
+      "paid_up_value": 10.0,
+      "total_paid_up": 652623600.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NADDF",
+      "name": "Nic Asia Dynamic Debt Fund",
+      "listed_shares": 49898450,
+      "paid_up_value": 10.0,
+      "total_paid_up": 498984500.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SLCF",
+      "name": "Sanima Large Cap Fund",
+      "listed_shares": 120000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1200000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "KEF",
+      "name": "Kumari Equity Fund",
+      "listed_shares": 100000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SBCF",
+      "name": "Sunrise Bluechip Fund",
+      "listed_shares": 125000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NIBSF2",
+      "name": "NIBL Samriddhi Fund 2",
+      "listed_shares": 150000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1500000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "PSF",
+      "name": "Prabhu Select Fund",
+      "listed_shares": 125000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NICSF",
+      "name": "NIC Asia Select - 30 (Index Fund)",
+      "listed_shares": 125000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SSIS",
+      "name": "Siddhartha Systematic Investment Scheme",
+      "listed_shares": 20000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 200000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "RMF1",
+      "name": "RBB Mutual Fund 1",
+      "listed_shares": 125000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "MMF1",
+      "name": "Mega Mutual Fund-1",
+      "listed_shares": 125000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NMBSBFE",
+      "name": "NMB Saral Bachat Fund-E",
+      "listed_shares": 55000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 550000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NBF3",
+      "name": "Nabil Balanced Fund-3",
+      "listed_shares": 125000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "KDBY",
+      "name": "Kumari Dhanabriddhi Yojana",
+      "listed_shares": 122507259,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1225072590.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NICFC",
+      "name": "NIC ASIA Flexi CAP Fund",
+      "listed_shares": 102000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1020000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "GIBF1",
+      "name": "Global IME Balanced Fund-1",
+      "listed_shares": 102576360,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1025763600.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SLK",
+      "name": "Shubha Laxmi Kosh",
+      "listed_shares": 50000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 500000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NSIF2",
+      "name": "NMB Sulav Investment Fund - 2",
+      "listed_shares": 122100000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1221000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SAGF",
+      "name": "Sanima Growth Fund",
+      "listed_shares": 67253260,
+      "paid_up_value": 10.0,
+      "total_paid_up": 672532600.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NFCF",
+      "name": "Nabil Flexi Cap Fund",
+      "listed_shares": 75000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 750000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NIBLGF",
+      "name": "NIBL Growth Fund",
+      "listed_shares": 132000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1320000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SFEF",
+      "name": "Sunrise Focused Equity Fund",
+      "listed_shares": 100000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "PRSF",
+      "name": "Prabhu Smart Fund",
+      "listed_shares": 100000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "KSLY",
+      "name": "Kumari Sunaulo Lagani Yojana",
+      "listed_shares": 35000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 350000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SIGS3",
+      "name": "Siddhartha Investment Growth Scheme 3",
+      "listed_shares": 80580000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 805800000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "C30MF",
+      "name": "Citizens Super 30 Mutual Fund",
+      "listed_shares": 75072390,
+      "paid_up_value": 10.0,
+      "total_paid_up": 750723900.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "RMF2",
+      "name": "RBB Mutual Fund 2",
+      "listed_shares": 84611929,
+      "paid_up_value": 10.0,
+      "total_paid_up": 846119290.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "LVF2",
+      "name": "Laxmi Value Fund 2",
+      "listed_shares": 80000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 800000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "H8020",
+      "name": "Himalayan 80-20",
+      "listed_shares": 100000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1000000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NICGF2",
+      "name": "NIC Asia Growth Fund-2",
+      "listed_shares": 85000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 850000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NIBLSTF",
+      "name": "NIBL Stable Fund",
+      "listed_shares": 113000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1130000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "KSY",
+      "name": "Kumari Sabal Yojana",
+      "listed_shares": 74475070,
+      "paid_up_value": 10.0,
+      "total_paid_up": 744750700.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "MNMF1",
+      "name": "Muktinath Mutual Fund 1",
+      "listed_shares": 125000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "GSY",
+      "name": "Garima Samriddhi Yojana",
+      "listed_shares": 125000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NMBHF2",
+      "name": "NMB Hybrid Fund L-II",
+      "listed_shares": 102000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1020000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "SFF",
+      "name": "Sanima Flexi Fund",
+      "listed_shares": 25000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 250000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "MBLEF",
+      "name": "MBL Equity Fund",
+      "listed_shares": 102000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1020000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "RSY",
+      "name": "Reliable Samriddhi Yojana",
+      "listed_shares": 120000000,
+      "paid_up_value": 10.0,
+      "total_paid_up": 1200000000.0,
+      "sector": "Mutual Fund"
+    },
+    {
+      "symbol": "NICL",
+      "name": "Nepal Insurance Co. Ltd.",
+      "listed_shares": 14947655,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1494765500.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "NIL",
+      "name": "Neco Insurance Co. Ltd.",
+      "listed_shares": 20123606,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2012360600.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "NLG",
+      "name": "NLG Insurance Company Ltd.",
+      "listed_shares": 13266144,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1326614400.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "SICL",
+      "name": "Shikhar Insurance Co. Ltd.",
+      "listed_shares": 26518542,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2651854200.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "PRIN",
+      "name": "Prabhu Insurance Ltd.",
+      "listed_shares": 13761223,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1376122300.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "RBCL",
+      "name": "Rastriya Beema Company Limited",
+      "listed_shares": 2666365,
+      "paid_up_value": 100.0,
+      "total_paid_up": 266636500.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "IGI",
+      "name": "IGI Prudential Insurance Company Limited",
+      "listed_shares": 18037506,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1803750600.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "HEI",
+      "name": "Himalayan Everest Insurance Limited",
+      "listed_shares": 22399367,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2239936700.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "SGIC",
+      "name": "Sanima GIC Insurance Limited",
+      "listed_shares": 20000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2000000000.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "SPIL",
+      "name": "Siddhartha Premier Insurance Limited",
+      "listed_shares": 28065499,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2806549900.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "SALICO",
+      "name": "Sagarmatha Lumbini Insurance Co. Limited",
+      "listed_shares": 26226382,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2622638200.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "UAIL",
+      "name": "United Ajod Insurance Limited",
+      "listed_shares": 19045680,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1904568000.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "NMIC",
+      "name": "Nepal Micro Insurance Co. Ltd.",
+      "listed_shares": 7500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 750000000.0,
+      "sector": "Non-Life Insurance"
+    },
+    {
+      "symbol": "NTC",
+      "name": "Nepal Doorsanchar Comapany Limited",
+      "listed_shares": 180000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 17999998976.0,
+      "sector": "Others"
+    },
+    {
+      "symbol": "NRIC",
+      "name": "Nepal Re-Insurance Company Limited",
+      "listed_shares": 122325000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 12232500224.0,
+      "sector": "Others"
+    },
+    {
+      "symbol": "HRL",
+      "name": "Himalayan Reinsurance Limited",
+      "listed_shares": 100000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000000.0,
+      "sector": "Others"
+    },
+    {
+      "symbol": "MKCL",
+      "name": "Muktinath Krishi Company Limited",
+      "listed_shares": 7000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 700000000.0,
+      "sector": "Others"
+    },
+    {
+      "symbol": "TTL",
+      "name": "Trade Tower Limited",
+      "listed_shares": 8156097,
+      "paid_up_value": 100.0,
+      "total_paid_up": 815609700.0,
+      "sector": "Others"
+    },
+    {
+      "symbol": "NRM",
+      "name": "Nepal Republic Media Limited",
+      "listed_shares": 9650000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 965000000.0,
+      "sector": "Others"
+    },
+    {
+      "symbol": "PURE",
+      "name": "Pure Energy Ltd.",
+      "listed_shares": 8000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 800000000.0,
+      "sector": "Others"
+    },
+    {
+      "symbol": "NWCL",
+      "name": "Nepal Warehousing Company Limited",
+      "listed_shares": 6875000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 687500000.0,
+      "sector": "Others"
+    },
+    {
+      "symbol": "ALICLP",
+      "name": "Asian Life Insurance Co. Ltd Promoter Share",
+      "listed_shares": 100000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "CZBILP",
+      "name": "Citizens Bank Internatioal Limited Promoter Share",
+      "listed_shares": 10000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "EBLPO",
+      "name": "Everest Bank Limited Promoter Share",
+      "listed_shares": 100000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GBIMEP",
+      "name": "Global IME Bank Limited Promoter Share",
+      "listed_shares": 100000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GFCLPO",
+      "name": "Goodwill Finance Company Limited Promoter Share",
+      "listed_shares": 461896,
+      "paid_up_value": 100.0,
+      "total_paid_up": 46189600.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "HBLPO",
+      "name": "Himalayan Bank Limited Promoter Share",
+      "listed_shares": 100000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "ICFCPO",
+      "name": "ICFC Finance Limited Promotor Share",
+      "listed_shares": 2223340,
+      "paid_up_value": 100.0,
+      "total_paid_up": 222334000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "JBBLPO",
+      "name": "Jyoti Bikash Bank Ltd. Promoter Share",
+      "listed_shares": 100000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "JFLPO",
+      "name": "Janaki Finance Limited Promoter Share",
+      "listed_shares": 240000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 24000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "KBLPO",
+      "name": "Kumari Bank Limited Promotor Share",
+      "listed_shares": 5250000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 525000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "LBLPO",
+      "name": "Laxmi Bank Limited Promoter Share",
+      "listed_shares": 4717008,
+      "paid_up_value": 100.0,
+      "total_paid_up": 471700800.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MBLPO",
+      "name": "Machhapuchchhre Bank Limited Promotor Share",
+      "listed_shares": 5751559,
+      "paid_up_value": 100.0,
+      "total_paid_up": 575155900.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NABILP",
+      "name": "NABIL Bank Limited Promotor Share",
+      "listed_shares": 4811751,
+      "paid_up_value": 100.0,
+      "total_paid_up": 481175100.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NICAP",
+      "name": "NIC Asia Bank Limted Promoter Share",
+      "listed_shares": 5148000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 514800000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NLICLP",
+      "name": "National Life Insurance Co. Ltd. Promoter Share",
+      "listed_shares": 200000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 20000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NMBPO",
+      "name": "NMB Bank Limited Promoter Share",
+      "listed_shares": 8579999,
+      "paid_up_value": 100.0,
+      "total_paid_up": 857999900.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "PCBLP",
+      "name": "Prime Commercial Bank Limited Promoter Share",
+      "listed_shares": 400000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 40000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "PFLPO",
+      "name": "Pokhara Finance Company Limited Promoter Share",
+      "listed_shares": 1862078,
+      "paid_up_value": 100.0,
+      "total_paid_up": 186207800.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "PROFLP",
+      "name": "Progressive Finance Limited Promoter Share",
+      "listed_shares": 180000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 18000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SNMAPO",
+      "name": "Sanima Bank Limited Promoter Share",
+      "listed_shares": 5376000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 537600000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SBIPO",
+      "name": "Nepal SBI Bank Ltd. Promoter Share",
+      "listed_shares": 6114353,
+      "paid_up_value": 100.0,
+      "total_paid_up": 611435300.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SBLPO",
+      "name": "Siddhartha Bank Limited Promoter Share",
+      "listed_shares": 3000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 300000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SIFCPO",
+      "name": "Shree Investment & Finance Company Limited Promoter Share",
+      "listed_shares": 1000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 100000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SLICLP",
+      "name": "Surya Life Insurance Co. Ltd. Promoter Share",
+      "listed_shares": 900000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 90000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SRBLPO",
+      "name": "Sunrise Bank Ltd Promoter Share",
+      "listed_shares": 20000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 2000000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SWBBLP",
+      "name": "Swabalamban Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 175000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 17500000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "TBBLP",
+      "name": "Triveni Bikas Bank Limited Promoter Share",
+      "listed_shares": 500000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 50000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "UFLPO",
+      "name": "United Finance Company Limited Promoter Share",
+      "listed_shares": 900000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 90000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MDBPO",
+      "name": "Miteri Development Bank Limited Promoter Share",
+      "listed_shares": 10000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 1000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "EDBLPO",
+      "name": "Excel Development Bank Ltd. Promoter Share",
+      "listed_shares": 100000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NILPO",
+      "name": "Neco Insurace Co. Ltd. Promoter",
+      "listed_shares": 1352216,
+      "paid_up_value": 100.0,
+      "total_paid_up": 135221600.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GLICLP",
+      "name": "Gurans Life Insurance Company Ltd. Promoter Share",
+      "listed_shares": 100000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GBBLPO",
+      "name": "Garima Bikas Bank Limited Promoter Share",
+      "listed_shares": 100000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SICLPO",
+      "name": "Shikhar Insurance Company Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "PRVUPO",
+      "name": "Prabhu Bank Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "LLBSPO",
+      "name": "Laxmi Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MNBBLP",
+      "name": "Muktinath Bikas Bank Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NFSPO",
+      "name": "Nepal Finance Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "RLFLPO",
+      "name": "Reliance Finance Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NLBBLP",
+      "name": "Nerude Laghubita Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NUBLPO",
+      "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SKBBLP",
+      "name": "Sana Kisan Bikas Laghubitta Bittiya sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SHINEP",
+      "name": "Shine Resunga Development Bank Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SINDUP",
+      "name": "Sindhu Bikash Bank Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SCBPO",
+      "name": "Standard Chartered Bank Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SMFDBP",
+      "name": "Summit Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "CFCLPO",
+      "name": "Central Finance Company Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "RBCLPO",
+      "name": "Rastriya Beema Company Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "KMCDBP",
+      "name": "Kalika Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "PRINPO",
+      "name": "Prabhu Insurance Company Ltd. Promoter",
+      "listed_shares": 1000000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 100000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "DDBLPO",
+      "name": "Deprosc LaghuBitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NLGPO",
+      "name": "NLG Insurance Company Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NICLPO",
+      "name": "Nepal Insurance Co. Ltd Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "LICNPO",
+      "name": "Life Insurance Co. Nepal Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "CBBLPO",
+      "name": "Chhimek Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MLBBLP",
+      "name": "Mithila Laghubitta Bikas Bank Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SADBLP",
+      "name": "Shangrila Development Bank Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MMFDBP",
+      "name": "Mirmire Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "VLBSPO",
+      "name": "Vijaya laghubitta Bittiya Sanstha Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "JSLBBP",
+      "name": "Janautthan Samudayic Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SLBBLP",
+      "name": "Swarojgar Laghu Bitta Bikas Bank Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "FMDBLP",
+      "name": "First Micro Finance Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GMFILP",
+      "name": "Guheyshwori Merchant & Finance Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MFILPO",
+      "name": "Manjushree Finance Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GUFLPO",
+      "name": "Gurkhas Finance Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "KRBLPO",
+      "name": "Karnali Development Bank Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "KSBBLP",
+      "name": "Kamana Sewa Bikas Bank Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MLBLPO",
+      "name": "Mahalxmi Bikas Bank Ltd. Promotor Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MPFLPO",
+      "name": "Multipurpose Finance Company  Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "LBBLPO",
+      "name": "Lumbini Bikas Bank Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "IGIPO",
+      "name": "IGI Prudential insurance Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NADEPP",
+      "name": "Nadep Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NMBMFP",
+      "name": "NMB  Microfinance Bittiya Sanstha Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SFCLP",
+      "name": "Samriddhi Finance Company Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GRDBLP",
+      "name": "Green Development Bank Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GBLBSP",
+      "name": "Grameen Bikas Lagubitta Bittiya Sanstha Limited (Promoter Share)",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SAPDBLP",
+      "name": "Saptakoshi Development Bank Ltd Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "RSDCP",
+      "name": "RSDC Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NMFBSP",
+      "name": "National Laghubitta Bittiya Sanstha Ltd. Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "FOWADP",
+      "name": "Forward Community Microfinance Bittiya Sanstha Ltd Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MSLBP",
+      "name": "Mahuli Laghubitta Bittiya Sanstha Ltd Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "HLBSLP",
+      "name": "Himalayan Laghubitta Bittiya Sanstha Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MEROPO",
+      "name": "Meromicrofinance Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "KLBSLP",
+      "name": "Kisan Lagubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "HIDCLP",
+      "name": "Hydroelectricity Investment and Development Company Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SMBPO",
+      "name": "Support Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NICLBSLP",
+      "name": "NIC ASIA Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NABBCP",
+      "name": "Narayani Development Bank Limited Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "JBLBP",
+      "name": "Jeevan Bikas Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "CORBLPO",
+      "name": "Corporate Development Bank Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "ACLBSLP",
+      "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "ALBSLP",
+      "name": "Asha Laghubitta Bittiya Sanstha Ltd Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SMFBSP",
+      "name": "Swabhimaan Laghubitta Bittiya sanstha Limited",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "ILBSP",
+      "name": "Infinity Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SMATAP",
+      "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GILBPO",
+      "name": "Global IME Laghubitta Bittiya Sanstha Ltd. Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SWMFPO",
+      "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "USLBP",
+      "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "HEIP",
+      "name": "Himalayan Everest Insurance Limited Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 100.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "CLIP",
+      "name": "Citizen Life Insurance Company Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "AVYANP",
+      "name": "Aviyan Laghubitta Bittiya Sanstha Limited Promotor Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NIMBPO",
+      "name": "Nepal Investment Mega Bank Ltd. Promoter Share",
+      "listed_shares": 183075408,
+      "paid_up_value": 100.0,
+      "total_paid_up": 18307540800.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SJLICP",
+      "name": "Suryajyoti Life Insurance Co. Ltd. Promotor Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SPILPO",
+      "name": "Siddhartha Premier Insurance Limited Promoter Share",
+      "listed_shares": 5480256,
+      "paid_up_value": 0.0,
+      "total_paid_up": 287502300.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "ANLBP",
+      "name": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "WNLBP",
+      "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 600000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 60000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "HLIPO",
+      "name": "Himalayan Life Insurance Limited Promoter Share",
+      "listed_shares": 4881600,
+      "paid_up_value": 100.0,
+      "total_paid_up": 488160000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "KPCLPO",
+      "name": "Kalika Power Company Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SALICOPO",
+      "name": "Sagarmatha Lumbini Insurance Co. Limited Promoter Share",
+      "listed_shares": 100000,
+      "paid_up_value": 100.0,
+      "total_paid_up": 10000000.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "LSLPO",
+      "name": "Laxmi Sunrise Bank Limited Promoter Share",
+      "listed_shares": 4717008,
+      "paid_up_value": 0.0,
+      "total_paid_up": 100.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "RNLIP",
+      "name": "Reliable Nepal Life Insurance Limited Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SNLIP",
+      "name": "Sun Nepal Life Insurance Company Limited promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "CITPO",
+      "name": "Citizen Investment Trust Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NRICP",
+      "name": "Nepal Reinsurance Company Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "PMLIP",
+      "name": "Prabhu Mahalaxmi Life Insurance Limited promotor",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "HRLP",
+      "name": "Himalayan Reinsurance Limited Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "UAILPO",
+      "name": "United Ajod Insurance Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "UNLBP",
+      "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NIFRAP",
+      "name": "Nepal Infrastructure Bank Limited Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SGICP",
+      "name": "Sanima GIC Insurance Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SMPDAP",
+      "name": "Sampada Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NMLBBLP",
+      "name": "Nerude Mirmire Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MATRIP",
+      "name": "Matribhumi Lagubitta Bittiya Sanstha Limited Promoter",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MLBSLP",
+      "name": "Mahila Lagubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "CYCLP",
+      "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SLBSLPO",
+      "name": "Samudayik Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "MLBSP",
+      "name": "Manushi Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NESDOP",
+      "name": "NESDO Sambridha Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "GMFBSP",
+      "name": "Ganapati Laghubitta Bittiya Sanstha Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "SRLIP",
+      "name": "Sanima Reliance Life Insurance Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "NMICP",
+      "name": "Nepal Micro Insurance Company Limited Promoter Share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "CRESTP",
+      "name": "Crest Micro Life Insurance Limited Promoter share",
+      "listed_shares": 0,
+      "paid_up_value": 0.0,
+      "total_paid_up": 0.0,
+      "sector": "Promotor Share"
+    },
+    {
+      "symbol": "BBC",
+      "name": "Bishal Bazar Company Limited",
+      "listed_shares": 491400,
+      "paid_up_value": 100.0,
+      "total_paid_up": 49140000.0,
+      "sector": "Tradings"
+    },
+    {
+      "symbol": "STC",
+      "name": "Salt Trading Corporation",
+      "listed_shares": 2535312,
+      "paid_up_value": 100.0,
+      "total_paid_up": 253531200.0,
+      "sector": "Tradings"
+    }
+  ]
+}
