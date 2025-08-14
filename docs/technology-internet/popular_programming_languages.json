@@ -1,0 +1,147 @@
+{
+  "title": "TIOBE Index - Top Programming Languages (August 2025)",
+  "subtitle": "Popularity rankings of programming languages as of August 2025",
+  "updated_at": "August 14, 2025 10:07 AM UTC",
+  "data": [
+    {
+      "rank_2025": "1",
+      "rank_2024": "1",
+      "language": "Python",
+      "rating_percent": "26.14%",
+      "rating_change": "+8.10%"
+    },
+    {
+      "rank_2025": "2",
+      "rank_2024": "2",
+      "language": "C++",
+      "rating_percent": "9.18%",
+      "rating_change": "-0.86%"
+    },
+    {
+      "rank_2025": "3",
+      "rank_2024": "3",
+      "language": "C",
+      "rating_percent": "9.03%",
+      "rating_change": "-0.15%"
+    },
+    {
+      "rank_2025": "4",
+      "rank_2024": "4",
+      "language": "Java",
+      "rating_percent": "8.59%",
+      "rating_change": "-0.58%"
+    },
+    {
+      "rank_2025": "5",
+      "rank_2024": "5",
+      "language": "C#",
+      "rating_percent": "5.52%",
+      "rating_change": "-0.87%"
+    },
+    {
+      "rank_2025": "6",
+      "rank_2024": "6",
+      "language": "JavaScript",
+      "rating_percent": "3.15%",
+      "rating_change": "-0.76%"
+    },
+    {
+      "rank_2025": "7",
+      "rank_2024": "8",
+      "language": "Visual Basic",
+      "rating_percent": "2.33%",
+      "rating_change": "+0.15%"
+    },
+    {
+      "rank_2025": "8",
+      "rank_2024": "9",
+      "language": "Go",
+      "rating_percent": "2.11%",
+      "rating_change": "+0.08%"
+    },
+    {
+      "rank_2025": "9",
+      "rank_2024": "25",
+      "language": "Perl",
+      "rating_percent": "2.08%",
+      "rating_change": "+1.17%"
+    },
+    {
+      "rank_2025": "10",
+      "rank_2024": "12",
+      "language": "Delphi/Object Pascal",
+      "rating_percent": "1.82%",
+      "rating_change": "+0.19%"
+    },
+    {
+      "rank_2025": "11",
+      "rank_2024": "10",
+      "language": "Fortran",
+      "rating_percent": "1.75%",
+      "rating_change": "-0.03%"
+    },
+    {
+      "rank_2025": "12",
+      "rank_2024": "7",
+      "language": "SQL",
+      "rating_percent": "1.72%",
+      "rating_change": "-0.49%"
+    },
+    {
+      "rank_2025": "13",
+      "rank_2024": "30",
+      "language": "Ada",
+      "rating_percent": "1.52%",
+      "rating_change": "+0.91%"
+    },
+    {
+      "rank_2025": "14",
+      "rank_2024": "19",
+      "language": "R",
+      "rating_percent": "1.37%",
+      "rating_change": "+0.26%"
+    },
+    {
+      "rank_2025": "15",
+      "rank_2024": "13",
+      "language": "PHP",
+      "rating_percent": "1.27%",
+      "rating_change": "-0.19%"
+    },
+    {
+      "rank_2025": "16",
+      "rank_2024": "11",
+      "language": "MATLAB",
+      "rating_percent": "1.19%",
+      "rating_change": "-0.53%"
+    },
+    {
+      "rank_2025": "17",
+      "rank_2024": "20",
+      "language": "Scratch",
+      "rating_percent": "1.15%",
+      "rating_change": "+0.06%"
+    },
+    {
+      "rank_2025": "18",
+      "rank_2024": "14",
+      "language": "Rust",
+      "rating_percent": "1.13%",
+      "rating_change": "-0.15%"
+    },
+    {
+      "rank_2025": "19",
+      "rank_2024": "18",
+      "language": "Kotlin",
+      "rating_percent": "1.10%",
+      "rating_change": "-0.04%"
+    },
+    {
+      "rank_2025": "20",
+      "rank_2024": "17",
+      "language": "Assembly language",
+      "rating_percent": "1.03%",
+      "rating_change": "-0.19%"
+    }
+  ]
+}

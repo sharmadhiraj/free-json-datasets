@@ -1,45 +1,62 @@
 [
   {
-    "category": "Demographics / World Data",
-    "datasets": [
-      {
-        "title": "World Population by Country (2025)",
-        "subtitle": "Latest country-wise population data as of 2025",
-        "updated_at": "August 13, 2025 02:27 PM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-world-data/world_population_by_country.json"
-      }
-    ]
-  },
-  {
-    "category": "Sports",
-    "datasets": [
-      {
-        "title": "Premier League Tables",
-        "subtitle": "Season-by-season league tables from 1992/93 to 2024/2025",
-        "updated_at": "August 13, 2025 02:31 PM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports/premier-league-table-all-seasons.json"
-      }
-    ]
-  },
-  {
-    "category": "Awards",
+    "category": "Awards & Achievements",
     "datasets": [
       {
         "title": "Nobel Prizes 2024",
         "subtitle": "Complete list of Nobel Prizes from 1901 to 2024",
-        "updated_at": "August 13, 2025 02:27 PM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards/nobel-prizes.json"
+        "updated_at": "August 14, 2025 10:06 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/nobel-prizes.json"
       }
     ]
   },
   {
-    "category": "Finance",
+    "category": "Demographics & Population",
     "datasets": [
+      {
+        "title": "World Population by Country (2025)",
+        "subtitle": "Latest country-wise population data as of 2025",
+        "updated_at": "August 14, 2025 10:06 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/world_population_by_country.json"
+      }
+    ]
+  },
+  {
+    "category": "Economy & Finance",
+    "datasets": [
+      {
+        "title": "Global GDP by Country (2023)",
+        "subtitle": "Nominal GDP (in USD) for all countries in 2023",
+        "updated_at": "August 14, 2025 10:06 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/gdp_by_country.json"
+      },
       {
         "title": "NEPSE Listed Companies",
         "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
-        "updated_at": "August 13, 2025 02:27 PM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/finance/nepse-listed-companies.json"
+        "updated_at": "August 14, 2025 10:06 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/nepse-listed-companies.json"
+      }
+    ]
+  },
+  {
+    "category": "Sports & Entertainment",
+    "datasets": [
+      {
+        "title": "Premier League Tables",
+        "subtitle": "Season-by-season league tables from 1992/93 to 2024/2025",
+        "updated_at": "August 14, 2025 10:07 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/premier-league-table-all-seasons.json"
+      }
+    ]
+  },
+  {
+    "category": "Technology & Internet",
+    "datasets": [
+      {
+        "title": "TIOBE Index - Top Programming Languages (August 2025)",
+        "subtitle": "Popularity rankings of programming languages as of August 2025",
+        "updated_at": "August 14, 2025 10:07 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/popular_programming_languages.json"
       }
     ]
   }

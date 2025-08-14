@@ -1,7 +1,7 @@
 {
   "title": "NEPSE Listed Companies",
   "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
-  "updated_at": "August 13, 2025 02:27 PM UTC",
+  "updated_at": "August 14, 2025 10:06 AM UTC",
   "data": [
     {
       "symbol": "ADBL",
@@ -785,6 +785,14 @@
       "listed_shares": 3000000,
       "paid_up_value": 1000.0,
       "total_paid_up": 3000000000.0,
+      "sector": "Corporate Debenture"
+    },
+    {
+      "symbol": "NICAD2091",
+      "name": "7% NIC Asia Debenture 2091",
+      "listed_shares": 5000000,
+      "paid_up_value": 1000.0,
+      "total_paid_up": 5000000000.0,
       "sector": "Corporate Debenture"
     },
     {

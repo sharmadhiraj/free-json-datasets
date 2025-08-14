@@ -1,0 +1,1817 @@
+{
+  "title": "Global GDP by Country (2023)",
+  "subtitle": "Nominal GDP (in USD) for all countries in 2023",
+  "updated_at": "August 14, 2025 10:06 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "country": "United States",
+      "gdp_nominal": "$27,720,700,000,000",
+      "gdp_abbrev": "27.721 trillion",
+      "gdp_growth": "2.89%",
+      "population": "343,477,335",
+      "gdp_per_capita": "$80,706",
+      "world_gdp_share": "26.11%"
+    },
+    {
+      "rank": "2",
+      "country": "China",
+      "gdp_nominal": "$17,794,800,000,000",
+      "gdp_abbrev": "17.795 trillion",
+      "gdp_growth": "5.25%",
+      "population": "1,422,584,933",
+      "gdp_per_capita": "$12,509",
+      "world_gdp_share": "16.76%"
+    },
+    {
+      "rank": "3",
+      "country": "Germany",
+      "gdp_nominal": "$4,525,700,000,000",
+      "gdp_abbrev": "4.526 trillion",
+      "gdp_growth": "−0.27%",
+      "population": "84,548,231",
+      "gdp_per_capita": "$53,528",
+      "world_gdp_share": "4.26%"
+    },
+    {
+      "rank": "4",
+      "country": "Japan",
+      "gdp_nominal": "$4,204,490,000,000",
+      "gdp_abbrev": "4.204 trillion",
+      "gdp_growth": "1.68%",
+      "population": "124,370,947",
+      "gdp_per_capita": "$33,806",
+      "world_gdp_share": "3.96%"
+    },
+    {
+      "rank": "5",
+      "country": "India",
+      "gdp_nominal": "$3,567,550,000,000",
+      "gdp_abbrev": "3.568 trillion",
+      "gdp_growth": "8.15%",
+      "population": "1,438,069,596",
+      "gdp_per_capita": "$2,481",
+      "world_gdp_share": "3.36%"
+    },
+    {
+      "rank": "6",
+      "country": "United Kingdom",
+      "gdp_nominal": "$3,380,850,000,000",
+      "gdp_abbrev": "3.381 trillion",
+      "gdp_growth": "0.34%",
+      "population": "68,682,962",
+      "gdp_per_capita": "$49,224",
+      "world_gdp_share": "3.18%"
+    },
+    {
+      "rank": "7",
+      "country": "France",
+      "gdp_nominal": "$3,051,830,000,000",
+      "gdp_abbrev": "3.052 trillion",
+      "gdp_growth": "0.94%",
+      "population": "66,438,822",
+      "gdp_per_capita": "$45,934",
+      "world_gdp_share": "2.87%"
+    },
+    {
+      "rank": "8",
+      "country": "Italy",
+      "gdp_nominal": "$2,300,940,000,000",
+      "gdp_abbrev": "2.301 trillion",
+      "gdp_growth": "0.7%",
+      "population": "59,499,453",
+      "gdp_per_capita": "$38,672",
+      "world_gdp_share": "2.17%"
+    },
+    {
+      "rank": "9",
+      "country": "Brazil",
+      "gdp_nominal": "$2,173,670,000,000",
+      "gdp_abbrev": "2.174 trillion",
+      "gdp_growth": "2.91%",
+      "population": "211,140,729",
+      "gdp_per_capita": "$10,295",
+      "world_gdp_share": "2.05%"
+    },
+    {
+      "rank": "10",
+      "country": "Canada",
+      "gdp_nominal": "$2,142,470,000,000",
+      "gdp_abbrev": "2.142 trillion",
+      "gdp_growth": "1.25%",
+      "population": "39,299,105",
+      "gdp_per_capita": "$54,517",
+      "world_gdp_share": "2.02%"
+    },
+    {
+      "rank": "11",
+      "country": "Russia",
+      "gdp_nominal": "$2,021,420,000,000",
+      "gdp_abbrev": "2.021 trillion",
+      "gdp_growth": "3.6%",
+      "population": "145,440,500",
+      "gdp_per_capita": "$13,899",
+      "world_gdp_share": "1.90%"
+    },
+    {
+      "rank": "12",
+      "country": "Mexico",
+      "gdp_nominal": "$1,789,110,000,000",
+      "gdp_abbrev": "1.789 trillion",
+      "gdp_growth": "3.2%",
+      "population": "129,739,759",
+      "gdp_per_capita": "$13,790",
+      "world_gdp_share": "1.69%"
+    },
+    {
+      "rank": "13",
+      "country": "Australia",
+      "gdp_nominal": "$1,728,060,000,000",
+      "gdp_abbrev": "1.728 trillion",
+      "gdp_growth": "3.44%",
+      "population": "26,451,124",
+      "gdp_per_capita": "$65,330",
+      "world_gdp_share": "1.63%"
+    },
+    {
+      "rank": "14",
+      "country": "South Korea",
+      "gdp_nominal": "$1,712,790,000,000",
+      "gdp_abbrev": "1.713 trillion",
+      "gdp_growth": "1.36%",
+      "population": "51,748,739",
+      "gdp_per_capita": "$33,098",
+      "world_gdp_share": "1.61%"
+    },
+    {
+      "rank": "15",
+      "country": "Spain",
+      "gdp_nominal": "$1,620,090,000,000",
+      "gdp_abbrev": "1.62 trillion",
+      "gdp_growth": "2.68%",
+      "population": "47,911,579",
+      "gdp_per_capita": "$33,814",
+      "world_gdp_share": "1.53%"
+    },
+    {
+      "rank": "16",
+      "country": "Indonesia",
+      "gdp_nominal": "$1,371,170,000,000",
+      "gdp_abbrev": "1.371 trillion",
+      "gdp_growth": "5.05%",
+      "population": "281,190,067",
+      "gdp_per_capita": "$4,876",
+      "world_gdp_share": "1.29%"
+    },
+    {
+      "rank": "17",
+      "country": "Netherlands",
+      "gdp_nominal": "$1,154,360,000,000",
+      "gdp_abbrev": "1.154 trillion",
+      "gdp_growth": "0.07%",
+      "population": "18,092,524",
+      "gdp_per_capita": "$63,803",
+      "world_gdp_share": "1.09%"
+    },
+    {
+      "rank": "18",
+      "country": "Turkey",
+      "gdp_nominal": "$1,118,250,000,000",
+      "gdp_abbrev": "1.118 trillion",
+      "gdp_growth": "5.11%",
+      "population": "87,270,501",
+      "gdp_per_capita": "$12,814",
+      "world_gdp_share": "1.05%"
+    },
+    {
+      "rank": "19",
+      "country": "Saudi Arabia",
+      "gdp_nominal": "$1,067,580,000,000",
+      "gdp_abbrev": "1.068 trillion",
+      "gdp_growth": "−0.76%",
+      "population": "33,264,292",
+      "gdp_per_capita": "$32,094",
+      "world_gdp_share": "1.01%"
+    },
+    {
+      "rank": "20",
+      "country": "Switzerland",
+      "gdp_nominal": "$884,940,000,000",
+      "gdp_abbrev": "884.94 billion",
+      "gdp_growth": "0.72%",
+      "population": "8,870,561",
+      "gdp_per_capita": "$99,761",
+      "world_gdp_share": "0.83%"
+    },
+    {
+      "rank": "21",
+      "country": "Poland",
+      "gdp_nominal": "$809,201,000,000",
+      "gdp_abbrev": "809.201 billion",
+      "gdp_growth": "0.14%",
+      "population": "38,762,844",
+      "gdp_per_capita": "$20,876",
+      "world_gdp_share": "0.76%"
+    },
+    {
+      "rank": "22",
+      "country": "Argentina",
+      "gdp_nominal": "$646,075,000,000",
+      "gdp_abbrev": "646.075 billion",
+      "gdp_growth": "−1.61%",
+      "population": "45,538,401",
+      "gdp_per_capita": "$14,187",
+      "world_gdp_share": "0.61%"
+    },
+    {
+      "rank": "23",
+      "country": "Belgium",
+      "gdp_nominal": "$644,783,000,000",
+      "gdp_abbrev": "644.783 billion",
+      "gdp_growth": "1.25%",
+      "population": "11,712,893",
+      "gdp_per_capita": "$55,049",
+      "world_gdp_share": "0.61%"
+    },
+    {
+      "rank": "24",
+      "country": "Sweden",
+      "gdp_nominal": "$584,960,000,000",
+      "gdp_abbrev": "584.96 billion",
+      "gdp_growth": "−0.31%",
+      "population": "10,551,494",
+      "gdp_per_capita": "$55,439",
+      "world_gdp_share": "0.55%"
+    },
+    {
+      "rank": "25",
+      "country": "Ireland",
+      "gdp_nominal": "$551,395,000,000",
+      "gdp_abbrev": "551.395 billion",
+      "gdp_growth": "−5.53%",
+      "population": "5,196,630",
+      "gdp_per_capita": "$106,106",
+      "world_gdp_share": "0.52%"
+    },
+    {
+      "rank": "26",
+      "country": "Thailand",
+      "gdp_nominal": "$514,969,000,000",
+      "gdp_abbrev": "514.969 billion",
+      "gdp_growth": "1.89%",
+      "population": "71,702,435",
+      "gdp_per_capita": "$7,182",
+      "world_gdp_share": "0.49%"
+    },
+    {
+      "rank": "27",
+      "country": "United Arab Emirates",
+      "gdp_nominal": "$514,130,000,000",
+      "gdp_abbrev": "514.13 billion",
+      "gdp_growth": "3.62%",
+      "population": "10,642,081",
+      "gdp_per_capita": "$48,311",
+      "world_gdp_share": "0.48%"
+    },
+    {
+      "rank": "28",
+      "country": "Israel",
+      "gdp_nominal": "$513,611,000,000",
+      "gdp_abbrev": "513.611 billion",
+      "gdp_growth": "2.42%",
+      "population": "9,256,314",
+      "gdp_per_capita": "$55,488",
+      "world_gdp_share": "0.48%"
+    },
+    {
+      "rank": "29",
+      "country": "Austria",
+      "gdp_nominal": "$511,685,000,000",
+      "gdp_abbrev": "511.685 billion",
+      "gdp_growth": "−0.95%",
+      "population": "9,130,429",
+      "gdp_per_capita": "$56,042",
+      "world_gdp_share": "0.48%"
+    },
+    {
+      "rank": "30",
+      "country": "Singapore",
+      "gdp_nominal": "$501,428,000,000",
+      "gdp_abbrev": "501.428 billion",
+      "gdp_growth": "1.07%",
+      "population": "5,789,090",
+      "gdp_per_capita": "$86,616",
+      "world_gdp_share": "0.47%"
+    },
+    {
+      "rank": "31",
+      "country": "Norway",
+      "gdp_nominal": "$485,311,000,000",
+      "gdp_abbrev": "485.311 billion",
+      "gdp_growth": "0.48%",
+      "population": "5,519,167",
+      "gdp_per_capita": "$87,932",
+      "world_gdp_share": "0.46%"
+    },
+    {
+      "rank": "32",
+      "country": "Bangladesh",
+      "gdp_nominal": "$437,415,000,000",
+      "gdp_abbrev": "437.415 billion",
+      "gdp_growth": "5.78%",
+      "population": "171,466,990",
+      "gdp_per_capita": "$2,551",
+      "world_gdp_share": "0.41%"
+    },
+    {
+      "rank": "33",
+      "country": "Philippines",
+      "gdp_nominal": "$437,146,000,000",
+      "gdp_abbrev": "437.146 billion",
+      "gdp_growth": "5.55%",
+      "population": "114,891,199",
+      "gdp_per_capita": "$3,805",
+      "world_gdp_share": "0.41%"
+    },
+    {
+      "rank": "34",
+      "country": "Vietnam",
+      "gdp_nominal": "$429,717,000,000",
+      "gdp_abbrev": "429.717 billion",
+      "gdp_growth": "5.05%",
+      "population": "100,352,192",
+      "gdp_per_capita": "$4,282",
+      "world_gdp_share": "0.40%"
+    },
+    {
+      "rank": "35",
+      "country": "Denmark",
+      "gdp_nominal": "$407,092,000,000",
+      "gdp_abbrev": "407.092 billion",
+      "gdp_growth": "2.5%",
+      "population": "5,948,136",
+      "gdp_per_capita": "$68,440",
+      "world_gdp_share": "0.38%"
+    },
+    {
+      "rank": "36",
+      "country": "Iran",
+      "gdp_nominal": "$404,626,000,000",
+      "gdp_abbrev": "404.626 billion",
+      "gdp_growth": "5.04%",
+      "population": "90,608,707",
+      "gdp_per_capita": "$4,466",
+      "world_gdp_share": "0.38%"
+    },
+    {
+      "rank": "37",
+      "country": "Malaysia",
+      "gdp_nominal": "$399,705,000,000",
+      "gdp_abbrev": "399.705 billion",
+      "gdp_growth": "3.56%",
+      "population": "35,126,298",
+      "gdp_per_capita": "$11,379",
+      "world_gdp_share": "0.38%"
+    },
+    {
+      "rank": "38",
+      "country": "Egypt",
+      "gdp_nominal": "$396,002,000,000",
+      "gdp_abbrev": "396.002 billion",
+      "gdp_growth": "3.76%",
+      "population": "114,535,772",
+      "gdp_per_capita": "$3,457",
+      "world_gdp_share": "0.37%"
+    },
+    {
+      "rank": "39",
+      "country": "Hong Kong",
+      "gdp_nominal": "$380,812,000,000",
+      "gdp_abbrev": "380.812 billion",
+      "gdp_growth": "3.28%",
+      "population": "7,442,734",
+      "gdp_per_capita": "$51,166",
+      "world_gdp_share": "0.36%"
+    },
+    {
+      "rank": "40",
+      "country": "South Africa",
+      "gdp_nominal": "$380,699,000,000",
+      "gdp_abbrev": "380.699 billion",
+      "gdp_growth": "0.7%",
+      "population": "63,212,384",
+      "gdp_per_capita": "$6,023",
+      "world_gdp_share": "0.36%"
+    },
+    {
+      "rank": "41",
+      "country": "Nigeria",
+      "gdp_nominal": "$363,846,000,000",
+      "gdp_abbrev": "363.846 billion",
+      "gdp_growth": "2.86%",
+      "population": "227,882,945",
+      "gdp_per_capita": "$1,597",
+      "world_gdp_share": "0.34%"
+    },
+    {
+      "rank": "42",
+      "country": "Colombia",
+      "gdp_nominal": "$363,494,000,000",
+      "gdp_abbrev": "363.494 billion",
+      "gdp_growth": "0.61%",
+      "population": "52,321,152",
+      "gdp_per_capita": "$6,947",
+      "world_gdp_share": "0.34%"
+    },
+    {
+      "rank": "43",
+      "country": "Romania",
+      "gdp_nominal": "$350,776,000,000",
+      "gdp_abbrev": "350.776 billion",
+      "gdp_growth": "2.4%",
+      "population": "19,118,479",
+      "gdp_per_capita": "$18,347",
+      "world_gdp_share": "0.33%"
+    },
+    {
+      "rank": "44",
+      "country": "Czech Republic (Czechia)",
+      "gdp_nominal": "$343,208,000,000",
+      "gdp_abbrev": "343.208 billion",
+      "gdp_growth": "−0.09%",
+      "population": "10,809,716",
+      "gdp_per_capita": "$31,750",
+      "world_gdp_share": "0.32%"
+    },
+    {
+      "rank": "45",
+      "country": "Pakistan",
+      "gdp_nominal": "$337,912,000,000",
+      "gdp_abbrev": "337.912 billion",
+      "gdp_growth": "−0.04%",
+      "population": "247,504,495",
+      "gdp_per_capita": "$1,365",
+      "world_gdp_share": "0.32%"
+    },
+    {
+      "rank": "46",
+      "country": "Chile",
+      "gdp_nominal": "$335,533,000,000",
+      "gdp_abbrev": "335.533 billion",
+      "gdp_growth": "0.22%",
+      "population": "19,658,835",
+      "gdp_per_capita": "$17,068",
+      "world_gdp_share": "0.32%"
+    },
+    {
+      "rank": "47",
+      "country": "Finland",
+      "gdp_nominal": "$295,532,000,000",
+      "gdp_abbrev": "295.532 billion",
+      "gdp_growth": "−1.16%",
+      "population": "5,601,185",
+      "gdp_per_capita": "$52,762",
+      "world_gdp_share": "0.28%"
+    },
+    {
+      "rank": "48",
+      "country": "Portugal",
+      "gdp_nominal": "$289,114,000,000",
+      "gdp_abbrev": "289.114 billion",
+      "gdp_growth": "2.53%",
+      "population": "10,430,738",
+      "gdp_per_capita": "$27,718",
+      "world_gdp_share": "0.27%"
+    },
+    {
+      "rank": "49",
+      "country": "Peru",
+      "gdp_nominal": "$267,603,000,000",
+      "gdp_abbrev": "267.603 billion",
+      "gdp_growth": "−0.55%",
+      "population": "33,845,617",
+      "gdp_per_capita": "$7,907",
+      "world_gdp_share": "0.25%"
+    },
+    {
+      "rank": "50",
+      "country": "Kazakhstan",
+      "gdp_nominal": "$262,642,000,000",
+      "gdp_abbrev": "262.642 billion",
+      "gdp_growth": "5.1%",
+      "population": "20,330,104",
+      "gdp_per_capita": "$12,919",
+      "world_gdp_share": "0.25%"
+    },
+    {
+      "rank": "51",
+      "country": "New Zealand",
+      "gdp_nominal": "$252,176,000,000",
+      "gdp_abbrev": "252.176 billion",
+      "gdp_growth": "0.73%",
+      "population": "5,172,836",
+      "gdp_per_capita": "$48,750",
+      "world_gdp_share": "0.24%"
+    },
+    {
+      "rank": "52",
+      "country": "Iraq",
+      "gdp_nominal": "$250,843,000,000",
+      "gdp_abbrev": "250.843 billion",
+      "gdp_growth": "−2.94%",
+      "population": "45,074,049",
+      "gdp_per_capita": "$5,565",
+      "world_gdp_share": "0.24%"
+    },
+    {
+      "rank": "53",
+      "country": "Algeria",
+      "gdp_nominal": "$247,626,000,000",
+      "gdp_abbrev": "247.626 billion",
+      "gdp_growth": "4.1%",
+      "population": "46,164,219",
+      "gdp_per_capita": "$5,364",
+      "world_gdp_share": "0.23%"
+    },
+    {
+      "rank": "54",
+      "country": "Greece",
+      "gdp_nominal": "$243,498,000,000",
+      "gdp_abbrev": "243.498 billion",
+      "gdp_growth": "2.33%",
+      "population": "10,242,908",
+      "gdp_per_capita": "$23,772",
+      "world_gdp_share": "0.23%"
+    },
+    {
+      "rank": "55",
+      "country": "Qatar",
+      "gdp_nominal": "$213,003,000,000",
+      "gdp_abbrev": "213.003 billion",
+      "gdp_growth": "1.19%",
+      "population": "2,979,082",
+      "gdp_per_capita": "$71,500",
+      "world_gdp_share": "0.20%"
+    },
+    {
+      "rank": "56",
+      "country": "Hungary",
+      "gdp_nominal": "$212,389,000,000",
+      "gdp_abbrev": "212.389 billion",
+      "gdp_growth": "−0.91%",
+      "population": "9,686,463",
+      "gdp_per_capita": "$21,926",
+      "world_gdp_share": "0.20%"
+    },
+    {
+      "rank": "57",
+      "country": "Ukraine",
+      "gdp_nominal": "$178,757,000,000",
+      "gdp_abbrev": "178.757 billion",
+      "gdp_growth": "5.32%",
+      "population": "37,732,836",
+      "gdp_per_capita": "$4,737",
+      "world_gdp_share": "0.17%"
+    },
+    {
+      "rank": "58",
+      "country": "Kuwait",
+      "gdp_nominal": "$163,705,000,000",
+      "gdp_abbrev": "163.705 billion",
+      "gdp_growth": "−3.64%",
+      "population": "4,838,782",
+      "gdp_per_capita": "$33,832",
+      "world_gdp_share": "0.15%"
+    },
+    {
+      "rank": "59",
+      "country": "Ethiopia",
+      "gdp_nominal": "$163,698,000,000",
+      "gdp_abbrev": "163.698 billion",
+      "gdp_growth": "6.5%",
+      "population": "128,691,692",
+      "gdp_per_capita": "$1,272",
+      "world_gdp_share": "0.15%"
+    },
+    {
+      "rank": "60",
+      "country": "Morocco",
+      "gdp_nominal": "$144,417,000,000",
+      "gdp_abbrev": "144.417 billion",
+      "gdp_growth": "3.4%",
+      "population": "37,712,505",
+      "gdp_per_capita": "$3,829",
+      "world_gdp_share": "0.14%"
+    },
+    {
+      "rank": "61",
+      "country": "Slovakia",
+      "gdp_nominal": "$132,908,000,000",
+      "gdp_abbrev": "132.908 billion",
+      "gdp_growth": "1.38%",
+      "population": "5,518,055",
+      "gdp_per_capita": "$24,086",
+      "world_gdp_share": "0.13%"
+    },
+    {
+      "rank": "62",
+      "country": "Dominican Republic",
+      "gdp_nominal": "$121,444,000,000",
+      "gdp_abbrev": "121.444 billion",
+      "gdp_growth": "2.36%",
+      "population": "11,331,265",
+      "gdp_per_capita": "$10,718",
+      "world_gdp_share": "0.11%"
+    },
+    {
+      "rank": "63",
+      "country": "Ecuador",
+      "gdp_nominal": "$118,845,000,000",
+      "gdp_abbrev": "118.845 billion",
+      "gdp_growth": "2.36%",
+      "population": "17,980,083",
+      "gdp_per_capita": "$6,610",
+      "world_gdp_share": "0.11%"
+    },
+    {
+      "rank": "64",
+      "country": "Sudan",
+      "gdp_nominal": "$109,266,000,000",
+      "gdp_abbrev": "109.266 billion",
+      "gdp_growth": "−20.11%",
+      "population": "50,042,791",
+      "gdp_per_capita": "$2,183",
+      "world_gdp_share": "0.10%"
+    },
+    {
+      "rank": "65",
+      "country": "Oman",
+      "gdp_nominal": "$108,811,000,000",
+      "gdp_abbrev": "108.811 billion",
+      "gdp_growth": "1.31%",
+      "population": "5,049,269",
+      "gdp_per_capita": "$21,550",
+      "world_gdp_share": "0.10%"
+    },
+    {
+      "rank": "66",
+      "country": "Kenya",
+      "gdp_nominal": "$108,039,000,000",
+      "gdp_abbrev": "108.039 billion",
+      "gdp_growth": "5.56%",
+      "population": "55,339,003",
+      "gdp_per_capita": "$1,952",
+      "world_gdp_share": "0.10%"
+    },
+    {
+      "rank": "67",
+      "country": "Guatemala",
+      "gdp_nominal": "$104,450,000,000",
+      "gdp_abbrev": "104.45 billion",
+      "gdp_growth": "3.53%",
+      "population": "18,124,838",
+      "gdp_per_capita": "$5,763",
+      "world_gdp_share": "0.098%"
+    },
+    {
+      "rank": "68",
+      "country": "Bulgaria",
+      "gdp_nominal": "$102,408,000,000",
+      "gdp_abbrev": "102.408 billion",
+      "gdp_growth": "1.89%",
+      "population": "6,795,803",
+      "gdp_per_capita": "$15,069",
+      "world_gdp_share": "0.096%"
+    },
+    {
+      "rank": "69",
+      "country": "Uzbekistan",
+      "gdp_nominal": "$101,592,000,000",
+      "gdp_abbrev": "101.592 billion",
+      "gdp_growth": "6.29%",
+      "population": "35,652,307",
+      "gdp_per_capita": "$2,850",
+      "world_gdp_share": "0.096%"
+    },
+    {
+      "rank": "70",
+      "country": "Costa Rica",
+      "gdp_nominal": "$86,497,941,439",
+      "gdp_abbrev": "86.498 billion",
+      "gdp_growth": "5.11%",
+      "population": "5,105,525",
+      "gdp_per_capita": "$16,942",
+      "world_gdp_share": "0.081%"
+    },
+    {
+      "rank": "71",
+      "country": "Luxembourg",
+      "gdp_nominal": "$85,755,006,124",
+      "gdp_abbrev": "85.755 billion",
+      "gdp_growth": "−1.1%",
+      "population": "665,098",
+      "gdp_per_capita": "$128,936",
+      "world_gdp_share": "0.081%"
+    },
+    {
+      "rank": "72",
+      "country": "Angola",
+      "gdp_nominal": "$84,824,654,482",
+      "gdp_abbrev": "84.825 billion",
+      "gdp_growth": "1%",
+      "population": "36,749,906",
+      "gdp_per_capita": "$2,308",
+      "world_gdp_share": "0.080%"
+    },
+    {
+      "rank": "73",
+      "country": "Croatia",
+      "gdp_nominal": "$84,393,795,502",
+      "gdp_abbrev": "84.394 billion",
+      "gdp_growth": "3.3%",
+      "population": "3,896,023",
+      "gdp_per_capita": "$21,662",
+      "world_gdp_share": "0.079%"
+    },
+    {
+      "rank": "74",
+      "country": "Sri Lanka",
+      "gdp_nominal": "$84,356,863,744",
+      "gdp_abbrev": "84.357 billion",
+      "gdp_growth": "−2.3%",
+      "population": "22,971,617",
+      "gdp_per_capita": "$3,672",
+      "world_gdp_share": "0.079%"
+    },
+    {
+      "rank": "75",
+      "country": "Panama",
+      "gdp_nominal": "$83,318,176,900",
+      "gdp_abbrev": "83.318 billion",
+      "gdp_growth": "7.4%",
+      "population": "4,458,759",
+      "gdp_per_capita": "$18,686",
+      "world_gdp_share": "0.078%"
+    },
+    {
+      "rank": "76",
+      "country": "Serbia",
+      "gdp_nominal": "$81,342,660,752",
+      "gdp_abbrev": "81.343 billion",
+      "gdp_growth": "3.85%",
+      "population": "6,773,201",
+      "gdp_per_capita": "$12,009",
+      "world_gdp_share": "0.077%"
+    },
+    {
+      "rank": "77",
+      "country": "Lithuania",
+      "gdp_nominal": "$79,789,877,416",
+      "gdp_abbrev": "79.79 billion",
+      "gdp_growth": "0.34%",
+      "population": "2,854,099",
+      "gdp_per_capita": "$27,956",
+      "world_gdp_share": "0.075%"
+    },
+    {
+      "rank": "78",
+      "country": "Tanzania",
+      "gdp_nominal": "$79,062,403,821",
+      "gdp_abbrev": "79.062 billion",
+      "gdp_growth": "5.07%",
+      "population": "66,617,606",
+      "gdp_per_capita": "$1,187",
+      "world_gdp_share": "0.074%"
+    },
+    {
+      "rank": "79",
+      "country": "Côte d'Ivoire",
+      "gdp_nominal": "$78,875,489,245",
+      "gdp_abbrev": "78.875 billion",
+      "gdp_growth": "6.2%",
+      "population": "31,165,654",
+      "gdp_per_capita": "$2,531",
+      "world_gdp_share": "0.074%"
+    },
+    {
+      "rank": "80",
+      "country": "Uruguay",
+      "gdp_nominal": "$77,240,830,877",
+      "gdp_abbrev": "77.241 billion",
+      "gdp_growth": "0.37%",
+      "population": "3,388,081",
+      "gdp_per_capita": "$22,798",
+      "world_gdp_share": "0.073%"
+    },
+    {
+      "rank": "81",
+      "country": "Ghana",
+      "gdp_nominal": "$76,370,396,722",
+      "gdp_abbrev": "76.37 billion",
+      "gdp_growth": "2.94%",
+      "population": "33,787,914",
+      "gdp_per_capita": "$2,260",
+      "world_gdp_share": "0.072%"
+    },
+    {
+      "rank": "82",
+      "country": "Azerbaijan",
+      "gdp_nominal": "$72,356,176,471",
+      "gdp_abbrev": "72.356 billion",
+      "gdp_growth": "1.12%",
+      "population": "10,318,207",
+      "gdp_per_capita": "$7,012",
+      "world_gdp_share": "0.068%"
+    },
+    {
+      "rank": "83",
+      "country": "Belarus",
+      "gdp_nominal": "$71,857,382,746",
+      "gdp_abbrev": "71.857 billion",
+      "gdp_growth": "3.89%",
+      "population": "9,115,680",
+      "gdp_per_capita": "$7,883",
+      "world_gdp_share": "0.068%"
+    },
+    {
+      "rank": "84",
+      "country": "Slovenia",
+      "gdp_nominal": "$69,148,468,417",
+      "gdp_abbrev": "69.148 billion",
+      "gdp_growth": "2.11%",
+      "population": "2,118,396",
+      "gdp_per_capita": "$32,642",
+      "world_gdp_share": "0.065%"
+    },
+    {
+      "rank": "85",
+      "country": "Myanmar",
+      "gdp_nominal": "$66,757,619,000",
+      "gdp_abbrev": "66.758 billion",
+      "gdp_growth": "0.96%",
+      "population": "54,133,798",
+      "gdp_per_capita": "$1,233",
+      "world_gdp_share": "0.063%"
+    },
+    {
+      "rank": "86",
+      "country": "DR Congo",
+      "gdp_nominal": "$66,383,287,003",
+      "gdp_abbrev": "66.383 billion",
+      "gdp_growth": "8.56%",
+      "population": "105,789,731",
+      "gdp_per_capita": "$628",
+      "world_gdp_share": "0.063%"
+    },
+    {
+      "rank": "87",
+      "country": "Turkmenistan",
+      "gdp_nominal": "$60,628,857,143",
+      "gdp_abbrev": "60.629 billion",
+      "gdp_growth": "6.3%",
+      "population": "7,364,438",
+      "gdp_per_capita": "$8,233",
+      "world_gdp_share": "0.057%"
+    },
+    {
+      "rank": "88",
+      "country": "Jordan",
+      "gdp_nominal": "$50,967,475,352",
+      "gdp_abbrev": "50.967 billion",
+      "gdp_growth": "2.68%",
+      "population": "11,439,213",
+      "gdp_per_capita": "$4,456",
+      "world_gdp_share": "0.048%"
+    },
+    {
+      "rank": "89",
+      "country": "Cameroon",
+      "gdp_nominal": "$49,279,410,983",
+      "gdp_abbrev": "49.279 billion",
+      "gdp_growth": "3.25%",
+      "population": "28,372,687",
+      "gdp_per_capita": "$1,737",
+      "world_gdp_share": "0.046%"
+    },
+    {
+      "rank": "90",
+      "country": "Uganda",
+      "gdp_nominal": "$48,768,955,863",
+      "gdp_abbrev": "48.769 billion",
+      "gdp_growth": "5.34%",
+      "population": "48,656,601",
+      "gdp_per_capita": "$1,002",
+      "world_gdp_share": "0.046%"
+    },
+    {
+      "rank": "91",
+      "country": "Tunisia",
+      "gdp_nominal": "$48,529,595,417",
+      "gdp_abbrev": "48.53 billion",
+      "gdp_growth": "0.04%",
+      "population": "12,200,431",
+      "gdp_per_capita": "$3,978",
+      "world_gdp_share": "0.046%"
+    },
+    {
+      "rank": "92",
+      "country": "Bahrain",
+      "gdp_nominal": "$46,079,867,021",
+      "gdp_abbrev": "46.08 billion",
+      "gdp_growth": "2.98%",
+      "population": "1,569,666",
+      "gdp_per_capita": "$29,356",
+      "world_gdp_share": "0.043%"
+    },
+    {
+      "rank": "93",
+      "country": "Macao",
+      "gdp_nominal": "$45,803,067,940",
+      "gdp_abbrev": "45.803 billion",
+      "gdp_growth": "75.06%",
+      "population": "713,912",
+      "gdp_per_capita": "$64,158",
+      "world_gdp_share": "0.043%"
+    },
+    {
+      "rank": "94",
+      "country": "Bolivia",
+      "gdp_nominal": "$45,135,398,009",
+      "gdp_abbrev": "45.135 billion",
+      "gdp_growth": "3.08%",
+      "population": "12,244,159",
+      "gdp_per_capita": "$3,686",
+      "world_gdp_share": "0.043%"
+    },
+    {
+      "rank": "95",
+      "country": "Libya",
+      "gdp_nominal": "$45,096,462,972",
+      "gdp_abbrev": "45.096 billion",
+      "gdp_growth": "10.16%",
+      "population": "7,305,659",
+      "gdp_per_capita": "$6,173",
+      "world_gdp_share": "0.042%"
+    },
+    {
+      "rank": "96",
+      "country": "Paraguay",
+      "gdp_nominal": "$42,956,263,544",
+      "gdp_abbrev": "42.956 billion",
+      "gdp_growth": "4.71%",
+      "population": "6,844,146",
+      "gdp_per_capita": "$6,276",
+      "world_gdp_share": "0.040%"
+    },
+    {
+      "rank": "97",
+      "country": "Cambodia",
+      "gdp_nominal": "$42,335,646,896",
+      "gdp_abbrev": "42.336 billion",
+      "gdp_growth": "4.96%",
+      "population": "17,423,880",
+      "gdp_per_capita": "$2,430",
+      "world_gdp_share": "0.040%"
+    },
+    {
+      "rank": "98",
+      "country": "Latvia",
+      "gdp_nominal": "$42,247,850,065",
+      "gdp_abbrev": "42.248 billion",
+      "gdp_growth": "1.71%",
+      "population": "1,882,396",
+      "gdp_per_capita": "$22,444",
+      "world_gdp_share": "0.040%"
+    },
+    {
+      "rank": "99",
+      "country": "Estonia",
+      "gdp_nominal": "$41,291,245,222",
+      "gdp_abbrev": "41.291 billion",
+      "gdp_growth": "−3.02%",
+      "population": "1,367,196",
+      "gdp_per_capita": "$30,201",
+      "world_gdp_share": "0.039%"
+    },
+    {
+      "rank": "100",
+      "country": "Nepal",
+      "gdp_nominal": "$40,908,073,367",
+      "gdp_abbrev": "40.908 billion",
+      "gdp_growth": "1.95%",
+      "population": "29,694,614",
+      "gdp_per_capita": "$1,378",
+      "world_gdp_share": "0.039%"
+    },
+    {
+      "rank": "101",
+      "country": "Zimbabwe",
+      "gdp_nominal": "$35,231,367,886",
+      "gdp_abbrev": "35.231 billion",
+      "gdp_growth": "5.34%",
+      "population": "16,340,822",
+      "gdp_per_capita": "$2,156",
+      "world_gdp_share": "0.033%"
+    },
+    {
+      "rank": "102",
+      "country": "Honduras",
+      "gdp_nominal": "$34,400,509,852",
+      "gdp_abbrev": "34.401 billion",
+      "gdp_growth": "3.58%",
+      "population": "10,644,851",
+      "gdp_per_capita": "$3,232",
+      "world_gdp_share": "0.032%"
+    },
+    {
+      "rank": "103",
+      "country": "El Salvador",
+      "gdp_nominal": "$34,015,620,000",
+      "gdp_abbrev": "34.016 billion",
+      "gdp_growth": "3.51%",
+      "population": "6,309,624",
+      "gdp_per_capita": "$5,391",
+      "world_gdp_share": "0.032%"
+    },
+    {
+      "rank": "104",
+      "country": "Cyprus",
+      "gdp_nominal": "$33,886,930,712",
+      "gdp_abbrev": "33.887 billion",
+      "gdp_growth": "2.61%",
+      "population": "1,344,976",
+      "gdp_per_capita": "$25,195",
+      "world_gdp_share": "0.032%"
+    },
+    {
+      "rank": "105",
+      "country": "Iceland",
+      "gdp_nominal": "$31,325,116,556",
+      "gdp_abbrev": "31.325 billion",
+      "gdp_growth": "5.04%",
+      "population": "387,558",
+      "gdp_per_capita": "$80,827",
+      "world_gdp_share": "0.030%"
+    },
+    {
+      "rank": "106",
+      "country": "Senegal",
+      "gdp_nominal": "$30,848,333,084",
+      "gdp_abbrev": "30.848 billion",
+      "gdp_growth": "4.58%",
+      "population": "18,077,573",
+      "gdp_per_capita": "$1,706",
+      "world_gdp_share": "0.029%"
+    },
+    {
+      "rank": "107",
+      "country": "Georgia",
+      "gdp_nominal": "$30,777,833,585",
+      "gdp_abbrev": "30.778 billion",
+      "gdp_growth": "7.83%",
+      "population": "3,807,492",
+      "gdp_per_capita": "$8,083",
+      "world_gdp_share": "0.029%"
+    },
+    {
+      "rank": "108",
+      "country": "Papua New Guinea",
+      "gdp_nominal": "$30,729,242,919",
+      "gdp_abbrev": "30.729 billion",
+      "gdp_growth": "3.04%",
+      "population": "10,389,635",
+      "gdp_per_capita": "$2,958",
+      "world_gdp_share": "0.029%"
+    },
+    {
+      "rank": "109",
+      "country": "Zambia",
+      "gdp_nominal": "$27,577,956,471",
+      "gdp_abbrev": "27.578 billion",
+      "gdp_growth": "5.37%",
+      "population": "20,723,965",
+      "gdp_per_capita": "$1,331",
+      "world_gdp_share": "0.026%"
+    },
+    {
+      "rank": "110",
+      "country": "Bosnia and Herzegovina",
+      "gdp_nominal": "$27,514,782,476",
+      "gdp_abbrev": "27.515 billion",
+      "gdp_growth": "2.21%",
+      "population": "3,185,073",
+      "gdp_per_capita": "$8,639",
+      "world_gdp_share": "0.026%"
+    },
+    {
+      "rank": "111",
+      "country": "Trinidad and Tobago",
+      "gdp_nominal": "$27,372,285,698",
+      "gdp_abbrev": "27.372 billion",
+      "gdp_growth": "1.35%",
+      "population": "1,502,932",
+      "gdp_per_capita": "$18,213",
+      "world_gdp_share": "0.026%"
+    },
+    {
+      "rank": "112",
+      "country": "Armenia",
+      "gdp_nominal": "$24,085,749,592",
+      "gdp_abbrev": "24.086 billion",
+      "gdp_growth": "8.3%",
+      "population": "2,943,393",
+      "gdp_per_capita": "$8,183",
+      "world_gdp_share": "0.023%"
+    },
+    {
+      "rank": "113",
+      "country": "Albania",
+      "gdp_nominal": "$23,547,179,830",
+      "gdp_abbrev": "23.547 billion",
+      "gdp_growth": "3.94%",
+      "population": "2,811,655",
+      "gdp_per_capita": "$8,375",
+      "world_gdp_share": "0.022%"
+    },
+    {
+      "rank": "114",
+      "country": "Malta",
+      "gdp_nominal": "$22,328,640,242",
+      "gdp_abbrev": "22.329 billion",
+      "gdp_growth": "7.5%",
+      "population": "532,956",
+      "gdp_per_capita": "$41,896",
+      "world_gdp_share": "0.021%"
+    },
+    {
+      "rank": "115",
+      "country": "Guinea",
+      "gdp_nominal": "$22,199,409,741",
+      "gdp_abbrev": "22.199 billion",
+      "gdp_growth": "6.74%",
+      "population": "14,405,468",
+      "gdp_per_capita": "$1,541",
+      "world_gdp_share": "0.021%"
+    },
+    {
+      "rank": "116",
+      "country": "Mozambique",
+      "gdp_nominal": "$20,954,220,984",
+      "gdp_abbrev": "20.954 billion",
+      "gdp_growth": "5.44%",
+      "population": "33,635,160",
+      "gdp_per_capita": "$623",
+      "world_gdp_share": "0.020%"
+    },
+    {
+      "rank": "117",
+      "country": "Mali",
+      "gdp_nominal": "$20,661,794,596",
+      "gdp_abbrev": "20.662 billion",
+      "gdp_growth": "4.66%",
+      "population": "23,769,127",
+      "gdp_per_capita": "$869",
+      "world_gdp_share": "0.019%"
+    },
+    {
+      "rank": "118",
+      "country": "Mongolia",
+      "gdp_nominal": "$20,325,121,394",
+      "gdp_abbrev": "20.325 billion",
+      "gdp_growth": "7.42%",
+      "population": "3,431,932",
+      "gdp_per_capita": "$5,922",
+      "world_gdp_share": "0.019%"
+    },
+    {
+      "rank": "119",
+      "country": "Burkina Faso",
+      "gdp_nominal": "$20,324,617,845",
+      "gdp_abbrev": "20.325 billion",
+      "gdp_growth": "2.96%",
+      "population": "23,025,776",
+      "gdp_per_capita": "$883",
+      "world_gdp_share": "0.019%"
+    },
+    {
+      "rank": "120",
+      "country": "Haiti",
+      "gdp_nominal": "$19,850,829,758",
+      "gdp_abbrev": "19.851 billion",
+      "gdp_growth": "−1.86%",
+      "population": "11,637,398",
+      "gdp_per_capita": "$1,706",
+      "world_gdp_share": "0.019%"
+    },
+    {
+      "rank": "121",
+      "country": "Benin",
+      "gdp_nominal": "$19,676,049,076",
+      "gdp_abbrev": "19.676 billion",
+      "gdp_growth": "6.35%",
+      "population": "14,111,034",
+      "gdp_per_capita": "$1,394",
+      "world_gdp_share": "0.019%"
+    },
+    {
+      "rank": "122",
+      "country": "Jamaica",
+      "gdp_nominal": "$19,423,355,409",
+      "gdp_abbrev": "19.423 billion",
+      "gdp_growth": "2.2%",
+      "population": "2,839,786",
+      "gdp_per_capita": "$6,840",
+      "world_gdp_share": "0.018%"
+    },
+    {
+      "rank": "123",
+      "country": "Botswana",
+      "gdp_nominal": "$19,396,084,498",
+      "gdp_abbrev": "19.396 billion",
+      "gdp_growth": "2.73%",
+      "population": "2,480,244",
+      "gdp_per_capita": "$7,820",
+      "world_gdp_share": "0.018%"
+    },
+    {
+      "rank": "124",
+      "country": "Gabon",
+      "gdp_nominal": "$19,388,402,542",
+      "gdp_abbrev": "19.388 billion",
+      "gdp_growth": "2.45%",
+      "population": "2,484,789",
+      "gdp_per_capita": "$7,803",
+      "world_gdp_share": "0.018%"
+    },
+    {
+      "rank": "125",
+      "country": "Nicaragua",
+      "gdp_nominal": "$17,829,218,219",
+      "gdp_abbrev": "17.829 billion",
+      "gdp_growth": "4.57%",
+      "population": "6,823,613",
+      "gdp_per_capita": "$2,613",
+      "world_gdp_share": "0.017%"
+    },
+    {
+      "rank": "126",
+      "country": "State of Palestine",
+      "gdp_nominal": "$17,420,800,000",
+      "gdp_abbrev": "17.421 billion",
+      "gdp_growth": "−5.41%",
+      "population": "5,409,202",
+      "gdp_per_capita": "$3,221",
+      "world_gdp_share": "0.016%"
+    },
+    {
+      "rank": "127",
+      "country": "Afghanistan",
+      "gdp_nominal": "$17,233,051,620",
+      "gdp_abbrev": "17.233 billion",
+      "gdp_growth": "2.71%",
+      "population": "41,454,761",
+      "gdp_per_capita": "$416",
+      "world_gdp_share": "0.016%"
+    },
+    {
+      "rank": "128",
+      "country": "Guyana",
+      "gdp_nominal": "$17,159,509,565",
+      "gdp_abbrev": "17.16 billion",
+      "gdp_growth": "33.8%",
+      "population": "826,353",
+      "gdp_per_capita": "$20,765",
+      "world_gdp_share": "0.016%"
+    },
+    {
+      "rank": "129",
+      "country": "Niger",
+      "gdp_nominal": "$16,819,170,421",
+      "gdp_abbrev": "16.819 billion",
+      "gdp_growth": "2.5%",
+      "population": "26,159,867",
+      "gdp_per_capita": "$643",
+      "world_gdp_share": "0.016%"
+    },
+    {
+      "rank": "130",
+      "country": "Moldova",
+      "gdp_nominal": "$16,539,436,547",
+      "gdp_abbrev": "16.539 billion",
+      "gdp_growth": "0.78%",
+      "population": "3,067,070",
+      "gdp_per_capita": "$5,393",
+      "world_gdp_share": "0.016%"
+    },
+    {
+      "rank": "131",
+      "country": "Laos",
+      "gdp_nominal": "$15,843,155,731",
+      "gdp_abbrev": "15.843 billion",
+      "gdp_growth": "3.75%",
+      "population": "7,664,993",
+      "gdp_per_capita": "$2,067",
+      "world_gdp_share": "0.015%"
+    },
+    {
+      "rank": "132",
+      "country": "Madagascar",
+      "gdp_nominal": "$15,790,113,247",
+      "gdp_abbrev": "15.79 billion",
+      "gdp_growth": "3.8%",
+      "population": "31,195,932",
+      "gdp_per_capita": "$506",
+      "world_gdp_share": "0.015%"
+    },
+    {
+      "rank": "133",
+      "country": "North Macedonia",
+      "gdp_nominal": "$15,763,621,848",
+      "gdp_abbrev": "15.764 billion",
+      "gdp_growth": "2.07%",
+      "population": "1,831,802",
+      "gdp_per_capita": "$8,606",
+      "world_gdp_share": "0.015%"
+    },
+    {
+      "rank": "134",
+      "country": "Congo",
+      "gdp_nominal": "$15,321,055,823",
+      "gdp_abbrev": "15.321 billion",
+      "gdp_growth": "1.91%",
+      "population": "6,182,885",
+      "gdp_per_capita": "$2,478",
+      "world_gdp_share": "0.014%"
+    },
+    {
+      "rank": "135",
+      "country": "Brunei",
+      "gdp_nominal": "$15,128,292,981",
+      "gdp_abbrev": "15.128 billion",
+      "gdp_growth": "1.41%",
+      "population": "458,949",
+      "gdp_per_capita": "$32,963",
+      "world_gdp_share": "0.014%"
+    },
+    {
+      "rank": "136",
+      "country": "Mauritius",
+      "gdp_nominal": "$14,644,524,819",
+      "gdp_abbrev": "14.645 billion",
+      "gdp_growth": "6.96%",
+      "population": "1,273,588",
+      "gdp_per_capita": "$11,499",
+      "world_gdp_share": "0.014%"
+    },
+    {
+      "rank": "137",
+      "country": "Bahamas",
+      "gdp_nominal": "$14,338,500,000",
+      "gdp_abbrev": "14.338 billion",
+      "gdp_growth": "2.64%",
+      "population": "399,440",
+      "gdp_per_capita": "$35,897",
+      "world_gdp_share": "0.014%"
+    },
+    {
+      "rank": "138",
+      "country": "Rwanda",
+      "gdp_nominal": "$14,097,768,472",
+      "gdp_abbrev": "14.098 billion",
+      "gdp_growth": "8.24%",
+      "population": "13,954,471",
+      "gdp_per_capita": "$1,010",
+      "world_gdp_share": "0.013%"
+    },
+    {
+      "rank": "139",
+      "country": "Kyrgyzstan",
+      "gdp_nominal": "$13,987,627,909",
+      "gdp_abbrev": "13.988 billion",
+      "gdp_growth": "6.15%",
+      "population": "7,073,516",
+      "gdp_per_capita": "$1,977",
+      "world_gdp_share": "0.013%"
+    },
+    {
+      "rank": "140",
+      "country": "Chad",
+      "gdp_nominal": "$13,149,325,362",
+      "gdp_abbrev": "13.149 billion",
+      "gdp_growth": "4.12%",
+      "population": "19,319,064",
+      "gdp_per_capita": "$681",
+      "world_gdp_share": "0.012%"
+    },
+    {
+      "rank": "141",
+      "country": "Malawi",
+      "gdp_nominal": "$12,712,150,082",
+      "gdp_abbrev": "12.712 billion",
+      "gdp_growth": "1.89%",
+      "population": "21,104,482",
+      "gdp_per_capita": "$602",
+      "world_gdp_share": "0.012%"
+    },
+    {
+      "rank": "142",
+      "country": "Namibia",
+      "gdp_nominal": "$12,351,025,067",
+      "gdp_abbrev": "12.351 billion",
+      "gdp_growth": "4.16%",
+      "population": "2,963,095",
+      "gdp_per_capita": "$4,168",
+      "world_gdp_share": "0.012%"
+    },
+    {
+      "rank": "143",
+      "country": "Equatorial Guinea",
+      "gdp_nominal": "$12,337,550,584",
+      "gdp_abbrev": "12.338 billion",
+      "gdp_growth": "−5.09%",
+      "population": "1,847,549",
+      "gdp_per_capita": "$6,678",
+      "world_gdp_share": "0.012%"
+    },
+    {
+      "rank": "144",
+      "country": "Tajikistan",
+      "gdp_nominal": "$12,060,602,009",
+      "gdp_abbrev": "12.061 billion",
+      "gdp_growth": "8.3%",
+      "population": "10,389,799",
+      "gdp_per_capita": "$1,161",
+      "world_gdp_share": "0.011%"
+    },
+    {
+      "rank": "145",
+      "country": "Mauritania",
+      "gdp_nominal": "$10,651,709,411",
+      "gdp_abbrev": "10.652 billion",
+      "gdp_growth": "6.51%",
+      "population": "5,022,441",
+      "gdp_per_capita": "$2,121",
+      "world_gdp_share": "0.010%"
+    },
+    {
+      "rank": "146",
+      "country": "Togo",
+      "gdp_nominal": "$9,171,261,838",
+      "gdp_abbrev": "9.171 billion",
+      "gdp_growth": "6.41%",
+      "population": "9,304,337",
+      "gdp_per_capita": "$986",
+      "world_gdp_share": "0.0086%"
+    },
+    {
+      "rank": "147",
+      "country": "Montenegro",
+      "gdp_nominal": "$7,530,593,375",
+      "gdp_abbrev": "7.531 billion",
+      "gdp_growth": "6.34%",
+      "population": "633,552",
+      "gdp_per_capita": "$11,886",
+      "world_gdp_share": "0.0071%"
+    },
+    {
+      "rank": "148",
+      "country": "Barbados",
+      "gdp_nominal": "$6,720,733,200",
+      "gdp_abbrev": "6.721 billion",
+      "gdp_growth": "4.09%",
+      "population": "282,336",
+      "gdp_per_capita": "$23,804",
+      "world_gdp_share": "0.0063%"
+    },
+    {
+      "rank": "149",
+      "country": "Maldives",
+      "gdp_nominal": "$6,590,894,302",
+      "gdp_abbrev": "6.591 billion",
+      "gdp_growth": "4.73%",
+      "population": "525,994",
+      "gdp_per_capita": "$12,530",
+      "world_gdp_share": "0.0062%"
+    },
+    {
+      "rank": "150",
+      "country": "Sierra Leone",
+      "gdp_nominal": "$6,411,869,546",
+      "gdp_abbrev": "6.412 billion",
+      "gdp_growth": "5.71%",
+      "population": "8,460,512",
+      "gdp_per_capita": "$758",
+      "world_gdp_share": "0.0060%"
+    },
+    {
+      "rank": "151",
+      "country": "Fiji",
+      "gdp_nominal": "$5,442,046,565",
+      "gdp_abbrev": "5.442 billion",
+      "gdp_growth": "7.52%",
+      "population": "924,145",
+      "gdp_per_capita": "$5,889",
+      "world_gdp_share": "0.0051%"
+    },
+    {
+      "rank": "152",
+      "country": "Eswatini",
+      "gdp_nominal": "$4,442,875,788",
+      "gdp_abbrev": "4.443 billion",
+      "gdp_growth": "5.01%",
+      "population": "1,230,506",
+      "gdp_per_capita": "$3,611",
+      "world_gdp_share": "0.0042%"
+    },
+    {
+      "rank": "153",
+      "country": "Liberia",
+      "gdp_nominal": "$4,240,000,000",
+      "gdp_abbrev": "4.24 billion",
+      "gdp_growth": "4.68%",
+      "population": "5,493,031",
+      "gdp_per_capita": "$772",
+      "world_gdp_share": "0.0040%"
+    },
+    {
+      "rank": "154",
+      "country": "Andorra",
+      "gdp_nominal": "$3,785,067,332",
+      "gdp_abbrev": "3.785 billion",
+      "gdp_growth": "2.58%",
+      "population": "80,856",
+      "gdp_per_capita": "$46,812",
+      "world_gdp_share": "0.0036%"
+    },
+    {
+      "rank": "155",
+      "country": "Aruba",
+      "gdp_nominal": "$3,648,573,136",
+      "gdp_abbrev": "3.649 billion",
+      "gdp_growth": "4.26%",
+      "population": "107,939",
+      "gdp_per_capita": "$33,802",
+      "world_gdp_share": "0.0034%"
+    },
+    {
+      "rank": "156",
+      "country": "Suriname",
+      "gdp_nominal": "$3,455,146,281",
+      "gdp_abbrev": "3.455 billion",
+      "gdp_growth": "2.54%",
+      "population": "628,886",
+      "gdp_per_capita": "$5,494",
+      "world_gdp_share": "0.0033%"
+    },
+    {
+      "rank": "157",
+      "country": "Belize",
+      "gdp_nominal": "$3,066,850,000",
+      "gdp_abbrev": "3.067 billion",
+      "gdp_growth": "1.15%",
+      "population": "411,106",
+      "gdp_per_capita": "$7,460",
+      "world_gdp_share": "0.0029%"
+    },
+    {
+      "rank": "158",
+      "country": "Burundi",
+      "gdp_nominal": "$2,642,161,669",
+      "gdp_abbrev": "2.642 billion",
+      "gdp_growth": "2.7%",
+      "population": "13,689,450",
+      "gdp_per_capita": "$193",
+      "world_gdp_share": "0.0025%"
+    },
+    {
+      "rank": "159",
+      "country": "Central African Republic",
+      "gdp_nominal": "$2,555,492,085",
+      "gdp_abbrev": "2.555 billion",
+      "gdp_growth": "0.87%",
+      "population": "5,152,421",
+      "gdp_per_capita": "$496",
+      "world_gdp_share": "0.0024%"
+    },
+    {
+      "rank": "160",
+      "country": "Cabo Verde",
+      "gdp_nominal": "$2,533,819,406",
+      "gdp_abbrev": "2.534 billion",
+      "gdp_growth": "5.48%",
+      "population": "522,331",
+      "gdp_per_capita": "$4,851",
+      "world_gdp_share": "0.0024%"
+    },
+    {
+      "rank": "161",
+      "country": "Saint Lucia",
+      "gdp_nominal": "$2,430,148,148",
+      "gdp_abbrev": "2.43 billion",
+      "gdp_growth": "2.21%",
+      "population": "179,285",
+      "gdp_per_capita": "$13,555",
+      "world_gdp_share": "0.0023%"
+    },
+    {
+      "rank": "162",
+      "country": "Gambia",
+      "gdp_nominal": "$2,396,111,022",
+      "gdp_abbrev": "2.396 billion",
+      "gdp_growth": "4.8%",
+      "population": "2,697,845",
+      "gdp_per_capita": "$888",
+      "world_gdp_share": "0.0023%"
+    },
+    {
+      "rank": "163",
+      "country": "Seychelles",
+      "gdp_nominal": "$2,141,450,171",
+      "gdp_abbrev": "2.141 billion",
+      "gdp_growth": "3.16%",
+      "population": "127,951",
+      "gdp_per_capita": "$16,736",
+      "world_gdp_share": "0.0020%"
+    },
+    {
+      "rank": "164",
+      "country": "Lesotho",
+      "gdp_nominal": "$2,117,962,451",
+      "gdp_abbrev": "2.118 billion",
+      "gdp_growth": "1.83%",
+      "population": "2,311,472",
+      "gdp_per_capita": "$916",
+      "world_gdp_share": "0.0020%"
+    },
+    {
+      "rank": "165",
+      "country": "Timor-Leste",
+      "gdp_nominal": "$2,079,916,900",
+      "gdp_abbrev": "2.08 billion",
+      "gdp_growth": "−18.12%",
+      "population": "1,384,286",
+      "gdp_per_capita": "$1,503",
+      "world_gdp_share": "0.0020%"
+    },
+    {
+      "rank": "166",
+      "country": "Guinea-Bissau",
+      "gdp_nominal": "$2,048,348,108",
+      "gdp_abbrev": "2.048 billion",
+      "gdp_growth": "5.2%",
+      "population": "2,153,339",
+      "gdp_per_capita": "$951",
+      "world_gdp_share": "0.0019%"
+    },
+    {
+      "rank": "167",
+      "country": "Antigua and Barbuda",
+      "gdp_nominal": "$2,033,085,185",
+      "gdp_abbrev": "2.033 billion",
+      "gdp_growth": "3.86%",
+      "population": "93,316",
+      "gdp_per_capita": "$21,787",
+      "world_gdp_share": "0.0019%"
+    },
+    {
+      "rank": "168",
+      "country": "Solomon Islands",
+      "gdp_nominal": "$1,633,319,401",
+      "gdp_abbrev": "1.633 billion",
+      "gdp_growth": "3.08%",
+      "population": "800,005",
+      "gdp_per_capita": "$2,042",
+      "world_gdp_share": "0.0015%"
+    },
+    {
+      "rank": "169",
+      "country": "Comoros",
+      "gdp_nominal": "$1,352,380,971",
+      "gdp_abbrev": "1.352 billion",
+      "gdp_growth": "3%",
+      "population": "850,387",
+      "gdp_per_capita": "$1,590",
+      "world_gdp_share": "0.0013%"
+    },
+    {
+      "rank": "170",
+      "country": "Grenada",
+      "gdp_nominal": "$1,316,733,333",
+      "gdp_abbrev": "1.317 billion",
+      "gdp_growth": "3.57%",
+      "population": "117,081",
+      "gdp_per_capita": "$11,246",
+      "world_gdp_share": "0.0012%"
+    },
+    {
+      "rank": "171",
+      "country": "Vanuatu",
+      "gdp_nominal": "$1,126,313,359",
+      "gdp_abbrev": "1.126 billion",
+      "gdp_growth": "2.21%",
+      "population": "320,409",
+      "gdp_per_capita": "$3,515",
+      "world_gdp_share": "0.0011%"
+    },
+    {
+      "rank": "172",
+      "country": "St. Vincent & Grenadines",
+      "gdp_nominal": "$1,065,962,963",
+      "gdp_abbrev": "1.066 billion",
+      "gdp_growth": "6.02%",
+      "population": "101,323",
+      "gdp_per_capita": "$10,520",
+      "world_gdp_share": "0.0010%"
+    },
+    {
+      "rank": "173",
+      "country": "Saint Kitts & Nevis",
+      "gdp_nominal": "$1,055,499,778",
+      "gdp_abbrev": "1.055 billion",
+      "gdp_growth": "2.28%",
+      "population": "46,758",
+      "gdp_per_capita": "$22,574",
+      "world_gdp_share": "0.00099%"
+    },
+    {
+      "rank": "174",
+      "country": "Samoa",
+      "gdp_nominal": "$938,189,444",
+      "gdp_abbrev": "938.189 million",
+      "gdp_growth": "8.58%",
+      "population": "216,663",
+      "gdp_per_capita": "$4,330",
+      "world_gdp_share": "0.00088%"
+    },
+    {
+      "rank": "175",
+      "country": "Sao Tome & Principe",
+      "gdp_nominal": "$678,976,265",
+      "gdp_abbrev": "678.976 million",
+      "gdp_growth": "0.37%",
+      "population": "230,871",
+      "gdp_per_capita": "$2,941",
+      "world_gdp_share": "0.00064%"
+    },
+    {
+      "rank": "176",
+      "country": "Dominica",
+      "gdp_nominal": "$653,992,593",
+      "gdp_abbrev": "653.993 million",
+      "gdp_growth": "4.71%",
+      "population": "66,510",
+      "gdp_per_capita": "$9,833",
+      "world_gdp_share": "0.00062%"
+    },
+    {
+      "rank": "177",
+      "country": "Micronesia",
+      "gdp_nominal": "$460,000,000",
+      "gdp_abbrev": "460 million",
+      "gdp_growth": "0.78%",
+      "population": "112,630",
+      "gdp_per_capita": "$4,084",
+      "world_gdp_share": "0.00043%"
+    },
+    {
+      "rank": "178",
+      "country": "Palau",
+      "gdp_nominal": "$281,849,063",
+      "gdp_abbrev": "281.849 million",
+      "gdp_growth": "1.88%",
+      "population": "17,727",
+      "gdp_per_capita": "$15,899",
+      "world_gdp_share": "0.00027%"
+    },
+    {
+      "rank": "179",
+      "country": "Kiribati",
+      "gdp_nominal": "$279,208,903",
+      "gdp_abbrev": "279.209 million",
+      "gdp_growth": "4.12%",
+      "population": "132,530",
+      "gdp_per_capita": "$2,107",
+      "world_gdp_share": "0.00026%"
+    },
+    {
+      "rank": "180",
+      "country": "Marshall Islands",
+      "gdp_nominal": "$259,300,000",
+      "gdp_abbrev": "259.3 million",
+      "gdp_growth": "−3.93%",
+      "population": "38,827",
+      "gdp_per_capita": "$6,678",
+      "world_gdp_share": "0.00024%"
+    },
+    {
+      "rank": "181",
+      "country": "Tuvalu",
+      "gdp_nominal": "$62,280,312",
+      "gdp_abbrev": "62.28 million",
+      "gdp_growth": "3.85%",
+      "population": "9,816",
+      "gdp_per_capita": "$6,345",
+      "world_gdp_share": "0.000059%"
+    }
+  ]
+}
