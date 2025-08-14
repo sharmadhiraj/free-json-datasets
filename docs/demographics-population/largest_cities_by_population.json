@@ -1,0 +1,6583 @@
+{
+  "title": "Largest Cities by Population (2025)",
+  "subtitle": "City-wise population data for the year 2025",
+  "updated_at": "August 14, 2025 10:18 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "city": "Tokyo",
+      "country": "Japan",
+      "2025_population": "37,036,200",
+      "2024_population": "37,115,000",
+      "change_percentage": "-0.21%"
+    },
+    {
+      "rank": "2",
+      "city": "Delhi",
+      "country": "India",
+      "2025_population": "34,665,600",
+      "2024_population": "33,807,400",
+      "change_percentage": "2.54%"
+    },
+    {
+      "rank": "3",
+      "city": "Shanghai",
+      "country": "China",
+      "2025_population": "30,482,100",
+      "2024_population": "29,867,900",
+      "change_percentage": "2.06%"
+    },
+    {
+      "rank": "4",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "2025_population": "24,652,900",
+      "2024_population": "23,935,700",
+      "change_percentage": "3%"
+    },
+    {
+      "rank": "5",
+      "city": "Cairo",
+      "country": "Egypt",
+      "2025_population": "23,074,200",
+      "2024_population": "22,623,900",
+      "change_percentage": "1.99%"
+    },
+    {
+      "rank": "6",
+      "city": "Sao Paulo",
+      "country": "Brazil",
+      "2025_population": "22,990,000",
+      "2024_population": "22,806,700",
+      "change_percentage": "0.8%"
+    },
+    {
+      "rank": "7",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "2025_population": "22,752,400",
+      "2024_population": "22,505,300",
+      "change_percentage": "1.1%"
+    },
+    {
+      "rank": "8",
+      "city": "Beijing",
+      "country": "China",
+      "2025_population": "22,596,500",
+      "2024_population": "22,189,100",
+      "change_percentage": "1.84%"
+    },
+    {
+      "rank": "9",
+      "city": "Mumbai",
+      "country": "India",
+      "2025_population": "22,089,000",
+      "2024_population": "21,673,100",
+      "change_percentage": "1.92%"
+    },
+    {
+      "rank": "10",
+      "city": "Osaka",
+      "country": "Japan",
+      "2025_population": "18,921,600",
+      "2024_population": "18,967,500",
+      "change_percentage": "-0.24%"
+    },
+    {
+      "rank": "11",
+      "city": "Chongqing",
+      "country": "China",
+      "2025_population": "18,171,200",
+      "2024_population": "17,773,900",
+      "change_percentage": "2.23%"
+    },
+    {
+      "rank": "12",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "2025_population": "18,076,800",
+      "2024_population": "17,648,600",
+      "change_percentage": "2.43%"
+    },
+    {
+      "rank": "13",
+      "city": "Kinshasa",
+      "country": "DR Congo",
+      "2025_population": "17,778,500",
+      "2024_population": "17,032,300",
+      "change_percentage": "4.38%"
+    },
+    {
+      "rank": "14",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "2025_population": "17,156,400",
+      "2024_population": "16,536,000",
+      "change_percentage": "3.75%"
+    },
+    {
+      "rank": "15",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "2025_population": "16,236,700",
+      "2024_population": "16,047,400",
+      "change_percentage": "1.18%"
+    },
+    {
+      "rank": "16",
+      "city": "Kolkata",
+      "country": "India",
+      "2025_population": "15,845,200",
+      "2024_population": "15,570,800",
+      "change_percentage": "1.76%"
+    },
+    {
+      "rank": "17",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "2025_population": "15,752,300",
+      "2024_population": "15,618,300",
+      "change_percentage": "0.86%"
+    },
+    {
+      "rank": "18",
+      "city": "Manila",
+      "country": "Philippines",
+      "2025_population": "15,230,600",
+      "2024_population": "14,942,000",
+      "change_percentage": "1.93%"
+    },
+    {
+      "rank": "19",
+      "city": "Guangzhou",
+      "country": "China",
+      "2025_population": "14,878,700",
+      "2024_population": "14,590,100",
+      "change_percentage": "1.98%"
+    },
+    {
+      "rank": "20",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "2025_population": "14,825,800",
+      "2024_population": "14,407,100",
+      "change_percentage": "2.91%"
+    },
+    {
+      "rank": "21",
+      "city": "Tianjin",
+      "country": "China",
+      "2025_population": "14,704,100",
+      "2024_population": "14,470,900",
+      "change_percentage": "1.61%"
+    },
+    {
+      "rank": "22",
+      "city": "Bangalore",
+      "country": "India",
+      "2025_population": "14,395,400",
+      "2024_population": "14,008,300",
+      "change_percentage": "2.76%"
+    },
+    {
+      "rank": "23",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "2025_population": "13,923,200",
+      "2024_population": "13,824,300",
+      "change_percentage": "0.71%"
+    },
+    {
+      "rank": "24",
+      "city": "Shenzhen",
+      "country": "China",
+      "2025_population": "13,545,400",
+      "2024_population": "13,311,900",
+      "change_percentage": "1.75%"
+    },
+    {
+      "rank": "25",
+      "city": "Moscow",
+      "country": "Russia",
+      "2025_population": "12,737,400",
+      "2024_population": "12,712,300",
+      "change_percentage": "0.2%"
+    },
+    {
+      "rank": "26",
+      "city": "Chennai",
+      "country": "India",
+      "2025_population": "12,336,000",
+      "2024_population": "12,053,700",
+      "change_percentage": "2.34%"
+    },
+    {
+      "rank": "27",
+      "city": "Bogota",
+      "country": "Colombia",
+      "2025_population": "11,795,800",
+      "2024_population": "11,658,200",
+      "change_percentage": "1.18%"
+    },
+    {
+      "rank": "28",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "2025_population": "11,634,100",
+      "2024_population": "11,436,000",
+      "change_percentage": "1.73%"
+    },
+    {
+      "rank": "29",
+      "city": "Lima",
+      "country": "Peru",
+      "2025_population": "11,517,300",
+      "2024_population": "11,361,900",
+      "change_percentage": "1.37%"
+    },
+    {
+      "rank": "30",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "2025_population": "11,391,700",
+      "2024_population": "11,233,900",
+      "change_percentage": "1.41%"
+    },
+    {
+      "rank": "31",
+      "city": "Paris",
+      "country": "France",
+      "2025_population": "11,346,800",
+      "2024_population": "11,276,700",
+      "change_percentage": "0.62%"
+    },
+    {
+      "rank": "32",
+      "city": "Hyderabad",
+      "country": "India",
+      "2025_population": "11,337,900",
+      "2024_population": "11,068,900",
+      "change_percentage": "2.43%"
+    },
+    {
+      "rank": "33",
+      "city": "Nanjing",
+      "country": "China",
+      "2025_population": "10,174,900",
+      "2024_population": "9,947,550",
+      "change_percentage": "2.28%"
+    },
+    {
+      "rank": "34",
+      "city": "Luanda",
+      "country": "Angola",
+      "2025_population": "10,027,900",
+      "2024_population": "9,651,030",
+      "change_percentage": "3.91%"
+    },
+    {
+      "rank": "35",
+      "city": "Seoul",
+      "country": "South Korea",
+      "2025_population": "10,025,800",
+      "2024_population": "10,004,800",
+      "change_percentage": "0.21%"
+    },
+    {
+      "rank": "36",
+      "city": "Chengdu",
+      "country": "China",
+      "2025_population": "9,998,870",
+      "2024_population": "9,828,110",
+      "change_percentage": "1.74%"
+    },
+    {
+      "rank": "37",
+      "city": "London",
+      "country": "United Kingdom",
+      "2025_population": "9,840,740",
+      "2024_population": "9,748,030",
+      "change_percentage": "0.95%"
+    },
+    {
+      "rank": "38",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "2025_population": "9,816,320",
+      "2024_population": "9,567,660",
+      "change_percentage": "2.6%"
+    },
+    {
+      "rank": "39",
+      "city": "Tehran",
+      "country": "Iran",
+      "2025_population": "9,729,740",
+      "2024_population": "9,616,010",
+      "change_percentage": "1.18%"
+    },
+    {
+      "rank": "40",
+      "city": "Nagoya",
+      "country": "Japan",
+      "2025_population": "9,534,790",
+      "2024_population": "9,556,880",
+      "change_percentage": "-0.23%"
+    },
+    {
+      "rank": "41",
+      "city": "Xi-an",
+      "country": "China",
+      "2025_population": "9,222,080",
+      "2024_population": "9,013,840",
+      "change_percentage": "2.31%"
+    },
+    {
+      "rank": "42",
+      "city": "Ahmedabad",
+      "country": "India",
+      "2025_population": "9,061,820",
+      "2024_population": "8,854,440",
+      "change_percentage": "2.34%"
+    },
+    {
+      "rank": "43",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "2025_population": "9,000,280",
+      "2024_population": "8,815,630",
+      "change_percentage": "2.1%"
+    },
+    {
+      "rank": "44",
+      "city": "Wuhan",
+      "country": "China",
+      "2025_population": "8,986,480",
+      "2024_population": "8,850,850",
+      "change_percentage": "1.53%"
+    },
+    {
+      "rank": "45",
+      "city": "Suzhou",
+      "country": "China",
+      "2025_population": "8,592,820",
+      "2024_population": "8,350,620",
+      "change_percentage": "2.9%"
+    },
+    {
+      "rank": "46",
+      "city": "Hangzhou",
+      "country": "China",
+      "2025_population": "8,591,040",
+      "2024_population": "8,419,840",
+      "change_percentage": "2.03%"
+    },
+    {
+      "rank": "47",
+      "city": "Surat",
+      "country": "India",
+      "2025_population": "8,581,730",
+      "2024_population": "8,330,530",
+      "change_percentage": "3.02%"
+    },
+    {
+      "rank": "48",
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "2025_population": "8,561,520",
+      "2024_population": "8,161,230",
+      "change_percentage": "4.91%"
+    },
+    {
+      "rank": "49",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "2025_population": "8,141,120",
+      "2024_population": "7,921,130",
+      "change_percentage": "2.78%"
+    },
+    {
+      "rank": "50",
+      "city": "Shenyang",
+      "country": "China",
+      "2025_population": "7,974,270",
+      "2024_population": "7,830,380",
+      "change_percentage": "1.84%"
+    },
+    {
+      "rank": "51",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "2025_population": "7,952,860",
+      "2024_population": "7,820,550",
+      "change_percentage": "1.69%"
+    },
+    {
+      "rank": "52",
+      "city": "New York City",
+      "country": "United States",
+      "2025_population": "7,936,530",
+      "2024_population": "8,097,282",
+      "change_percentage": "-1.98%"
+    },
+    {
+      "rank": "53",
+      "city": "Foshan",
+      "country": "China",
+      "2025_population": "7,817,160",
+      "2024_population": "7,704,940",
+      "change_percentage": "1.46%"
+    },
+    {
+      "rank": "54",
+      "city": "Dongguan",
+      "country": "China",
+      "2025_population": "7,772,860",
+      "2024_population": "7,675,150",
+      "change_percentage": "1.27%"
+    },
+    {
+      "rank": "55",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "2025_population": "7,768,510",
+      "2024_population": "7,725,860",
+      "change_percentage": "0.55%"
+    },
+    {
+      "rank": "56",
+      "city": "Pune",
+      "country": "India",
+      "2025_population": "7,525,720",
+      "2024_population": "7,345,850",
+      "change_percentage": "2.45%"
+    },
+    {
+      "rank": "57",
+      "city": "Haerbin",
+      "country": "China",
+      "2025_population": "7,066,860",
+      "2024_population": "6,938,010",
+      "change_percentage": "1.86%"
+    },
+    {
+      "rank": "58",
+      "city": "Santiago",
+      "country": "Chile",
+      "2025_population": "6,999,460",
+      "2024_population": "6,950,950",
+      "change_percentage": "0.7%"
+    },
+    {
+      "rank": "59",
+      "city": "Madrid",
+      "country": "Spain",
+      "2025_population": "6,810,530",
+      "2024_population": "6,783,240",
+      "change_percentage": "0.4%"
+    },
+    {
+      "rank": "60",
+      "city": "Khartoum",
+      "country": "Sudan",
+      "2025_population": "6,754,180",
+      "2024_population": "6,542,070",
+      "change_percentage": "3.24%"
+    },
+    {
+      "rank": "61",
+      "city": "Toronto",
+      "country": "Canada",
+      "2025_population": "6,491,290",
+      "2024_population": "6,431,430",
+      "change_percentage": "0.93%"
+    },
+    {
+      "rank": "62",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "2025_population": "6,444,580",
+      "2024_population": "6,324,350",
+      "change_percentage": "1.9%"
+    },
+    {
+      "rank": "63",
+      "city": "Belo Horizonte",
+      "country": "Brazil",
+      "2025_population": "6,351,680",
+      "2024_population": "6,300,410",
+      "change_percentage": "0.81%"
+    },
+    {
+      "rank": "64",
+      "city": "Dalian",
+      "country": "China",
+      "2025_population": "6,347,380",
+      "2024_population": "6,217,490",
+      "change_percentage": "2.09%"
+    },
+    {
+      "rank": "65",
+      "city": "Qingdao",
+      "country": "China",
+      "2025_population": "6,217,970",
+      "2024_population": "6,104,600",
+      "change_percentage": "1.86%"
+    },
+    {
+      "rank": "66",
+      "city": "Singapore",
+      "country": "Singapore",
+      "2025_population": "6,157,270",
+      "2024_population": "6,119,200",
+      "change_percentage": "0.62%"
+    },
+    {
+      "rank": "67",
+      "city": "Zhengzhou",
+      "country": "China",
+      "2025_population": "6,156,140",
+      "2024_population": "6,014,890",
+      "change_percentage": "2.35%"
+    },
+    {
+      "rank": "68",
+      "city": "Ji nan Shandong",
+      "country": "China",
+      "2025_population": "6,065,850",
+      "2024_population": "5,940,700",
+      "change_percentage": "2.11%"
+    },
+    {
+      "rank": "69",
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "2025_population": "6,056,880",
+      "2024_population": "5,866,700",
+      "change_percentage": "3.24%"
+    },
+    {
+      "rank": "70",
+      "city": "Addis Ababa",
+      "country": "Ethiopia",
+      "2025_population": "5,956,680",
+      "2024_population": "5,703,630",
+      "change_percentage": "4.44%"
+    },
+    {
+      "rank": "71",
+      "city": "Yangon",
+      "country": "Myanmar",
+      "2025_population": "5,813,190",
+      "2024_population": "5,709,680",
+      "change_percentage": "1.81%"
+    },
+    {
+      "rank": "72",
+      "city": "Alexandria",
+      "country": "Egypt",
+      "2025_population": "5,807,050",
+      "2024_population": "5,696,130",
+      "change_percentage": "1.95%"
+    },
+    {
+      "rank": "73",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "2025_population": "5,766,990",
+      "2024_population": "5,541,170",
+      "change_percentage": "4.08%"
+    },
+    {
+      "rank": "74",
+      "city": "Barcelona",
+      "country": "Spain",
+      "2025_population": "5,733,250",
+      "2024_population": "5,711,920",
+      "change_percentage": "0.37%"
+    },
+    {
+      "rank": "75",
+      "city": "Chittagong",
+      "country": "Bangladesh",
+      "2025_population": "5,653,490",
+      "2024_population": "5,513,610",
+      "change_percentage": "2.54%"
+    },
+    {
+      "rank": "76",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "2025_population": "5,602,200",
+      "2024_population": "5,431,800",
+      "change_percentage": "3.14%"
+    },
+    {
+      "rank": "77",
+      "city": "Saint Petersburg",
+      "country": "Russia",
+      "2025_population": "5,597,340",
+      "2024_population": "5,581,710",
+      "change_percentage": "0.28%"
+    },
+    {
+      "rank": "78",
+      "city": "Guadalajara",
+      "country": "Mexico",
+      "2025_population": "5,578,580",
+      "2024_population": "5,499,680",
+      "change_percentage": "1.44%"
+    },
+    {
+      "rank": "79",
+      "city": "Ankara",
+      "country": "Turkey",
+      "2025_population": "5,550,490",
+      "2024_population": "5,477,090",
+      "change_percentage": "1.34%"
+    },
+    {
+      "rank": "80",
+      "city": "Fukuoka",
+      "country": "Japan",
+      "2025_population": "5,465,920",
+      "2024_population": "5,478,080",
+      "change_percentage": "-0.22%"
+    },
+    {
+      "rank": "81",
+      "city": "Melbourne",
+      "country": "Australia",
+      "2025_population": "5,391,890",
+      "2024_population": "5,315,600",
+      "change_percentage": "1.44%"
+    },
+    {
+      "rank": "82",
+      "city": "Monterrey",
+      "country": "Mexico",
+      "2025_population": "5,272,360",
+      "2024_population": "5,195,360",
+      "change_percentage": "1.48%"
+    },
+    {
+      "rank": "83",
+      "city": "Sydney",
+      "country": "Australia",
+      "2025_population": "5,248,790",
+      "2024_population": "5,184,900",
+      "change_percentage": "1.23%"
+    },
+    {
+      "rank": "84",
+      "city": "Urumqi",
+      "country": "China",
+      "2025_population": "5,132,170",
+      "2024_population": "5,005,960",
+      "change_percentage": "2.52%"
+    },
+    {
+      "rank": "85",
+      "city": "Changsha",
+      "country": "China",
+      "2025_population": "5,128,270",
+      "2024_population": "5,027,980",
+      "change_percentage": "1.99%"
+    },
+    {
+      "rank": "86",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "2025_population": "5,063,580",
+      "2024_population": "4,977,830",
+      "change_percentage": "1.72%"
+    },
+    {
+      "rank": "87",
+      "city": "Jiddah",
+      "country": "Saudi Arabia",
+      "2025_population": "5,021,600",
+      "2024_population": "4,943,210",
+      "change_percentage": "1.59%"
+    },
+    {
+      "rank": "88",
+      "city": "Brasilia",
+      "country": "Brazil",
+      "2025_population": "4,990,930",
+      "2024_population": "4,935,270",
+      "change_percentage": "1.13%"
+    },
+    {
+      "rank": "89",
+      "city": "Kunming",
+      "country": "China",
+      "2025_population": "4,955,680",
+      "2024_population": "4,861,080",
+      "change_percentage": "1.95%"
+    },
+    {
+      "rank": "90",
+      "city": "Changchun",
+      "country": "China",
+      "2025_population": "4,891,020",
+      "2024_population": "4,802,450",
+      "change_percentage": "1.84%"
+    },
+    {
+      "rank": "91",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "2025_population": "4,877,020",
+      "2024_population": "4,728,380",
+      "change_percentage": "3.14%"
+    },
+    {
+      "rank": "92",
+      "city": "Yaounde",
+      "country": "Cameroon",
+      "2025_population": "4,854,260",
+      "2024_population": "4,681,770",
+      "change_percentage": "3.68%"
+    },
+    {
+      "rank": "93",
+      "city": "Hefei",
+      "country": "China",
+      "2025_population": "4,830,170",
+      "2024_population": "4,727,290",
+      "change_percentage": "2.18%"
+    },
+    {
+      "rank": "94",
+      "city": "Ningbo",
+      "country": "China",
+      "2025_population": "4,770,300",
+      "2024_population": "4,659,830",
+      "change_percentage": "2.37%"
+    },
+    {
+      "rank": "95",
+      "city": "Shantou",
+      "country": "China",
+      "2025_population": "4,737,590",
+      "2024_population": "4,656,520",
+      "change_percentage": "1.74%"
+    },
+    {
+      "rank": "96",
+      "city": "Kano",
+      "country": "Nigeria",
+      "2025_population": "4,645,320",
+      "2024_population": "4,490,730",
+      "change_percentage": "3.44%"
+    },
+    {
+      "rank": "97",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "2025_population": "4,568,530",
+      "2024_population": "4,495,730",
+      "change_percentage": "1.62%"
+    },
+    {
+      "rank": "98",
+      "city": "New Taipei",
+      "country": "Taiwan",
+      "2025_population": "4,563,850",
+      "2024_population": "4,534,880",
+      "change_percentage": "0.64%"
+    },
+    {
+      "rank": "99",
+      "city": "Shijiazhuang",
+      "country": "China",
+      "2025_population": "4,534,990",
+      "2024_population": "4,454,130",
+      "change_percentage": "1.81%"
+    },
+    {
+      "rank": "100",
+      "city": "Jaipur",
+      "country": "India",
+      "2025_population": "4,411,110",
+      "2024_population": "4,308,510",
+      "change_percentage": "2.38%"
+    },
+    {
+      "rank": "101",
+      "city": "Kozhikode",
+      "country": "India",
+      "2025_population": "4,387,410",
+      "2024_population": "4,243,960",
+      "change_percentage": "3.38%"
+    },
+    {
+      "rank": "102",
+      "city": "Nanning",
+      "country": "China",
+      "2025_population": "4,383,600",
+      "2024_population": "4,291,460",
+      "change_percentage": "2.15%"
+    },
+    {
+      "rank": "103",
+      "city": "Montreal",
+      "country": "Canada",
+      "2025_population": "4,377,310",
+      "2024_population": "4,341,640",
+      "change_percentage": "0.82%"
+    },
+    {
+      "rank": "104",
+      "city": "Rome",
+      "country": "Italy",
+      "2025_population": "4,347,100",
+      "2024_population": "4,331,970",
+      "change_percentage": "0.35%"
+    },
+    {
+      "rank": "105",
+      "city": "Douala",
+      "country": "Cameroon",
+      "2025_population": "4,346,420",
+      "2024_population": "4,203,110",
+      "change_percentage": "3.41%"
+    },
+    {
+      "rank": "106",
+      "city": "Recife",
+      "country": "Brazil",
+      "2025_population": "4,344,050",
+      "2024_population": "4,305,130",
+      "change_percentage": "0.9%"
+    },
+    {
+      "rank": "107",
+      "city": "Malappuram",
+      "country": "India",
+      "2025_population": "4,343,910",
+      "2024_population": "4,184,920",
+      "change_percentage": "3.8%"
+    },
+    {
+      "rank": "108",
+      "city": "Taiyuan Shanxi",
+      "country": "China",
+      "2025_population": "4,305,290",
+      "2024_population": "4,226,780",
+      "change_percentage": "1.86%"
+    },
+    {
+      "rank": "109",
+      "city": "Fortaleza",
+      "country": "Brazil",
+      "2025_population": "4,284,450",
+      "2024_population": "4,246,400",
+      "change_percentage": "0.9%"
+    },
+    {
+      "rank": "110",
+      "city": "Porto Alegre",
+      "country": "Brazil",
+      "2025_population": "4,268,960",
+      "2024_population": "4,239,870",
+      "change_percentage": "0.69%"
+    },
+    {
+      "rank": "111",
+      "city": "Kampala",
+      "country": "Uganda",
+      "2025_population": "4,265,160",
+      "2024_population": "4,050,830",
+      "change_percentage": "5.29%"
+    },
+    {
+      "rank": "112",
+      "city": "Ekurhuleni",
+      "country": "South Africa",
+      "2025_population": "4,262,130",
+      "2024_population": "4,190,830",
+      "change_percentage": "1.7%"
+    },
+    {
+      "rank": "113",
+      "city": "Antananarivo",
+      "country": "Madagascar",
+      "2025_population": "4,228,980",
+      "2024_population": "4,048,670",
+      "change_percentage": "4.45%"
+    },
+    {
+      "rank": "114",
+      "city": "Abuja",
+      "country": "Nigeria",
+      "2025_population": "4,209,940",
+      "2024_population": "4,025,740",
+      "change_percentage": "4.58%"
+    },
+    {
+      "rank": "115",
+      "city": "Changzhou",
+      "country": "China",
+      "2025_population": "4,180,040",
+      "2024_population": "4,085,500",
+      "change_percentage": "2.31%"
+    },
+    {
+      "rank": "116",
+      "city": "Medellin",
+      "country": "Colombia",
+      "2025_population": "4,172,810",
+      "2024_population": "4,137,390",
+      "change_percentage": "0.86%"
+    },
+    {
+      "rank": "117",
+      "city": "Ibadan",
+      "country": "Nigeria",
+      "2025_population": "4,144,130",
+      "2024_population": "4,004,320",
+      "change_percentage": "3.49%"
+    },
+    {
+      "rank": "118",
+      "city": "Lucknow",
+      "country": "India",
+      "2025_population": "4,132,670",
+      "2024_population": "4,038,210",
+      "change_percentage": "2.34%"
+    },
+    {
+      "rank": "119",
+      "city": "Nanchang",
+      "country": "China",
+      "2025_population": "4,104,120",
+      "2024_population": "4,016,040",
+      "change_percentage": "2.19%"
+    },
+    {
+      "rank": "120",
+      "city": "Wenzhou",
+      "country": "China",
+      "2025_population": "4,093,180",
+      "2024_population": "4,009,530",
+      "change_percentage": "2.09%"
+    },
+    {
+      "rank": "121",
+      "city": "Xiamen",
+      "country": "China",
+      "2025_population": "4,077,760",
+      "2024_population": "4,007,470",
+      "change_percentage": "1.75%"
+    },
+    {
+      "rank": "122",
+      "city": "Fuzhou Fujian",
+      "country": "China",
+      "2025_population": "4,072,430",
+      "2024_population": "3,998,750",
+      "change_percentage": "1.84%"
+    },
+    {
+      "rank": "123",
+      "city": "Kumasi",
+      "country": "Ghana",
+      "2025_population": "4,036,230",
+      "2024_population": "3,903,480",
+      "change_percentage": "3.4%"
+    },
+    {
+      "rank": "124",
+      "city": "Salvador",
+      "country": "Brazil",
+      "2025_population": "4,029,910",
+      "2024_population": "3,994,980",
+      "change_percentage": "0.87%"
+    },
+    {
+      "rank": "125",
+      "city": "Tangshan Hebei",
+      "country": "China",
+      "2025_population": "4,024,170",
+      "2024_population": "3,925,210",
+      "change_percentage": "2.52%"
+    },
+    {
+      "rank": "126",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "2025_population": "4,012,310",
+      "2024_population": "3,950,410",
+      "change_percentage": "1.57%"
+    },
+    {
+      "rank": "127",
+      "city": "Bekasi",
+      "country": "Indonesia",
+      "2025_population": "3,926,050",
+      "2024_population": "3,830,680",
+      "change_percentage": "2.49%"
+    },
+    {
+      "rank": "128",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "2025_population": "3,892,830",
+      "2024_population": "3,800,190",
+      "change_percentage": "2.44%"
+    },
+    {
+      "rank": "129",
+      "city": "Curitiba",
+      "country": "Brazil",
+      "2025_population": "3,889,140",
+      "2024_population": "3,852,460",
+      "change_percentage": "0.95%"
+    },
+    {
+      "rank": "130",
+      "city": "Port Harcourt",
+      "country": "Nigeria",
+      "2025_population": "3,793,780",
+      "2024_population": "3,636,550",
+      "change_percentage": "4.32%"
+    },
+    {
+      "rank": "131",
+      "city": "Los Angeles",
+      "country": "United States",
+      "2025_population": "3,770,958",
+      "2024_population": "3,795,936",
+      "change_percentage": "-0.66%"
+    },
+    {
+      "rank": "132",
+      "city": "Guiyang",
+      "country": "China",
+      "2025_population": "3,736,730",
+      "2024_population": "3,661,450",
+      "change_percentage": "2.06%"
+    },
+    {
+      "rank": "133",
+      "city": "Thrissur",
+      "country": "India",
+      "2025_population": "3,719,980",
+      "2024_population": "3,605,240",
+      "change_percentage": "3.18%"
+    },
+    {
+      "rank": "134",
+      "city": "Dakar",
+      "country": "Senegal",
+      "2025_population": "3,658,640",
+      "2024_population": "3,540,460",
+      "change_percentage": "3.34%"
+    },
+    {
+      "rank": "135",
+      "city": "Santo Domingo",
+      "country": "Dominican Republic",
+      "2025_population": "3,648,110",
+      "2024_population": "3,587,400",
+      "change_percentage": "1.69%"
+    },
+    {
+      "rank": "136",
+      "city": "Asuncion",
+      "country": "Paraguay",
+      "2025_population": "3,627,220",
+      "2024_population": "3,568,830",
+      "change_percentage": "1.64%"
+    },
+    {
+      "rank": "137",
+      "city": "Kochi",
+      "country": "India",
+      "2025_population": "3,604,550",
+      "2024_population": "3,507,050",
+      "change_percentage": "2.78%"
+    },
+    {
+      "rank": "138",
+      "city": "Berlin",
+      "country": "Germany",
+      "2025_population": "3,580,190",
+      "2024_population": "3,576,870",
+      "change_percentage": "0.09%"
+    },
+    {
+      "rank": "139",
+      "city": "Wuxi",
+      "country": "China",
+      "2025_population": "3,559,030",
+      "2024_population": "3,498,740",
+      "change_percentage": "1.72%"
+    },
+    {
+      "rank": "140",
+      "city": "Sanaa",
+      "country": "Yemen",
+      "2025_population": "3,527,430",
+      "2024_population": "3,407,810",
+      "change_percentage": "3.51%"
+    },
+    {
+      "rank": "141",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "2025_population": "3,520,820",
+      "2024_population": "3,358,930",
+      "change_percentage": "4.82%"
+    },
+    {
+      "rank": "142",
+      "city": "Campinas",
+      "country": "Brazil",
+      "2025_population": "3,491,580",
+      "2024_population": "3,458,440",
+      "change_percentage": "0.96%"
+    },
+    {
+      "rank": "143",
+      "city": "Busan",
+      "country": "South Korea",
+      "2025_population": "3,484,430",
+      "2024_population": "3,477,420",
+      "change_percentage": "0.2%"
+    },
+    {
+      "rank": "144",
+      "city": "Indore",
+      "country": "India",
+      "2025_population": "3,482,830",
+      "2024_population": "3,393,380",
+      "change_percentage": "2.64%"
+    },
+    {
+      "rank": "145",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "2025_population": "3,470,870",
+      "2024_population": "3,324,220",
+      "change_percentage": "4.41%"
+    },
+    {
+      "rank": "146",
+      "city": "Mashhad",
+      "country": "Iran",
+      "2025_population": "3,460,660",
+      "2024_population": "3,415,530",
+      "change_percentage": "1.32%"
+    },
+    {
+      "rank": "147",
+      "city": "Puebla",
+      "country": "Mexico",
+      "2025_population": "3,443,290",
+      "2024_population": "3,394,340",
+      "change_percentage": "1.44%"
+    },
+    {
+      "rank": "148",
+      "city": "Lanzhou",
+      "country": "China",
+      "2025_population": "3,430,880",
+      "2024_population": "3,365,910",
+      "change_percentage": "1.93%"
+    },
+    {
+      "rank": "149",
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "2025_population": "3,405,000",
+      "2024_population": "3,353,600",
+      "change_percentage": "1.53%"
+    },
+    {
+      "rank": "150",
+      "city": "Kanpur",
+      "country": "India",
+      "2025_population": "3,345,370",
+      "2024_population": "3,286,140",
+      "change_percentage": "1.8%"
+    },
+    {
+      "rank": "151",
+      "city": "Durban",
+      "country": "South Africa",
+      "2025_population": "3,301,090",
+      "2024_population": "3,262,130",
+      "change_percentage": "1.19%"
+    },
+    {
+      "rank": "152",
+      "city": "Guayaquil",
+      "country": "Ecuador",
+      "2025_population": "3,244,750",
+      "2024_population": "3,193,270",
+      "change_percentage": "1.61%"
+    },
+    {
+      "rank": "153",
+      "city": "Guatemala City",
+      "country": "Guatemala",
+      "2025_population": "3,229,740",
+      "2024_population": "3,159,630",
+      "change_percentage": "2.22%"
+    },
+    {
+      "rank": "154",
+      "city": "Depok",
+      "country": "Indonesia",
+      "2025_population": "3,218,290",
+      "2024_population": "3,133,300",
+      "change_percentage": "2.71%"
+    },
+    {
+      "rank": "155",
+      "city": "Pyongyang",
+      "country": "North Korea",
+      "2025_population": "3,209,300",
+      "2024_population": "3,183,140",
+      "change_percentage": "0.82%"
+    },
+    {
+      "rank": "156",
+      "city": "Bamako",
+      "country": "Mali",
+      "2025_population": "3,180,340",
+      "2024_population": "3,050,570",
+      "change_percentage": "4.25%"
+    },
+    {
+      "rank": "157",
+      "city": "Nagpur",
+      "country": "India",
+      "2025_population": "3,170,180",
+      "2024_population": "3,106,340",
+      "change_percentage": "2.05%"
+    },
+    {
+      "rank": "158",
+      "city": "Milan",
+      "country": "Italy",
+      "2025_population": "3,167,450",
+      "2024_population": "3,160,630",
+      "change_percentage": "0.22%"
+    },
+    {
+      "rank": "159",
+      "city": "Handan",
+      "country": "China",
+      "2025_population": "3,159,030",
+      "2024_population": "3,086,000",
+      "change_percentage": "2.37%"
+    },
+    {
+      "rank": "160",
+      "city": "Coimbatore",
+      "country": "India",
+      "2025_population": "3,158,720",
+      "2024_population": "3,083,720",
+      "change_percentage": "2.43%"
+    },
+    {
+      "rank": "161",
+      "city": "Mbuji-Mayi",
+      "country": "DR Congo",
+      "2025_population": "3,158,340",
+      "2024_population": "3,022,860",
+      "change_percentage": "4.48%"
+    },
+    {
+      "rank": "162",
+      "city": "Athens",
+      "country": "Greece",
+      "2025_population": "3,155,320",
+      "2024_population": "3,154,590",
+      "change_percentage": "0.02%"
+    },
+    {
+      "rank": "163",
+      "city": "Izmir",
+      "country": "Turkey",
+      "2025_population": "3,152,090",
+      "2024_population": "3,120,340",
+      "change_percentage": "1.02%"
+    },
+    {
+      "rank": "164",
+      "city": "Huaian",
+      "country": "China",
+      "2025_population": "3,152,050",
+      "2024_population": "3,071,050",
+      "change_percentage": "2.64%"
+    },
+    {
+      "rank": "165",
+      "city": "Surabaya",
+      "country": "Indonesia",
+      "2025_population": "3,137,620",
+      "2024_population": "3,088,750",
+      "change_percentage": "1.58%"
+    },
+    {
+      "rank": "166",
+      "city": "Port-au-Prince",
+      "country": "Haiti",
+      "2025_population": "3,133,080",
+      "2024_population": "3,060,170",
+      "change_percentage": "2.38%"
+    },
+    {
+      "rank": "167",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "2025_population": "3,094,640",
+      "2024_population": "3,051,020",
+      "change_percentage": "1.43%"
+    },
+    {
+      "rank": "168",
+      "city": "Zhongshan",
+      "country": "China",
+      "2025_population": "3,093,870",
+      "2024_population": "3,051,060",
+      "change_percentage": "1.4%"
+    },
+    {
+      "rank": "169",
+      "city": "Thiruvananthapuram",
+      "country": "India",
+      "2025_population": "3,072,530",
+      "2024_population": "2,984,150",
+      "change_percentage": "2.96%"
+    },
+    {
+      "rank": "170",
+      "city": "Weifang",
+      "country": "China",
+      "2025_population": "3,064,290",
+      "2024_population": "2,994,540",
+      "change_percentage": "2.33%"
+    },
+    {
+      "rank": "171",
+      "city": "Lubumbashi",
+      "country": "DR Congo",
+      "2025_population": "3,061,340",
+      "2024_population": "2,933,960",
+      "change_percentage": "4.34%"
+    },
+    {
+      "rank": "172",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "2025_population": "3,028,270",
+      "2024_population": "3,014,610",
+      "change_percentage": "0.45%"
+    },
+    {
+      "rank": "173",
+      "city": "Kiev",
+      "country": "Ukraine",
+      "2025_population": "3,018,160",
+      "2024_population": "3,020,230",
+      "change_percentage": "-0.07%"
+    },
+    {
+      "rank": "174",
+      "city": "Caracas",
+      "country": "Venezuela",
+      "2025_population": "3,015,110",
+      "2024_population": "2,991,730",
+      "change_percentage": "0.78%"
+    },
+    {
+      "rank": "175",
+      "city": "Algiers",
+      "country": "Algeria",
+      "2025_population": "3,004,130",
+      "2024_population": "2,952,120",
+      "change_percentage": "1.76%"
+    },
+    {
+      "rank": "176",
+      "city": "Pretoria",
+      "country": "South Africa",
+      "2025_population": "2,955,410",
+      "2024_population": "2,889,900",
+      "change_percentage": "2.27%"
+    },
+    {
+      "rank": "177",
+      "city": "Shaoxing",
+      "country": "China",
+      "2025_population": "2,951,330",
+      "2024_population": "2,882,170",
+      "change_percentage": "2.4%"
+    },
+    {
+      "rank": "178",
+      "city": "Shizuoka",
+      "country": "Japan",
+      "2025_population": "2,930,170",
+      "2024_population": "2,935,530",
+      "change_percentage": "-0.18%"
+    },
+    {
+      "rank": "179",
+      "city": "Goiania",
+      "country": "Brazil",
+      "2025_population": "2,927,080",
+      "2024_population": "2,890,420",
+      "change_percentage": "1.27%"
+    },
+    {
+      "rank": "180",
+      "city": "Cali",
+      "country": "Colombia",
+      "2025_population": "2,916,790",
+      "2024_population": "2,890,430",
+      "change_percentage": "0.91%"
+    },
+    {
+      "rank": "181",
+      "city": "Yantai",
+      "country": "China",
+      "2025_population": "2,898,490",
+      "2024_population": "2,834,510",
+      "change_percentage": "2.26%"
+    },
+    {
+      "rank": "182",
+      "city": "Huizhou",
+      "country": "China",
+      "2025_population": "2,890,880",
+      "2024_population": "2,827,610",
+      "change_percentage": "2.24%"
+    },
+    {
+      "rank": "183",
+      "city": "Zibo",
+      "country": "China",
+      "2025_population": "2,876,180",
+      "2024_population": "2,828,440",
+      "change_percentage": "1.69%"
+    },
+    {
+      "rank": "184",
+      "city": "Incheon",
+      "country": "South Korea",
+      "2025_population": "2,873,700",
+      "2024_population": "2,861,690",
+      "change_percentage": "0.42%"
+    },
+    {
+      "rank": "185",
+      "city": "Mogadishu",
+      "country": "Somalia",
+      "2025_population": "2,846,420",
+      "2024_population": "2,726,820",
+      "change_percentage": "4.39%"
+    },
+    {
+      "rank": "186",
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "2025_population": "2,832,580",
+      "2024_population": "2,811,760",
+      "change_percentage": "0.74%"
+    },
+    {
+      "rank": "187",
+      "city": "Brazzaville",
+      "country": "Republic of the Congo",
+      "2025_population": "2,813,480",
+      "2024_population": "2,724,570",
+      "change_percentage": "3.26%"
+    },
+    {
+      "rank": "188",
+      "city": "Damascus",
+      "country": "Syria",
+      "2025_population": "2,799,960",
+      "2024_population": "2,685,360",
+      "change_percentage": "4.27%"
+    },
+    {
+      "rank": "189",
+      "city": "Accra",
+      "country": "Ghana",
+      "2025_population": "2,788,380",
+      "2024_population": "2,721,160",
+      "change_percentage": "2.47%"
+    },
+    {
+      "rank": "190",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "2025_population": "2,779,200",
+      "2024_population": "2,766,330",
+      "change_percentage": "0.46%"
+    },
+    {
+      "rank": "191",
+      "city": "Bandung",
+      "country": "Indonesia",
+      "2025_population": "2,758,100",
+      "2024_population": "2,714,220",
+      "change_percentage": "1.62%"
+    },
+    {
+      "rank": "192",
+      "city": "Luoyang",
+      "country": "China",
+      "2025_population": "2,725,560",
+      "2024_population": "2,666,740",
+      "change_percentage": "2.21%"
+    },
+    {
+      "rank": "193",
+      "city": "Toluca de Lerdo",
+      "country": "Mexico",
+      "2025_population": "2,719,520",
+      "2024_population": "2,674,340",
+      "change_percentage": "1.69%"
+    },
+    {
+      "rank": "194",
+      "city": "Vancouver",
+      "country": "Canada",
+      "2025_population": "2,707,920",
+      "2024_population": "2,682,510",
+      "change_percentage": "0.95%"
+    },
+    {
+      "rank": "195",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "2025_population": "2,704,620",
+      "2024_population": "2,684,810",
+      "change_percentage": "0.74%"
+    },
+    {
+      "rank": "196",
+      "city": "Patna",
+      "country": "India",
+      "2025_population": "2,689,540",
+      "2024_population": "2,633,240",
+      "change_percentage": "2.14%"
+    },
+    {
+      "rank": "197",
+      "city": "Bhopal",
+      "country": "India",
+      "2025_population": "2,686,290",
+      "2024_population": "2,624,860",
+      "change_percentage": "2.34%"
+    },
+    {
+      "rank": "198",
+      "city": "Tashkent",
+      "country": "Uzbekistan",
+      "2025_population": "2,665,080",
+      "2024_population": "2,633,660",
+      "change_percentage": "1.19%"
+    },
+    {
+      "rank": "199",
+      "city": "Sapporo",
+      "country": "Japan",
+      "2025_population": "2,653,580",
+      "2024_population": "2,660,950",
+      "change_percentage": "-0.28%"
+    },
+    {
+      "rank": "200",
+      "city": "Tangerang",
+      "country": "Indonesia",
+      "2025_population": "2,626,610",
+      "2024_population": "2,570,980",
+      "change_percentage": "2.16%"
+    },
+    {
+      "rank": "201",
+      "city": "Nantong",
+      "country": "China",
+      "2025_population": "2,613,750",
+      "2024_population": "2,555,720",
+      "change_percentage": "2.27%"
+    },
+    {
+      "rank": "202",
+      "city": "Chicago",
+      "country": "United States",
+      "2025_population": "2,611,867",
+      "2024_population": "2,638,159",
+      "change_percentage": "-1%"
+    },
+    {
+      "rank": "203",
+      "city": "Brisbane",
+      "country": "Australia",
+      "2025_population": "2,568,170",
+      "2024_population": "2,536,450",
+      "change_percentage": "1.25%"
+    },
+    {
+      "rank": "204",
+      "city": "Peshawar",
+      "country": "Pakistan",
+      "2025_population": "2,548,930",
+      "2024_population": "2,480,550",
+      "change_percentage": "2.76%"
+    },
+    {
+      "rank": "205",
+      "city": "Tunis",
+      "country": "Tunisia",
+      "2025_population": "2,545,030",
+      "2024_population": "2,510,670",
+      "change_percentage": "1.37%"
+    },
+    {
+      "rank": "206",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "2025_population": "2,543,540",
+      "2024_population": "2,479,060",
+      "change_percentage": "2.6%"
+    },
+    {
+      "rank": "207",
+      "city": "Medan",
+      "country": "Indonesia",
+      "2025_population": "2,521,590",
+      "2024_population": "2,479,070",
+      "change_percentage": "1.71%"
+    },
+    {
+      "rank": "208",
+      "city": "Hohhot",
+      "country": "China",
+      "2025_population": "2,500,940",
+      "2024_population": "2,443,690",
+      "change_percentage": "2.34%"
+    },
+    {
+      "rank": "209",
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "2025_population": "2,496,500",
+      "2024_population": "2,464,160",
+      "change_percentage": "1.31%"
+    },
+    {
+      "rank": "210",
+      "city": "Rawalpindi",
+      "country": "Pakistan",
+      "2025_population": "2,486,560",
+      "2024_population": "2,430,390",
+      "change_percentage": "2.31%"
+    },
+    {
+      "rank": "211",
+      "city": "Agra",
+      "country": "India",
+      "2025_population": "2,478,340",
+      "2024_population": "2,422,340",
+      "change_percentage": "2.31%"
+    },
+    {
+      "rank": "212",
+      "city": "Kannur",
+      "country": "India",
+      "2025_population": "2,465,140",
+      "2024_population": "2,405,660",
+      "change_percentage": "2.47%"
+    },
+    {
+      "rank": "213",
+      "city": "Belem",
+      "country": "Brazil",
+      "2025_population": "2,453,800",
+      "2024_population": "2,432,180",
+      "change_percentage": "0.89%"
+    },
+    {
+      "rank": "214",
+      "city": "Liuzhou",
+      "country": "China",
+      "2025_population": "2,447,620",
+      "2024_population": "2,397,410",
+      "change_percentage": "2.09%"
+    },
+    {
+      "rank": "215",
+      "city": "Visakhapatnam",
+      "country": "India",
+      "2025_population": "2,440,420",
+      "2024_population": "2,385,110",
+      "change_percentage": "2.32%"
+    },
+    {
+      "rank": "216",
+      "city": "Aleppo",
+      "country": "Syria",
+      "2025_population": "2,438,480",
+      "2024_population": "2,317,650",
+      "change_percentage": "5.21%"
+    },
+    {
+      "rank": "217",
+      "city": "Manaus",
+      "country": "Brazil",
+      "2025_population": "2,434,640",
+      "2024_population": "2,406,850",
+      "change_percentage": "1.16%"
+    },
+    {
+      "rank": "218",
+      "city": "San Juan",
+      "country": "Puerto Rico",
+      "2025_population": "2,433,680",
+      "2024_population": "2,436,620",
+      "change_percentage": "-0.12%"
+    },
+    {
+      "rank": "219",
+      "city": "Maracaibo",
+      "country": "Venezuela",
+      "2025_population": "2,432,440",
+      "2024_population": "2,400,830",
+      "change_percentage": "1.32%"
+    },
+    {
+      "rank": "220",
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "2025_population": "2,425,800",
+      "2024_population": "2,352,680",
+      "change_percentage": "3.11%"
+    },
+    {
+      "rank": "221",
+      "city": "Baotou",
+      "country": "China",
+      "2025_population": "2,425,700",
+      "2024_population": "2,381,240",
+      "change_percentage": "1.87%"
+    },
+    {
+      "rank": "222",
+      "city": "Vadodara",
+      "country": "India",
+      "2025_population": "2,424,920",
+      "2024_population": "2,373,360",
+      "change_percentage": "2.17%"
+    },
+    {
+      "rank": "223",
+      "city": "Barranquilla",
+      "country": "Colombia",
+      "2025_population": "2,396,400",
+      "2024_population": "2,373,300",
+      "change_percentage": "0.97%"
+    },
+    {
+      "rank": "224",
+      "city": "Beirut",
+      "country": "Lebanon",
+      "2025_population": "2,379,330",
+      "2024_population": "2,402,480",
+      "change_percentage": "-0.96%"
+    },
+    {
+      "rank": "225",
+      "city": "Xuzhou",
+      "country": "China",
+      "2025_population": "2,376,040",
+      "2024_population": "2,332,530",
+      "change_percentage": "1.86%"
+    },
+    {
+      "rank": "226",
+      "city": "Taoyuan",
+      "country": "Taiwan",
+      "2025_population": "2,356,610",
+      "2024_population": "2,338,720",
+      "change_percentage": "0.77%"
+    },
+    {
+      "rank": "227",
+      "city": "Nashik",
+      "country": "India",
+      "2025_population": "2,351,140",
+      "2024_population": "2,294,300",
+      "change_percentage": "2.48%"
+    },
+    {
+      "rank": "228",
+      "city": "Vijayawada",
+      "country": "India",
+      "2025_population": "2,350,700",
+      "2024_population": "2,290,780",
+      "change_percentage": "2.62%"
+    },
+    {
+      "rank": "229",
+      "city": "Sendai",
+      "country": "Japan",
+      "2025_population": "2,337,590",
+      "2024_population": "2,341,430",
+      "change_percentage": "-0.16%"
+    },
+    {
+      "rank": "230",
+      "city": "Tijuana",
+      "country": "Mexico",
+      "2025_population": "2,333,220",
+      "2024_population": "2,297,220",
+      "change_percentage": "1.57%"
+    },
+    {
+      "rank": "231",
+      "city": "Esfahan",
+      "country": "Iran",
+      "2025_population": "2,327,990",
+      "2024_population": "2,294,590",
+      "change_percentage": "1.46%"
+    },
+    {
+      "rank": "232",
+      "city": "Houston",
+      "country": "United States",
+      "2025_population": "2,324,082",
+      "2024_population": "2,319,119",
+      "change_percentage": "0.21%"
+    },
+    {
+      "rank": "233",
+      "city": "Putian",
+      "country": "China",
+      "2025_population": "2,315,020",
+      "2024_population": "2,250,100",
+      "change_percentage": "2.89%"
+    },
+    {
+      "rank": "234",
+      "city": "Amman",
+      "country": "Jordan",
+      "2025_population": "2,273,240",
+      "2024_population": "2,252,690",
+      "change_percentage": "0.91%"
+    },
+    {
+      "rank": "235",
+      "city": "Multan",
+      "country": "Pakistan",
+      "2025_population": "2,258,380",
+      "2024_population": "2,205,410",
+      "change_percentage": "2.4%"
+    },
+    {
+      "rank": "236",
+      "city": "Wuhu Anhui",
+      "country": "China",
+      "2025_population": "2,257,210",
+      "2024_population": "2,195,260",
+      "change_percentage": "2.82%"
+    },
+    {
+      "rank": "237",
+      "city": "Kollam",
+      "country": "India",
+      "2025_population": "2,252,170",
+      "2024_population": "2,181,940",
+      "change_percentage": "3.22%"
+    },
+    {
+      "rank": "238",
+      "city": "Conakry",
+      "country": "Guinea",
+      "2025_population": "2,251,590",
+      "2024_population": "2,178,600",
+      "change_percentage": "3.35%"
+    },
+    {
+      "rank": "239",
+      "city": "Grande Vitoria",
+      "country": "Brazil",
+      "2025_population": "2,220,560",
+      "2024_population": "2,196,820",
+      "change_percentage": "1.08%"
+    },
+    {
+      "rank": "240",
+      "city": "Mecca",
+      "country": "Saudi Arabia",
+      "2025_population": "2,218,580",
+      "2024_population": "2,184,560",
+      "change_percentage": "1.56%"
+    },
+    {
+      "rank": "241",
+      "city": "Yangzhou",
+      "country": "China",
+      "2025_population": "2,216,800",
+      "2024_population": "2,175,100",
+      "change_percentage": "1.92%"
+    },
+    {
+      "rank": "242",
+      "city": "Taizhou Zhejiang",
+      "country": "China",
+      "2025_population": "2,198,540",
+      "2024_population": "2,152,230",
+      "change_percentage": "2.15%"
+    },
+    {
+      "rank": "243",
+      "city": "Baoding",
+      "country": "China",
+      "2025_population": "2,190,060",
+      "2024_population": "2,149,700",
+      "change_percentage": "1.88%"
+    },
+    {
+      "rank": "244",
+      "city": "Naples",
+      "country": "Italy",
+      "2025_population": "2,182,170",
+      "2024_population": "2,180,030",
+      "change_percentage": "0.1%"
+    },
+    {
+      "rank": "245",
+      "city": "Daegu",
+      "country": "South Korea",
+      "2025_population": "2,181,080",
+      "2024_population": "2,179,930",
+      "change_percentage": "0.05%"
+    },
+    {
+      "rank": "246",
+      "city": "Perth",
+      "country": "Australia",
+      "2025_population": "2,169,190",
+      "2024_population": "2,143,490",
+      "change_percentage": "1.2%"
+    },
+    {
+      "rank": "247",
+      "city": "Linyi Shandong",
+      "country": "China",
+      "2025_population": "2,161,430",
+      "2024_population": "2,120,050",
+      "change_percentage": "1.95%"
+    },
+    {
+      "rank": "248",
+      "city": "Havana",
+      "country": "Cuba",
+      "2025_population": "2,156,350",
+      "2024_population": "2,152,520",
+      "change_percentage": "0.18%"
+    },
+    {
+      "rank": "249",
+      "city": "Rajkot",
+      "country": "India",
+      "2025_population": "2,150,330",
+      "2024_population": "2,096,980",
+      "change_percentage": "2.54%"
+    },
+    {
+      "rank": "250",
+      "city": "Bursa",
+      "country": "Turkey",
+      "2025_population": "2,142,600",
+      "2024_population": "2,115,510",
+      "change_percentage": "1.28%"
+    },
+    {
+      "rank": "251",
+      "city": "Brussels",
+      "country": "Belgium",
+      "2025_population": "2,141,520",
+      "2024_population": "2,132,180",
+      "change_percentage": "0.44%"
+    },
+    {
+      "rank": "252",
+      "city": "Lome",
+      "country": "Togo",
+      "2025_population": "2,108,740",
+      "2024_population": "2,042,730",
+      "change_percentage": "3.23%"
+    },
+    {
+      "rank": "253",
+      "city": "Haikou",
+      "country": "China",
+      "2025_population": "2,095,420",
+      "2024_population": "2,056,650",
+      "change_percentage": "1.88%"
+    },
+    {
+      "rank": "254",
+      "city": "Daqing",
+      "country": "China",
+      "2025_population": "2,085,470",
+      "2024_population": "2,044,370",
+      "change_percentage": "2.01%"
+    },
+    {
+      "rank": "255",
+      "city": "Lianyungang",
+      "country": "China",
+      "2025_population": "2,080,810",
+      "2024_population": "2,035,630",
+      "change_percentage": "2.22%"
+    },
+    {
+      "rank": "256",
+      "city": "Yancheng Jiangsu",
+      "country": "China",
+      "2025_population": "2,073,240",
+      "2024_population": "2,034,330",
+      "change_percentage": "1.91%"
+    },
+    {
+      "rank": "257",
+      "city": "Minsk",
+      "country": "Belarus",
+      "2025_population": "2,070,930",
+      "2024_population": "2,064,730",
+      "change_percentage": "0.3%"
+    },
+    {
+      "rank": "258",
+      "city": "Hyderabad",
+      "country": "Pakistan",
+      "2025_population": "2,058,730",
+      "2024_population": "2,011,960",
+      "change_percentage": "2.33%"
+    },
+    {
+      "rank": "259",
+      "city": "Hiroshima",
+      "country": "Japan",
+      "2025_population": "2,058,190",
+      "2024_population": "2,062,880",
+      "change_percentage": "-0.23%"
+    },
+    {
+      "rank": "260",
+      "city": "Panama City",
+      "country": "Panama",
+      "2025_population": "2,054,540",
+      "2024_population": "2,015,740",
+      "change_percentage": "1.93%"
+    },
+    {
+      "rank": "261",
+      "city": "Semarang",
+      "country": "Indonesia",
+      "2025_population": "2,052,410",
+      "2024_population": "2,013,570",
+      "change_percentage": "1.93%"
+    },
+    {
+      "rank": "262",
+      "city": "Benin City",
+      "country": "Nigeria",
+      "2025_population": "2,044,650",
+      "2024_population": "1,972,560",
+      "change_percentage": "3.65%"
+    },
+    {
+      "rank": "263",
+      "city": "Almaty",
+      "country": "Kazakhstan",
+      "2025_population": "2,042,040",
+      "2024_population": "2,015,210",
+      "change_percentage": "1.33%"
+    },
+    {
+      "rank": "264",
+      "city": "Davao City",
+      "country": "Philippines",
+      "2025_population": "2,033,990",
+      "2024_population": "1,991,460",
+      "change_percentage": "2.14%"
+    },
+    {
+      "rank": "265",
+      "city": "Valencia",
+      "country": "Venezuela",
+      "2025_population": "2,030,790",
+      "2024_population": "2,007,260",
+      "change_percentage": "1.17%"
+    },
+    {
+      "rank": "266",
+      "city": "Ludhiana",
+      "country": "India",
+      "2025_population": "2,028,680",
+      "2024_population": "1,988,440",
+      "change_percentage": "2.02%"
+    },
+    {
+      "rank": "267",
+      "city": "Rabat",
+      "country": "Morocco",
+      "2025_population": "2,020,970",
+      "2024_population": "1,989,200",
+      "change_percentage": "1.6%"
+    },
+    {
+      "rank": "268",
+      "city": "Quito",
+      "country": "Ecuador",
+      "2025_population": "2,017,260",
+      "2024_population": "1,986,670",
+      "change_percentage": "1.54%"
+    },
+    {
+      "rank": "269",
+      "city": "Can Tho",
+      "country": "Vietnam",
+      "2025_population": "2,007,500",
+      "2024_population": "1,938,920",
+      "change_percentage": "3.54%"
+    },
+    {
+      "rank": "270",
+      "city": "Vienna",
+      "country": "Austria",
+      "2025_population": "2,005,500",
+      "2024_population": "1,990,490",
+      "change_percentage": "0.75%"
+    },
+    {
+      "rank": "271",
+      "city": "La Paz",
+      "country": "Bolivia",
+      "2025_population": "1,997,370",
+      "2024_population": "1,965,570",
+      "change_percentage": "1.62%"
+    },
+    {
+      "rank": "272",
+      "city": "Matola",
+      "country": "Mozambique",
+      "2025_population": "1,984,660",
+      "2024_population": "1,915,040",
+      "change_percentage": "3.64%"
+    },
+    {
+      "rank": "273",
+      "city": "Baixada Santista",
+      "country": "Brazil",
+      "2025_population": "1,981,790",
+      "2024_population": "1,965,110",
+      "change_percentage": "0.85%"
+    },
+    {
+      "rank": "274",
+      "city": "Zhuhai",
+      "country": "China",
+      "2025_population": "1,968,620",
+      "2024_population": "1,930,370",
+      "change_percentage": "1.98%"
+    },
+    {
+      "rank": "275",
+      "city": "Quanzhou",
+      "country": "China",
+      "2025_population": "1,966,630",
+      "2024_population": "1,920,730",
+      "change_percentage": "2.39%"
+    },
+    {
+      "rank": "276",
+      "city": "West Yorkshire",
+      "country": "United Kingdom",
+      "2025_population": "1,956,470",
+      "2024_population": "1,942,470",
+      "change_percentage": "0.72%"
+    },
+    {
+      "rank": "277",
+      "city": "Datong",
+      "country": "China",
+      "2025_population": "1,951,440",
+      "2024_population": "1,913,670",
+      "change_percentage": "1.97%"
+    },
+    {
+      "rank": "278",
+      "city": "Leon de los Aldamas",
+      "country": "Mexico",
+      "2025_population": "1,950,390",
+      "2024_population": "1,924,440",
+      "change_percentage": "1.35%"
+    },
+    {
+      "rank": "279",
+      "city": "Raipur",
+      "country": "India",
+      "2025_population": "1,923,440",
+      "2024_population": "1,871,110",
+      "change_percentage": "2.8%"
+    },
+    {
+      "rank": "280",
+      "city": "Madurai",
+      "country": "India",
+      "2025_population": "1,911,650",
+      "2024_population": "1,871,910",
+      "change_percentage": "2.12%"
+    },
+    {
+      "rank": "281",
+      "city": "Sharjah",
+      "country": "United Arab Emirates",
+      "2025_population": "1,909,930",
+      "2024_population": "1,872,200",
+      "change_percentage": "2.02%"
+    },
+    {
+      "rank": "282",
+      "city": "Mosul",
+      "country": "Iraq",
+      "2025_population": "1,904,140",
+      "2024_population": "1,847,690",
+      "change_percentage": "3.06%"
+    },
+    {
+      "rank": "283",
+      "city": "Santa Cruz",
+      "country": "Bolivia",
+      "2025_population": "1,891,230",
+      "2024_population": "1,855,730",
+      "change_percentage": "1.91%"
+    },
+    {
+      "rank": "284",
+      "city": "Palembang",
+      "country": "Indonesia",
+      "2025_population": "1,887,700",
+      "2024_population": "1,852,670",
+      "change_percentage": "1.89%"
+    },
+    {
+      "rank": "285",
+      "city": "Cixi",
+      "country": "China",
+      "2025_population": "1,885,950",
+      "2024_population": "1,840,040",
+      "change_percentage": "2.5%"
+    },
+    {
+      "rank": "286",
+      "city": "Adana",
+      "country": "Turkey",
+      "2025_population": "1,876,820",
+      "2024_population": "1,856,640",
+      "change_percentage": "1.09%"
+    },
+    {
+      "rank": "287",
+      "city": "Meerut",
+      "country": "India",
+      "2025_population": "1,874,890",
+      "2024_population": "1,835,400",
+      "change_percentage": "2.15%"
+    },
+    {
+      "rank": "288",
+      "city": "La Laguna",
+      "country": "Mexico",
+      "2025_population": "1,866,580",
+      "2024_population": "1,826,140",
+      "change_percentage": "2.21%"
+    },
+    {
+      "rank": "289",
+      "city": "Batam",
+      "country": "Indonesia",
+      "2025_population": "1,858,910",
+      "2024_population": "1,806,150",
+      "change_percentage": "2.92%"
+    },
+    {
+      "rank": "290",
+      "city": "Gaziantep",
+      "country": "Turkey",
+      "2025_population": "1,858,710",
+      "2024_population": "1,833,010",
+      "change_percentage": "1.4%"
+    },
+    {
+      "rank": "291",
+      "city": "Jiangmen",
+      "country": "China",
+      "2025_population": "1,826,520",
+      "2024_population": "1,797,470",
+      "change_percentage": "1.62%"
+    },
+    {
+      "rank": "292",
+      "city": "Varanasi",
+      "country": "India",
+      "2025_population": "1,826,010",
+      "2024_population": "1,789,050",
+      "change_percentage": "2.07%"
+    },
+    {
+      "rank": "293",
+      "city": "Kananga",
+      "country": "DR Congo",
+      "2025_population": "1,815,750",
+      "2024_population": "1,738,720",
+      "change_percentage": "4.43%"
+    },
+    {
+      "rank": "294",
+      "city": "Turin",
+      "country": "Italy",
+      "2025_population": "1,809,850",
+      "2024_population": "1,805,730",
+      "change_percentage": "0.23%"
+    },
+    {
+      "rank": "295",
+      "city": "Xiangyang",
+      "country": "China",
+      "2025_population": "1,801,750",
+      "2024_population": "1,772,320",
+      "change_percentage": "1.66%"
+    },
+    {
+      "rank": "296",
+      "city": "Yichang",
+      "country": "China",
+      "2025_population": "1,800,420",
+      "2024_population": "1,758,100",
+      "change_percentage": "2.41%"
+    },
+    {
+      "rank": "297",
+      "city": "Warsaw",
+      "country": "Poland",
+      "2025_population": "1,800,230",
+      "2024_population": "1,799,450",
+      "change_percentage": "0.04%"
+    },
+    {
+      "rank": "298",
+      "city": "Yinchuan",
+      "country": "China",
+      "2025_population": "1,795,680",
+      "2024_population": "1,757,700",
+      "change_percentage": "2.16%"
+    },
+    {
+      "rank": "299",
+      "city": "Monrovia",
+      "country": "Liberia",
+      "2025_population": "1,794,650",
+      "2024_population": "1,735,360",
+      "change_percentage": "3.42%"
+    },
+    {
+      "rank": "300",
+      "city": "Montevideo",
+      "country": "Uruguay",
+      "2025_population": "1,788,170",
+      "2024_population": "1,781,360",
+      "change_percentage": "0.38%"
+    },
+    {
+      "rank": "301",
+      "city": "Hamburg",
+      "country": "Germany",
+      "2025_population": "1,787,710",
+      "2024_population": "1,787,280",
+      "change_percentage": "0.02%"
+    },
+    {
+      "rank": "302",
+      "city": "Lyon",
+      "country": "France",
+      "2025_population": "1,787,230",
+      "2024_population": "1,774,400",
+      "change_percentage": "0.72%"
+    },
+    {
+      "rank": "303",
+      "city": "Tiruppur",
+      "country": "India",
+      "2025_population": "1,783,690",
+      "2024_population": "1,731,860",
+      "change_percentage": "2.99%"
+    },
+    {
+      "rank": "304",
+      "city": "Budapest",
+      "country": "Hungary",
+      "2025_population": "1,782,240",
+      "2024_population": "1,780,390",
+      "change_percentage": "0.1%"
+    },
+    {
+      "rank": "305",
+      "city": "Suqian",
+      "country": "China",
+      "2025_population": "1,779,600",
+      "2024_population": "1,726,330",
+      "change_percentage": "3.09%"
+    },
+    {
+      "rank": "306",
+      "city": "Srinagar",
+      "country": "India",
+      "2025_population": "1,777,610",
+      "2024_population": "1,737,500",
+      "change_percentage": "2.31%"
+    },
+    {
+      "rank": "307",
+      "city": "Jamshedpur",
+      "country": "India",
+      "2025_population": "1,767,760",
+      "2024_population": "1,730,520",
+      "change_percentage": "2.15%"
+    },
+    {
+      "rank": "308",
+      "city": "Aurangabad",
+      "country": "India",
+      "2025_population": "1,767,330",
+      "2024_population": "1,725,280",
+      "change_percentage": "2.44%"
+    },
+    {
+      "rank": "309",
+      "city": "Onitsha",
+      "country": "Nigeria",
+      "2025_population": "1,767,110",
+      "2024_population": "1,694,910",
+      "change_percentage": "4.26%"
+    },
+    {
+      "rank": "310",
+      "city": "Shiraz",
+      "country": "Iran",
+      "2025_population": "1,763,900",
+      "2024_population": "1,742,750",
+      "change_percentage": "1.21%"
+    },
+    {
+      "rank": "311",
+      "city": "Qinhuangdao",
+      "country": "China",
+      "2025_population": "1,762,820",
+      "2024_population": "1,723,730",
+      "change_percentage": "2.27%"
+    },
+    {
+      "rank": "312",
+      "city": "Bucharest",
+      "country": "Romania",
+      "2025_population": "1,758,700",
+      "2024_population": "1,767,520",
+      "change_percentage": "-0.5%"
+    },
+    {
+      "rank": "313",
+      "city": "Xining",
+      "country": "China",
+      "2025_population": "1,740,860",
+      "2024_population": "1,705,080",
+      "change_percentage": "2.1%"
+    },
+    {
+      "rank": "314",
+      "city": "Hengyang",
+      "country": "China",
+      "2025_population": "1,739,050",
+      "2024_population": "1,702,010",
+      "change_percentage": "2.18%"
+    },
+    {
+      "rank": "315",
+      "city": "Anyang",
+      "country": "China",
+      "2025_population": "1,738,620",
+      "2024_population": "1,693,380",
+      "change_percentage": "2.67%"
+    },
+    {
+      "rank": "316",
+      "city": "Anshan",
+      "country": "China",
+      "2025_population": "1,738,430",
+      "2024_population": "1,713,450",
+      "change_percentage": "1.46%"
+    },
+    {
+      "rank": "317",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "2025_population": "1,737,760",
+      "2024_population": "1,719,600",
+      "change_percentage": "1.06%"
+    },
+    {
+      "rank": "318",
+      "city": "Makassar",
+      "country": "Indonesia",
+      "2025_population": "1,737,390",
+      "2024_population": "1,704,930",
+      "change_percentage": "1.9%"
+    },
+    {
+      "rank": "319",
+      "city": "Ulaanbaatar",
+      "country": "Mongolia",
+      "2025_population": "1,724,890",
+      "2024_population": "1,699,360",
+      "change_percentage": "1.5%"
+    },
+    {
+      "rank": "320",
+      "city": "N-Djamena",
+      "country": "Chad",
+      "2025_population": "1,722,780",
+      "2024_population": "1,655,620",
+      "change_percentage": "4.06%"
+    },
+    {
+      "rank": "321",
+      "city": "Jilin",
+      "country": "China",
+      "2025_population": "1,719,310",
+      "2024_population": "1,693,700",
+      "change_percentage": "1.51%"
+    },
+    {
+      "rank": "322",
+      "city": "Glasgow",
+      "country": "United Kingdom",
+      "2025_population": "1,718,940",
+      "2024_population": "1,708,150",
+      "change_percentage": "0.63%"
+    },
+    {
+      "rank": "323",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "2025_population": "1,711,130",
+      "2024_population": "1,692,770",
+      "change_percentage": "1.08%"
+    },
+    {
+      "rank": "324",
+      "city": "Novosibirsk",
+      "country": "Russia",
+      "2025_population": "1,706,660",
+      "2024_population": "1,701,510",
+      "change_percentage": "0.3%"
+    },
+    {
+      "rank": "325",
+      "city": "Muscat",
+      "country": "Oman",
+      "2025_population": "1,702,510",
+      "2024_population": "1,676,170",
+      "change_percentage": "1.57%"
+    },
+    {
+      "rank": "326",
+      "city": "Tabriz",
+      "country": "Iran",
+      "2025_population": "1,695,670",
+      "2024_population": "1,678,030",
+      "change_percentage": "1.05%"
+    },
+    {
+      "rank": "327",
+      "city": "Qiqihaer",
+      "country": "China",
+      "2025_population": "1,689,400",
+      "2024_population": "1,662,410",
+      "change_percentage": "1.62%"
+    },
+    {
+      "rank": "328",
+      "city": "Calgary",
+      "country": "Canada",
+      "2025_population": "1,687,900",
+      "2024_population": "1,665,020",
+      "change_percentage": "1.37%"
+    },
+    {
+      "rank": "329",
+      "city": "Phoenix",
+      "country": "United States",
+      "2025_population": "1,675,144",
+      "2024_population": "1,662,607",
+      "change_percentage": "0.75%"
+    },
+    {
+      "rank": "330",
+      "city": "Kathmandu",
+      "country": "Nepal",
+      "2025_population": "1,672,900",
+      "2024_population": "1,621,640",
+      "change_percentage": "3.16%"
+    },
+    {
+      "rank": "331",
+      "city": "Jodhpur",
+      "country": "India",
+      "2025_population": "1,664,420",
+      "2024_population": "1,625,320",
+      "change_percentage": "2.41%"
+    },
+    {
+      "rank": "332",
+      "city": "Tegucigalpa",
+      "country": "Honduras",
+      "2025_population": "1,650,280",
+      "2024_population": "1,609,260",
+      "change_percentage": "2.55%"
+    },
+    {
+      "rank": "333",
+      "city": "Marseille",
+      "country": "France",
+      "2025_population": "1,644,610",
+      "2024_population": "1,635,710",
+      "change_percentage": "0.54%"
+    },
+    {
+      "rank": "334",
+      "city": "Cordoba",
+      "country": "Argentina",
+      "2025_population": "1,640,600",
+      "2024_population": "1,625,940",
+      "change_percentage": "0.9%"
+    },
+    {
+      "rank": "335",
+      "city": "Harare",
+      "country": "Zimbabwe",
+      "2025_population": "1,633,020",
+      "2024_population": "1,603,200",
+      "change_percentage": "1.86%"
+    },
+    {
+      "rank": "336",
+      "city": "Rosario",
+      "country": "Argentina",
+      "2025_population": "1,631,090",
+      "2024_population": "1,613,040",
+      "change_percentage": "1.12%"
+    },
+    {
+      "rank": "337",
+      "city": "Ciudad Juarez",
+      "country": "Mexico",
+      "2025_population": "1,625,980",
+      "2024_population": "1,604,080",
+      "change_percentage": "1.36%"
+    },
+    {
+      "rank": "338",
+      "city": "Medina",
+      "country": "Saudi Arabia",
+      "2025_population": "1,624,660",
+      "2024_population": "1,598,980",
+      "change_percentage": "1.61%"
+    },
+    {
+      "rank": "339",
+      "city": "Jining Shandong",
+      "country": "China",
+      "2025_population": "1,622,270",
+      "2024_population": "1,595,960",
+      "change_percentage": "1.65%"
+    },
+    {
+      "rank": "340",
+      "city": "Ranchi",
+      "country": "India",
+      "2025_population": "1,621,720",
+      "2024_population": "1,584,240",
+      "change_percentage": "2.37%"
+    },
+    {
+      "rank": "341",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "2025_population": "1,618,740",
+      "2024_population": "1,593,280",
+      "change_percentage": "1.6%"
+    },
+    {
+      "rank": "342",
+      "city": "Karaj",
+      "country": "Iran",
+      "2025_population": "1,614,660",
+      "2024_population": "1,603,010",
+      "change_percentage": "0.73%"
+    },
+    {
+      "rank": "343",
+      "city": "Nouakchott",
+      "country": "Mauritania",
+      "2025_population": "1,612,940",
+      "2024_population": "1,552,150",
+      "change_percentage": "3.92%"
+    },
+    {
+      "rank": "344",
+      "city": "Kota",
+      "country": "India",
+      "2025_population": "1,599,350",
+      "2024_population": "1,558,470",
+      "change_percentage": "2.62%"
+    },
+    {
+      "rank": "345",
+      "city": "Zhangjiakou",
+      "country": "China",
+      "2025_population": "1,598,460",
+      "2024_population": "1,568,120",
+      "change_percentage": "1.93%"
+    },
+    {
+      "rank": "346",
+      "city": "Mandalay",
+      "country": "Myanmar",
+      "2025_population": "1,594,300",
+      "2024_population": "1,563,020",
+      "change_percentage": "2%"
+    },
+    {
+      "rank": "347",
+      "city": "Munich",
+      "country": "Germany",
+      "2025_population": "1,590,890",
+      "2024_population": "1,584,510",
+      "change_percentage": "0.4%"
+    },
+    {
+      "rank": "348",
+      "city": "Edmonton",
+      "country": "Canada",
+      "2025_population": "1,588,600",
+      "2024_population": "1,567,620",
+      "change_percentage": "1.34%"
+    },
+    {
+      "rank": "349",
+      "city": "Daejon",
+      "country": "South Korea",
+      "2025_population": "1,586,180",
+      "2024_population": "1,581,700",
+      "change_percentage": "0.28%"
+    },
+    {
+      "rank": "350",
+      "city": "Jabalpur",
+      "country": "India",
+      "2025_population": "1,582,200",
+      "2024_population": "1,551,000",
+      "change_percentage": "2.01%"
+    },
+    {
+      "rank": "351",
+      "city": "Natal",
+      "country": "Brazil",
+      "2025_population": "1,575,050",
+      "2024_population": "1,556,410",
+      "change_percentage": "1.2%"
+    },
+    {
+      "rank": "352",
+      "city": "Gaoxiong",
+      "country": "Taiwan",
+      "2025_population": "1,565,860",
+      "2024_population": "1,559,080",
+      "change_percentage": "0.43%"
+    },
+    {
+      "rank": "353",
+      "city": "Asansol",
+      "country": "India",
+      "2025_population": "1,565,300",
+      "2024_population": "1,534,080",
+      "change_percentage": "2.04%"
+    },
+    {
+      "rank": "354",
+      "city": "Huainan",
+      "country": "China",
+      "2025_population": "1,564,320",
+      "2024_population": "1,538,600",
+      "change_percentage": "1.67%"
+    },
+    {
+      "rank": "355",
+      "city": "Yiwu",
+      "country": "China",
+      "2025_population": "1,563,820",
+      "2024_population": "1,525,750",
+      "change_percentage": "2.5%"
+    },
+    {
+      "rank": "356",
+      "city": "Homs",
+      "country": "Syria",
+      "2025_population": "1,563,600",
+      "2024_population": "1,499,600",
+      "change_percentage": "4.27%"
+    },
+    {
+      "rank": "357",
+      "city": "Niamey",
+      "country": "Niger",
+      "2025_population": "1,561,490",
+      "2024_population": "1,496,260",
+      "change_percentage": "4.36%"
+    },
+    {
+      "rank": "358",
+      "city": "Mombasa",
+      "country": "Kenya",
+      "2025_population": "1,553,460",
+      "2024_population": "1,495,220",
+      "change_percentage": "3.9%"
+    },
+    {
+      "rank": "359",
+      "city": "Ganzhou",
+      "country": "China",
+      "2025_population": "1,550,560",
+      "2024_population": "1,508,040",
+      "change_percentage": "2.82%"
+    },
+    {
+      "rank": "360",
+      "city": "Grande Sao Luis",
+      "country": "Brazil",
+      "2025_population": "1,548,210",
+      "2024_population": "1,536,020",
+      "change_percentage": "0.79%"
+    },
+    {
+      "rank": "361",
+      "city": "Kisangani",
+      "country": "DR Congo",
+      "2025_population": "1,546,690",
+      "2024_population": "1,483,510",
+      "change_percentage": "4.26%"
+    },
+    {
+      "rank": "362",
+      "city": "Chaozhou",
+      "country": "China",
+      "2025_population": "1,545,080",
+      "2024_population": "1,520,630",
+      "change_percentage": "1.61%"
+    },
+    {
+      "rank": "363",
+      "city": "Gwalior",
+      "country": "India",
+      "2025_population": "1,543,500",
+      "2024_population": "1,508,850",
+      "change_percentage": "2.3%"
+    },
+    {
+      "rank": "364",
+      "city": "Yekaterinburg",
+      "country": "Russia",
+      "2025_population": "1,537,000",
+      "2024_population": "1,532,970",
+      "change_percentage": "0.26%"
+    },
+    {
+      "rank": "365",
+      "city": "Gwangju",
+      "country": "South Korea",
+      "2025_population": "1,536,730",
+      "2024_population": "1,532,900",
+      "change_percentage": "0.25%"
+    },
+    {
+      "rank": "366",
+      "city": "San Antonio",
+      "country": "United States",
+      "2025_population": "1,532,653",
+      "2024_population": "1,513,974",
+      "change_percentage": "1.23%"
+    },
+    {
+      "rank": "367",
+      "city": "Basra",
+      "country": "Iraq",
+      "2025_population": "1,524,650",
+      "2024_population": "1,485,160",
+      "change_percentage": "2.66%"
+    },
+    {
+      "rank": "368",
+      "city": "Allahabad",
+      "country": "India",
+      "2025_population": "1,523,670",
+      "2024_population": "1,493,350",
+      "change_percentage": "2.03%"
+    },
+    {
+      "rank": "369",
+      "city": "Philadelphia",
+      "country": "United States",
+      "2025_population": "1,517,114",
+      "2024_population": "1,533,828",
+      "change_percentage": "-1.09%"
+    },
+    {
+      "rank": "370",
+      "city": "Jiaxing",
+      "country": "China",
+      "2025_population": "1,511,450",
+      "2024_population": "1,470,920",
+      "change_percentage": "2.76%"
+    },
+    {
+      "rank": "371",
+      "city": "Amritsar",
+      "country": "India",
+      "2025_population": "1,511,110",
+      "2024_population": "1,480,470",
+      "change_percentage": "2.07%"
+    },
+    {
+      "rank": "372",
+      "city": "Taizhou Jiangsu",
+      "country": "China",
+      "2025_population": "1,506,700",
+      "2024_population": "1,477,600",
+      "change_percentage": "1.97%"
+    },
+    {
+      "rank": "373",
+      "city": "Hai Phong",
+      "country": "Vietnam",
+      "2025_population": "1,503,910",
+      "2024_population": "1,463,650",
+      "change_percentage": "2.75%"
+    },
+    {
+      "rank": "374",
+      "city": "San Jose",
+      "country": "Costa Rica",
+      "2025_population": "1,502,640",
+      "2024_population": "1,482,460",
+      "change_percentage": "1.36%"
+    },
+    {
+      "rank": "375",
+      "city": "Weihai",
+      "country": "China",
+      "2025_population": "1,499,360",
+      "2024_population": "1,465,930",
+      "change_percentage": "2.28%"
+    },
+    {
+      "rank": "376",
+      "city": "Chon Buri",
+      "country": "Thailand",
+      "2025_population": "1,491,180",
+      "2024_population": "1,472,710",
+      "change_percentage": "1.25%"
+    },
+    {
+      "rank": "377",
+      "city": "Liuyang",
+      "country": "China",
+      "2025_population": "1,476,370",
+      "2024_population": "1,428,800",
+      "change_percentage": "3.33%"
+    },
+    {
+      "rank": "378",
+      "city": "Liuan",
+      "country": "China",
+      "2025_population": "1,471,240",
+      "2024_population": "1,427,890",
+      "change_percentage": "3.04%"
+    },
+    {
+      "rank": "379",
+      "city": "Kaifeng",
+      "country": "China",
+      "2025_population": "1,467,460",
+      "2024_population": "1,434,460",
+      "change_percentage": "2.3%"
+    },
+    {
+      "rank": "380",
+      "city": "Taian Shandong",
+      "country": "China",
+      "2025_population": "1,467,160",
+      "2024_population": "1,441,910",
+      "change_percentage": "1.75%"
+    },
+    {
+      "rank": "381",
+      "city": "Ottawa",
+      "country": "Canada",
+      "2025_population": "1,465,780",
+      "2024_population": "1,451,570",
+      "change_percentage": "0.98%"
+    },
+    {
+      "rank": "382",
+      "city": "Cochabamba",
+      "country": "Bolivia",
+      "2025_population": "1,460,280",
+      "2024_population": "1,430,690",
+      "change_percentage": "2.07%"
+    },
+    {
+      "rank": "383",
+      "city": "Queretaro",
+      "country": "Mexico",
+      "2025_population": "1,459,290",
+      "2024_population": "1,436,820",
+      "change_percentage": "1.56%"
+    },
+    {
+      "rank": "384",
+      "city": "Rizhao",
+      "country": "China",
+      "2025_population": "1,458,890",
+      "2024_population": "1,426,580",
+      "change_percentage": "2.27%"
+    },
+    {
+      "rank": "385",
+      "city": "Uyo",
+      "country": "Nigeria",
+      "2025_population": "1,457,020",
+      "2024_population": "1,393,450",
+      "change_percentage": "4.56%"
+    },
+    {
+      "rank": "386",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "2025_population": "1,455,100",
+      "2024_population": "1,443,350",
+      "change_percentage": "0.81%"
+    },
+    {
+      "rank": "387",
+      "city": "Konya",
+      "country": "Turkey",
+      "2025_population": "1,450,150",
+      "2024_population": "1,429,940",
+      "change_percentage": "1.41%"
+    },
+    {
+      "rank": "388",
+      "city": "Joao Pessoa",
+      "country": "Brazil",
+      "2025_population": "1,447,780",
+      "2024_population": "1,435,120",
+      "change_percentage": "0.88%"
+    },
+    {
+      "rank": "389",
+      "city": "Mwanza",
+      "country": "Tanzania",
+      "2025_population": "1,447,340",
+      "2024_population": "1,378,010",
+      "change_percentage": "5.03%"
+    },
+    {
+      "rank": "390",
+      "city": "Nanchong",
+      "country": "China",
+      "2025_population": "1,444,820",
+      "2024_population": "1,412,710",
+      "change_percentage": "2.27%"
+    },
+    {
+      "rank": "391",
+      "city": "Dhanbad",
+      "country": "India",
+      "2025_population": "1,441,800",
+      "2024_population": "1,414,530",
+      "change_percentage": "1.93%"
+    },
+    {
+      "rank": "392",
+      "city": "Dongying",
+      "country": "China",
+      "2025_population": "1,440,090",
+      "2024_population": "1,410,790",
+      "change_percentage": "2.08%"
+    },
+    {
+      "rank": "393",
+      "city": "Zunyi",
+      "country": "China",
+      "2025_population": "1,434,030",
+      "2024_population": "1,406,090",
+      "change_percentage": "1.99%"
+    },
+    {
+      "rank": "394",
+      "city": "Zhanjiang",
+      "country": "China",
+      "2025_population": "1,425,480",
+      "2024_population": "1,399,310",
+      "change_percentage": "1.87%"
+    },
+    {
+      "rank": "395",
+      "city": "Pointe-Noire",
+      "country": "Republic of the Congo",
+      "2025_population": "1,423,630",
+      "2024_population": "1,379,370",
+      "change_percentage": "3.21%"
+    },
+    {
+      "rank": "396",
+      "city": "Shiyan",
+      "country": "China",
+      "2025_population": "1,418,040",
+      "2024_population": "1,387,380",
+      "change_percentage": "2.21%"
+    },
+    {
+      "rank": "397",
+      "city": "Kharkiv",
+      "country": "Ukraine",
+      "2025_population": "1,415,820",
+      "2024_population": "1,418,980",
+      "change_percentage": "-0.22%"
+    },
+    {
+      "rank": "398",
+      "city": "Bareilly",
+      "country": "India",
+      "2025_population": "1,413,250",
+      "2024_population": "1,380,720",
+      "change_percentage": "2.36%"
+    },
+    {
+      "rank": "399",
+      "city": "Belgrade",
+      "country": "Serbia",
+      "2025_population": "1,412,950",
+      "2024_population": "1,410,700",
+      "change_percentage": "0.16%"
+    },
+    {
+      "rank": "400",
+      "city": "Bucaramanga",
+      "country": "Colombia",
+      "2025_population": "1,411,010",
+      "2024_population": "1,396,630",
+      "change_percentage": "1.03%"
+    },
+    {
+      "rank": "401",
+      "city": "Mianyang Sichuan",
+      "country": "China",
+      "2025_population": "1,400,850",
+      "2024_population": "1,376,450",
+      "change_percentage": "1.77%"
+    },
+    {
+      "rank": "402",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "2025_population": "1,400,740",
+      "2024_population": "1,391,200",
+      "change_percentage": "0.69%"
+    },
+    {
+      "rank": "403",
+      "city": "Tengzhou",
+      "country": "China",
+      "2025_population": "1,394,750",
+      "2024_population": "1,360,780",
+      "change_percentage": "2.5%"
+    },
+    {
+      "rank": "404",
+      "city": "Antalya",
+      "country": "Turkey",
+      "2025_population": "1,394,590",
+      "2024_population": "1,372,400",
+      "change_percentage": "1.62%"
+    },
+    {
+      "rank": "405",
+      "city": "Samut Prakan",
+      "country": "Thailand",
+      "2025_population": "1,393,410",
+      "2024_population": "1,376,150",
+      "change_percentage": "1.25%"
+    },
+    {
+      "rank": "406",
+      "city": "Taizhong",
+      "country": "Taiwan",
+      "2025_population": "1,393,190",
+      "2024_population": "1,381,860",
+      "change_percentage": "0.82%"
+    },
+    {
+      "rank": "407",
+      "city": "Lilongwe",
+      "country": "Malawi",
+      "2025_population": "1,393,010",
+      "2024_population": "1,333,100",
+      "change_percentage": "4.49%"
+    },
+    {
+      "rank": "408",
+      "city": "Adelaide",
+      "country": "Australia",
+      "2025_population": "1,392,940",
+      "2024_population": "1,379,280",
+      "change_percentage": "0.99%"
+    },
+    {
+      "rank": "409",
+      "city": "Qom",
+      "country": "Iran",
+      "2025_population": "1,392,280",
+      "2024_population": "1,373,800",
+      "change_percentage": "1.34%"
+    },
+    {
+      "rank": "410",
+      "city": "San Diego",
+      "country": "United States",
+      "2025_population": "1,389,672",
+      "2024_population": "1,388,996",
+      "change_percentage": "0.05%"
+    },
+    {
+      "rank": "411",
+      "city": "Suweon",
+      "country": "South Korea",
+      "2025_population": "1,388,800",
+      "2024_population": "1,378,230",
+      "change_percentage": "0.77%"
+    },
+    {
+      "rank": "412",
+      "city": "Maceio",
+      "country": "Brazil",
+      "2025_population": "1,387,920",
+      "2024_population": "1,375,980",
+      "change_percentage": "0.87%"
+    },
+    {
+      "rank": "413",
+      "city": "Freetown",
+      "country": "Sierra Leone",
+      "2025_population": "1,387,360",
+      "2024_population": "1,347,560",
+      "change_percentage": "2.95%"
+    },
+    {
+      "rank": "414",
+      "city": "Yingkou",
+      "country": "China",
+      "2025_population": "1,385,370",
+      "2024_population": "1,355,560",
+      "change_percentage": "2.2%"
+    },
+    {
+      "rank": "415",
+      "city": "Suzhou",
+      "country": "China",
+      "2025_population": "1,385,210",
+      "2024_population": "1,349,990",
+      "change_percentage": "2.61%"
+    },
+    {
+      "rank": "416",
+      "city": "Tanger",
+      "country": "Morocco",
+      "2025_population": "1,381,230",
+      "2024_population": "1,348,850",
+      "change_percentage": "2.4%"
+    },
+    {
+      "rank": "417",
+      "city": "Aligarh",
+      "country": "India",
+      "2025_population": "1,379,560",
+      "2024_population": "1,346,020",
+      "change_percentage": "2.49%"
+    },
+    {
+      "rank": "418",
+      "city": "Ad-Dammam",
+      "country": "Saudi Arabia",
+      "2025_population": "1,375,600",
+      "2024_population": "1,352,910",
+      "change_percentage": "1.68%"
+    },
+    {
+      "rank": "419",
+      "city": "Abomey-Calavi",
+      "country": "Benin",
+      "2025_population": "1,375,220",
+      "2024_population": "1,314,920",
+      "change_percentage": "4.59%"
+    },
+    {
+      "rank": "420",
+      "city": "Joinville",
+      "country": "Brazil",
+      "2025_population": "1,374,630",
+      "2024_population": "1,361,990",
+      "change_percentage": "0.93%"
+    },
+    {
+      "rank": "421",
+      "city": "Moradabad",
+      "country": "India",
+      "2025_population": "1,369,880",
+      "2024_population": "1,335,970",
+      "change_percentage": "2.54%"
+    },
+    {
+      "rank": "422",
+      "city": "Bukavu",
+      "country": "DR Congo",
+      "2025_population": "1,369,430",
+      "2024_population": "1,308,470",
+      "change_percentage": "4.66%"
+    },
+    {
+      "rank": "423",
+      "city": "Pekan Baru",
+      "country": "Indonesia",
+      "2025_population": "1,364,640",
+      "2024_population": "1,334,530",
+      "change_percentage": "2.26%"
+    },
+    {
+      "rank": "424",
+      "city": "Maoming",
+      "country": "China",
+      "2025_population": "1,361,880",
+      "2024_population": "1,333,930",
+      "change_percentage": "2.1%"
+    },
+    {
+      "rank": "425",
+      "city": "Nnewi",
+      "country": "Nigeria",
+      "2025_population": "1,361,840",
+      "2024_population": "1,300,990",
+      "change_percentage": "4.68%"
+    },
+    {
+      "rank": "426",
+      "city": "Jieyang",
+      "country": "China",
+      "2025_population": "1,354,930",
+      "2024_population": "1,320,780",
+      "change_percentage": "2.59%"
+    },
+    {
+      "rank": "427",
+      "city": "Helsinki",
+      "country": "Finland",
+      "2025_population": "1,354,890",
+      "2024_population": "1,346,810",
+      "change_percentage": "0.6%"
+    },
+    {
+      "rank": "428",
+      "city": "Astana",
+      "country": "Kazakhstan",
+      "2025_population": "1,352,560",
+      "2024_population": "1,324,110",
+      "change_percentage": "2.15%"
+    },
+    {
+      "rank": "429",
+      "city": "Bujumbura",
+      "country": "Burundi",
+      "2025_population": "1,350,150",
+      "2024_population": "1,277,050",
+      "change_percentage": "5.72%"
+    },
+    {
+      "rank": "430",
+      "city": "Mysore",
+      "country": "India",
+      "2025_population": "1,345,720",
+      "2024_population": "1,316,460",
+      "change_percentage": "2.22%"
+    },
+    {
+      "rank": "431",
+      "city": "Ruian",
+      "country": "China",
+      "2025_population": "1,344,890",
+      "2024_population": "1,314,780",
+      "change_percentage": "2.29%"
+    },
+    {
+      "rank": "432",
+      "city": "Fes",
+      "country": "Morocco",
+      "2025_population": "1,336,960",
+      "2024_population": "1,313,310",
+      "change_percentage": "1.8%"
+    },
+    {
+      "rank": "433",
+      "city": "Porto",
+      "country": "Portugal",
+      "2025_population": "1,334,200",
+      "2024_population": "1,329,300",
+      "change_percentage": "0.37%"
+    },
+    {
+      "rank": "434",
+      "city": "Fushun Liaoning",
+      "country": "China",
+      "2025_population": "1,332,270",
+      "2024_population": "1,317,280",
+      "change_percentage": "1.14%"
+    },
+    {
+      "rank": "435",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "2025_population": "1,331,940",
+      "2024_population": "1,327,950",
+      "change_percentage": "0.3%"
+    },
+    {
+      "rank": "436",
+      "city": "Port Elizabeth",
+      "country": "South Africa",
+      "2025_population": "1,330,500",
+      "2024_population": "1,312,630",
+      "change_percentage": "1.36%"
+    },
+    {
+      "rank": "437",
+      "city": "Jinhua",
+      "country": "China",
+      "2025_population": "1,329,990",
+      "2024_population": "1,296,060",
+      "change_percentage": "2.62%"
+    },
+    {
+      "rank": "438",
+      "city": "Kigali",
+      "country": "Rwanda",
+      "2025_population": "1,329,830",
+      "2024_population": "1,287,950",
+      "change_percentage": "3.25%"
+    },
+    {
+      "rank": "439",
+      "city": "Ahvaz",
+      "country": "Iran",
+      "2025_population": "1,324,800",
+      "2024_population": "1,309,370",
+      "change_percentage": "1.18%"
+    },
+    {
+      "rank": "440",
+      "city": "Florianopolis",
+      "country": "Brazil",
+      "2025_population": "1,323,850",
+      "2024_population": "1,309,900",
+      "change_percentage": "1.06%"
+    },
+    {
+      "rank": "441",
+      "city": "Bhubaneswar",
+      "country": "India",
+      "2025_population": "1,320,910",
+      "2024_population": "1,289,250",
+      "change_percentage": "2.46%"
+    },
+    {
+      "rank": "442",
+      "city": "Baoji",
+      "country": "China",
+      "2025_population": "1,317,340",
+      "2024_population": "1,290,230",
+      "change_percentage": "2.1%"
+    },
+    {
+      "rank": "443",
+      "city": "Durg-Bhilainagar",
+      "country": "India",
+      "2025_population": "1,315,330",
+      "2024_population": "1,289,670",
+      "change_percentage": "1.99%"
+    },
+    {
+      "rank": "444",
+      "city": "Pingdingshan Henan",
+      "country": "China",
+      "2025_population": "1,312,850",
+      "2024_population": "1,285,750",
+      "change_percentage": "2.11%"
+    },
+    {
+      "rank": "445",
+      "city": "San Luis Potosi",
+      "country": "Mexico",
+      "2025_population": "1,310,720",
+      "2024_population": "1,292,130",
+      "change_percentage": "1.44%"
+    },
+    {
+      "rank": "446",
+      "city": "Liupanshui",
+      "country": "China",
+      "2025_population": "1,309,840",
+      "2024_population": "1,272,870",
+      "change_percentage": "2.9%"
+    },
+    {
+      "rank": "447",
+      "city": "Puning",
+      "country": "China",
+      "2025_population": "1,309,420",
+      "2024_population": "1,282,760",
+      "change_percentage": "2.08%"
+    },
+    {
+      "rank": "448",
+      "city": "Chifeng",
+      "country": "China",
+      "2025_population": "1,305,090",
+      "2024_population": "1,279,540",
+      "change_percentage": "2%"
+    },
+    {
+      "rank": "449",
+      "city": "Dallas",
+      "country": "United States",
+      "2025_population": "1,302,638",
+      "2024_population": "1,302,753",
+      "change_percentage": "-0.01%"
+    },
+    {
+      "rank": "450",
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "2025_population": "1,301,130",
+      "2024_population": "1,266,790",
+      "change_percentage": "2.71%"
+    },
+    {
+      "rank": "451",
+      "city": "Kazan",
+      "country": "Russia",
+      "2025_population": "1,299,580",
+      "2024_population": "1,296,230",
+      "change_percentage": "0.26%"
+    },
+    {
+      "rank": "452",
+      "city": "Zhuzhou",
+      "country": "China",
+      "2025_population": "1,299,480",
+      "2024_population": "1,277,240",
+      "change_percentage": "1.74%"
+    },
+    {
+      "rank": "453",
+      "city": "Zhenjiang Jiangsu",
+      "country": "China",
+      "2025_population": "1,299,130",
+      "2024_population": "1,275,400",
+      "change_percentage": "1.86%"
+    },
+    {
+      "rank": "454",
+      "city": "Dublin",
+      "country": "Ireland",
+      "2025_population": "1,299,110",
+      "2024_population": "1,284,550",
+      "change_percentage": "1.13%"
+    },
+    {
+      "rank": "455",
+      "city": "Tasikmalaya",
+      "country": "Indonesia",
+      "2025_population": "1,297,900",
+      "2024_population": "1,258,120",
+      "change_percentage": "3.16%"
+    },
+    {
+      "rank": "456",
+      "city": "Huaibei",
+      "country": "China",
+      "2025_population": "1,291,440",
+      "2024_population": "1,264,860",
+      "change_percentage": "2.1%"
+    },
+    {
+      "rank": "457",
+      "city": "Xiongan",
+      "country": "China",
+      "2025_population": "1,288,560",
+      "2024_population": "1,240,160",
+      "change_percentage": "3.9%"
+    },
+    {
+      "rank": "458",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "2025_population": "1,286,460",
+      "2024_population": "1,287,540",
+      "change_percentage": "-0.08%"
+    },
+    {
+      "rank": "459",
+      "city": "Da Nang",
+      "country": "Vietnam",
+      "2025_population": "1,286,000",
+      "2024_population": "1,253,230",
+      "change_percentage": "2.61%"
+    },
+    {
+      "rank": "460",
+      "city": "Pizhou",
+      "country": "China",
+      "2025_population": "1,282,270",
+      "2024_population": "1,247,180",
+      "change_percentage": "2.81%"
+    },
+    {
+      "rank": "461",
+      "city": "Barquisimeto",
+      "country": "Venezuela",
+      "2025_population": "1,281,730",
+      "2024_population": "1,267,870",
+      "change_percentage": "1.09%"
+    },
+    {
+      "rank": "462",
+      "city": "Bogor",
+      "country": "Indonesia",
+      "2025_population": "1,281,010",
+      "2024_population": "1,256,160",
+      "change_percentage": "1.98%"
+    },
+    {
+      "rank": "463",
+      "city": "Luohe",
+      "country": "China",
+      "2025_population": "1,278,770",
+      "2024_population": "1,241,150",
+      "change_percentage": "3.03%"
+    },
+    {
+      "rank": "464",
+      "city": "Aba",
+      "country": "Nigeria",
+      "2025_population": "1,274,780",
+      "2024_population": "1,230,410",
+      "change_percentage": "3.61%"
+    },
+    {
+      "rank": "465",
+      "city": "Nanyang Henan",
+      "country": "China",
+      "2025_population": "1,274,630",
+      "2024_population": "1,250,300",
+      "change_percentage": "1.95%"
+    },
+    {
+      "rank": "466",
+      "city": "Xiangtan Hunan",
+      "country": "China",
+      "2025_population": "1,273,560",
+      "2024_population": "1,249,380",
+      "change_percentage": "1.93%"
+    },
+    {
+      "rank": "467",
+      "city": "Maracay",
+      "country": "Venezuela",
+      "2025_population": "1,270,320",
+      "2024_population": "1,256,550",
+      "change_percentage": "1.1%"
+    },
+    {
+      "rank": "468",
+      "city": "Tiruchirappalli",
+      "country": "India",
+      "2025_population": "1,269,900",
+      "2024_population": "1,244,980",
+      "change_percentage": "2%"
+    },
+    {
+      "rank": "469",
+      "city": "Bazhong",
+      "country": "China",
+      "2025_population": "1,268,080",
+      "2024_population": "1,225,590",
+      "change_percentage": "3.47%"
+    },
+    {
+      "rank": "470",
+      "city": "Chandigarh",
+      "country": "India",
+      "2025_population": "1,266,010",
+      "2024_population": "1,239,700",
+      "change_percentage": "2.12%"
+    },
+    {
+      "rank": "471",
+      "city": "Binzhou",
+      "country": "China",
+      "2025_population": "1,263,650",
+      "2024_population": "1,233,580",
+      "change_percentage": "2.44%"
+    },
+    {
+      "rank": "472",
+      "city": "Jinzhou",
+      "country": "China",
+      "2025_population": "1,260,660",
+      "2024_population": "1,238,380",
+      "change_percentage": "1.8%"
+    },
+    {
+      "rank": "473",
+      "city": "Kaduna",
+      "country": "Nigeria",
+      "2025_population": "1,259,940",
+      "2024_population": "1,221,450",
+      "change_percentage": "3.15%"
+    },
+    {
+      "rank": "474",
+      "city": "Merida",
+      "country": "Mexico",
+      "2025_population": "1,258,230",
+      "2024_population": "1,239,650",
+      "change_percentage": "1.5%"
+    },
+    {
+      "rank": "475",
+      "city": "Benxi",
+      "country": "China",
+      "2025_population": "1,258,120",
+      "2024_population": "1,237,550",
+      "change_percentage": "1.66%"
+    },
+    {
+      "rank": "476",
+      "city": "Mendoza",
+      "country": "Argentina",
+      "2025_population": "1,257,180",
+      "2024_population": "1,242,320",
+      "change_percentage": "1.2%"
+    },
+    {
+      "rank": "477",
+      "city": "Quetta",
+      "country": "Pakistan",
+      "2025_population": "1,253,110",
+      "2024_population": "1,221,500",
+      "change_percentage": "2.59%"
+    },
+    {
+      "rank": "478",
+      "city": "Nizhniy Novgorod",
+      "country": "Russia",
+      "2025_population": "1,249,760",
+      "2024_population": "1,250,300",
+      "change_percentage": "-0.04%"
+    },
+    {
+      "rank": "479",
+      "city": "Chelyabinsk",
+      "country": "Russia",
+      "2025_population": "1,246,210",
+      "2024_population": "1,243,880",
+      "change_percentage": "0.19%"
+    },
+    {
+      "rank": "480",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "2025_population": "1,244,190",
+      "2024_population": "1,228,770",
+      "change_percentage": "1.26%"
+    },
+    {
+      "rank": "481",
+      "city": "Bobo-Dioulasso",
+      "country": "Burkina Faso",
+      "2025_population": "1,243,530",
+      "2024_population": "1,185,050",
+      "change_percentage": "4.93%"
+    },
+    {
+      "rank": "482",
+      "city": "Saharanpur",
+      "country": "India",
+      "2025_population": "1,242,490",
+      "2024_population": "1,207,860",
+      "change_percentage": "2.87%"
+    },
+    {
+      "rank": "483",
+      "city": "Guilin",
+      "country": "China",
+      "2025_population": "1,238,950",
+      "2024_population": "1,218,070",
+      "change_percentage": "1.71%"
+    },
+    {
+      "rank": "484",
+      "city": "Hubli-Dharwad",
+      "country": "India",
+      "2025_population": "1,231,020",
+      "2024_population": "1,205,430",
+      "change_percentage": "2.12%"
+    },
+    {
+      "rank": "485",
+      "city": "Maputo",
+      "country": "Mozambique",
+      "2025_population": "1,230,070",
+      "2024_population": "1,193,250",
+      "change_percentage": "3.09%"
+    },
+    {
+      "rank": "486",
+      "city": "Yueqing",
+      "country": "China",
+      "2025_population": "1,229,960",
+      "2024_population": "1,201,400",
+      "change_percentage": "2.38%"
+    },
+    {
+      "rank": "487",
+      "city": "Hargeysa",
+      "country": "Somalia",
+      "2025_population": "1,227,620",
+      "2024_population": "1,176,620",
+      "change_percentage": "4.33%"
+    },
+    {
+      "rank": "488",
+      "city": "Guwahati",
+      "country": "India",
+      "2025_population": "1,224,170",
+      "2024_population": "1,199,460",
+      "change_percentage": "2.06%"
+    },
+    {
+      "rank": "489",
+      "city": "Salem",
+      "country": "India",
+      "2025_population": "1,220,710",
+      "2024_population": "1,194,760",
+      "change_percentage": "2.17%"
+    },
+    {
+      "rank": "490",
+      "city": "Mexicali",
+      "country": "Mexico",
+      "2025_population": "1,215,000",
+      "2024_population": "1,196,980",
+      "change_percentage": "1.5%"
+    },
+    {
+      "rank": "491",
+      "city": "Bandar Lampung",
+      "country": "Indonesia",
+      "2025_population": "1,210,200",
+      "2024_population": "1,186,230",
+      "change_percentage": "2.02%"
+    },
+    {
+      "rank": "492",
+      "city": "Shimkent",
+      "country": "Kazakhstan",
+      "2025_population": "1,203,890",
+      "2024_population": "1,181,020",
+      "change_percentage": "1.94%"
+    },
+    {
+      "rank": "493",
+      "city": "Tripoli",
+      "country": "Libya",
+      "2025_population": "1,203,390",
+      "2024_population": "1,192,440",
+      "change_percentage": "0.92%"
+    },
+    {
+      "rank": "494",
+      "city": "Haifa",
+      "country": "Israel",
+      "2025_population": "1,199,980",
+      "2024_population": "1,186,480",
+      "change_percentage": "1.14%"
+    },
+    {
+      "rank": "495",
+      "city": "Ikorodu",
+      "country": "Nigeria",
+      "2025_population": "1,196,820",
+      "2024_population": "1,145,220",
+      "change_percentage": "4.51%"
+    },
+    {
+      "rank": "496",
+      "city": "Aguascalientes",
+      "country": "Mexico",
+      "2025_population": "1,196,770",
+      "2024_population": "1,179,300",
+      "change_percentage": "1.48%"
+    },
+    {
+      "rank": "497",
+      "city": "Siliguri",
+      "country": "India",
+      "2025_population": "1,191,400",
+      "2024_population": "1,159,370",
+      "change_percentage": "2.76%"
+    },
+    {
+      "rank": "498",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "2025_population": "1,189,200",
+      "2024_population": "1,181,820",
+      "change_percentage": "0.62%"
+    },
+    {
+      "rank": "499",
+      "city": "Tshikapa",
+      "country": "DR Congo",
+      "2025_population": "1,185,920",
+      "2024_population": "1,131,230",
+      "change_percentage": "4.83%"
+    },
+    {
+      "rank": "500",
+      "city": "Wenling",
+      "country": "China",
+      "2025_population": "1,184,900",
+      "2024_population": "1,159,260",
+      "change_percentage": "2.21%"
+    },
+    {
+      "rank": "501",
+      "city": "Omsk",
+      "country": "Russia",
+      "2025_population": "1,180,820",
+      "2024_population": "1,180,680",
+      "change_percentage": "0.01%"
+    },
+    {
+      "rank": "502",
+      "city": "Xinxiang",
+      "country": "China",
+      "2025_population": "1,180,750",
+      "2024_population": "1,160,840",
+      "change_percentage": "1.71%"
+    },
+    {
+      "rank": "503",
+      "city": "Krasnoyarsk",
+      "country": "Russia",
+      "2025_population": "1,177,840",
+      "2024_population": "1,173,100",
+      "change_percentage": "0.4%"
+    },
+    {
+      "rank": "504",
+      "city": "Bien Hoa",
+      "country": "Vietnam",
+      "2025_population": "1,174,750",
+      "2024_population": "1,143,000",
+      "change_percentage": "2.78%"
+    },
+    {
+      "rank": "505",
+      "city": "Fuyang",
+      "country": "China",
+      "2025_population": "1,170,240",
+      "2024_population": "1,146,340",
+      "change_percentage": "2.08%"
+    },
+    {
+      "rank": "506",
+      "city": "Zaozhuang",
+      "country": "China",
+      "2025_population": "1,168,490",
+      "2024_population": "1,150,860",
+      "change_percentage": "1.53%"
+    },
+    {
+      "rank": "507",
+      "city": "Jalandhar",
+      "country": "India",
+      "2025_population": "1,167,600",
+      "2024_population": "1,142,680",
+      "change_percentage": "2.18%"
+    },
+    {
+      "rank": "508",
+      "city": "Ma'anshan",
+      "country": "China",
+      "2025_population": "1,165,590",
+      "2024_population": "1,140,260",
+      "change_percentage": "2.22%"
+    },
+    {
+      "rank": "509",
+      "city": "Panjin",
+      "country": "China",
+      "2025_population": "1,163,590",
+      "2024_population": "1,142,540",
+      "change_percentage": "1.84%"
+    },
+    {
+      "rank": "510",
+      "city": "Fuzhou Jiangxi",
+      "country": "China",
+      "2025_population": "1,159,940",
+      "2024_population": "1,131,720",
+      "change_percentage": "2.49%"
+    },
+    {
+      "rank": "511",
+      "city": "Sekondi Takoradi",
+      "country": "Ghana",
+      "2025_population": "1,159,780",
+      "2024_population": "1,119,530",
+      "change_percentage": "3.6%"
+    },
+    {
+      "rank": "512",
+      "city": "Yichun Jiangxi",
+      "country": "China",
+      "2025_population": "1,159,390",
+      "2024_population": "1,122,040",
+      "change_percentage": "3.33%"
+    },
+    {
+      "rank": "513",
+      "city": "Yongin",
+      "country": "South Korea",
+      "2025_population": "1,157,920",
+      "2024_population": "1,147,970",
+      "change_percentage": "0.87%"
+    },
+    {
+      "rank": "514",
+      "city": "Cuernavaca",
+      "country": "Mexico",
+      "2025_population": "1,156,360",
+      "2024_population": "1,140,170",
+      "change_percentage": "1.42%"
+    },
+    {
+      "rank": "515",
+      "city": "Samarinda",
+      "country": "Indonesia",
+      "2025_population": "1,154,760",
+      "2024_population": "1,128,180",
+      "change_percentage": "2.36%"
+    },
+    {
+      "rank": "516",
+      "city": "Aden",
+      "country": "Yemen",
+      "2025_population": "1,154,410",
+      "2024_population": "1,116,190",
+      "change_percentage": "3.42%"
+    },
+    {
+      "rank": "517",
+      "city": "Samara",
+      "country": "Russia",
+      "2025_population": "1,153,710",
+      "2024_population": "1,154,450",
+      "change_percentage": "-0.06%"
+    },
+    {
+      "rank": "518",
+      "city": "Shangrao",
+      "country": "China",
+      "2025_population": "1,153,600",
+      "2024_population": "1,130,890",
+      "change_percentage": "2.01%"
+    },
+    {
+      "rank": "519",
+      "city": "Chihuahua",
+      "country": "Mexico",
+      "2025_population": "1,153,540",
+      "2024_population": "1,135,340",
+      "change_percentage": "1.6%"
+    },
+    {
+      "rank": "520",
+      "city": "Cologne",
+      "country": "Germany",
+      "2025_population": "1,153,230",
+      "2024_population": "1,149,010",
+      "change_percentage": "0.37%"
+    },
+    {
+      "rank": "521",
+      "city": "Asmara",
+      "country": "Eritrea",
+      "2025_population": "1,152,180",
+      "2024_population": "1,111,750",
+      "change_percentage": "3.64%"
+    },
+    {
+      "rank": "522",
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "2025_population": "1,151,220",
+      "2024_population": "1,127,720",
+      "change_percentage": "2.08%"
+    },
+    {
+      "rank": "523",
+      "city": "Chenzhou",
+      "country": "China",
+      "2025_population": "1,150,530",
+      "2024_population": "1,119,790",
+      "change_percentage": "2.74%"
+    },
+    {
+      "rank": "524",
+      "city": "Zhaoqing",
+      "country": "China",
+      "2025_population": "1,150,480",
+      "2024_population": "1,127,600",
+      "change_percentage": "2.03%"
+    },
+    {
+      "rank": "525",
+      "city": "Ufa",
+      "country": "Russia",
+      "2025_population": "1,148,400",
+      "2024_population": "1,146,790",
+      "change_percentage": "0.14%"
+    },
+    {
+      "rank": "526",
+      "city": "Nyala",
+      "country": "Sudan",
+      "2025_population": "1,145,590",
+      "2024_population": "1,101,310",
+      "change_percentage": "4.02%"
+    },
+    {
+      "rank": "527",
+      "city": "Leshan",
+      "country": "China",
+      "2025_population": "1,142,870",
+      "2024_population": "1,116,500",
+      "change_percentage": "2.36%"
+    },
+    {
+      "rank": "528",
+      "city": "Rostov-on-Don",
+      "country": "Russia",
+      "2025_population": "1,140,390",
+      "2024_population": "1,139,640",
+      "change_percentage": "0.07%"
+    },
+    {
+      "rank": "529",
+      "city": "Dezhou",
+      "country": "China",
+      "2025_population": "1,133,630",
+      "2024_population": "1,108,360",
+      "change_percentage": "2.28%"
+    },
+    {
+      "rank": "530",
+      "city": "San Salvador",
+      "country": "El Salvador",
+      "2025_population": "1,132,420",
+      "2024_population": "1,123,380",
+      "change_percentage": "0.8%"
+    },
+    {
+      "rank": "531",
+      "city": "Diyarbakir",
+      "country": "Turkey",
+      "2025_population": "1,128,360",
+      "2024_population": "1,113,330",
+      "change_percentage": "1.35%"
+    },
+    {
+      "rank": "532",
+      "city": "Kirkuk",
+      "country": "Iraq",
+      "2025_population": "1,128,190",
+      "2024_population": "1,100,390",
+      "change_percentage": "2.53%"
+    },
+    {
+      "rank": "533",
+      "city": "Johor Bahru",
+      "country": "Malaysia",
+      "2025_population": "1,127,520",
+      "2024_population": "1,107,000",
+      "change_percentage": "1.85%"
+    },
+    {
+      "rank": "534",
+      "city": "Jingzhou Hubei",
+      "country": "China",
+      "2025_population": "1,126,220",
+      "2024_population": "1,108,070",
+      "change_percentage": "1.64%"
+    },
+    {
+      "rank": "535",
+      "city": "Changshu",
+      "country": "China",
+      "2025_population": "1,123,540",
+      "2024_population": "1,093,690",
+      "change_percentage": "2.73%"
+    },
+    {
+      "rank": "536",
+      "city": "Goyang",
+      "country": "South Korea",
+      "2025_population": "1,121,440",
+      "2024_population": "1,114,080",
+      "change_percentage": "0.66%"
+    },
+    {
+      "rank": "537",
+      "city": "Managua",
+      "country": "Nicaragua",
+      "2025_population": "1,120,900",
+      "2024_population": "1,107,120",
+      "change_percentage": "1.24%"
+    },
+    {
+      "rank": "538",
+      "city": "Kermanshah",
+      "country": "Iran",
+      "2025_population": "1,117,360",
+      "2024_population": "1,101,610",
+      "change_percentage": "1.43%"
+    },
+    {
+      "rank": "539",
+      "city": "Xuchang",
+      "country": "China",
+      "2025_population": "1,117,100",
+      "2024_population": "1,091,740",
+      "change_percentage": "2.32%"
+    },
+    {
+      "rank": "540",
+      "city": "Oslo",
+      "country": "Norway",
+      "2025_population": "1,115,580",
+      "2024_population": "1,100,870",
+      "change_percentage": "1.34%"
+    },
+    {
+      "rank": "541",
+      "city": "Huzhou",
+      "country": "China",
+      "2025_population": "1,114,370",
+      "2024_population": "1,091,810",
+      "change_percentage": "2.07%"
+    },
+    {
+      "rank": "542",
+      "city": "Blantyre-Limbe",
+      "country": "Malawi",
+      "2025_population": "1,114,090",
+      "2024_population": "1,070,620",
+      "change_percentage": "4.06%"
+    },
+    {
+      "rank": "543",
+      "city": "Solapur",
+      "country": "India",
+      "2025_population": "1,108,180",
+      "2024_population": "1,088,130",
+      "change_percentage": "1.84%"
+    },
+    {
+      "rank": "544",
+      "city": "Cartagena",
+      "country": "Colombia",
+      "2025_population": "1,105,540",
+      "2024_population": "1,096,460",
+      "change_percentage": "0.83%"
+    },
+    {
+      "rank": "545",
+      "city": "Yerevan",
+      "country": "Armenia",
+      "2025_population": "1,100,240",
+      "2024_population": "1,097,540",
+      "change_percentage": "0.25%"
+    },
+    {
+      "rank": "546",
+      "city": "Ilorin",
+      "country": "Nigeria",
+      "2025_population": "1,099,960",
+      "2024_population": "1,063,710",
+      "change_percentage": "3.41%"
+    },
+    {
+      "rank": "547",
+      "city": "Mersin",
+      "country": "Turkey",
+      "2025_population": "1,099,040",
+      "2024_population": "1,084,820",
+      "change_percentage": "1.31%"
+    },
+    {
+      "rank": "548",
+      "city": "Denpasar",
+      "country": "Indonesia",
+      "2025_population": "1,097,310",
+      "2024_population": "1,075,240",
+      "change_percentage": "2.05%"
+    },
+    {
+      "rank": "549",
+      "city": "Qujing",
+      "country": "China",
+      "2025_population": "1,092,200",
+      "2024_population": "1,066,900",
+      "change_percentage": "2.37%"
+    },
+    {
+      "rank": "550",
+      "city": "Lille",
+      "country": "France",
+      "2025_population": "1,091,590",
+      "2024_population": "1,085,200",
+      "change_percentage": "0.59%"
+    },
+    {
+      "rank": "551",
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "2025_population": "1,087,020",
+      "2024_population": "1,084,470",
+      "change_percentage": "0.24%"
+    },
+    {
+      "rank": "552",
+      "city": "Guiping",
+      "country": "China",
+      "2025_population": "1,086,960",
+      "2024_population": "1,055,920",
+      "change_percentage": "2.94%"
+    },
+    {
+      "rank": "553",
+      "city": "Voronezh",
+      "country": "Russia",
+      "2025_population": "1,086,000",
+      "2024_population": "1,083,720",
+      "change_percentage": "0.21%"
+    },
+    {
+      "rank": "554",
+      "city": "Perm",
+      "country": "Russia",
+      "2025_population": "1,085,990",
+      "2024_population": "1,084,120",
+      "change_percentage": "0.17%"
+    },
+    {
+      "rank": "555",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "2025_population": "1,085,330",
+      "2024_population": "1,067,170",
+      "change_percentage": "1.7%"
+    },
+    {
+      "rank": "556",
+      "city": "Aracaju",
+      "country": "Brazil",
+      "2025_population": "1,081,930",
+      "2024_population": "1,070,120",
+      "change_percentage": "1.1%"
+    },
+    {
+      "rank": "557",
+      "city": "Warangal",
+      "country": "India",
+      "2025_population": "1,080,490",
+      "2024_population": "1,055,600",
+      "change_percentage": "2.36%"
+    },
+    {
+      "rank": "558",
+      "city": "Toulouse",
+      "country": "France",
+      "2025_population": "1,080,180",
+      "2024_population": "1,070,750",
+      "change_percentage": "0.88%"
+    },
+    {
+      "rank": "559",
+      "city": "Yueyang",
+      "country": "China",
+      "2025_population": "1,079,980",
+      "2024_population": "1,064,170",
+      "change_percentage": "1.49%"
+    },
+    {
+      "rank": "560",
+      "city": "Hamah",
+      "country": "Syria",
+      "2025_population": "1,078,650",
+      "2024_population": "1,034,500",
+      "change_percentage": "4.27%"
+    },
+    {
+      "rank": "561",
+      "city": "Tampico",
+      "country": "Mexico",
+      "2025_population": "1,077,740",
+      "2024_population": "1,062,570",
+      "change_percentage": "1.43%"
+    },
+    {
+      "rank": "562",
+      "city": "Warri",
+      "country": "Nigeria",
+      "2025_population": "1,076,120",
+      "2024_population": "1,031,420",
+      "change_percentage": "4.33%"
+    },
+    {
+      "rank": "563",
+      "city": "Xintai",
+      "country": "China",
+      "2025_population": "1,073,060",
+      "2024_population": "1,049,490",
+      "change_percentage": "2.25%"
+    },
+    {
+      "rank": "564",
+      "city": "Padang",
+      "country": "Indonesia",
+      "2025_population": "1,072,560",
+      "2024_population": "1,052,850",
+      "change_percentage": "1.87%"
+    },
+    {
+      "rank": "565",
+      "city": "Teresina",
+      "country": "Brazil",
+      "2025_population": "1,068,550",
+      "2024_population": "1,059,660",
+      "change_percentage": "0.84%"
+    },
+    {
+      "rank": "566",
+      "city": "Saltillo",
+      "country": "Mexico",
+      "2025_population": "1,066,100",
+      "2024_population": "1,050,320",
+      "change_percentage": "1.5%"
+    },
+    {
+      "rank": "567",
+      "city": "Cancun",
+      "country": "Mexico",
+      "2025_population": "1,065,400",
+      "2024_population": "1,045,000",
+      "change_percentage": "1.95%"
+    },
+    {
+      "rank": "568",
+      "city": "Antwerp",
+      "country": "Belgium",
+      "2025_population": "1,064,870",
+      "2024_population": "1,061,090",
+      "change_percentage": "0.36%"
+    },
+    {
+      "rank": "569",
+      "city": "Owerri",
+      "country": "Nigeria",
+      "2025_population": "1,063,680",
+      "2024_population": "1,022,920",
+      "change_percentage": "3.98%"
+    },
+    {
+      "rank": "570",
+      "city": "Cebu City",
+      "country": "Philippines",
+      "2025_population": "1,061,620",
+      "2024_population": "1,042,610",
+      "change_percentage": "1.82%"
+    },
+    {
+      "rank": "571",
+      "city": "Nampula",
+      "country": "Mozambique",
+      "2025_population": "1,057,290",
+      "2024_population": "1,012,580",
+      "change_percentage": "4.42%"
+    },
+    {
+      "rank": "572",
+      "city": "Changwon",
+      "country": "South Korea",
+      "2025_population": "1,056,980",
+      "2024_population": "1,055,370",
+      "change_percentage": "0.15%"
+    },
+    {
+      "rank": "573",
+      "city": "Chengde",
+      "country": "China",
+      "2025_population": "1,052,320",
+      "2024_population": "1,024,520",
+      "change_percentage": "2.71%"
+    },
+    {
+      "rank": "574",
+      "city": "San Miguel de Tucuman",
+      "country": "Argentina",
+      "2025_population": "1,051,040",
+      "2024_population": "1,039,230",
+      "change_percentage": "1.14%"
+    },
+    {
+      "rank": "575",
+      "city": "Lubango",
+      "country": "Angola",
+      "2025_population": "1,047,810",
+      "2024_population": "1,003,020",
+      "change_percentage": "4.47%"
+    },
+    {
+      "rank": "576",
+      "city": "Acapulco de Juarez",
+      "country": "Mexico",
+      "2025_population": "1,046,710",
+      "2024_population": "1,032,770",
+      "change_percentage": "1.35%"
+    },
+    {
+      "rank": "577",
+      "city": "Zhucheng",
+      "country": "China",
+      "2025_population": "1,045,070",
+      "2024_population": "1,019,600",
+      "change_percentage": "2.5%"
+    },
+    {
+      "rank": "578",
+      "city": "Leiyang",
+      "country": "China",
+      "2025_population": "1,043,580",
+      "2024_population": "1,013,190",
+      "change_percentage": "3%"
+    },
+    {
+      "rank": "579",
+      "city": "Pingxiang Jiangxi",
+      "country": "China",
+      "2025_population": "1,042,120",
+      "2024_population": "1,021,580",
+      "change_percentage": "2.01%"
+    },
+    {
+      "rank": "580",
+      "city": "Dehradun",
+      "country": "India",
+      "2025_population": "1,041,060",
+      "2024_population": "1,016,400",
+      "change_percentage": "2.43%"
+    },
+    {
+      "rank": "581",
+      "city": "Dushanbe",
+      "country": "Tajikistan",
+      "2025_population": "1,039,900",
+      "2024_population": "1,012,790",
+      "change_percentage": "2.68%"
+    },
+    {
+      "rank": "582",
+      "city": "Kayseri",
+      "country": "Turkey",
+      "2025_population": "1,037,250",
+      "2024_population": "1,025,510",
+      "change_percentage": "1.15%"
+    },
+    {
+      "rank": "583",
+      "city": "Jos",
+      "country": "Nigeria",
+      "2025_population": "1,035,090",
+      "2024_population": "1,001,160",
+      "change_percentage": "3.39%"
+    },
+    {
+      "rank": "584",
+      "city": "Misratah",
+      "country": "Libya",
+      "2025_population": "1,034,680",
+      "2024_population": "1,011,120",
+      "change_percentage": "2.33%"
+    },
+    {
+      "rank": "585",
+      "city": "San Pedro Sula",
+      "country": "Honduras",
+      "2025_population": "1,034,200",
+      "2024_population": "1,008,220",
+      "change_percentage": "2.58%"
+    },
+    {
+      "rank": "586",
+      "city": "Sylhet",
+      "country": "Bangladesh",
+      "2025_population": "1,032,980",
+      "2024_population": "999,374",
+      "change_percentage": "3.36%"
+    },
+    {
+      "rank": "587",
+      "city": "Laiwu",
+      "country": "China",
+      "2025_population": "1,031,440",
+      "2024_population": "1,009,730",
+      "change_percentage": "2.15%"
+    },
+    {
+      "rank": "588",
+      "city": "Songkhla",
+      "country": "Thailand",
+      "2025_population": "1,030,550",
+      "2024_population": "1,017,780",
+      "change_percentage": "1.26%"
+    },
+    {
+      "rank": "589",
+      "city": "Nonthaburi",
+      "country": "Thailand",
+      "2025_population": "1,026,390",
+      "2024_population": "1,013,670",
+      "change_percentage": "1.26%"
+    },
+    {
+      "rank": "590",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "2025_population": "1,026,250",
+      "2024_population": "1,021,920",
+      "change_percentage": "0.42%"
+    },
+    {
+      "rank": "591",
+      "city": "Jixi Heilongjiang",
+      "country": "China",
+      "2025_population": "1,024,970",
+      "2024_population": "1,008,990",
+      "change_percentage": "1.58%"
+    },
+    {
+      "rank": "592",
+      "city": "Valparaiso",
+      "country": "Chile",
+      "2025_population": "1,024,430",
+      "2024_population": "1,016,580",
+      "change_percentage": "0.77%"
+    },
+    {
+      "rank": "593",
+      "city": "Jiujiang",
+      "country": "China",
+      "2025_population": "1,024,430",
+      "2024_population": "1,004,250",
+      "change_percentage": "2.01%"
+    },
+    {
+      "rank": "594",
+      "city": "Bordeaux",
+      "country": "France",
+      "2025_population": "1,018,070",
+      "2024_population": "1,009,590",
+      "change_percentage": "0.84%"
+    },
+    {
+      "rank": "595",
+      "city": "Najaf",
+      "country": "Iraq",
+      "2025_population": "1,017,660",
+      "2024_population": "987,814",
+      "change_percentage": "3.02%"
+    },
+    {
+      "rank": "596",
+      "city": "Krasnodar",
+      "country": "Russia",
+      "2025_population": "1,017,530",
+      "2024_population": "1,010,550",
+      "change_percentage": "0.69%"
+    },
+    {
+      "rank": "597",
+      "city": "Agadir",
+      "country": "Morocco",
+      "2025_population": "1,017,030",
+      "2024_population": "998,146",
+      "change_percentage": "1.89%"
+    },
+    {
+      "rank": "598",
+      "city": "Morelia",
+      "country": "Mexico",
+      "2025_population": "1,016,230",
+      "2024_population": "1,002,460",
+      "change_percentage": "1.37%"
+    },
+    {
+      "rank": "599",
+      "city": "Bangui",
+      "country": "Central African Republic",
+      "2025_population": "1,016,150",
+      "2024_population": "985,965",
+      "change_percentage": "3.06%"
+    },
+    {
+      "rank": "600",
+      "city": "Fort Worth",
+      "country": "United States",
+      "2025_population": "1,015,045",
+      "2024_population": "996,756",
+      "change_percentage": "1.84%"
+    },
+    {
+      "rank": "601",
+      "city": "Guigang",
+      "country": "China",
+      "2025_population": "1,011,500",
+      "2024_population": "990,310",
+      "change_percentage": "2.14%"
+    },
+    {
+      "rank": "602",
+      "city": "Taiz",
+      "country": "Yemen",
+      "2025_population": "1,009,450",
+      "2024_population": "974,518",
+      "change_percentage": "3.58%"
+    },
+    {
+      "rank": "603",
+      "city": "Mudanjiang",
+      "country": "China",
+      "2025_population": "1,009,260",
+      "2024_population": "992,414",
+      "change_percentage": "1.7%"
+    },
+    {
+      "rank": "604",
+      "city": "Hengshui",
+      "country": "China",
+      "2025_population": "1,008,750",
+      "2024_population": "983,694",
+      "change_percentage": "2.55%"
+    },
+    {
+      "rank": "605",
+      "city": "Jacksonville",
+      "country": "United States",
+      "2025_population": "1,008,485",
+      "2024_population": "997,164",
+      "change_percentage": "1.14%"
+    },
+    {
+      "rank": "606",
+      "city": "Rajshahi",
+      "country": "Bangladesh",
+      "2025_population": "1,007,020",
+      "2024_population": "983,707",
+      "change_percentage": "2.37%"
+    },
+    {
+      "rank": "607",
+      "city": "Odesa",
+      "country": "Ukraine",
+      "2025_population": "1,006,700",
+      "2024_population": "1,007,600",
+      "change_percentage": "-0.09%"
+    },
+    {
+      "rank": "608",
+      "city": "Xinyu",
+      "country": "China",
+      "2025_population": "1,003,580",
+      "2024_population": "979,303",
+      "change_percentage": "2.48%"
+    },
+    {
+      "rank": "609",
+      "city": "Linfen",
+      "country": "China",
+      "2025_population": "1,002,710",
+      "2024_population": "978,614",
+      "change_percentage": "2.46%"
+    },
+    {
+      "rank": "610",
+      "city": "Zhangzhou",
+      "country": "China",
+      "2025_population": "1,002,450",
+      "2024_population": "980,054",
+      "change_percentage": "2.28%"
+    },
+    {
+      "rank": "611",
+      "city": "Tianmen",
+      "country": "China",
+      "2025_population": "1,000,720",
+      "2024_population": "978,317",
+      "change_percentage": "2.29%"
+    },
+    {
+      "rank": "612",
+      "city": "Liling",
+      "country": "China",
+      "2025_population": "1,000,410",
+      "2024_population": "970,907",
+      "change_percentage": "3.04%"
+    },
+    {
+      "rank": "613",
+      "city": "Jerusalem",
+      "country": "Israel",
+      "2025_population": "996,732",
+      "2024_population": "983,097",
+      "change_percentage": "1.39%"
+    },
+    {
+      "rank": "614",
+      "city": "Yangjiang",
+      "country": "China",
+      "2025_population": "995,970",
+      "2024_population": "976,606",
+      "change_percentage": "1.98%"
+    },
+    {
+      "rank": "615",
+      "city": "Zamboanga City",
+      "country": "Philippines",
+      "2025_population": "995,027",
+      "2024_population": "977,081",
+      "change_percentage": "1.84%"
+    },
+    {
+      "rank": "616",
+      "city": "Volgograd",
+      "country": "Russia",
+      "2025_population": "992,268",
+      "2024_population": "993,352",
+      "change_percentage": "-0.11%"
+    },
+    {
+      "rank": "617",
+      "city": "Ciudad Guayana",
+      "country": "Venezuela",
+      "2025_population": "991,388",
+      "2024_population": "978,202",
+      "change_percentage": "1.35%"
+    },
+    {
+      "rank": "618",
+      "city": "Cabinda",
+      "country": "Angola",
+      "2025_population": "990,695",
+      "2024_population": "947,634",
+      "change_percentage": "4.54%"
+    },
+    {
+      "rank": "619",
+      "city": "Umuahia",
+      "country": "Nigeria",
+      "2025_population": "990,439",
+      "2024_population": "947,460",
+      "change_percentage": "4.54%"
+    },
+    {
+      "rank": "620",
+      "city": "Antipolo",
+      "country": "Philippines",
+      "2025_population": "989,859",
+      "2024_population": "968,288",
+      "change_percentage": "2.23%"
+    },
+    {
+      "rank": "621",
+      "city": "Austin",
+      "country": "United States",
+      "2025_population": "989,252",
+      "2024_population": "984,567",
+      "change_percentage": "0.48%"
+    },
+    {
+      "rank": "622",
+      "city": "Deyang",
+      "country": "China",
+      "2025_population": "985,078",
+      "2024_population": "963,160",
+      "change_percentage": "2.28%"
+    },
+    {
+      "rank": "623",
+      "city": "Arequipa",
+      "country": "Peru",
+      "2025_population": "983,715",
+      "2024_population": "971,296",
+      "change_percentage": "1.28%"
+    },
+    {
+      "rank": "624",
+      "city": "Reynosa",
+      "country": "Mexico",
+      "2025_population": "983,121",
+      "2024_population": "967,627",
+      "change_percentage": "1.6%"
+    },
+    {
+      "rank": "625",
+      "city": "Baishan",
+      "country": "China",
+      "2025_population": "983,008",
+      "2024_population": "956,976",
+      "change_percentage": "2.72%"
+    },
+    {
+      "rank": "626",
+      "city": "Jiangyin",
+      "country": "China",
+      "2025_population": "982,563",
+      "2024_population": "959,250",
+      "change_percentage": "2.43%"
+    },
+    {
+      "rank": "627",
+      "city": "Cucuta",
+      "country": "Colombia",
+      "2025_population": "981,688",
+      "2024_population": "972,485",
+      "change_percentage": "0.95%"
+    },
+    {
+      "rank": "628",
+      "city": "Bogra",
+      "country": "Bangladesh",
+      "2025_population": "981,223",
+      "2024_population": "944,877",
+      "change_percentage": "3.85%"
+    },
+    {
+      "rank": "629",
+      "city": "Veracruz",
+      "country": "Mexico",
+      "2025_population": "981,069",
+      "2024_population": "968,070",
+      "change_percentage": "1.34%"
+    },
+    {
+      "rank": "630",
+      "city": "Khulna",
+      "country": "Bangladesh",
+      "2025_population": "980,200",
+      "2024_population": "965,483",
+      "change_percentage": "1.52%"
+    },
+    {
+      "rank": "631",
+      "city": "Bengbu",
+      "country": "China",
+      "2025_population": "975,189",
+      "2024_population": "959,784",
+      "change_percentage": "1.6%"
+    },
+    {
+      "rank": "632",
+      "city": "Pathum Thani",
+      "country": "Thailand",
+      "2025_population": "974,195",
+      "2024_population": "962,126",
+      "change_percentage": "1.25%"
+    },
+    {
+      "rank": "633",
+      "city": "Villahermosa",
+      "country": "Mexico",
+      "2025_population": "972,373",
+      "2024_population": "958,118",
+      "change_percentage": "1.49%"
+    },
+    {
+      "rank": "634",
+      "city": "Bahawalpur",
+      "country": "Pakistan",
+      "2025_population": "970,074",
+      "2024_population": "944,812",
+      "change_percentage": "2.67%"
+    },
+    {
+      "rank": "635",
+      "city": "Southampton",
+      "country": "United Kingdom",
+      "2025_population": "966,741",
+      "2024_population": "959,202",
+      "change_percentage": "0.79%"
+    },
+    {
+      "rank": "636",
+      "city": "Oran",
+      "country": "Algeria",
+      "2025_population": "966,494",
+      "2024_population": "950,768",
+      "change_percentage": "1.65%"
+    },
+    {
+      "rank": "637",
+      "city": "Guntur",
+      "country": "India",
+      "2025_population": "962,403",
+      "2024_population": "940,205",
+      "change_percentage": "2.36%"
+    },
+    {
+      "rank": "638",
+      "city": "West Rand",
+      "country": "South Africa",
+      "2025_population": "961,625",
+      "2024_population": "947,734",
+      "change_percentage": "1.47%"
+    },
+    {
+      "rank": "639",
+      "city": "Nice",
+      "country": "France",
+      "2025_population": "956,195",
+      "2024_population": "951,808",
+      "change_percentage": "0.46%"
+    },
+    {
+      "rank": "640",
+      "city": "Changzhi",
+      "country": "China",
+      "2025_population": "949,309",
+      "2024_population": "930,620",
+      "change_percentage": "2.01%"
+    },
+    {
+      "rank": "641",
+      "city": "Malang",
+      "country": "Indonesia",
+      "2025_population": "948,572",
+      "2024_population": "933,392",
+      "change_percentage": "1.63%"
+    },
+    {
+      "rank": "642",
+      "city": "Dandong",
+      "country": "China",
+      "2025_population": "947,488",
+      "2024_population": "932,648",
+      "change_percentage": "1.59%"
+    },
+    {
+      "rank": "643",
+      "city": "Hermosillo",
+      "country": "Mexico",
+      "2025_population": "944,348",
+      "2024_population": "929,961",
+      "change_percentage": "1.55%"
+    },
+    {
+      "rank": "644",
+      "city": "Bhiwandi",
+      "country": "India",
+      "2025_population": "943,921",
+      "2024_population": "924,670",
+      "change_percentage": "2.08%"
+    },
+    {
+      "rank": "645",
+      "city": "Seongnam",
+      "country": "South Korea",
+      "2025_population": "943,458",
+      "2024_population": "942,159",
+      "change_percentage": "0.14%"
+    },
+    {
+      "rank": "646",
+      "city": "Campo Grande",
+      "country": "Brazil",
+      "2025_population": "943,313",
+      "2024_population": "934,936",
+      "change_percentage": "0.9%"
+    },
+    {
+      "rank": "647",
+      "city": "San Jose",
+      "country": "United States",
+      "2025_population": "943,212",
+      "2024_population": "956,433",
+      "change_percentage": "-1.38%"
+    },
+    {
+      "rank": "648",
+      "city": "Londrina",
+      "country": "Brazil",
+      "2025_population": "942,459",
+      "2024_population": "932,892",
+      "change_percentage": "1.03%"
+    },
+    {
+      "rank": "649",
+      "city": "Firozabad",
+      "country": "India",
+      "2025_population": "941,758",
+      "2024_population": "918,218",
+      "change_percentage": "2.56%"
+    },
+    {
+      "rank": "650",
+      "city": "Ashgabat",
+      "country": "Turkmenistan",
+      "2025_population": "941,130",
+      "2024_population": "921,601",
+      "change_percentage": "2.12%"
+    },
+    {
+      "rank": "651",
+      "city": "Puducherry",
+      "country": "India",
+      "2025_population": "940,911",
+      "2024_population": "919,280",
+      "change_percentage": "2.35%"
+    },
+    {
+      "rank": "652",
+      "city": "Erbil",
+      "country": "Iraq",
+      "2025_population": "940,560",
+      "2024_population": "917,639",
+      "change_percentage": "2.5%"
+    },
+    {
+      "rank": "653",
+      "city": "Changde",
+      "country": "China",
+      "2025_population": "938,279",
+      "2024_population": "919,026",
+      "change_percentage": "2.1%"
+    },
+    {
+      "rank": "654",
+      "city": "Shangqiu",
+      "country": "China",
+      "2025_population": "935,079",
+      "2024_population": "915,823",
+      "change_percentage": "2.1%"
+    },
+    {
+      "rank": "655",
+      "city": "Charlotte",
+      "country": "United States",
+      "2025_population": "935,017",
+      "2024_population": "923,164",
+      "change_percentage": "1.28%"
+    },
+    {
+      "rank": "656",
+      "city": "Kuerle",
+      "country": "China",
+      "2025_population": "934,011",
+      "2024_population": "906,765",
+      "change_percentage": "3%"
+    },
+    {
+      "rank": "657",
+      "city": "La Plata",
+      "country": "Argentina",
+      "2025_population": "933,193",
+      "2024_population": "923,715",
+      "change_percentage": "1.03%"
+    },
+    {
+      "rank": "658",
+      "city": "Liaoyang",
+      "country": "China",
+      "2025_population": "931,630",
+      "2024_population": "916,238",
+      "change_percentage": "1.68%"
+    },
+    {
+      "rank": "659",
+      "city": "Dnipro",
+      "country": "Ukraine",
+      "2025_population": "931,255",
+      "2024_population": "936,766",
+      "change_percentage": "-0.59%"
+    },
+    {
+      "rank": "660",
+      "city": "Lokoja",
+      "country": "Nigeria",
+      "2025_population": "931,092",
+      "2024_population": "885,882",
+      "change_percentage": "5.1%"
+    },
+    {
+      "rank": "661",
+      "city": "Cherthala",
+      "country": "India",
+      "2025_population": "931,015",
+      "2024_population": "901,820",
+      "change_percentage": "3.24%"
+    },
+    {
+      "rank": "662",
+      "city": "Quzhou",
+      "country": "China",
+      "2025_population": "929,772",
+      "2024_population": "902,621",
+      "change_percentage": "3.01%"
+    },
+    {
+      "rank": "663",
+      "city": "Concepcion",
+      "country": "Chile",
+      "2025_population": "929,357",
+      "2024_population": "920,916",
+      "change_percentage": "0.92%"
+    },
+    {
+      "rank": "664",
+      "city": "Trujillo",
+      "country": "Peru",
+      "2025_population": "929,188",
+      "2024_population": "916,632",
+      "change_percentage": "1.37%"
+    },
+    {
+      "rank": "665",
+      "city": "Liverpool",
+      "country": "United Kingdom",
+      "2025_population": "928,997",
+      "2024_population": "922,871",
+      "change_percentage": "0.66%"
+    },
+    {
+      "rank": "666",
+      "city": "Tuxtla Gutierrez",
+      "country": "Mexico",
+      "2025_population": "927,758",
+      "2024_population": "913,075",
+      "change_percentage": "1.61%"
+    },
+    {
+      "rank": "667",
+      "city": "Tyumen",
+      "country": "Russia",
+      "2025_population": "926,519",
+      "2024_population": "916,862",
+      "change_percentage": "1.05%"
+    },
+    {
+      "rank": "668",
+      "city": "Bergamo",
+      "country": "Italy",
+      "2025_population": "923,221",
+      "2024_population": "918,675",
+      "change_percentage": "0.5%"
+    },
+    {
+      "rank": "669",
+      "city": "Xingtai",
+      "country": "China",
+      "2025_population": "921,011",
+      "2024_population": "904,070",
+      "change_percentage": "1.87%"
+    },
+    {
+      "rank": "670",
+      "city": "Soshanguve",
+      "country": "South Africa",
+      "2025_population": "919,748",
+      "2024_population": "905,868",
+      "change_percentage": "1.53%"
+    },
+    {
+      "rank": "671",
+      "city": "Culiacan",
+      "country": "Mexico",
+      "2025_population": "918,494",
+      "2024_population": "903,910",
+      "change_percentage": "1.61%"
+    },
+    {
+      "rank": "672",
+      "city": "Columbus",
+      "country": "United States",
+      "2025_population": "917,679",
+      "2024_population": "915,427",
+      "change_percentage": "0.25%"
+    },
+    {
+      "rank": "673",
+      "city": "Ulsan",
+      "country": "South Korea",
+      "2025_population": "916,236",
+      "2024_population": "914,300",
+      "change_percentage": "0.21%"
+    },
+    {
+      "rank": "674",
+      "city": "Huangshi",
+      "country": "China",
+      "2025_population": "908,873",
+      "2024_population": "893,107",
+      "change_percentage": "1.76%"
+    },
+    {
+      "rank": "675",
+      "city": "Enugu",
+      "country": "Nigeria",
+      "2025_population": "906,658",
+      "2024_population": "875,552",
+      "change_percentage": "3.55%"
+    },
+    {
+      "rank": "676",
+      "city": "Yongzhou",
+      "country": "China",
+      "2025_population": "904,031",
+      "2024_population": "883,326",
+      "change_percentage": "2.34%"
+    },
+    {
+      "rank": "677",
+      "city": "Fuxin",
+      "country": "China",
+      "2025_population": "903,628",
+      "2024_population": "889,767",
+      "change_percentage": "1.56%"
+    },
+    {
+      "rank": "678",
+      "city": "Xinghua",
+      "country": "China",
+      "2025_population": "902,334",
+      "2024_population": "882,986",
+      "change_percentage": "2.19%"
+    },
+    {
+      "rank": "679",
+      "city": "Bunia",
+      "country": "DR Congo",
+      "2025_population": "900,351",
+      "2024_population": "856,339",
+      "change_percentage": "5.14%"
+    },
+    {
+      "rank": "680",
+      "city": "Libreville",
+      "country": "Gabon",
+      "2025_population": "899,225",
+      "2024_population": "883,920",
+      "change_percentage": "1.73%"
+    },
+    {
+      "rank": "681",
+      "city": "Maiduguri",
+      "country": "Nigeria",
+      "2025_population": "898,535",
+      "2024_population": "870,201",
+      "change_percentage": "3.26%"
+    },
+    {
+      "rank": "682",
+      "city": "Yibin",
+      "country": "China",
+      "2025_population": "897,493",
+      "2024_population": "881,480",
+      "change_percentage": "1.82%"
+    },
+    {
+      "rank": "683",
+      "city": "Hufuf-Mubarraz",
+      "country": "Saudi Arabia",
+      "2025_population": "897,262",
+      "2024_population": "884,753",
+      "change_percentage": "1.41%"
+    },
+    {
+      "rank": "684",
+      "city": "Huaihua",
+      "country": "China",
+      "2025_population": "892,519",
+      "2024_population": "869,575",
+      "change_percentage": "2.64%"
+    },
+    {
+      "rank": "685",
+      "city": "Xinyang",
+      "country": "China",
+      "2025_population": "890,375",
+      "2024_population": "873,268",
+      "change_percentage": "1.96%"
+    },
+    {
+      "rank": "686",
+      "city": "Xiaogan",
+      "country": "China",
+      "2025_population": "887,939",
+      "2024_population": "869,479",
+      "change_percentage": "2.12%"
+    },
+    {
+      "rank": "687",
+      "city": "Ipoh",
+      "country": "Malaysia",
+      "2025_population": "887,711",
+      "2024_population": "872,424",
+      "change_percentage": "1.75%"
+    },
+    {
+      "rank": "688",
+      "city": "Yangquan",
+      "country": "China",
+      "2025_population": "886,584",
+      "2024_population": "869,585",
+      "change_percentage": "1.96%"
+    },
+    {
+      "rank": "689",
+      "city": "Kottayam",
+      "country": "India",
+      "2025_population": "885,396",
+      "2024_population": "853,635",
+      "change_percentage": "3.72%"
+    },
+    {
+      "rank": "690",
+      "city": "Luzhou",
+      "country": "China",
+      "2025_population": "884,046",
+      "2024_population": "870,714",
+      "change_percentage": "1.53%"
+    },
+    {
+      "rank": "691",
+      "city": "Banghazi",
+      "country": "Libya",
+      "2025_population": "881,897",
+      "2024_population": "870,502",
+      "change_percentage": "1.31%"
+    },
+    {
+      "rank": "692",
+      "city": "Tainan",
+      "country": "Taiwan",
+      "2025_population": "880,865",
+      "2024_population": "875,392",
+      "change_percentage": "0.63%"
+    },
+    {
+      "rank": "693",
+      "city": "Tianshui",
+      "country": "China",
+      "2025_population": "878,063",
+      "2024_population": "858,672",
+      "change_percentage": "2.26%"
+    },
+    {
+      "rank": "694",
+      "city": "Benguela",
+      "country": "Angola",
+      "2025_population": "878,004",
+      "2024_population": "843,207",
+      "change_percentage": "4.13%"
+    },
+    {
+      "rank": "695",
+      "city": "Bozhou",
+      "country": "China",
+      "2025_population": "877,072",
+      "2024_population": "854,946",
+      "change_percentage": "2.59%"
+    },
+    {
+      "rank": "696",
+      "city": "Donetsk",
+      "country": "Ukraine",
+      "2025_population": "876,063",
+      "2024_population": "882,209",
+      "change_percentage": "-0.7%"
+    },
+    {
+      "rank": "697",
+      "city": "Indianapolis",
+      "country": "United States",
+      "2025_population": "874,037",
+      "2024_population": "876,665",
+      "change_percentage": "-0.3%"
+    },
+    {
+      "rank": "698",
+      "city": "Zanzibar",
+      "country": "Tanzania",
+      "2025_population": "873,982",
+      "2024_population": "835,850",
+      "change_percentage": "4.56%"
+    },
+    {
+      "rank": "699",
+      "city": "Kunshan",
+      "country": "China",
+      "2025_population": "873,638",
+      "2024_population": "851,399",
+      "change_percentage": "2.61%"
+    },
+    {
+      "rank": "700",
+      "city": "Zhuji",
+      "country": "China",
+      "2025_population": "869,441",
+      "2024_population": "852,608",
+      "change_percentage": "1.97%"
+    },
+    {
+      "rank": "701",
+      "city": "Jincheng",
+      "country": "China",
+      "2025_population": "863,282",
+      "2024_population": "841,928",
+      "change_percentage": "2.54%"
+    },
+    {
+      "rank": "702",
+      "city": "Malanje",
+      "country": "Angola",
+      "2025_population": "861,380",
+      "2024_population": "822,471",
+      "change_percentage": "4.73%"
+    },
+    {
+      "rank": "703",
+      "city": "Eskisehir",
+      "country": "Turkey",
+      "2025_population": "860,518",
+      "2024_population": "848,002",
+      "change_percentage": "1.48%"
+    },
+    {
+      "rank": "704",
+      "city": "Orumiyeh",
+      "country": "Iran",
+      "2025_population": "860,169",
+      "2024_population": "848,443",
+      "change_percentage": "1.38%"
+    },
+    {
+      "rank": "705",
+      "city": "Nellore",
+      "country": "India",
+      "2025_population": "858,853",
+      "2024_population": "837,660",
+      "change_percentage": "2.53%"
+    },
+    {
+      "rank": "706",
+      "city": "Quebec City",
+      "country": "Canada",
+      "2025_population": "858,207",
+      "2024_population": "851,061",
+      "change_percentage": "0.84%"
+    },
+    {
+      "rank": "707",
+      "city": "Winnipeg",
+      "country": "Canada",
+      "2025_population": "857,367",
+      "2024_population": "849,251",
+      "change_percentage": "0.96%"
+    },
+    {
+      "rank": "708",
+      "city": "Bikaner",
+      "country": "India",
+      "2025_population": "853,869",
+      "2024_population": "835,802",
+      "change_percentage": "2.16%"
+    },
+    {
+      "rank": "709",
+      "city": "Heze",
+      "country": "China",
+      "2025_population": "851,474",
+      "2024_population": "838,928",
+      "change_percentage": "1.49%"
+    },
+    {
+      "rank": "710",
+      "city": "Zhumadian",
+      "country": "China",
+      "2025_population": "851,392",
+      "2024_population": "829,361",
+      "change_percentage": "2.66%"
+    },
+    {
+      "rank": "711",
+      "city": "Palermo",
+      "country": "Italy",
+      "2025_population": "851,282",
+      "2024_population": "850,233",
+      "change_percentage": "0.12%"
+    },
+    {
+      "rank": "712",
+      "city": "Huludao",
+      "country": "China",
+      "2025_population": "851,156",
+      "2024_population": "836,344",
+      "change_percentage": "1.77%"
+    },
+    {
+      "rank": "713",
+      "city": "Taixing",
+      "country": "China",
+      "2025_population": "848,379",
+      "2024_population": "830,623",
+      "change_percentage": "2.14%"
+    },
+    {
+      "rank": "714",
+      "city": "Haicheng",
+      "country": "China",
+      "2025_population": "848,129",
+      "2024_population": "834,639",
+      "change_percentage": "1.62%"
+    },
+    {
+      "rank": "715",
+      "city": "Anqiu",
+      "country": "China",
+      "2025_population": "847,608",
+      "2024_population": "821,765",
+      "change_percentage": "3.15%"
+    },
+    {
+      "rank": "716",
+      "city": "Ibb",
+      "country": "Yemen",
+      "2025_population": "847,350",
+      "2024_population": "810,149",
+      "change_percentage": "4.59%"
+    },
+    {
+      "rank": "717",
+      "city": "Gebze",
+      "country": "Turkey",
+      "2025_population": "846,841",
+      "2024_population": "831,360",
+      "change_percentage": "1.86%"
+    },
+    {
+      "rank": "718",
+      "city": "Sulaimaniya",
+      "country": "Iraq",
+      "2025_population": "846,517",
+      "2024_population": "823,199",
+      "change_percentage": "2.83%"
+    },
+    {
+      "rank": "719",
+      "city": "Langfang",
+      "country": "China",
+      "2025_population": "846,438",
+      "2024_population": "827,967",
+      "change_percentage": "2.23%"
+    },
+    {
+      "rank": "720",
+      "city": "Liaocheng",
+      "country": "China",
+      "2025_population": "845,854",
+      "2024_population": "830,004",
+      "change_percentage": "1.91%"
+    },
+    {
+      "rank": "721",
+      "city": "Barcelona Puerto La Cruz",
+      "country": "Venezuela",
+      "2025_population": "845,827",
+      "2024_population": "835,805",
+      "change_percentage": "1.2%"
+    },
+    {
+      "rank": "722",
+      "city": "Gaomi",
+      "country": "China",
+      "2025_population": "841,911",
+      "2024_population": "821,154",
+      "change_percentage": "2.53%"
+    },
+    {
+      "rank": "723",
+      "city": "Valencia",
+      "country": "Spain",
+      "2025_population": "841,354",
+      "2024_population": "839,770",
+      "change_percentage": "0.19%"
+    },
+    {
+      "rank": "724",
+      "city": "Hanchuan",
+      "country": "China",
+      "2025_population": "839,309",
+      "2024_population": "818,761",
+      "change_percentage": "2.51%"
+    },
+    {
+      "rank": "725",
+      "city": "Dasmarinas",
+      "country": "Philippines",
+      "2025_population": "839,131",
+      "2024_population": "820,886",
+      "change_percentage": "2.22%"
+    },
+    {
+      "rank": "726",
+      "city": "Kayamkulam",
+      "country": "India",
+      "2025_population": "838,870",
+      "2024_population": "813,379",
+      "change_percentage": "3.13%"
+    },
+    {
+      "rank": "727",
+      "city": "Cagayan de Oro City",
+      "country": "Philippines",
+      "2025_population": "837,650",
+      "2024_population": "820,297",
+      "change_percentage": "2.11%"
+    },
+    {
+      "rank": "728",
+      "city": "Meishan",
+      "country": "China",
+      "2025_population": "837,335",
+      "2024_population": "818,037",
+      "change_percentage": "2.36%"
+    },
+    {
+      "rank": "729",
+      "city": "Saratov",
+      "country": "Russia",
+      "2025_population": "837,323",
+      "2024_population": "837,687",
+      "change_percentage": "-0.04%"
+    },
+    {
+      "rank": "730",
+      "city": "Muzaffarnagar",
+      "country": "India",
+      "2025_population": "836,997",
+      "2024_population": "814,491",
+      "change_percentage": "2.76%"
+    },
+    {
+      "rank": "731",
+      "city": "Xalapa",
+      "country": "Mexico",
+      "2025_population": "834,581",
+      "2024_population": "822,863",
+      "change_percentage": "1.42%"
+    },
+    {
+      "rank": "732",
+      "city": "Newcastle upon Tyne",
+      "country": "United Kingdom",
+      "2025_population": "834,242",
+      "2024_population": "828,712",
+      "change_percentage": "0.67%"
+    },
+    {
+      "rank": "733",
+      "city": "Ar-Rayyan",
+      "country": "Qatar",
+      "2025_population": "831,689",
+      "2024_population": "815,869",
+      "change_percentage": "1.94%"
+    },
+    {
+      "rank": "734",
+      "city": "Danyang",
+      "country": "China",
+      "2025_population": "829,276",
+      "2024_population": "810,450",
+      "change_percentage": "2.32%"
+    },
+    {
+      "rank": "735",
+      "city": "Sorocaba",
+      "country": "Brazil",
+      "2025_population": "829,049",
+      "2024_population": "821,435",
+      "change_percentage": "0.93%"
+    },
+    {
+      "rank": "736",
+      "city": "Merca",
+      "country": "Somalia",
+      "2025_population": "828,008",
+      "2024_population": "793,545",
+      "change_percentage": "4.34%"
+    },
+    {
+      "rank": "737",
+      "city": "Bucheon",
+      "country": "South Korea",
+      "2025_population": "827,603",
+      "2024_population": "826,919",
+      "change_percentage": "0.08%"
+    },
+    {
+      "rank": "738",
+      "city": "Amravati",
+      "country": "India",
+      "2025_population": "824,965",
+      "2024_population": "808,263",
+      "change_percentage": "2.07%"
+    },
+    {
+      "rank": "739",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "2025_population": "823,625",
+      "2024_population": "792,350",
+      "change_percentage": "3.95%"
+    },
+    {
+      "rank": "740",
+      "city": "Gaza",
+      "country": "Palestine",
+      "2025_population": "823,407",
+      "2024_population": "800,636",
+      "change_percentage": "2.84%"
+    },
+    {
+      "rank": "741",
+      "city": "Oshogbo",
+      "country": "Nigeria",
+      "2025_population": "822,497",
+      "2024_population": "795,808",
+      "change_percentage": "3.35%"
+    },
+    {
+      "rank": "742",
+      "city": "Nakhon Ratchasima",
+      "country": "Thailand",
+      "2025_population": "821,187",
+      "2024_population": "811,446",
+      "change_percentage": "1.2%"
+    },
+    {
+      "rank": "743",
+      "city": "Jiaozuo",
+      "country": "China",
+      "2025_population": "820,064",
+      "2024_population": "808,079",
+      "change_percentage": "1.48%"
+    },
+    {
+      "rank": "744",
+      "city": "Goma",
+      "country": "DR Congo",
+      "2025_population": "819,854",
+      "2024_population": "781,875",
+      "change_percentage": "4.86%"
+    },
+    {
+      "rank": "745",
+      "city": "Nottingham",
+      "country": "United Kingdom",
+      "2025_population": "819,334",
+      "2024_population": "813,078",
+      "change_percentage": "0.77%"
+    },
+    {
+      "rank": "746",
+      "city": "Bologna",
+      "country": "Italy",
+      "2025_population": "819,297",
+      "2024_population": "816,848",
+      "change_percentage": "0.3%"
+    },
+    {
+      "rank": "747",
+      "city": "Gorakhpur",
+      "country": "India",
+      "2025_population": "816,586",
+      "2024_population": "801,634",
+      "change_percentage": "1.86%"
+    },
+    {
+      "rank": "748",
+      "city": "Thessaloniki",
+      "country": "Greece",
+      "2025_population": "815,472",
+      "2024_population": "814,980",
+      "change_percentage": "0.06%"
+    },
+    {
+      "rank": "749",
+      "city": "Linhai",
+      "country": "China",
+      "2025_population": "813,794",
+      "2024_population": "795,777",
+      "change_percentage": "2.26%"
+    },
+    {
+      "rank": "750",
+      "city": "Yan'an",
+      "country": "China",
+      "2025_population": "813,599",
+      "2024_population": "791,839",
+      "change_percentage": "2.75%"
+    },
+    {
+      "rank": "751",
+      "city": "Vereeniging",
+      "country": "South Africa",
+      "2025_population": "812,913",
+      "2024_population": "802,900",
+      "change_percentage": "1.25%"
+    },
+    {
+      "rank": "752",
+      "city": "Erduosi-Ordoss",
+      "country": "China",
+      "2025_population": "812,244",
+      "2024_population": "794,143",
+      "change_percentage": "2.28%"
+    },
+    {
+      "rank": "753",
+      "city": "Anqing",
+      "country": "China",
+      "2025_population": "811,560",
+      "2024_population": "795,987",
+      "change_percentage": "1.96%"
+    },
+    {
+      "rank": "754",
+      "city": "Zaria",
+      "country": "Nigeria",
+      "2025_population": "809,652",
+      "2024_population": "786,197",
+      "change_percentage": "2.98%"
+    },
+    {
+      "rank": "755",
+      "city": "Bur Sa'id",
+      "country": "Egypt",
+      "2025_population": "808,111",
+      "2024_population": "792,925",
+      "change_percentage": "1.92%"
+    },
+    {
+      "rank": "756",
+      "city": "Shaoguan",
+      "country": "China",
+      "2025_population": "805,079",
+      "2024_population": "794,279",
+      "change_percentage": "1.36%"
+    },
+    {
+      "rank": "757",
+      "city": "Cuttack",
+      "country": "India",
+      "2025_population": "804,914",
+      "2024_population": "789,558",
+      "change_percentage": "1.94%"
+    },
+    {
+      "rank": "758",
+      "city": "Dengzhou",
+      "country": "China",
+      "2025_population": "804,189",
+      "2024_population": "783,041",
+      "change_percentage": "2.7%"
+    },
+    {
+      "rank": "759",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "2025_population": "803,758",
+      "2024_population": "800,529",
+      "change_percentage": "0.4%"
+    },
+    {
+      "rank": "760",
+      "city": "Akure",
+      "country": "Nigeria",
+      "2025_population": "803,062",
+      "2024_population": "773,141",
+      "change_percentage": "3.87%"
+    },
+    {
+      "rank": "761",
+      "city": "Belgaum",
+      "country": "India",
+      "2025_population": "799,729",
+      "2024_population": "783,020",
+      "change_percentage": "2.13%"
+    },
+    {
+      "rank": "762",
+      "city": "Malegaon",
+      "country": "India",
+      "2025_population": "799,708",
+      "2024_population": "781,925",
+      "change_percentage": "2.27%"
+    },
+    {
+      "rank": "763",
+      "city": "Banjarmasin",
+      "country": "Indonesia",
+      "2025_population": "799,706",
+      "2024_population": "785,125",
+      "change_percentage": "1.86%"
+    },
+    {
+      "rank": "764",
+      "city": "Tirupati",
+      "country": "India",
+      "2025_population": "797,302",
+      "2024_population": "775,455",
+      "change_percentage": "2.82%"
+    },
+    {
+      "rank": "765",
+      "city": "Yuncheng",
+      "country": "China",
+      "2025_population": "797,246",
+      "2024_population": "777,193",
+      "change_percentage": "2.58%"
+    },
+    {
+      "rank": "766",
+      "city": "Yuxi",
+      "country": "China",
+      "2025_population": "795,748",
+      "2024_population": "774,356",
+      "change_percentage": "2.76%"
+    },
+    {
+      "rank": "767",
+      "city": "Niigata",
+      "country": "Japan",
+      "2025_population": "793,974",
+      "2024_population": "795,916",
+      "change_percentage": "-0.24%"
+    },
+    {
+      "rank": "768",
+      "city": "Hamilton",
+      "country": "Canada",
+      "2025_population": "793,083",
+      "2024_population": "786,843",
+      "change_percentage": "0.79%"
+    },
+    {
+      "rank": "769",
+      "city": "Yanji",
+      "country": "China",
+      "2025_population": "792,664",
+      "2024_population": "775,672",
+      "change_percentage": "2.19%"
+    },
+    {
+      "rank": "770",
+      "city": "Zigong",
+      "country": "China",
+      "2025_population": "791,579",
+      "2024_population": "779,684",
+      "change_percentage": "1.53%"
+    },
+    {
+      "rank": "771",
+      "city": "Shaoyang",
+      "country": "China",
+      "2025_population": "790,986",
+      "2024_population": "776,404",
+      "change_percentage": "1.88%"
+    },
+    {
+      "rank": "772",
+      "city": "Qingyuan",
+      "country": "China",
+      "2025_population": "790,694",
+      "2024_population": "778,628",
+      "change_percentage": "1.55%"
+    },
+    {
+      "rank": "773",
+      "city": "Maturin",
+      "country": "Venezuela",
+      "2025_population": "789,918",
+      "2024_population": "775,097",
+      "change_percentage": "1.91%"
+    },
+    {
+      "rank": "774",
+      "city": "Sialkot",
+      "country": "Pakistan",
+      "2025_population": "789,386",
+      "2024_population": "770,962",
+      "change_percentage": "2.39%"
+    },
+    {
+      "rank": "775",
+      "city": "Tongliao",
+      "country": "China",
+      "2025_population": "788,345",
+      "2024_population": "772,756",
+      "change_percentage": "2.02%"
+    },
+    {
+      "rank": "776",
+      "city": "Nay Pyi Taw",
+      "country": "Myanmar",
+      "2025_population": "788,238",
+      "2024_population": "757,823",
+      "change_percentage": "4.01%"
+    },
+    {
+      "rank": "777",
+      "city": "Tongling",
+      "country": "China",
+      "2025_population": "786,000",
+      "2024_population": "770,032",
+      "change_percentage": "2.07%"
+    },
+    {
+      "rank": "778",
+      "city": "Dazhou",
+      "country": "China",
+      "2025_population": "785,116",
+      "2024_population": "767,532",
+      "change_percentage": "2.29%"
+    },
+    {
+      "rank": "779",
+      "city": "Al-Hudaydah",
+      "country": "Yemen",
+      "2025_population": "784,856",
+      "2024_population": "759,157",
+      "change_percentage": "3.38%"
+    },
+    {
+      "rank": "780",
+      "city": "Tamale",
+      "country": "Ghana",
+      "2025_population": "784,420",
+      "2024_population": "757,506",
+      "change_percentage": "3.55%"
+    },
+    {
+      "rank": "781",
+      "city": "Wuzhou",
+      "country": "China",
+      "2025_population": "784,261",
+      "2024_population": "768,512",
+      "change_percentage": "2.05%"
+    },
+    {
+      "rank": "782",
+      "city": "Suining Sichuan",
+      "country": "China",
+      "2025_population": "780,842",
+      "2024_population": "765,887",
+      "change_percentage": "1.95%"
+    },
+    {
+      "rank": "783",
+      "city": "Mangalore",
+      "country": "India",
+      "2025_population": "778,685",
+      "2024_population": "763,312",
+      "change_percentage": "2.01%"
+    },
+    {
+      "rank": "784",
+      "city": "Amara",
+      "country": "Iraq",
+      "2025_population": "778,052",
+      "2024_population": "753,708",
+      "change_percentage": "3.23%"
+    },
+    {
+      "rank": "785",
+      "city": "Huambo",
+      "country": "Angola",
+      "2025_population": "777,336",
+      "2024_population": "751,297",
+      "change_percentage": "3.47%"
+    },
+    {
+      "rank": "786",
+      "city": "Zhangjiagang",
+      "country": "China",
+      "2025_population": "775,312",
+      "2024_population": "755,752",
+      "change_percentage": "2.59%"
+    },
+    {
+      "rank": "787",
+      "city": "Sargodha",
+      "country": "Pakistan",
+      "2025_population": "775,091",
+      "2024_population": "757,915",
+      "change_percentage": "2.27%"
+    },
+    {
+      "rank": "788",
+      "city": "Bacoor",
+      "country": "Philippines",
+      "2025_population": "774,229",
+      "2024_population": "757,035",
+      "change_percentage": "2.27%"
+    },
+    {
+      "rank": "789",
+      "city": "Jiamusi",
+      "country": "China",
+      "2025_population": "774,118",
+      "2024_population": "761,903",
+      "change_percentage": "1.6%"
+    },
+    {
+      "rank": "790",
+      "city": "Dongtai",
+      "country": "China",
+      "2025_population": "773,030",
+      "2024_population": "756,344",
+      "change_percentage": "2.21%"
+    },
+    {
+      "rank": "791",
+      "city": "Nanded Waghala",
+      "country": "India",
+      "2025_population": "772,996",
+      "2024_population": "755,577",
+      "change_percentage": "2.31%"
+    },
+    {
+      "rank": "792",
+      "city": "Ansan",
+      "country": "South Korea",
+      "2025_population": "771,029",
+      "2024_population": "768,822",
+      "change_percentage": "0.29%"
+    },
+    {
+      "rank": "793",
+      "city": "Krakow",
+      "country": "Poland",
+      "2025_population": "769,375",
+      "2024_population": "769,396",
+      "change_percentage": "0%"
+    },
+    {
+      "rank": "794",
+      "city": "San Francisco",
+      "country": "United States",
+      "2025_population": "767,968",
+      "2024_population": "788,478",
+      "change_percentage": "-2.6%"
+    },
+    {
+      "rank": "795",
+      "city": "Lattakia",
+      "country": "Syria",
+      "2025_population": "767,534",
+      "2024_population": "736,119",
+      "change_percentage": "4.27%"
+    },
+    {
+      "rank": "796",
+      "city": "Bhavnagar",
+      "country": "India",
+      "2025_population": "766,887",
+      "2024_population": "751,493",
+      "change_percentage": "2.05%"
+    },
+    {
+      "rank": "797",
+      "city": "Ankang",
+      "country": "China",
+      "2025_population": "766,403",
+      "2024_population": "745,530",
+      "change_percentage": "2.8%"
+    },
+    {
+      "rank": "798",
+      "city": "Xianyang Shaanxi",
+      "country": "China",
+      "2025_population": "765,748",
+      "2024_population": "754,446",
+      "change_percentage": "1.5%"
+    },
+    {
+      "rank": "799",
+      "city": "Kurnool",
+      "country": "India",
+      "2025_population": "765,324",
+      "2024_population": "745,946",
+      "change_percentage": "2.6%"
+    },
+    {
+      "rank": "800",
+      "city": "Taicang",
+      "country": "China",
+      "2025_population": "764,938",
+      "2024_population": "746,533",
+      "change_percentage": "2.46%"
+    },
+    {
+      "rank": "801",
+      "city": "Seattle",
+      "country": "United States",
+      "2025_population": "764,753",
+      "2024_population": "759,915",
+      "change_percentage": "0.64%"
+    },
+    {
+      "rank": "802",
+      "city": "Sao Jose dos Campos",
+      "country": "Brazil",
+      "2025_population": "764,500",
+      "2024_population": "757,137",
+      "change_percentage": "0.97%"
+    },
+    {
+      "rank": "803",
+      "city": "Panzhihua",
+      "country": "China",
+      "2025_population": "761,755",
+      "2024_population": "750,036",
+      "change_percentage": "1.56%"
+    },
+    {
+      "rank": "804",
+      "city": "Sokoto",
+      "country": "Nigeria",
+      "2025_population": "761,331",
+      "2024_population": "734,255",
+      "change_percentage": "3.69%"
+    },
+    {
+      "rank": "805",
+      "city": "Uvira",
+      "country": "DR Congo",
+      "2025_population": "760,857",
+      "2024_population": "725,768",
+      "change_percentage": "4.83%"
+    },
+    {
+      "rank": "806",
+      "city": "Zarqa",
+      "country": "Jordan",
+      "2025_population": "758,893",
+      "2024_population": "753,392",
+      "change_percentage": "0.73%"
+    },
+    {
+      "rank": "807",
+      "city": "Yuyao",
+      "country": "China",
+      "2025_population": "758,680",
+      "2024_population": "744,034",
+      "change_percentage": "1.97%"
+    },
+    {
+      "rank": "808",
+      "city": "Cotonou",
+      "country": "Benin",
+      "2025_population": "757,989",
+      "2024_population": "738,444",
+      "change_percentage": "2.65%"
+    },
+    {
+      "rank": "809",
+      "city": "Rasht",
+      "country": "Iran",
+      "2025_population": "757,765",
+      "2024_population": "749,054",
+      "change_percentage": "1.16%"
+    },
+    {
+      "rank": "810",
+      "city": "Ribeirao Preto",
+      "country": "Brazil",
+      "2025_population": "757,604",
+      "2024_population": "750,174",
+      "change_percentage": "0.99%"
+    },
+    {
+      "rank": "811",
+      "city": "Oaxaca de Juarez",
+      "country": "Mexico",
+      "2025_population": "757,292",
+      "2024_population": "746,747",
+      "change_percentage": "1.41%"
+    },
+    {
+      "rank": "812",
+      "city": "Sheffield",
+      "country": "United Kingdom",
+      "2025_population": "756,783",
+      "2024_population": "751,303",
+      "change_percentage": "0.73%"
+    },
+    {
+      "rank": "813",
+      "city": "Buffalo City",
+      "country": "South Africa",
+      "2025_population": "756,507",
+      "2024_population": "745,855",
+      "change_percentage": "1.43%"
+    },
+    {
+      "rank": "814",
+      "city": "Vientiane",
+      "country": "Laos",
+      "2025_population": "755,941",
+      "2024_population": "737,750",
+      "change_percentage": "2.47%"
+    },
+    {
+      "rank": "815",
+      "city": "Yulin Shaanxi",
+      "country": "China",
+      "2025_population": "754,296",
+      "2024_population": "742,162",
+      "change_percentage": "1.64%"
+    },
+    {
+      "rank": "816",
+      "city": "Bali",
+      "country": "Indonesia",
+      "2025_population": "753,877",
+      "2024_population": "739,198",
+      "change_percentage": "1.99%"
+    },
+    {
+      "rank": "817",
+      "city": "Herat",
+      "country": "Afghanistan",
+      "2025_population": "752,910",
+      "2024_population": "724,172",
+      "change_percentage": "3.97%"
+    },
+    {
+      "rank": "818",
+      "city": "Longyan",
+      "country": "China",
+      "2025_population": "752,672",
+      "2024_population": "740,316",
+      "change_percentage": "1.67%"
+    },
+    {
+      "rank": "819",
+      "city": "Gold Coast",
+      "country": "Australia",
+      "2025_population": "752,570",
+      "2024_population": "742,600",
+      "change_percentage": "1.34%"
+    },
+    {
+      "rank": "820",
+      "city": "Gulbarga",
+      "country": "India",
+      "2025_population": "751,802",
+      "2024_population": "735,118",
+      "change_percentage": "2.27%"
+    },
+    {
+      "rank": "821",
+      "city": "Jammu",
+      "country": "India",
+      "2025_population": "751,521",
+      "2024_population": "738,250",
+      "change_percentage": "1.8%"
+    },
+    {
+      "rank": "822",
+      "city": "Miluo",
+      "country": "China",
+      "2025_population": "751,457",
+      "2024_population": "728,448",
+      "change_percentage": "3.16%"
+    }
+  ]
+}
