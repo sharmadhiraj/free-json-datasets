@@ -1,0 +1,357 @@
+{
+  "title": "Longest Rivers in the World",
+  "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
+  "updated_at": "August 15, 2025 07:57 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "river_names": "Nile– White-Nile –Kagera –Nyabarongo –Mwogo –Rukarara",
+      "length_km": "7,088",
+      "outflow": "Mediterranean",
+      "countries_sharing_basin": "Ethiopia, Eritrea, Sudan, Uganda, Tanzania, Kenya, Rwanda, Burundi, Egypt, the Democratic Republic of the Congo, South Sudan"
+    },
+    {
+      "rank": "2",
+      "river_names": "Amazon–Ucayali–Tambo–Ene–Mantaro",
+      "length_km": "6,992",
+      "outflow": "Atlantic Ocean",
+      "countries_sharing_basin": "Brazil, Peru, Bolivia, Colombia, Ecuador, Venezuela, Guyana"
+    },
+    {
+      "rank": "3",
+      "river_names": "Yangtze(Chang Jiang; Long River)",
+      "length_km": "6,418",
+      "outflow": "East China Sea",
+      "countries_sharing_basin": "China"
+    },
+    {
+      "rank": "4",
+      "river_names": "Mississippi–Missouri–Jefferson–Beaverhead–Red Rock–Hell Roaring",
+      "length_km": "6,275",
+      "outflow": "Gulf of Mexico",
+      "countries_sharing_basin": "United States (98.5%), Canada (1.5%)"
+    },
+    {
+      "rank": "5",
+      "river_names": "Yenisei–Angara–Selenge–Ider",
+      "length_km": "5,539",
+      "outflow": "Kara Sea",
+      "countries_sharing_basin": "Russia (97%), Mongolia (2.9%)"
+    },
+    {
+      "rank": "6",
+      "river_names": "Yellow River(Huang He)",
+      "length_km": "5,464",
+      "outflow": "Bohai Sea",
+      "countries_sharing_basin": "China"
+    },
+    {
+      "rank": "7",
+      "river_names": "Ob–Irtysh",
+      "length_km": "5,410",
+      "outflow": "Gulf of Ob",
+      "countries_sharing_basin": "Russia, Kazakhstan, China, Mongolia"
+    },
+    {
+      "rank": "8",
+      "river_names": "Río de la Plata–Paraná–Rio Grande",
+      "length_km": "4,880",
+      "outflow": "Río de la Plata",
+      "countries_sharing_basin": "Brazil (46.7%), Argentina (27.7%), Paraguay (13.5%), Bolivia (8.3%), Uruguay (3.8%)"
+    },
+    {
+      "rank": "9",
+      "river_names": "Congo–Chambeshi(Zaïre)",
+      "length_km": "4,700",
+      "outflow": "Atlantic Ocean",
+      "countries_sharing_basin": "Democratic Republic of the Congo, Central African Republic, Angola, Republic of the Congo, Tanzania, Cameroon, Zambia, Burundi, Rwanda"
+    },
+    {
+      "rank": "10",
+      "river_names": "Amur–Argun–Kherlen(Heilong Jiang)",
+      "length_km": "4,444",
+      "outflow": "Sea of Okhotsk",
+      "countries_sharing_basin": "Russia, China, Mongolia"
+    },
+    {
+      "rank": "11",
+      "river_names": "Lena",
+      "length_km": "4,400",
+      "outflow": "Laptev Sea",
+      "countries_sharing_basin": "Russia"
+    },
+    {
+      "rank": "12",
+      "river_names": "Mekong(Lancang Jiang)",
+      "length_km": "4,350",
+      "outflow": "South China Sea",
+      "countries_sharing_basin": "China, Myanmar, Laos, Thailand, Cambodia, Vietnam"
+    },
+    {
+      "rank": "13",
+      "river_names": "Mackenzie–Slave–Peace–Finlay",
+      "length_km": "4,241",
+      "outflow": "Beaufort Sea",
+      "countries_sharing_basin": "Canada"
+    },
+    {
+      "rank": "14",
+      "river_names": "Niger",
+      "length_km": "4,200",
+      "outflow": "Gulf of Guinea",
+      "countries_sharing_basin": "Nigeria (26.6%), Mali (25.6%), Niger (23.6%), Algeria (7.6%), Guinea (4.5%), Cameroon (4.2%), Burkina Faso (3.9%), Côte d’Ivoire, Benin, Chad"
+    },
+    {
+      "rank": "15",
+      "river_names": "Brahmaputra–Tsangpo",
+      "length_km": "3,848",
+      "outflow": "Ganges",
+      "countries_sharing_basin": "India (58.0%), China (19.7%), Nepal (9.0%), Bangladesh (6.6%), Disputed India/China (4.2%), Bhutan (2.4%)"
+    },
+    {
+      "rank": "16",
+      "river_names": "Murray–Darling–Culgoa–Balonne–Condamine",
+      "length_km": "3,672",
+      "outflow": "Southern Ocean",
+      "countries_sharing_basin": "Australia"
+    },
+    {
+      "rank": "17",
+      "river_names": "Tocantins–Araguaia",
+      "length_km": "3,650",
+      "outflow": "Atlantic Ocean, Amazon",
+      "countries_sharing_basin": "Brazil"
+    },
+    {
+      "rank": "18",
+      "river_names": "Volga",
+      "length_km": "3,645",
+      "outflow": "Caspian Sea",
+      "countries_sharing_basin": "Russia"
+    },
+    {
+      "rank": "19",
+      "river_names": "Indus–Sênggê Zangbo",
+      "length_km": "3,610",
+      "outflow": "Arabian Sea",
+      "countries_sharing_basin": "Pakistan (93%), India and China"
+    },
+    {
+      "rank": "20",
+      "river_names": "Shatt al-Arab–Euphrates–Murat",
+      "length_km": "3,596",
+      "outflow": "Persian Gulf",
+      "countries_sharing_basin": "Iraq (60.5%), Turkey (24.8%), Syria (14.7%)"
+    },
+    {
+      "rank": "21",
+      "river_names": "Madeira–Mamoré–Grande–Caine–Rocha",
+      "length_km": "3,380",
+      "outflow": "Amazon",
+      "countries_sharing_basin": "Brazil, Bolivia, Peru"
+    },
+    {
+      "rank": "22",
+      "river_names": "Purús",
+      "length_km": "3,211",
+      "outflow": "Amazon",
+      "countries_sharing_basin": "Brazil, Peru"
+    },
+    {
+      "rank": "23",
+      "river_names": "Yukon",
+      "length_km": "3,185",
+      "outflow": "Bering Sea",
+      "countries_sharing_basin": "United States (59.8%), Canada (40.2%)"
+    },
+    {
+      "rank": "24",
+      "river_names": "São Francisco",
+      "length_km": "3,180",
+      "outflow": "Atlantic Ocean",
+      "countries_sharing_basin": "Brazil"
+    },
+    {
+      "rank": "25",
+      "river_names": "Syr Darya–Naryn",
+      "length_km": "3,078",
+      "outflow": "Aral Sea",
+      "countries_sharing_basin": "Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan"
+    },
+    {
+      "rank": "26",
+      "river_names": "Salween(Nu Jiang)",
+      "length_km": "3,060",
+      "outflow": "Andaman Sea",
+      "countries_sharing_basin": "China (52.4%), Myanmar (43.9%), Thailand (3.7%)"
+    },
+    {
+      "rank": "27",
+      "river_names": "Saint Lawrence–Niagara–Detroit–Saint Clair–Saint Marys–Saint Louis–North (Great Lakes)",
+      "length_km": "3,058",
+      "outflow": "Gulf of Saint Lawrence",
+      "countries_sharing_basin": "Canada (52.1%), United States (47.9%)"
+    },
+    {
+      "rank": "28",
+      "river_names": "Rio Grande",
+      "length_km": "3,057",
+      "outflow": "Gulf of Mexico",
+      "countries_sharing_basin": "United States (52.1%), Mexico (47.9%)"
+    },
+    {
+      "rank": "29",
+      "river_names": "Lower Tunguska",
+      "length_km": "2,989",
+      "outflow": "Yenisei",
+      "countries_sharing_basin": "Russia"
+    },
+    {
+      "rank": "30",
+      "river_names": "Danube–Breg (Donau, Dunăre, Duna, Dunav, Dunaj)",
+      "length_km": "2,888",
+      "outflow": "Black Sea",
+      "countries_sharing_basin": "Romania (28.9%), Hungary (11.7%), Austria (10.3%), Serbia (10.3%), Germany (7.5%), Slovakia (5.8%), Bulgaria (5.2%), Croatia (4.5%), Ukraine (3.8%)"
+    },
+    {
+      "rank": "31",
+      "river_names": "Irrawaddy River–N’Mai River–Dulong River–Kelaoluo–Gada Qu",
+      "length_km": "2,727",
+      "outflow": "Andaman Sea",
+      "countries_sharing_basin": "China, Myanmar"
+    },
+    {
+      "rank": "32",
+      "river_names": "Zambezi(Zambesi)",
+      "length_km": "2,693",
+      "outflow": "Mozambique Channel",
+      "countries_sharing_basin": "Zambia (41.6%), Angola (18.4%), Zimbabwe (15.6%), Mozambique (11.8%), Malawi (8.0%), Tanzania (2.0%), Namibia, Botswana"
+    },
+    {
+      "rank": "33",
+      "river_names": "Vilyuy",
+      "length_km": "2,650",
+      "outflow": "Lena",
+      "countries_sharing_basin": "Russia"
+    },
+    {
+      "rank": "34",
+      "river_names": "Araguaia",
+      "length_km": "2,627",
+      "outflow": "Tocantins",
+      "countries_sharing_basin": "Brazil"
+    },
+    {
+      "rank": "35",
+      "river_names": "Ganges–Hooghly–Padma (Ganga)",
+      "length_km": "2,620",
+      "outflow": "Bay of Bengal",
+      "countries_sharing_basin": "India, Bangladesh, Nepal"
+    },
+    {
+      "rank": "36",
+      "river_names": "Amu Darya–Panj",
+      "length_km": "2,620",
+      "outflow": "Aral Sea",
+      "countries_sharing_basin": "Uzbekistan, Turkmenistan, Tajikistan, Afghanistan"
+    },
+    {
+      "rank": "37",
+      "river_names": "Japurá (Rio Yapurá)",
+      "length_km": "2,615",
+      "outflow": "Amazon",
+      "countries_sharing_basin": "Brazil, Colombia"
+    },
+    {
+      "rank": "38",
+      "river_names": "Nelson–Saskatchewan",
+      "length_km": "2,570",
+      "outflow": "Hudson Bay",
+      "countries_sharing_basin": "Canada, United States"
+    },
+    {
+      "rank": "39",
+      "river_names": "Paraguay (Río-Paraguay)",
+      "length_km": "2,549",
+      "outflow": "Paraná",
+      "countries_sharing_basin": "Brazil, Paraguay, Bolivia, Argentina"
+    },
+    {
+      "rank": "40",
+      "river_names": "Kolyma",
+      "length_km": "2,513",
+      "outflow": "East Siberian Sea",
+      "countries_sharing_basin": "Russia"
+    },
+    {
+      "rank": "41",
+      "river_names": "Pilcomayo",
+      "length_km": "2,500",
+      "outflow": "Paraguay",
+      "countries_sharing_basin": "Paraguay, Argentina, Bolivia"
+    },
+    {
+      "rank": "42",
+      "river_names": "Upper Ob–Katun",
+      "length_km": "2,490",
+      "outflow": "Ob",
+      "countries_sharing_basin": "Russia"
+    },
+    {
+      "rank": "43",
+      "river_names": "Ishim",
+      "length_km": "2,450",
+      "outflow": "Irtysh",
+      "countries_sharing_basin": "Kazakhstan, Russia"
+    },
+    {
+      "rank": "44",
+      "river_names": "Juruá",
+      "length_km": "2,410",
+      "outflow": "Amazon",
+      "countries_sharing_basin": "Peru, Brazil"
+    },
+    {
+      "rank": "45",
+      "river_names": "Ural",
+      "length_km": "2,428",
+      "outflow": "Caspian Sea",
+      "countries_sharing_basin": "Russia, Kazakhstan"
+    },
+    {
+      "rank": "46",
+      "river_names": "Arkansas",
+      "length_km": "2,348",
+      "outflow": "Mississippi",
+      "countries_sharing_basin": "United States"
+    },
+    {
+      "rank": "47",
+      "river_names": "Colorado (western U.S.)",
+      "length_km": "2,333",
+      "outflow": "Gulf of California",
+      "countries_sharing_basin": "United States, Mexico"
+    },
+    {
+      "rank": "48",
+      "river_names": "Olenyok",
+      "length_km": "2,292",
+      "outflow": "Laptev Sea",
+      "countries_sharing_basin": "Russia"
+    },
+    {
+      "rank": "49",
+      "river_names": "Dnieper",
+      "length_km": "2,287",
+      "outflow": "Black Sea",
+      "countries_sharing_basin": "Russia, Belarus, Ukraine"
+    },
+    {
+      "rank": "50",
+      "river_names": "Aldan",
+      "length_km": "2,273",
+      "outflow": "Lena",
+      "countries_sharing_basin": "Russia"
+    }
+  ]
+}

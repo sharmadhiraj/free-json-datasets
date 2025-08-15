@@ -53,9 +53,16 @@ Each dataset follows this JSON format:
 
 - [**Premier League Tables**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/premier-league-table-all-seasons.json)  
   Season-by-season league tables from 1992/93 to 2024/2025
+- [**IMDb Top 250 Movies**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/imdb-top-movies.json)  
+  A curated list of the highest-rated films from IMDb's Top 250
 
 ### Technology & Internet
 
 - [**TIOBE Index - Top Programming Languages (August 2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/popular_programming_languages.json)  
   Popularity rankings of programming languages as of August 2025
+
+### Geography & Environment
+
+- [**Longest Rivers in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/longest-rivers.json)  
+  Details of the world's longest rivers, including length, outflow, and countries sharing the basin
 

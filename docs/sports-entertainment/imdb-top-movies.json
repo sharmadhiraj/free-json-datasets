@@ -1,0 +1,3901 @@
+{
+  "title": "IMDb Top 250 Movies",
+  "subtitle": "A curated list of the highest-rated films from IMDb's Top 250",
+  "updated_at": "August 15, 2025 07:41 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "title": "The Shawshank Redemption",
+      "url": "https://www.imdb.com/title/tt0111161/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+      "description": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+      "content_rating": "R",
+      "duration": "PT2H22M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 9.3,
+      "rating_count": 3083577
+    },
+    {
+      "rank": 2,
+      "title": "The Godfather",
+      "url": "https://www.imdb.com/title/tt0068646/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "content_rating": "R",
+      "duration": "PT2H55M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2,
+      "rating_count": 2150402
+    },
+    {
+      "rank": 3,
+      "title": "The Dark Knight",
+      "url": "https://www.imdb.com/title/tt0468569/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+      "content_rating": "PG-13",
+      "duration": "PT2H32M",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.1,
+      "rating_count": 3058647
+    },
+    {
+      "rank": 4,
+      "title": "The Godfather Part II",
+      "url": "https://www.imdb.com/title/tt0071562/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_.jpg",
+      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "content_rating": "R",
+      "duration": "PT3H22M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9,
+      "rating_count": 1446137
+    },
+    {
+      "rank": 5,
+      "title": "12 Angry Men",
+      "url": "https://www.imdb.com/title/tt0050083/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_.jpg",
+      "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "content_rating": "Approved",
+      "duration": "PT1H36M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9,
+      "rating_count": 942654
+    },
+    {
+      "rank": 6,
+      "title": "The Lord of the Rings: The Return of the King",
+      "url": "https://www.imdb.com/title/tt0167260/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron&apos;s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "content_rating": "PG-13",
+      "duration": "PT3H21M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 9,
+      "rating_count": 2099459
+    },
+    {
+      "rank": 7,
+      "title": "Schindler&apos;s List",
+      "url": "https://www.imdb.com/title/tt0108052/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_.jpg",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "content_rating": "R",
+      "duration": "PT3H15M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 9,
+      "rating_count": 1539923
+    },
+    {
+      "rank": 8,
+      "title": "Pulp Fiction",
+      "url": "https://www.imdb.com/title/tt0110912/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "content_rating": "R",
+      "duration": "PT2H34M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.8,
+      "rating_count": 2360238
+    },
+    {
+      "rank": 9,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "url": "https://www.imdb.com/title/tt0120737/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "content_rating": "PG-13",
+      "duration": "PT2H58M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.9,
+      "rating_count": 2131749
+    },
+    {
+      "rank": 10,
+      "title": "Il buono, il brutto, il cattivo",
+      "url": "https://www.imdb.com/title/tt0060196/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+      "content_rating": "R",
+      "duration": "PT2H58M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.8,
+      "rating_count": 864793
+    },
+    {
+      "rank": 11,
+      "title": "Forrest Gump",
+      "url": "https://www.imdb.com/title/tt0109830/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+      "description": "The history of the United States from the 1950s to the &apos;70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+      "content_rating": "PG-13",
+      "duration": "PT2H22M",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.8,
+      "rating_count": 2408427
+    },
+    {
+      "rank": 12,
+      "title": "The Lord of the Rings: The Two Towers",
+      "url": "https://www.imdb.com/title/tt0167261/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_.jpg",
+      "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron&apos;s new ally, Saruman, and his hordes of Isengard.",
+      "content_rating": "PG-13",
+      "duration": "PT2H59M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.8,
+      "rating_count": 1893596
+    },
+    {
+      "rank": 13,
+      "title": "Fight Club",
+      "url": "https://www.imdb.com/title/tt0137523/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_.jpg",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "content_rating": "R",
+      "duration": "PT2H19M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.8,
+      "rating_count": 2501148
+    },
+    {
+      "rank": 14,
+      "title": "Inception",
+      "url": "https://www.imdb.com/title/tt1375666/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "content_rating": "PG-13",
+      "duration": "PT2H28M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.8,
+      "rating_count": 2717105
+    },
+    {
+      "rank": 15,
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "url": "https://www.imdb.com/title/tt0080684/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_.jpg",
+      "description": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+      "content_rating": "PG",
+      "duration": "PT2H4M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.7,
+      "rating_count": 1459850
+    },
+    {
+      "rank": 16,
+      "title": "The Matrix",
+      "url": "https://www.imdb.com/title/tt0133093/",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "content_rating": "R",
+      "duration": "PT2H16M",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "rating_count": 2177992
+    },
+    {
+      "rank": 17,
+      "title": "GoodFellas",
+      "url": "https://www.imdb.com/title/tt0099685/",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg",
+      "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+      "content_rating": "R",
+      "duration": "PT2H25M",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "rating_count": 1342740
+    },
+    {
+      "rank": 18,
+      "title": "Interstellar",
+      "url": "https://www.imdb.com/title/tt0816692/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+      "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "content_rating": "PG-13",
+      "duration": "PT2H49M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "rating_count": 2388082
+    },
+    {
+      "rank": 19,
+      "title": "One Flew Over the Cuckoo&apos;s Nest",
+      "url": "https://www.imdb.com/title/tt0073486/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_.jpg",
+      "description": "A rebellious convict is sent to a psychiatric hospital for evaluation in 1963 Oregon, and encourages his docile companions to take more control of their lives and defy the tyrannical head nurse.",
+      "content_rating": "R",
+      "duration": "PT2H13M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.7,
+      "rating_count": 1127777
+    },
+    {
+      "rank": 20,
+      "title": "Se7en",
+      "url": "https://www.imdb.com/title/tt0114369/",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg",
+      "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "content_rating": "R",
+      "duration": "PT2H7M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "rating_count": 1937720
+    },
+    {
+      "rank": 21,
+      "title": "It&apos;s a Wonderful Life",
+      "url": "https://www.imdb.com/title/tt0038650/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_.jpg",
+      "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+      "content_rating": "PG",
+      "duration": "PT2H10M",
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "rating_count": 532710
+    },
+    {
+      "rank": 22,
+      "title": "The Silence of the Lambs",
+      "url": "https://www.imdb.com/title/tt0102926/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "content_rating": "R",
+      "duration": "PT1H58M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "rating": 8.6,
+      "rating_count": 1655410
+    },
+    {
+      "rank": 23,
+      "title": "Shichinin no samurai",
+      "url": "https://www.imdb.com/title/tt0047478/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
+      "content_rating": "Not Rated",
+      "duration": "PT3H27M",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "rating_count": 389280
+    },
+    {
+      "rank": 24,
+      "title": "Saving Private Ryan",
+      "url": "https://www.imdb.com/title/tt0120815/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action.",
+      "content_rating": "R",
+      "duration": "PT2H49M",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.6,
+      "rating_count": 1586826
+    },
+    {
+      "rank": 25,
+      "title": "The Green Mile",
+      "url": "https://www.imdb.com/title/tt0120689/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+      "description": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift.",
+      "content_rating": "R",
+      "duration": "PT3H9M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "rating_count": 1504347
+    },
+    {
+      "rank": 26,
+      "title": "Cidade de Deus",
+      "url": "https://www.imdb.com/title/tt0317248/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjY4NGI5OTUtY2ZlZS00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_.jpg",
+      "description": "In the slums of Rio, two kids&apos; paths diverge as one struggles to become a photographer and the other a kingpin.",
+      "content_rating": "R",
+      "duration": "PT2H10M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "rating_count": 846049
+    },
+    {
+      "rank": 27,
+      "title": "La vita è bella",
+      "url": "https://www.imdb.com/title/tt0118799/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_.jpg",
+      "description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+      "content_rating": "PG-13",
+      "duration": "PT1H56M",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.6,
+      "rating_count": 786914
+    },
+    {
+      "rank": 28,
+      "title": "Terminator 2: Judgment Day",
+      "url": "https://www.imdb.com/title/tt0103064/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_.jpg",
+      "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.",
+      "content_rating": "R",
+      "duration": "PT2H17M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.6,
+      "rating_count": 1245872
+    },
+    {
+      "rank": 29,
+      "title": "Star Wars",
+      "url": "https://www.imdb.com/title/tt0076759/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_.jpg",
+      "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire&apos;s world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+      "content_rating": "PG",
+      "duration": "PT2H1M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "rating_count": 1526618
+    },
+    {
+      "rank": 30,
+      "title": "Back to the Future",
+      "url": "https://www.imdb.com/title/tt0088763/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_.jpg",
+      "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "content_rating": "PG",
+      "duration": "PT1H56M",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": 8.5,
+      "rating_count": 1395635
+    },
+    {
+      "rank": 31,
+      "title": "Sen to Chihiro no kamikakushi",
+      "url": "https://www.imdb.com/title/tt0245429/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_.jpg",
+      "description": "During her family&apos;s move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
+      "content_rating": "PG",
+      "duration": "PT2H4M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "rating": 8.6,
+      "rating_count": 925202
+    },
+    {
+      "rank": 32,
+      "title": "The Pianist",
+      "url": "https://www.imdb.com/title/tt0253474/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_.jpg",
+      "description": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+      "content_rating": "R",
+      "duration": "PT2H30M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "rating": 8.5,
+      "rating_count": 979344
+    },
+    {
+      "rank": 33,
+      "title": "Gladiator",
+      "url": "https://www.imdb.com/title/tt0172495/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg",
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "content_rating": "R",
+      "duration": "PT2H35M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 1785010
+    },
+    {
+      "rank": 34,
+      "title": "Gisaengchung",
+      "url": "https://www.imdb.com/title/tt6751668/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "content_rating": "R",
+      "duration": "PT2H12M",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.5,
+      "rating_count": 1089453
+    },
+    {
+      "rank": 35,
+      "title": "Psycho",
+      "url": "https://www.imdb.com/title/tt0054215/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_.jpg",
+      "description": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
+      "content_rating": "R",
+      "duration": "PT1H49M",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": 8.5,
+      "rating_count": 760493
+    },
+    {
+      "rank": 36,
+      "title": "The Lion King",
+      "url": "https://www.imdb.com/title/tt0110357/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_.jpg",
+      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "content_rating": "G",
+      "duration": "PT1H28M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 1217004
+    },
+    {
+      "rank": 37,
+      "title": "Hotaru no haka",
+      "url": "https://www.imdb.com/title/tt0095327/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+      "content_rating": "Not Rated",
+      "duration": "PT1H28M",
+      "genres": [
+        "Animation",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.5,
+      "rating_count": 358318
+    },
+    {
+      "rank": 38,
+      "title": "The Departed",
+      "url": "https://www.imdb.com/title/tt0407887/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "content_rating": "R",
+      "duration": "PT2H31M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.5,
+      "rating_count": 1504626
+    },
+    {
+      "rank": 39,
+      "title": "Whiplash",
+      "url": "https://www.imdb.com/title/tt2582802/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_.jpg",
+      "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student&apos;s potential.",
+      "content_rating": "R",
+      "duration": "PT1H46M",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "rating": 8.5,
+      "rating_count": 1092494
+    },
+    {
+      "rank": 40,
+      "title": "Seppuku",
+      "url": "https://www.imdb.com/title/tt0056058/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_.jpg",
+      "description": "When a ronin requesting seppuku at a feudal lord&apos;s palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan&apos;s integrity.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H13M",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "rating_count": 82176
+    },
+    {
+      "rank": 41,
+      "title": "The Prestige",
+      "url": "https://www.imdb.com/title/tt0482571/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@._V1_.jpg",
+      "description": "Rival 19th-century magicians engage in a bitter battle for trade secrets.",
+      "content_rating": "PG-13",
+      "duration": "PT2H10M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.5,
+      "rating_count": 1533270
+    },
+    {
+      "rank": 42,
+      "title": "American History X",
+      "url": "https://www.imdb.com/title/tt0120586/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Living a life marked by violence, neo-Nazi Derek finally goes to prison after killing two black youths. Upon his release, Derek vows to change; he hopes to prevent his brother, Danny, who idolizes Derek, from following in his foot...",
+      "content_rating": "R",
+      "duration": "PT1H59M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 1241444
+    },
+    {
+      "rank": 43,
+      "title": "Léon",
+      "url": "https://www.imdb.com/title/tt0110413/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_.jpg",
+      "description": "An Italian hit man protects a New York orphan.",
+      "content_rating": "R",
+      "duration": "PT1H50M",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 1314802
+    },
+    {
+      "rank": 44,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "url": "https://www.imdb.com/title/tt9362722/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_.jpg",
+      "description": "Traveling across the multiverse, Miles Morales meets a new team of Spider-People, made up of heroes from different dimensions. But when the heroes clash over how to deal with a new threat, Miles finds himself at a crossroads.",
+      "content_rating": "PG",
+      "duration": "PT2H20M",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.5,
+      "rating_count": 473777
+    },
+    {
+      "rank": 45,
+      "title": "Casablanca",
+      "url": "https://www.imdb.com/title/tt0034583/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_.jpg",
+      "description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+      "content_rating": "PG",
+      "duration": "PT1H42M",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "rating": 8.5,
+      "rating_count": 637950
+    },
+    {
+      "rank": 46,
+      "title": "Nuovo Cinema Paradiso",
+      "url": "https://www.imdb.com/title/tt0095765/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_.jpg",
+      "description": "Salvatore, a famous film director, returns to his hometown for the funeral of the local theater&apos;s film projectionist, Alfredo. He reminisces about his life as a young boy falling in love with cinema.",
+      "content_rating": "PG",
+      "duration": "PT2H54M",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.5,
+      "rating_count": 305223
+    },
+    {
+      "rank": 47,
+      "title": "The Usual Suspects",
+      "url": "https://www.imdb.com/title/tt0114814/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_.jpg",
+      "description": "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.",
+      "content_rating": "R",
+      "duration": "PT1H46M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.5,
+      "rating_count": 1200876
+    },
+    {
+      "rank": 48,
+      "title": "Intouchables",
+      "url": "https://www.imdb.com/title/tt1675434/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+      "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+      "content_rating": "R",
+      "duration": "PT1H52M",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 989901
+    },
+    {
+      "rank": 49,
+      "title": "Alien",
+      "url": "https://www.imdb.com/title/tt0078748/",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_.jpg",
+      "description": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+      "content_rating": "R",
+      "duration": "PT1H57M",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": 8.5,
+      "rating_count": 1027820
+    },
+    {
+      "rank": 50,
+      "title": "Modern Times",
+      "url": "https://www.imdb.com/title/tt0027977/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODVkZGFhNGQtYjdiYi00Njc4LWFmYTItNTlmNzJjMTg1ZDc5XkEyXkFqcGc@._V1_.jpg",
+      "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+      "content_rating": "G",
+      "duration": "PT1H27M",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.5,
+      "rating_count": 275973
+    },
+    {
+      "rank": 51,
+      "title": "Rear Window",
+      "url": "https://www.imdb.com/title/tt0047396/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODZhOWI1ODgtMzdiOS00YjNkLTgwOGUtYmIyZDg5ZmQwMzQ1XkEyXkFqcGc@._V1_.jpg",
+      "description": "A bored photographer recovering from a broken leg passes the time by watching his neighbors and begins to suspect one of them of murder.",
+      "content_rating": "PG",
+      "duration": "PT1H52M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.5,
+      "rating_count": 553027
+    },
+    {
+      "rank": 52,
+      "title": "Django Unchained",
+      "url": "https://www.imdb.com/title/tt1853728/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+      "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+      "content_rating": "R",
+      "duration": "PT2H45M",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.5,
+      "rating_count": 1813498
+    },
+    {
+      "rank": 53,
+      "title": "C&apos;era una volta il West",
+      "url": "https://www.imdb.com/title/tt0064116/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A mysterious stranger with a harmonica teams up with a notorious desperado to protect a beautiful widow and her land from a ruthless assassin in the employ of a railroad tycoon.",
+      "content_rating": "PG-13",
+      "duration": "PT2H46M",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.5,
+      "rating_count": 372594
+    },
+    {
+      "rank": 54,
+      "title": "City Lights",
+      "url": "https://www.imdb.com/title/tt0021749/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmMwZDIyZWUtODVhYS00MDRmLTg0N2ItMzU5MGZhN2IxNmZjXkEyXkFqcGc@._V1_.jpg",
+      "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+      "content_rating": "G",
+      "duration": "PT1H27M",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.5,
+      "rating_count": 209028
+    },
+    {
+      "rank": 55,
+      "title": "Apocalypse Now",
+      "url": "https://www.imdb.com/title/tt0078788/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+      "content_rating": "R",
+      "duration": "PT2H27M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "War"
+      ],
+      "rating": 8.4,
+      "rating_count": 749310
+    },
+    {
+      "rank": 56,
+      "title": "WALL·E",
+      "url": "https://www.imdb.com/title/tt0910970/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_.jpg",
+      "description": "A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind.",
+      "content_rating": "G",
+      "duration": "PT1H38M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "rating": 8.4,
+      "rating_count": 1275737
+    },
+    {
+      "rank": 57,
+      "title": "Memento",
+      "url": "https://www.imdb.com/title/tt0209144/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmQ3MjliNjAtNWFiZS00YWI1LTlmZTktMzBiNDE1NjRhZjU0XkEyXkFqcGc@._V1_.jpg",
+      "description": "A former insurance investigator who now suffers from anterograde amnesia uses notes and tattoos to hunt down his wife&apos;s murderer.",
+      "content_rating": "R",
+      "duration": "PT1H53M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.4,
+      "rating_count": 1393136
+    },
+    {
+      "rank": 58,
+      "title": "Dune: Part Two",
+      "url": "https://www.imdb.com/title/tt15239678/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg",
+      "description": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible fu...",
+      "content_rating": "PG-13",
+      "duration": "PT2H46M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 656849
+    },
+    {
+      "rank": 59,
+      "title": "Raiders of the Lost Ark",
+      "url": "https://www.imdb.com/title/tt0082971/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "In 1936, archaeologist Indiana Jones is tasked by Army Intelligence to help locate a legendary ancient power, the Ark of Covenant, before the Nazis get it first.",
+      "content_rating": "PG",
+      "duration": "PT1H55M",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.4,
+      "rating_count": 1083997
+    },
+    {
+      "rank": 60,
+      "title": "Avengers: Infinity War",
+      "url": "https://www.imdb.com/title/tt4154756/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+      "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "content_rating": "PG-13",
+      "duration": "PT2H29M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "rating_count": 1310080
+    },
+    {
+      "rank": 61,
+      "title": "Das Leben der Anderen",
+      "url": "https://www.imdb.com/title/tt0405094/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjM1N2Q0YWEtN2E5MC00NDM3LTk2NTEtMTc1NTk5OTA5ZGIzXkEyXkFqcGc@._V1_.jpg",
+      "description": "In 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives.",
+      "content_rating": "R",
+      "duration": "PT2H17M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.4,
+      "rating_count": 431330
+    },
+    {
+      "rank": 62,
+      "title": "Sunset Blvd.",
+      "url": "https://www.imdb.com/title/tt0043014/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+      "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+      "content_rating": "Approved",
+      "duration": "PT1H50M",
+      "genres": [
+        "Drama",
+        "Film-Noir"
+      ],
+      "rating": 8.4,
+      "rating_count": 251580
+    },
+    {
+      "rank": 63,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "url": "https://www.imdb.com/title/tt4633694/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "content_rating": "PG",
+      "duration": "PT1H57M",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.4,
+      "rating_count": 746192
+    },
+    {
+      "rank": 64,
+      "title": "Witness for the Prosecution",
+      "url": "https://www.imdb.com/title/tt0051201/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_.jpg",
+      "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+      "content_rating": "Approved",
+      "duration": "PT1H56M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.4,
+      "rating_count": 152611
+    },
+    {
+      "rank": 65,
+      "title": "Paths of Glory",
+      "url": "https://www.imdb.com/title/tt0050825/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack.",
+      "content_rating": "Approved",
+      "duration": "PT1H28M",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.4,
+      "rating_count": 229071
+    },
+    {
+      "rank": 66,
+      "title": "The Shining",
+      "url": "https://www.imdb.com/title/tt0081505/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_.jpg",
+      "description": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+      "content_rating": "R",
+      "duration": "PT2H26M",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "rating": 8.4,
+      "rating_count": 1179817
+    },
+    {
+      "rank": 67,
+      "title": "The Great Dictator",
+      "url": "https://www.imdb.com/title/tt0032553/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel&apos;s regime.",
+      "content_rating": "G",
+      "duration": "PT2H5M",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.4,
+      "rating_count": 251006
+    },
+    {
+      "rank": 68,
+      "title": "Inglourious Basterds",
+      "url": "https://www.imdb.com/title/tt0361748/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_.jpg",
+      "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner&apos;s vengeful plans for the same.",
+      "content_rating": "R",
+      "duration": "PT2H33M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.4,
+      "rating_count": 1707445
+    },
+    {
+      "rank": 69,
+      "title": "12th Fail",
+      "url": "https://www.imdb.com/title/tt23849204/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg",
+      "description": "The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi.",
+      "content_rating": null,
+      "duration": "PT2H27M",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "rating_count": 153714
+    },
+    {
+      "rank": 70,
+      "title": "Aliens",
+      "url": "https://www.imdb.com/title/tt0090605/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_.jpg",
+      "description": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+      "content_rating": "R",
+      "duration": "PT2H17M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "rating": 8.4,
+      "rating_count": 816297
+    },
+    {
+      "rank": 71,
+      "title": "The Dark Knight Rises",
+      "url": "https://www.imdb.com/title/tt1345836/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+      "description": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+      "content_rating": "PG-13",
+      "duration": "PT2H44M",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "rating_count": 1933986
+    },
+    {
+      "rank": 72,
+      "title": "Coco",
+      "url": "https://www.imdb.com/title/tt2380307/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "Aspiring musician Miguel, confronted with his family&apos;s ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "content_rating": "PG",
+      "duration": "PT1H45M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "rating_count": 663736
+    },
+    {
+      "rank": 73,
+      "title": "Amadeus",
+      "url": "https://www.imdb.com/title/tt0086879/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_.jpg",
+      "description": "The life and work of Wolfgang Amadeus Mozart seen through the eyes of his contemporary and rival, Antonio Salieri.",
+      "content_rating": "PG",
+      "duration": "PT2H40M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "rating": 8.4,
+      "rating_count": 453178
+    },
+    {
+      "rank": 74,
+      "title": "Avengers: Endgame",
+      "url": "https://www.imdb.com/title/tt4154796/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+      "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos&apos; actions and restore balance to the universe.",
+      "content_rating": "PG-13",
+      "duration": "PT3H1M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "rating_count": 1379666
+    },
+    {
+      "rank": 75,
+      "title": "Toy Story",
+      "url": "https://www.imdb.com/title/tt0114709/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy&apos;s bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+      "content_rating": "G",
+      "duration": "PT1H21M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.3,
+      "rating_count": 1135467
+    },
+    {
+      "rank": 76,
+      "title": "Good Will Hunting",
+      "url": "https://www.imdb.com/title/tt0119217/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_.jpg",
+      "description": "A therapist counsels Will Hunting, a janitor with a genius IQ.",
+      "content_rating": "R",
+      "duration": "PT2H6M",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.3,
+      "rating_count": 1153812
+    },
+    {
+      "rank": 77,
+      "title": "Tengoku to jigoku",
+      "url": "https://www.imdb.com/title/tt0057565/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_.jpg",
+      "description": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur&apos;s son is kidnapped by mistake and held for ransom.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H23M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.4,
+      "rating_count": 62707
+    },
+    {
+      "rank": 78,
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "url": "https://www.imdb.com/title/tt0057012/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_.jpg",
+      "description": "A mentally unstable American general orders a hydrogen bomb attack on the Soviet Union, triggering a path to global nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+      "content_rating": "PG",
+      "duration": "PT1H35M",
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "rating": 8.3,
+      "rating_count": 541822
+    },
+    {
+      "rank": 79,
+      "title": "Oldeuboi",
+      "url": "https://www.imdb.com/title/tt0364569/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+      "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days.",
+      "content_rating": "R",
+      "duration": "PT2H",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.3,
+      "rating_count": 689495
+    },
+    {
+      "rank": 80,
+      "title": "Das Boot",
+      "url": "https://www.imdb.com/title/tt0082096/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGU0MWZlMTUtM2Y3Ny00NGNmLWE5NmEtN2YxOWQzMGM3ZWYzXkEyXkFqcGc@._V1_.jpg",
+      "description": "A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.",
+      "content_rating": null,
+      "duration": "PT2H29M",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.4,
+      "rating_count": 281407
+    },
+    {
+      "rank": 81,
+      "title": "Braveheart",
+      "url": "https://www.imdb.com/title/tt0112573/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+      "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+      "content_rating": "R",
+      "duration": "PT2H58M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.3,
+      "rating_count": 1137783
+    },
+    {
+      "rank": 82,
+      "title": "Kimi no na wa.",
+      "url": "https://www.imdb.com/title/tt5311514/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_.jpg",
+      "description": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+      "content_rating": null,
+      "duration": "PT1H46M",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.4,
+      "rating_count": 366562
+    },
+    {
+      "rank": 83,
+      "title": "Mononoke-hime",
+      "url": "https://www.imdb.com/title/tt0119698/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjAzODViNGEtMjBkYi00N2U5LWJjNjAtY2U0MGJhZTEwOTU0XkEyXkFqcGc@._V1_.jpg",
+      "description": "While seeking to cure himself of a curse, young warrior Ashitaka stumbles into a conflict between the people of Iron Town and Princess Mononoke, a girl raised by wolves, who will stop at nothing to prevent the destruction of her h...",
+      "content_rating": "PG-13",
+      "duration": "PT2H13M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.3,
+      "rating_count": 466154
+    },
+    {
+      "rank": 84,
+      "title": "American Beauty",
+      "url": "https://www.imdb.com/title/tt0169547/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_.jpg",
+      "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter&apos;s best friend.",
+      "content_rating": "R",
+      "duration": "PT2H2M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 1257389
+    },
+    {
+      "rank": 85,
+      "title": "3 Idiots",
+      "url": "https://www.imdb.com/title/tt1187043/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_.jpg",
+      "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them &quot;idiots&quot;.",
+      "content_rating": "PG-13",
+      "duration": "PT2H50M",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "rating_count": 465111
+    },
+    {
+      "rank": 86,
+      "title": "Joker",
+      "url": "https://www.imdb.com/title/tt7286456/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
+      "content_rating": "R",
+      "duration": "PT2H2M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "rating_count": 1631765
+    },
+    {
+      "rank": 87,
+      "title": "Capharnaüm",
+      "url": "https://www.imdb.com/title/tt8267604/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzEyMzQ1OTktZTljZi00OWQzLWE2ZmUtZjQyNzBjYjE1NTc0XkEyXkFqcGc@._V1_.jpg",
+      "description": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+      "content_rating": "R",
+      "duration": "PT2H6M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.4,
+      "rating_count": 118296
+    },
+    {
+      "rank": 88,
+      "title": "Once Upon a Time in America",
+      "url": "https://www.imdb.com/title/tt0087843/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_.jpg",
+      "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+      "content_rating": "R",
+      "duration": "PT3H49M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 398843
+    },
+    {
+      "rank": 89,
+      "title": "Singin&apos; in the Rain",
+      "url": "https://www.imdb.com/title/tt0045152/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGQzZDFjZWUtZDU4ZS00ZjM3LTgyYmItYjA3YmIwYzRkZWY3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+      "content_rating": "G",
+      "duration": "PT1H43M",
+      "genres": [
+        "Comedy",
+        "Musical",
+        "Romance"
+      ],
+      "rating": 8.3,
+      "rating_count": 275205
+    },
+    {
+      "rank": 90,
+      "title": "Idi i smotri",
+      "url": "https://www.imdb.com/title/tt0091251/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDlkZmVkZDAtZGFmMS00OWIzLWJkY2YtNWE5NjNhNjhiZGE3XkEyXkFqcGc@._V1_.jpg",
+      "description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H22M",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "rating": 8.3,
+      "rating_count": 115115
+    },
+    {
+      "rank": 91,
+      "title": "Requiem for a Dream",
+      "url": "https://www.imdb.com/title/tt0180093/",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2ZlMjIzZjctYzA2My00ZWYyLWI4ZjctMGI2NWYyNzFiZjAwXkEyXkFqcGc@._V1_.jpg",
+      "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "content_rating": "NC-17",
+      "duration": "PT1H42M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 947846
+    },
+    {
+      "rank": 92,
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "url": "https://www.imdb.com/title/tt0086190/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_.jpg",
+      "description": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+      "content_rating": "PG",
+      "duration": "PT2H11M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.3,
+      "rating_count": 1177484
+    },
+    {
+      "rank": 93,
+      "title": "Toy Story 3",
+      "url": "https://www.imdb.com/title/tt0435761/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_.jpg",
+      "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it&apos;s up to Woody to convince the other toys that they weren&apos;t abandoned and to return home.",
+      "content_rating": "G",
+      "duration": "PT1H43M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.3,
+      "rating_count": 941406
+    },
+    {
+      "rank": 94,
+      "title": "Jagten",
+      "url": "https://www.imdb.com/title/tt2106476/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+      "description": "A teacher lives a lonely life, all the while struggling over his son&apos;s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent li...",
+      "content_rating": "R",
+      "duration": "PT1H55M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 393446
+    },
+    {
+      "rank": 95,
+      "title": "Ikiru",
+      "url": "https://www.imdb.com/title/tt0044741/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTk4OGEwNDQtOGI2MC00MTU2LTk0YTEtNmU5NTIxMWNkNDhlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H23M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 98315
+    },
+    {
+      "rank": 96,
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "url": "https://www.imdb.com/title/tt0338013/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+      "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.",
+      "content_rating": "R",
+      "duration": "PT1H48M",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "rating": 8.3,
+      "rating_count": 1148623
+    },
+    {
+      "rank": 97,
+      "title": "Incendies",
+      "url": "https://www.imdb.com/title/tt1255953/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_.jpg",
+      "description": "Twins journey to the Middle East to discover their family history and fulfill their mother&apos;s last wishes.",
+      "content_rating": "R",
+      "duration": "PT2H11M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "War"
+      ],
+      "rating": 8.3,
+      "rating_count": 234031
+    },
+    {
+      "rank": 98,
+      "title": "The Apartment",
+      "url": "https://www.imdb.com/title/tt0053604/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_.jpg",
+      "description": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but office politics and his own romantic hopes complicate matters.",
+      "content_rating": "Approved",
+      "duration": "PT2H5M",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.3,
+      "rating_count": 211324
+    },
+    {
+      "rank": 99,
+      "title": "2001: A Space Odyssey",
+      "url": "https://www.imdb.com/title/tt0062622/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_.jpg",
+      "description": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+      "content_rating": "G",
+      "duration": "PT2H29M",
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.3,
+      "rating_count": 761005
+    },
+    {
+      "rank": 100,
+      "title": "Lawrence of Arabia",
+      "url": "https://www.imdb.com/title/tt0056172/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_.jpg",
+      "description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+      "content_rating": "PG",
+      "duration": "PT3H47M",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 332381
+    },
+    {
+      "rank": 101,
+      "title": "Reservoir Dogs",
+      "url": "https://www.imdb.com/title/tt0105236/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_.jpg",
+      "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+      "content_rating": "R",
+      "duration": "PT1H39M",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "rating_count": 1142706
+    },
+    {
+      "rank": 102,
+      "title": "Scarface",
+      "url": "https://www.imdb.com/title/tt0086250/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_.jpg",
+      "description": "In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.",
+      "content_rating": "R",
+      "duration": "PT2H50M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 979469
+    },
+    {
+      "rank": 103,
+      "title": "Heat",
+      "url": "https://www.imdb.com/title/tt0113277/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
+      "content_rating": "R",
+      "duration": "PT2H50M",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 769466
+    },
+    {
+      "rank": 104,
+      "title": "Double Indemnity",
+      "url": "https://www.imdb.com/title/tt0036775/",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2YwNjZlZDktNTlmNS00ODQwLWJmNmUtYmE1NTBhYjc1YTY5XkEyXkFqcGc@._V1_.jpg",
+      "description": "An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator.",
+      "content_rating": "Approved",
+      "duration": "PT1H47M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir"
+      ],
+      "rating": 8.3,
+      "rating_count": 176443
+    },
+    {
+      "rank": 105,
+      "title": "North by Northwest",
+      "url": "https://www.imdb.com/title/tt0053125/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+      "content_rating": "Approved",
+      "duration": "PT2H16M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.3,
+      "rating_count": 363075
+    },
+    {
+      "rank": 106,
+      "title": "Up",
+      "url": "https://www.imdb.com/title/tt1049413/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_.jpg",
+      "description": "78-year-old Carl Fredricksen travels to South America in his house equipped with balloons, inadvertently taking a young stowaway.",
+      "content_rating": "PG",
+      "duration": "PT1H36M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.3,
+      "rating_count": 1196185
+    },
+    {
+      "rank": 107,
+      "title": "M - Eine Stadt sucht einen Mörder",
+      "url": "https://www.imdb.com/title/tt0022100/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
+      "description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+      "content_rating": "Passed",
+      "duration": "PT1H39M",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "rating_count": 178704
+    },
+    {
+      "rank": 108,
+      "title": "Citizen Kane",
+      "url": "https://www.imdb.com/title/tt0033467/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_.jpg",
+      "description": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: &apos;Rosebud.&apos;",
+      "content_rating": "PG",
+      "duration": "PT1H59M",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.3,
+      "rating_count": 485080
+    },
+    {
+      "rank": 109,
+      "title": "Full Metal Jacket",
+      "url": "https://www.imdb.com/title/tt0093058/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWUzNzZkNzUtNDdiYy00Nzk5LTgxMmItNTk0MjRjNjdjNDA0XkEyXkFqcGc@._V1_.jpg",
+      "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "content_rating": "R",
+      "duration": "PT1H56M",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.2,
+      "rating_count": 829915
+    },
+    {
+      "rank": 110,
+      "title": "Vertigo",
+      "url": "https://www.imdb.com/title/tt0052357/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_.jpg",
+      "description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+      "content_rating": "PG",
+      "duration": "PT2H8M",
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "rating_count": 449405
+    },
+    {
+      "rank": 111,
+      "title": "Le fabuleux destin d&apos;Amélie Poulain",
+      "url": "https://www.imdb.com/title/tt0211915/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Despite being caught in her imaginative world, young waitress Amelie decides to help people find happiness. Her quest to spread joy leads her on a journey during which she finds true love.",
+      "content_rating": "R",
+      "duration": "PT2H2M",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 8.3,
+      "rating_count": 823790
+    },
+    {
+      "rank": 112,
+      "title": "Taare Zameen Par",
+      "url": "https://www.imdb.com/title/tt0986264/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjVmMTlkNGYtYTM2OC00Yjc2LWIyYmQtMDY4ZmU1MWRlMjA3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A young boy is thought to be nothing but a lazy troublemaker until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+      "content_rating": "PG",
+      "duration": "PT2H42M",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "rating": 8.3,
+      "rating_count": 222705
+    },
+    {
+      "rank": 113,
+      "title": "Jodaeiye Nader az Simin",
+      "url": "https://www.imdb.com/title/tt1832382/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_.jpg",
+      "description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer&apos;s disease.",
+      "content_rating": "PG-13",
+      "duration": "PT2H3M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 271873
+    },
+    {
+      "rank": 114,
+      "title": "To Kill a Mockingbird",
+      "url": "https://www.imdb.com/title/tt0056592/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_.jpg",
+      "description": "A widowed lawyer in Depression-era Alabama defends a black man against a false rape charge while teaching his young children about the sad reality of prejudice.",
+      "content_rating": "Approved",
+      "duration": "PT2H9M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 345560
+    },
+    {
+      "rank": 115,
+      "title": "Die Hard",
+      "url": "https://www.imdb.com/title/tt0095016/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_.jpg",
+      "description": "A New York City cop, John McClane, tries to save his estranged wife and several others taken hostage by terrorists during a Christmas Eve party at the Nakatomi Plaza Skyscraper in Los Angeles, California.",
+      "content_rating": "R",
+      "duration": "PT2H12M",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "rating_count": 998196
+    },
+    {
+      "rank": 116,
+      "title": "Indiana Jones and the Last Crusade",
+      "url": "https://www.imdb.com/title/tt0097576/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_.jpg",
+      "description": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+      "content_rating": "PG-13",
+      "duration": "PT2H7M",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.2,
+      "rating_count": 845517
+    },
+    {
+      "rank": 117,
+      "title": "The Sting",
+      "url": "https://www.imdb.com/title/tt0070735/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_.jpg",
+      "description": "Two grifters team up to pull off the ultimate con.",
+      "content_rating": "PG",
+      "duration": "PT2H9M",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 292648
+    },
+    {
+      "rank": 118,
+      "title": "A Clockwork Orange",
+      "url": "https://www.imdb.com/title/tt0066921/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+      "description": "Alex DeLarge and his droogs barbarize a decaying near-future.",
+      "content_rating": "R",
+      "duration": "PT2H16M",
+      "genres": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "rating": 8.2,
+      "rating_count": 918267
+    },
+    {
+      "rank": 119,
+      "title": "Metropolis",
+      "url": "https://www.imdb.com/title/tt0017136/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_.jpg",
+      "description": "In a futuristic city sharply divided between the working class and the city planners, the son of the city&apos;s mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H33M",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.3,
+      "rating_count": 196282
+    },
+    {
+      "rank": 120,
+      "title": "Oppenheimer",
+      "url": "https://www.imdb.com/title/tt15398776/",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg",
+      "description": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+      "content_rating": "R",
+      "duration": "PT3H",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.3,
+      "rating_count": 924575
+    },
+    {
+      "rank": 121,
+      "title": "Snatch",
+      "url": "https://www.imdb.com/title/tt0208092/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzk5NjJkMTQtN2IyNC00YWM5LTlhZmMtNGI3MWNhMTU1YTc4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+      "content_rating": "R",
+      "duration": "PT1H42M",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.2,
+      "rating_count": 953891
+    },
+    {
+      "rank": 122,
+      "title": "1917",
+      "url": "https://www.imdb.com/title/tt8579674/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_.jpg",
+      "description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+      "content_rating": "R",
+      "duration": "PT1H59M",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.2,
+      "rating_count": 739464
+    },
+    {
+      "rank": 123,
+      "title": "Hababam Sinifi: Sinifta Kaldi",
+      "url": "https://www.imdb.com/title/tt0252488/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young and beautiful female teacher starts working in an all boys high school.",
+      "content_rating": null,
+      "duration": "PT1H35M",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8.6,
+      "rating_count": 27783
+    },
+    {
+      "rank": 124,
+      "title": "L.A. Confidential",
+      "url": "https://www.imdb.com/title/tt0119488/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_.jpg",
+      "description": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+      "content_rating": "R",
+      "duration": "PT2H18M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.2,
+      "rating_count": 646122
+    },
+    {
+      "rank": 125,
+      "title": "Ladri di biciclette",
+      "url": "https://www.imdb.com/title/tt0040522/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_.jpg",
+      "description": "In post-war Italy, a working-class man&apos;s bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+      "content_rating": "Not Rated",
+      "duration": "PT1H29M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 187580
+    },
+    {
+      "rank": 126,
+      "title": "Der Untergang",
+      "url": "https://www.imdb.com/title/tt0363163/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_.jpg",
+      "description": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator&apos;s final days in his Berlin bunker at the end of WWII.",
+      "content_rating": "R",
+      "duration": "PT2H36M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.2,
+      "rating_count": 391888
+    },
+    {
+      "rank": 127,
+      "title": "Dangal",
+      "url": "https://www.imdb.com/title/tt5074352/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+      "description": "Mahavir Singh Phogat, a former wrestler, decides to fulfill his dream of winning a gold medal for his country by training his daughters for the Commonwealth Games despite the existing social stigmas.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H41M",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 230172
+    },
+    {
+      "rank": 128,
+      "title": "The Wolf of Wall Street",
+      "url": "https://www.imdb.com/title/tt0993846/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+      "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "content_rating": "R",
+      "duration": "PT3H",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.2,
+      "rating_count": 1710537
+    },
+    {
+      "rank": 129,
+      "title": "Hamilton",
+      "url": "https://www.imdb.com/title/tt8503618/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc3MWIyMzAtMTZmNC00YmNjLWIyZTgtMmU4NjZkYzZkOThkXkEyXkFqcGc@._V1_.jpg",
+      "description": "The real life of one of America&apos;s foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+      "content_rating": "PG-13",
+      "duration": "PT2H40M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.3,
+      "rating_count": 131070
+    },
+    {
+      "rank": 130,
+      "title": "Green Book",
+      "url": "https://www.imdb.com/title/tt6966692/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+      "content_rating": "PG-13",
+      "duration": "PT2H10M",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 648629
+    },
+    {
+      "rank": 131,
+      "title": "Taxi Driver",
+      "url": "https://www.imdb.com/title/tt0075314/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_.jpg",
+      "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+      "content_rating": "R",
+      "duration": "PT1H54M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 991181
+    },
+    {
+      "rank": 132,
+      "title": "The Truman Show",
+      "url": "https://www.imdb.com/title/tt0120382/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_.jpg",
+      "description": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+      "content_rating": "PG",
+      "duration": "PT1H43M",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 1305972
+    },
+    {
+      "rank": 133,
+      "title": "Batman Begins",
+      "url": "https://www.imdb.com/title/tt0372784/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_.jpg",
+      "description": "After witnessing his parents&apos; death, billionaire Bruce Wayne learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+      "content_rating": "PG-13",
+      "duration": "PT2H20M",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 1663983
+    },
+    {
+      "rank": 134,
+      "title": "Per qualche dollaro in più",
+      "url": "https://www.imdb.com/title/tt0059578/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_.jpg",
+      "description": "Two bounty killers with similar intentions but different motivations team up to take down a psychotic Mexican outlaw before he and his gang can carry out an audacious bank robbery.",
+      "content_rating": "R",
+      "duration": "PT2H12M",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.2,
+      "rating_count": 292189
+    },
+    {
+      "rank": 135,
+      "title": "Judgment at Nuremberg",
+      "url": "https://www.imdb.com/title/tt0055031/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+      "description": "Fictionalized depiction of the 1947 Judges&apos; Trial, the third of 12 trials of Nazi war criminals conducted by the American occupying forces in Nuremberg, Germany, in which former judges of Nazi Germany were tried for their actions.",
+      "content_rating": "Approved",
+      "duration": "PT2H59M",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "rating": 8.3,
+      "rating_count": 93083
+    },
+    {
+      "rank": 136,
+      "title": "Shutter Island",
+      "url": "https://www.imdb.com/title/tt1130884/",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_.jpg",
+      "description": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+      "content_rating": "R",
+      "duration": "PT2H18M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "rating_count": 1571499
+    },
+    {
+      "rank": 137,
+      "title": "Some Like It Hot",
+      "url": "https://www.imdb.com/title/tt0053291/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_.jpg",
+      "description": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+      "content_rating": "Approved",
+      "duration": "PT2H1M",
+      "genres": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
+      "rating": 8.2,
+      "rating_count": 297984
+    },
+    {
+      "rank": 138,
+      "title": "The Kid",
+      "url": "https://www.imdb.com/title/tt0012349/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_.jpg",
+      "description": "The Tramp cares for an abandoned child, but events put their relationship in jeopardy.",
+      "content_rating": "Passed",
+      "duration": "PT1H8M",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "rating": 8.2,
+      "rating_count": 142620
+    },
+    {
+      "rank": 139,
+      "title": "Jurassic Park",
+      "url": "https://www.imdb.com/title/tt0107290/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+      "description": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone&apos;s lives, including his grandchildren&apos;s, in danger.",
+      "content_rating": "PG-13",
+      "duration": "PT2H7M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.2,
+      "rating_count": 1138686
+    },
+    {
+      "rank": 140,
+      "title": "The Father",
+      "url": "https://www.imdb.com/title/tt10272386/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_.jpg",
+      "description": "A man refuses all assistance from his daughter as he ages. When he tries to understand what is happening around him, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+      "content_rating": "PG-13",
+      "duration": "PT1H37M",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.2,
+      "rating_count": 217756
+    },
+    {
+      "rank": 141,
+      "title": "All About Eve",
+      "url": "https://www.imdb.com/title/tt0042192/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTM4ZjUzOGUtYzdlZi00ZmM5LTk5NTEtMjQxNDVmOTc5NWNlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+      "content_rating": "Approved",
+      "duration": "PT2H18M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 146122
+    },
+    {
+      "rank": 142,
+      "title": "There Will Be Blood",
+      "url": "https://www.imdb.com/title/tt0469494/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+      "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+      "content_rating": "R",
+      "duration": "PT2H38M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 679381
+    },
+    {
+      "rank": 143,
+      "title": "The Sixth Sense",
+      "url": "https://www.imdb.com/title/tt0167404/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_.jpg",
+      "description": "After being shot by a resentful former patient whom he failed to help, a Philadelphia child psychologist seeks redemption by treating a young boy with a disturbing secret.",
+      "content_rating": "PG-13",
+      "duration": "PT1H47M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "rating_count": 1110121
+    },
+    {
+      "rank": 144,
+      "title": "Ran",
+      "url": "https://www.imdb.com/title/tt0089881/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_.jpg",
+      "description": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+      "content_rating": "R",
+      "duration": "PT2H40M",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.2,
+      "rating_count": 146116
+    },
+    {
+      "rank": 145,
+      "title": "Casino",
+      "url": "https://www.imdb.com/title/tt0112641/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_.jpg",
+      "description": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "content_rating": "R",
+      "duration": "PT2H58M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 599407
+    },
+    {
+      "rank": 146,
+      "title": "Top Gun: Maverick",
+      "url": "https://www.imdb.com/title/tt1745960/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_.jpg",
+      "description": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+      "content_rating": "PG-13",
+      "duration": "PT2H10M",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 797110
+    },
+    {
+      "rank": 147,
+      "title": "No Country for Old Men",
+      "url": "https://www.imdb.com/title/tt0477348/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+      "description": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
+      "content_rating": "R",
+      "duration": "PT2H2M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "rating_count": 1140189
+    },
+    {
+      "rank": 148,
+      "title": "The Thing",
+      "url": "https://www.imdb.com/title/tt0084787/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_.jpg",
+      "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "content_rating": "R",
+      "duration": "PT1H49M",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.2,
+      "rating_count": 505219
+    },
+    {
+      "rank": 149,
+      "title": "Unforgiven",
+      "url": "https://www.imdb.com/title/tt0105695/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Retired Old West gunslinger Will Munny reluctantly takes on one last job to avenge an injustice with the help of his old partner and a young would-be gunman calling himself &quot;The Schofield Kid&quot;.",
+      "content_rating": "R",
+      "duration": "PT2H10M",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.2,
+      "rating_count": 458390
+    },
+    {
+      "rank": 150,
+      "title": "El laberinto del fauno",
+      "url": "https://www.imdb.com/title/tt0457430/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_.jpg",
+      "description": "In 1944 Spain, a girl is sent to live with her ruthless stepfather. During the night, she meets a fairy who takes her to an old faun. He tells her she&apos;s a princess, but must prove her royalty by surviving three gruesome tasks.",
+      "content_rating": "R",
+      "duration": "PT1H58M",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "War"
+      ],
+      "rating": 8.2,
+      "rating_count": 730020
+    },
+    {
+      "rank": 151,
+      "title": "Kill Bill: Vol. 1",
+      "url": "https://www.imdb.com/title/tt0266697/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_.jpg",
+      "description": "After waking from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+      "content_rating": "R",
+      "duration": "PT1H51M",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "rating_count": 1263429
+    },
+    {
+      "rank": 152,
+      "title": "A Beautiful Mind",
+      "url": "https://www.imdb.com/title/tt0268978/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzljZTk5ZDgtZTQ1Zi00NTM4LThlOGUtZDk2MGM4NDQ4NWQyXkEyXkFqcGc@._V1_.jpg",
+      "description": "A mathematical genius, John Nash made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a harrowing journey of self-discovery.",
+      "content_rating": "PG-13",
+      "duration": "PT2H15M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.2,
+      "rating_count": 1030193
+    },
+    {
+      "rank": 153,
+      "title": "Prisoners",
+      "url": "https://www.imdb.com/title/tt1392214/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+      "description": "A desperate father takes the law into his own hands after police fail to find two kidnapped girls.",
+      "content_rating": "R",
+      "duration": "PT2H33M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.2,
+      "rating_count": 887863
+    },
+    {
+      "rank": 154,
+      "title": "The Treasure of the Sierra Madre",
+      "url": "https://www.imdb.com/title/tt0040897/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_.jpg",
+      "description": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+      "content_rating": "Approved",
+      "duration": "PT2H6M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.2,
+      "rating_count": 138610
+    },
+    {
+      "rank": 155,
+      "title": "Yôjinbô",
+      "url": "https://www.imdb.com/title/tt0055630/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_.jpg",
+      "description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+      "content_rating": "Not Rated",
+      "duration": "PT1H50M",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "rating_count": 139409
+    },
+    {
+      "rank": 156,
+      "title": "La meglio gioventù",
+      "url": "https://www.imdb.com/title/tt0346336/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzcxMTE2YjUtMzIyMy00NDNjLWE3ZWYtODQzYmNhNDVhNDZmXkEyXkFqcGc@._V1_.jpg",
+      "description": "An Italian epic that follows the lives of two brothers from the 1960s to the 2000s.",
+      "content_rating": "R",
+      "duration": "PT6H14M",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.4,
+      "rating_count": 25857
+    },
+    {
+      "rank": 157,
+      "title": "Finding Nemo",
+      "url": "https://www.imdb.com/title/tt0266543/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_.jpg",
+      "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "content_rating": "G",
+      "duration": "PT1H40M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.2,
+      "rating_count": 1172354
+    },
+    {
+      "rank": 158,
+      "title": "Hauru no ugoku shiro",
+      "url": "https://www.imdb.com/title/tt0347149/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_.jpg",
+      "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+      "content_rating": "PG",
+      "duration": "PT1H59M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "rating": 8.2,
+      "rating_count": 490974
+    },
+    {
+      "rank": 159,
+      "title": "The Great Escape",
+      "url": "https://www.imdb.com/title/tt0057115/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_.jpg",
+      "description": "Allied officers in a German prisoner of war camp during World War II make a daring plan for a mass escape by hundreds of POWs hoping to draw German personnel and resources away from combat operations.",
+      "content_rating": "Approved",
+      "duration": "PT2H52M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "rating_count": 271203
+    },
+    {
+      "rank": 160,
+      "title": "Monty Python and the Holy Grail",
+      "url": "https://www.imdb.com/title/tt0071853/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWY4YmUzZmUtMzQ0ZS00N2Y2LWJlODQtN2IwMDc1MWQwMmU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+      "content_rating": "PG",
+      "duration": "PT1H31M",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 8.2,
+      "rating_count": 592348
+    },
+    {
+      "rank": 161,
+      "title": "The Elephant Man",
+      "url": "https://www.imdb.com/title/tt0080678/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGE3MDZhNmMtMmUxZS00MDJmLTgxYmQtOGU4ODU0Y2JmNDI1XkEyXkFqcGc@._V1_.jpg",
+      "description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+      "content_rating": "PG",
+      "duration": "PT2H4M",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 275488
+    },
+    {
+      "rank": 162,
+      "title": "Klaus",
+      "url": "https://www.imdb.com/title/tt4729430/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg&apos;s new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+      "content_rating": "PG",
+      "duration": "PT1H36M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.2,
+      "rating_count": 218370
+    },
+    {
+      "rank": 163,
+      "title": "Dial M for Murder",
+      "url": "https://www.imdb.com/title/tt0046912/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmYzNDgzYjgtNmU3Ny00YzUxLWE3OWUtMjIxZmNkYTVhNDZmXkEyXkFqcGc@._V1_.jpg",
+      "description": "A London playboy plots the perfect murder of his rich, unfaithful Wife.",
+      "content_rating": "PG",
+      "duration": "PT1H45M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.2,
+      "rating_count": 199856
+    },
+    {
+      "rank": 164,
+      "title": "Gone with the Wind",
+      "url": "https://www.imdb.com/title/tt0031381/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmYxZTE3YzMtYmE2Yy00NmFlLTkzYTAtYTAzN2IzNDFkN2E0XkEyXkFqcGc@._V1_.jpg",
+      "description": "A sheltered and manipulative Southern belle and a roguish profiteer face off in a turbulent romance as the society around them crumbles with the end of slavery and is rebuilt during the Civil War and Reconstruction periods.",
+      "content_rating": "G",
+      "duration": "PT3H58M",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "rating": 8.2,
+      "rating_count": 349374
+    },
+    {
+      "rank": 165,
+      "title": "El secreto de sus ojos",
+      "url": "https://www.imdb.com/title/tt1305806/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_.jpg",
+      "description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases, and for his unreciprocated love with his superior--both of which still haunt him decades later.",
+      "content_rating": "R",
+      "duration": "PT2H9M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "rating": 8.2,
+      "rating_count": 235513
+    },
+    {
+      "rank": 166,
+      "title": "Chinatown",
+      "url": "https://www.imdb.com/title/tt0071315/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+      "content_rating": "R",
+      "duration": "PT2H10M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 368483
+    },
+    {
+      "rank": 167,
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "url": "https://www.imdb.com/title/tt0120735/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_.jpg",
+      "description": "When four small-time criminals lose a rigged poker game against a London kingpin, he gives them one week to settle their enormous debt.",
+      "content_rating": "R",
+      "duration": "PT1H47M",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.1,
+      "rating_count": 639131
+    },
+    {
+      "rank": 168,
+      "title": "Rashômon",
+      "url": "https://www.imdb.com/title/tt0042876/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_.jpg",
+      "description": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai&apos;s ghost and a woodcutter.",
+      "content_rating": "Not Rated",
+      "duration": "PT1H28M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "rating_count": 191508
+    },
+    {
+      "rank": 169,
+      "title": "V for Vendetta",
+      "url": "https://www.imdb.com/title/tt0434409/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+      "description": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of &quot;V&quot;, plots to overthrow the tyrannical government - with the help of a young woman.",
+      "content_rating": "R",
+      "duration": "PT2H12M",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "rating_count": 1223165
+    },
+    {
+      "rank": 170,
+      "title": "Inside Out",
+      "url": "https://www.imdb.com/title/tt2096673/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+      "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+      "content_rating": "PG",
+      "duration": "PT1H35M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.1,
+      "rating_count": 879962
+    },
+    {
+      "rank": 171,
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "url": "https://www.imdb.com/title/tt5027774/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_.jpg",
+      "description": "A mother personally challenges the local authorities to solve her daughter&apos;s murder when they fail to catch the culprit.",
+      "content_rating": "R",
+      "duration": "PT1H55M",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 589042
+    },
+    {
+      "rank": 172,
+      "title": "Catch Me If You Can",
+      "url": "https://www.imdb.com/title/tt0264464/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+      "description": "Barely 17 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+      "content_rating": "PG-13",
+      "duration": "PT2H21M",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 1181928
+    },
+    {
+      "rank": 173,
+      "title": "Trainspotting",
+      "url": "https://www.imdb.com/title/tt0117951/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmVkNGJkMzQtYWQwOS00OTZmLThjODQtZjNjNzllYzRiNTE0XkEyXkFqcGc@._V1_.jpg",
+      "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+      "content_rating": "R",
+      "duration": "PT1H33M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 754908
+    },
+    {
+      "rank": 174,
+      "title": "The Bridge on the River Kwai",
+      "url": "https://www.imdb.com/title/tt0050212/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_.jpg",
+      "description": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+      "content_rating": "PG",
+      "duration": "PT2H41M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.1,
+      "rating_count": 244145
+    },
+    {
+      "rank": 175,
+      "title": "Raging Bull",
+      "url": "https://www.imdb.com/title/tt0081398/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_.jpg",
+      "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+      "content_rating": "R",
+      "duration": "PT2H9M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "rating": 8.1,
+      "rating_count": 399211
+    },
+    {
+      "rank": 176,
+      "title": "The Wild Robot",
+      "url": "https://www.imdb.com/title/tt29623480/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_.jpg",
+      "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island&apos;s animals and cares for an orphaned baby goose.",
+      "content_rating": "PG",
+      "duration": "PT1H42M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "rating": 8.2,
+      "rating_count": 191990
+    },
+    {
+      "rank": 177,
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "url": "https://www.imdb.com/title/tt1201607/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_.jpg",
+      "description": "As the battle between the forces of good and evil in the wizarding world escalates, Harry Potter draws ever closer to his final confrontation with Voldemort.",
+      "content_rating": "PG-13",
+      "duration": "PT2H10M",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": 8.1,
+      "rating_count": 1009485
+    },
+    {
+      "rank": 178,
+      "title": "Fargo",
+      "url": "https://www.imdb.com/title/tt0116282/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_.jpg",
+      "description": "Minnesota car salesman Jerry Lundegaard&apos;s inept crime falls apart due to his and his henchmen&apos;s bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "content_rating": "R",
+      "duration": "PT1H38M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 763067
+    },
+    {
+      "rank": 179,
+      "title": "Warrior",
+      "url": "https://www.imdb.com/title/tt1291584/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg",
+      "description": "The youngest son of an alcoholic former boxer returns home, where he&apos;s trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+      "content_rating": "PG-13",
+      "duration": "PT2H20M",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "rating": 8.1,
+      "rating_count": 518584
+    },
+    {
+      "rank": 180,
+      "title": "Gran Torino",
+      "url": "https://www.imdb.com/title/tt1205489/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+      "description": "After a Hmong teenager tries to steal his prized 1972 Gran Torino, a disgruntled, prejudiced Korean War veteran seeks to redeem both the boy and himself.",
+      "content_rating": "R",
+      "duration": "PT1H56M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 845463
+    },
+    {
+      "rank": 181,
+      "title": "Million Dollar Baby",
+      "url": "https://www.imdb.com/title/tt0405159/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+      "description": "Frankie, an ill-tempered old coach, reluctantly agrees to train aspiring boxer Maggie. Impressed with her determination and talent, he helps her become the best and the two soon form a close bond.",
+      "content_rating": "PG-13",
+      "duration": "PT2H12M",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "rating": 8.1,
+      "rating_count": 751710
+    },
+    {
+      "rank": 182,
+      "title": "Ben-Hur",
+      "url": "https://www.imdb.com/title/tt0052618/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_.jpg",
+      "description": "A Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, but it&apos;s not long before he regains his freedom and comes back for revenge.",
+      "content_rating": "G",
+      "duration": "PT3H32M",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 265630
+    },
+    {
+      "rank": 183,
+      "title": "Dead Poets Society",
+      "url": "https://www.imdb.com/title/tt0097165/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_.jpg",
+      "description": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys&apos; boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+      "content_rating": "PG",
+      "duration": "PT2H8M",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 603786
+    },
+    {
+      "rank": 184,
+      "title": "Mad Max: Fury Road",
+      "url": "https://www.imdb.com/title/tt1392190/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_.jpg",
+      "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.",
+      "content_rating": "R",
+      "duration": "PT2H",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "rating_count": 1176939
+    },
+    {
+      "rank": 185,
+      "title": "Barry Lyndon",
+      "url": "https://www.imdb.com/title/tt0072684/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_.jpg",
+      "description": "An Irish rogue wins the heart of a rich widow and assumes her dead husband&apos;s aristocratic position in 18th-century England.",
+      "content_rating": "PG",
+      "duration": "PT3H5M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.1,
+      "rating_count": 196500
+    },
+    {
+      "rank": 186,
+      "title": "Tonari no Totoro",
+      "url": "https://www.imdb.com/title/tt0096283/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_.jpg",
+      "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+      "content_rating": "G",
+      "duration": "PT1H26M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.1,
+      "rating_count": 414181
+    },
+    {
+      "rank": 187,
+      "title": "Bacheha-ye aseman",
+      "url": "https://www.imdb.com/title/tt0118849/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWZlMjNhNzgtZGRhOS00Y2U5LThjOTctODNjZTI0ZTBiYzBhXkEyXkFqcGc@._V1_.jpg",
+      "description": "After a boy loses his sister&apos;s pair of shoes, he goes on a series of adventures in order to find them. When he can&apos;t, he tries a new way to &quot;win&quot; a new pair.",
+      "content_rating": "PG",
+      "duration": "PT1H29M",
+      "genres": [
+        "Drama",
+        "Family",
+        "Sport"
+      ],
+      "rating": 8.2,
+      "rating_count": 87084
+    },
+    {
+      "rank": 188,
+      "title": "Hacksaw Ridge",
+      "url": "https://www.imdb.com/title/tt2119532/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+      "description": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+      "content_rating": "R",
+      "duration": "PT2H19M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.1,
+      "rating_count": 648404
+    },
+    {
+      "rank": 189,
+      "title": "The Grand Budapest Hotel",
+      "url": "https://www.imdb.com/title/tt2278388/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+      "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel&apos;s glorious years under an exceptional concierge.",
+      "content_rating": "R",
+      "duration": "PT1H39M",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 937142
+    },
+    {
+      "rank": 190,
+      "title": "12 Years a Slave",
+      "url": "https://www.imdb.com/title/tt2024544/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+      "description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+      "content_rating": "R",
+      "duration": "PT2H14M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.1,
+      "rating_count": 770199
+    },
+    {
+      "rank": 191,
+      "title": "Spider-Man: No Way Home",
+      "url": "https://www.imdb.com/title/tt10872600/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg",
+      "description": "With Spider-Man&apos;s identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+      "content_rating": "PG-13",
+      "duration": "PT2H28M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.2,
+      "rating_count": 970275
+    },
+    {
+      "rank": 192,
+      "title": "Before Sunrise",
+      "url": "https://www.imdb.com/title/tt0112471/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDZhZmI1ZTUtYWI3NC00NTMwLTk3NWMtNDc0OGNjM2I0ZjlmXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+      "content_rating": "R",
+      "duration": "PT1H41M",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.1,
+      "rating_count": 364105
+    },
+    {
+      "rank": 193,
+      "title": "Blade Runner",
+      "url": "https://www.imdb.com/title/tt0083658/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_.jpg",
+      "description": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+      "content_rating": "R",
+      "duration": "PT1H57M",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "rating_count": 860939
+    },
+    {
+      "rank": 194,
+      "title": "Salinui chueok",
+      "url": "https://www.imdb.com/title/tt0353969/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_.jpg",
+      "description": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H12M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "rating_count": 248367
+    },
+    {
+      "rank": 195,
+      "title": "Gone Girl",
+      "url": "https://www.imdb.com/title/tt2267998/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
+      "description": "The husband of a missing woman becomes the chief suspect in her disappearance.",
+      "content_rating": "R",
+      "duration": "PT2H29M",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 1133266
+    },
+    {
+      "rank": 196,
+      "title": "Ratatouille",
+      "url": "https://www.imdb.com/title/tt0382932/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+      "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+      "content_rating": "G",
+      "duration": "PT1H51M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.1,
+      "rating_count": 900691
+    },
+    {
+      "rank": 197,
+      "title": "How to Train Your Dragon",
+      "url": "https://www.imdb.com/title/tt0892769/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+      "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+      "content_rating": "PG",
+      "duration": "PT1H38M",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.1,
+      "rating_count": 862490
+    },
+    {
+      "rank": 198,
+      "title": "Monsters, Inc.",
+      "url": "https://www.imdb.com/title/tt0198781/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+      "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+      "content_rating": "G",
+      "duration": "PT1H32M",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.1,
+      "rating_count": 1039774
+    },
+    {
+      "rank": 199,
+      "title": "In the Name of the Father",
+      "url": "https://www.imdb.com/title/tt0107207/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGZiZDVjNzYtZWM4ZC00MzVkLThhNDEtMDJlOTBhYzVjMmNhXkEyXkFqcGc@._V1_.jpg",
+      "description": "An Irish man&apos;s coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. Meanwhile, a British lawyer fights to clear their names and free them.",
+      "content_rating": "R",
+      "duration": "PT2H13M",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 197995
+    },
+    {
+      "rank": 200,
+      "title": "Jaws",
+      "url": "https://www.imdb.com/title/tt0073195/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_.jpg",
+      "description": "When a massive killer shark unleashes chaos on a beach community off Long Island, it&apos;s up to the local police chief, a marine biologist, and an old seafarer to hunt the beast down.",
+      "content_rating": "PG",
+      "duration": "PT2H4M",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 710168
+    },
+    {
+      "rank": 201,
+      "title": "Relatos salvajes",
+      "url": "https://www.imdb.com/title/tt3011894/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_.jpg",
+      "description": "Six short stories that explore the extremities of human behavior involving people in distress.",
+      "content_rating": "R",
+      "duration": "PT2H2M",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 231326
+    },
+    {
+      "rank": 202,
+      "title": "The Gold Rush",
+      "url": "https://www.imdb.com/title/tt0015864/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_.jpg",
+      "description": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+      "content_rating": "Approved",
+      "duration": "PT1H35M",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 125471
+    },
+    {
+      "rank": 203,
+      "title": "Ford v Ferrari",
+      "url": "https://www.imdb.com/title/tt1950186/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTBjNTEyNjYtYjdkNi00YzE5LTljYzUtZjVlYmYwZmJmZWYxXkEyXkFqcGc@._V1_.jpg",
+      "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+      "content_rating": "PG-13",
+      "duration": "PT2H32M",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 537309
+    },
+    {
+      "rank": 204,
+      "title": "Sherlock Jr.",
+      "url": "https://www.imdb.com/title/tt0015324/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_.jpg",
+      "description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend&apos;s father&apos;s pocketwatch.",
+      "content_rating": "Passed",
+      "duration": "PT45M",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 8.1,
+      "rating_count": 63209
+    },
+    {
+      "rank": 205,
+      "title": "Mary and Max.",
+      "url": "https://www.imdb.com/title/tt0978762/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzY2Mjc4NjMtNGY4Mi00NzM5LTk3ZTQtN2VkNzVkMzRmM2Y2XkEyXkFqcGc@._V1_.jpg",
+      "description": "In 1976 Melbourne, a lonely 8-year-old girl strikes up a correspondence with an unlikely pen pal: a severely obese 44-year-old New Yorker with Asperger&apos;s syndrome.",
+      "content_rating": "Not Rated",
+      "duration": "PT1H32M",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 197897
+    },
+    {
+      "rank": 206,
+      "title": "The Deer Hunter",
+      "url": "https://www.imdb.com/title/tt0077416/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGI4YmVhMzMtMWExMS00MGZiLTg2MmItM2I2MWZjODAyM2U5XkEyXkFqcGc@._V1_.jpg",
+      "description": "The lives of a group of friends are forever changed by the Vietnam War.",
+      "content_rating": "R",
+      "duration": "PT3H3M",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.1,
+      "rating_count": 378681
+    },
+    {
+      "rank": 207,
+      "title": "Le salaire de la peur",
+      "url": "https://www.imdb.com/title/tt0046268/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDdhOGMwODQtZGM2MS00NGQxLWEyZDMtOTkzMjFjYjI3ZmM2XkEyXkFqcGc@._V1_.jpg",
+      "description": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H36M",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 71457
+    },
+    {
+      "rank": 208,
+      "title": "The General",
+      "url": "https://www.imdb.com/title/tt0017925/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_.jpg",
+      "description": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through ene...",
+      "content_rating": "Passed",
+      "duration": "PT1H18M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.1,
+      "rating_count": 103784
+    },
+    {
+      "rank": 209,
+      "title": "Mr. Smith Goes to Washington",
+      "url": "https://www.imdb.com/title/tt0031679/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_.jpg",
+      "description": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his c...",
+      "content_rating": "Approved",
+      "duration": "PT2H9M",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 127090
+    },
+    {
+      "rank": 210,
+      "title": "On the Waterfront",
+      "url": "https://www.imdb.com/title/tt0047296/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate&apos;s victims.",
+      "content_rating": "Approved",
+      "duration": "PT1H48M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 174109
+    },
+    {
+      "rank": 211,
+      "title": "Logan",
+      "url": "https://www.imdb.com/title/tt3315342/",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_.jpg",
+      "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+      "content_rating": "R",
+      "duration": "PT2H17M",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "rating_count": 900279
+    },
+    {
+      "rank": 212,
+      "title": "Rocky",
+      "url": "https://www.imdb.com/title/tt0075148/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_.jpg",
+      "description": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "content_rating": "PG",
+      "duration": "PT2H",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "rating": 8.1,
+      "rating_count": 667818
+    },
+    {
+      "rank": 213,
+      "title": "Smultronstället",
+      "url": "https://www.imdb.com/title/tt0050986/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_.jpg",
+      "description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+      "content_rating": "Not Rated",
+      "duration": "PT1H32M",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.1,
+      "rating_count": 121745
+    },
+    {
+      "rank": 214,
+      "title": "Tôkyô monogatari",
+      "url": "https://www.imdb.com/title/tt0046438/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_.jpg",
+      "description": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H17M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 75146
+    },
+    {
+      "rank": 215,
+      "title": "The Third Man",
+      "url": "https://www.imdb.com/title/tt0041959/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGVjMTMxZTQtMmVlNy00YmI0LWJjMDUtYTgyZWU1Njg5ZGRiXkEyXkFqcGc@._V1_.jpg",
+      "description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+      "content_rating": "Approved",
+      "duration": "PT1H44M",
+      "genres": [
+        "Drama",
+        "Film-Noir",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "rating_count": 191253
+    },
+    {
+      "rank": 216,
+      "title": "Spotlight",
+      "url": "https://www.imdb.com/title/tt1895587/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
+      "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+      "content_rating": "R",
+      "duration": "PT2H9M",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 523167
+    },
+    {
+      "rank": 217,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "url": "https://www.imdb.com/title/tt0325980/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_.jpg",
+      "description": "Blacksmith Will Turner teams up with eccentric pirate &quot;Captain&quot; Jack Sparrow to save Elizabeth Swann, the governor&apos;s daughter and his love, from Jack&apos;s former pirate allies, who are now undead.",
+      "content_rating": "PG-13",
+      "duration": "PT2H23M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.1,
+      "rating_count": 1281169
+    },
+    {
+      "rank": 218,
+      "title": "Maharaja",
+      "url": "https://www.imdb.com/title/tt26548265/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A barber seeks vengeance after his home is burglarized, cryptically telling police his &quot;lakshmi&quot; has been taken, leaving them uncertain if it&apos;s a person or object. His quest to recover the elusive &quot;lakshmi&quot; unfolds.",
+      "content_rating": null,
+      "duration": "PT2H21M",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "rating_count": 72686
+    },
+    {
+      "rank": 219,
+      "title": "The Terminator",
+      "url": "https://www.imdb.com/title/tt0088247/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_.jpg",
+      "description": "A cyborg assassin from the future attempts to find and kill a young woman who is destined to give birth to a warrior that will lead a resistance to save humankind from extinction.",
+      "content_rating": "R",
+      "duration": "PT1H47M",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "rating_count": 974569
+    },
+    {
+      "rank": 220,
+      "title": "The Big Lebowski",
+      "url": "https://www.imdb.com/title/tt0118715/",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2E3OWQ5OWYtYTRkMC00NjVjLWIzZDQtNmRmM2ZiYTIyYmYxXkEyXkFqcGc@._V1_.jpg",
+      "description": "Jeff &quot;The Dude&quot; Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+      "content_rating": "R",
+      "duration": "PT1H57M",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.1,
+      "rating_count": 897600
+    },
+    {
+      "rank": 221,
+      "title": "La haine",
+      "url": "https://www.imdb.com/title/tt0113247/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_.jpg",
+      "description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+      "content_rating": "Not Rated",
+      "duration": "PT1H38M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 215546
+    },
+    {
+      "rank": 222,
+      "title": "Det sjunde inseglet",
+      "url": "https://www.imdb.com/title/tt0050976/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_.jpg",
+      "description": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+      "content_rating": "Not Rated",
+      "duration": "PT1H36M",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.1,
+      "rating_count": 210880
+    },
+    {
+      "rank": 223,
+      "title": "Room",
+      "url": "https://www.imdb.com/title/tt3170832/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
+      "description": "A little boy is held captive in a room with his mother since his birth, so he has never known the world outside.",
+      "content_rating": "R",
+      "duration": "PT1H58M",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 471357
+    },
+    {
+      "rank": 224,
+      "title": "Jai Bhim",
+      "url": "https://www.imdb.com/title/tt15097216/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_.jpg",
+      "description": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+      "content_rating": "Approved",
+      "duration": "PT2H44M",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "rating_count": 228368
+    },
+    {
+      "rank": 225,
+      "title": "Hotel Rwanda",
+      "url": "https://www.imdb.com/title/tt0395169/",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2FmMWRmZmQtN2IzMS00OGVmLWFmNjktMTM0YWQzODcwYTEwXkEyXkFqcGc@._V1_.jpg",
+      "description": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+      "content_rating": "PG-13",
+      "duration": "PT2H1M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.1,
+      "rating_count": 386109
+    },
+    {
+      "rank": 226,
+      "title": "Platoon",
+      "url": "https://www.imdb.com/title/tt0091763/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+      "content_rating": "R",
+      "duration": "PT2H",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.1,
+      "rating_count": 460401
+    },
+    {
+      "rank": 227,
+      "title": "The Best Years of Our Lives",
+      "url": "https://www.imdb.com/title/tt0036868/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTgxMzUyODQtMDJmZC00ZGMyLWI3MzAtZTYwYjBjZjFmMzIxXkEyXkFqcGc@._V1_.jpg",
+      "description": "Three World War II veterans, two of them traumatized or disabled, return home to the American Midwest to discover that they and their families have been irreparably changed.",
+      "content_rating": "Approved",
+      "duration": "PT2H50M",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "rating": 8.1,
+      "rating_count": 75543
+    },
+    {
+      "rank": 228,
+      "title": "Before Sunset",
+      "url": "https://www.imdb.com/title/tt0381681/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+      "description": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse&apos;s book tour.",
+      "content_rating": "R",
+      "duration": "PT1H20M",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.1,
+      "rating_count": 305654
+    },
+    {
+      "rank": 229,
+      "title": "The Sound of Music",
+      "url": "https://www.imdb.com/title/tt0059742/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+      "content_rating": "G",
+      "duration": "PT2H52M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "rating": 8.1,
+      "rating_count": 280361
+    },
+    {
+      "rank": 230,
+      "title": "The Exorcist",
+      "url": "https://www.imdb.com/title/tt0070047/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_.jpg",
+      "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+      "content_rating": "R",
+      "duration": "PT2H2M",
+      "genres": [
+        "Horror"
+      ],
+      "rating": 8.1,
+      "rating_count": 483127
+    },
+    {
+      "rank": 231,
+      "title": "The Incredibles",
+      "url": "https://www.imdb.com/title/tt0317705/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+      "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+      "content_rating": "PG",
+      "duration": "PT1H55M",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8,
+      "rating_count": 867083
+    },
+    {
+      "rank": 232,
+      "title": "Hachi: A Dog&apos;s Tale",
+      "url": "https://www.imdb.com/title/tt1028532/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTU5NjYyYTgtZGQ3My00MzRhLThjNGYtZmVjN2JjYjhkMjhhXkEyXkFqcGc@._V1_.jpg",
+      "description": "Professor Wilson discovers a lost Akita puppy on his way home. Despite objections from his wife, Hachi endears himself to the family and grows to be Parker&apos;s loyal companion. As their bond grows deeper, a beautiful relationship un...",
+      "content_rating": "G",
+      "duration": "PT1H33M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "rating": 8.1,
+      "rating_count": 332082
+    },
+    {
+      "rank": 233,
+      "title": "Rush",
+      "url": "https://www.imdb.com/title/tt1979320/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_.jpg",
+      "description": "James Hunt and Niki Lauda, two extremely skilled Formula One racers, have an intense rivalry with each other. However, it is their enmity that pushes them to their limits.",
+      "content_rating": "R",
+      "duration": "PT2H3M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "rating": 8.1,
+      "rating_count": 542276
+    },
+    {
+      "rank": 234,
+      "title": "The Wizard of Oz",
+      "url": "https://www.imdb.com/title/tt0032138/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_.jpg",
+      "description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others...",
+      "content_rating": "G",
+      "duration": "PT1H42M",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": 8.1,
+      "rating_count": 454766
+    },
+    {
+      "rank": 235,
+      "title": "La passion de Jeanne d&apos;Arc",
+      "url": "https://www.imdb.com/title/tt0019254/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_.jpg",
+      "description": "In 1431, Jeanne d&apos;Arc is placed on trial on charges of heresy, and the ecclesiastical jurists attempt to force her to recant her claims of holy visions.",
+      "content_rating": "Passed",
+      "duration": "PT1H54M",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.1,
+      "rating_count": 66023
+    },
+    {
+      "rank": 236,
+      "title": "Stand by Me",
+      "url": "https://www.imdb.com/title/tt0092005/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_.jpg",
+      "description": "A writer recounts a childhood journey with his friends to find the body of a missing boy.",
+      "content_rating": "R",
+      "duration": "PT1H29M",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 470006
+    },
+    {
+      "rank": 237,
+      "title": "Koe no katachi",
+      "url": "https://www.imdb.com/title/tt5323662/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A deaf girl, Shoko, is bullied by the popular Shoya. As Shoya continues to bully Shoko, the class turns its back on him. Shoko transfers and Shoya grows up as an outcast. Alone and depressed, the regretful Shoya finds Shoko to mak...",
+      "content_rating": "Not Rated",
+      "duration": "PT2H10M",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 126253
+    },
+    {
+      "rank": 238,
+      "title": "The Iron Giant",
+      "url": "https://www.imdb.com/title/tt0129167/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+      "content_rating": "PG",
+      "duration": "PT1H26M",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.1,
+      "rating_count": 249062
+    },
+    {
+      "rank": 239,
+      "title": "Babam ve Oglum",
+      "url": "https://www.imdb.com/title/tt0476735/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDE3MTBkNmQtNGFjMC00YTcwLWExY2ItN2MyMGZkNWJlMmFmXkEyXkFqcGc@._V1_.jpg",
+      "description": "The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",
+      "content_rating": "Not Rated",
+      "duration": "PT1H52M",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "rating": 8.2,
+      "rating_count": 98376
+    },
+    {
+      "rank": 240,
+      "title": "Network",
+      "url": "https://www.imdb.com/title/tt0074958/",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_.jpg",
+      "description": "A television network cynically exploits a deranged former anchor&apos;s ravings and revelations about mass media for its own profit, but finds that his message may be difficult to control.",
+      "content_rating": "R",
+      "duration": "PT2H1M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 181392
+    },
+    {
+      "rank": 241,
+      "title": "Ah-ga-ssi",
+      "url": "https://www.imdb.com/title/tt4016934/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_.jpg",
+      "description": "In 1930s Korea, a girl is hired as a handmaiden to a Japanese heiress who lives a secluded life on a countryside estate. But the maid has a secret: She is a pickpocket recruited by a swindler to help seduce the Lady and steal her ...",
+      "content_rating": "Not Rated",
+      "duration": "PT2H25M",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 192036
+    },
+    {
+      "rank": 242,
+      "title": "La battaglia di Algeri",
+      "url": "https://www.imdb.com/title/tt0058946/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_.jpg",
+      "description": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H1M",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.1,
+      "rating_count": 72275
+    },
+    {
+      "rank": 243,
+      "title": "The Grapes of Wrath",
+      "url": "https://www.imdb.com/title/tt0032551/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDgzZjk3OGYtNWI2Ny00MDg3LTgwYWEtNjI1ODAxNjA3ZmFlXkEyXkFqcGc@._V1_.jpg",
+      "description": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+      "content_rating": "Approved",
+      "duration": "PT2H9M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 106165
+    },
+    {
+      "rank": 244,
+      "title": "To Be or Not to Be",
+      "url": "https://www.imdb.com/title/tt0035446/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA5OTRkZGUtNDhhOS00OThmLTgwZWYtZGZkM2M4YjZhNzc5XkEyXkFqcGc@._V1_.jpg",
+      "description": "During the German occupation of Poland, an acting troupe becomes embroiled in a Polish soldier&apos;s efforts to track down a German spy.",
+      "content_rating": "Approved",
+      "duration": "PT1H39M",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "War"
+      ],
+      "rating": 8.1,
+      "rating_count": 47906
+    },
+    {
+      "rank": 245,
+      "title": "Into the Wild",
+      "url": "https://www.imdb.com/title/tt0758758/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTgwZTJhNWMtNzVjMy00YzQzLWI4MTAtYmJhOGQ5ZmQ3MDM0XkEyXkFqcGc@._V1_.jpg",
+      "description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness.",
+      "content_rating": "R",
+      "duration": "PT2H28M",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8,
+      "rating_count": 684000
+    },
+    {
+      "rank": 246,
+      "title": "The Help",
+      "url": "https://www.imdb.com/title/tt1454029/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+      "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids&apos; point of view on the white families for which they work, and the hardships they go through on a daily b...",
+      "content_rating": "PG-13",
+      "duration": "PT2H26M",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "rating_count": 517426
+    },
+    {
+      "rank": 247,
+      "title": "Groundhog Day",
+      "url": "https://www.imdb.com/title/tt0107048/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWE3MjQ3ZDAtNDQ2MC00YjBjLTk0ZWYtNjQ0YzQ4YWE3YTEyXkEyXkFqcGc@._V1_.jpg",
+      "description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day.",
+      "content_rating": "PG",
+      "duration": "PT1H41M",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8,
+      "rating_count": 723092
+    },
+    {
+      "rank": 248,
+      "title": "Drishyam",
+      "url": "https://www.imdb.com/title/tt4430212/",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2NmMGFjYTYtNWEwNS00MTM4LWE2ZTktNzZjMTE0OTQyNjFiXkEyXkFqcGc@._V1_.jpg",
+      "description": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H43M",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.2,
+      "rating_count": 103238
+    },
+    {
+      "rank": 249,
+      "title": "Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen",
+      "url": "https://www.imdb.com/title/tt11032374/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzEzYjhkYTctMWNmZS00MTc5LWI4OWUtZjFkNzNkYTNkMTJlXkEyXkFqcGc@._V1_.jpg",
+      "description": "After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado&apos;s journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.",
+      "content_rating": "TV-MA",
+      "duration": "PT1H57M",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.2,
+      "rating_count": 87925
+    },
+    {
+      "rank": 250,
+      "title": "Andhadhun",
+      "url": "https://www.imdb.com/title/tt8108198/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjZiYTNkNjUtNzI3MC00YWJmLTljM2QtNTI3MTU3ODYzNWFjXkEyXkFqcGc@._V1_.jpg",
+      "description": "A series of mysterious events change the life of a blind pianist, who must now report a crime that he should technically know nothing of.",
+      "content_rating": "Not Rated",
+      "duration": "PT2H19M",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "rating_count": 110529
+    }
+  ]
+}

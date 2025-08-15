@@ -52,6 +52,12 @@
         "subtitle": "Season-by-season league tables from 1992/93 to 2024/2025",
         "updated_at": "August 14, 2025 10:07 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/premier-league-table-all-seasons.json"
+      },
+      {
+        "title": "IMDb Top 250 Movies",
+        "subtitle": "A curated list of the highest-rated films from IMDb's Top 250",
+        "updated_at": "August 15, 2025 07:41 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/imdb-top-movies.json"
       }
     ]
   },
@@ -63,6 +69,17 @@
         "subtitle": "Popularity rankings of programming languages as of August 2025",
         "updated_at": "August 14, 2025 10:07 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/popular_programming_languages.json"
+      }
+    ]
+  },
+  {
+    "category": "Geography & Environment",
+    "datasets": [
+      {
+        "title": "Longest Rivers in the World",
+        "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
+        "updated_at": "August 15, 2025 07:57 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/longest-rivers.json"
       }
     ]
   }
