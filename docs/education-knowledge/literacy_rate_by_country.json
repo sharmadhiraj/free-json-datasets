@@ -1,0 +1,1295 @@
+{
+  "title": "Literacy Rate by Country (2025)",
+  "subtitle": "Percentage of adults (15+) who can read and write a simple statement in everyday life, 2025",
+  "updated_at": "August 20, 2025 09:42 AM UTC",
+  "data": [
+    {
+      "country": "Ukraine",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "100%",
+      "literacy_rate_female": "100%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Uzbekistan",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "100%",
+      "literacy_rate_female": "100%",
+      "data_year": "2022"
+    },
+    {
+      "country": "North Korea",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "100%",
+      "literacy_rate_female": "100%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Kazakhstan",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "99.8%",
+      "literacy_rate_female": "99.7%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Azerbaijan",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "99.9%",
+      "literacy_rate_female": "99.7%",
+      "data_year": "2023"
+    },
+    {
+      "country": "Finland",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Norway",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Georgia",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "99.6%",
+      "literacy_rate_female": "99.7%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Luxembourg",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Guam",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "99.8%",
+      "literacy_rate_female": "99.7%",
+      "data_year": "2000"
+    },
+    {
+      "country": "Andorra",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "100%",
+      "literacy_rate_female": "100%",
+      "data_year": "2016"
+    },
+    {
+      "country": "Greenland",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "100%",
+      "literacy_rate_female": "100%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Liechtenstein",
+      "total_population_literacy_rate": "100%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Belarus",
+      "total_population_literacy_rate": "99.9%",
+      "literacy_rate_male": "99.9%",
+      "literacy_rate_female": "99.9%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Latvia",
+      "total_population_literacy_rate": "99.9%",
+      "literacy_rate_male": "99.9%",
+      "literacy_rate_female": "99.9%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Estonia",
+      "total_population_literacy_rate": "99.9%",
+      "literacy_rate_male": "99.9%",
+      "literacy_rate_female": "99.9%",
+      "data_year": "2021"
+    },
+    {
+      "country": "San Marino",
+      "total_population_literacy_rate": "99.9%",
+      "literacy_rate_male": "99.9%",
+      "literacy_rate_female": "99.9%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Poland",
+      "total_population_literacy_rate": "99.8%",
+      "literacy_rate_male": "99.8%",
+      "literacy_rate_female": "99.8%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Tajikistan",
+      "total_population_literacy_rate": "99.8%",
+      "literacy_rate_male": "99.8%",
+      "literacy_rate_female": "99.7%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Armenia",
+      "total_population_literacy_rate": "99.8%",
+      "literacy_rate_male": "99.8%",
+      "literacy_rate_female": "99.7%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Lithuania",
+      "total_population_literacy_rate": "99.8%",
+      "literacy_rate_male": "99.8%",
+      "literacy_rate_female": "99.8%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Russia",
+      "total_population_literacy_rate": "99.7%",
+      "literacy_rate_male": "99.7%",
+      "literacy_rate_female": "99.7%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Cuba",
+      "total_population_literacy_rate": "99.7%",
+      "literacy_rate_male": "99.6%",
+      "literacy_rate_female": "99.7%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Turkmenistan",
+      "total_population_literacy_rate": "99.7%",
+      "literacy_rate_male": "99.8%",
+      "literacy_rate_female": "99.6%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Slovenia",
+      "total_population_literacy_rate": "99.7%",
+      "literacy_rate_male": "99.7%",
+      "literacy_rate_female": "99.7%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "total_population_literacy_rate": "99.6%",
+      "literacy_rate_male": "99.7%",
+      "literacy_rate_female": "99.5%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Moldova",
+      "total_population_literacy_rate": "99.6%",
+      "literacy_rate_male": "99.7%",
+      "literacy_rate_female": "99.5%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Barbados",
+      "total_population_literacy_rate": "99.6%",
+      "literacy_rate_male": "99.6%",
+      "literacy_rate_female": "99.6%",
+      "data_year": "2014"
+    },
+    {
+      "country": "Croatia",
+      "total_population_literacy_rate": "99.4%",
+      "literacy_rate_male": "99.7%",
+      "literacy_rate_female": "99.2%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Cyprus",
+      "total_population_literacy_rate": "99.4%",
+      "literacy_rate_male": "99.6%",
+      "literacy_rate_female": "99.2%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Tonga",
+      "total_population_literacy_rate": "99.4%",
+      "literacy_rate_male": "99.4%",
+      "literacy_rate_female": "99.5%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Italy",
+      "total_population_literacy_rate": "99.2%",
+      "literacy_rate_male": "99.4%",
+      "literacy_rate_female": "99%",
+      "data_year": "2018"
+    },
+    {
+      "country": "Hungary",
+      "total_population_literacy_rate": "99.1%",
+      "literacy_rate_male": "99.1%",
+      "literacy_rate_female": "99.1%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Fiji",
+      "total_population_literacy_rate": "99.1%",
+      "literacy_rate_male": "99.1%",
+      "literacy_rate_female": "99.1%",
+      "data_year": "2018"
+    },
+    {
+      "country": "Samoa",
+      "total_population_literacy_rate": "99.1%",
+      "literacy_rate_male": "99%",
+      "literacy_rate_female": "99.3%",
+      "data_year": "2021"
+    },
+    {
+      "country": "United States",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Japan",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Germany",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "United Kingdom",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Argentina",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "98.9%",
+      "literacy_rate_female": "99.1%",
+      "data_year": "2018"
+    },
+    {
+      "country": "Netherlands",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Sweden",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Czech Republic",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "99%",
+      "literacy_rate_female": "99%",
+      "data_year": "2011"
+    },
+    {
+      "country": "Serbia",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "99.9%",
+      "literacy_rate_female": "99.1%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Ireland",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "New Zealand",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": ""
+    },
+    {
+      "country": "Mongolia",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "99.1%",
+      "literacy_rate_female": "99.2%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Albania",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "98.7%",
+      "literacy_rate_female": "98.2%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Montenegro",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "99.4%",
+      "literacy_rate_female": "98.5%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "total_population_literacy_rate": "99%",
+      "literacy_rate_male": "98.4%",
+      "literacy_rate_female": "99.4%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Romania",
+      "total_population_literacy_rate": "98.9%",
+      "literacy_rate_male": "99.1%",
+      "literacy_rate_female": "98.7%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Cayman Islands",
+      "total_population_literacy_rate": "98.9%",
+      "literacy_rate_male": "98.7%",
+      "literacy_rate_female": "99%",
+      "data_year": "2021"
+    },
+    {
+      "country": "South Korea",
+      "total_population_literacy_rate": "98.8%",
+      "literacy_rate_male": "99.2%",
+      "literacy_rate_female": "98.4%",
+      "data_year": ""
+    },
+    {
+      "country": "Uruguay",
+      "total_population_literacy_rate": "98.8%",
+      "literacy_rate_male": "98.5%",
+      "literacy_rate_female": "99%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Spain",
+      "total_population_literacy_rate": "98.6%",
+      "literacy_rate_male": "99%",
+      "literacy_rate_female": "98%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Grenada",
+      "total_population_literacy_rate": "98.6%",
+      "literacy_rate_male": "98.6%",
+      "literacy_rate_female": "98.6%",
+      "data_year": "2014"
+    },
+    {
+      "country": "Taiwan",
+      "total_population_literacy_rate": "98.5%",
+      "literacy_rate_male": "99.7%",
+      "literacy_rate_female": "97.3%",
+      "data_year": "2014"
+    },
+    {
+      "country": "Jordan",
+      "total_population_literacy_rate": "98.4%",
+      "literacy_rate_male": "98.7%",
+      "literacy_rate_female": "98.4%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Bulgaria",
+      "total_population_literacy_rate": "98.4%",
+      "literacy_rate_male": "98.7%",
+      "literacy_rate_female": "98.2%",
+      "data_year": "2021"
+    },
+    {
+      "country": "North Macedonia",
+      "total_population_literacy_rate": "98.4%",
+      "literacy_rate_male": "99.1%",
+      "literacy_rate_female": "97.6%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Marshall Islands",
+      "total_population_literacy_rate": "98.3%",
+      "literacy_rate_male": "98.3%",
+      "literacy_rate_female": "98.2%",
+      "data_year": "2011"
+    },
+    {
+      "country": "United Arab Emirates",
+      "total_population_literacy_rate": "98%",
+      "literacy_rate_male": "98.8%",
+      "literacy_rate_female": "97.2%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Palestine",
+      "total_population_literacy_rate": "98%",
+      "literacy_rate_male": "98.8%",
+      "literacy_rate_female": "96.2%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Costa Rica",
+      "total_population_literacy_rate": "98%",
+      "literacy_rate_male": "98%",
+      "literacy_rate_female": "98.1%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "total_population_literacy_rate": "98%",
+      "literacy_rate_male": "99.4%",
+      "literacy_rate_female": "98.1%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Bahrain",
+      "total_population_literacy_rate": "98%",
+      "literacy_rate_male": "99.9%",
+      "literacy_rate_female": "94.9%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "total_population_literacy_rate": "98%",
+      "literacy_rate_male": "99.2%",
+      "literacy_rate_female": "98.7%",
+      "data_year": "2000"
+    },
+    {
+      "country": "Aruba",
+      "total_population_literacy_rate": "98%",
+      "literacy_rate_male": "97.8%",
+      "literacy_rate_female": "97.8%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Greece",
+      "total_population_literacy_rate": "97.9%",
+      "literacy_rate_male": "98.5%",
+      "literacy_rate_female": "97.4%",
+      "data_year": "2018"
+    },
+    {
+      "country": "Maldives",
+      "total_population_literacy_rate": "97.9%",
+      "literacy_rate_male": "97.6%",
+      "literacy_rate_female": "98.4%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Israel",
+      "total_population_literacy_rate": "97.8%",
+      "literacy_rate_male": "98.7%",
+      "literacy_rate_female": "96.8%",
+      "data_year": "2011"
+    },
+    {
+      "country": "Saudi Arabia",
+      "total_population_literacy_rate": "97.6%",
+      "literacy_rate_male": "98.6%",
+      "literacy_rate_female": "96%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Brunei",
+      "total_population_literacy_rate": "97.6%",
+      "literacy_rate_male": "98.3%",
+      "literacy_rate_female": "96.9%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Venezuela",
+      "total_population_literacy_rate": "97.5%",
+      "literacy_rate_male": "97.4%",
+      "literacy_rate_female": "97.7%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Singapore",
+      "total_population_literacy_rate": "97.5%",
+      "literacy_rate_male": "98.9%",
+      "literacy_rate_female": "96.1%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Macau",
+      "total_population_literacy_rate": "97.1%",
+      "literacy_rate_male": "98.5%",
+      "literacy_rate_female": "95.9%",
+      "data_year": "2021"
+    },
+    {
+      "country": "China",
+      "total_population_literacy_rate": "97%",
+      "literacy_rate_male": "98.5%",
+      "literacy_rate_female": "95.2%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Chile",
+      "total_population_literacy_rate": "97%",
+      "literacy_rate_male": "97.1%",
+      "literacy_rate_female": "97%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "total_population_literacy_rate": "97%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": "1980"
+    },
+    {
+      "country": "American Samoa",
+      "total_population_literacy_rate": "97%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": "1980"
+    },
+    {
+      "country": "New Caledonia",
+      "total_population_literacy_rate": "96.9%",
+      "literacy_rate_male": "97.3%",
+      "literacy_rate_female": "96.5%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Turkey",
+      "total_population_literacy_rate": "96.7%",
+      "literacy_rate_male": "99.1%",
+      "literacy_rate_female": "94.4%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Palau",
+      "total_population_literacy_rate": "96.6%",
+      "literacy_rate_male": "96.8%",
+      "literacy_rate_female": "96.3%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Kuwait",
+      "total_population_literacy_rate": "96.5%",
+      "literacy_rate_male": "97.1%",
+      "literacy_rate_female": "95.4%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Philippines",
+      "total_population_literacy_rate": "96.3%",
+      "literacy_rate_male": "95.7%",
+      "literacy_rate_female": "96.9%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Indonesia",
+      "total_population_literacy_rate": "96%",
+      "literacy_rate_male": "97.4%",
+      "literacy_rate_female": "94.6%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Portugal",
+      "total_population_literacy_rate": "95.9%",
+      "literacy_rate_male": "97.8%",
+      "literacy_rate_female": "95.9%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Seychelles",
+      "total_population_literacy_rate": "95.9%",
+      "literacy_rate_male": "95.4%",
+      "literacy_rate_female": "96.4%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Vietnam",
+      "total_population_literacy_rate": "95.8%",
+      "literacy_rate_male": "97%",
+      "literacy_rate_female": "94.6%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Oman",
+      "total_population_literacy_rate": "95.7%",
+      "literacy_rate_male": "97%",
+      "literacy_rate_female": "92.7%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Panama",
+      "total_population_literacy_rate": "95.7%",
+      "literacy_rate_male": "98.8%",
+      "literacy_rate_female": "95.4%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Colombia",
+      "total_population_literacy_rate": "95.6%",
+      "literacy_rate_male": "95.4%",
+      "literacy_rate_female": "95.9%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Dominican Republic",
+      "total_population_literacy_rate": "95.5%",
+      "literacy_rate_male": "95.4%",
+      "literacy_rate_female": "95.6%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "total_population_literacy_rate": "95.3%",
+      "literacy_rate_male": "97.4%",
+      "literacy_rate_female": "93%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Mexico",
+      "total_population_literacy_rate": "95.2%",
+      "literacy_rate_male": "96.1%",
+      "literacy_rate_female": "94.5%",
+      "data_year": "2020"
+    },
+    {
+      "country": "South Africa",
+      "total_population_literacy_rate": "95%",
+      "literacy_rate_male": "95.5%",
+      "literacy_rate_female": "94.5%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Malaysia",
+      "total_population_literacy_rate": "95%",
+      "literacy_rate_male": "96.2%",
+      "literacy_rate_female": "93.6%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Lebanon",
+      "total_population_literacy_rate": "95%",
+      "literacy_rate_male": "96.9%",
+      "literacy_rate_female": "93.3%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Suriname",
+      "total_population_literacy_rate": "95%",
+      "literacy_rate_male": "96.5%",
+      "literacy_rate_female": "93.4%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Malta",
+      "total_population_literacy_rate": "94.9%",
+      "literacy_rate_male": "93.4%",
+      "literacy_rate_female": "96.4%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "total_population_literacy_rate": "94.8%",
+      "literacy_rate_male": "96.5%",
+      "literacy_rate_female": "91.1%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Brazil",
+      "total_population_literacy_rate": "94.7%",
+      "literacy_rate_male": "94.4%",
+      "literacy_rate_female": "94.9%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Peru",
+      "total_population_literacy_rate": "94.5%",
+      "literacy_rate_male": "97%",
+      "literacy_rate_female": "92%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Paraguay",
+      "total_population_literacy_rate": "94.5%",
+      "literacy_rate_male": "94.9%",
+      "literacy_rate_female": "94.2%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Thailand",
+      "total_population_literacy_rate": "94.1%",
+      "literacy_rate_male": "95.5%",
+      "literacy_rate_female": "92.8%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Bolivia",
+      "total_population_literacy_rate": "94%",
+      "literacy_rate_male": "94.9%",
+      "literacy_rate_female": "94%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Ecuador",
+      "total_population_literacy_rate": "93.9%",
+      "literacy_rate_male": "94.9%",
+      "literacy_rate_female": "93.1%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Qatar",
+      "total_population_literacy_rate": "93.5%",
+      "literacy_rate_male": "92.4%",
+      "literacy_rate_female": "94.7%",
+      "data_year": "2017"
+    },
+    {
+      "country": "Puerto Rico",
+      "total_population_literacy_rate": "92.4%",
+      "literacy_rate_male": "92.4%",
+      "literacy_rate_female": "92.4%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Sri Lanka",
+      "total_population_literacy_rate": "92.3%",
+      "literacy_rate_male": "93%",
+      "literacy_rate_female": "91.6%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Namibia",
+      "total_population_literacy_rate": "92.3%",
+      "literacy_rate_male": "90.6%",
+      "literacy_rate_female": "92.3%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Mauritius",
+      "total_population_literacy_rate": "92.2%",
+      "literacy_rate_male": "93.5%",
+      "literacy_rate_female": "90.5%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Libya",
+      "total_population_literacy_rate": "91%",
+      "literacy_rate_male": "96.7%",
+      "literacy_rate_female": "85.6%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Cape Verde",
+      "total_population_literacy_rate": "90.8%",
+      "literacy_rate_male": "94.2%",
+      "literacy_rate_female": "87.4%",
+      "data_year": "2022"
+    },
+    {
+      "country": "El Salvador",
+      "total_population_literacy_rate": "90%",
+      "literacy_rate_male": "91.3%",
+      "literacy_rate_female": "87.3%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Guyana",
+      "total_population_literacy_rate": "90%",
+      "literacy_rate_male": "89.3%",
+      "literacy_rate_female": "88.4%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Ivory Coast",
+      "total_population_literacy_rate": "89.9%",
+      "literacy_rate_male": "93.1%",
+      "literacy_rate_female": "86.7%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Zimbabwe",
+      "total_population_literacy_rate": "89.7%",
+      "literacy_rate_male": "88.3%",
+      "literacy_rate_female": "89.7%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Myanmar",
+      "total_population_literacy_rate": "89.1%",
+      "literacy_rate_male": "92.4%",
+      "literacy_rate_female": "86.3%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Vanuatu",
+      "total_population_literacy_rate": "89.1%",
+      "literacy_rate_male": "89.8%",
+      "literacy_rate_female": "88.4%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Iran",
+      "total_population_literacy_rate": "89%",
+      "literacy_rate_male": "92.4%",
+      "literacy_rate_female": "88.7%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Eswatini",
+      "total_population_literacy_rate": "89%",
+      "literacy_rate_male": "88.3%",
+      "literacy_rate_female": "88.5%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Jamaica",
+      "total_population_literacy_rate": "88.7%",
+      "literacy_rate_male": "84%",
+      "literacy_rate_female": "93.1%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Honduras",
+      "total_population_literacy_rate": "88.5%",
+      "literacy_rate_male": "88.2%",
+      "literacy_rate_female": "88.7%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Botswana",
+      "total_population_literacy_rate": "88.5%",
+      "literacy_rate_male": "88%",
+      "literacy_rate_female": "88.9%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Laos",
+      "total_population_literacy_rate": "88%",
+      "literacy_rate_male": "91.4%",
+      "literacy_rate_female": "81.4%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Zambia",
+      "total_population_literacy_rate": "86.7%",
+      "literacy_rate_male": "90.6%",
+      "literacy_rate_female": "83.1%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Syria",
+      "total_population_literacy_rate": "86.4%",
+      "literacy_rate_male": "91.7%",
+      "literacy_rate_female": "81%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Gabon",
+      "total_population_literacy_rate": "86%",
+      "literacy_rate_male": "86.2%",
+      "literacy_rate_female": "84.7%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Iraq",
+      "total_population_literacy_rate": "85.6%",
+      "literacy_rate_male": "91.2%",
+      "literacy_rate_female": "79.9%",
+      "data_year": "2017"
+    },
+    {
+      "country": "Guatemala",
+      "total_population_literacy_rate": "84%",
+      "literacy_rate_male": "87.7%",
+      "literacy_rate_female": "79.3%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Cambodia",
+      "total_population_literacy_rate": "84%",
+      "literacy_rate_male": "88.4%",
+      "literacy_rate_female": "79.8%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Kenya",
+      "total_population_literacy_rate": "83%",
+      "literacy_rate_male": "85.5%",
+      "literacy_rate_female": "79.8%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Nicaragua",
+      "total_population_literacy_rate": "83%",
+      "literacy_rate_male": "82.4%",
+      "literacy_rate_female": "82.8%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Tunisia",
+      "total_population_literacy_rate": "82.7%",
+      "literacy_rate_male": "89.1%",
+      "literacy_rate_female": "82.7%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Tanzania",
+      "total_population_literacy_rate": "82%",
+      "literacy_rate_male": "85.5%",
+      "literacy_rate_female": "78.2%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Lesotho",
+      "total_population_literacy_rate": "82%",
+      "literacy_rate_male": "81%",
+      "literacy_rate_female": "72.9%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Algeria",
+      "total_population_literacy_rate": "81.4%",
+      "literacy_rate_male": "87.4%",
+      "literacy_rate_female": "75.3%",
+      "data_year": "2018"
+    },
+    {
+      "country": "DR Congo",
+      "total_population_literacy_rate": "81%",
+      "literacy_rate_male": "89.5%",
+      "literacy_rate_female": "70.8%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Belize",
+      "total_population_literacy_rate": "81%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": "2001"
+    },
+    {
+      "country": "Republic of the Congo",
+      "total_population_literacy_rate": "80.6%",
+      "literacy_rate_male": "85.9%",
+      "literacy_rate_female": "75.4%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Ghana",
+      "total_population_literacy_rate": "80%",
+      "literacy_rate_male": "83.5%",
+      "literacy_rate_female": "74.5%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Uganda",
+      "total_population_literacy_rate": "79%",
+      "literacy_rate_male": "84%",
+      "literacy_rate_female": "74.3%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Cameroon",
+      "total_population_literacy_rate": "78%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": "2020"
+    },
+    {
+      "country": "Madagascar",
+      "total_population_literacy_rate": "77.3%",
+      "literacy_rate_male": "78.8%",
+      "literacy_rate_female": "75.8%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Morocco",
+      "total_population_literacy_rate": "77%",
+      "literacy_rate_male": "84.8%",
+      "literacy_rate_female": "67.4%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Solomon Islands",
+      "total_population_literacy_rate": "77%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": "1999"
+    },
+    {
+      "country": "Eritrea",
+      "total_population_literacy_rate": "76.6%",
+      "literacy_rate_male": "84.4%",
+      "literacy_rate_female": "68.9%",
+      "data_year": "2018"
+    },
+    {
+      "country": "India",
+      "total_population_literacy_rate": "76%",
+      "literacy_rate_male": "82.4%",
+      "literacy_rate_female": "65.8%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Burundi",
+      "total_population_literacy_rate": "76%",
+      "literacy_rate_male": "81.3%",
+      "literacy_rate_female": "68.4%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Rwanda",
+      "total_population_literacy_rate": "75.9%",
+      "literacy_rate_male": "78.7%",
+      "literacy_rate_female": "73.3%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Bangladesh",
+      "total_population_literacy_rate": "74.9%",
+      "literacy_rate_male": "77.8%",
+      "literacy_rate_female": "72%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Egypt",
+      "total_population_literacy_rate": "73.1%",
+      "literacy_rate_male": "78.8%",
+      "literacy_rate_female": "67.4%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Angola",
+      "total_population_literacy_rate": "72%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": "2022"
+    },
+    {
+      "country": "Bhutan",
+      "total_population_literacy_rate": "72%",
+      "literacy_rate_male": "77.9%",
+      "literacy_rate_female": "62.8%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Nepal",
+      "total_population_literacy_rate": "71.2%",
+      "literacy_rate_male": "81%",
+      "literacy_rate_female": "63.3%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Yemen",
+      "total_population_literacy_rate": "70.1%",
+      "literacy_rate_male": "85.1%",
+      "literacy_rate_female": "55%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Timor-Leste",
+      "total_population_literacy_rate": "68.1%",
+      "literacy_rate_male": "71.9%",
+      "literacy_rate_female": "64.2%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Malawi",
+      "total_population_literacy_rate": "68%",
+      "literacy_rate_male": "71.2%",
+      "literacy_rate_female": "63.7%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Mauritania",
+      "total_population_literacy_rate": "67%",
+      "literacy_rate_male": "71.8%",
+      "literacy_rate_female": "62.2%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Togo",
+      "total_population_literacy_rate": "66.5%",
+      "literacy_rate_male": "80%",
+      "literacy_rate_female": "55.1%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Papua New Guinea",
+      "total_population_literacy_rate": "64.2%",
+      "literacy_rate_male": "65.6%",
+      "literacy_rate_female": "62.8%",
+      "data_year": "2015"
+    },
+    {
+      "country": "Mozambique",
+      "total_population_literacy_rate": "63.4%",
+      "literacy_rate_male": "74.1%",
+      "literacy_rate_female": "53.8%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Nigeria",
+      "total_population_literacy_rate": "62%",
+      "literacy_rate_male": "71.3%",
+      "literacy_rate_female": "52.7%",
+      "data_year": "2018"
+    },
+    {
+      "country": "Comoros",
+      "total_population_literacy_rate": "62%",
+      "literacy_rate_male": "67%",
+      "literacy_rate_female": "56.9%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Haiti",
+      "total_population_literacy_rate": "61.7%",
+      "literacy_rate_male": "65.3%",
+      "literacy_rate_female": "58.3%",
+      "data_year": "2016"
+    },
+    {
+      "country": "Sudan",
+      "total_population_literacy_rate": "60.7%",
+      "literacy_rate_male": "65.4%",
+      "literacy_rate_female": "56.1%",
+      "data_year": "2018"
+    },
+    {
+      "country": "Gambia",
+      "total_population_literacy_rate": "59%",
+      "literacy_rate_male": "65.2%",
+      "literacy_rate_female": "51.2%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Pakistan",
+      "total_population_literacy_rate": "58%",
+      "literacy_rate_male": "69.3%",
+      "literacy_rate_female": "46.5%",
+      "data_year": "2019"
+    },
+    {
+      "country": "Senegal",
+      "total_population_literacy_rate": "58%",
+      "literacy_rate_male": "68.4%",
+      "literacy_rate_female": "45.4%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "total_population_literacy_rate": "52.9%",
+      "literacy_rate_male": "67%",
+      "literacy_rate_female": "39.9%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Ethiopia",
+      "total_population_literacy_rate": "51.8%",
+      "literacy_rate_male": "57.2%",
+      "literacy_rate_female": "44.4%",
+      "data_year": "2017"
+    },
+    {
+      "country": "Sierra Leone",
+      "total_population_literacy_rate": "48.6%",
+      "literacy_rate_male": "56.3%",
+      "literacy_rate_female": "41.3%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Liberia",
+      "total_population_literacy_rate": "48.3%",
+      "literacy_rate_male": "62.7%",
+      "literacy_rate_female": "34.1%",
+      "data_year": "2017"
+    },
+    {
+      "country": "Benin",
+      "total_population_literacy_rate": "47%",
+      "literacy_rate_male": "56.9%",
+      "literacy_rate_female": "35%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Burkina Faso",
+      "total_population_literacy_rate": "46%",
+      "literacy_rate_male": "54.5%",
+      "literacy_rate_female": "37.8%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Guinea",
+      "total_population_literacy_rate": "45.3%",
+      "literacy_rate_male": "61.2%",
+      "literacy_rate_female": "31.3%",
+      "data_year": "2021"
+    },
+    {
+      "country": "Somalia",
+      "total_population_literacy_rate": "41%",
+      "literacy_rate_male": "",
+      "literacy_rate_female": "",
+      "data_year": "2022"
+    },
+    {
+      "country": "Niger",
+      "total_population_literacy_rate": "38%",
+      "literacy_rate_male": "45.8%",
+      "literacy_rate_female": "29%",
+      "data_year": "2022"
+    },
+    {
+      "country": "Central African Republic",
+      "total_population_literacy_rate": "37.5%",
+      "literacy_rate_male": "49.2%",
+      "literacy_rate_female": "26.2%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Afghanistan",
+      "total_population_literacy_rate": "37.3%",
+      "literacy_rate_male": "52.1%",
+      "literacy_rate_female": "22.6%",
+      "data_year": "2021"
+    },
+    {
+      "country": "South Sudan",
+      "total_population_literacy_rate": "34.5%",
+      "literacy_rate_male": "40.3%",
+      "literacy_rate_female": "28.9%",
+      "data_year": "2018"
+    },
+    {
+      "country": "Mali",
+      "total_population_literacy_rate": "31%",
+      "literacy_rate_male": "46.2%",
+      "literacy_rate_female": "25.7%",
+      "data_year": "2020"
+    },
+    {
+      "country": "Chad",
+      "total_population_literacy_rate": "27%",
+      "literacy_rate_male": "35.4%",
+      "literacy_rate_female": "18.2%",
+      "data_year": "2022"
+    }
+  ]
+}

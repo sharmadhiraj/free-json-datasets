@@ -1,7 +1,7 @@
 {
   "title": "NEPSE Listed Companies",
   "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
-  "updated_at": "August 14, 2025 10:06 AM UTC",
+  "updated_at": "August 20, 2025 09:42 AM UTC",
   "data": [
     {
       "symbol": "ADBL",
@@ -1937,6 +1937,14 @@
       "listed_shares": 5425833,
       "paid_up_value": 100.0,
       "total_paid_up": 542583300.0,
+      "sector": "Hydro Power"
+    },
+    {
+      "symbol": "BHCL",
+      "name": "Bikash Hydropower Company Limited",
+      "listed_shares": 9091013,
+      "paid_up_value": 100.0,
+      "total_paid_up": 909101300.0,
       "sector": "Hydro Power"
     },
     {

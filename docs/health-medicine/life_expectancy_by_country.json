@@ -1,0 +1,1414 @@
+{
+  "title": "Life Expectancy by Country (2025)",
+  "subtitle": "Average life expectancy of adults worldwide, with breakdown by gender, as reported in 2025.",
+  "updated_at": "August 20, 2025 09:42 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "country": "Hong Kong",
+      "life_expectancy_total": "85.77",
+      "life_expectancy_male": "88.39",
+      "life_expectancy_female": "83.1"
+    },
+    {
+      "rank": "2",
+      "country": "Japan",
+      "life_expectancy_total": "85",
+      "life_expectancy_male": "88.03",
+      "life_expectancy_female": "81.99"
+    },
+    {
+      "rank": "3",
+      "country": "South Korea",
+      "life_expectancy_total": "84.53",
+      "life_expectancy_male": "87.4",
+      "life_expectancy_female": "81.44"
+    },
+    {
+      "rank": "4",
+      "country": "French Polynesia",
+      "life_expectancy_total": "84.31",
+      "life_expectancy_male": "86.74",
+      "life_expectancy_female": "82.03"
+    },
+    {
+      "rank": "5",
+      "country": "Switzerland",
+      "life_expectancy_total": "84.23",
+      "life_expectancy_male": "86.06",
+      "life_expectancy_female": "82.34"
+    },
+    {
+      "rank": "6",
+      "country": "Australia",
+      "life_expectancy_total": "84.21",
+      "life_expectancy_male": "85.97",
+      "life_expectancy_female": "82.43"
+    },
+    {
+      "rank": "7",
+      "country": "Italy",
+      "life_expectancy_total": "84.03",
+      "life_expectancy_male": "86.01",
+      "life_expectancy_female": "81.94"
+    },
+    {
+      "rank": "8",
+      "country": "Singapore",
+      "life_expectancy_total": "84",
+      "life_expectancy_male": "86.48",
+      "life_expectancy_female": "81.53"
+    },
+    {
+      "rank": "9",
+      "country": "Spain",
+      "life_expectancy_total": "83.96",
+      "life_expectancy_male": "86.59",
+      "life_expectancy_female": "81.27"
+    },
+    {
+      "rank": "10",
+      "country": "Réunion",
+      "life_expectancy_total": "83.8",
+      "life_expectancy_male": "86.57",
+      "life_expectancy_female": "80.81"
+    },
+    {
+      "rank": "11",
+      "country": "Malta",
+      "life_expectancy_total": "83.63",
+      "life_expectancy_male": "85.51",
+      "life_expectancy_female": "81.69"
+    },
+    {
+      "rank": "12",
+      "country": "Norway",
+      "life_expectancy_total": "83.61",
+      "life_expectancy_male": "85.09",
+      "life_expectancy_female": "82.11"
+    },
+    {
+      "rank": "13",
+      "country": "France",
+      "life_expectancy_total": "83.58",
+      "life_expectancy_male": "86.31",
+      "life_expectancy_female": "80.73"
+    },
+    {
+      "rank": "14",
+      "country": "Sweden",
+      "life_expectancy_total": "83.58",
+      "life_expectancy_male": "85.34",
+      "life_expectancy_female": "81.84"
+    },
+    {
+      "rank": "15",
+      "country": "Macao",
+      "life_expectancy_total": "83.42",
+      "life_expectancy_male": "85.49",
+      "life_expectancy_female": "81.26"
+    },
+    {
+      "rank": "16",
+      "country": "United Arab Emirates",
+      "life_expectancy_total": "83.23",
+      "life_expectancy_male": "84.44",
+      "life_expectancy_female": "82.37"
+    },
+    {
+      "rank": "17",
+      "country": "Iceland",
+      "life_expectancy_total": "83.15",
+      "life_expectancy_male": "84.57",
+      "life_expectancy_female": "81.8"
+    },
+    {
+      "rank": "18",
+      "country": "Martinique",
+      "life_expectancy_total": "82.89",
+      "life_expectancy_male": "85.84",
+      "life_expectancy_female": "79.63"
+    },
+    {
+      "rank": "19",
+      "country": "Canada",
+      "life_expectancy_total": "82.88",
+      "life_expectancy_male": "85.03",
+      "life_expectancy_female": "80.74"
+    },
+    {
+      "rank": "20",
+      "country": "Israel",
+      "life_expectancy_total": "82.77",
+      "life_expectancy_male": "84.81",
+      "life_expectancy_female": "80.67"
+    },
+    {
+      "rank": "21",
+      "country": "Ireland",
+      "life_expectancy_total": "82.75",
+      "life_expectancy_male": "84.72",
+      "life_expectancy_female": "80.79"
+    },
+    {
+      "rank": "22",
+      "country": "Portugal",
+      "life_expectancy_total": "82.72",
+      "life_expectancy_male": "85.37",
+      "life_expectancy_female": "79.89"
+    },
+    {
+      "rank": "23",
+      "country": "Qatar",
+      "life_expectancy_total": "82.68",
+      "life_expectancy_male": "83.6",
+      "life_expectancy_female": "81.96"
+    },
+    {
+      "rank": "24",
+      "country": "Luxembourg",
+      "life_expectancy_total": "82.49",
+      "life_expectancy_male": "84.06",
+      "life_expectancy_female": "80.91"
+    },
+    {
+      "rank": "25",
+      "country": "Netherlands",
+      "life_expectancy_total": "82.45",
+      "life_expectancy_male": "83.98",
+      "life_expectancy_female": "80.89"
+    },
+    {
+      "rank": "26",
+      "country": "Belgium",
+      "life_expectancy_total": "82.43",
+      "life_expectancy_male": "84.57",
+      "life_expectancy_female": "80.26"
+    },
+    {
+      "rank": "27",
+      "country": "Guadeloupe",
+      "life_expectancy_total": "82.4",
+      "life_expectancy_male": "85.77",
+      "life_expectancy_female": "78.56"
+    },
+    {
+      "rank": "28",
+      "country": "New Zealand",
+      "life_expectancy_total": "82.39",
+      "life_expectancy_male": "84",
+      "life_expectancy_female": "80.77"
+    },
+    {
+      "rank": "29",
+      "country": "Austria",
+      "life_expectancy_total": "82.29",
+      "life_expectancy_male": "84.57",
+      "life_expectancy_female": "79.97"
+    },
+    {
+      "rank": "30",
+      "country": "Denmark",
+      "life_expectancy_total": "82.25",
+      "life_expectancy_male": "84.1",
+      "life_expectancy_female": "80.39"
+    },
+    {
+      "rank": "31",
+      "country": "Finland",
+      "life_expectancy_total": "82.24",
+      "life_expectancy_male": "84.91",
+      "life_expectancy_female": "79.6"
+    },
+    {
+      "rank": "32",
+      "country": "Greece",
+      "life_expectancy_total": "82.22",
+      "life_expectancy_male": "84.6",
+      "life_expectancy_female": "79.74"
+    },
+    {
+      "rank": "33",
+      "country": "Puerto Rico",
+      "life_expectancy_total": "82.08",
+      "life_expectancy_male": "85.5",
+      "life_expectancy_female": "78.5"
+    },
+    {
+      "rank": "34",
+      "country": "Cyprus",
+      "life_expectancy_total": "81.99",
+      "life_expectancy_male": "83.93",
+      "life_expectancy_female": "80.05"
+    },
+    {
+      "rank": "35",
+      "country": "Slovenia",
+      "life_expectancy_total": "81.94",
+      "life_expectancy_male": "84.58",
+      "life_expectancy_female": "79.33"
+    },
+    {
+      "rank": "36",
+      "country": "Germany",
+      "life_expectancy_total": "81.71",
+      "life_expectancy_male": "84.01",
+      "life_expectancy_female": "79.42"
+    },
+    {
+      "rank": "37",
+      "country": "United Kingdom",
+      "life_expectancy_total": "81.6",
+      "life_expectancy_male": "83.45",
+      "life_expectancy_female": "79.72"
+    },
+    {
+      "rank": "38",
+      "country": "Bahrain",
+      "life_expectancy_total": "81.58",
+      "life_expectancy_male": "82.26",
+      "life_expectancy_female": "81.03"
+    },
+    {
+      "rank": "39",
+      "country": "Chile",
+      "life_expectancy_total": "81.54",
+      "life_expectancy_male": "83.37",
+      "life_expectancy_female": "79.67"
+    },
+    {
+      "rank": "40",
+      "country": "Maldives",
+      "life_expectancy_total": "81.51",
+      "life_expectancy_male": "83.17",
+      "life_expectancy_female": "80.2"
+    },
+    {
+      "rank": "41",
+      "country": "Costa Rica",
+      "life_expectancy_total": "81.19",
+      "life_expectancy_male": "83.72",
+      "life_expectancy_female": "78.6"
+    },
+    {
+      "rank": "42",
+      "country": "Taiwan",
+      "life_expectancy_total": "80.94",
+      "life_expectancy_male": "83.88",
+      "life_expectancy_female": "78.09"
+    },
+    {
+      "rank": "43",
+      "country": "Kuwait",
+      "life_expectancy_total": "80.78",
+      "life_expectancy_male": "82.15",
+      "life_expectancy_female": "79.63"
+    },
+    {
+      "rank": "44",
+      "country": "Oman",
+      "life_expectancy_total": "80.45",
+      "life_expectancy_male": "82.21",
+      "life_expectancy_female": "78.95"
+    },
+    {
+      "rank": "45",
+      "country": "Czech Republic (Czechia)",
+      "life_expectancy_total": "80.11",
+      "life_expectancy_male": "82.85",
+      "life_expectancy_female": "77.35"
+    },
+    {
+      "rank": "46",
+      "country": "Panama",
+      "life_expectancy_total": "79.96",
+      "life_expectancy_male": "82.84",
+      "life_expectancy_female": "77.1"
+    },
+    {
+      "rank": "47",
+      "country": "Albania",
+      "life_expectancy_total": "79.95",
+      "life_expectancy_male": "81.74",
+      "life_expectancy_female": "78.12"
+    },
+    {
+      "rank": "48",
+      "country": "United States",
+      "life_expectancy_total": "79.61",
+      "life_expectancy_male": "82.11",
+      "life_expectancy_female": "77.22"
+    },
+    {
+      "rank": "49",
+      "country": "Estonia",
+      "life_expectancy_total": "79.48",
+      "life_expectancy_male": "83.3",
+      "life_expectancy_female": "75.35"
+    },
+    {
+      "rank": "50",
+      "country": "Saudi Arabia",
+      "life_expectancy_total": "79.19",
+      "life_expectancy_male": "81.51",
+      "life_expectancy_female": "77.56"
+    },
+    {
+      "rank": "51",
+      "country": "New Caledonia",
+      "life_expectancy_total": "79.07",
+      "life_expectancy_male": "81.53",
+      "life_expectancy_female": "76.63"
+    },
+    {
+      "rank": "52",
+      "country": "Poland",
+      "life_expectancy_total": "78.98",
+      "life_expectancy_male": "82.61",
+      "life_expectancy_female": "75.31"
+    },
+    {
+      "rank": "53",
+      "country": "Croatia",
+      "life_expectancy_total": "78.92",
+      "life_expectancy_male": "81.95",
+      "life_expectancy_female": "75.8"
+    },
+    {
+      "rank": "54",
+      "country": "Slovakia",
+      "life_expectancy_total": "78.65",
+      "life_expectancy_male": "81.84",
+      "life_expectancy_female": "75.41"
+    },
+    {
+      "rank": "55",
+      "country": "Uruguay",
+      "life_expectancy_total": "78.45",
+      "life_expectancy_male": "82.17",
+      "life_expectancy_female": "74.59"
+    },
+    {
+      "rank": "56",
+      "country": "Cuba",
+      "life_expectancy_total": "78.45",
+      "life_expectancy_male": "80.84",
+      "life_expectancy_female": "76.06"
+    },
+    {
+      "rank": "57",
+      "country": "China",
+      "life_expectancy_total": "78.37",
+      "life_expectancy_male": "81.25",
+      "life_expectancy_female": "75.65"
+    },
+    {
+      "rank": "58",
+      "country": "Bosnia and Herzegovina",
+      "life_expectancy_total": "78.24",
+      "life_expectancy_male": "81.23",
+      "life_expectancy_female": "74.88"
+    },
+    {
+      "rank": "59",
+      "country": "Jordan",
+      "life_expectancy_total": "78.13",
+      "life_expectancy_male": "80.46",
+      "life_expectancy_female": "76.06"
+    },
+    {
+      "rank": "60",
+      "country": "Peru",
+      "life_expectancy_total": "78.12",
+      "life_expectancy_male": "80.45",
+      "life_expectancy_female": "75.82"
+    },
+    {
+      "rank": "61",
+      "country": "Colombia",
+      "life_expectancy_total": "78.09",
+      "life_expectancy_male": "80.77",
+      "life_expectancy_female": "75.36"
+    },
+    {
+      "rank": "62",
+      "country": "Lebanon",
+      "life_expectancy_total": "78.08",
+      "life_expectancy_male": "79.99",
+      "life_expectancy_female": "76.02"
+    },
+    {
+      "rank": "63",
+      "country": "Iran",
+      "life_expectancy_total": "78.05",
+      "life_expectancy_male": "79.99",
+      "life_expectancy_female": "76.22"
+    },
+    {
+      "rank": "64",
+      "country": "Antigua and Barbuda",
+      "life_expectancy_total": "77.94",
+      "life_expectancy_male": "80.6",
+      "life_expectancy_female": "74.93"
+    },
+    {
+      "rank": "65",
+      "country": "Sri Lanka",
+      "life_expectancy_total": "77.85",
+      "life_expectancy_male": "80.9",
+      "life_expectancy_female": "74.65"
+    },
+    {
+      "rank": "66",
+      "country": "Turkey",
+      "life_expectancy_total": "77.82",
+      "life_expectancy_male": "80.82",
+      "life_expectancy_female": "74.94"
+    },
+    {
+      "rank": "67",
+      "country": "Ecuador",
+      "life_expectancy_total": "77.76",
+      "life_expectancy_male": "80.46",
+      "life_expectancy_female": "75.08"
+    },
+    {
+      "rank": "68",
+      "country": "Argentina",
+      "life_expectancy_total": "77.69",
+      "life_expectancy_male": "80.16",
+      "life_expectancy_female": "75.14"
+    },
+    {
+      "rank": "69",
+      "country": "North Macedonia",
+      "life_expectancy_total": "77.68",
+      "life_expectancy_male": "79.83",
+      "life_expectancy_female": "75.41"
+    },
+    {
+      "rank": "70",
+      "country": "Guam",
+      "life_expectancy_total": "77.63",
+      "life_expectancy_male": "81.74",
+      "life_expectancy_female": "73.89"
+    },
+    {
+      "rank": "71",
+      "country": "Montenegro",
+      "life_expectancy_total": "77.43",
+      "life_expectancy_male": "80.6",
+      "life_expectancy_female": "74.12"
+    },
+    {
+      "rank": "72",
+      "country": "French Guiana",
+      "life_expectancy_total": "77.37",
+      "life_expectancy_male": "80.3",
+      "life_expectancy_female": "74.52"
+    },
+    {
+      "rank": "73",
+      "country": "Hungary",
+      "life_expectancy_total": "77.33",
+      "life_expectancy_male": "80.46",
+      "life_expectancy_female": "74.07"
+    },
+    {
+      "rank": "74",
+      "country": "Curaçao",
+      "life_expectancy_total": "77.17",
+      "life_expectancy_male": "81.1",
+      "life_expectancy_female": "72.87"
+    },
+    {
+      "rank": "75",
+      "country": "Serbia",
+      "life_expectancy_total": "77.14",
+      "life_expectancy_male": "80.35",
+      "life_expectancy_female": "73.89"
+    },
+    {
+      "rank": "76",
+      "country": "Malaysia",
+      "life_expectancy_total": "76.99",
+      "life_expectancy_male": "79.67",
+      "life_expectancy_female": "74.63"
+    },
+    {
+      "rank": "77",
+      "country": "Tunisia",
+      "life_expectancy_total": "76.9",
+      "life_expectancy_male": "79.5",
+      "life_expectancy_female": "74.34"
+    },
+    {
+      "rank": "78",
+      "country": "Thailand",
+      "life_expectancy_total": "76.83",
+      "life_expectancy_male": "81.17",
+      "life_expectancy_female": "72.65"
+    },
+    {
+      "rank": "79",
+      "country": "Algeria",
+      "life_expectancy_total": "76.69",
+      "life_expectancy_male": "78.13",
+      "life_expectancy_female": "75.3"
+    },
+    {
+      "rank": "80",
+      "country": "Aruba",
+      "life_expectancy_total": "76.64",
+      "life_expectancy_male": "79.06",
+      "life_expectancy_female": "73.99"
+    },
+    {
+      "rank": "81",
+      "country": "Barbados",
+      "life_expectancy_total": "76.49",
+      "life_expectancy_male": "78.91",
+      "life_expectancy_female": "73.93"
+    },
+    {
+      "rank": "82",
+      "country": "Latvia",
+      "life_expectancy_total": "76.48",
+      "life_expectancy_male": "80.72",
+      "life_expectancy_female": "71.94"
+    },
+    {
+      "rank": "83",
+      "country": "Mayotte",
+      "life_expectancy_total": "76.42",
+      "life_expectancy_male": "78.68",
+      "life_expectancy_female": "74.45"
+    },
+    {
+      "rank": "84",
+      "country": "Cabo Verde",
+      "life_expectancy_total": "76.4",
+      "life_expectancy_male": "79.53",
+      "life_expectancy_female": "73.25"
+    },
+    {
+      "rank": "85",
+      "country": "Lithuania",
+      "life_expectancy_total": "76.32",
+      "life_expectancy_male": "80.92",
+      "life_expectancy_female": "71.61"
+    },
+    {
+      "rank": "86",
+      "country": "Romania",
+      "life_expectancy_total": "76.25",
+      "life_expectancy_male": "79.82",
+      "life_expectancy_female": "72.74"
+    },
+    {
+      "rank": "87",
+      "country": "Brazil",
+      "life_expectancy_total": "76.2",
+      "life_expectancy_male": "79.3",
+      "life_expectancy_female": "73.14"
+    },
+    {
+      "rank": "88",
+      "country": "Armenia",
+      "life_expectancy_total": "76.01",
+      "life_expectancy_male": "79.73",
+      "life_expectancy_female": "71.76"
+    },
+    {
+      "rank": "89",
+      "country": "Bulgaria",
+      "life_expectancy_total": "75.96",
+      "life_expectancy_male": "79.51",
+      "life_expectancy_female": "72.52"
+    },
+    {
+      "rank": "90",
+      "country": "U.S. Virgin Islands",
+      "life_expectancy_total": "75.92",
+      "life_expectancy_male": "81.6",
+      "life_expectancy_female": "70.95"
+    },
+    {
+      "rank": "91",
+      "country": "Morocco",
+      "life_expectancy_total": "75.68",
+      "life_expectancy_male": "77.96",
+      "life_expectancy_female": "73.54"
+    },
+    {
+      "rank": "92",
+      "country": "Brunei",
+      "life_expectancy_total": "75.67",
+      "life_expectancy_male": "77.9",
+      "life_expectancy_female": "73.65"
+    },
+    {
+      "rank": "93",
+      "country": "Grenada",
+      "life_expectancy_total": "75.52",
+      "life_expectancy_male": "78.64",
+      "life_expectancy_female": "72.67"
+    },
+    {
+      "rank": "94",
+      "country": "Mexico",
+      "life_expectancy_total": "75.45",
+      "life_expectancy_male": "78.17",
+      "life_expectancy_female": "72.63"
+    },
+    {
+      "rank": "95",
+      "country": "Mauritius",
+      "life_expectancy_total": "75.27",
+      "life_expectancy_male": "78.5",
+      "life_expectancy_female": "72.28"
+    },
+    {
+      "rank": "96",
+      "country": "Nicaragua",
+      "life_expectancy_total": "75.27",
+      "life_expectancy_male": "77.74",
+      "life_expectancy_female": "72.64"
+    },
+    {
+      "rank": "97",
+      "country": "Bangladesh",
+      "life_expectancy_total": "75.19",
+      "life_expectancy_male": "76.94",
+      "life_expectancy_female": "73.55"
+    },
+    {
+      "rank": "98",
+      "country": "Vietnam",
+      "life_expectancy_total": "74.88",
+      "life_expectancy_male": "79.49",
+      "life_expectancy_female": "70.23"
+    },
+    {
+      "rank": "99",
+      "country": "Ukraine",
+      "life_expectancy_total": "74.86",
+      "life_expectancy_male": "79.54",
+      "life_expectancy_female": "69.99"
+    },
+    {
+      "rank": "100",
+      "country": "Bahamas",
+      "life_expectancy_total": "74.86",
+      "life_expectancy_male": "78.46",
+      "life_expectancy_female": "71.21"
+    },
+    {
+      "rank": "101",
+      "country": "Georgia",
+      "life_expectancy_total": "74.82",
+      "life_expectancy_male": "79.36",
+      "life_expectancy_female": "69.93"
+    },
+    {
+      "rank": "102",
+      "country": "Belarus",
+      "life_expectancy_total": "74.79",
+      "life_expectancy_male": "79.37",
+      "life_expectancy_female": "69.94"
+    },
+    {
+      "rank": "103",
+      "country": "Azerbaijan",
+      "life_expectancy_total": "74.73",
+      "life_expectancy_male": "77.44",
+      "life_expectancy_female": "71.86"
+    },
+    {
+      "rank": "104",
+      "country": "Kazakhstan",
+      "life_expectancy_total": "74.67",
+      "life_expectancy_male": "78.65",
+      "life_expectancy_female": "70.43"
+    },
+    {
+      "rank": "105",
+      "country": "Paraguay",
+      "life_expectancy_total": "74.11",
+      "life_expectancy_male": "77.22",
+      "life_expectancy_female": "71.14"
+    },
+    {
+      "rank": "106",
+      "country": "Dominican Republic",
+      "life_expectancy_total": "73.99",
+      "life_expectancy_male": "77.23",
+      "life_expectancy_female": "70.79"
+    },
+    {
+      "rank": "107",
+      "country": "Belize",
+      "life_expectancy_total": "73.9",
+      "life_expectancy_male": "76.83",
+      "life_expectancy_female": "71.23"
+    },
+    {
+      "rank": "108",
+      "country": "Suriname",
+      "life_expectancy_total": "73.9",
+      "life_expectancy_male": "77.12",
+      "life_expectancy_female": "70.73"
+    },
+    {
+      "rank": "109",
+      "country": "North Korea",
+      "life_expectancy_total": "73.86",
+      "life_expectancy_male": "76.02",
+      "life_expectancy_female": "71.66"
+    },
+    {
+      "rank": "110",
+      "country": "Trinidad and Tobago",
+      "life_expectancy_total": "73.75",
+      "life_expectancy_male": "76.96",
+      "life_expectancy_female": "70.64"
+    },
+    {
+      "rank": "111",
+      "country": "Bhutan",
+      "life_expectancy_total": "73.53",
+      "life_expectancy_male": "75.55",
+      "life_expectancy_female": "71.82"
+    },
+    {
+      "rank": "112",
+      "country": "Russia",
+      "life_expectancy_total": "73.52",
+      "life_expectancy_male": "79.32",
+      "life_expectancy_female": "67.69"
+    },
+    {
+      "rank": "113",
+      "country": "Tonga",
+      "life_expectancy_total": "73.23",
+      "life_expectancy_male": "76.69",
+      "life_expectancy_female": "69.64"
+    },
+    {
+      "rank": "114",
+      "country": "Honduras",
+      "life_expectancy_total": "73.22",
+      "life_expectancy_male": "75.85",
+      "life_expectancy_female": "70.65"
+    },
+    {
+      "rank": "115",
+      "country": "Libya",
+      "life_expectancy_total": "73.19",
+      "life_expectancy_male": "75.26",
+      "life_expectancy_female": "71.23"
+    },
+    {
+      "rank": "116",
+      "country": "Seychelles",
+      "life_expectancy_total": "73.14",
+      "life_expectancy_male": "76.83",
+      "life_expectancy_female": "70.23"
+    },
+    {
+      "rank": "117",
+      "country": "State of Palestine",
+      "life_expectancy_total": "73.1",
+      "life_expectancy_male": "76.86",
+      "life_expectancy_female": "69.72"
+    },
+    {
+      "rank": "118",
+      "country": "Saint Lucia",
+      "life_expectancy_total": "73",
+      "life_expectancy_male": "76.6",
+      "life_expectancy_female": "69.6"
+    },
+    {
+      "rank": "119",
+      "country": "Syria",
+      "life_expectancy_total": "72.99",
+      "life_expectancy_male": "75.42",
+      "life_expectancy_female": "70.58"
+    },
+    {
+      "rank": "120",
+      "country": "Guatemala",
+      "life_expectancy_total": "72.89",
+      "life_expectancy_male": "75.21",
+      "life_expectancy_female": "70.57"
+    },
+    {
+      "rank": "121",
+      "country": "Venezuela",
+      "life_expectancy_total": "72.84",
+      "life_expectancy_male": "76.82",
+      "life_expectancy_female": "69.05"
+    },
+    {
+      "rank": "122",
+      "country": "Uzbekistan",
+      "life_expectancy_total": "72.66",
+      "life_expectancy_male": "75.7",
+      "life_expectancy_female": "69.68"
+    },
+    {
+      "rank": "123",
+      "country": "Iraq",
+      "life_expectancy_total": "72.53",
+      "life_expectancy_male": "74.33",
+      "life_expectancy_female": "70.59"
+    },
+    {
+      "rank": "124",
+      "country": "El Salvador",
+      "life_expectancy_total": "72.52",
+      "life_expectancy_male": "76.7",
+      "life_expectancy_female": "67.99"
+    },
+    {
+      "rank": "125",
+      "country": "India",
+      "life_expectancy_total": "72.48",
+      "life_expectancy_male": "74.13",
+      "life_expectancy_female": "70.95"
+    },
+    {
+      "rank": "126",
+      "country": "Mongolia",
+      "life_expectancy_total": "72.24",
+      "life_expectancy_male": "76.88",
+      "life_expectancy_female": "67.75"
+    },
+    {
+      "rank": "127",
+      "country": "Tajikistan",
+      "life_expectancy_total": "72.05",
+      "life_expectancy_male": "74.29",
+      "life_expectancy_female": "69.78"
+    },
+    {
+      "rank": "128",
+      "country": "Egypt",
+      "life_expectancy_total": "71.99",
+      "life_expectancy_male": "74.22",
+      "life_expectancy_female": "69.82"
+    },
+    {
+      "rank": "129",
+      "country": "Kyrgyzstan",
+      "life_expectancy_total": "71.97",
+      "life_expectancy_male": "75.56",
+      "life_expectancy_female": "68.44"
+    },
+    {
+      "rank": "130",
+      "country": "Samoa",
+      "life_expectancy_total": "71.95",
+      "life_expectancy_male": "73.97",
+      "life_expectancy_female": "70.06"
+    },
+    {
+      "rank": "131",
+      "country": "Vanuatu",
+      "life_expectancy_total": "71.84",
+      "life_expectancy_male": "74.31",
+      "life_expectancy_female": "69.74"
+    },
+    {
+      "rank": "132",
+      "country": "Micronesia",
+      "life_expectancy_total": "71.81",
+      "life_expectancy_male": "74.79",
+      "life_expectancy_female": "68.97"
+    },
+    {
+      "rank": "133",
+      "country": "Micronesia",
+      "life_expectancy_total": "71.81",
+      "life_expectancy_male": "74.79",
+      "life_expectancy_female": "68.97"
+    },
+    {
+      "rank": "134",
+      "country": "Western Sahara",
+      "life_expectancy_total": "71.78",
+      "life_expectancy_male": "73.99",
+      "life_expectancy_female": "70.06"
+    },
+    {
+      "rank": "135",
+      "country": "Jamaica",
+      "life_expectancy_total": "71.73",
+      "life_expectancy_male": "74.3",
+      "life_expectancy_female": "69.17"
+    },
+    {
+      "rank": "136",
+      "country": "St. Vincent & Grenadines",
+      "life_expectancy_total": "71.51",
+      "life_expectancy_male": "74.62",
+      "life_expectancy_female": "68.89"
+    },
+    {
+      "rank": "137",
+      "country": "Moldova",
+      "life_expectancy_total": "71.47",
+      "life_expectancy_male": "75.81",
+      "life_expectancy_female": "66.83"
+    },
+    {
+      "rank": "138",
+      "country": "Indonesia",
+      "life_expectancy_total": "71.44",
+      "life_expectancy_male": "73.61",
+      "life_expectancy_female": "69.29"
+    },
+    {
+      "rank": "139",
+      "country": "Cambodia",
+      "life_expectancy_total": "70.97",
+      "life_expectancy_male": "73.53",
+      "life_expectancy_female": "68.29"
+    },
+    {
+      "rank": "140",
+      "country": "Nepal",
+      "life_expectancy_total": "70.9",
+      "life_expectancy_male": "72.42",
+      "life_expectancy_female": "69.32"
+    },
+    {
+      "rank": "141",
+      "country": "Solomon Islands",
+      "life_expectancy_total": "70.83",
+      "life_expectancy_male": "72.34",
+      "life_expectancy_female": "69.47"
+    },
+    {
+      "rank": "142",
+      "country": "Guyana",
+      "life_expectancy_total": "70.45",
+      "life_expectancy_male": "74.22",
+      "life_expectancy_female": "66.73"
+    },
+    {
+      "rank": "143",
+      "country": "Turkmenistan",
+      "life_expectancy_total": "70.33",
+      "life_expectancy_male": "73.17",
+      "life_expectancy_female": "67.13"
+    },
+    {
+      "rank": "144",
+      "country": "Sao Tome & Principe",
+      "life_expectancy_total": "70.08",
+      "life_expectancy_male": "74.08",
+      "life_expectancy_female": "66.57"
+    },
+    {
+      "rank": "145",
+      "country": "Philippines",
+      "life_expectancy_total": "70.07",
+      "life_expectancy_male": "73.11",
+      "life_expectancy_female": "67.1"
+    },
+    {
+      "rank": "146",
+      "country": "Yemen",
+      "life_expectancy_total": "69.58",
+      "life_expectancy_male": "71.71",
+      "life_expectancy_female": "67.49"
+    },
+    {
+      "rank": "147",
+      "country": "Laos",
+      "life_expectancy_total": "69.47",
+      "life_expectancy_male": "71.8",
+      "life_expectancy_female": "67.25"
+    },
+    {
+      "rank": "148",
+      "country": "Botswana",
+      "life_expectancy_total": "69.43",
+      "life_expectancy_male": "72.01",
+      "life_expectancy_female": "66.9"
+    },
+    {
+      "rank": "149",
+      "country": "Senegal",
+      "life_expectancy_total": "69.16",
+      "life_expectancy_male": "71.26",
+      "life_expectancy_female": "67.21"
+    },
+    {
+      "rank": "150",
+      "country": "Eritrea",
+      "life_expectancy_total": "69.15",
+      "life_expectancy_male": "71.22",
+      "life_expectancy_female": "67"
+    },
+    {
+      "rank": "151",
+      "country": "Mauritania",
+      "life_expectancy_total": "68.94",
+      "life_expectancy_male": "70.97",
+      "life_expectancy_female": "66.9"
+    },
+    {
+      "rank": "152",
+      "country": "Bolivia",
+      "life_expectancy_total": "68.91",
+      "life_expectancy_male": "71.51",
+      "life_expectancy_female": "66.42"
+    },
+    {
+      "rank": "153",
+      "country": "Uganda",
+      "life_expectancy_total": "68.71",
+      "life_expectancy_male": "71.6",
+      "life_expectancy_female": "65.7"
+    },
+    {
+      "rank": "154",
+      "country": "Gabon",
+      "life_expectancy_total": "68.7",
+      "life_expectancy_male": "71.45",
+      "life_expectancy_female": "66.23"
+    },
+    {
+      "rank": "155",
+      "country": "Rwanda",
+      "life_expectancy_total": "68.24",
+      "life_expectancy_male": "70.39",
+      "life_expectancy_female": "65.92"
+    },
+    {
+      "rank": "156",
+      "country": "Timor-Leste",
+      "life_expectancy_total": "68.13",
+      "life_expectancy_male": "69.92",
+      "life_expectancy_female": "66.47"
+    },
+    {
+      "rank": "157",
+      "country": "Pakistan",
+      "life_expectancy_total": "67.94",
+      "life_expectancy_male": "70.47",
+      "life_expectancy_female": "65.58"
+    },
+    {
+      "rank": "158",
+      "country": "Ethiopia",
+      "life_expectancy_total": "67.88",
+      "life_expectancy_male": "71.3",
+      "life_expectancy_female": "64.62"
+    },
+    {
+      "rank": "159",
+      "country": "Malawi",
+      "life_expectancy_total": "67.74",
+      "life_expectancy_male": "70.96",
+      "life_expectancy_female": "64.45"
+    },
+    {
+      "rank": "160",
+      "country": "Namibia",
+      "life_expectancy_total": "67.66",
+      "life_expectancy_male": "71.63",
+      "life_expectancy_female": "63.6"
+    },
+    {
+      "rank": "161",
+      "country": "Fiji",
+      "life_expectancy_total": "67.62",
+      "life_expectancy_male": "69.72",
+      "life_expectancy_female": "65.6"
+    },
+    {
+      "rank": "162",
+      "country": "Tanzania",
+      "life_expectancy_total": "67.42",
+      "life_expectancy_male": "70.21",
+      "life_expectancy_female": "64.59"
+    },
+    {
+      "rank": "163",
+      "country": "Myanmar",
+      "life_expectancy_total": "67.3",
+      "life_expectancy_male": "70.59",
+      "life_expectancy_female": "64.18"
+    },
+    {
+      "rank": "164",
+      "country": "Comoros",
+      "life_expectancy_total": "67.25",
+      "life_expectancy_male": "69.45",
+      "life_expectancy_female": "65.22"
+    },
+    {
+      "rank": "165",
+      "country": "Kiribati",
+      "life_expectancy_total": "66.72",
+      "life_expectancy_male": "68.48",
+      "life_expectancy_female": "64.79"
+    },
+    {
+      "rank": "166",
+      "country": "Sudan",
+      "life_expectancy_total": "66.7",
+      "life_expectancy_male": "70.02",
+      "life_expectancy_female": "63.61"
+    },
+    {
+      "rank": "167",
+      "country": "Zambia",
+      "life_expectancy_total": "66.7",
+      "life_expectancy_male": "69.07",
+      "life_expectancy_female": "64.25"
+    },
+    {
+      "rank": "168",
+      "country": "Afghanistan",
+      "life_expectancy_total": "66.54",
+      "life_expectancy_male": "68.08",
+      "life_expectancy_female": "64.94"
+    },
+    {
+      "rank": "169",
+      "country": "South Africa",
+      "life_expectancy_total": "66.49",
+      "life_expectancy_male": "69.97",
+      "life_expectancy_female": "62.95"
+    },
+    {
+      "rank": "170",
+      "country": "Djibouti",
+      "life_expectancy_total": "66.41",
+      "life_expectancy_male": "68.96",
+      "life_expectancy_female": "63.92"
+    },
+    {
+      "rank": "171",
+      "country": "Papua New Guinea",
+      "life_expectancy_total": "66.39",
+      "life_expectancy_male": "69.34",
+      "life_expectancy_female": "63.94"
+    },
+    {
+      "rank": "172",
+      "country": "Gambia",
+      "life_expectancy_total": "66.25",
+      "life_expectancy_male": "67.96",
+      "life_expectancy_female": "64.53"
+    },
+    {
+      "rank": "173",
+      "country": "Congo",
+      "life_expectancy_total": "66.2",
+      "life_expectancy_male": "67.94",
+      "life_expectancy_female": "64.51"
+    },
+    {
+      "rank": "174",
+      "country": "Ghana",
+      "life_expectancy_total": "65.89",
+      "life_expectancy_male": "68.36",
+      "life_expectancy_female": "63.49"
+    },
+    {
+      "rank": "175",
+      "country": "Haiti",
+      "life_expectancy_total": "65.3",
+      "life_expectancy_male": "68.67",
+      "life_expectancy_female": "62.07"
+    },
+    {
+      "rank": "176",
+      "country": "Angola",
+      "life_expectancy_total": "64.98",
+      "life_expectancy_male": "67.54",
+      "life_expectancy_female": "62.44"
+    },
+    {
+      "rank": "177",
+      "country": "Guinea-Bissau",
+      "life_expectancy_total": "64.41",
+      "life_expectancy_male": "66.72",
+      "life_expectancy_female": "61.96"
+    },
+    {
+      "rank": "178",
+      "country": "Eswatini",
+      "life_expectancy_total": "64.4",
+      "life_expectancy_male": "67.26",
+      "life_expectancy_female": "61.45"
+    },
+    {
+      "rank": "179",
+      "country": "Cameroon",
+      "life_expectancy_total": "64.25",
+      "life_expectancy_male": "66.52",
+      "life_expectancy_female": "62.05"
+    },
+    {
+      "rank": "180",
+      "country": "Equatorial Guinea",
+      "life_expectancy_total": "64.1",
+      "life_expectancy_male": "66.1",
+      "life_expectancy_female": "62.4"
+    },
+    {
+      "rank": "181",
+      "country": "Madagascar",
+      "life_expectancy_total": "64.04",
+      "life_expectancy_male": "65.82",
+      "life_expectancy_female": "62.31"
+    },
+    {
+      "rank": "182",
+      "country": "Kenya",
+      "life_expectancy_total": "64.01",
+      "life_expectancy_male": "66.32",
+      "life_expectancy_female": "61.8"
+    },
+    {
+      "rank": "183",
+      "country": "Burundi",
+      "life_expectancy_total": "63.97",
+      "life_expectancy_male": "66.06",
+      "life_expectancy_female": "61.89"
+    },
+    {
+      "rank": "184",
+      "country": "Mozambique",
+      "life_expectancy_total": "63.97",
+      "life_expectancy_male": "66.93",
+      "life_expectancy_female": "60.66"
+    },
+    {
+      "rank": "185",
+      "country": "Zimbabwe",
+      "life_expectancy_total": "63.35",
+      "life_expectancy_male": "65.61",
+      "life_expectancy_female": "60.75"
+    },
+    {
+      "rank": "186",
+      "country": "Togo",
+      "life_expectancy_total": "63.14",
+      "life_expectancy_male": "63.39",
+      "life_expectancy_female": "62.87"
+    },
+    {
+      "rank": "187",
+      "country": "Liberia",
+      "life_expectancy_total": "62.47",
+      "life_expectancy_male": "63.8",
+      "life_expectancy_female": "61.14"
+    },
+    {
+      "rank": "188",
+      "country": "Côte d'Ivoire",
+      "life_expectancy_total": "62.28",
+      "life_expectancy_male": "64.49",
+      "life_expectancy_female": "60.32"
+    },
+    {
+      "rank": "189",
+      "country": "DR Congo",
+      "life_expectancy_total": "62.23",
+      "life_expectancy_male": "64.4",
+      "life_expectancy_female": "60.1"
+    },
+    {
+      "rank": "190",
+      "country": "Sierra Leone",
+      "life_expectancy_total": "62.15",
+      "life_expectancy_male": "63.9",
+      "life_expectancy_female": "60.41"
+    },
+    {
+      "rank": "191",
+      "country": "Niger",
+      "life_expectancy_total": "61.66",
+      "life_expectancy_male": "62.66",
+      "life_expectancy_female": "60.69"
+    },
+    {
+      "rank": "192",
+      "country": "Burkina Faso",
+      "life_expectancy_total": "61.47",
+      "life_expectancy_male": "63.62",
+      "life_expectancy_female": "59.28"
+    },
+    {
+      "rank": "193",
+      "country": "Benin",
+      "life_expectancy_total": "61.14",
+      "life_expectancy_male": "62.61",
+      "life_expectancy_female": "59.68"
+    },
+    {
+      "rank": "194",
+      "country": "Guinea",
+      "life_expectancy_total": "61.06",
+      "life_expectancy_male": "62.27",
+      "life_expectancy_female": "59.8"
+    },
+    {
+      "rank": "195",
+      "country": "Mali",
+      "life_expectancy_total": "60.89",
+      "life_expectancy_male": "62.38",
+      "life_expectancy_female": "59.46"
+    },
+    {
+      "rank": "196",
+      "country": "Somalia",
+      "life_expectancy_total": "59.11",
+      "life_expectancy_male": "61.7",
+      "life_expectancy_female": "56.63"
+    },
+    {
+      "rank": "197",
+      "country": "Lesotho",
+      "life_expectancy_total": "58.22",
+      "life_expectancy_male": "60.87",
+      "life_expectancy_female": "55.44"
+    },
+    {
+      "rank": "198",
+      "country": "Central African Republic",
+      "life_expectancy_total": "57.9",
+      "life_expectancy_male": "59.8",
+      "life_expectancy_female": "55.73"
+    },
+    {
+      "rank": "199",
+      "country": "South Sudan",
+      "life_expectancy_total": "57.85",
+      "life_expectancy_male": "60.86",
+      "life_expectancy_female": "54.87"
+    },
+    {
+      "rank": "200",
+      "country": "Chad",
+      "life_expectancy_total": "55.43",
+      "life_expectancy_male": "57.39",
+      "life_expectancy_female": "53.54"
+    },
+    {
+      "rank": "201",
+      "country": "Nigeria",
+      "life_expectancy_total": "54.78",
+      "life_expectancy_male": "55.12",
+      "life_expectancy_female": "54.45"
+    }
+  ]
+}

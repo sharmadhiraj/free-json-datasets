@@ -5,8 +5,8 @@
       {
         "title": "Nobel Prizes 2024",
         "subtitle": "Complete list of Nobel Prizes from 1901 to 2024",
-        "updated_at": "August 14, 2025 10:06 AM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/nobel-prizes.json"
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/nobel_prizes.json"
       }
     ]
   },
@@ -14,16 +14,16 @@
     "category": "Demographics & Population",
     "datasets": [
       {
-        "title": "World Population by Country (2025)",
-        "subtitle": "Latest country-wise population data as of 2025",
-        "updated_at": "August 14, 2025 10:06 AM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/world_population_by_country.json"
-      },
-      {
         "title": "Largest Cities by Population (2025)",
         "subtitle": "City-wise population data for the year 2025",
-        "updated_at": "August 14, 2025 10:18 AM UTC",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/largest_cities_by_population.json"
+      },
+      {
+        "title": "World Population by Country (2025)",
+        "subtitle": "Latest country-wise population data as of 2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/world_population_by_country.json"
       }
     ]
   },
@@ -31,44 +31,33 @@
     "category": "Economy & Finance",
     "datasets": [
       {
+        "title": "Forbes Billionaires List",
+        "subtitle": "Up-to-date ranking of the world's wealthiest individuals as of August 20, 2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/forbes_billionaires_list.json"
+      },
+      {
         "title": "Global GDP by Country (2023)",
         "subtitle": "Nominal GDP (in USD) for all countries in 2023",
-        "updated_at": "August 14, 2025 10:06 AM UTC",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/gdp_by_country.json"
       },
       {
         "title": "NEPSE Listed Companies",
         "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
-        "updated_at": "August 14, 2025 10:06 AM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/nepse-listed-companies.json"
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/nepse_listed_companies.json"
       }
     ]
   },
   {
-    "category": "Sports & Entertainment",
+    "category": "Education & Knowledge",
     "datasets": [
       {
-        "title": "Premier League Tables",
-        "subtitle": "Season-by-season league tables from 1992/93 to 2024/2025",
-        "updated_at": "August 14, 2025 10:07 AM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/premier-league-table-all-seasons.json"
-      },
-      {
-        "title": "IMDb Top 250 Movies",
-        "subtitle": "A curated list of the highest-rated films from IMDb's Top 250",
-        "updated_at": "August 15, 2025 07:41 AM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/imdb-top-movies.json"
-      }
-    ]
-  },
-  {
-    "category": "Technology & Internet",
-    "datasets": [
-      {
-        "title": "TIOBE Index - Top Programming Languages (August 2025)",
-        "subtitle": "Popularity rankings of programming languages as of August 2025",
-        "updated_at": "August 14, 2025 10:07 AM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/popular_programming_languages.json"
+        "title": "Literacy Rate by Country (2025)",
+        "subtitle": "Percentage of adults (15+) who can read and write a simple statement in everyday life, 2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/literacy_rate_by_country.json"
       }
     ]
   },
@@ -78,8 +67,47 @@
       {
         "title": "Longest Rivers in the World",
         "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
-        "updated_at": "August 15, 2025 07:57 AM UTC",
-        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/longest-rivers.json"
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/longest_rivers.json"
+      }
+    ]
+  },
+  {
+    "category": "Health & Medicine",
+    "datasets": [
+      {
+        "title": "Life Expectancy by Country (2025)",
+        "subtitle": "Average life expectancy of adults worldwide, with breakdown by gender, as reported in 2025.",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/life_expectancy_by_country.json"
+      }
+    ]
+  },
+  {
+    "category": "Sports & Entertainment",
+    "datasets": [
+      {
+        "title": "IMDb Top 250 Movies",
+        "subtitle": "A curated list of the highest-rated films from IMDb's Top 250",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/imdb_top_movies.json"
+      },
+      {
+        "title": "Premier League Tables",
+        "subtitle": "Season-by-season league tables from 1992/93 to 2024/2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/premier_league_table_all_seasons.json"
+      }
+    ]
+  },
+  {
+    "category": "Technology & Internet",
+    "datasets": [
+      {
+        "title": "TIOBE Index - Top Programming Languages (August 2025)",
+        "subtitle": "Popularity rankings of programming languages as of August 2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/popular_programming_languages.json"
       }
     ]
   }
