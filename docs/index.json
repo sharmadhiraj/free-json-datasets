@@ -43,6 +43,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/gdp_by_country.json"
       },
       {
+        "title": "Inflation Rate by Country (2015–2024)",
+        "subtitle": "Annual inflation rates for each country from 2015 to 2024",
+        "updated_at": "August 28, 2025 05:24 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_inflation_rate.json"
+      },
+      {
         "title": "NEPSE Listed Companies",
         "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
         "updated_at": "August 20, 2025 09:42 AM UTC",
@@ -86,6 +92,12 @@
   {
     "category": "Sports & Entertainment",
     "datasets": [
+      {
+        "title": "All-Time Summer Olympics Medal Tally (2025)",
+        "subtitle": "Updated Medal Tally up to 2025 (Summer Olympics)",
+        "updated_at": "August 28, 2025 05:17 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/all_time_olympic_games_medal_tally.json"
+      },
       {
         "title": "IMDb Top 250 Movies",
         "subtitle": "A curated list of the highest-rated films from IMDb's Top 250",

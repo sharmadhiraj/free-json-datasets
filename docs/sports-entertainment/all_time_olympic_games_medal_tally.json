@@ -1,0 +1,1330 @@
+{
+  "title": "All-Time Summer Olympics Medal Tally (2025)",
+  "subtitle": "Updated Medal Tally up to 2025 (Summer Olympics)",
+  "updated_at": "August 28, 2025 05:17 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "nation": "United States",
+      "no_of_games": "28",
+      "gold": "1061",
+      "silver": "836",
+      "bronze": "739",
+      "total_medals": "2636"
+    },
+    {
+      "rank": "2",
+      "nation": "Soviet Union",
+      "no_of_games": "10",
+      "gold": "440",
+      "silver": "357",
+      "bronze": "325",
+      "total_medals": "1122"
+    },
+    {
+      "rank": "3",
+      "nation": "Germany",
+      "no_of_games": "25",
+      "gold": "285",
+      "silver": "326",
+      "bronze": "363",
+      "total_medals": "974"
+    },
+    {
+      "rank": "4",
+      "nation": "Great Britain",
+      "no_of_games": "29",
+      "gold": "285",
+      "silver": "315",
+      "bronze": "315",
+      "total_medals": "915"
+    },
+    {
+      "rank": "5",
+      "nation": "China",
+      "no_of_games": "11",
+      "gold": "262",
+      "silver": "199",
+      "bronze": "173",
+      "total_medals": "634"
+    },
+    {
+      "rank": "6",
+      "nation": "France",
+      "no_of_games": "29",
+      "gold": "226",
+      "silver": "258",
+      "bronze": "280",
+      "total_medals": "764"
+    },
+    {
+      "rank": "7",
+      "nation": "Italy",
+      "no_of_games": "28",
+      "gold": "217",
+      "silver": "188",
+      "bronze": "213",
+      "total_medals": "618"
+    },
+    {
+      "rank": "8",
+      "nation": "Hungary",
+      "no_of_games": "27",
+      "gold": "181",
+      "silver": "154",
+      "bronze": "176",
+      "total_medals": "511"
+    },
+    {
+      "rank": "9",
+      "nation": "Russia",
+      "no_of_games": "10",
+      "gold": "170",
+      "silver": "157",
+      "bronze": "178",
+      "total_medals": "505"
+    },
+    {
+      "rank": "10",
+      "nation": "Japan",
+      "no_of_games": "23",
+      "gold": "169",
+      "silver": "150",
+      "bronze": "178",
+      "total_medals": "497"
+    },
+    {
+      "rank": "11",
+      "nation": "Australia",
+      "no_of_games": "29",
+      "gold": "167",
+      "silver": "177",
+      "bronze": "213",
+      "total_medals": "557"
+    },
+    {
+      "rank": "12",
+      "nation": "East Germany",
+      "no_of_games": "5",
+      "gold": "153",
+      "silver": "129",
+      "bronze": "127",
+      "total_medals": "409"
+    },
+    {
+      "rank": "13",
+      "nation": "Sweden",
+      "no_of_games": "28",
+      "gold": "148",
+      "silver": "176",
+      "bronze": "179",
+      "total_medals": "503"
+    },
+    {
+      "rank": "14",
+      "nation": "Finland",
+      "no_of_games": "26",
+      "gold": "101",
+      "silver": "85",
+      "bronze": "119",
+      "total_medals": "305"
+    },
+    {
+      "rank": "15",
+      "nation": "South Korea",
+      "no_of_games": "18",
+      "gold": "96",
+      "silver": "91",
+      "bronze": "100",
+      "total_medals": "287"
+    },
+    {
+      "rank": "16",
+      "nation": "Netherlands",
+      "no_of_games": "27",
+      "gold": "95",
+      "silver": "104",
+      "bronze": "122",
+      "total_medals": "321"
+    },
+    {
+      "rank": "17",
+      "nation": "Romania",
+      "no_of_games": "22",
+      "gold": "90",
+      "silver": "97",
+      "bronze": "121",
+      "total_medals": "308"
+    },
+    {
+      "rank": "18",
+      "nation": "Cuba",
+      "no_of_games": "21",
+      "gold": "85",
+      "silver": "71",
+      "bronze": "85",
+      "total_medals": "241"
+    },
+    {
+      "rank": "19",
+      "nation": "Poland",
+      "no_of_games": "22",
+      "gold": "72",
+      "silver": "89",
+      "bronze": "137",
+      "total_medals": "298"
+    },
+    {
+      "rank": "20",
+      "nation": "Canada",
+      "no_of_games": "27",
+      "gold": "71",
+      "silver": "108",
+      "bronze": "147",
+      "total_medals": "326"
+    },
+    {
+      "rank": "21",
+      "nation": "Norway",
+      "no_of_games": "26",
+      "gold": "60",
+      "silver": "51",
+      "bronze": "49",
+      "total_medals": "160"
+    },
+    {
+      "rank": "22",
+      "nation": "Bulgaria",
+      "no_of_games": "21",
+      "gold": "54",
+      "silver": "88",
+      "bronze": "82",
+      "total_medals": "224"
+    },
+    {
+      "rank": "23",
+      "nation": "Switzerland",
+      "no_of_games": "29",
+      "gold": "53",
+      "silver": "79",
+      "bronze": "73",
+      "total_medals": "205"
+    },
+    {
+      "rank": "24",
+      "nation": "New Zealand",
+      "no_of_games": "24",
+      "gold": "53",
+      "silver": "33",
+      "bronze": "53",
+      "total_medals": "139"
+    },
+    {
+      "rank": "25",
+      "nation": "Czechoslovakia",
+      "no_of_games": "16",
+      "gold": "49",
+      "silver": "49",
+      "bronze": "45",
+      "total_medals": "143"
+    },
+    {
+      "rank": "26",
+      "nation": "Denmark",
+      "no_of_games": "28",
+      "gold": "48",
+      "silver": "78",
+      "bronze": "79",
+      "total_medals": "205"
+    },
+    {
+      "rank": "27",
+      "nation": "Spain",
+      "no_of_games": "24",
+      "gold": "48",
+      "silver": "72",
+      "bronze": "47",
+      "total_medals": "167"
+    },
+    {
+      "rank": "28",
+      "nation": "Belgium",
+      "no_of_games": "27",
+      "gold": "43",
+      "silver": "54",
+      "bronze": "58",
+      "total_medals": "155"
+    },
+    {
+      "rank": "29",
+      "nation": "Türkiye",
+      "no_of_games": "23",
+      "gold": "41",
+      "silver": "26",
+      "bronze": "37",
+      "total_medals": "104"
+    },
+    {
+      "rank": "30",
+      "nation": "Brazil",
+      "no_of_games": "23",
+      "gold": "37",
+      "silver": "42",
+      "bronze": "71",
+      "total_medals": "150"
+    },
+    {
+      "rank": "31",
+      "nation": "Ukraine",
+      "no_of_games": "7",
+      "gold": "35",
+      "silver": "36",
+      "bronze": "68",
+      "total_medals": "139"
+    },
+    {
+      "rank": "32",
+      "nation": "Greece",
+      "no_of_games": "29",
+      "gold": "35",
+      "silver": "45",
+      "bronze": "41",
+      "total_medals": "121"
+    },
+    {
+      "rank": "33",
+      "nation": "Kenya",
+      "no_of_games": "15",
+      "gold": "35",
+      "silver": "42",
+      "bronze": "36",
+      "total_medals": "113"
+    },
+    {
+      "rank": "34",
+      "nation": "Yugoslavia",
+      "no_of_games": "18",
+      "gold": "28",
+      "silver": "31",
+      "bronze": "31",
+      "total_medals": "90"
+    },
+    {
+      "rank": "35",
+      "nation": "South Africa",
+      "no_of_games": "20",
+      "gold": "27",
+      "silver": "33",
+      "bronze": "29",
+      "total_medals": "89"
+    },
+    {
+      "rank": "36",
+      "nation": "Jamaica",
+      "no_of_games": "18",
+      "gold": "26",
+      "silver": "36",
+      "bronze": "25",
+      "total_medals": "87"
+    },
+    {
+      "rank": "37",
+      "nation": "Iran",
+      "no_of_games": "17",
+      "gold": "24",
+      "silver": "23",
+      "bronze": "29",
+      "total_medals": "76"
+    },
+    {
+      "rank": "38",
+      "nation": "Ethiopia",
+      "no_of_games": "14",
+      "gold": "23",
+      "silver": "12",
+      "bronze": "23",
+      "total_medals": "58"
+    },
+    {
+      "rank": "39",
+      "nation": "Argentina",
+      "no_of_games": "25",
+      "gold": "21",
+      "silver": "26",
+      "bronze": "30",
+      "total_medals": "77"
+    },
+    {
+      "rank": "40",
+      "nation": "Austria",
+      "no_of_games": "28",
+      "gold": "19",
+      "silver": "34",
+      "bronze": "41",
+      "total_medals": "94"
+    },
+    {
+      "rank": "41",
+      "nation": "Czechia",
+      "no_of_games": "7",
+      "gold": "19",
+      "silver": "21",
+      "bronze": "27",
+      "total_medals": "67"
+    },
+    {
+      "rank": "42",
+      "nation": "North Korea",
+      "no_of_games": "10",
+      "gold": "16",
+      "silver": "16",
+      "bronze": "22",
+      "total_medals": "54"
+    },
+    {
+      "rank": "43",
+      "nation": "Kazakhstan",
+      "no_of_games": "7",
+      "gold": "15",
+      "silver": "21",
+      "bronze": "36",
+      "total_medals": "72"
+    },
+    {
+      "rank": "44",
+      "nation": "Croatia",
+      "no_of_games": "8",
+      "gold": "14",
+      "silver": "13",
+      "bronze": "14",
+      "total_medals": "41"
+    },
+    {
+      "rank": "45",
+      "nation": "Belarus",
+      "no_of_games": "7",
+      "gold": "13",
+      "silver": "30",
+      "bronze": "42",
+      "total_medals": "85"
+    },
+    {
+      "rank": "46",
+      "nation": "Mexico",
+      "no_of_games": "24",
+      "gold": "13",
+      "silver": "24",
+      "bronze": "36",
+      "total_medals": "73"
+    },
+    {
+      "rank": "47",
+      "nation": "Ireland",
+      "no_of_games": "22",
+      "gold": "11",
+      "silver": "10",
+      "bronze": "14",
+      "total_medals": "35"
+    },
+    {
+      "rank": "48",
+      "nation": "Georgia",
+      "no_of_games": "7",
+      "gold": "10",
+      "silver": "12",
+      "bronze": "18",
+      "total_medals": "40"
+    },
+    {
+      "rank": "49",
+      "nation": "Uzbekistan",
+      "no_of_games": "7",
+      "gold": "10",
+      "silver": "6",
+      "bronze": "20",
+      "total_medals": "36"
+    },
+    {
+      "rank": "50",
+      "nation": "Estonia",
+      "no_of_games": "13",
+      "gold": "10",
+      "silver": "9",
+      "bronze": "17",
+      "total_medals": "36"
+    },
+    {
+      "rank": "51",
+      "nation": "Thailand",
+      "no_of_games": "17",
+      "gold": "10",
+      "silver": "8",
+      "bronze": "17",
+      "total_medals": "35"
+    },
+    {
+      "rank": "52",
+      "nation": "India",
+      "no_of_games": "25",
+      "gold": "10",
+      "silver": "9",
+      "bronze": "14",
+      "total_medals": "35"
+    },
+    {
+      "rank": "53",
+      "nation": "Slovakia",
+      "no_of_games": "7",
+      "gold": "10",
+      "silver": "14",
+      "bronze": "8",
+      "total_medals": "32"
+    },
+    {
+      "rank": "54",
+      "nation": "Egypt",
+      "no_of_games": "23",
+      "gold": "8",
+      "silver": "11",
+      "bronze": "19",
+      "total_medals": "38"
+    },
+    {
+      "rank": "55",
+      "nation": "Indonesia",
+      "no_of_games": "16",
+      "gold": "8",
+      "silver": "14",
+      "bronze": "15",
+      "total_medals": "37"
+    },
+    {
+      "rank": "56",
+      "nation": "Slovenia",
+      "no_of_games": "8",
+      "gold": "8",
+      "silver": "9",
+      "bronze": "11",
+      "total_medals": "28"
+    },
+    {
+      "rank": "57",
+      "nation": "Mixed team",
+      "no_of_games": "3",
+      "gold": "8",
+      "silver": "4",
+      "bronze": "4",
+      "total_medals": "16"
+    },
+    {
+      "rank": "58",
+      "nation": "Bahamas",
+      "no_of_games": "17",
+      "gold": "8",
+      "silver": "2",
+      "bronze": "6",
+      "total_medals": "14"
+    },
+    {
+      "rank": "59",
+      "nation": "Azerbaijan",
+      "no_of_games": "7",
+      "gold": "7",
+      "silver": "14",
+      "bronze": "28",
+      "total_medals": "49"
+    },
+    {
+      "rank": "60",
+      "nation": "Chinese Taipei",
+      "no_of_games": "15",
+      "gold": "7",
+      "silver": "11",
+      "bronze": "18",
+      "total_medals": "36"
+    },
+    {
+      "rank": "61",
+      "nation": "Morocco",
+      "no_of_games": "15",
+      "gold": "7",
+      "silver": "5",
+      "bronze": "12",
+      "total_medals": "24"
+    },
+    {
+      "rank": "62",
+      "nation": "Lithuania",
+      "no_of_games": "10",
+      "gold": "6",
+      "silver": "7",
+      "bronze": "13",
+      "total_medals": "26"
+    },
+    {
+      "rank": "63",
+      "nation": "Serbia",
+      "no_of_games": "5",
+      "gold": "6",
+      "silver": "7",
+      "bronze": "11",
+      "total_medals": "24"
+    },
+    {
+      "rank": "64",
+      "nation": "Colombia",
+      "no_of_games": "20",
+      "gold": "5",
+      "silver": "13",
+      "bronze": "15",
+      "total_medals": "33"
+    },
+    {
+      "rank": "65",
+      "nation": "Portugal",
+      "no_of_games": "25",
+      "gold": "5",
+      "silver": "9",
+      "bronze": "14",
+      "total_medals": "28"
+    },
+    {
+      "rank": "66",
+      "nation": "Algeria",
+      "no_of_games": "14",
+      "gold": "5",
+      "silver": "4",
+      "bronze": "8",
+      "total_medals": "17"
+    },
+    {
+      "rank": "67",
+      "nation": "Tunisia",
+      "no_of_games": "15",
+      "gold": "5",
+      "silver": "3",
+      "bronze": "7",
+      "total_medals": "15"
+    },
+    {
+      "rank": "68",
+      "nation": "Latvia",
+      "no_of_games": "12",
+      "gold": "4",
+      "silver": "11",
+      "bronze": "6",
+      "total_medals": "21"
+    },
+    {
+      "rank": "69",
+      "nation": "Uganda",
+      "no_of_games": "16",
+      "gold": "4",
+      "silver": "4",
+      "bronze": "3",
+      "total_medals": "11"
+    },
+    {
+      "rank": "70",
+      "nation": "Nigeria",
+      "no_of_games": "17",
+      "gold": "3",
+      "silver": "11",
+      "bronze": "13",
+      "total_medals": "27"
+    },
+    {
+      "rank": "71",
+      "nation": "Venezuela",
+      "no_of_games": "19",
+      "gold": "3",
+      "silver": "7",
+      "bronze": "9",
+      "total_medals": "19"
+    },
+    {
+      "rank": "72",
+      "nation": "Trinidad and Tobago",
+      "no_of_games": "18",
+      "gold": "3",
+      "silver": "5",
+      "bronze": "11",
+      "total_medals": "19"
+    },
+    {
+      "rank": "73",
+      "nation": "Israel",
+      "no_of_games": "17",
+      "gold": "3",
+      "silver": "1",
+      "bronze": "9",
+      "total_medals": "13"
+    },
+    {
+      "rank": "74",
+      "nation": "Dominican Republic",
+      "no_of_games": "15",
+      "gold": "3",
+      "silver": "5",
+      "bronze": "4",
+      "total_medals": "12"
+    },
+    {
+      "rank": "75",
+      "nation": "Pakistan",
+      "no_of_games": "18",
+      "gold": "3",
+      "silver": "3",
+      "bronze": "4",
+      "total_medals": "10"
+    },
+    {
+      "rank": "76",
+      "nation": "Zimbabwe",
+      "no_of_games": "14",
+      "gold": "3",
+      "silver": "4",
+      "bronze": "1",
+      "total_medals": "8"
+    },
+    {
+      "rank": "77",
+      "nation": "Cameroon",
+      "no_of_games": "15",
+      "gold": "3",
+      "silver": "1",
+      "bronze": "2",
+      "total_medals": "6"
+    },
+    {
+      "rank": "78",
+      "nation": "Ecuador",
+      "no_of_games": "15",
+      "gold": "3",
+      "silver": "2",
+      "bronze": "0",
+      "total_medals": "5"
+    },
+    {
+      "rank": "79",
+      "nation": "Kosovo",
+      "no_of_games": "2",
+      "gold": "3",
+      "silver": "0",
+      "bronze": "0",
+      "total_medals": "3"
+    },
+    {
+      "rank": "80",
+      "nation": "Mongolia",
+      "no_of_games": "14",
+      "gold": "2",
+      "silver": "11",
+      "bronze": "17",
+      "total_medals": "30"
+    },
+    {
+      "rank": "81",
+      "nation": "Armenia",
+      "no_of_games": "7",
+      "gold": "2",
+      "silver": "8",
+      "bronze": "8",
+      "total_medals": "18"
+    },
+    {
+      "rank": "82",
+      "nation": "Chile",
+      "no_of_games": "24",
+      "gold": "2",
+      "silver": "7",
+      "bronze": "4",
+      "total_medals": "13"
+    },
+    {
+      "rank": "83",
+      "nation": "Puerto Rico",
+      "no_of_games": "19",
+      "gold": "2",
+      "silver": "2",
+      "bronze": "6",
+      "total_medals": "10"
+    },
+    {
+      "rank": "84",
+      "nation": "Uruguay",
+      "no_of_games": "22",
+      "gold": "2",
+      "silver": "2",
+      "bronze": "6",
+      "total_medals": "10"
+    },
+    {
+      "rank": "85",
+      "nation": "Hong Kong",
+      "no_of_games": "17",
+      "gold": "2",
+      "silver": "3",
+      "bronze": "4",
+      "total_medals": "9"
+    },
+    {
+      "rank": "86",
+      "nation": "Qatar",
+      "no_of_games": "10",
+      "gold": "2",
+      "silver": "1",
+      "bronze": "5",
+      "total_medals": "8"
+    },
+    {
+      "rank": "87",
+      "nation": "Fiji",
+      "no_of_games": "15",
+      "gold": "2",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "3"
+    },
+    {
+      "rank": "88",
+      "nation": "Bahrain",
+      "no_of_games": "10",
+      "gold": "2",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "3"
+    },
+    {
+      "rank": "89",
+      "nation": "Philippines",
+      "no_of_games": "22",
+      "gold": "1",
+      "silver": "5",
+      "bronze": "8",
+      "total_medals": "14"
+    },
+    {
+      "rank": "90",
+      "nation": "Independent Olympic Athletes/Participants",
+      "no_of_games": "4",
+      "gold": "1",
+      "silver": "1",
+      "bronze": "3",
+      "total_medals": "5"
+    },
+    {
+      "rank": "91",
+      "nation": "Singapore",
+      "no_of_games": "17",
+      "gold": "1",
+      "silver": "2",
+      "bronze": "2",
+      "total_medals": "5"
+    },
+    {
+      "rank": "92",
+      "nation": "Vietnam",
+      "no_of_games": "16",
+      "gold": "1",
+      "silver": "3",
+      "bronze": "1",
+      "total_medals": "5"
+    },
+    {
+      "rank": "93",
+      "nation": "Costa Rica",
+      "no_of_games": "16",
+      "gold": "1",
+      "silver": "1",
+      "bronze": "2",
+      "total_medals": "4"
+    },
+    {
+      "rank": "94",
+      "nation": "Peru",
+      "no_of_games": "19",
+      "gold": "1",
+      "silver": "3",
+      "bronze": "0",
+      "total_medals": "4"
+    },
+    {
+      "rank": "95",
+      "nation": "Ivory Coast",
+      "no_of_games": "14",
+      "gold": "1",
+      "silver": "1",
+      "bronze": "2",
+      "total_medals": "4"
+    },
+    {
+      "rank": "96",
+      "nation": "Tajikistan",
+      "no_of_games": "7",
+      "gold": "1",
+      "silver": "1",
+      "bronze": "2",
+      "total_medals": "4"
+    },
+    {
+      "rank": "97",
+      "nation": "Syria",
+      "no_of_games": "14",
+      "gold": "1",
+      "silver": "1",
+      "bronze": "2",
+      "total_medals": "4"
+    },
+    {
+      "rank": "98",
+      "nation": "Grenada",
+      "no_of_games": "10",
+      "gold": "1",
+      "silver": "1",
+      "bronze": "1",
+      "total_medals": "3"
+    },
+    {
+      "rank": "99",
+      "nation": "Panama",
+      "no_of_games": "18",
+      "gold": "1",
+      "silver": "0",
+      "bronze": "2",
+      "total_medals": "3"
+    },
+    {
+      "rank": "100",
+      "nation": "Jordan",
+      "no_of_games": "11",
+      "gold": "1",
+      "silver": "1",
+      "bronze": "1",
+      "total_medals": "3"
+    },
+    {
+      "rank": "101",
+      "nation": "Suriname",
+      "no_of_games": "13",
+      "gold": "1",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "2"
+    },
+    {
+      "rank": "102",
+      "nation": "Bermuda",
+      "no_of_games": "19",
+      "gold": "1",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "2"
+    },
+    {
+      "rank": "103",
+      "nation": "Mozambique",
+      "no_of_games": "11",
+      "gold": "1",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "2"
+    },
+    {
+      "rank": "104",
+      "nation": "Burundi",
+      "no_of_games": "7",
+      "gold": "1",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "2"
+    },
+    {
+      "rank": "105",
+      "nation": "Luxembourg",
+      "no_of_games": "24",
+      "gold": "1",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "2"
+    },
+    {
+      "rank": "106",
+      "nation": "United Arab Emirates",
+      "no_of_games": "10",
+      "gold": "1",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "2"
+    },
+    {
+      "rank": "107",
+      "nation": "Malaysia",
+      "no_of_games": "14",
+      "gold": "0",
+      "silver": "8",
+      "bronze": "5",
+      "total_medals": "13"
+    },
+    {
+      "rank": "108",
+      "nation": "Kyrgyzstan",
+      "no_of_games": "7",
+      "gold": "0",
+      "silver": "3",
+      "bronze": "4",
+      "total_medals": "7"
+    },
+    {
+      "rank": "109",
+      "nation": "Moldova",
+      "no_of_games": "7",
+      "gold": "0",
+      "silver": "2",
+      "bronze": "4",
+      "total_medals": "6"
+    },
+    {
+      "rank": "110",
+      "nation": "Ghana",
+      "no_of_games": "15",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "4",
+      "total_medals": "5"
+    },
+    {
+      "rank": "111",
+      "nation": "Namibia",
+      "no_of_games": "8",
+      "gold": "0",
+      "silver": "5",
+      "bronze": "0",
+      "total_medals": "5"
+    },
+    {
+      "rank": "112",
+      "nation": "Bohemia",
+      "no_of_games": "3",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "3",
+      "total_medals": "4"
+    },
+    {
+      "rank": "113",
+      "nation": "Iceland",
+      "no_of_games": "21",
+      "gold": "0",
+      "silver": "2",
+      "bronze": "2",
+      "total_medals": "4"
+    },
+    {
+      "rank": "114",
+      "nation": "Saudi Arabia",
+      "no_of_games": "12",
+      "gold": "0",
+      "silver": "2",
+      "bronze": "2",
+      "total_medals": "4"
+    },
+    {
+      "rank": "115",
+      "nation": "Lebanon",
+      "no_of_games": "18",
+      "gold": "0",
+      "silver": "2",
+      "bronze": "2",
+      "total_medals": "4"
+    },
+    {
+      "rank": "116",
+      "nation": "San Marino",
+      "no_of_games": "15",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "2",
+      "total_medals": "3"
+    },
+    {
+      "rank": "117",
+      "nation": "Kuwait",
+      "no_of_games": "13",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "3",
+      "total_medals": "3"
+    },
+    {
+      "rank": "118",
+      "nation": "Sri Lanka",
+      "no_of_games": "18",
+      "gold": "0",
+      "silver": "2",
+      "bronze": "0",
+      "total_medals": "2"
+    },
+    {
+      "rank": "119",
+      "nation": "Serbia and Montenegro",
+      "no_of_games": "1",
+      "gold": "0",
+      "silver": "2",
+      "bronze": "0",
+      "total_medals": "2"
+    },
+    {
+      "rank": "120",
+      "nation": "Haiti",
+      "no_of_games": "16",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "1",
+      "total_medals": "2"
+    },
+    {
+      "rank": "121",
+      "nation": "North Macedonia",
+      "no_of_games": "7",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "1",
+      "total_medals": "2"
+    },
+    {
+      "rank": "122",
+      "nation": "Niger",
+      "no_of_games": "13",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "1",
+      "total_medals": "2"
+    },
+    {
+      "rank": "123",
+      "nation": "Zambia",
+      "no_of_games": "14",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "1",
+      "total_medals": "2"
+    },
+    {
+      "rank": "124",
+      "nation": "British West Indies",
+      "no_of_games": "1",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "2",
+      "total_medals": "2"
+    },
+    {
+      "rank": "125",
+      "nation": "Botswana",
+      "no_of_games": "11",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "1",
+      "total_medals": "2"
+    },
+    {
+      "rank": "126",
+      "nation": "Tanzania",
+      "no_of_games": "14",
+      "gold": "0",
+      "silver": "2",
+      "bronze": "0",
+      "total_medals": "2"
+    },
+    {
+      "rank": "127",
+      "nation": "Afghanistan",
+      "no_of_games": "15",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "2",
+      "total_medals": "2"
+    },
+    {
+      "rank": "128",
+      "nation": "Iraq",
+      "no_of_games": "15",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "1"
+    },
+    {
+      "rank": "129",
+      "nation": "Sudan",
+      "no_of_games": "13",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "130",
+      "nation": "Cyprus",
+      "no_of_games": "11",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "131",
+      "nation": "Senegal",
+      "no_of_games": "15",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "132",
+      "nation": "Samoa",
+      "no_of_games": "10",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "133",
+      "nation": "Guyana",
+      "no_of_games": "18",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "1"
+    },
+    {
+      "rank": "134",
+      "nation": "Guatemala",
+      "no_of_games": "15",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "135",
+      "nation": "Paraguay",
+      "no_of_games": "13",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "136",
+      "nation": "Netherlands Antilles",
+      "no_of_games": "13",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "137",
+      "nation": "Gabon",
+      "no_of_games": "11",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "138",
+      "nation": "Barbados",
+      "no_of_games": "13",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "1"
+    },
+    {
+      "rank": "139",
+      "nation": "Montenegro",
+      "no_of_games": "4",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "140",
+      "nation": "Mauritius",
+      "no_of_games": "10",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "1"
+    },
+    {
+      "rank": "141",
+      "nation": "Eritrea",
+      "no_of_games": "6",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "1"
+    },
+    {
+      "rank": "142",
+      "nation": "Burkina Faso",
+      "no_of_games": "10",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "1"
+    },
+    {
+      "rank": "143",
+      "nation": "Virgin Islands",
+      "no_of_games": "13",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "144",
+      "nation": "Djibouti",
+      "no_of_games": "9",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "1"
+    },
+    {
+      "rank": "145",
+      "nation": "Turkmenistan",
+      "no_of_games": "7",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "146",
+      "nation": "Tonga",
+      "no_of_games": "10",
+      "gold": "0",
+      "silver": "1",
+      "bronze": "0",
+      "total_medals": "1"
+    },
+    {
+      "rank": "147",
+      "nation": "Togo",
+      "no_of_games": "11",
+      "gold": "0",
+      "silver": "0",
+      "bronze": "1",
+      "total_medals": "1"
+    }
+  ]
+}

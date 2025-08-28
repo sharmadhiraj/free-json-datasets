@@ -48,6 +48,8 @@ Each dataset follows this JSON format:
   Up-to-date ranking of the world's wealthiest individuals as of August 20, 2025
 - [**Global GDP by Country (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/gdp_by_country.json)  
   Nominal GDP (in USD) for all countries in 2023
+- [**Inflation Rate by Country (2015–2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/list_of_countries_by_inflation_rate.json)  
+  Annual inflation rates for each country from 2015 to 2024
 - [**NEPSE Listed Companies**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/nepse_listed_companies.json)  
   List of all companies listed on NEPSE with their shares, paid-up value, and sector
 
@@ -68,6 +70,8 @@ Each dataset follows this JSON format:
 
 ### Sports & Entertainment
 
+- [**All-Time Summer Olympics Medal Tally (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/all_time_olympic_games_medal_tally.json)  
+  Updated Medal Tally up to 2025 (Summer Olympics)
 - [**IMDb Top 250 Movies**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/imdb_top_movies.json)  
   A curated list of the highest-rated films from IMDb's Top 250
 - [**Premier League Tables**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/premier_league_table_all_seasons.json)  
