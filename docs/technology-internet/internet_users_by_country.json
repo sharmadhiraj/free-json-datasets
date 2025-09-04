@@ -1,0 +1,1568 @@
+{
+  "title": "Internet Users by Country 2025",
+  "subtitle": "Estimated Internet Users and Usage Percentage by Country (2025)",
+  "updated_at": "September 02, 2025 10:47 AM UTC",
+  "data": [
+    {
+      "country": "China",
+      "internet_users_cia": "1B",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "77.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "India",
+      "internet_users_cia": "644M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "55.9%",
+      "itu_data_year": "2022"
+    },
+    {
+      "country": "United States",
+      "internet_users_cia": "312.8M",
+      "cia_data_year": "2011",
+      "internet_usage_percent_itu": "93.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Brazil",
+      "internet_users_cia": "170.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "84.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Indonesia",
+      "internet_users_cia": "167.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "69.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Russia",
+      "internet_users_cia": "132M",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "92.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Nigeria",
+      "internet_users_cia": "115.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "39.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Mexico",
+      "internet_users_cia": "101M",
+      "cia_data_year": "2023",
+      "internet_usage_percent_itu": "81.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Japan",
+      "internet_users_cia": "99.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "87%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Philippines",
+      "internet_users_cia": "87M",
+      "cia_data_year": "2024",
+      "internet_usage_percent_itu": "83.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Egypt",
+      "internet_users_cia": "79.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "72.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Germany",
+      "internet_users_cia": "75.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "93.5%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Vietnam",
+      "internet_users_cia": "71.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "78.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Iran",
+      "internet_users_cia": "69.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "79.6%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Turkey",
+      "internet_users_cia": "68.8M",
+      "cia_data_year": "2023",
+      "internet_usage_percent_itu": "87.3%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Bangladesh",
+      "internet_users_cia": "66.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "44.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "United Kingdom",
+      "internet_users_cia": "65M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "96.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Thailand",
+      "internet_users_cia": "61.2M",
+      "cia_data_year": "2020",
+      "internet_usage_percent_itu": "89.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "France",
+      "internet_users_cia": "55.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "86.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "South Korea",
+      "internet_users_cia": "51M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "97.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Pakistan",
+      "internet_users_cia": "48.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "27.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Italy",
+      "internet_users_cia": "44.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "87%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Spain",
+      "internet_users_cia": "44.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "95.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "South Africa",
+      "internet_users_cia": "42.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "75.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Argentina",
+      "internet_users_cia": "39.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "89.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Colombia",
+      "internet_users_cia": "38M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "77.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Saudi Arabia",
+      "internet_users_cia": "36M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "100%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Canada",
+      "internet_users_cia": "35.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "94%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Ukraine",
+      "internet_users_cia": "34.6M",
+      "cia_data_year": "2023",
+      "internet_usage_percent_itu": "82.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Malaysia",
+      "internet_users_cia": "33M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "97.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Morocco",
+      "internet_users_cia": "32.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "91%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Poland",
+      "internet_users_cia": "32.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "86.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Algeria",
+      "internet_users_cia": "31.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "76.9%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Uzbekistan",
+      "internet_users_cia": "26.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "89%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Australia",
+      "internet_users_cia": "25M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "97.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Peru",
+      "internet_users_cia": "24.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "79.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Myanmar",
+      "internet_users_cia": "23.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "58.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Venezuela",
+      "internet_users_cia": "22.7M",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "61.6%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Ghana",
+      "internet_users_cia": "22.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "69.9%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Taiwan",
+      "internet_users_cia": "21.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "93.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Iraq",
+      "internet_users_cia": "21.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "81.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "DR Congo",
+      "internet_users_cia": "21.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "30.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Tanzania",
+      "internet_users_cia": "20.5M",
+      "cia_data_year": "2023",
+      "internet_usage_percent_itu": "29.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Ethiopia",
+      "internet_users_cia": "20.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "16.7%",
+      "itu_data_year": "2021"
+    },
+    {
+      "country": "Kazakhstan",
+      "internet_users_cia": "17.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "92.9%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Chile",
+      "internet_users_cia": "17.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "94.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Netherlands",
+      "internet_users_cia": "16.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "97%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Romania",
+      "internet_users_cia": "16M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "89.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Nepal",
+      "internet_users_cia": "15.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "55.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Kenya",
+      "internet_users_cia": "15.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "35%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Sri Lanka",
+      "internet_users_cia": "14.7M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "51.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Ecuador",
+      "internet_users_cia": "13.7M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "77.2%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Sudan",
+      "internet_users_cia": "13.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "26.4%",
+      "itu_data_year": "2020"
+    },
+    {
+      "country": "Cameroon",
+      "internet_users_cia": "12.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "41.9%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Ivory Coast",
+      "internet_users_cia": "12.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "40.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Angola",
+      "internet_users_cia": "11.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "44.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Belgium",
+      "internet_users_cia": "10.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "94.6%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Cambodia",
+      "internet_users_cia": "10.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "60.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Senegal",
+      "internet_users_cia": "9.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "60.6%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Tunisia",
+      "internet_users_cia": "9.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "72.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "United Arab Emirates",
+      "internet_users_cia": "9.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "100%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Dominican Republic",
+      "internet_users_cia": "9.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "84.6%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Guatemala",
+      "internet_users_cia": "9.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "56.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Jordan",
+      "internet_users_cia": "9.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "92.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Czech Republic",
+      "internet_users_cia": "9.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "86%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Sweden",
+      "internet_users_cia": "8.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "95.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Hungary",
+      "internet_users_cia": "8.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "91.5%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Azerbaijan",
+      "internet_users_cia": "8.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "89%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Syria",
+      "internet_users_cia": "8.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "34.7%",
+      "itu_data_year": "2019"
+    },
+    {
+      "country": "Belarus",
+      "internet_users_cia": "8.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "91.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Switzerland",
+      "internet_users_cia": "8.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "97.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Austria",
+      "internet_users_cia": "8.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "94.9%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Yemen",
+      "internet_users_cia": "8.2M",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "13.8%",
+      "itu_data_year": "2020"
+    },
+    {
+      "country": "Portugal",
+      "internet_users_cia": "8.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "85.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Israel",
+      "internet_users_cia": "8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "87%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Bolivia",
+      "internet_users_cia": "7.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "70.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Cuba",
+      "internet_users_cia": "7.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "71.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Greece",
+      "internet_users_cia": "7.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "85%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Palestine",
+      "internet_users_cia": "7.5M",
+      "cia_data_year": "",
+      "internet_usage_percent_itu": "86.6%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Mali",
+      "internet_users_cia": "7.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "35.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Afghanistan",
+      "internet_users_cia": "7M",
+      "cia_data_year": "2020",
+      "internet_usage_percent_itu": "17.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Hong Kong",
+      "internet_users_cia": "7M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "96%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Denmark",
+      "internet_users_cia": "5.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "99.8%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Madagascar",
+      "internet_users_cia": "5.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "20.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Zimbabwe",
+      "internet_users_cia": "5.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "38.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Serbia",
+      "internet_users_cia": "5.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "85.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Niger",
+      "internet_users_cia": "5.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "23.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Mozambique",
+      "internet_users_cia": "5.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "19.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Singapore",
+      "internet_users_cia": "5.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "94.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Norway",
+      "internet_users_cia": "5.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "99%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Bulgaria",
+      "internet_users_cia": "5.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "80.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Paraguay",
+      "internet_users_cia": "5.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "78.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Finland",
+      "internet_users_cia": "5.1M",
+      "cia_data_year": "2023",
+      "internet_usage_percent_itu": "93.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "internet_users_cia": "5.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "88.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Guinea",
+      "internet_users_cia": "4.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "26.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "New Zealand",
+      "internet_users_cia": "4.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "96.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Lebanon",
+      "internet_users_cia": "4.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "83.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Burkina Faso",
+      "internet_users_cia": "4.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "17%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Slovakia",
+      "internet_users_cia": "4.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "89.8%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Malawi",
+      "internet_users_cia": "4.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "18%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Honduras",
+      "internet_users_cia": "4.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "58.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Ireland",
+      "internet_users_cia": "4.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "96.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Uganda",
+      "internet_users_cia": "4.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "15.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Laos",
+      "internet_users_cia": "4.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "63.6%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Benin",
+      "internet_users_cia": "4.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "32.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Oman",
+      "internet_users_cia": "4.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "95.3%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Costa Rica",
+      "internet_users_cia": "4.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "85.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Kuwait",
+      "internet_users_cia": "4.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "99.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Haiti",
+      "internet_users_cia": "4.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "39.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Zambia",
+      "internet_users_cia": "4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "33%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "El Salvador",
+      "internet_users_cia": "4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "67.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Nicaragua",
+      "internet_users_cia": "3.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "58.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Rwanda",
+      "internet_users_cia": "3.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "34.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Croatia",
+      "internet_users_cia": "3.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "83.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Papua New Guinea",
+      "internet_users_cia": "3.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "24.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Libya",
+      "internet_users_cia": "3.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "88.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Chad",
+      "internet_users_cia": "3.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "13.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Uruguay",
+      "internet_users_cia": "3.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "89.9%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Togo",
+      "internet_users_cia": "3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "37%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Tajikistan",
+      "internet_users_cia": "3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "56.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Panama",
+      "internet_users_cia": "3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "78%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Georgia",
+      "internet_users_cia": "2.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "81.9%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Mongolia",
+      "internet_users_cia": "2.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "83%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Mauritania",
+      "internet_users_cia": "2.7M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "37.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Qatar",
+      "internet_users_cia": "2.7M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "99.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Puerto Rico",
+      "internet_users_cia": "2.6M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "87.3%",
+      "itu_data_year": "2022"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "internet_users_cia": "2.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "83.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Somalia",
+      "internet_users_cia": "2.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "27.6%",
+      "itu_data_year": "2022"
+    },
+    {
+      "country": "Lithuania",
+      "internet_users_cia": "2.4M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "88.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Jamaica",
+      "internet_users_cia": "2.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "83.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Albania",
+      "internet_users_cia": "2.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "83.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Armenia",
+      "internet_users_cia": "2.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "80%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Botswana",
+      "internet_users_cia": "1.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "81.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Moldova",
+      "internet_users_cia": "1.9M",
+      "cia_data_year": "2023",
+      "internet_usage_percent_itu": "80.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Slovenia",
+      "internet_users_cia": "1.9M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "90.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Republic of the Congo",
+      "internet_users_cia": "1.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "38.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Liberia",
+      "internet_users_cia": "1.8M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "23.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "North Macedonia",
+      "internet_users_cia": "1.7M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "87.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Latvia",
+      "internet_users_cia": "1.7M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "92.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Gabon",
+      "internet_users_cia": "1.7M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "71.9%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Turkmenistan",
+      "internet_users_cia": "1.6M",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "21.3%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Bahrain",
+      "internet_users_cia": "1.5M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "100%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Namibia",
+      "internet_users_cia": "1.3M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "64.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "internet_users_cia": "1.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "84.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Estonia",
+      "internet_users_cia": "1.2M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "93.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Lesotho",
+      "internet_users_cia": "1.1M",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "48%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Sierra Leone",
+      "internet_users_cia": "1M",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "20.6%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Mauritius",
+      "internet_users_cia": "884K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "79.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "South Sudan",
+      "internet_users_cia": "869K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "9.3%",
+      "itu_data_year": "2020"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "internet_users_cia": "864K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "60.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Gambia",
+      "internet_users_cia": "858K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "45.9%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Cyprus",
+      "internet_users_cia": "809.9K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "91.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Fiji",
+      "internet_users_cia": "809.6K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "79.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Eritrea",
+      "internet_users_cia": "792K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "20%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Djibouti",
+      "internet_users_cia": "759K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "65%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Burundi",
+      "internet_users_cia": "754K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "11.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "internet_users_cia": "735K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "32.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Eswatini",
+      "internet_users_cia": "708K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "57.6%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Guyana",
+      "internet_users_cia": "680K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "81.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Bhutan",
+      "internet_users_cia": "670.8K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "88.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Luxembourg",
+      "internet_users_cia": "633.6K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "98.8%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Macau",
+      "internet_users_cia": "607.2K",
+      "cia_data_year": "2023",
+      "internet_usage_percent_itu": "89.2%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Central African Republic",
+      "internet_users_cia": "605K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "7.5%",
+      "itu_data_year": "2019"
+    },
+    {
+      "country": "Montenegro",
+      "internet_users_cia": "516.6K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "89.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Timor-Leste",
+      "internet_users_cia": "507K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "34%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Malta",
+      "internet_users_cia": "461.1K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "92.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Maldives",
+      "internet_users_cia": "447.2K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "84.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Brunei",
+      "internet_users_cia": "441K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "99%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Cape Verde",
+      "internet_users_cia": "413K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "73.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Suriname",
+      "internet_users_cia": "402.6K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "78.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Bahamas",
+      "internet_users_cia": "385.4K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "94.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Iceland",
+      "internet_users_cia": "370K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "99.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Solomon Islands",
+      "internet_users_cia": "255.6K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "42.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Belize",
+      "internet_users_cia": "248K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "72.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Barbados",
+      "internet_users_cia": "240.8K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "80%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "New Caledonia",
+      "internet_users_cia": "237.8K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "82%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Comoros",
+      "internet_users_cia": "221.4K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "35.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "French Polynesia",
+      "internet_users_cia": "218.1K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "72.7%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Vanuatu",
+      "internet_users_cia": "211.2K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "45.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Samoa",
+      "internet_users_cia": "171.6K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "58.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Saint Lucia",
+      "internet_users_cia": "140.4K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "70.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Guam",
+      "internet_users_cia": "136.8K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "80.5%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "internet_users_cia": "112.2K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "61.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Curacao",
+      "internet_users_cia": "112K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "68.1%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Aruba",
+      "internet_users_cia": "106.8K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "97.2%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Jersey",
+      "internet_users_cia": "96K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "41%",
+      "itu_data_year": "2012"
+    },
+    {
+      "country": "Grenada",
+      "internet_users_cia": "93.6K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "74.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Seychelles",
+      "internet_users_cia": "90.2K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "87.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "internet_users_cia": "89.3K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "77.6%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "internet_users_cia": "85K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "76%",
+      "itu_data_year": "2024"
+    },
+    {
+      "country": "Andorra",
+      "internet_users_cia": "74.3K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "95%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Tonga",
+      "internet_users_cia": "73.7K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "58.5%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Kiribati",
+      "internet_users_cia": "70.2K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "88%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "United States Virgin Islands",
+      "internet_users_cia": "67.5K",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "64.4%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Bermuda",
+      "internet_users_cia": "64K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "98.4%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Dominica",
+      "internet_users_cia": "58.3K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "83.8%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Cayman Islands",
+      "internet_users_cia": "55.1K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "81.1%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Faroe Islands",
+      "internet_users_cia": "51.7K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "97.6%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Micronesia",
+      "internet_users_cia": "44K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "39.4%",
+      "itu_data_year": "2020"
+    },
+    {
+      "country": "Sint Maarten",
+      "internet_users_cia": "39.1K",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "",
+      "itu_data_year": ""
+    },
+    {
+      "country": "Greenland",
+      "internet_users_cia": "38.9K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "69.5%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "internet_users_cia": "37.9K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "76.4%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Liechtenstein",
+      "internet_users_cia": "37.4K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "97.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "internet_users_cia": "37K",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "",
+      "itu_data_year": ""
+    },
+    {
+      "country": "Monaco",
+      "internet_users_cia": "31.8K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "99.1%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Gibraltar",
+      "internet_users_cia": "31.2K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "94.4%",
+      "itu_data_year": "2016"
+    },
+    {
+      "country": "San Marino",
+      "internet_users_cia": "25.5K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "87%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "British Virgin Islands",
+      "internet_users_cia": "24.1K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "77.7%",
+      "itu_data_year": "2017"
+    },
+    {
+      "country": "Saint Martin",
+      "internet_users_cia": "19.3K",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "",
+      "itu_data_year": ""
+    },
+    {
+      "country": "American Samoa",
+      "internet_users_cia": "18.1K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "",
+      "itu_data_year": ""
+    },
+    {
+      "country": "Marshall Islands",
+      "internet_users_cia": "16.3K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "65.7%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Anguilla",
+      "internet_users_cia": "13.1K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "81.6%",
+      "itu_data_year": "2016"
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "internet_users_cia": "12.3K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "",
+      "itu_data_year": ""
+    },
+    {
+      "country": "Cook Islands",
+      "internet_users_cia": "11.4K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "54%",
+      "itu_data_year": "2016"
+    },
+    {
+      "country": "Nauru",
+      "internet_users_cia": "10.9K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "81.7%",
+      "itu_data_year": "2020"
+    },
+    {
+      "country": "Tuvalu",
+      "internet_users_cia": "7.9K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "74.3%",
+      "itu_data_year": "2023"
+    },
+    {
+      "country": "Saint Barthelemy",
+      "internet_users_cia": "7.1K",
+      "cia_data_year": "2022",
+      "internet_usage_percent_itu": "",
+      "itu_data_year": ""
+    },
+    {
+      "country": "Palau",
+      "internet_users_cia": "6.7K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "27%",
+      "itu_data_year": "2004"
+    },
+    {
+      "country": "Wallis and Futuna",
+      "internet_users_cia": "5.5K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "9%",
+      "itu_data_year": "2012"
+    },
+    {
+      "country": "Falkland Islands",
+      "internet_users_cia": "3.8K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "99%",
+      "itu_data_year": "2016"
+    },
+    {
+      "country": "Montserrat",
+      "internet_users_cia": "2.5K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "54.6%",
+      "itu_data_year": "2011"
+    },
+    {
+      "country": "Niue",
+      "internet_users_cia": "1.5K",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "79.6%",
+      "itu_data_year": "2011"
+    },
+    {
+      "country": "Tokelau",
+      "internet_users_cia": "800",
+      "cia_data_year": "2021",
+      "internet_usage_percent_itu": "1.5%",
+      "itu_data_year": "2003"
+    }
+  ]
+}

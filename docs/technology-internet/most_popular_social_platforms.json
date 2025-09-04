@@ -1,0 +1,310 @@
+{
+  "title": "Social Media Platforms with 100M+ Active Users (2025)",
+  "subtitle": "Major platforms, their companies, origins, launch years, and active user statistics (2025)",
+  "updated_at": "September 04, 2025 04:59 AM UTC",
+  "data": [
+    {
+      "name": "Facebook",
+      "company": "Meta Platforms",
+      "country": "United States",
+      "launch_year": "2004",
+      "monthly_active_users": "3.070 billion",
+      "other_metrics": "2.11 billion daily active users"
+    },
+    {
+      "name": "YouTube",
+      "company": "Alphabet Inc.",
+      "country": "United States",
+      "launch_year": "2005",
+      "monthly_active_users": "2.504 billion",
+      "other_metrics": ""
+    },
+    {
+      "name": "WhatsApp",
+      "company": "Meta Platforms",
+      "country": "United States",
+      "launch_year": "2009",
+      "monthly_active_users": "2 billion",
+      "other_metrics": "Had 1 billion daily active users when it had 1.3 billion monthly active users"
+    },
+    {
+      "name": "Instagram",
+      "company": "Meta Platforms",
+      "country": "United States",
+      "launch_year": "2010",
+      "monthly_active_users": "2 billion"
+    },
+    {
+      "name": "TikTok",
+      "company": "ByteDance",
+      "country": "China",
+      "launch_year": "2016",
+      "monthly_active_users": "1.582 billion",
+      "other_metrics": ""
+    },
+    {
+      "name": "WeChat",
+      "company": "Tencent",
+      "country": "China",
+      "launch_year": "2011",
+      "monthly_active_users": "1.343 billion",
+      "other_metrics": ""
+    },
+    {
+      "name": "Messenger",
+      "company": "Meta Platforms",
+      "country": "United States",
+      "launch_year": "2011",
+      "monthly_active_users": "1.01 billion",
+      "other_metrics": ""
+    },
+    {
+      "name": "Telegram",
+      "company": "Telegram",
+      "country": "United Arab Emirates",
+      "launch_year": "2013",
+      "monthly_active_users": "1 billion",
+      "other_metrics": ""
+    },
+    {
+      "name": "LinkedIn",
+      "company": "Microsoft",
+      "country": "United States",
+      "launch_year": "2003",
+      "monthly_active_users": "930 million",
+      "other_metrics": "700 million registered users"
+    },
+    {
+      "name": "Snapchat",
+      "company": "Snap Inc.",
+      "country": "United States",
+      "launch_year": "2011",
+      "monthly_active_users": "900 million",
+      "other_metrics": "460 million daily active users"
+    },
+    {
+      "name": "Douyin",
+      "company": "ByteDance",
+      "country": "China",
+      "launch_year": "2016",
+      "monthly_active_users": "755 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Kuaishou",
+      "company": "Kuaishou",
+      "country": "China",
+      "launch_year": "2011",
+      "monthly_active_users": "700 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Weibo",
+      "company": "Sina Corporation",
+      "country": "China",
+      "launch_year": "2009",
+      "monthly_active_users": "586 million",
+      "other_metrics": "241 million daily active users"
+    },
+    {
+      "name": "Pinterest",
+      "company": "Pinterest",
+      "country": "United States",
+      "launch_year": "2009",
+      "monthly_active_users": "570 million",
+      "other_metrics": "98 million U.S. monthly active users"
+    },
+    {
+      "name": "QQ",
+      "company": "Tencent",
+      "country": "China",
+      "launch_year": "1999",
+      "monthly_active_users": "554 million",
+      "other_metrics": "267 million daily active users"
+    },
+    {
+      "name": "X",
+      "company": "X Corp.",
+      "country": "United States",
+      "launch_year": "2006",
+      "monthly_active_users": "550 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Qzone",
+      "company": "Tencent",
+      "country": "China",
+      "launch_year": "2005",
+      "monthly_active_users": "517 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Reddit",
+      "company": "Reddit",
+      "country": "United States",
+      "launch_year": "2005",
+      "monthly_active_users": "500 million",
+      "other_metrics": "101.7 million daily active users, 380 million weekly active users"
+    },
+    {
+      "name": "Quora",
+      "company": "Quora",
+      "country": "United States",
+      "launch_year": "2009",
+      "monthly_active_users": "400 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Threads",
+      "company": "Meta Platforms",
+      "country": "United States",
+      "launch_year": "2023",
+      "monthly_active_users": "350 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Xiaohongshu",
+      "company": "",
+      "country": "China",
+      "launch_year": "2013",
+      "monthly_active_users": "300 million[needs update]",
+      "other_metrics": ""
+    },
+    {
+      "name": "JOSH",
+      "company": "VerSe Innovation",
+      "country": "India",
+      "launch_year": "2020",
+      "monthly_active_users": "300 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Teams",
+      "company": "Microsoft",
+      "country": "United States",
+      "launch_year": "2017",
+      "monthly_active_users": "300 million",
+      "other_metrics": "145 million daily active users"
+    },
+    {
+      "name": "Tieba",
+      "company": "Baidu",
+      "country": "China",
+      "launch_year": "2003",
+      "monthly_active_users": "300 million",
+      "other_metrics": "1500 million registered users"
+    },
+    {
+      "name": "Viber",
+      "company": "Rakuten",
+      "country": "Japan",
+      "launch_year": "2010",
+      "monthly_active_users": "260 million",
+      "other_metrics": "1.169 billion registered users"
+    },
+    {
+      "name": "imo",
+      "company": "PageBites",
+      "country": "United States",
+      "launch_year": "2007",
+      "monthly_active_users": "200 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Discord",
+      "company": "Discord",
+      "country": "United States",
+      "launch_year": "2015",
+      "monthly_active_users": "200 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Twitch",
+      "company": "Amazon",
+      "country": "United States",
+      "launch_year": "2011",
+      "monthly_active_users": "180 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Line",
+      "company": "Naver",
+      "country": "Japan",
+      "launch_year": "2011",
+      "monthly_active_users": "178 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Likee",
+      "company": "Bigo Live",
+      "country": "Singapore",
+      "launch_year": "2017",
+      "monthly_active_users": "150 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Picsart",
+      "company": "Picsart",
+      "country": "United States Armenia",
+      "launch_year": "2011",
+      "monthly_active_users": "150 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Vevo",
+      "company": "Vevo",
+      "country": "United States",
+      "launch_year": "2009",
+      "monthly_active_users": "150 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Tumblr",
+      "company": "Automattic",
+      "country": "United States",
+      "launch_year": "2007",
+      "monthly_active_users": "135 million",
+      "other_metrics": ""
+    },
+    {
+      "name": "Signal",
+      "company": "Signal Foundation",
+      "country": "United States",
+      "launch_year": "2014",
+      "monthly_active_users": "70-100 million"
+    },
+    {},
+    {
+      "name": "1.",
+      "company": "Zoom",
+      "country": "Zoom Video Communications",
+      "launch_year": "United States",
+      "monthly_active_users": "2012",
+      "other_metrics": ""
+    },
+    {
+      "name": "2.",
+      "company": "Meet",
+      "country": "Google",
+      "launch_year": "United States",
+      "monthly_active_users": "2017",
+      "other_metrics": ""
+    },
+    {
+      "name": "3.",
+      "company": "iMessage",
+      "country": "Apple Inc.",
+      "launch_year": "United States",
+      "monthly_active_users": "2011",
+      "other_metrics": ""
+    },
+    {
+      "name": "4.",
+      "company": "FaceTime",
+      "country": "Apple Inc.",
+      "launch_year": "United States",
+      "monthly_active_users": "2011",
+      "other_metrics": ""
+    }
+  ]
+}

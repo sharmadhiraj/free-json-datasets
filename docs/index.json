@@ -71,6 +71,12 @@
     "category": "Geography & Environment",
     "datasets": [
       {
+        "title": "Global CO₂ Emissions by Country (2023)",
+        "subtitle": "Tonnes, per capita, per GDP, and share of world emissions",
+        "updated_at": "September 02, 2025 10:38 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/co2_emissions_by_country.json"
+      },
+      {
         "title": "Longest Rivers in the World",
         "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
         "updated_at": "August 20, 2025 09:42 AM UTC",
@@ -115,6 +121,18 @@
   {
     "category": "Technology & Internet",
     "datasets": [
+      {
+        "title": "Internet Users by Country 2025",
+        "subtitle": "Estimated Internet Users and Usage Percentage by Country (2025)",
+        "updated_at": "September 02, 2025 10:47 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/internet_users_by_country.json"
+      },
+      {
+        "title": "Social Media Platforms with 100M+ Active Users (2025)",
+        "subtitle": "Major platforms, their companies, origins, launch years, and active user statistics (2025)",
+        "updated_at": "September 04, 2025 04:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/most_popular_social_platforms.json"
+      },
       {
         "title": "TIOBE Index - Top Programming Languages (August 2025)",
         "subtitle": "Popularity rankings of programming languages as of August 2025",

@@ -60,6 +60,8 @@ Each dataset follows this JSON format:
 
 ### Geography & Environment
 
+- [**Global CO₂ Emissions by Country (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/co2_emissions_by_country.json)  
+  Tonnes, per capita, per GDP, and share of world emissions
 - [**Longest Rivers in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/longest_rivers.json)  
   Details of the world's longest rivers, including length, outflow, and countries sharing the basin
 
@@ -79,6 +81,10 @@ Each dataset follows this JSON format:
 
 ### Technology & Internet
 
+- [**Internet Users by Country 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/internet_users_by_country.json)  
+  Estimated Internet Users and Usage Percentage by Country (2025)
+- [**Social Media Platforms with 100M+ Active Users (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/most_popular_social_platforms.json)  
+  Major platforms, their companies, origins, launch years, and active user statistics (2025)
 - [**TIOBE Index - Top Programming Languages (August 2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/popular_programming_languages.json)  
   Popularity rankings of programming languages as of August 2025
 

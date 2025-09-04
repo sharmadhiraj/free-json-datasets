@@ -1,0 +1,1449 @@
+{
+  "title": "Global CO₂ Emissions by Country (2023)",
+  "subtitle": "Tonnes, per capita, per GDP, and share of world emissions",
+  "updated_at": "September 02, 2025 10:38 AM UTC",
+  "data": [
+    {
+      "country": "China",
+      "co2_emissions_2023_tonnes": "13,260",
+      "co2_per_capita_2023": "9.24",
+      "co2_per_gdp_2023": "0.42",
+      "world_share_co2_2023": "33.98%"
+    },
+    {
+      "country": "United States",
+      "co2_emissions_2023_tonnes": "4,682",
+      "co2_per_capita_2023": "13.8",
+      "co2_per_gdp_2023": "0.19",
+      "world_share_co2_2023": "12%"
+    },
+    {
+      "country": "India",
+      "co2_emissions_2023_tonnes": "2,955",
+      "co2_per_capita_2023": "2.07",
+      "co2_per_gdp_2023": "0.23",
+      "world_share_co2_2023": "7.57%"
+    },
+    {
+      "country": "Russia",
+      "co2_emissions_2023_tonnes": "2,070",
+      "co2_per_capita_2023": "14.4",
+      "co2_per_gdp_2023": "0.36",
+      "world_share_co2_2023": "5.3%"
+    },
+    {
+      "country": "Japan",
+      "co2_emissions_2023_tonnes": "945",
+      "co2_per_capita_2023": "7.54",
+      "co2_per_gdp_2023": "0.16",
+      "world_share_co2_2023": "2.42%"
+    },
+    {
+      "country": "Iran",
+      "co2_emissions_2023_tonnes": "779",
+      "co2_per_capita_2023": "9.1",
+      "co2_per_gdp_2023": "0.54",
+      "world_share_co2_2023": "2%"
+    },
+    {
+      "country": "Indonesia",
+      "co2_emissions_2023_tonnes": "675",
+      "co2_per_capita_2023": "2.41",
+      "co2_per_gdp_2023": "0.17",
+      "world_share_co2_2023": "1.73%"
+    },
+    {
+      "country": "Saudi Arabia",
+      "co2_emissions_2023_tonnes": "623",
+      "co2_per_capita_2023": "17.1",
+      "co2_per_gdp_2023": "0.34",
+      "world_share_co2_2023": "1.6%"
+    },
+    {
+      "country": "Germany",
+      "co2_emissions_2023_tonnes": "583",
+      "co2_per_capita_2023": "7.06",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "1.49%"
+    },
+    {
+      "country": "Canada",
+      "co2_emissions_2023_tonnes": "575",
+      "co2_per_capita_2023": "14.9",
+      "co2_per_gdp_2023": "0.26",
+      "world_share_co2_2023": "1.47%"
+    },
+    {
+      "country": "South Korea",
+      "co2_emissions_2023_tonnes": "574",
+      "co2_per_capita_2023": "11",
+      "co2_per_gdp_2023": "0.22",
+      "world_share_co2_2023": "1.47%"
+    },
+    {
+      "country": "Mexico",
+      "co2_emissions_2023_tonnes": "487",
+      "co2_per_capita_2023": "3.52",
+      "co2_per_gdp_2023": "0.17",
+      "world_share_co2_2023": "1.25%"
+    },
+    {
+      "country": "Brazil",
+      "co2_emissions_2023_tonnes": "480",
+      "co2_per_capita_2023": "2.2",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": "1.23%"
+    },
+    {
+      "country": "Turkey",
+      "co2_emissions_2023_tonnes": "438",
+      "co2_per_capita_2023": "5.13",
+      "co2_per_gdp_2023": "0.15",
+      "world_share_co2_2023": "1.12%"
+    },
+    {
+      "country": "South Africa",
+      "co2_emissions_2023_tonnes": "397",
+      "co2_per_capita_2023": "6.56",
+      "co2_per_gdp_2023": "0.46",
+      "world_share_co2_2023": "1.02%"
+    },
+    {
+      "country": "Australia",
+      "co2_emissions_2023_tonnes": "374",
+      "co2_per_capita_2023": "14.2",
+      "co2_per_gdp_2023": "0.24",
+      "world_share_co2_2023": "0.96%"
+    },
+    {
+      "country": "Vietnam",
+      "co2_emissions_2023_tonnes": "373",
+      "co2_per_capita_2023": "3.69",
+      "co2_per_gdp_2023": "0.28",
+      "world_share_co2_2023": "0.96%"
+    },
+    {
+      "country": "United Kingdom",
+      "co2_emissions_2023_tonnes": "302",
+      "co2_per_capita_2023": "4.42",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.77%"
+    },
+    {
+      "country": "Poland",
+      "co2_emissions_2023_tonnes": "287",
+      "co2_per_capita_2023": "7.63",
+      "co2_per_gdp_2023": "0.18",
+      "world_share_co2_2023": "0.74%"
+    },
+    {
+      "country": "Malaysia",
+      "co2_emissions_2023_tonnes": "283",
+      "co2_per_capita_2023": "8.3",
+      "co2_per_gdp_2023": "0.25",
+      "world_share_co2_2023": "0.73%"
+    },
+    {
+      "country": "Taiwan",
+      "co2_emissions_2023_tonnes": "280",
+      "co2_per_capita_2023": "11.7",
+      "co2_per_gdp_2023": "0.18",
+      "world_share_co2_2023": "0.72%"
+    },
+    {
+      "country": "Thailand",
+      "co2_emissions_2023_tonnes": "274",
+      "co2_per_capita_2023": "3.94",
+      "co2_per_gdp_2023": "0.18",
+      "world_share_co2_2023": "0.7%"
+    },
+    {
+      "country": "Kazakhstan",
+      "co2_emissions_2023_tonnes": "240",
+      "co2_per_capita_2023": "12.4",
+      "co2_per_gdp_2023": "0.34",
+      "world_share_co2_2023": "0.61%"
+    },
+    {
+      "country": "Spain",
+      "co2_emissions_2023_tonnes": "217",
+      "co2_per_capita_2023": "4.68",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.56%"
+    },
+    {
+      "country": "United Arab Emirates",
+      "co2_emissions_2023_tonnes": "206",
+      "co2_per_capita_2023": "20.2",
+      "co2_per_gdp_2023": "0.29",
+      "world_share_co2_2023": "0.53%"
+    },
+    {
+      "country": "Pakistan",
+      "co2_emissions_2023_tonnes": "201",
+      "co2_per_capita_2023": "0.91",
+      "co2_per_gdp_2023": "0.15",
+      "world_share_co2_2023": "0.51%"
+    },
+    {
+      "country": "Iraq",
+      "co2_emissions_2023_tonnes": "193",
+      "co2_per_capita_2023": "4.3",
+      "co2_per_gdp_2023": "0.34",
+      "world_share_co2_2023": "0.49%"
+    },
+    {
+      "country": "Argentina",
+      "co2_emissions_2023_tonnes": "184",
+      "co2_per_capita_2023": "3.93",
+      "co2_per_gdp_2023": "0.15",
+      "world_share_co2_2023": "0.47%"
+    },
+    {
+      "country": "Algeria",
+      "co2_emissions_2023_tonnes": "180",
+      "co2_per_capita_2023": "3.99",
+      "co2_per_gdp_2023": "0.26",
+      "world_share_co2_2023": "0.46%"
+    },
+    {
+      "country": "Philippines",
+      "co2_emissions_2023_tonnes": "161",
+      "co2_per_capita_2023": "1.41",
+      "co2_per_gdp_2023": "0.14",
+      "world_share_co2_2023": "0.41%"
+    },
+    {
+      "country": "Uzbekistan",
+      "co2_emissions_2023_tonnes": "138",
+      "co2_per_capita_2023": "4.01",
+      "co2_per_gdp_2023": "0.43",
+      "world_share_co2_2023": "0.35%"
+    },
+    {
+      "country": "Ukraine",
+      "co2_emissions_2023_tonnes": "136",
+      "co2_per_capita_2023": "3.17",
+      "co2_per_gdp_2023": "0.24",
+      "world_share_co2_2023": "0.35%"
+    },
+    {
+      "country": "Nigeria",
+      "co2_emissions_2023_tonnes": "128",
+      "co2_per_capita_2023": "0.58",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.33%"
+    },
+    {
+      "country": "Qatar",
+      "co2_emissions_2023_tonnes": "128",
+      "co2_per_capita_2023": "43.5",
+      "co2_per_gdp_2023": "0.41",
+      "world_share_co2_2023": "0.33%"
+    },
+    {
+      "country": "Bangladesh",
+      "co2_emissions_2023_tonnes": "125",
+      "co2_per_capita_2023": "0.71",
+      "co2_per_gdp_2023": "0.09",
+      "world_share_co2_2023": "0.32%"
+    },
+    {
+      "country": "Netherlands",
+      "co2_emissions_2023_tonnes": "123",
+      "co2_per_capita_2023": "7.09",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.31%"
+    },
+    {
+      "country": "Kuwait",
+      "co2_emissions_2023_tonnes": "112",
+      "co2_per_capita_2023": "24.9",
+      "co2_per_gdp_2023": "0.51",
+      "world_share_co2_2023": "0.29%"
+    },
+    {
+      "country": "Colombia",
+      "co2_emissions_2023_tonnes": "101",
+      "co2_per_capita_2023": "1.97",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.26%"
+    },
+    {
+      "country": "Oman",
+      "co2_emissions_2023_tonnes": "93",
+      "co2_per_capita_2023": "17.1",
+      "co2_per_gdp_2023": "0.5",
+      "world_share_co2_2023": "0.24%"
+    },
+    {
+      "country": "Czech Republic",
+      "co2_emissions_2023_tonnes": "91",
+      "co2_per_capita_2023": "8.52",
+      "co2_per_gdp_2023": "0.17",
+      "world_share_co2_2023": "0.23%"
+    },
+    {
+      "country": "Venezuela",
+      "co2_emissions_2023_tonnes": "85",
+      "co2_per_capita_2023": "2.47",
+      "co2_per_gdp_2023": "0.32",
+      "world_share_co2_2023": "0.22%"
+    },
+    {
+      "country": "Belgium",
+      "co2_emissions_2023_tonnes": "84",
+      "co2_per_capita_2023": "7.18",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.22%"
+    },
+    {
+      "country": "Chile",
+      "co2_emissions_2023_tonnes": "84",
+      "co2_per_capita_2023": "4.45",
+      "co2_per_gdp_2023": "0.15",
+      "world_share_co2_2023": "0.22%"
+    },
+    {
+      "country": "Romania",
+      "co2_emissions_2023_tonnes": "71",
+      "co2_per_capita_2023": "3.7",
+      "co2_per_gdp_2023": "0.09",
+      "world_share_co2_2023": "0.18%"
+    },
+    {
+      "country": "Morocco",
+      "co2_emissions_2023_tonnes": "70",
+      "co2_per_capita_2023": "1.82",
+      "co2_per_gdp_2023": "0.21",
+      "world_share_co2_2023": "0.18%"
+    },
+    {
+      "country": "Turkmenistan",
+      "co2_emissions_2023_tonnes": "66",
+      "co2_per_capita_2023": "10.5",
+      "co2_per_gdp_2023": "0.58",
+      "world_share_co2_2023": "0.17%"
+    },
+    {
+      "country": "North Korea",
+      "co2_emissions_2023_tonnes": "64",
+      "co2_per_capita_2023": "2.46",
+      "co2_per_gdp_2023": "0.55",
+      "world_share_co2_2023": "0.16%"
+    },
+    {
+      "country": "Libya",
+      "co2_emissions_2023_tonnes": "61",
+      "co2_per_capita_2023": "8.88",
+      "co2_per_gdp_2023": "0.5",
+      "world_share_co2_2023": "0.16%"
+    },
+    {
+      "country": "Italy",
+      "co2_emissions_2023_tonnes": "61",
+      "co2_per_capita_2023": "5.19",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.16%"
+    },
+    {
+      "country": "Israel",
+      "co2_emissions_2023_tonnes": "61",
+      "co2_per_capita_2023": "4.13",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": "0.16%"
+    },
+    {
+      "country": "Austria",
+      "co2_emissions_2023_tonnes": "59",
+      "co2_per_capita_2023": "6.65",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.15%"
+    },
+    {
+      "country": "Peru",
+      "co2_emissions_2023_tonnes": "58",
+      "co2_per_capita_2023": "1.7",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.15%"
+    },
+    {
+      "country": "Singapore",
+      "co2_emissions_2023_tonnes": "57",
+      "co2_per_capita_2023": "9.38",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.15%"
+    },
+    {
+      "country": "Serbia",
+      "co2_emissions_2023_tonnes": "56",
+      "co2_per_capita_2023": "6.08",
+      "co2_per_gdp_2023": "0.28",
+      "world_share_co2_2023": "0.14%"
+    },
+    {
+      "country": "Belarus",
+      "co2_emissions_2023_tonnes": "54",
+      "co2_per_capita_2023": "5.79",
+      "co2_per_gdp_2023": "0.21",
+      "world_share_co2_2023": "0.14%"
+    },
+    {
+      "country": "Greece",
+      "co2_emissions_2023_tonnes": "52",
+      "co2_per_capita_2023": "4.69",
+      "co2_per_gdp_2023": "0.14",
+      "world_share_co2_2023": "0.13%"
+    },
+    {
+      "country": "Ecuador",
+      "co2_emissions_2023_tonnes": "45",
+      "co2_per_capita_2023": "2.51",
+      "co2_per_gdp_2023": "0.17",
+      "world_share_co2_2023": "0.12%"
+    },
+    {
+      "country": "Norway",
+      "co2_emissions_2023_tonnes": "44",
+      "co2_per_capita_2023": "7.86",
+      "co2_per_gdp_2023": "0.09",
+      "world_share_co2_2023": "0.11%"
+    },
+    {
+      "country": "Hungary",
+      "co2_emissions_2023_tonnes": "44",
+      "co2_per_capita_2023": "4.61",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.11%"
+    },
+    {
+      "country": "Azerbaijan",
+      "co2_emissions_2023_tonnes": "43",
+      "co2_per_capita_2023": "4.14",
+      "co2_per_gdp_2023": "0.2",
+      "world_share_co2_2023": "0.11%"
+    },
+    {
+      "country": "Bulgaria",
+      "co2_emissions_2023_tonnes": "40",
+      "co2_per_capita_2023": "5.86",
+      "co2_per_gdp_2023": "0.19",
+      "world_share_co2_2023": "0.1%"
+    },
+    {
+      "country": "Bahrain",
+      "co2_emissions_2023_tonnes": "37",
+      "co2_per_capita_2023": "20.7",
+      "co2_per_gdp_2023": "0.44",
+      "world_share_co2_2023": "0.1%"
+    },
+    {
+      "country": "Portugal",
+      "co2_emissions_2023_tonnes": "36",
+      "co2_per_capita_2023": "3.58",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.09%"
+    },
+    {
+      "country": "New Zealand",
+      "co2_emissions_2023_tonnes": "36",
+      "co2_per_capita_2023": "7.22",
+      "co2_per_gdp_2023": "0.14",
+      "world_share_co2_2023": "0.09%"
+    },
+    {
+      "country": "Sweden",
+      "co2_emissions_2023_tonnes": "35",
+      "co2_per_capita_2023": "3.43",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": "0.09%"
+    },
+    {
+      "country": "Slovakia",
+      "co2_emissions_2023_tonnes": "35",
+      "co2_per_capita_2023": "6.4",
+      "co2_per_gdp_2023": "0.16",
+      "world_share_co2_2023": "0.09%"
+    },
+    {
+      "country": "Hong Kong",
+      "co2_emissions_2023_tonnes": "35",
+      "co2_per_capita_2023": "4.51",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": "0.09%"
+    },
+    {
+      "country": "Switzerland",
+      "co2_emissions_2023_tonnes": "34",
+      "co2_per_capita_2023": "3.87",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": "0.09%"
+    },
+    {
+      "country": "Ireland",
+      "co2_emissions_2023_tonnes": "32",
+      "co2_per_capita_2023": "6.5",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": "0.08%"
+    },
+    {
+      "country": "Finland",
+      "co2_emissions_2023_tonnes": "32",
+      "co2_per_capita_2023": "5.73",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.08%"
+    },
+    {
+      "country": "Tunisia",
+      "co2_emissions_2023_tonnes": "32",
+      "co2_per_capita_2023": "2.57",
+      "co2_per_gdp_2023": "0.21",
+      "world_share_co2_2023": "0.08%"
+    },
+    {
+      "country": "Dominican Republic",
+      "co2_emissions_2023_tonnes": "31",
+      "co2_per_capita_2023": "2.74",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": "0.08%"
+    },
+    {
+      "country": "Angola",
+      "co2_emissions_2023_tonnes": "28",
+      "co2_per_capita_2023": "0.78",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.07%"
+    },
+    {
+      "country": "Mongolia",
+      "co2_emissions_2023_tonnes": "28",
+      "co2_per_capita_2023": "8.45",
+      "co2_per_gdp_2023": "0.5",
+      "world_share_co2_2023": "0.07%"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "co2_emissions_2023_tonnes": "27",
+      "co2_per_capita_2023": "19.7",
+      "co2_per_gdp_2023": "0.62",
+      "world_share_co2_2023": "0.07%"
+    },
+    {
+      "country": "Denmark",
+      "co2_emissions_2023_tonnes": "27",
+      "co2_per_capita_2023": "4.56",
+      "co2_per_gdp_2023": "0.06",
+      "world_share_co2_2023": "0.07%"
+    },
+    {
+      "country": "Laos",
+      "co2_emissions_2023_tonnes": "26",
+      "co2_per_capita_2023": "3.49",
+      "co2_per_gdp_2023": "0.41",
+      "world_share_co2_2023": "0.07%"
+    },
+    {
+      "country": "Syria",
+      "co2_emissions_2023_tonnes": "26",
+      "co2_per_capita_2023": "1.19",
+      "co2_per_gdp_2023": "0.41",
+      "world_share_co2_2023": "0.07%"
+    },
+    {
+      "country": "Ghana",
+      "co2_emissions_2023_tonnes": "24",
+      "co2_per_capita_2023": "0.74",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.06%"
+    },
+    {
+      "country": "Bolivia",
+      "co2_emissions_2023_tonnes": "24",
+      "co2_per_capita_2023": "1.98",
+      "co2_per_gdp_2023": "0.2",
+      "world_share_co2_2023": "0.06%"
+    },
+    {
+      "country": "Jordan",
+      "co2_emissions_2023_tonnes": "24",
+      "co2_per_capita_2023": "2.25",
+      "co2_per_gdp_2023": "0.22",
+      "world_share_co2_2023": "0.06%"
+    },
+    {
+      "country": "Cuba",
+      "co2_emissions_2023_tonnes": "22",
+      "co2_per_capita_2023": "1.92",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": "0.06%"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "co2_emissions_2023_tonnes": "22",
+      "co2_per_capita_2023": "6.33",
+      "co2_per_gdp_2023": "0.34",
+      "world_share_co2_2023": "0.06%"
+    },
+    {
+      "country": "Kenya",
+      "co2_emissions_2023_tonnes": "22",
+      "co2_per_capita_2023": "0.38",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": "0.06%"
+    },
+    {
+      "country": "Guatemala",
+      "co2_emissions_2023_tonnes": "21",
+      "co2_per_capita_2023": "1.13",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.05%"
+    },
+    {
+      "country": "Sudan",
+      "co2_emissions_2023_tonnes": "21",
+      "co2_per_capita_2023": "0.34",
+      "co2_per_gdp_2023": "0.14",
+      "world_share_co2_2023": "0.05%"
+    },
+    {
+      "country": "Sri Lanka",
+      "co2_emissions_2023_tonnes": "21",
+      "co2_per_capita_2023": "0.97",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": "0.05%"
+    },
+    {
+      "country": "Tanzania",
+      "co2_emissions_2023_tonnes": "19",
+      "co2_per_capita_2023": "0.28",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.05%"
+    },
+    {
+      "country": "Cambodia",
+      "co2_emissions_2023_tonnes": "18",
+      "co2_per_capita_2023": "1.03",
+      "co2_per_gdp_2023": "0.21",
+      "world_share_co2_2023": "0.05%"
+    },
+    {
+      "country": "Nepal",
+      "co2_emissions_2023_tonnes": "18",
+      "co2_per_capita_2023": "0.57",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": "0.05%"
+    },
+    {
+      "country": "Croatia",
+      "co2_emissions_2023_tonnes": "17",
+      "co2_per_capita_2023": "4.31",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.04%"
+    },
+    {
+      "country": "Ethiopia",
+      "co2_emissions_2023_tonnes": "17",
+      "co2_per_capita_2023": "0.14",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": "0.04%"
+    },
+    {
+      "country": "Panama",
+      "co2_emissions_2023_tonnes": "15",
+      "co2_per_capita_2023": "3.29",
+      "co2_per_gdp_2023": "0.09",
+      "world_share_co2_2023": "0.04%"
+    },
+    {
+      "country": "Ivory Coast",
+      "co2_emissions_2023_tonnes": "14",
+      "co2_per_capita_2023": "0.51",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": "0.04%"
+    },
+    {
+      "country": "Puerto Rico",
+      "co2_emissions_2023_tonnes": "14",
+      "co2_per_capita_2023": "3.8",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.04%"
+    },
+    {
+      "country": "Lithuania",
+      "co2_emissions_2023_tonnes": "13",
+      "co2_per_capita_2023": "4.66",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Georgia",
+      "co2_emissions_2023_tonnes": "13",
+      "co2_per_capita_2023": "3.33",
+      "co2_per_gdp_2023": "0.15",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Slovenia",
+      "co2_emissions_2023_tonnes": "12",
+      "co2_per_capita_2023": "5.81",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Senegal",
+      "co2_emissions_2023_tonnes": "12",
+      "co2_per_capita_2023": "0.65",
+      "co2_per_gdp_2023": "0.16",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Zimbabwe",
+      "co2_emissions_2023_tonnes": "12",
+      "co2_per_capita_2023": "0.62",
+      "co2_per_gdp_2023": "0.2",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Estonia",
+      "co2_emissions_2023_tonnes": "11",
+      "co2_per_capita_2023": "8.87",
+      "co2_per_gdp_2023": "0.2",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Honduras",
+      "co2_emissions_2023_tonnes": "11",
+      "co2_per_capita_2023": "1.08",
+      "co2_per_gdp_2023": "0.16",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Yemen",
+      "co2_emissions_2023_tonnes": "11",
+      "co2_per_capita_2023": "0.34",
+      "co2_per_gdp_2023": "0.18",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Cameroon",
+      "co2_emissions_2023_tonnes": "11",
+      "co2_per_capita_2023": "0.38",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "co2_emissions_2023_tonnes": "10",
+      "co2_per_capita_2023": "1.6",
+      "co2_per_gdp_2023": "0.23",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Moldova",
+      "co2_emissions_2023_tonnes": "10",
+      "co2_per_capita_2023": "2.5",
+      "co2_per_gdp_2023": "0.25",
+      "world_share_co2_2023": "0.03%"
+    },
+    {
+      "country": "Myanmar",
+      "co2_emissions_2023_tonnes": "10",
+      "co2_per_capita_2023": "0.59",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.09%"
+    },
+    {
+      "country": "Mozambique",
+      "co2_emissions_2023_tonnes": "10",
+      "co2_per_capita_2023": "0.28",
+      "co2_per_gdp_2023": "0.19",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Brunei",
+      "co2_emissions_2023_tonnes": "10",
+      "co2_per_capita_2023": "21.1",
+      "co2_per_gdp_2023": "0.28",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Tajikistan",
+      "co2_emissions_2023_tonnes": "9",
+      "co2_per_capita_2023": "0.93",
+      "co2_per_gdp_2023": "0.2",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Uruguay",
+      "co2_emissions_2023_tonnes": "9",
+      "co2_per_capita_2023": "2.5",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "North Macedonia",
+      "co2_emissions_2023_tonnes": "9",
+      "co2_per_capita_2023": "4.19",
+      "co2_per_gdp_2023": "0.21",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Afghanistan",
+      "co2_emissions_2023_tonnes": "9",
+      "co2_per_capita_2023": "0.21",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Costa Rica",
+      "co2_emissions_2023_tonnes": "9",
+      "co2_per_capita_2023": "1.66",
+      "co2_per_gdp_2023": "0.06",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "El Salvador",
+      "co2_emissions_2023_tonnes": "8",
+      "co2_per_capita_2023": "1.27",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Paraguay",
+      "co2_emissions_2023_tonnes": "8",
+      "co2_per_capita_2023": "1.13",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Zambia",
+      "co2_emissions_2023_tonnes": "8",
+      "co2_per_capita_2023": "0.4",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Armenia",
+      "co2_emissions_2023_tonnes": "8",
+      "co2_per_capita_2023": "2.63",
+      "co2_per_gdp_2023": "0.13",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Botswana",
+      "co2_emissions_2023_tonnes": "7",
+      "co2_per_capita_2023": "2.93",
+      "co2_per_gdp_2023": "0.16",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Republic of the Congo",
+      "co2_emissions_2023_tonnes": "7",
+      "co2_per_capita_2023": "1.18",
+      "co2_per_gdp_2023": "0.19",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Uganda",
+      "co2_emissions_2023_tonnes": "7",
+      "co2_per_capita_2023": "0.14",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Cyprus",
+      "co2_emissions_2023_tonnes": "7",
+      "co2_per_capita_2023": "5.83",
+      "co2_per_gdp_2023": "0.15",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Luxembourg",
+      "co2_emissions_2023_tonnes": "7",
+      "co2_per_capita_2023": "11.2",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Jamaica",
+      "co2_emissions_2023_tonnes": "7",
+      "co2_per_capita_2023": "2.34",
+      "co2_per_gdp_2023": "0.23",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Mali",
+      "co2_emissions_2023_tonnes": "7",
+      "co2_per_capita_2023": "0.3",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Latvia",
+      "co2_emissions_2023_tonnes": "7",
+      "co2_per_capita_2023": "3.56",
+      "co2_per_gdp_2023": "0.09",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Malawi",
+      "co2_emissions_2023_tonnes": "6",
+      "co2_per_capita_2023": "0.29",
+      "co2_per_gdp_2023": "0.18",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Benin",
+      "co2_emissions_2023_tonnes": "6",
+      "co2_per_capita_2023": "0.49",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "New Caledonia",
+      "co2_emissions_2023_tonnes": "6",
+      "co2_per_capita_2023": "20.9",
+      "co2_per_gdp_2023": "0.62",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Burkina Faso",
+      "co2_emissions_2023_tonnes": "6",
+      "co2_per_capita_2023": "0.26",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Papua New Guinea",
+      "co2_emissions_2023_tonnes": "6",
+      "co2_per_capita_2023": "0.64",
+      "co2_per_gdp_2023": "0.14",
+      "world_share_co2_2023": "0.02%"
+    },
+    {
+      "country": "Nicaragua",
+      "co2_emissions_2023_tonnes": "6",
+      "co2_per_capita_2023": "0.87",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Gabon",
+      "co2_emissions_2023_tonnes": "5",
+      "co2_per_capita_2023": "2.16",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Mauritania",
+      "co2_emissions_2023_tonnes": "5",
+      "co2_per_capita_2023": "0.9",
+      "co2_per_gdp_2023": "0.15",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Albania",
+      "co2_emissions_2023_tonnes": "5",
+      "co2_per_capita_2023": "1.56",
+      "co2_per_gdp_2023": "0.09",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Namibia",
+      "co2_emissions_2023_tonnes": "4",
+      "co2_per_capita_2023": "1.53",
+      "co2_per_gdp_2023": "0.15",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Mauritius",
+      "co2_emissions_2023_tonnes": "4",
+      "co2_per_capita_2023": "3.29",
+      "co2_per_gdp_2023": "0.13",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Madagascar",
+      "co2_emissions_2023_tonnes": "4",
+      "co2_per_capita_2023": "0.14",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "DR Congo",
+      "co2_emissions_2023_tonnes": "4",
+      "co2_per_capita_2023": "0.04",
+      "co2_per_gdp_2023": "0.02",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "co2_emissions_2023_tonnes": "4",
+      "co2_per_capita_2023": "2.44",
+      "co2_per_gdp_2023": "0.13",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Guinea",
+      "co2_emissions_2023_tonnes": "4",
+      "co2_per_capita_2023": "0.25",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Haiti",
+      "co2_emissions_2023_tonnes": "4",
+      "co2_per_capita_2023": "0.3",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Guyana",
+      "co2_emissions_2023_tonnes": "3",
+      "co2_per_capita_2023": "4.11",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Iceland",
+      "co2_emissions_2023_tonnes": "3",
+      "co2_per_capita_2023": "8.79",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Macau",
+      "co2_emissions_2023_tonnes": "3",
+      "co2_per_capita_2023": "4.42",
+      "co2_per_gdp_2023": "0.04",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Maldives",
+      "co2_emissions_2023_tonnes": "3",
+      "co2_per_capita_2023": "6",
+      "co2_per_gdp_2023": "0.25",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Niger",
+      "co2_emissions_2023_tonnes": "3",
+      "co2_per_capita_2023": "0.1",
+      "co2_per_gdp_2023": "0.06",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Suriname",
+      "co2_emissions_2023_tonnes": "3",
+      "co2_per_capita_2023": "4.45",
+      "co2_per_gdp_2023": "0.22",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Chad",
+      "co2_emissions_2023_tonnes": "3",
+      "co2_per_capita_2023": "0.14",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Reunion",
+      "co2_emissions_2023_tonnes": "3",
+      "co2_per_capita_2023": "2.81",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Togo",
+      "co2_emissions_2023_tonnes": "2",
+      "co2_per_capita_2023": "0.28",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Curacao",
+      "co2_emissions_2023_tonnes": "2",
+      "co2_per_capita_2023": "14.7",
+      "co2_per_gdp_2023": "0.52",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Fiji",
+      "co2_emissions_2023_tonnes": "2",
+      "co2_per_capita_2023": "2.35",
+      "co2_per_gdp_2023": "0.17",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Bhutan",
+      "co2_emissions_2023_tonnes": "2",
+      "co2_per_capita_2023": "2.31",
+      "co2_per_gdp_2023": "0.17",
+      "world_share_co2_2023": "0.01%"
+    },
+    {
+      "country": "Malta",
+      "co2_emissions_2023_tonnes": "2",
+      "co2_per_capita_2023": "3.85",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Bahamas",
+      "co2_emissions_2023_tonnes": "2",
+      "co2_per_capita_2023": "4.04",
+      "co2_per_gdp_2023": "0.13",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Rwanda",
+      "co2_emissions_2023_tonnes": "2",
+      "co2_per_capita_2023": "0.12",
+      "co2_per_gdp_2023": "0.04",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Liberia",
+      "co2_emissions_2023_tonnes": "2",
+      "co2_per_capita_2023": "0.3",
+      "co2_per_gdp_2023": "0.18",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Palau",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "62.6",
+      "co2_per_gdp_2023": "5.06",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Eswatini",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "0.92",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "French Polynesia",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "4.27",
+      "co2_per_gdp_2023": "0.19",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Seychelles",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "12.8",
+      "co2_per_gdp_2023": "0.35",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Guadeloupe",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "2.61",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Martinique",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "2.83",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Sierra Leone",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "0.13",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Cape Verde",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "1.71",
+      "co2_per_gdp_2023": "0.21",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Lebanon",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "3",
+      "co2_per_gdp_2023": "0.26",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Somalia",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "0.05",
+      "co2_per_gdp_2023": "0.03",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Burundi",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "0.06",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Barbados",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "2.76",
+      "co2_per_gdp_2023": "0.16",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Djibouti",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "0.72",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Timor-Leste",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "0.48",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Gibraltar",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "19.7",
+      "co2_per_gdp_2023": "0.5",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Eritrea",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "0.12",
+      "co2_per_gdp_2023": "0.09",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Egypt",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "2.31",
+      "co2_per_gdp_2023": "0.13",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Gambia",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "0.24",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Greenland",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "10.2",
+      "co2_per_gdp_2023": "0.15",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Aruba",
+      "co2_emissions_2023_tonnes": "1",
+      "co2_per_capita_2023": "4.91",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Samoa",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "2.3",
+      "co2_per_gdp_2023": "0.34",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Solomon Islands",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.61",
+      "co2_per_gdp_2023": "0.21",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "French Guiana",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "4.25",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Central African Republic",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.07",
+      "co2_per_gdp_2023": "0.06",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Cayman Islands",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "5.42",
+      "co2_per_gdp_2023": "0.06",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Guinea-Bissau",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.16",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Bermuda",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "5.84",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Comoros",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.34",
+      "co2_per_gdp_2023": "0.11",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "2.99",
+      "co2_per_gdp_2023": "0.12",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Saint Lucia",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "1.62",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Vanuatu",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.92",
+      "co2_per_gdp_2023": "0.29",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Belize",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.66",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Western Sahara",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.41",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Tonga",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "1.95",
+      "co2_per_gdp_2023": "0.31",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.92",
+      "co2_per_gdp_2023": "0.17",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Grenada",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "1.29",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Cook Islands",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "8.37",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "2.05",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Kiribati",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.76",
+      "co2_per_gdp_2023": "0.23",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.87",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "2.71",
+      "co2_per_gdp_2023": "0.1",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "British Virgin Islands",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "2.21",
+      "co2_per_gdp_2023": "0.05",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "5.73",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Faroe Islands",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "0.04",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Anguilla",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "1.43",
+      "co2_per_gdp_2023": "0.07",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Falkland Islands",
+      "co2_emissions_2023_tonnes": "0",
+      "co2_per_capita_2023": "6.48",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "France",
+      "co2_emissions_2023_tonnes": "",
+      "co2_per_capita_2023": "4.25",
+      "co2_per_gdp_2023": "0.08",
+      "world_share_co2_2023": ""
+    },
+    {
+      "country": "Lesotho",
+      "co2_emissions_2023_tonnes": "",
+      "co2_per_capita_2023": "0.36",
+      "co2_per_gdp_2023": "",
+      "world_share_co2_2023": ""
+    }
+  ]
+}
