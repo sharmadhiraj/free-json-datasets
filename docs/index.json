@@ -64,6 +64,12 @@
         "subtitle": "Percentage of adults (15+) who can read and write a simple statement in everyday life, 2025",
         "updated_at": "August 20, 2025 09:42 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/literacy_rate_by_country.json"
+      },
+      {
+        "title": "Global University Rankings 2025",
+        "subtitle": "Comprehensive list of top universities worldwide in 2025",
+        "updated_at": "September 04, 2025 05:23 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/world_university_ranking.json"
       }
     ]
   },

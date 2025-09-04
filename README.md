@@ -57,6 +57,8 @@ Each dataset follows this JSON format:
 
 - [**Literacy Rate by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/education-knowledge/literacy_rate_by_country.json)  
   Percentage of adults (15+) who can read and write a simple statement in everyday life, 2025
+- [**Global University Rankings 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/education-knowledge/world_university_ranking.json)  
+  Comprehensive list of top universities worldwide in 2025
 
 ### Geography & Environment
 
