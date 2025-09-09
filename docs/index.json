@@ -102,6 +102,17 @@
     ]
   },
   {
+    "category": "Politics & Governance",
+    "datasets": [
+      {
+        "title": "Current Heads of State and Government (2025)",
+        "subtitle": "List of countries with their respective leaders as of 2025",
+        "updated_at": "September 09, 2025 08:53 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/world_leaders_in_office.json"
+      }
+    ]
+  },
+  {
     "category": "Sports & Entertainment",
     "datasets": [
       {

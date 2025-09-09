@@ -72,6 +72,11 @@ Each dataset follows this JSON format:
 - [**Life Expectancy by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/health-medicine/life_expectancy_by_country.json)  
   Average life expectancy of adults worldwide, with breakdown by gender, as reported in 2025.
 
+### Politics & Governance
+
+- [**Current Heads of State and Government (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/world_leaders_in_office.json)  
+  List of countries with their respective leaders as of 2025
+
 ### Sports & Entertainment
 
 - [**All-Time Summer Olympics Medal Tally (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/all_time_olympic_games_medal_tally.json)  
