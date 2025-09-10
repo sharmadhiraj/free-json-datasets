@@ -107,7 +107,7 @@
       {
         "title": "Current Heads of State and Government (2025)",
         "subtitle": "List of countries with their respective leaders as of 2025",
-        "updated_at": "September 09, 2025 08:53 AM UTC",
+        "updated_at": "September 10, 2025 04:13 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/world_leaders_in_office.json"
       }
     ]
@@ -120,6 +120,12 @@
         "subtitle": "Updated Medal Tally up to 2025 (Summer Olympics)",
         "updated_at": "August 28, 2025 05:17 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/all_time_olympic_games_medal_tally.json"
+      },
+      {
+        "title": "FIFA World Cup Finals (1930 - 2026)",
+        "subtitle": "Complete list of FIFA World Cup finals from 1930 - 2026",
+        "updated_at": "September 10, 2025 04:12 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/fifa_world_cup_finals.json"
       },
       {
         "title": "IMDb Top 250 Movies",

@@ -1,0 +1,214 @@
+{
+  "title": "FIFA World Cup Finals (1930 - 2026)",
+  "subtitle": "Complete list of FIFA World Cup finals from 1930 - 2026",
+  "updated_at": "September 10, 2025 04:12 AM UTC",
+  "data": [
+    {
+      "year": "1930",
+      "winner": "Uruguay",
+      "score": "4–2",
+      "runner_up": "Argentina",
+      "venue": "Estadio Centenario",
+      "location": "Montevideo, Uruguay",
+      "attendance": "68,346"
+    },
+    {
+      "year": "1934",
+      "winner": "Italy",
+      "score": "2–1 (a.e.t.)",
+      "runner_up": "Czechoslovakia",
+      "venue": "Stadio Nazionale PNF",
+      "location": "Rome, Italy",
+      "attendance": "55,000"
+    },
+    {
+      "year": "1938",
+      "winner": "Italy",
+      "score": "4–2",
+      "runner_up": "Hungary",
+      "venue": "Stade Olympique de Colombes",
+      "location": "Paris, France",
+      "attendance": "45,000"
+    },
+    {
+      "year": "1950",
+      "winner": "Uruguay",
+      "score": "2–1",
+      "runner_up": "Brazil",
+      "venue": "Maracanã Stadium",
+      "location": "Rio de Janeiro, Brazil",
+      "attendance": "173,850"
+    },
+    {
+      "year": "1954",
+      "winner": "West Germany",
+      "score": "3–2",
+      "runner_up": "Hungary",
+      "venue": "Wankdorf Stadium",
+      "location": "Bern, Switzerland",
+      "attendance": "62,500"
+    },
+    {
+      "year": "1958",
+      "winner": "Brazil",
+      "score": "5–2",
+      "runner_up": "Sweden",
+      "venue": "Råsunda Stadium",
+      "location": "Solna, Sweden",
+      "attendance": "49,737"
+    },
+    {
+      "year": "1962",
+      "winner": "Brazil",
+      "score": "3–1",
+      "runner_up": "Czechoslovakia",
+      "venue": "Estadio Nacional",
+      "location": "Santiago, Chile",
+      "attendance": "68,679"
+    },
+    {
+      "year": "1966",
+      "winner": "England",
+      "score": "4–2 (a.e.t.)",
+      "runner_up": "West Germany",
+      "venue": "Wembley Stadium",
+      "location": "London, England",
+      "attendance": "96,924"
+    },
+    {
+      "year": "1970",
+      "winner": "Brazil",
+      "score": "4–1",
+      "runner_up": "Italy",
+      "venue": "Estadio Azteca",
+      "location": "Mexico City, Mexico",
+      "attendance": "107,412"
+    },
+    {
+      "year": "1974",
+      "winner": "West Germany",
+      "score": "2–1",
+      "runner_up": "Netherlands",
+      "venue": "Olympiastadion",
+      "location": "Munich, West Germany",
+      "attendance": "78,200"
+    },
+    {
+      "year": "1978",
+      "winner": "Argentina",
+      "score": "3–1 (a.e.t.)",
+      "runner_up": "Netherlands",
+      "venue": "Estadio Monumental",
+      "location": "Buenos Aires, Argentina",
+      "attendance": "71,483"
+    },
+    {
+      "year": "1982",
+      "winner": "Italy",
+      "score": "3–1",
+      "runner_up": "West Germany",
+      "venue": "Santiago Bernabéu",
+      "location": "Madrid, Spain",
+      "attendance": "90,000"
+    },
+    {
+      "year": "1986",
+      "winner": "Argentina",
+      "score": "3–2",
+      "runner_up": "West Germany",
+      "venue": "Estadio Azteca",
+      "location": "Mexico City, Mexico",
+      "attendance": "114,600"
+    },
+    {
+      "year": "1990",
+      "winner": "West Germany",
+      "score": "1–0",
+      "runner_up": "Argentina",
+      "venue": "Stadio Olimpico",
+      "location": "Rome, Italy",
+      "attendance": "73,603"
+    },
+    {
+      "year": "1994",
+      "winner": "Brazil",
+      "score": "0–0 (a.e.t.)(3–2 pen.)",
+      "runner_up": "Italy",
+      "venue": "Rose Bowl",
+      "location": "Pasadena, California, United States",
+      "attendance": "94,194"
+    },
+    {
+      "year": "1998",
+      "winner": "France",
+      "score": "3–0",
+      "runner_up": "Brazil",
+      "venue": "Stade de France",
+      "location": "Saint-Denis, France",
+      "attendance": "80,000"
+    },
+    {
+      "year": "2002",
+      "winner": "Brazil",
+      "score": "2–0",
+      "runner_up": "Germany",
+      "venue": "International Stadium",
+      "location": "Yokohama, Japan",
+      "attendance": "69,029"
+    },
+    {
+      "year": "2006",
+      "winner": "Italy",
+      "score": "1–1 (a.e.t.)(5–3 pen.)",
+      "runner_up": "France",
+      "venue": "Olympiastadion",
+      "location": "Berlin, Germany",
+      "attendance": "69,000"
+    },
+    {
+      "year": "2010",
+      "winner": "Spain",
+      "score": "1–0 (a.e.t.)",
+      "runner_up": "Netherlands",
+      "venue": "Soccer City",
+      "location": "Johannesburg, South Africa",
+      "attendance": "84,490"
+    },
+    {
+      "year": "2014",
+      "winner": "Germany",
+      "score": "1–0 (a.e.t.)",
+      "runner_up": "Argentina",
+      "venue": "Maracanã Stadium",
+      "location": "Rio de Janeiro, Brazil",
+      "attendance": "74,738"
+    },
+    {
+      "year": "2018",
+      "winner": "France",
+      "score": "4–2",
+      "runner_up": "Croatia",
+      "venue": "Luzhniki Stadium",
+      "location": "Moscow, Russia",
+      "attendance": "78,011"
+    },
+    {
+      "year": "2022",
+      "winner": "Argentina",
+      "score": "3–3 (a.e.t.)(4–2 pen.)",
+      "runner_up": "France",
+      "venue": "Lusail Stadium",
+      "location": "Lusail, Qatar",
+      "attendance": "88,966"
+    },
+    {
+      "year": "2026",
+      "winner": "",
+      "score": "",
+      "runner_up": "",
+      "venue": "MetLife Stadium",
+      "location": "East Rutherford, New Jersey, United States",
+      "attendance": ""
+    }
+  ]
+}
