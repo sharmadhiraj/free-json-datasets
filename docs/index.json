@@ -11,6 +11,17 @@
     ]
   },
   {
+    "category": "Climate & Weather",
+    "datasets": [
+      {
+        "title": "Average Surface Temperature Yearly (1990 - 2022)",
+        "subtitle": "Average Surface Temperature Yearly 1990 - 2022",
+        "updated_at": "September 10, 2025 05:37 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/climate-weather/yearly_average_surface_temperature_by_country.json"
+      }
+    ]
+  },
+  {
     "category": "Demographics & Population",
     "datasets": [
       {
