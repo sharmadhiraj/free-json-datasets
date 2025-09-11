@@ -14,6 +14,12 @@
     "category": "Climate & Weather",
     "datasets": [
       {
+        "title": "Tropical Cyclone Records (2025)",
+        "subtitle": "Notable Tropical Cyclone Records in 2025",
+        "updated_at": "September 11, 2025 04:17 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/climate-weather/tropical_cyclone_records.json"
+      },
+      {
         "title": "Average Surface Temperature Yearly (1990 - 2022)",
         "subtitle": "Average Surface Temperature Yearly 1990 - 2022",
         "updated_at": "September 10, 2025 05:37 AM UTC",
@@ -56,7 +62,7 @@
       {
         "title": "Inflation Rate by Country (2015–2024)",
         "subtitle": "Annual inflation rates for each country from 2015 to 2024",
-        "updated_at": "August 28, 2025 05:24 AM UTC",
+        "updated_at": "September 11, 2025 04:09 PM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_inflation_rate.json"
       },
       {

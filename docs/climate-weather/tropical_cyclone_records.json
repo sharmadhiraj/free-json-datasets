@@ -1,0 +1,223 @@
+{
+  "title": "Tropical Cyclone Records (2025)",
+  "subtitle": "Notable Tropical Cyclone Records in 2025",
+  "updated_at": "September 11, 2025 04:17 PM UTC",
+  "data": [
+    {
+      "characteristic": "Highest overall rainfall",
+      "record": "6,083 mm (239.5 in)",
+      "date": "January 14, 1980 – January 28, 1980",
+      "tropical_cyclone_location": "Cyclone Hyacinthe in Reunion Island"
+    },
+    {
+      "characteristic": "Highest storm surge",
+      "record": "14.5 m (47.6 ft)",
+      "date": "March 5, 1899",
+      "tropical_cyclone_location": "Cyclone Mahina in Bathurst Bay, Queensland, Australia"
+    },
+    {
+      "characteristic": "Highest confirmed wave height",
+      "record": "30 m (98.4 ft)",
+      "date": "September 11, 1995",
+      "tropical_cyclone_location": "Hurricane Luis on Queen Elizabeth 2 in the north Atlantic Ocean"
+    },
+    {
+      "characteristic": "Costliest tropical cyclone",
+      "record": "$125 billion (2005 and 2017 USD) in damages",
+      "date": "August 29, 2005August 25, 2017",
+      "tropical_cyclone_location": "Hurricane Katrina and Hurricane Harvey in the northern Gulf Coast of the United States"
+    },
+    {
+      "characteristic": "Costliest tropical cyclone season",
+      "record": "≥$294.803 billion (2017 USD) in damages during the 2017 Atlantic hurricane season",
+      "date": "April 19, 2017 – November 9, 2017",
+      "tropical_cyclone_location": "North Atlantic Ocean"
+    },
+    {
+      "characteristic": "Deadliest tropical cyclone",
+      "record": "c. 500,000+ fatalities",
+      "date": "November 12, 1970",
+      "tropical_cyclone_location": "Bhola cyclone in East Pakistan"
+    },
+    {
+      "characteristic": "Deadliest tropical cyclone season",
+      "record": "500,805+ fatalities during the 1970 North Indian Ocean cyclone season",
+      "date": "May 2, 1970 – November 29, 1970",
+      "tropical_cyclone_location": "North Indian Ocean"
+    },
+    {
+      "characteristic": "Most tornadoes formed",
+      "record": "120 confirmed tornadoes",
+      "date": "September 15, 2004 – September 18, 2004",
+      "tropical_cyclone_location": "Hurricane Ivan in the southern and eastern United States"
+    },
+    {
+      "characteristic": "Highest wind gusts",
+      "record": "113.4 m/s (254 mph; 220.4 kn; 408 km/h)",
+      "date": "April 10, 1996",
+      "tropical_cyclone_location": "Cyclone Olivia in Barrow Island, Western Australia"
+    },
+    {
+      "characteristic": "Highest accumulated cyclone energy (ACE) index for a tropical cyclone",
+      "record": "87",
+      "date": "February 4, 2023 – March 14, 2023",
+      "tropical_cyclone_location": "Cyclone Freddy in the Australian region and South-West Indian Ocean"
+    },
+    {
+      "characteristic": "Highest accumulated cyclone energy (ACE) index for a season",
+      "record": "570 during the 1997 Pacific typhoon season",
+      "date": "January 19, 1997 – December 23, 1997",
+      "tropical_cyclone_location": "Northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Highest number of rapid intensification cycles for a tropical cyclone",
+      "record": "7",
+      "date": "February 4, 2023 – March 14, 2023",
+      "tropical_cyclone_location": "Cyclone Freddy in the Australian region and South-West Indian Ocean"
+    },
+    {
+      "characteristic": "Most intense (1-minute maximum sustained surface winds)",
+      "record": "96.2 m/s (215 mph; 187.0 kn; 346 km/h)",
+      "date": "October 23, 2015",
+      "tropical_cyclone_location": "Hurricane Patricia in the northeast Pacific Ocean"
+    },
+    {
+      "characteristic": "Most intense (10-minute maximum sustained winds)",
+      "record": "78.2 m/s (175 mph; 152.0 kn; 282 km/h)",
+      "date": "February 20, 2016",
+      "tropical_cyclone_location": "Cyclone Winston in the south Pacific Ocean"
+    },
+    {
+      "characteristic": "Most intense (lowest central pressure)",
+      "record": "870 mb (870.0 hPa; 25.7 inHg)",
+      "date": "October 12, 1979",
+      "tropical_cyclone_location": "Typhoon Tip in the northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Most intense at landfall (1-minute maximum sustained winds)",
+      "record": "87.2 m/s (195 mph; 169.5 kn; 314 km/h)",
+      "date": "November 1, 2020",
+      "tropical_cyclone_location": "Typhoon Goni in Catanduanes, Philippines"
+    },
+    {
+      "characteristic": "Most intense at landfall (10-minute maximum sustained winds)",
+      "record": "78.2 m/s (175 mph; 152.0 kn; 282 km/h)",
+      "date": "February 20, 2016",
+      "tropical_cyclone_location": "Cyclone Winston in Viti Levu, Fiji."
+    },
+    {
+      "characteristic": "Most intense at landfall (pressure)",
+      "record": "884 mb (884.0 hPa; 26.1 inHg)",
+      "date": "February 20, 2016",
+      "tropical_cyclone_location": "Cyclone Winston in Viti Levu, Fiji."
+    },
+    {
+      "characteristic": "Longest lasting tropical cyclone",
+      "record": "36 days",
+      "date": "February 4, 2023 – March 14, 2023",
+      "tropical_cyclone_location": "Cyclone Freddy in the Australian region and South-West Indian Ocean"
+    },
+    {
+      "characteristic": "Longest distance traveled by tropical cyclone",
+      "record": "13,180 km (8,190 mi)",
+      "date": "August 11, 1994 – September 13, 1994",
+      "tropical_cyclone_location": "Hurricane/Typhoon John in the northeast and northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Longest lasting Category 4 or 5 winds",
+      "record": "8.25 consecutive days",
+      "date": "August 24, 2006 – September 2, 2006",
+      "tropical_cyclone_location": "Hurricane/Typhoon Ioke in the northeast and northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Longest lasting Category 5 winds",
+      "record": "5.50 consecutive days",
+      "date": "September 9, 1961 – September 14, 1961",
+      "tropical_cyclone_location": "Typhoon Nancy in the northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Largest tropical cyclone (radius of winds from center)",
+      "record": "Gale winds 17.5 m/s (40 mph; 35 kn; 65 km/h) extending 1,086 km (675 mi) from center",
+      "date": "October 12, 1979",
+      "tropical_cyclone_location": "Typhoon Tip in the northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Smallest tropical cyclone (radius of winds from center)",
+      "record": "Gale winds 17.5 m/s (40 mph; 35 kn; 65 km/h) extending 18.5 km (11.5 mi) from center",
+      "date": "October 7, 2008",
+      "tropical_cyclone_location": "Tropical Storm Marco in the Bay of Campeche"
+    },
+    {
+      "characteristic": "Largest eye",
+      "record": "370 km (230 mi)",
+      "date": "August 20, 1960 August 17, 1997",
+      "tropical_cyclone_location": "Typhoon Carmen and Typhoon Winnie in the northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Smallest eye",
+      "record": "3.7 km (2.3 mi)",
+      "date": "October 19, 2005",
+      "tropical_cyclone_location": "Hurricane Wilma in the Caribbean Sea"
+    },
+    {
+      "characteristic": "Fastest intensification (1-minute sustained surface winds)",
+      "record": "54 m/s (120 mph; 105 kn; 195 km/h), from 38 m/s (85 mph; 75 kn; 135 km/h) to 91.6 m/s (205 mph; 180 kn; 330 km/h) in under 24 h",
+      "date": "October 22, 2015 – October 23, 2015",
+      "tropical_cyclone_location": "Hurricane Patricia in the northeast Pacific Ocean"
+    },
+    {
+      "characteristic": "Fastest intensification (pressure)",
+      "record": "100 mb (100 hPa), from 976 mb (976.0 hPa; 28.8 inHg) to 876 mb (876.0 hPa; 25.9 inHg) in under 24 h",
+      "date": "September 22, 1983 – September 23, 1983",
+      "tropical_cyclone_location": "Typhoon Forrest in the northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Fastest seafloor current produced by a tropical cyclone",
+      "record": "2.25 m/s (5 mph; 5 kn; 10 km/h)",
+      "date": "September 16, 2004",
+      "tropical_cyclone_location": "Hurricane Ivan in the north Atlantic Ocean"
+    },
+    {
+      "characteristic": "Fastest updraft produced in a tropical cyclone",
+      "record": "27.4 m/s (60 mph; 55 kn; 100 km/h)",
+      "date": "October 23, 2015",
+      "tropical_cyclone_location": "Hurricane Patricia in the northeast Pacific Ocean"
+    },
+    {
+      "characteristic": "Highest forward speed",
+      "record": "31.18 m/s (70 mph; 60 kn; 110 km/h)",
+      "date": "September 15, 1961",
+      "tropical_cyclone_location": "Tropical Storm Six in the north Atlantic Ocean"
+    },
+    {
+      "characteristic": "Closest proximity to the equator",
+      "record": "1.4° N",
+      "date": "December 26, 2001",
+      "tropical_cyclone_location": "Tropical Storm Vamei in the South China Sea"
+    },
+    {
+      "characteristic": "Heaviest natural object moved by a tropical cyclone",
+      "record": "160,572 kg (177 short tons)",
+      "date": "November 8, 2013",
+      "tropical_cyclone_location": "Typhoon Haiyan in Samar, Philippines"
+    },
+    {
+      "characteristic": "Highest number of tropical storms in a season",
+      "record": "39 official storms during the 1964 Pacific typhoon season",
+      "date": "May 12, 1964 – December 17, 1964",
+      "tropical_cyclone_location": "Northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Warmest eye",
+      "record": "34.0 °C (93.2 °F) at 700 hPa height",
+      "date": "August 19, 1979",
+      "tropical_cyclone_location": "Typhoon Judy in the northwest Pacific Ocean"
+    },
+    {
+      "characteristic": "Coldest cloud tops produced by a tropical cyclone",
+      "record": "−109.35 °C (−164.83 °F)",
+      "date": "November 30, 2019",
+      "tropical_cyclone_location": "Typhoon Kammuri over the Philippine Sea"
+    }
+  ]
+}
