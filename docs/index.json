@@ -100,6 +100,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/co2_emissions_by_country.json"
       },
       {
+        "title": "World’s Major Deserts by Area (2025)",
+        "subtitle": "List of the largest deserts and their sizes in 2025",
+        "updated_at": "September 12, 2025 11:48 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/largest_deserts_in_the_world.json"
+      },
+      {
         "title": "Longest Rivers in the World",
         "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
         "updated_at": "August 20, 2025 09:42 AM UTC",

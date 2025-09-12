@@ -1,0 +1,349 @@
+{
+  "title": "World’s Major Deserts by Area (2025)",
+  "subtitle": "List of the largest deserts and their sizes in 2025",
+  "updated_at": "September 12, 2025 11:48 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "name": "Antarctic Desert",
+      "type": "Polar ice and tundra",
+      "area_km2": "14,200,000",
+      "area_mi2": "5,500,000",
+      "location": "Antarctica",
+      "nations": "N/A"
+    },
+    {
+      "rank": "2",
+      "name": "Arctic Desert",
+      "type": "Polar ice and tundra",
+      "area_km2": "13,900,000",
+      "area_mi2": "5,400,000",
+      "location": "Eastern EuropeNorthern AmericaNorthern AsiaNorthern Europe",
+      "nations": "United States (Alaska), Canada (Yukon, Nunavut and Northwest Territories), Finland, Greenland, Iceland, Norway (Svalbard and Jan Mayen), Russia (Siberia), and Sweden"
+    },
+    {
+      "rank": "3",
+      "name": "Saharan Desert",
+      "type": "Subtropical",
+      "area_km2": "9,200,000",
+      "area_mi2": "3,600,000",
+      "location": "Eastern AfricaMiddle AfricaNorthern AfricaWestern Africa",
+      "nations": "Algeria, Chad, Egypt, Eritrea, Libya, Mali, Mauritania, Morocco, Niger, Sudan, Tunisia, and Western Sahara"
+    },
+    {
+      "rank": "4",
+      "name": "Arabian Desert",
+      "type": "Subtropical",
+      "area_km2": "2,330,000",
+      "area_mi2": "900,000",
+      "location": "Middle East",
+      "nations": "Iraq, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, the United Arab Emirates, Egypt, Israel, Palestine and Yemen"
+    },
+    {
+      "rank": "5",
+      "name": "Great Australian Desert",
+      "type": "Subtropical",
+      "area_km2": "1,371,000",
+      "area_mi2": "529,000",
+      "location": "Australasia",
+      "nations": "Australia"
+    },
+    {
+      "rank": "6",
+      "name": "Gobi Desert",
+      "type": "Cold winter",
+      "area_km2": "1,295,000",
+      "area_mi2": "500,000",
+      "location": "Eastern Asia",
+      "nations": "China and Mongolia"
+    },
+    {
+      "rank": "7",
+      "name": "Kalahari Desert",
+      "type": "Subtropical",
+      "area_km2": "900,000",
+      "area_mi2": "350,000",
+      "location": "Southern Africa",
+      "nations": "Botswana, Namibia, and South Africa"
+    },
+    {
+      "rank": "8",
+      "name": "Patagonian Desert",
+      "type": "Oceanic",
+      "area_km2": "673,000",
+      "area_mi2": "260,000",
+      "location": "South America",
+      "nations": "Argentina and Chile"
+    },
+    {
+      "rank": "9",
+      "name": "Syrian Desert",
+      "type": "Subtropical",
+      "area_km2": "500,000",
+      "area_mi2": "193,100",
+      "location": "Western Asia",
+      "nations": "Iraq, Jordan, Saudi Arabia and Syria"
+    },
+    {
+      "rank": "10",
+      "name": "Great Basin Desert",
+      "type": "Cold winter",
+      "area_km2": "492,000",
+      "area_mi2": "190,000",
+      "location": "Northern America",
+      "nations": "United States (Nevada, Utah, California and Idaho)"
+    },
+    {
+      "rank": "11",
+      "name": "Chihuahuan Desert",
+      "type": "Subtropical",
+      "area_km2": "450,000",
+      "area_mi2": "175,000",
+      "location": "Central AmericaNorthern America",
+      "nations": "Mexico and the United States"
+    },
+    {
+      "rank": "12",
+      "name": "Karakum Desert",
+      "type": "Cold winter",
+      "area_km2": "350,000",
+      "area_mi2": "140,000",
+      "location": "Central Asia",
+      "nations": "Turkmenistan"
+    },
+    {
+      "rank": "–",
+      "name": "Great Victoria Desert",
+      "type": "Subtropical",
+      "area_km2": "348,750",
+      "area_mi2": "134,650",
+      "location": "Australasia",
+      "nations": "Australia"
+    },
+    {
+      "rank": "13",
+      "name": "Colorado Plateau",
+      "type": "Cold winter",
+      "area_km2": "340,000",
+      "area_mi2": "130,000",
+      "location": "Northern America",
+      "nations": "United States"
+    },
+    {
+      "rank": "14",
+      "name": "Sonoran Desert",
+      "type": "Subtropical",
+      "area_km2": "310,000",
+      "area_mi2": "120,000",
+      "location": "Central AmericaNorthern America",
+      "nations": "Mexico and the United States"
+    },
+    {
+      "rank": "15",
+      "name": "Kyzylkum Desert",
+      "type": "Cold winter",
+      "area_km2": "300,000",
+      "area_mi2": "115,000",
+      "location": "Central Asia",
+      "nations": "Kazakhstan, Turkmenistan, and Uzbekistan"
+    },
+    {
+      "rank": "16",
+      "name": "Taklamakan Desert",
+      "type": "Cold winter",
+      "area_km2": "270,000",
+      "area_mi2": "105,000",
+      "location": "Eastern Asia",
+      "nations": "China"
+    },
+    {
+      "rank": "–",
+      "name": "Great Sandy Desert",
+      "type": "Subtropical",
+      "area_km2": "267,250",
+      "area_mi2": "103,190",
+      "location": "Australasia",
+      "nations": "Australia"
+    },
+    {
+      "rank": "17",
+      "name": "Ogaden Desert",
+      "type": "Tropical",
+      "area_km2": "200,000",
+      "area_mi2": "77,000",
+      "location": "Eastern Africa",
+      "nations": "Ethiopia, Somalia, and Somaliland"
+    },
+    {
+      "rank": "18",
+      "name": "Thar Desert",
+      "type": "Subtropical",
+      "area_km2": "200,000",
+      "area_mi2": "77,000",
+      "location": "Southern Asia",
+      "nations": "India and Pakistan"
+    },
+    {
+      "rank": "19",
+      "name": "Ustyurt Plateau",
+      "type": "Cold winter",
+      "area_km2": "200,000",
+      "area_mi2": "77,000",
+      "location": "Central Asia",
+      "nations": "Kazakhstan, Turkmenistan, and Uzbekistan"
+    },
+    {
+      "rank": "–",
+      "name": "Tanami Desert",
+      "type": "Subtropical",
+      "area_km2": "184,500",
+      "area_mi2": "71,200",
+      "location": "Australasia",
+      "nations": "Australia"
+    },
+    {
+      "rank": "–",
+      "name": "Simpson Desert",
+      "type": "Subtropical",
+      "area_km2": "176,500",
+      "area_mi2": "68,100",
+      "location": "Australasia",
+      "nations": "Australia"
+    },
+    {
+      "rank": "–",
+      "name": "Gibson Desert",
+      "type": "Subtropical",
+      "area_km2": "156,000",
+      "area_mi2": "60,000",
+      "location": "Australasia",
+      "nations": "Australia"
+    },
+    {
+      "rank": "20",
+      "name": "Margo Desert",
+      "type": "Subtropical",
+      "area_km2": "150,000",
+      "area_mi2": "58,000",
+      "location": "Southern Asia",
+      "nations": "Afghanistan"
+    },
+    {
+      "rank": "21",
+      "name": "Registan Desert",
+      "type": "Subtropical",
+      "area_km2": "146,000",
+      "area_mi2": "56,000",
+      "location": "Southern Asia",
+      "nations": "Afghanistan"
+    },
+    {
+      "rank": "22",
+      "name": "Atacama Desert",
+      "type": "Mild coastal",
+      "area_km2": "140,000",
+      "area_mi2": "54,000",
+      "location": "South America",
+      "nations": "Chile and Peru"
+    },
+    {
+      "rank": "23",
+      "name": "Danakil Desert",
+      "type": "Tropical",
+      "area_km2": "136,956",
+      "area_mi2": "52,879",
+      "location": "Eastern Africa",
+      "nations": "Djibouti, Eritrea, and Ethiopia"
+    },
+    {
+      "rank": "24",
+      "name": "Mojave Desert",
+      "type": "Subtropical",
+      "area_km2": "124,000",
+      "area_mi2": "48,000",
+      "location": "Northern America",
+      "nations": "United States"
+    },
+    {
+      "rank": "–",
+      "name": "Little Sandy Desert",
+      "type": "Subtropical",
+      "area_km2": "115,000",
+      "area_mi2": "43,100",
+      "location": "Australasia",
+      "nations": "Australia"
+    },
+    {
+      "rank": "25",
+      "name": "Chalbi Desert",
+      "type": "Tropical",
+      "area_km2": "98,000",
+      "area_mi2": "38,000",
+      "location": "Eastern Africa",
+      "nations": "Kenya"
+    },
+    {
+      "rank": "26",
+      "name": "Columbia Basin",
+      "type": "Cold winter",
+      "area_km2": "83,100",
+      "area_mi2": "32,100",
+      "location": "Northern America",
+      "nations": "Canada and the United States"
+    },
+    {
+      "rank": "27",
+      "name": "Namib Desert",
+      "type": "Cool coastal",
+      "area_km2": "81,000",
+      "area_mi2": "31,000",
+      "location": "Middle AfricaSouthern Africa",
+      "nations": "Angola, Namibia, and South Africa"
+    },
+    {
+      "rank": "–",
+      "name": "Strzelecki Desert",
+      "type": "Subtropical",
+      "area_km2": "80,250",
+      "area_mi2": "30,980",
+      "location": "Australasia",
+      "nations": "Australia"
+    },
+    {
+      "rank": "28",
+      "name": "Dasht-e Kavir",
+      "type": "Subtropical",
+      "area_km2": "77,000",
+      "area_mi2": "30,000",
+      "location": "Western Asia",
+      "nations": "Iran"
+    },
+    {
+      "rank": "29",
+      "name": "Ferlo Desert",
+      "type": "Tropical bordering on Subtropical",
+      "area_km2": "70,000",
+      "area_mi2": "27,000",
+      "location": "Western Africa",
+      "nations": "Senegal"
+    },
+    {
+      "rank": "30",
+      "name": "Ladakh Desert",
+      "type": "Cold winter",
+      "area_km2": "59,146",
+      "area_mi2": "22,836",
+      "location": "Southern Asia",
+      "nations": "India"
+    },
+    {
+      "rank": "31",
+      "name": "Dasht-e Lut",
+      "type": "Subtropical",
+      "area_km2": "52,000",
+      "area_mi2": "20,000",
+      "location": "Western Asia",
+      "nations": "Iran"
+    }
+  ]
+}

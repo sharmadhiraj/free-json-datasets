@@ -71,6 +71,8 @@ Each dataset follows this JSON format:
 
 - [**Global CO₂ Emissions by Country (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/co2_emissions_by_country.json)  
   Tonnes, per capita, per GDP, and share of world emissions
+- [**World’s Major Deserts by Area (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/largest_deserts_in_the_world.json)  
+  List of the largest deserts and their sizes in 2025
 - [**Longest Rivers in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/longest_rivers.json)  
   Details of the world's longest rivers, including length, outflow, and countries sharing the basin
 
