@@ -1,0 +1,877 @@
+{
+  "title": "Timeline of Space Exploration (2025)",
+  "subtitle": "A historical record of space missions and events up to 2025",
+  "updated_at": "September 15, 2025 08:30 AM UTC",
+  "data": [
+    {
+      "date": "1610",
+      "event_or_success": "First telescopic observation of the night sky: discovery of the Galilean moons, lunar craters and the phases of Venus.",
+      "country_or_organization": "Venice",
+      "mission_or_researcher": "Galileo Galilei"
+    },
+    {
+      "date": "1668",
+      "event_or_success": "First reflecting telescope.",
+      "country_or_organization": "England",
+      "mission_or_researcher": "Isaac Newton"
+    },
+    {
+      "date": "1781",
+      "event_or_success": "First telescopic discovery of planet (Uranus).",
+      "country_or_organization": "Great Britain",
+      "mission_or_researcher": "William Herschel"
+    },
+    {
+      "date": "1801",
+      "event_or_success": "First discovery of asteroid (Ceres).",
+      "country_or_organization": "Sicily",
+      "mission_or_researcher": "Giuseppe Piazzi"
+    },
+    {
+      "date": "1813",
+      "event_or_success": "First exposition of the rocket equation based on Newton's third law of motion: Treatise on the Motion of Rockets.",
+      "country_or_organization": "UK",
+      "mission_or_researcher": "William Moore"
+    },
+    {
+      "date": "1840",
+      "event_or_success": "First clear telescopic photograph of another world: the Moon.",
+      "country_or_organization": "United States",
+      "mission_or_researcher": "John William Draper"
+    },
+    {
+      "date": "1845",
+      "event_or_success": "First proper observation of other galaxies which are termed \"whirlpool nebulae\".",
+      "country_or_organization": "UK",
+      "mission_or_researcher": "William Parsons"
+    },
+    {
+      "date": "1861",
+      "event_or_success": "A Journey Through Space makes first proposal of using rockets for space flight.",
+      "country_or_organization": "UK",
+      "mission_or_researcher": "William Leitch"
+    },
+    {
+      "date": "1895",
+      "event_or_success": "First proposal of space elevator.",
+      "country_or_organization": "Russia",
+      "mission_or_researcher": "Konstantin Tsiolkovsky"
+    },
+    {
+      "date": "4 October 1957",
+      "event_or_success": "First artificial satellite. First human-made signals from space.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Sputnik 1"
+    },
+    {
+      "date": "3 November 1957",
+      "event_or_success": "First mammal in orbit, the dog Laika.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Sputnik 2"
+    },
+    {
+      "date": "31 January 1958",
+      "event_or_success": "Confirmed existence of the Van Allen radiation belt.",
+      "country_or_organization": "USA (ABMA)",
+      "mission_or_researcher": "Explorer 1"
+    },
+    {
+      "date": "17 March 1958",
+      "event_or_success": "First use of solar power in space.The oldest artificial object still in space.",
+      "country_or_organization": "USA (NRL)",
+      "mission_or_researcher": "Vanguard 1"
+    },
+    {
+      "date": "4 January 1959",
+      "event_or_success": "First rocket to reach Earth escape velocity. First spacecraft to attempt to impact the Moon's surface. First artificial object in heliocentric orbit. First detection of solar wind.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Luna 1"
+    },
+    {
+      "date": "17 February 1959",
+      "event_or_success": "First weather satellite.",
+      "country_or_organization": "USA (NRL)",
+      "mission_or_researcher": "Vanguard 2"
+    },
+    {
+      "date": "7 August 1959",
+      "event_or_success": "First photograph of Earth from Earth orbit.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Explorer 6"
+    },
+    {
+      "date": "13 September 1959",
+      "event_or_success": "First spacecraft to impact another celestial body (the Moon).First delivery of national pennants to a celestial body.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Luna 2"
+    },
+    {
+      "date": "4 October 1959",
+      "event_or_success": "First photos of another world from space: the far side of the Moon. First gravity assist.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Luna 3"
+    },
+    {
+      "date": "March 1960",
+      "event_or_success": "First solar probe.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Pioneer 5"
+    },
+    {
+      "date": "19 August 1960",
+      "event_or_success": "First plants and animals to return alive from Earth orbit.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Sputnik 5"
+    },
+    {
+      "date": "25 September 1960",
+      "event_or_success": "First rocket engine fired in space.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Pioneer P-30"
+    },
+    {
+      "date": "31 January 1961",
+      "event_or_success": "First hominidae in space (chimpanzee Ham). First tasks performed in space.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "M-R 2"
+    },
+    {
+      "date": "12 February 1961",
+      "event_or_success": "First launch from Earth orbit of upper stage into a heliocentric orbit.First mid-course corrections. First spin-stabilisation.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Venera 1"
+    },
+    {
+      "date": "12 April 1961",
+      "event_or_success": "First human spaceflight (Yuri Gagarin).First human-crewed orbital flight.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Vostok 1"
+    },
+    {
+      "date": "5 May 1961",
+      "event_or_success": "First human-piloted space flight (Alan Shepard).First human-crewed suborbital flight.",
+      "country_or_organization": "USA",
+      "mission_or_researcher": "Freedom 7"
+    },
+    {
+      "date": "19 May 1961",
+      "event_or_success": "First planetary flyby (within 100,000 km of Venus – no data returned).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Venera 1"
+    },
+    {
+      "date": "6 August 1961",
+      "event_or_success": "First crewed space flight lasting over twenty four hours by Gherman Titov, who is also the first to suffer from space sickness.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Vostok 2"
+    },
+    {
+      "date": "7 March 1962",
+      "event_or_success": "First orbital solar observatory.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "OSO-1"
+    },
+    {
+      "date": "26 April 1962",
+      "event_or_success": "First spacecraft to impact the far side of the Moon.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Ranger 4"
+    },
+    {
+      "date": "11 August 1962",
+      "event_or_success": "First dual crewed spaceflight.First communication between two crewed space vehicles in orbit.First person to float freely in microgravity.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Vostok 3 and Vostok 4"
+    },
+    {
+      "date": "18 August 1962",
+      "event_or_success": "First auroral research rocket launched into the ionosphere.",
+      "country_or_organization": "Norway",
+      "mission_or_researcher": "Ferdinand 1"
+    },
+    {
+      "date": "November 1962",
+      "event_or_success": "First Mars flyby (11,000 km) but contact was lost.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Mars 1"
+    },
+    {
+      "date": "14 December 1962",
+      "event_or_success": "First planetary flyby with data returned (Venus). First successful planetary science mission.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mariner 2"
+    },
+    {
+      "date": "16 June 1963",
+      "event_or_success": "First woman in space (Valentina Tereshkova).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Vostok 6"
+    },
+    {
+      "date": "19 July 1963",
+      "event_or_success": "First reusable crewed spacecraft (suborbital).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "X-15 Flight 90"
+    },
+    {
+      "date": "12 October 1964",
+      "event_or_success": "First multi-person crew (3) in orbit.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Voskhod 1"
+    },
+    {
+      "date": "18 March 1965",
+      "event_or_success": "First space walk/extra-vehicular activity (Alexei Leonov).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Voskhod 2"
+    },
+    {
+      "date": "March 1965",
+      "event_or_success": "First crewed spacecraft to change orbit.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Gemini 3"
+    },
+    {
+      "date": "14 July 1965",
+      "event_or_success": "First flyby of Mars (returned pictures).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mariner 4"
+    },
+    {
+      "date": "14 July 1965",
+      "event_or_success": "First photographs of another planet from deep space (Mars).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mariner 4"
+    },
+    {
+      "date": "15 December 1965",
+      "event_or_success": "First orbital rendezvous (parallel flight, no docking).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Gemini 6A/Gemini 7"
+    },
+    {
+      "date": "3 February 1966",
+      "event_or_success": "First soft landing on another world (the Moon). First photos from another world.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Luna 9"
+    },
+    {
+      "date": "1 March 1966",
+      "event_or_success": "First impact into another planet (Venus).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Venera 3"
+    },
+    {
+      "date": "16 March 1966",
+      "event_or_success": "First orbital docking between two spacecraft.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Gemini 8/Agena target vehicle"
+    },
+    {
+      "date": "3 April 1966",
+      "event_or_success": "First artificial satellite around another world (the Moon).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Luna 10"
+    },
+    {
+      "date": "23 August 1966",
+      "event_or_success": "First picture of Earth from another astronomical object (the Moon). First probe to map the Moon.",
+      "country_or_organization": "USA",
+      "mission_or_researcher": "Lunar Orbiter 1"
+    },
+    {
+      "date": "8 May 1967",
+      "event_or_success": "First polar orbit around the Moon.",
+      "country_or_organization": "USA",
+      "mission_or_researcher": "Lunar Orbiter 4"
+    },
+    {
+      "date": "July 1967",
+      "event_or_success": "First photos of the Lunar south pole.",
+      "country_or_organization": "USA",
+      "mission_or_researcher": "Lunar Orbiter 4"
+    },
+    {
+      "date": "30 October 1967",
+      "event_or_success": "First automated (crewless) docking.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Cosmos 186/Cosmos 188"
+    },
+    {
+      "date": "17 November 1967",
+      "event_or_success": "First liftoff from another celestial body (the Moon).",
+      "country_or_organization": "USA",
+      "mission_or_researcher": "Surveyor 6"
+    },
+    {
+      "date": "September 1968",
+      "event_or_success": "First animals and plants to leave Earth orbit and travel to and around the Moon. First lunar spacecraft to be recovered successfully.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Zond 5"
+    },
+    {
+      "date": "7 December 1968",
+      "event_or_success": "First orbital ultraviolet observatory.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "OAO-2"
+    },
+    {
+      "date": "21 December 1968",
+      "event_or_success": "First human excursion beyond low Earth orbit. First in-person observations of Earth from a distance.First Trans-Earth injection.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Apollo 8"
+    },
+    {
+      "date": "24 December 1968",
+      "event_or_success": "First human flight to another celestial body (the Moon) and to enter its gravitational influence.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Apollo 8"
+    },
+    {
+      "date": "January 1969",
+      "event_or_success": "First docking between two crewed spacecraft in Earth orbit. First crew exchange in space.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Soyuz 4 and Soyuz 5"
+    },
+    {
+      "date": "January 1969",
+      "event_or_success": "First spacecraft to parachute in Venus's atmosphere, lost contact before landing.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Venera 5"
+    },
+    {
+      "date": "23 May 1969",
+      "event_or_success": "First docking of two crewed spacecraft around another celestial body. First lunar mission to include a lunar landing module.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Apollo 10"
+    },
+    {
+      "date": "20 July 1969",
+      "event_or_success": "First human on another celestial body (the Moon). First words spoken from another world.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Apollo 11"
+    },
+    {
+      "date": "21 July 1969",
+      "event_or_success": "First space launch from another celestial body. First sample return from another celestial body.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Apollo 11"
+    },
+    {
+      "date": "19 November 1969",
+      "event_or_success": "First rendezvous on the surface of a celestial body. First meet up between human explorers and a robotic spacecraft in space (on the Moon).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Apollo 12/Surveyor 3"
+    },
+    {
+      "date": "14 April 1970",
+      "event_or_success": "Farthest distance from Earth traveled by humans.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Apollo 13"
+    },
+    {
+      "date": "24 September 1970",
+      "event_or_success": "First automatic sample return from the Moon.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Luna 16"
+    },
+    {
+      "date": "17 November 1970",
+      "event_or_success": "First rover on another celestial body (the Moon). First lunar rover.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Lunokhod 1"
+    },
+    {
+      "date": "12 December 1970",
+      "event_or_success": "First X-ray orbital observatory.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Uhuru"
+    },
+    {
+      "date": "15 December 1970",
+      "event_or_success": "First soft landing on another planet (Venus). First signals from another planet.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Venera 7"
+    },
+    {
+      "date": "19 April 1971",
+      "event_or_success": "First space station.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Salyut 1"
+    },
+    {
+      "date": "June 1971",
+      "event_or_success": "First crewed orbital observatory.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Orion 1"
+    },
+    {
+      "date": "30 July 1971",
+      "event_or_success": "First motor vehicle on another celestial body (Lunar Roving Vehicle).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Apollo 15"
+    },
+    {
+      "date": "14 November 1971",
+      "event_or_success": "First spacecraft to orbit another planet (Mars).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mariner 9"
+    },
+    {
+      "date": "27 November 1971",
+      "event_or_success": "First spacecraft to impact another planet (Mars).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Mars 2"
+    },
+    {
+      "date": "2 December 1971",
+      "event_or_success": "First soft landing on Mars. First signals from Martian surface.First photograph from Martian surface.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Mars 3"
+    },
+    {
+      "date": "3 March 1972",
+      "event_or_success": "First spacecraft on a trajectory out of the Solar System. First spacecraft to use all-nuclear electrical power (SNAP-19 RTGs).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Pioneer 10"
+    },
+    {
+      "date": "15 July 1972",
+      "event_or_success": "First spacecraft to enter the asteroid belt. First spacecraft beyond the orbit of Mars.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Pioneer 10"
+    },
+    {
+      "date": "15 November 1972",
+      "event_or_success": "First orbital gamma ray observatory.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "SAS 2"
+    },
+    {
+      "date": "3 November 1973",
+      "event_or_success": "First mission sent to study Mercury.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mariner 10"
+    },
+    {
+      "date": "3 December 1973",
+      "event_or_success": "First flyby of Jupiter. First spacecraft beyond the Inner Solar System.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Pioneer 10"
+    },
+    {
+      "date": "January 1974",
+      "event_or_success": "First spacecraft to return data on a long-period comet.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mariner 10"
+    },
+    {
+      "date": "5 February 1974",
+      "event_or_success": "First mission to explore two planets in a single mission (Mercury and Venus).First photograph of Venus from space. First use of solar wind for spacecraft orientation.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mariner 10"
+    },
+    {
+      "date": "29 March 1974",
+      "event_or_success": "First flyby of Mercury.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mariner 10"
+    },
+    {
+      "date": "21 Sept. 1974",
+      "event_or_success": "First spacecraft to flyby the same planet multiple times (Mercury).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mariner 10"
+    },
+    {
+      "date": "15 July 1975",
+      "event_or_success": "First multinational crewed mission.",
+      "country_or_organization": "USSR USA (NASA)",
+      "mission_or_researcher": "Apollo-Soyuz Test Project"
+    },
+    {
+      "date": "20 October 1975",
+      "event_or_success": "First spacecraft to orbit Venus.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Venera 9"
+    },
+    {
+      "date": "22 October 1975",
+      "event_or_success": "First successful photos from the surface of another planet (Venus).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Venera 9"
+    },
+    {
+      "date": "20 July 1976",
+      "event_or_success": "First successful photos and soil samples from the surface of Mars.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Viking Lander"
+    },
+    {
+      "date": "26 January 1978",
+      "event_or_success": "First real time remotely operated ultraviolet orbital observatory.",
+      "country_or_organization": "USA (NASA) ESA UK (SERC)",
+      "mission_or_researcher": "International Ultraviolet Explorer"
+    },
+    {
+      "date": "20 November 1978",
+      "event_or_success": "First spacecraft to orbit the Sun at Lagrange 1.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "ISEE-3/ICE"
+    },
+    {
+      "date": "4 December 1978",
+      "event_or_success": "First extended (multi-year) orbital exploration of Venus (from 1978 to 1992).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Pioneer Venus Orbiter"
+    },
+    {
+      "date": "5 March 1979",
+      "event_or_success": "Jupiter flyby (closest approach 349,000 km)Encounters with five Jovian moons.Discovery of volcanism on Io.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Voyager 1"
+    },
+    {
+      "date": "1 September 1979",
+      "event_or_success": "First flyby of Saturn. First photograph of Titan from deep space.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Pioneer 11"
+    },
+    {
+      "date": "12 November 1980",
+      "event_or_success": "Saturn flyby (closest approach 124,000 km), close encounter of Titan and encounters with a dozen other moons.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Voyager 1"
+    },
+    {
+      "date": "12 April 1981",
+      "event_or_success": "First reusable crewed orbital spacecraft (Space Shuttle).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "STS-1"
+    },
+    {
+      "date": "1 March 1982",
+      "event_or_success": "First Venus soil samples First sound recording of another world (Venus).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Venera 13"
+    },
+    {
+      "date": "10 June 1982",
+      "event_or_success": "First spacecraft to conduct a deep survey of Earth's magnetic tail.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "ISEE-3/ICE"
+    },
+    {
+      "date": "19 August 1982",
+      "event_or_success": "First mixed gender crew aboard space station, and first woman, Svetlana Savitskaya, on space station.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Salyut 7"
+    },
+    {
+      "date": "1982",
+      "event_or_success": "First plants grown in space (Arabidopsis).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Salyut 7"
+    },
+    {
+      "date": "25 January 1983",
+      "event_or_success": "First Infrared orbital observatory.",
+      "country_or_organization": "USA (NASA) UK (SERC) Netherlands (NIVR)",
+      "mission_or_researcher": "IRAS"
+    },
+    {
+      "date": "13 June 1983",
+      "event_or_success": "First spacecraft beyond the orbit of Neptune. First spacecraft beyond all Solar System planets.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Pioneer 10"
+    },
+    {
+      "date": "7 February 1984",
+      "event_or_success": "First untethered spacewalk (Bruce McCandless II).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "STS-41-B"
+    },
+    {
+      "date": "25 July 1984",
+      "event_or_success": "First spacewalk by a woman (Svetlana Savitskaya).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Salyut 7"
+    },
+    {
+      "date": "11 June 1985",
+      "event_or_success": "First balloon deployed on another planet (Venus).",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Vega 1"
+    },
+    {
+      "date": "11 September 1985",
+      "event_or_success": "First spacecraft to flyby a comet (21P/Giacobini-Zinner).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "ISEE-3/ICE"
+    },
+    {
+      "date": "24 January 1986",
+      "event_or_success": "First spacecraft to flyby Uranus.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Voyager 2"
+    },
+    {
+      "date": "19 February 1986",
+      "event_or_success": "First consistently inhabited long-term research space station.",
+      "country_or_organization": "USSR",
+      "mission_or_researcher": "Mir"
+    },
+    {
+      "date": "13 March 1986",
+      "event_or_success": "First close up observations of a comet (Halley's Comet, 596 kilometers).",
+      "country_or_organization": "ESA",
+      "mission_or_researcher": "Giotto"
+    },
+    {
+      "date": "July 1988",
+      "event_or_success": "First suspected detection of an exoplanet (Gamma Cephei Ab).",
+      "country_or_organization": "Canada",
+      "mission_or_researcher": "Astronomers Bruce Campbell, Gordon Walker and Stephenson Yang."
+    },
+    {
+      "date": "8 August 1989",
+      "event_or_success": "First astrometric satellite.",
+      "country_or_organization": "ESA",
+      "mission_or_researcher": "Hipparcos"
+    },
+    {
+      "date": "25 August 1989",
+      "event_or_success": "First spacecraft to flyby Neptune. First spacecraft to study all four of the Solar System's giant planets at close range.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Voyager 2"
+    },
+    {
+      "date": "18 November 1989",
+      "event_or_success": "First orbital cosmic microwave observatory.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "COBE"
+    },
+    {
+      "date": "20 May 2010",
+      "event_or_success": "First solar sail.",
+      "country_or_organization": "Japan (JAXA)",
+      "mission_or_researcher": "IKAROS"
+    },
+    {
+      "date": "13 June 2010",
+      "event_or_success": "First sample return from an asteroid (25143 Itokawa).",
+      "country_or_organization": "Japan (JAXA)",
+      "mission_or_researcher": "Hayabusa"
+    },
+    {
+      "date": "25 August 2010",
+      "event_or_success": "First spacecraft to orbit one of the Moon's Lagrange point (L2).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "ARTEMIS-P1"
+    },
+    {
+      "date": "22 October 2010",
+      "event_or_success": "First spacecraft to orbit the Moon's Lagrange 1 point.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "ARTEMIS-P2"
+    },
+    {
+      "date": "18 March 2011",
+      "event_or_success": "First orbit of Mercury.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "MESSENGER"
+    },
+    {
+      "date": "16 July 2011",
+      "event_or_success": "First orbit of an object in the asteroid belt (4 Vesta).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Dawn"
+    },
+    {
+      "date": "6 August 2012",
+      "event_or_success": "First use of a sky crane to land on another celestial body (Mars).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Mars Science Laboratory"
+    },
+    {
+      "date": "25 August 2012",
+      "event_or_success": "First spacecraft to leave the heliosphere. First spacecraft in interstellar space.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Voyager 1"
+    },
+    {
+      "date": "January 2013",
+      "event_or_success": "First laser communication with a lunar satellite.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Lunar Reconnaissance Orbiter"
+    },
+    {
+      "date": "10 September 2014",
+      "event_or_success": "First spacecraft to orbit a comet nucleus (67P/Churyumov–Gerasimenko).",
+      "country_or_organization": "ESA",
+      "mission_or_researcher": "Rosetta"
+    },
+    {
+      "date": "12 November 2014",
+      "event_or_success": "First soft landing on a comet (67P/Churyumov–Gerasimenko).",
+      "country_or_organization": "ESA",
+      "mission_or_researcher": "Philae"
+    },
+    {
+      "date": "6 March 2015",
+      "event_or_success": "First flyby and orbit of a dwarf planet (Ceres).First spacecraft to orbit two separate celestial bodies.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Dawn"
+    },
+    {
+      "date": "July 2015",
+      "event_or_success": "First flyby of an object beyond Neptune (Pluto and its moons). First flyby in the Kuiper belt. First flyby of a trans-neptunian object.Last original encounter with one of the nine major planets recognized before 2006.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "New Horizons"
+    },
+    {
+      "date": "10 August 2015",
+      "event_or_success": "First food grown in space eaten (lettuce).",
+      "country_or_organization": "USA (NASA) Japan (JAXA)",
+      "mission_or_researcher": "International Space Station"
+    },
+    {
+      "date": "14 September 2015",
+      "event_or_success": "First observation of gravitational waves.",
+      "country_or_organization": "LSC – EGO",
+      "mission_or_researcher": "LIGO – Virgo"
+    },
+    {
+      "date": "23 November 2015",
+      "event_or_success": "First propulsive landing of a rocket after sending something into space (suborbital).",
+      "country_or_organization": "USA (Blue Origin)",
+      "mission_or_researcher": "New Shepard 2"
+    },
+    {
+      "date": "21 December 2015",
+      "event_or_success": "First propulsive landing of an orbital rocket.",
+      "country_or_organization": "USA (SpaceX)",
+      "mission_or_researcher": "Falcon 9 flight 20"
+    },
+    {
+      "date": "16 April 2016",
+      "event_or_success": "First inflatable space habitat.",
+      "country_or_organization": "USA (Bigelow Aerospace)",
+      "mission_or_researcher": "BEAM"
+    },
+    {
+      "date": "15 September 2017",
+      "event_or_success": "First spacecraft to enter the atmosphere of Saturn.",
+      "country_or_organization": "USA (NASA) ESA Italy (ASI)",
+      "mission_or_researcher": "Cassini–Huygens"
+    },
+    {
+      "date": "19 October 2017",
+      "event_or_success": "First known interstellar object detected passing through the Solar System.",
+      "country_or_organization": "USA (Haleakalā Observatory)",
+      "mission_or_researcher": "Oumuamua"
+    },
+    {
+      "date": "21 September 2018",
+      "event_or_success": "First operational rover on an asteroid (162173 Ryugu).",
+      "country_or_organization": "Japan (JAXA)",
+      "mission_or_researcher": "Hayabusa2"
+    },
+    {
+      "date": "1 December 2018",
+      "event_or_success": "First recorded sounds from Mars.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "InSight"
+    },
+    {
+      "date": "1 January 2019",
+      "event_or_success": "First flyby of a classical Kuiper belt object (486958 Arrokoth). First flyby of a contact binary. First spacecraft to make two different flybys in the Kuiper belt.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "New Horizons"
+    },
+    {
+      "date": "3 January 2019",
+      "event_or_success": "First soft landing on the far side of the Moon. First germination of seeds on another celestial body.",
+      "country_or_organization": "China (CNSA)",
+      "mission_or_researcher": "Chang'e 4"
+    },
+    {
+      "date": "10 April 2019",
+      "event_or_success": "First direct photograph of a black hole and its vicinity.",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Event Horizon Telescope"
+    },
+    {
+      "date": "6 April 2021",
+      "event_or_success": "First confirmed quake on another planet (marsquake).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "InSight"
+    },
+    {
+      "date": "19 April 2021",
+      "event_or_success": "First aerodynamically powered flight on another celestial body (Mars).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Ingenuity"
+    },
+    {
+      "date": "20 April 2021",
+      "event_or_success": "First in situ resource utilization. First production of oxygen on another celestial body (Mars).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "MOXIE"
+    },
+    {
+      "date": "14 December 2021",
+      "event_or_success": "First spacecraft to fly through the atmosphere of a star (the Sun's corona).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "Parker Solar Probe"
+    },
+    {
+      "date": "25 December 2021",
+      "event_or_success": "Launch of the largest space telescope to date.",
+      "country_or_organization": "USA (NASA) ESA Canada (CSA)",
+      "mission_or_researcher": "James Webb Space Telescope"
+    },
+    {
+      "date": "26 September 2022",
+      "event_or_success": "First spacecraft to measurably deflect an asteroid. First spacecraft to make contact with an asteroid moon (impact on Dimorphos).",
+      "country_or_organization": "USA (NASA)",
+      "mission_or_researcher": "DART"
+    },
+    {
+      "date": "23 August 2023",
+      "event_or_success": "First landing at the lunar south polar region.",
+      "country_or_organization": "India (ISRO)",
+      "mission_or_researcher": "Chandrayaan-3"
+    },
+    {
+      "date": "14 March 2024",
+      "event_or_success": "First successful demonstration of in space propellant transfer.",
+      "country_or_organization": "USA (SpaceX)",
+      "mission_or_researcher": "Starship flight test 3"
+    },
+    {
+      "date": "6 June 2024",
+      "event_or_success": "First successful instance of both stages of a launch vehicle returned for a controlled landing.",
+      "country_or_organization": "USA (SpaceX)",
+      "mission_or_researcher": "Starship flight test 4"
+    },
+    {
+      "date": "25 June 2024",
+      "event_or_success": "First samples returned from the far side of the Moon.",
+      "country_or_organization": "China (CNSA)",
+      "mission_or_researcher": "Chang'e 6"
+    },
+    {
+      "date": "13 October 2024",
+      "event_or_success": "First catch of a rocket booster.",
+      "country_or_organization": "USA (SpaceX)",
+      "mission_or_researcher": "Starship flight test 5"
+    },
+    {
+      "date": "1 April 2025",
+      "event_or_success": "First crewed spaceflight to enter a Polar orbit around Earth.",
+      "country_or_organization": "USA (SpaceX)",
+      "mission_or_researcher": "Fram2"
+    }
+  ]
+}

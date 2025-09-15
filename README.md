@@ -86,6 +86,11 @@ Each dataset follows this JSON format:
 - [**Current Heads of State and Government (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/world_leaders_in_office.json)  
   List of countries with their respective leaders as of 2025
 
+### Science & Technology
+
+- [**Timeline of Space Exploration (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/timeline_of_space_exploration.json)  
+  A historical record of space missions and events up to 2025
+
 ### Sports & Entertainment
 
 - [**All-Time Summer Olympics Medal Tally (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/all_time_olympic_games_medal_tally.json)  

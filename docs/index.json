@@ -136,6 +136,17 @@
     ]
   },
   {
+    "category": "Science & Technology",
+    "datasets": [
+      {
+        "title": "Timeline of Space Exploration (2025)",
+        "subtitle": "A historical record of space missions and events up to 2025",
+        "updated_at": "September 15, 2025 08:30 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/timeline_of_space_exploration.json"
+      }
+    ]
+  },
+  {
     "category": "Sports & Entertainment",
     "datasets": [
       {
