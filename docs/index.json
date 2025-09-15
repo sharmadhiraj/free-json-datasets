@@ -139,6 +139,12 @@
     "category": "Science & Technology",
     "datasets": [
       {
+        "title": "Periodic Table of Elements with Key Properties",
+        "subtitle": "Comprehensive dataset of elements including atomic number, weight, electron configuration, melting/boiling points, and other physical & chemical properties",
+        "updated_at": "September 15, 2025 08:58 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/periodic_table_with_properties.json"
+      },
+      {
         "title": "Timeline of Space Exploration (2025)",
         "subtitle": "A historical record of space missions and events up to 2025",
         "updated_at": "September 15, 2025 08:30 AM UTC",
