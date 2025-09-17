@@ -125,12 +125,29 @@
     ]
   },
   {
+    "category": "Miscellaneous / General Data",
+    "datasets": [
+      {
+        "title": "ISO 3166 Country Codes",
+        "subtitle": "Official list of ISO 3166 codes for countries and territories",
+        "updated_at": "September 17, 2025 01:56 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/misc-general/iso_3166_country_codes.json"
+      },
+      {
+        "title": "Most Spoken Languages Worldwide (2025)",
+        "subtitle": "Comprehensive list of languages ranked by native (L1), second-language (L2), and total speakers as of 2025",
+        "updated_at": "September 17, 2025 12:25 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/misc-general/most_spoken_languages.json"
+      }
+    ]
+  },
+  {
     "category": "Politics & Governance",
     "datasets": [
       {
         "title": "Current Heads of State and Government (2025)",
         "subtitle": "List of countries with their respective leaders as of 2025",
-        "updated_at": "September 10, 2025 04:13 AM UTC",
+        "updated_at": "September 17, 2025 01:58 PM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/world_leaders_in_office.json"
       }
     ]

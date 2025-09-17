@@ -81,6 +81,13 @@ Each dataset follows this JSON format:
 - [**Life Expectancy by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/health-medicine/life_expectancy_by_country.json)  
   Average life expectancy of adults worldwide, with breakdown by gender, as reported in 2025.
 
+### Miscellaneous / General Data
+
+- [**ISO 3166 Country Codes**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/misc-general/iso_3166_country_codes.json)  
+  Official list of ISO 3166 codes for countries and territories
+- [**Most Spoken Languages Worldwide (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/misc-general/most_spoken_languages.json)  
+  Comprehensive list of languages ranked by native (L1), second-language (L2), and total speakers as of 2025
+
 ### Politics & Governance
 
 - [**Current Heads of State and Government (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/world_leaders_in_office.json)  
