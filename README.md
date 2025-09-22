@@ -87,6 +87,8 @@ Each dataset follows this JSON format:
   Official list of ISO 3166 codes for countries and territories
 - [**Most Spoken Languages Worldwide (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/misc-general/most_spoken_languages.json)  
   Comprehensive list of languages ranked by native (L1), second-language (L2), and total speakers as of 2025
+- [**World Time Zones**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/misc-general/world_time_zones_and_utc_offsets.json)  
+  Countries and cities organized by UTC offset
 
 ### Politics & Governance
 
@@ -99,6 +101,13 @@ Each dataset follows this JSON format:
   Comprehensive dataset of elements including atomic number, weight, electron configuration, melting/boiling points, and other physical & chemical properties
 - [**Timeline of Space Exploration (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/timeline_of_space_exploration.json)  
   A historical record of space missions and events up to 2025
+
+### Society & Social Issues
+
+- [**World Happiness Report 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/happiness_index_by_country.json)  
+  Country-wise happiness rankings and factors for 2024
+- [**Press Freedom Index (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/press_freedom_index_by_country.json)  
+  Global press freedom rankings and scores for the year 2025
 
 ### Sports & Entertainment
 

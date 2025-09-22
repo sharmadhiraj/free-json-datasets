@@ -1,0 +1,2638 @@
+{
+  "title": "World Time Zones",
+  "subtitle": "Countries and cities organized by UTC offset",
+  "updated_at": "September 19, 2025 12:04 PM UTC",
+  "data": [
+    {
+      "utc_offset": "UTC-12",
+      "locations": [
+        {
+          "country_name": "U.S. Outlying Islands",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Baker Island",
+            "Howland Island"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-11",
+      "locations": [
+        {
+          "country_name": "American Samoa",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Pago Pago"
+          ]
+        },
+        {
+          "country_name": "Niue",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Alofi"
+          ]
+        },
+        {
+          "country_name": "U.S. Outlying Islands",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Midway Islands"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-10",
+      "locations": [
+        {
+          "country_name": "Cook Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Avarua"
+          ]
+        },
+        {
+          "country_name": "French Polynesia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Papeete"
+          ]
+        },
+        {
+          "country_name": "U.S. Outlying Islands",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Johnston Atoll"
+          ]
+        },
+        {
+          "country_name": "United States",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Hawaii",
+            "Honolulu"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-9:30",
+      "locations": [
+        {
+          "country_name": "French Polynesia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Atuona"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-9",
+      "locations": [
+        {
+          "country_name": "French Polynesia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Rikitea"
+          ]
+        },
+        {
+          "country_name": "United States",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Adak"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-8",
+      "locations": [
+        {
+          "country_name": "Pitcairn Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Adamstown"
+          ]
+        },
+        {
+          "country_name": "United States",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Alaska",
+            "Anchorage"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-7",
+      "locations": [
+        {
+          "country_name": "Canada",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "British Columbia",
+            "Surrey",
+            "Vancouver",
+            "Yukon"
+          ]
+        },
+        {
+          "country_name": "Mexico",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Culiacán",
+            "Tijuana"
+          ]
+        },
+        {
+          "country_name": "United States",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Arizona",
+            "California",
+            "Los Angeles",
+            "Nevada",
+            "Oregon",
+            "Phoenix",
+            "San Diego",
+            "San Francisco",
+            "San Jose",
+            "Washington"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-6",
+      "locations": [
+        {
+          "country_name": "Belize",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Belmopan"
+          ]
+        },
+        {
+          "country_name": "Canada",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Alberta",
+            "Calgary",
+            "Edmonton",
+            "Northwest Territories",
+            "Saskatchewan"
+          ]
+        },
+        {
+          "country_name": "Costa Rica",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Limón",
+            "San José"
+          ]
+        },
+        {
+          "country_name": "Ecuador",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Puerto Ayora"
+          ]
+        },
+        {
+          "country_name": "El Salvador",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "San Salvador",
+            "Santa Ana"
+          ]
+        },
+        {
+          "country_name": "Guatemala",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Guatemala City"
+          ]
+        },
+        {
+          "country_name": "Honduras",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "San Pedro Sula",
+            "Tegucigalpa"
+          ]
+        },
+        {
+          "country_name": "Mexico",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Ciudad Juárez",
+            "Ciudad Neza",
+            "Ecatepec de Morelos",
+            "Guadalajara",
+            "Mexico City",
+            "Monterrey",
+            "Puebla City"
+          ]
+        },
+        {
+          "country_name": "Nicaragua",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "León",
+            "Managua"
+          ]
+        },
+        {
+          "country_name": "United States",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Albuquerque",
+            "Colorado",
+            "Colorado Springs",
+            "Denver",
+            "El Paso",
+            "Idaho",
+            "Montana",
+            "New Mexico",
+            "Utah",
+            "Wyoming"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-5",
+      "locations": [
+        {
+          "country_name": "Brazil",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Acre",
+            "Rio Branco"
+          ]
+        },
+        {
+          "country_name": "Canada",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Manitoba",
+            "Winnipeg"
+          ]
+        },
+        {
+          "country_name": "Cayman Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "George Town"
+          ]
+        },
+        {
+          "country_name": "Chile",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Easter Island"
+          ]
+        },
+        {
+          "country_name": "Colombia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Barranquilla",
+            "Bogotá",
+            "Cali",
+            "Cartagena",
+            "Medellín"
+          ]
+        },
+        {
+          "country_name": "Ecuador",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Guayaquil",
+            "Quito"
+          ]
+        },
+        {
+          "country_name": "Jamaica",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kingston",
+            "Spanish Town"
+          ]
+        },
+        {
+          "country_name": "Mexico",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Cancún",
+            "Reynosa"
+          ]
+        },
+        {
+          "country_name": "Panama",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Panama City"
+          ]
+        },
+        {
+          "country_name": "Peru",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Arequipa",
+            "Lima",
+            "Trujillo"
+          ]
+        },
+        {
+          "country_name": "United States",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Alabama",
+            "Arkansas",
+            "Austin",
+            "Chicago",
+            "Dallas",
+            "Fort Worth",
+            "Houston",
+            "Illinois",
+            "Iowa",
+            "Kansas",
+            "Kansas City",
+            "Louisiana",
+            "Memphis",
+            "Milwaukee",
+            "Minneapolis",
+            "Minnesota",
+            "Mississippi",
+            "Missouri",
+            "Nashville",
+            "Nebraska",
+            "North Dakota",
+            "Oklahoma",
+            "Oklahoma City",
+            "Omaha",
+            "San Antonio",
+            "South Dakota",
+            "Tennessee",
+            "Texas",
+            "Tulsa",
+            "Wisconsin"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-4",
+      "locations": [
+        {
+          "country_name": "Anguilla",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "The Valley"
+          ]
+        },
+        {
+          "country_name": "Antigua and Barbuda",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "St. John's"
+          ]
+        },
+        {
+          "country_name": "Aruba",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Oranjestad"
+          ]
+        },
+        {
+          "country_name": "Barbados",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bridgetown"
+          ]
+        },
+        {
+          "country_name": "Bolivia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "La Paz",
+            "Santa Cruz de la Sierra"
+          ]
+        },
+        {
+          "country_name": "Brazil",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Campo Grande",
+            "Manaus",
+            "Mato Grosso",
+            "Mato Grosso do Sul",
+            "Rondônia",
+            "Roraima"
+          ]
+        },
+        {
+          "country_name": "British Virgin Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Road Town"
+          ]
+        },
+        {
+          "country_name": "Canada",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Montreal",
+            "Ontario",
+            "Ottawa",
+            "Quebec",
+            "Toronto"
+          ]
+        },
+        {
+          "country_name": "Caribbean Netherlands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kralendijk"
+          ]
+        },
+        {
+          "country_name": "Cuba",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Havana",
+            "Santiago de Cuba"
+          ]
+        },
+        {
+          "country_name": "Curaçao",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Willemstad"
+          ]
+        },
+        {
+          "country_name": "Dominica",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Roseau"
+          ]
+        },
+        {
+          "country_name": "Dominican Republic",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Santiago de los Caballeros",
+            "Santo Domingo"
+          ]
+        },
+        {
+          "country_name": "Grenada",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "St. George's"
+          ]
+        },
+        {
+          "country_name": "Guadeloupe",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Basse-Terre"
+          ]
+        },
+        {
+          "country_name": "Guyana",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Georgetown"
+          ]
+        },
+        {
+          "country_name": "Haiti",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Port-au-Prince"
+          ]
+        },
+        {
+          "country_name": "Martinique",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Fort-de-France"
+          ]
+        },
+        {
+          "country_name": "Montserrat",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Plymouth"
+          ]
+        },
+        {
+          "country_name": "Puerto Rico",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Carolina",
+            "San Juan"
+          ]
+        },
+        {
+          "country_name": "Saint Barthélemy",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Gustavia"
+          ]
+        },
+        {
+          "country_name": "Saint Lucia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Castries"
+          ]
+        },
+        {
+          "country_name": "Saint Martin",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Marigot"
+          ]
+        },
+        {
+          "country_name": "St. Kitts & Nevis",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Basseterre"
+          ]
+        },
+        {
+          "country_name": "St. Vincent & Grenadines",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kingstown"
+          ]
+        },
+        {
+          "country_name": "The Bahamas",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Nassau"
+          ]
+        },
+        {
+          "country_name": "Trinidad and Tobago",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Chaguanas",
+            "Port of Spain"
+          ]
+        },
+        {
+          "country_name": "Turks and Caicos Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Cockburn Town"
+          ]
+        },
+        {
+          "country_name": "U.S. Virgin Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Charlotte Amalie"
+          ]
+        },
+        {
+          "country_name": "United States",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Atlanta",
+            "Baltimore",
+            "Boston",
+            "Charlotte",
+            "Cincinnati",
+            "Cleveland",
+            "Columbus",
+            "Connecticut",
+            "Delaware",
+            "Detroit",
+            "Florida",
+            "Georgia",
+            "Indiana",
+            "Indianapolis",
+            "Jacksonville",
+            "Kentucky",
+            "Lexington-Fayette",
+            "Maine",
+            "Maryland",
+            "Massachusetts",
+            "Miami",
+            "Michigan",
+            "New Hampshire",
+            "New Jersey",
+            "New York",
+            "North Carolina",
+            "Ohio",
+            "Pennsylvania",
+            "Philadelphia",
+            "Pittsburgh",
+            "Raleigh",
+            "Rhode Island",
+            "South Carolina",
+            "Staten Island",
+            "Tampa",
+            "Vermont",
+            "Virginia",
+            "Virginia Beach",
+            "Washington, D.C.",
+            "West Virginia"
+          ]
+        },
+        {
+          "country_name": "Venezuela",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Caracas",
+            "Maracaibo",
+            "Maracay"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-3",
+      "locations": [
+        {
+          "country_name": "Argentina",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Buenos Aires",
+            "Córdoba",
+            "Rosario"
+          ]
+        },
+        {
+          "country_name": "Bermuda",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Hamilton"
+          ]
+        },
+        {
+          "country_name": "Brazil",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Alagoas",
+            "Amapá",
+            "Bahia",
+            "Belo Horizonte",
+            "Belém",
+            "Brasília",
+            "Ceará",
+            "Curitiba",
+            "Espírito Santo",
+            "Federal District",
+            "Fortaleza",
+            "Goiás",
+            "Maranhão",
+            "Minas Gerais",
+            "Paraná",
+            "Paraíba",
+            "Pará",
+            "Pernambuco",
+            "Piauí",
+            "Porto Alegre",
+            "Recife",
+            "Rio Grande do Norte",
+            "Rio Grande do Sul",
+            "Rio de Janeiro",
+            "Salvador",
+            "Santa Catarina",
+            "Sergipe",
+            "São Paulo",
+            "Tocantins"
+          ]
+        },
+        {
+          "country_name": "Canada",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Halifax",
+            "New Brunswick",
+            "Nova Scotia",
+            "Prince Edward Island",
+            "Sydney"
+          ]
+        },
+        {
+          "country_name": "Chile",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Puente Alto",
+            "Santiago"
+          ]
+        },
+        {
+          "country_name": "Falkland Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Stanley"
+          ]
+        },
+        {
+          "country_name": "French Guiana",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Cayenne"
+          ]
+        },
+        {
+          "country_name": "Greenland",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Pituffik"
+          ]
+        },
+        {
+          "country_name": "Paraguay",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Asunción",
+            "Ciudad del Este"
+          ]
+        },
+        {
+          "country_name": "Suriname",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Paramaribo"
+          ]
+        },
+        {
+          "country_name": "Uruguay",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Montevideo",
+            "Salto"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-2:30",
+      "locations": [
+        {
+          "country_name": "Canada",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Newfoundland and Labrador",
+            "St. John's"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-2",
+      "locations": [
+        {
+          "country_name": "Brazil",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Fernando de Noronha"
+          ]
+        },
+        {
+          "country_name": "Saint Pierre and Miquelon",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Saint-Pierre"
+          ]
+        },
+        {
+          "country_name": "South Georgia and the South Sandwich Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "King Edward Point"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC-1",
+      "locations": [
+        {
+          "country_name": "Cabo Verde",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Praia"
+          ]
+        },
+        {
+          "country_name": "Greenland",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Nuuk"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+0",
+      "locations": [
+        {
+          "country_name": "Azores",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Ponta Delgada"
+          ]
+        },
+        {
+          "country_name": "Burkina Faso",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bobo-Dioulasso",
+            "Ouagadougou"
+          ]
+        },
+        {
+          "country_name": "Ghana",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Accra",
+            "Kumasi"
+          ]
+        },
+        {
+          "country_name": "Greenland",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Danmarkshavn"
+          ]
+        },
+        {
+          "country_name": "Guinea",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Conakry",
+            "Nzérékoré"
+          ]
+        },
+        {
+          "country_name": "Guinea-Bissau",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bafatá",
+            "Bissau"
+          ]
+        },
+        {
+          "country_name": "Iceland",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Reykjavik"
+          ]
+        },
+        {
+          "country_name": "Ivory Coast",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Abidjan",
+            "Bouaké",
+            "Yamoussoukro"
+          ]
+        },
+        {
+          "country_name": "Liberia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Monrovia"
+          ]
+        },
+        {
+          "country_name": "Mali",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bamako",
+            "Sikasso"
+          ]
+        },
+        {
+          "country_name": "Mauritania",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Nouadhibou",
+            "Nouakchott"
+          ]
+        },
+        {
+          "country_name": "Saint Helena",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Jamestown"
+          ]
+        },
+        {
+          "country_name": "Senegal",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Dakar",
+            "Touba"
+          ]
+        },
+        {
+          "country_name": "Sierra Leone",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bo",
+            "Freetown"
+          ]
+        },
+        {
+          "country_name": "São Tomé and Príncipe",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "The Gambia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Banjul"
+          ]
+        },
+        {
+          "country_name": "Togo",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Lomé",
+            "Sokodé"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+1",
+      "locations": [
+        {
+          "country_name": "Algeria",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Algiers",
+            "Boumerdas",
+            "Oran"
+          ]
+        },
+        {
+          "country_name": "Angola",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Luanda",
+            "N'dalatando"
+          ]
+        },
+        {
+          "country_name": "Benin",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Abomey-Calavi",
+            "Porto-Novo"
+          ]
+        },
+        {
+          "country_name": "Cameroon",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Douala",
+            "Yaoundé"
+          ]
+        },
+        {
+          "country_name": "Canary Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Las Palmas"
+          ]
+        },
+        {
+          "country_name": "Central African Republic",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bangui",
+            "Bimbo"
+          ]
+        },
+        {
+          "country_name": "Chad",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Moundou",
+            "N'Djamena"
+          ]
+        },
+        {
+          "country_name": "Congo-Brazzaville",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Brazzaville",
+            "Pointe-Noire"
+          ]
+        },
+        {
+          "country_name": "Congo-Kinshasa",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Kikwit",
+            "Kinshasa"
+          ]
+        },
+        {
+          "country_name": "Equatorial Guinea",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bata",
+            "Malabo"
+          ]
+        },
+        {
+          "country_name": "Faroe Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Tórshavn"
+          ]
+        },
+        {
+          "country_name": "Gabon",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Libreville",
+            "Port-Gentil"
+          ]
+        },
+        {
+          "country_name": "Guernsey",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Ireland",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Cork",
+            "Dublin"
+          ]
+        },
+        {
+          "country_name": "Isle of Man",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Jersey",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Morocco",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Casablanca",
+            "Rabat"
+          ]
+        },
+        {
+          "country_name": "Niger",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Niamey"
+          ]
+        },
+        {
+          "country_name": "Nigeria",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Aba",
+            "Abuja",
+            "Benin City",
+            "Ibadan",
+            "Kaduna",
+            "Kano",
+            "Lagos",
+            "Maiduguri",
+            "Port Harcourt",
+            "Zaria"
+          ]
+        },
+        {
+          "country_name": "Portugal",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Lisbon",
+            "Porto"
+          ]
+        },
+        {
+          "country_name": "Tunisia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Tunis"
+          ]
+        },
+        {
+          "country_name": "United Kingdom",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Birmingham",
+            "Bristol",
+            "Edinburgh",
+            "Glasgow",
+            "Leeds",
+            "Leicester",
+            "Liverpool",
+            "London",
+            "Manchester",
+            "Sheffield"
+          ]
+        },
+        {
+          "country_name": "Western Sahara",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+2",
+      "locations": [
+        {
+          "country_name": "Albania",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Durrës",
+            "Tirana"
+          ]
+        },
+        {
+          "country_name": "Andorra",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Austria",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Graz",
+            "Vienna"
+          ]
+        },
+        {
+          "country_name": "Belgium",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Antwerp",
+            "Brussels"
+          ]
+        },
+        {
+          "country_name": "Bosnia and Herzegovina",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Sarajevo"
+          ]
+        },
+        {
+          "country_name": "Botswana",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Francistown",
+            "Gaborone"
+          ]
+        },
+        {
+          "country_name": "Burundi",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bujumbura",
+            "Muyinga"
+          ]
+        },
+        {
+          "country_name": "Congo-Kinshasa",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Kisangani",
+            "Lubumbashi",
+            "Mbuji-Mayi"
+          ]
+        },
+        {
+          "country_name": "Croatia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Zagreb"
+          ]
+        },
+        {
+          "country_name": "Czechia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Brno",
+            "Prague"
+          ]
+        },
+        {
+          "country_name": "Denmark",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Aarhus",
+            "Copenhagen"
+          ]
+        },
+        {
+          "country_name": "Eswatini",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Manzini",
+            "Mbabane"
+          ]
+        },
+        {
+          "country_name": "France",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Lyon",
+            "Marseille",
+            "Nice",
+            "Paris",
+            "Toulouse"
+          ]
+        },
+        {
+          "country_name": "Germany",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Berlin",
+            "Cologne",
+            "Essen",
+            "Frankfurt",
+            "Hamburg",
+            "Munich",
+            "Stuttgart"
+          ]
+        },
+        {
+          "country_name": "Gibraltar",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Hungary",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Budapest",
+            "Debrecen"
+          ]
+        },
+        {
+          "country_name": "Italy",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Milan",
+            "Naples",
+            "Palermo",
+            "Rome",
+            "Turin"
+          ]
+        },
+        {
+          "country_name": "Kosovo",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Pristina"
+          ]
+        },
+        {
+          "country_name": "Lesotho",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Mafeteng",
+            "Maseru"
+          ]
+        },
+        {
+          "country_name": "Libya",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Tripoli"
+          ]
+        },
+        {
+          "country_name": "Liechtenstein",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Luxembourg",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Malawi",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Blantyre",
+            "Lilongwe"
+          ]
+        },
+        {
+          "country_name": "Malta",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Valletta"
+          ]
+        },
+        {
+          "country_name": "Monaco",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Montenegro",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Podgorica"
+          ]
+        },
+        {
+          "country_name": "Mozambique",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Maputo",
+            "Matola"
+          ]
+        },
+        {
+          "country_name": "Namibia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Rundu",
+            "Windhoek"
+          ]
+        },
+        {
+          "country_name": "Netherlands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Amsterdam",
+            "The Hague"
+          ]
+        },
+        {
+          "country_name": "North Macedonia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bitola",
+            "Skopje"
+          ]
+        },
+        {
+          "country_name": "Norway",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bergen",
+            "Oslo"
+          ]
+        },
+        {
+          "country_name": "Poland",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Krakow",
+            "Lodz",
+            "Warsaw"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Kaliningrad"
+          ]
+        },
+        {
+          "country_name": "Rwanda",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kigali"
+          ]
+        },
+        {
+          "country_name": "San Marino",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Serbia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Belgrade",
+            "Niš"
+          ]
+        },
+        {
+          "country_name": "Slovakia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bratislava",
+            "Košice"
+          ]
+        },
+        {
+          "country_name": "Slovenia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Ljubljana",
+            "Maribor"
+          ]
+        },
+        {
+          "country_name": "South Africa",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Cape Town",
+            "Durban",
+            "Johannesburg",
+            "Pretoria",
+            "Soweto"
+          ]
+        },
+        {
+          "country_name": "South Sudan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Juba",
+            "Malakal"
+          ]
+        },
+        {
+          "country_name": "Spain",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Barcelona",
+            "Madrid",
+            "Seville",
+            "Valencia",
+            "Zaragoza"
+          ]
+        },
+        {
+          "country_name": "Sudan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kassala",
+            "Khartoum",
+            "Port Sudan"
+          ]
+        },
+        {
+          "country_name": "Sweden",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Gothenburg",
+            "Stockholm"
+          ]
+        },
+        {
+          "country_name": "Switzerland",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bern",
+            "Zurich"
+          ]
+        },
+        {
+          "country_name": "Vatican City",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Zambia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kitwe",
+            "Lusaka"
+          ]
+        },
+        {
+          "country_name": "Zimbabwe",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bulawayo",
+            "Harare"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+3",
+      "locations": [
+        {
+          "country_name": "Bahrain",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Manama"
+          ]
+        },
+        {
+          "country_name": "Belarus",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Gomel",
+            "Minsk",
+            "Mogilev"
+          ]
+        },
+        {
+          "country_name": "Bulgaria",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Plovdiv",
+            "Sofia"
+          ]
+        },
+        {
+          "country_name": "Comoros",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Moroni"
+          ]
+        },
+        {
+          "country_name": "Cyprus",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Limassol",
+            "Nicosia"
+          ]
+        },
+        {
+          "country_name": "Djibouti",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Djibouti"
+          ]
+        },
+        {
+          "country_name": "Egypt",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Alexandria",
+            "Cairo",
+            "Port Said"
+          ]
+        },
+        {
+          "country_name": "Eritrea",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Asmara",
+            "Keren"
+          ]
+        },
+        {
+          "country_name": "Estonia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Tallinn",
+            "Tartu"
+          ]
+        },
+        {
+          "country_name": "Ethiopia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Adama",
+            "Addis Ababa",
+            "Bahir Dar",
+            "Dire Dawa",
+            "Mek'ele"
+          ]
+        },
+        {
+          "country_name": "Finland",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Espoo",
+            "Helsinki"
+          ]
+        },
+        {
+          "country_name": "Greece",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Athens",
+            "Thessaloniki"
+          ]
+        },
+        {
+          "country_name": "Iraq",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Baghdad",
+            "Basra"
+          ]
+        },
+        {
+          "country_name": "Israel",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Haifa",
+            "Jerusalem"
+          ]
+        },
+        {
+          "country_name": "Jordan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Amman",
+            "Zarqa"
+          ]
+        },
+        {
+          "country_name": "Kenya",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Mombasa",
+            "Nairobi",
+            "Nakuru"
+          ]
+        },
+        {
+          "country_name": "Kuwait",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Al Ahmadi",
+            "Kuwait City"
+          ]
+        },
+        {
+          "country_name": "Latvia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Daugavpils",
+            "Riga"
+          ]
+        },
+        {
+          "country_name": "Lebanon",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Beirut",
+            "Tripoli"
+          ]
+        },
+        {
+          "country_name": "Lithuania",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kaunas",
+            "Vilnius"
+          ]
+        },
+        {
+          "country_name": "Madagascar",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Antananarivo",
+            "Toamasina"
+          ]
+        },
+        {
+          "country_name": "Mayotte",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Mamoudzou"
+          ]
+        },
+        {
+          "country_name": "Moldova",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Chisinau",
+            "Tiraspol"
+          ]
+        },
+        {
+          "country_name": "Palestine",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Gaza"
+          ]
+        },
+        {
+          "country_name": "Qatar",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Doha"
+          ]
+        },
+        {
+          "country_name": "Romania",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bucharest",
+            "Iasi"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Kazan",
+            "Moscow",
+            "Nizhny Novgorod",
+            "Rostov-on-Don",
+            "Saint Petersburg"
+          ]
+        },
+        {
+          "country_name": "Saudi Arabia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Jeddah",
+            "Mecca",
+            "Riyadh"
+          ]
+        },
+        {
+          "country_name": "Somalia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Mogadishu"
+          ]
+        },
+        {
+          "country_name": "Syria",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Aleppo",
+            "Damascus"
+          ]
+        },
+        {
+          "country_name": "Tanzania",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Dar es Salaam",
+            "Dodoma"
+          ]
+        },
+        {
+          "country_name": "Türkiye",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Adana",
+            "Ankara",
+            "Bursa",
+            "Gaziantep",
+            "Istanbul",
+            "Izmir",
+            "Konya"
+          ]
+        },
+        {
+          "country_name": "Uganda",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Gulu",
+            "Kampala",
+            "Lira"
+          ]
+        },
+        {
+          "country_name": "Ukraine",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Dnipro",
+            "Donetsk",
+            "Kharkiv",
+            "Kyiv",
+            "Odesa"
+          ]
+        },
+        {
+          "country_name": "Yemen",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Al Hudaydah",
+            "Sanaa"
+          ]
+        },
+        {
+          "country_name": "Åland Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Mariehamn"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+3:30",
+      "locations": [
+        {
+          "country_name": "Iran",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Isfahan",
+            "Karaj",
+            "Mashhad",
+            "Qom",
+            "Shiraz",
+            "Tabriz",
+            "Tehran"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+4",
+      "locations": [
+        {
+          "country_name": "Armenia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Yerevan"
+          ]
+        },
+        {
+          "country_name": "Azerbaijan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Baku",
+            "Ganja"
+          ]
+        },
+        {
+          "country_name": "Georgia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kutaisi",
+            "Tbilisi"
+          ]
+        },
+        {
+          "country_name": "Mauritius",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Port Louis",
+            "Vacoas-Phoenix"
+          ]
+        },
+        {
+          "country_name": "Oman",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Muscat",
+            "Seeb"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Samara",
+            "Tolyatti"
+          ]
+        },
+        {
+          "country_name": "Réunion",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Saint-Denis"
+          ]
+        },
+        {
+          "country_name": "Seychelles",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Victoria"
+          ]
+        },
+        {
+          "country_name": "United Arab Emirates",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Abu Dhabi",
+            "Dubai"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+4:30",
+      "locations": [
+        {
+          "country_name": "Afghanistan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kabul",
+            "Kandahar",
+            "Mazari Sharif"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+5",
+      "locations": [
+        {
+          "country_name": "Kazakhstan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Almaty",
+            "Astana"
+          ]
+        },
+        {
+          "country_name": "Maldives",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Malé"
+          ]
+        },
+        {
+          "country_name": "Pakistan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Faisalabad",
+            "Gujranwala",
+            "Hyderābād",
+            "Islamabad",
+            "Karachi",
+            "Lahore",
+            "Multan",
+            "Peshawar",
+            "Quetta",
+            "Rawalpindi"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Chelyabinsk",
+            "Yekaterinburg"
+          ]
+        },
+        {
+          "country_name": "Tajikistan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Dushanbe",
+            "Khujand"
+          ]
+        },
+        {
+          "country_name": "Turkmenistan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Ashgabat",
+            "Turkmenabat"
+          ]
+        },
+        {
+          "country_name": "Uzbekistan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Namangan",
+            "Tashkent"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+5:30",
+      "locations": [
+        {
+          "country_name": "India",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Ahmedabad",
+            "Bengaluru",
+            "Chennai",
+            "Hyderabad",
+            "Kanpur",
+            "Kolkata",
+            "Mumbai",
+            "New Delhi",
+            "Pune",
+            "Surat"
+          ]
+        },
+        {
+          "country_name": "Sri Lanka",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Colombo",
+            "Moratuwa"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+5:45",
+      "locations": [
+        {
+          "country_name": "Nepal",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Biratnagar",
+            "Kathmandu",
+            "Pokhara"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+6",
+      "locations": [
+        {
+          "country_name": "Bangladesh",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Chittagong",
+            "Comilla",
+            "Cox’s Bāzār",
+            "Dhaka",
+            "Jessore",
+            "Khulna",
+            "Narsingdi",
+            "Rajshahi",
+            "Rangpur City",
+            "Tongi"
+          ]
+        },
+        {
+          "country_name": "Bhutan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Thimphu"
+          ]
+        },
+        {
+          "country_name": "British Indian Ocean Territory",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Kyrgyzstan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bishkek",
+            "Osh"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Omsk"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+6:30",
+      "locations": [
+        {
+          "country_name": "Cocos (Keeling) Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Myanmar",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Naypyidaw",
+            "Yangon"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+7",
+      "locations": [
+        {
+          "country_name": "Cambodia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Phnom Penh",
+            "Takeo"
+          ]
+        },
+        {
+          "country_name": "Christmas Island",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Indonesia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Bandung",
+            "Bekasi",
+            "Depok",
+            "Jakarta",
+            "Medan",
+            "Palembang",
+            "Semarang",
+            "South Tangerang",
+            "Surabaya",
+            "Tangerang"
+          ]
+        },
+        {
+          "country_name": "Laos",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Pakse",
+            "Vientiane"
+          ]
+        },
+        {
+          "country_name": "Mongolia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Khovd"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Krasnoyarsk",
+            "Novosibirsk"
+          ]
+        },
+        {
+          "country_name": "Thailand",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bangkok",
+            "Chon Buri",
+            "Mueang Samut Prakan",
+            "Nonthaburi",
+            "Udon Thani"
+          ]
+        },
+        {
+          "country_name": "Vietnam",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bien Hoa",
+            "Da Nang",
+            "Haiphong",
+            "Hanoi",
+            "Ho Chi Minh City",
+            "Huế",
+            "Nha Trang"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+8",
+      "locations": [
+        {
+          "country_name": "Australia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Mandurah",
+            "Perth",
+            "Western Australia"
+          ]
+        },
+        {
+          "country_name": "Brunei",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Bandar Seri Begawan"
+          ]
+        },
+        {
+          "country_name": "China",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Beijing",
+            "Chengdu",
+            "Chongqing",
+            "Dongguan",
+            "Guangzhou",
+            "Nanjing",
+            "Shanghai",
+            "Shenzhen",
+            "Tianjin",
+            "Wuhan"
+          ]
+        },
+        {
+          "country_name": "Hong Kong",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Indonesia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Banjarmasin",
+            "Makassar",
+            "Manado"
+          ]
+        },
+        {
+          "country_name": "Macau",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Malaysia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Klang",
+            "Kota Bharu",
+            "Kuala Lumpur"
+          ]
+        },
+        {
+          "country_name": "Mongolia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Erdenet",
+            "Ulan Bator"
+          ]
+        },
+        {
+          "country_name": "Philippines",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Antipolo City",
+            "Bacolod City",
+            "Cebu City",
+            "Davao City",
+            "General Santos",
+            "Manila",
+            "Zamboanga City"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Irkutsk"
+          ]
+        },
+        {
+          "country_name": "Singapore",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Taiwan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kaohsiung",
+            "Taipei"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+8:45",
+      "locations": [
+        {
+          "country_name": "Australia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Eucla"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+9",
+      "locations": [
+        {
+          "country_name": "Indonesia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Ambon City",
+            "Jayapura"
+          ]
+        },
+        {
+          "country_name": "Japan",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Osaka",
+            "Tokyo",
+            "Yokohama"
+          ]
+        },
+        {
+          "country_name": "North Korea",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Hamhung",
+            "Pyongyang"
+          ]
+        },
+        {
+          "country_name": "Palau",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Chita",
+            "Yakutsk"
+          ]
+        },
+        {
+          "country_name": "South Korea",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Busan",
+            "Incheon",
+            "Seoul"
+          ]
+        },
+        {
+          "country_name": "Timor-Leste",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Dili"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+9:30",
+      "locations": [
+        {
+          "country_name": "Australia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Adelaide",
+            "Darwin",
+            "Northern Territory",
+            "South Australia"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+10",
+      "locations": [
+        {
+          "country_name": "Australia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Australian Capital Territory",
+            "Canberra",
+            "New South Wales",
+            "Queensland",
+            "Sydney",
+            "Tasmania",
+            "Victoria"
+          ]
+        },
+        {
+          "country_name": "Guam",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Hagåtña"
+          ]
+        },
+        {
+          "country_name": "Micronesia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Weno"
+          ]
+        },
+        {
+          "country_name": "Northern Mariana Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Papua New Guinea",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Lae",
+            "Port Moresby"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Khabarovsk",
+            "Vladivostok"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+10:30",
+      "locations": [
+        {
+          "country_name": "Australia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Lord Howe Island"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+11",
+      "locations": [
+        {
+          "country_name": "Micronesia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Palikir"
+          ]
+        },
+        {
+          "country_name": "New Caledonia",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Noumea"
+          ]
+        },
+        {
+          "country_name": "Norfolk Island",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Kingston"
+          ]
+        },
+        {
+          "country_name": "Papua New Guinea",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Buka"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Yuzhno-Sakhalinsk"
+          ]
+        },
+        {
+          "country_name": "Solomon Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Honiara"
+          ]
+        },
+        {
+          "country_name": "Vanuatu",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Port Vila"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+12",
+      "locations": [
+        {
+          "country_name": "Fiji",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Suva"
+          ]
+        },
+        {
+          "country_name": "Kiribati",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Tarawa"
+          ]
+        },
+        {
+          "country_name": "Marshall Islands",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Majuro"
+          ]
+        },
+        {
+          "country_name": "Nauru",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "New Zealand",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Auckland",
+            "Wellington"
+          ]
+        },
+        {
+          "country_name": "Russia",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Petropavlovsk-Kamchatsky"
+          ]
+        },
+        {
+          "country_name": "Tuvalu",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "U.S. Outlying Islands",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Wake Island"
+          ]
+        },
+        {
+          "country_name": "Wallis and Futuna",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Mata-Utu"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+12:45",
+      "locations": [
+        {
+          "country_name": "New Zealand",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Chatham Islands"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+13",
+      "locations": [
+        {
+          "country_name": "Kiribati",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Phoenix Islands"
+          ]
+        },
+        {
+          "country_name": "Samoa",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Apia"
+          ]
+        },
+        {
+          "country_name": "Tokelau",
+          "country_has_multiple_timezones": false,
+          "city_list": []
+        },
+        {
+          "country_name": "Tonga",
+          "country_has_multiple_timezones": false,
+          "city_list": [
+            "Nuku'alofa"
+          ]
+        }
+      ]
+    },
+    {
+      "utc_offset": "UTC+14",
+      "locations": [
+        {
+          "country_name": "Kiribati",
+          "country_has_multiple_timezones": true,
+          "city_list": [
+            "Tabwakea Village"
+          ]
+        }
+      ]
+    }
+  ]
+}
