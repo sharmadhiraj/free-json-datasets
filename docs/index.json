@@ -142,7 +142,7 @@
       {
         "title": "World Time Zones",
         "subtitle": "Countries and cities organized by UTC offset",
-        "updated_at": "September 19, 2025 12:04 PM UTC",
+        "updated_at": "September 22, 2025 07:54 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/misc-general/world_time_zones_and_utc_offsets.json"
       }
     ]
@@ -179,15 +179,21 @@
     "category": "Society & Social Issues",
     "datasets": [
       {
+        "title": "Global Gender Gap Index by Country – 2024",
+        "subtitle": "Overall Gender Equality Scores and Key Dimension Breakdown for 2024",
+        "updated_at": "September 24, 2025 01:42 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/global_gender_gap_by_country.json"
+      },
+      {
         "title": "World Happiness Report 2024",
         "subtitle": "Country-wise happiness rankings and factors for 2024",
-        "updated_at": "September 22, 2025 07:45 AM UTC",
+        "updated_at": "September 22, 2025 07:54 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/happiness_index_by_country.json"
       },
       {
         "title": "Press Freedom Index (2025)",
         "subtitle": "Global press freedom rankings and scores for the year 2025",
-        "updated_at": "September 22, 2025 05:37 AM UTC",
+        "updated_at": "September 22, 2025 07:54 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/press_freedom_index_by_country.json"
       }
     ]

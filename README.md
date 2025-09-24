@@ -104,6 +104,8 @@ Each dataset follows this JSON format:
 
 ### Society & Social Issues
 
+- [**Global Gender Gap Index by Country – 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/global_gender_gap_by_country.json)  
+  Overall Gender Equality Scores and Key Dimension Breakdown for 2024
 - [**World Happiness Report 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/happiness_index_by_country.json)  
   Country-wise happiness rankings and factors for 2024
 - [**Press Freedom Index (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/press_freedom_index_by_country.json)  
