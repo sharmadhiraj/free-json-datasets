@@ -1,0 +1,385 @@
+{
+  "title": "World's Largest Automakers by Market Capitalization – October 2025",
+  "subtitle": "A ranking of leading automobile manufacturers worldwide based on their total market capitalization as of October 2025.",
+  "updated_at": "October 08, 2025 10:54 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "name": "Tesla",
+      "market_cap": "$1.440 T",
+      "country": "USA"
+    },
+    {
+      "rank": "2",
+      "name": "Toyota",
+      "market_cap": "$262.07 B",
+      "country": "Japan"
+    },
+    {
+      "rank": "3",
+      "name": "Xiaomi",
+      "market_cap": "$180.07 B",
+      "country": "China"
+    },
+    {
+      "rank": "4",
+      "name": "BYD",
+      "market_cap": "$134.50 B",
+      "country": "China"
+    },
+    {
+      "rank": "5",
+      "name": "Ferrari",
+      "market_cap": "$87.53 B",
+      "country": "Italy"
+    },
+    {
+      "rank": "6",
+      "name": "Mercedes-Benz",
+      "market_cap": "$59.81 B",
+      "country": "Germany"
+    },
+    {
+      "rank": "7",
+      "name": "BMW",
+      "market_cap": "$56.84 B",
+      "country": "Germany"
+    },
+    {
+      "rank": "8",
+      "name": "Maruti Suzuki India",
+      "market_cap": "$56.72 B",
+      "country": "India"
+    },
+    {
+      "rank": "9",
+      "name": "General Motors",
+      "market_cap": "$54.51 B",
+      "country": "USA"
+    },
+    {
+      "rank": "10",
+      "name": "Volkswagen",
+      "market_cap": "$53.70 B",
+      "country": "Germany"
+    },
+    {
+      "rank": "11",
+      "name": "Ford",
+      "market_cap": "$47.43 B",
+      "country": "USA"
+    },
+    {
+      "rank": "12",
+      "name": "Mahindra & Mahindra",
+      "market_cap": "$46.98 B",
+      "country": "India"
+    },
+    {
+      "rank": "13",
+      "name": "Porsche",
+      "market_cap": "$44.57 B",
+      "country": "Germany"
+    },
+    {
+      "rank": "14",
+      "name": "Honda",
+      "market_cap": "$41.34 B",
+      "country": "Japan"
+    },
+    {
+      "rank": "15",
+      "name": "Seres Group",
+      "market_cap": "$39.35 B",
+      "country": "China"
+    },
+    {
+      "rank": "16",
+      "name": "Hyundai",
+      "market_cap": "$38.03 B",
+      "country": "S. Korea"
+    },
+    {
+      "rank": "17",
+      "name": "Stellantis",
+      "market_cap": "$31.54 B",
+      "country": "Netherlands"
+    },
+    {
+      "rank": "18",
+      "name": "Suzuki Motor",
+      "market_cap": "$28.86 B",
+      "country": "Japan"
+    },
+    {
+      "rank": "19",
+      "name": "Kia",
+      "market_cap": "$28.46 B",
+      "country": "S. Korea"
+    },
+    {
+      "rank": "20",
+      "name": "Tata Motors",
+      "market_cap": "$28.27 B",
+      "country": "India"
+    },
+    {
+      "rank": "21",
+      "name": "SAIC Motor",
+      "market_cap": "$27.64 B",
+      "country": "China"
+    },
+    {
+      "rank": "22",
+      "name": "Great Wall Motors",
+      "market_cap": "$26.53 B",
+      "country": "China"
+    },
+    {
+      "rank": "23",
+      "name": "Geely",
+      "market_cap": "$25.57 B",
+      "country": "China"
+    },
+    {
+      "rank": "24",
+      "name": "Li Auto",
+      "market_cap": "$25.07 B",
+      "country": "China"
+    },
+    {
+      "rank": "25",
+      "name": "Hyundai Motor India",
+      "market_cap": "$22.64 B",
+      "country": "India"
+    },
+    {
+      "rank": "26",
+      "name": "XPeng",
+      "market_cap": "$22.19 B",
+      "country": "China"
+    },
+    {
+      "rank": "27",
+      "name": "NIO",
+      "market_cap": "$18.93 B",
+      "country": "China"
+    },
+    {
+      "rank": "28",
+      "name": "JAC Motors",
+      "market_cap": "$16.52 B",
+      "country": "China"
+    },
+    {
+      "rank": "29",
+      "name": "Rivian",
+      "market_cap": "$16.09 B",
+      "country": "USA"
+    },
+    {
+      "rank": "30",
+      "name": "Chongqing Changan",
+      "market_cap": "$15.13 B",
+      "country": "China"
+    },
+    {
+      "rank": "31",
+      "name": "Subaru",
+      "market_cap": "$14.81 B",
+      "country": "Japan"
+    },
+    {
+      "rank": "32",
+      "name": "Renault",
+      "market_cap": "$11.90 B",
+      "country": "France"
+    },
+    {
+      "rank": "33",
+      "name": "Hotai Motor",
+      "market_cap": "$10.57 B",
+      "country": "Taiwan"
+    },
+    {
+      "rank": "34",
+      "name": "Leapmotor",
+      "market_cap": "$10.18 B",
+      "country": "China"
+    },
+    {
+      "rank": "35",
+      "name": "Dongfeng Motor",
+      "market_cap": "$10.07 B",
+      "country": "China"
+    },
+    {
+      "rank": "36",
+      "name": "GAC (Guangzhou Automobile Group)",
+      "market_cap": "$9.10 B",
+      "country": "China"
+    },
+    {
+      "rank": "37",
+      "name": "Isuzu",
+      "market_cap": "$8.80 B",
+      "country": "Japan"
+    },
+    {
+      "rank": "38",
+      "name": "Nissan",
+      "market_cap": "$8.56 B",
+      "country": "Japan"
+    },
+    {
+      "rank": "39",
+      "name": "Ford Otosan",
+      "market_cap": "$8.16 B",
+      "country": "Turkey"
+    },
+    {
+      "rank": "40",
+      "name": "VinFast Auto",
+      "market_cap": "$7.97 B",
+      "country": "Vietnam"
+    },
+    {
+      "rank": "41",
+      "name": "Zeekr",
+      "market_cap": "$7.54 B",
+      "country": "China"
+    },
+    {
+      "rank": "42",
+      "name": "Lucid Motors",
+      "market_cap": "$6.76 B",
+      "country": "USA"
+    },
+    {
+      "rank": "43",
+      "name": "Volvo Car",
+      "market_cap": "$6.45 B",
+      "country": "Sweden"
+    },
+    {
+      "rank": "44",
+      "name": "FAW Car",
+      "market_cap": "$4.84 B",
+      "country": "China"
+    },
+    {
+      "rank": "45",
+      "name": "Mazda",
+      "market_cap": "$4.47 B",
+      "country": "Japan"
+    },
+    {
+      "rank": "46",
+      "name": "Polaris",
+      "market_cap": "$3.58 B",
+      "country": "USA"
+    },
+    {
+      "rank": "47",
+      "name": "Mitsubishi Motors",
+      "market_cap": "$3.55 B",
+      "country": "Japan"
+    },
+    {
+      "rank": "48",
+      "name": "Tofaş Türk Otomobil Fabrikası",
+      "market_cap": "$3.40 B",
+      "country": "Turkey"
+    },
+    {
+      "rank": "49",
+      "name": "Force Motors",
+      "market_cap": "$2.33 B",
+      "country": "India"
+    },
+    {
+      "rank": "50",
+      "name": "Polestar",
+      "market_cap": "$1.92 B",
+      "country": "Sweden"
+    },
+    {
+      "rank": "51",
+      "name": "Lotus Technology",
+      "market_cap": "$1.44 B",
+      "country": "China"
+    },
+    {
+      "rank": "52",
+      "name": "Yulon Motor Company",
+      "market_cap": "$1.18 B",
+      "country": "Taiwan"
+    },
+    {
+      "rank": "53",
+      "name": "Aston Martin",
+      "market_cap": "$0.93 B",
+      "country": "UK"
+    },
+    {
+      "rank": "54",
+      "name": "KG Mobility (SsangYong Motor)",
+      "market_cap": "$0.47 B",
+      "country": "S. Korea"
+    },
+    {
+      "rank": "55",
+      "name": "NWTN Inc.",
+      "market_cap": "$0.40 B",
+      "country": "UAE"
+    },
+    {
+      "rank": "56",
+      "name": "Faraday Future",
+      "market_cap": "$0.21 B",
+      "country": "USA"
+    },
+    {
+      "rank": "57",
+      "name": "Kandi Technologies Group",
+      "market_cap": "$0.10 B",
+      "country": "China"
+    },
+    {
+      "rank": "58",
+      "name": "Cenntro Electric Group",
+      "market_cap": "$32.06 M",
+      "country": "USA"
+    },
+    {
+      "rank": "59",
+      "name": "REE Automotive",
+      "market_cap": "$23.43 M",
+      "country": "Israel"
+    },
+    {
+      "rank": "60",
+      "name": "Phoenix Motor",
+      "market_cap": "$10.57 M",
+      "country": "USA"
+    },
+    {
+      "rank": "61",
+      "name": "Canoo",
+      "market_cap": "$5.35 M",
+      "country": "USA"
+    },
+    {
+      "rank": "62",
+      "name": "Arcimoto",
+      "market_cap": "$4.24 M",
+      "country": "USA"
+    },
+    {
+      "rank": "63",
+      "name": "Mullen Automotive",
+      "market_cap": "$0.69 M",
+      "country": "USA"
+    }
+  ]
+}

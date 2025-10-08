@@ -67,6 +67,13 @@ Each dataset follows this JSON format:
 - [**Global University Rankings 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/education-knowledge/world_university_ranking.json)  
   Comprehensive list of top universities worldwide in 2025
 
+### Energy & Industry
+
+- [**World's Largest Automakers by Market Capitalization – October 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/energy-industry/largest_automakers_by_market_capitalization.json)  
+  A ranking of leading automobile manufacturers worldwide based on their total market capitalization as of October 2025.
+- [**Renewable Electricity Production by Country (TWh)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/energy-industry/renewable_electricity_production_by_country.json)  
+  Breakdown of renewable energy generation by source (hydro, wind, solar, biomass, geothermal) by country and year.
+
 ### Geography & Environment
 
 - [**Global CO₂ Emissions by Country (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/co2_emissions_by_country.json)  

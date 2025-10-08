@@ -1,0 +1,4267 @@
+{
+  "title": "Renewable Electricity Production by Country (TWh)",
+  "subtitle": "Breakdown of renewable energy generation by source (hydro, wind, solar, biomass, geothermal) by country and year.",
+  "updated_at": "October 08, 2025 11:10 AM UTC",
+  "data": [
+    {
+      "country": "China",
+      "renewables": "2,894",
+      "hydro": "1,226",
+      "wind": "886",
+      "solar": "584",
+      "biomass": "198",
+      "geothermal": "0.2",
+      "year": "2023"
+    },
+    {
+      "country": "United States",
+      "renewables": "965",
+      "hydro": "239",
+      "wind": "421",
+      "solar": "239",
+      "biomass": "47",
+      "geothermal": "18",
+      "year": "2023"
+    },
+    {
+      "country": "Brazil",
+      "renewables": "631",
+      "hydro": "429",
+      "wind": "96",
+      "solar": "51",
+      "biomass": "56",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Canada",
+      "renewables": "421",
+      "hydro": "364",
+      "wind": "39",
+      "solar": "8",
+      "biomass": "10",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "India",
+      "renewables": "382",
+      "hydro": "149",
+      "wind": "82",
+      "solar": "113",
+      "biomass": "37",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Germany",
+      "renewables": "265",
+      "hydro": "20",
+      "wind": "137",
+      "solar": "61",
+      "biomass": "46",
+      "geothermal": "0.2",
+      "year": "2023"
+    },
+    {
+      "country": "Japan",
+      "renewables": "224",
+      "hydro": "74",
+      "wind": "10",
+      "solar": "97",
+      "biomass": "42",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Russia",
+      "renewables": "209",
+      "hydro": "201",
+      "wind": "5",
+      "solar": "3",
+      "biomass": "0.8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Norway",
+      "renewables": "151",
+      "hydro": "136",
+      "wind": "15",
+      "solar": "0",
+      "biomass": "0.2",
+      "geothermal": "0.02",
+      "year": "2023"
+    },
+    {
+      "country": "Spain",
+      "renewables": "144",
+      "hydro": "25",
+      "wind": "64",
+      "solar": "49",
+      "biomass": "6",
+      "geothermal": "0.01",
+      "year": "2023"
+    },
+    {
+      "country": "France",
+      "renewables": "138",
+      "hydro": "57",
+      "wind": "49",
+      "solar": "22",
+      "biomass": "10",
+      "geothermal": "0.6",
+      "year": "2023"
+    },
+    {
+      "country": "United Kingdom",
+      "renewables": "135",
+      "hydro": "5",
+      "wind": "82",
+      "solar": "14",
+      "biomass": "34",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Turkey",
+      "renewables": "134",
+      "hydro": "64",
+      "wind": "34",
+      "solar": "18",
+      "biomass": "8",
+      "geothermal": "10",
+      "year": "2023"
+    },
+    {
+      "country": "Vietnam",
+      "renewables": "119",
+      "hydro": "81",
+      "wind": "11",
+      "solar": "26",
+      "biomass": "0.8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Italy",
+      "renewables": "116",
+      "hydro": "41",
+      "wind": "24",
+      "solar": "31",
+      "biomass": "16",
+      "geothermal": "6",
+      "year": "2023"
+    },
+    {
+      "country": "Sweden",
+      "renewables": "115",
+      "hydro": "66",
+      "wind": "34",
+      "solar": "3",
+      "biomass": "12",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Australia",
+      "renewables": "95",
+      "hydro": "15",
+      "wind": "32",
+      "solar": "45",
+      "biomass": "3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mexico",
+      "renewables": "76",
+      "hydro": "20",
+      "wind": "22",
+      "solar": "27",
+      "biomass": "7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Indonesia",
+      "renewables": "65",
+      "hydro": "25",
+      "wind": "0.5",
+      "solar": "0.7",
+      "biomass": "22",
+      "geothermal": "17",
+      "year": "2023"
+    },
+    {
+      "country": "Venezuela",
+      "renewables": "65",
+      "hydro": "65",
+      "wind": "0.02",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Austria",
+      "renewables": "60",
+      "hydro": "41",
+      "wind": "8",
+      "solar": "6",
+      "biomass": "5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Colombia",
+      "renewables": "60",
+      "hydro": "56",
+      "wind": "0.06",
+      "solar": "1",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Chile",
+      "renewables": "57",
+      "hydro": "26",
+      "wind": "10",
+      "solar": "17",
+      "biomass": "4",
+      "geothermal": "0.4",
+      "year": "2023"
+    },
+    {
+      "country": "Netherlands",
+      "renewables": "57",
+      "hydro": "0.07",
+      "wind": "29",
+      "solar": "20",
+      "biomass": "8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "South Korea",
+      "renewables": "56",
+      "hydro": "4",
+      "wind": "3",
+      "solar": "29",
+      "biomass": "19",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Argentina",
+      "renewables": "50",
+      "hydro": "30",
+      "wind": "14",
+      "solar": "3",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Poland",
+      "renewables": "45",
+      "hydro": "2",
+      "wind": "23",
+      "solar": "11",
+      "biomass": "8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Paraguay",
+      "renewables": "44",
+      "hydro": "44",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Pakistan",
+      "renewables": "44",
+      "hydro": "34",
+      "wind": "6",
+      "solar": "1",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Switzerland",
+      "renewables": "43",
+      "hydro": "39",
+      "wind": "0.2",
+      "solar": "4",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Finland",
+      "renewables": "42",
+      "hydro": "15",
+      "wind": "14",
+      "solar": "0.7",
+      "biomass": "11",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Laos",
+      "renewables": "40",
+      "hydro": "40",
+      "wind": "0",
+      "solar": "0.08",
+      "biomass": "0.04",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "New Zealand",
+      "renewables": "38",
+      "hydro": "26",
+      "wind": "4",
+      "solar": "0.4",
+      "biomass": "0.7",
+      "geothermal": "8",
+      "year": "2023"
+    },
+    {
+      "country": "Malaysia",
+      "renewables": "36",
+      "hydro": "32",
+      "wind": "0",
+      "solar": "3",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Portugal",
+      "renewables": "34",
+      "hydro": "12",
+      "wind": "13",
+      "solar": "5",
+      "biomass": "4",
+      "geothermal": "0.2",
+      "year": "2023"
+    },
+    {
+      "country": "Peru",
+      "renewables": "33",
+      "hydro": "30",
+      "wind": "2",
+      "solar": "0.8",
+      "biomass": "0.6",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Thailand",
+      "renewables": "30",
+      "hydro": "7",
+      "wind": "4",
+      "solar": "5",
+      "biomass": "14",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "South Africa",
+      "renewables": "29",
+      "hydro": "2",
+      "wind": "12",
+      "solar": "16",
+      "biomass": "0.4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Denmark",
+      "renewables": "29",
+      "hydro": "0.02",
+      "wind": "19",
+      "solar": "3",
+      "biomass": "6",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Romania",
+      "renewables": "28",
+      "hydro": "18",
+      "wind": "8",
+      "solar": "2",
+      "biomass": "0.4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Belgium",
+      "renewables": "27",
+      "hydro": "0.4",
+      "wind": "15",
+      "solar": "8",
+      "biomass": "4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ecuador",
+      "renewables": "26",
+      "hydro": "26",
+      "wind": "0.06",
+      "solar": "0.04",
+      "biomass": "0.4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Taiwan",
+      "renewables": "25",
+      "hydro": "4",
+      "wind": "6",
+      "solar": "13",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Egypt",
+      "renewables": "25",
+      "hydro": "14",
+      "wind": "6",
+      "solar": "5",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Iran",
+      "renewables": "25",
+      "hydro": "23",
+      "wind": "1",
+      "solar": "0.8",
+      "biomass": "0.03",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Philippines",
+      "renewables": "25",
+      "hydro": "10",
+      "wind": "1",
+      "solar": "2",
+      "biomass": "1",
+      "geothermal": "10",
+      "year": "2023"
+    },
+    {
+      "country": "Greece",
+      "renewables": "24",
+      "hydro": "4",
+      "wind": "11",
+      "solar": "9",
+      "biomass": "0.7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Iceland",
+      "renewables": "20",
+      "hydro": "14",
+      "wind": "0.01",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "6",
+      "year": "2023"
+    },
+    {
+      "country": "Tajikistan",
+      "renewables": "20",
+      "hydro": "20",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ukraine",
+      "renewables": "19",
+      "hydro": "11",
+      "wind": "2",
+      "solar": "5",
+      "biomass": "0.8",
+      "geothermal": "0",
+      "year": "2022"
+    },
+    {
+      "country": "Ethiopia",
+      "renewables": "18",
+      "hydro": "18",
+      "wind": "0.6",
+      "solar": "0.04",
+      "biomass": "0.01",
+      "geothermal": "0.03",
+      "year": "2023"
+    },
+    {
+      "country": "Zambia",
+      "renewables": "17",
+      "hydro": "17",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0.08",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "North Korea",
+      "renewables": "17",
+      "hydro": "17",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mozambique",
+      "renewables": "16",
+      "hydro": "16",
+      "wind": "0",
+      "solar": "0.07",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "DR Congo",
+      "renewables": "16",
+      "hydro": "14",
+      "wind": "0",
+      "solar": "2",
+      "biomass": "0.03",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kazakhstan",
+      "renewables": "14",
+      "hydro": "9",
+      "wind": "4",
+      "solar": "2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ireland",
+      "renewables": "14",
+      "hydro": "0.9",
+      "wind": "12",
+      "solar": "0.7",
+      "biomass": "0.8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "United Arab Emirates",
+      "renewables": "14",
+      "hydro": "0",
+      "wind": "0.05",
+      "solar": "14",
+      "biomass": "0.03",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Angola",
+      "renewables": "14",
+      "hydro": "13",
+      "wind": "0",
+      "solar": "0.4",
+      "biomass": "0.05",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Serbia",
+      "renewables": "13",
+      "hydro": "12",
+      "wind": "0.9",
+      "solar": "0.02",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Croatia",
+      "renewables": "12",
+      "hydro": "8",
+      "wind": "3",
+      "solar": "0.4",
+      "biomass": "1",
+      "geothermal": "0.02",
+      "year": "2023"
+    },
+    {
+      "country": "Uruguay",
+      "renewables": "12",
+      "hydro": "4",
+      "wind": "5",
+      "solar": "0.5",
+      "biomass": "3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "renewables": "12",
+      "hydro": "12",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Sudan",
+      "renewables": "12",
+      "hydro": "12",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Costa Rica",
+      "renewables": "12",
+      "hydro": "9",
+      "wind": "1",
+      "solar": "0.08",
+      "biomass": "0.06",
+      "geothermal": "2",
+      "year": "2023"
+    },
+    {
+      "country": "Kenya",
+      "renewables": "11",
+      "hydro": "3",
+      "wind": "2",
+      "solar": "0.6",
+      "biomass": "0.2",
+      "geothermal": "6",
+      "year": "2023"
+    },
+    {
+      "country": "Bhutan",
+      "renewables": "11",
+      "hydro": "11",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Czech Republic",
+      "renewables": "11",
+      "hydro": "2",
+      "wind": "0.7",
+      "solar": "3",
+      "biomass": "5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Georgia",
+      "renewables": "11",
+      "hydro": "11",
+      "wind": "0.09",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Nepal",
+      "renewables": "11",
+      "hydro": "11",
+      "wind": "0.01",
+      "solar": "0.1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guatemala",
+      "renewables": "10",
+      "hydro": "6",
+      "wind": "0.3",
+      "solar": "0.2",
+      "biomass": "3",
+      "geothermal": "0.3",
+      "year": "2023"
+    },
+    {
+      "country": "Bulgaria",
+      "renewables": "10",
+      "hydro": "3",
+      "wind": "2",
+      "solar": "4",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Myanmar",
+      "renewables": "10",
+      "hydro": "9",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0.3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Nigeria",
+      "renewables": "10",
+      "hydro": "10",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0.06",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ghana",
+      "renewables": "9",
+      "hydro": "9",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0.02",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Hungary",
+      "renewables": "9",
+      "hydro": "0.2",
+      "wind": "0.6",
+      "solar": "7",
+      "biomass": "2",
+      "geothermal": "0.02",
+      "year": "2023"
+    },
+    {
+      "country": "Morocco",
+      "renewables": "9",
+      "hydro": "0.5",
+      "wind": "7",
+      "solar": "2",
+      "biomass": "0.04",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Albania",
+      "renewables": "9",
+      "hydro": "9",
+      "wind": "0",
+      "solar": "0.3",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Panama",
+      "renewables": "8",
+      "hydro": "6",
+      "wind": "0.9",
+      "solar": "0.9",
+      "biomass": "0.04",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Israel",
+      "renewables": "8",
+      "hydro": "0",
+      "wind": "0.7",
+      "solar": "7",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Honduras",
+      "renewables": "7",
+      "hydro": "4",
+      "wind": "0.7",
+      "solar": "1",
+      "biomass": "1",
+      "geothermal": "0.3",
+      "year": "2023"
+    },
+    {
+      "country": "Uzbekistan",
+      "renewables": "7",
+      "hydro": "7",
+      "wind": "0",
+      "solar": "0.4",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "renewables": "7",
+      "hydro": "6",
+      "wind": "0.3",
+      "solar": "0.2",
+      "biomass": "0.03",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Slovakia",
+      "renewables": "7",
+      "hydro": "5",
+      "wind": "0",
+      "solar": "0.6",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Slovenia",
+      "renewables": "6",
+      "hydro": "5",
+      "wind": "0.01",
+      "solar": "1",
+      "biomass": "0.3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cambodia",
+      "renewables": "6",
+      "hydro": "5",
+      "wind": "0",
+      "solar": "0.8",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "El Salvador",
+      "renewables": "6",
+      "hydro": "2",
+      "wind": "0.1",
+      "solar": "1",
+      "biomass": "0.9",
+      "geothermal": "2",
+      "year": "2023"
+    },
+    {
+      "country": "Saudi Arabia",
+      "renewables": "6",
+      "hydro": "0",
+      "wind": "1",
+      "solar": "4",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Zimbabwe",
+      "renewables": "6",
+      "hydro": "5",
+      "wind": "0",
+      "solar": "0.03",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Uganda",
+      "renewables": "6",
+      "hydro": "5",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0.5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cameroon",
+      "renewables": "5",
+      "hydro": "5",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0.04",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Jordan",
+      "renewables": "5",
+      "hydro": "0.02",
+      "wind": "2",
+      "solar": "3",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Latvia",
+      "renewables": "5",
+      "hydro": "4",
+      "wind": "0.3",
+      "solar": "0.2",
+      "biomass": "0.7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Lithuania",
+      "renewables": "4",
+      "hydro": "0.4",
+      "wind": "3",
+      "solar": "0.7",
+      "biomass": "0.8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Dominican Republic",
+      "renewables": "4",
+      "hydro": "1",
+      "wind": "1",
+      "solar": "1",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bolivia",
+      "renewables": "4",
+      "hydro": "3",
+      "wind": "0.4",
+      "solar": "0.3",
+      "biomass": "0.4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ivory Coast",
+      "renewables": "3",
+      "hydro": "3",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0.09",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guinea",
+      "renewables": "3",
+      "hydro": "3",
+      "wind": "0",
+      "solar": "0.03",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Estonia",
+      "renewables": "3",
+      "hydro": "0.03",
+      "wind": "0.8",
+      "solar": "0.7",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Nicaragua",
+      "renewables": "3",
+      "hydro": "0.7",
+      "wind": "0.6",
+      "solar": "0.03",
+      "biomass": "0.9",
+      "geothermal": "0.7",
+      "year": "2023"
+    },
+    {
+      "country": "Tanzania",
+      "renewables": "3",
+      "hydro": "3",
+      "wind": "0",
+      "solar": "0.03",
+      "biomass": "0.07",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Singapore",
+      "renewables": "3",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.9",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Montenegro",
+      "renewables": "2",
+      "hydro": "2",
+      "wind": "0.3",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Armenia",
+      "renewables": "2",
+      "hydro": "2",
+      "wind": "0",
+      "solar": "0.8",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "North Macedonia",
+      "renewables": "2",
+      "hydro": "2",
+      "wind": "0.2",
+      "solar": "0.5",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Lebanon",
+      "renewables": "2",
+      "hydro": "0.7",
+      "wind": "0.01",
+      "solar": "1",
+      "biomass": "0.03",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kuwait",
+      "renewables": "2",
+      "hydro": "0",
+      "wind": "2",
+      "solar": "0.2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Azerbaijan",
+      "renewables": "2",
+      "hydro": "2",
+      "wind": "0.08",
+      "solar": "0.07",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mali",
+      "renewables": "2",
+      "hydro": "2",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0.07",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Namibia",
+      "renewables": "2",
+      "hydro": "1",
+      "wind": "0.02",
+      "solar": "0.5",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Oman",
+      "renewables": "2",
+      "hydro": "0",
+      "wind": "0.1",
+      "solar": "2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Iraq",
+      "renewables": "2",
+      "hydro": "1",
+      "wind": "0",
+      "solar": "0.4",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Senegal",
+      "renewables": "2",
+      "hydro": "0.3",
+      "wind": "0.7",
+      "solar": "0.6",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Malawi",
+      "renewables": "2",
+      "hydro": "2",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0.05",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bangladesh",
+      "renewables": "2",
+      "hydro": "0.7",
+      "wind": "0",
+      "solar": "1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Gabon",
+      "renewables": "2",
+      "hydro": "2",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Belarus",
+      "renewables": "1",
+      "hydro": "0.4",
+      "wind": "0.2",
+      "solar": "0.2",
+      "biomass": "0.5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Luxembourg",
+      "renewables": "1",
+      "hydro": "0.09",
+      "wind": "0.5",
+      "solar": "0.3",
+      "biomass": "0.4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Réunion",
+      "renewables": "1",
+      "hydro": "0.6",
+      "wind": "0",
+      "solar": "0.3",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2022"
+    },
+    {
+      "country": "Papua New Guinea",
+      "renewables": "1",
+      "hydro": "1",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0.01",
+      "geothermal": "0.1",
+      "year": "2023"
+    },
+    {
+      "country": "Cyprus",
+      "renewables": "1",
+      "hydro": "0",
+      "wind": "0.2",
+      "solar": "0.8",
+      "biomass": "0.05",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Congo",
+      "renewables": "1",
+      "hydro": "1",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Puerto Rico",
+      "renewables": "1",
+      "hydro": "0.05",
+      "wind": "0.2",
+      "solar": "0.8",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Madagascar",
+      "renewables": "0.9",
+      "hydro": "0.8",
+      "wind": "0",
+      "solar": "0.08",
+      "biomass": "0.03",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Suriname",
+      "renewables": "0.9",
+      "hydro": "0.9",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Algeria",
+      "renewables": "0.9",
+      "hydro": "0.02",
+      "wind": "0.02",
+      "solar": "0.9",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Syria",
+      "renewables": "0.9",
+      "hydro": "0.8",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0.03",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Tunisia",
+      "renewables": "0.8",
+      "hydro": "0.01",
+      "wind": "0.3",
+      "solar": "0.5",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Afghanistan",
+      "renewables": "0.8",
+      "hydro": "0.8",
+      "wind": "0",
+      "solar": "0.09",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "New Caledonia",
+      "renewables": "0.8",
+      "hydro": "0.5",
+      "wind": "0.04",
+      "solar": "0.2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mongolia",
+      "renewables": "0.8",
+      "hydro": "0.06",
+      "wind": "0.5",
+      "solar": "0.2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kosovo",
+      "renewables": "0.7",
+      "hydro": "0.5",
+      "wind": "0.2",
+      "solar": "0.02",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Fiji",
+      "renewables": "0.7",
+      "hydro": "0.6",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cuba",
+      "renewables": "0.7",
+      "hydro": "0.1",
+      "wind": "0.06",
+      "solar": "0.2",
+      "biomass": "0.3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "French Guiana",
+      "renewables": "0.7",
+      "hydro": "0.6",
+      "wind": "0",
+      "solar": "0.05",
+      "biomass": "0.05",
+      "geothermal": "0",
+      "year": "2022"
+    },
+    {
+      "country": "Moldova",
+      "renewables": "0.6",
+      "hydro": "0.3",
+      "wind": "0.2",
+      "solar": "0.09",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Rwanda",
+      "renewables": "0.6",
+      "hydro": "0.6",
+      "wind": "0",
+      "solar": "0.04",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Jamaica",
+      "renewables": "0.6",
+      "hydro": "0.1",
+      "wind": "0.3",
+      "solar": "0.1",
+      "biomass": "0.06",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mauritius",
+      "renewables": "0.6",
+      "hydro": "0.09",
+      "wind": "0.01",
+      "solar": "0.1",
+      "biomass": "0.3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guadeloupe",
+      "renewables": "0.6",
+      "hydro": "0.01",
+      "wind": "0.1",
+      "solar": "0.1",
+      "biomass": "0.2",
+      "geothermal": "0.1",
+      "year": "2022"
+    },
+    {
+      "country": "Eswatini",
+      "renewables": "0.5",
+      "hydro": "0.3",
+      "wind": "34",
+      "solar": "0.03",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Yemen",
+      "renewables": "0.5",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.5",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "renewables": "0.5",
+      "hydro": "0.5",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Lesotho",
+      "renewables": "0.5",
+      "hydro": "0.5",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Greenland",
+      "renewables": "0.5",
+      "hydro": "0.5",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mauritania",
+      "renewables": "0.4",
+      "hydro": "0.2",
+      "wind": "0.1",
+      "solar": "0.1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Belize",
+      "renewables": "0.4",
+      "hydro": "0.2",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Martinique",
+      "renewables": "0.4",
+      "hydro": "0",
+      "wind": "0.04",
+      "solar": "0.09",
+      "biomass": "0.2",
+      "geothermal": "0.01",
+      "year": "2022"
+    },
+    {
+      "country": "Hong Kong",
+      "renewables": "0.4",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.2",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Palestine",
+      "renewables": "0.3",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.3",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Malta",
+      "renewables": "0.3",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.3",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Burkina Faso",
+      "renewables": "0.3",
+      "hydro": "0.1",
+      "wind": "0",
+      "solar": "0.09",
+      "biomass": "0.09",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Burundi",
+      "renewables": "0.3",
+      "hydro": "0.3",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "French Polynesia",
+      "renewables": "0.2",
+      "hydro": "0.2",
+      "wind": "0",
+      "solar": "0.05",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Faroe Islands",
+      "renewables": "0.2",
+      "hydro": "0.1",
+      "wind": "0.09",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Macau",
+      "renewables": "0.2",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Sierra Leone",
+      "renewables": "0.2",
+      "hydro": "0.2",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Haiti",
+      "renewables": "0.2",
+      "hydro": "0.2",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Togo",
+      "renewables": "0.2",
+      "hydro": "0.08",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Aruba",
+      "renewables": "0.2",
+      "hydro": "0",
+      "wind": "0.1",
+      "solar": "0.03",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cape Verde",
+      "renewables": "0.1",
+      "hydro": "0",
+      "wind": "0.07",
+      "solar": "0.07",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Central African Republic",
+      "renewables": "0.1",
+      "hydro": "0.1",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guam",
+      "renewables": "0.1",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Qatar",
+      "renewables": "0.1",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Liberia",
+      "renewables": "0.1",
+      "hydro": "0.1",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guyana",
+      "renewables": "0.09",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0.07",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bahrain",
+      "renewables": "0.09",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.09",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Barbados",
+      "renewables": "0.09",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.09",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Seychelles",
+      "renewables": "0.09",
+      "hydro": "0",
+      "wind": "0.01",
+      "solar": "0.08",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Somalia",
+      "renewables": "0.08",
+      "hydro": "0",
+      "wind": "0.01",
+      "solar": "0.07",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Djibouti",
+      "renewables": "0.07",
+      "hydro": "0",
+      "wind": "0.07",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Samoa",
+      "renewables": "0.06",
+      "hydro": "0.03",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Maldives",
+      "renewables": "0.06",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.06",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Eritrea",
+      "renewables": "0.05",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.05",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "South Sudan",
+      "renewables": "0.04",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.04",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Benin",
+      "renewables": "0.03",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.03",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "renewables": "0.02",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bahamas",
+      "renewables": "0.02",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cayman Islands",
+      "renewables": "0.02",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Chad",
+      "renewables": "0.02",
+      "hydro": "0",
+      "wind": "0.01",
+      "solar": "0",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cook Islands",
+      "renewables": "0.02",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Dominica",
+      "renewables": "0.02",
+      "hydro": "0.02",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Niger",
+      "renewables": "0.02",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "renewables": "0.02",
+      "hydro": "0.02",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Vanuatu",
+      "renewables": "0.02",
+      "hydro": "0.01",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "U.S. Virgin Islands",
+      "renewables": "0.02",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bermuda",
+      "renewables": "0.01",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Botswana",
+      "renewables": "0.01",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kiribati",
+      "renewables": "0.01",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Libya",
+      "renewables": "0.01",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "renewables": "0.01",
+      "hydro": "0",
+      "wind": "0.01",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Lucia",
+      "renewables": "0.01",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "São Tomé and Príncipe",
+      "renewables": "0.01",
+      "hydro": "0.01",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Solomon Islands",
+      "renewables": "0.01",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Tonga",
+      "renewables": "0.01",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "renewables": "0.01",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Turkmenistan",
+      "renewables": "0.01",
+      "hydro": "0.01",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "American Samoa",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Brunei",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Comoros",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Falkland Islands",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Gambia",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Gibraltar",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Grenada",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Montserrat",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Nauru",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Helena, Ascension and Tristan da Cunha",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Timor-Leste",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "British Virgin Islands",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Location",
+      "renewables": "Renew.",
+      "hydro": "Hydro",
+      "wind": "Wind",
+      "solar": "Solar",
+      "biomass": "Bio.",
+      "geothermal": "Geo.",
+      "year": "Year"
+    },
+    {
+      "country": "World",
+      "renewables": "30",
+      "hydro": "14",
+      "wind": "8",
+      "solar": "6",
+      "biomass": "2",
+      "geothermal": "0.3",
+      "year": "2023"
+    },
+    {
+      "country": "Albania",
+      "renewables": "100",
+      "hydro": "97",
+      "wind": "0",
+      "solar": "3",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bhutan",
+      "renewables": "100",
+      "hydro": "100",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Central African Republic",
+      "renewables": "100",
+      "hydro": "100",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "DR Congo",
+      "renewables": "100",
+      "hydro": "86",
+      "wind": "0",
+      "solar": "14",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ethiopia",
+      "renewables": "100",
+      "hydro": "96",
+      "wind": "3",
+      "solar": "0.2",
+      "biomass": "0.05",
+      "geothermal": "0.2",
+      "year": "2023"
+    },
+    {
+      "country": "Lesotho",
+      "renewables": "100",
+      "hydro": "100",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Nepal",
+      "renewables": "100",
+      "hydro": "99",
+      "wind": "0.09",
+      "solar": "0.9",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Paraguay",
+      "renewables": "100",
+      "hydro": "99",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0.5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Iceland",
+      "renewables": "100",
+      "hydro": "70",
+      "wind": "0.05",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "30",
+      "year": "2023"
+    },
+    {
+      "country": "Costa Rica",
+      "renewables": "100",
+      "hydro": "73",
+      "wind": "13",
+      "solar": "0.7",
+      "biomass": "0.5",
+      "geothermal": "13",
+      "year": "2023"
+    },
+    {
+      "country": "Norway",
+      "renewables": "99",
+      "hydro": "89",
+      "wind": "10",
+      "solar": "0",
+      "biomass": "0.2",
+      "geothermal": "0.01",
+      "year": "2023"
+    },
+    {
+      "country": "Namibia",
+      "renewables": "98",
+      "hydro": "70",
+      "wind": "1",
+      "solar": "27",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Uganda",
+      "renewables": "97",
+      "hydro": "87",
+      "wind": "0",
+      "solar": "3",
+      "biomass": "8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Eswatini",
+      "renewables": "96",
+      "hydro": "54",
+      "wind": "0",
+      "solar": "5",
+      "biomass": "38",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Malawi",
+      "renewables": "96",
+      "hydro": "92",
+      "wind": "0",
+      "solar": "0.6",
+      "biomass": "3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Sierra Leone",
+      "renewables": "95",
+      "hydro": "86",
+      "wind": "0",
+      "solar": "10",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Tajikistan",
+      "renewables": "93",
+      "hydro": "93",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Uruguay",
+      "renewables": "92",
+      "hydro": "27",
+      "wind": "37",
+      "solar": "4",
+      "biomass": "24",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "El Salvador",
+      "renewables": "91",
+      "hydro": "31",
+      "wind": "2",
+      "solar": "19",
+      "biomass": "14",
+      "geothermal": "24",
+      "year": "2023"
+    },
+    {
+      "country": "Kenya",
+      "renewables": "90",
+      "hydro": "21",
+      "wind": "16",
+      "solar": "5",
+      "biomass": "2",
+      "geothermal": "47",
+      "year": "2023"
+    },
+    {
+      "country": "Luxembourg",
+      "renewables": "89",
+      "hydro": "6",
+      "wind": "35",
+      "solar": "21",
+      "biomass": "27",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Zambia",
+      "renewables": "89",
+      "hydro": "88",
+      "wind": "0",
+      "solar": "0.8",
+      "biomass": "0.4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Brazil",
+      "renewables": "89",
+      "hydro": "60",
+      "wind": "13",
+      "solar": "7",
+      "biomass": "8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Belize",
+      "renewables": "89",
+      "hydro": "53",
+      "wind": "0",
+      "solar": "2",
+      "biomass": "33",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "New Zealand",
+      "renewables": "88",
+      "hydro": "60",
+      "wind": "8",
+      "solar": "0.8",
+      "biomass": "2",
+      "geothermal": "18",
+      "year": "2023"
+    },
+    {
+      "country": "Greenland",
+      "renewables": "87",
+      "hydro": "87",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Denmark",
+      "renewables": "87",
+      "hydro": "0.06",
+      "wind": "58",
+      "solar": "10",
+      "biomass": "19",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Afghanistan",
+      "renewables": "87",
+      "hydro": "77",
+      "wind": "0",
+      "solar": "9",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "renewables": "86",
+      "hydro": "86",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Austria",
+      "renewables": "85",
+      "hydro": "58",
+      "wind": "11",
+      "solar": "9",
+      "biomass": "6",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Lithuania",
+      "renewables": "84",
+      "hydro": "9",
+      "wind": "48",
+      "solar": "13",
+      "biomass": "14",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mozambique",
+      "renewables": "84",
+      "hydro": "83",
+      "wind": "0",
+      "solar": "0.4",
+      "biomass": "0.7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Venezuela",
+      "renewables": "78",
+      "hydro": "78",
+      "wind": "0.02",
+      "solar": "0.01",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Latvia",
+      "renewables": "78",
+      "hydro": "60",
+      "wind": "4",
+      "solar": "4",
+      "biomass": "10",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ecuador",
+      "renewables": "77",
+      "hydro": "75",
+      "wind": "0.2",
+      "solar": "0.1",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Laos",
+      "renewables": "77",
+      "hydro": "76",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0.08",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Angola",
+      "renewables": "76",
+      "hydro": "74",
+      "wind": "0",
+      "solar": "2",
+      "biomass": "0.3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Georgia",
+      "renewables": "76",
+      "hydro": "75",
+      "wind": "0.6",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guinea",
+      "renewables": "75",
+      "hydro": "74",
+      "wind": "0",
+      "solar": "0.7",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guatemala",
+      "renewables": "75",
+      "hydro": "42",
+      "wind": "3",
+      "solar": "2",
+      "biomass": "26",
+      "geothermal": "3",
+      "year": "2023"
+    },
+    {
+      "country": "Portugal",
+      "renewables": "75",
+      "hydro": "26",
+      "wind": "29",
+      "solar": "11",
+      "biomass": "8",
+      "geothermal": "0.4",
+      "year": "2023"
+    },
+    {
+      "country": "French Guiana",
+      "renewables": "71",
+      "hydro": "61",
+      "wind": "0",
+      "solar": "5",
+      "biomass": "5",
+      "geothermal": "0",
+      "year": "2022"
+    },
+    {
+      "country": "Sudan",
+      "renewables": "70",
+      "hydro": "69",
+      "wind": "0",
+      "solar": "0.8",
+      "biomass": "0.7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Croatia",
+      "renewables": "70",
+      "hydro": "47",
+      "wind": "14",
+      "solar": "2",
+      "biomass": "6",
+      "geothermal": "0.1",
+      "year": "2023"
+    },
+    {
+      "country": "Sweden",
+      "renewables": "69",
+      "hydro": "40",
+      "wind": "21",
+      "solar": "2",
+      "biomass": "7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Burundi",
+      "renewables": "69",
+      "hydro": "67",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Zimbabwe",
+      "renewables": "68",
+      "hydro": "66",
+      "wind": "0",
+      "solar": "0.4",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Canada",
+      "renewables": "67",
+      "hydro": "58",
+      "wind": "6",
+      "solar": "1",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Colombia",
+      "renewables": "66",
+      "hydro": "62",
+      "wind": "0.07",
+      "solar": "1",
+      "biomass": "3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Chile",
+      "renewables": "65",
+      "hydro": "30",
+      "wind": "11",
+      "solar": "19",
+      "biomass": "4",
+      "geothermal": "0.5",
+      "year": "2023"
+    },
+    {
+      "country": "Nicaragua",
+      "renewables": "65",
+      "hydro": "15",
+      "wind": "13",
+      "solar": "0.7",
+      "biomass": "20",
+      "geothermal": "16",
+      "year": "2023"
+    },
+    {
+      "country": "Cameroon",
+      "renewables": "64",
+      "hydro": "63",
+      "wind": "0",
+      "solar": "0.2",
+      "biomass": "0.5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Fiji",
+      "renewables": "63",
+      "hydro": "52",
+      "wind": "0",
+      "solar": "0.9",
+      "biomass": "10",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "North Korea",
+      "renewables": "63",
+      "hydro": "63",
+      "wind": "0",
+      "solar": "0.6",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Switzerland",
+      "renewables": "63",
+      "hydro": "55",
+      "wind": "0.2",
+      "solar": "6",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Panama",
+      "renewables": "62",
+      "hydro": "48",
+      "wind": "7",
+      "solar": "7",
+      "biomass": "0.3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Honduras",
+      "renewables": "62",
+      "hydro": "33",
+      "wind": "6",
+      "solar": "9",
+      "biomass": "11",
+      "geothermal": "3",
+      "year": "2023"
+    },
+    {
+      "country": "Montenegro",
+      "renewables": "60",
+      "hydro": "52",
+      "wind": "8",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Rwanda",
+      "renewables": "57",
+      "hydro": "53",
+      "wind": "0",
+      "solar": "4",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Peru",
+      "renewables": "55",
+      "hydro": "50",
+      "wind": "3",
+      "solar": "1",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Germany",
+      "renewables": "53",
+      "hydro": "4",
+      "wind": "28",
+      "solar": "12",
+      "biomass": "9",
+      "geothermal": "0.04",
+      "year": "2023"
+    },
+    {
+      "country": "Spain",
+      "renewables": "51",
+      "hydro": "9",
+      "wind": "23",
+      "solar": "17",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Finland",
+      "renewables": "51",
+      "hydro": "19",
+      "wind": "18",
+      "solar": "0.9",
+      "biomass": "14",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cook Islands",
+      "renewables": "50",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "50",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Romania",
+      "renewables": "50",
+      "hydro": "32",
+      "wind": "13",
+      "solar": "4",
+      "biomass": "0.8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Greece",
+      "renewables": "50",
+      "hydro": "8",
+      "wind": "22",
+      "solar": "18",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Estonia",
+      "renewables": "49",
+      "hydro": "0.5",
+      "wind": "13",
+      "solar": "12",
+      "biomass": "24",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Gabon",
+      "renewables": "48",
+      "hydro": "48",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0.3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Lebanon",
+      "renewables": "47",
+      "hydro": "15",
+      "wind": "0.2",
+      "solar": "31",
+      "biomass": "0.7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "United Kingdom",
+      "renewables": "47",
+      "hydro": "2",
+      "wind": "29",
+      "solar": "5",
+      "biomass": "12",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Netherlands",
+      "renewables": "47",
+      "hydro": "0.06",
+      "wind": "24",
+      "solar": "16",
+      "biomass": "6",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Faroe Islands",
+      "renewables": "46",
+      "hydro": "27",
+      "wind": "19",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ireland",
+      "renewables": "45",
+      "hydro": "3",
+      "wind": "37",
+      "solar": "2",
+      "biomass": "3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Italy",
+      "renewables": "45",
+      "hydro": "16",
+      "wind": "9",
+      "solar": "12",
+      "biomass": "6",
+      "geothermal": "2",
+      "year": "2023"
+    },
+    {
+      "country": "Cambodia",
+      "renewables": "45",
+      "hydro": "39",
+      "wind": "0",
+      "solar": "6",
+      "biomass": "0.07",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Suriname",
+      "renewables": "43",
+      "hydro": "42",
+      "wind": "0",
+      "solar": "0.5",
+      "biomass": "0.5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Vietnam",
+      "renewables": "43",
+      "hydro": "29",
+      "wind": "4",
+      "solar": "9",
+      "biomass": "0.3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mali",
+      "renewables": "43",
+      "hydro": "38",
+      "wind": "0",
+      "solar": "3",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Turkey",
+      "renewables": "42",
+      "hydro": "20",
+      "wind": "11",
+      "solar": "6",
+      "biomass": "3",
+      "geothermal": "3",
+      "year": "2023"
+    },
+    {
+      "country": "Macau",
+      "renewables": "41",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "41",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Slovenia",
+      "renewables": "41",
+      "hydro": "32",
+      "wind": "0.06",
+      "solar": "6",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "renewables": "40",
+      "hydro": "37",
+      "wind": "2",
+      "solar": "1",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Samoa",
+      "renewables": "40",
+      "hydro": "20",
+      "wind": "0",
+      "solar": "13",
+      "biomass": "7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ghana",
+      "renewables": "39",
+      "hydro": "38",
+      "wind": "0",
+      "solar": "0.6",
+      "biomass": "0.08",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Myanmar",
+      "renewables": "38",
+      "hydro": "37",
+      "wind": "0",
+      "solar": "0.4",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Madagascar",
+      "renewables": "35",
+      "hydro": "31",
+      "wind": "0",
+      "solar": "3",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Serbia",
+      "renewables": "35",
+      "hydro": "32",
+      "wind": "2",
+      "solar": "0.05",
+      "biomass": "0.7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bolivia",
+      "renewables": "35",
+      "hydro": "25",
+      "wind": "4",
+      "solar": "3",
+      "biomass": "4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Djibouti",
+      "renewables": "35",
+      "hydro": "0",
+      "wind": "35",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Australia",
+      "renewables": "35",
+      "hydro": "6",
+      "wind": "12",
+      "solar": "16",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guadeloupe",
+      "renewables": "35",
+      "hydro": "0.6",
+      "wind": "7",
+      "solar": "7",
+      "biomass": "15",
+      "geothermal": "6",
+      "year": "2022"
+    },
+    {
+      "country": "Réunion",
+      "renewables": "34",
+      "hydro": "19",
+      "wind": "0",
+      "solar": "8",
+      "biomass": "7",
+      "geothermal": "0",
+      "year": "2022"
+    },
+    {
+      "country": "Argentina",
+      "renewables": "34",
+      "hydro": "20",
+      "wind": "10",
+      "solar": "2",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "French Polynesia",
+      "renewables": "34",
+      "hydro": "27",
+      "wind": "0",
+      "solar": "7",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "North Macedonia",
+      "renewables": "34",
+      "hydro": "23",
+      "wind": "2",
+      "solar": "6",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Palestine",
+      "renewables": "33",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "33",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Liberia",
+      "renewables": "33",
+      "hydro": "33",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Belgium",
+      "renewables": "33",
+      "hydro": "0.5",
+      "wind": "19",
+      "solar": "10",
+      "biomass": "5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "renewables": "31",
+      "hydro": "31",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ivory Coast",
+      "renewables": "31",
+      "hydro": "30",
+      "wind": "0",
+      "solar": "0.2",
+      "biomass": "0.8",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "China",
+      "renewables": "31",
+      "hydro": "13",
+      "wind": "9",
+      "solar": "6",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cape Verde",
+      "renewables": "28",
+      "hydro": "0",
+      "wind": "14",
+      "solar": "14",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Armenia",
+      "renewables": "28",
+      "hydro": "19",
+      "wind": "0",
+      "solar": "9",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mauritania",
+      "renewables": "27",
+      "hydro": "13",
+      "wind": "6",
+      "solar": "9",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Poland",
+      "renewables": "27",
+      "hydro": "1",
+      "wind": "14",
+      "solar": "7",
+      "biomass": "5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "France",
+      "renewables": "27",
+      "hydro": "11",
+      "wind": "9",
+      "solar": "4",
+      "biomass": "2",
+      "geothermal": "0.1",
+      "year": "2023"
+    },
+    {
+      "country": "Hungary",
+      "renewables": "26",
+      "hydro": "0.6",
+      "wind": "2",
+      "solar": "20",
+      "biomass": "4",
+      "geothermal": "0.06",
+      "year": "2023"
+    },
+    {
+      "country": "New Caledonia",
+      "renewables": "26",
+      "hydro": "17",
+      "wind": "1",
+      "solar": "7",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Martinique",
+      "renewables": "26",
+      "hydro": "0",
+      "wind": "3",
+      "solar": "6",
+      "biomass": "17",
+      "geothermal": "0.7",
+      "year": "2022"
+    },
+    {
+      "country": "Tanzania",
+      "renewables": "26",
+      "hydro": "25",
+      "wind": "0",
+      "solar": "0.3",
+      "biomass": "0.6",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Pakistan",
+      "renewables": "25",
+      "hydro": "20",
+      "wind": "4",
+      "solar": "0.7",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bulgaria",
+      "renewables": "25",
+      "hydro": "8",
+      "wind": "4",
+      "solar": "9",
+      "biomass": "5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kiribati",
+      "renewables": "25",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "25",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Vanuatu",
+      "renewables": "25",
+      "hydro": "12",
+      "wind": "0",
+      "solar": "12",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Papua New Guinea",
+      "renewables": "24",
+      "hydro": "21",
+      "wind": "0",
+      "solar": "0.2",
+      "biomass": "0.2",
+      "geothermal": "2",
+      "year": "2023"
+    },
+    {
+      "country": "Jordan",
+      "renewables": "23",
+      "hydro": "0.09",
+      "wind": "8",
+      "solar": "15",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Nigeria",
+      "renewables": "23",
+      "hydro": "23",
+      "wind": "0",
+      "solar": "0.2",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Slovakia",
+      "renewables": "23",
+      "hydro": "16",
+      "wind": "0",
+      "solar": "2",
+      "biomass": "5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "United States",
+      "renewables": "23",
+      "hydro": "6",
+      "wind": "10",
+      "solar": "6",
+      "biomass": "1",
+      "geothermal": "0.4",
+      "year": "2023"
+    },
+    {
+      "country": "Philippines",
+      "renewables": "22",
+      "hydro": "9",
+      "wind": "0.9",
+      "solar": "2",
+      "biomass": "1",
+      "geothermal": "9",
+      "year": "2023"
+    },
+    {
+      "country": "Japan",
+      "renewables": "22",
+      "hydro": "7",
+      "wind": "1",
+      "solar": "10",
+      "biomass": "4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Senegal",
+      "renewables": "22",
+      "hydro": "4",
+      "wind": "9",
+      "solar": "7",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Morocco",
+      "renewables": "22",
+      "hydro": "1",
+      "wind": "15",
+      "solar": "5",
+      "biomass": "0.09",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mexico",
+      "renewables": "21",
+      "hydro": "6",
+      "wind": "6",
+      "solar": "8",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Congo",
+      "renewables": "21",
+      "hydro": "20",
+      "wind": "0",
+      "solar": "0.2",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Togo",
+      "renewables": "21",
+      "hydro": "9",
+      "wind": "0",
+      "solar": "12",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cyprus",
+      "renewables": "20",
+      "hydro": "0",
+      "wind": "4",
+      "solar": "16",
+      "biomass": "0.9",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "India",
+      "renewables": "20",
+      "hydro": "7.6",
+      "wind": "4.0",
+      "solar": "6.5",
+      "biomass": "1.7",
+      "geothermal": "0",
+      "year": "2024"
+    },
+    {
+      "country": "Malaysia",
+      "renewables": "19",
+      "hydro": "17",
+      "wind": "0",
+      "solar": "2",
+      "biomass": "0.7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Somalia",
+      "renewables": "19",
+      "hydro": "0",
+      "wind": "2",
+      "solar": "17",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Haiti",
+      "renewables": "19",
+      "hydro": "19",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Indonesia",
+      "renewables": "19",
+      "hydro": "7",
+      "wind": "0.1",
+      "solar": "0.2",
+      "biomass": "6",
+      "geothermal": "5",
+      "year": "2023"
+    },
+    {
+      "country": "Russia",
+      "renewables": "18",
+      "hydro": "17",
+      "wind": "0.4",
+      "solar": "0.2",
+      "biomass": "0.07",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mauritius",
+      "renewables": "17",
+      "hydro": "3",
+      "wind": "0.3",
+      "solar": "5",
+      "biomass": "10",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Burkina Faso",
+      "renewables": "17",
+      "hydro": "7",
+      "wind": "0",
+      "solar": "5",
+      "biomass": "5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Dominican Republic",
+      "renewables": "17",
+      "hydro": "6",
+      "wind": "5",
+      "solar": "6",
+      "biomass": "0.9",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Aruba",
+      "renewables": "17",
+      "hydro": "0",
+      "wind": "14",
+      "solar": "3",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Yemen",
+      "renewables": "17",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "17",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Ukraine",
+      "renewables": "17",
+      "hydro": "10",
+      "wind": "1",
+      "solar": "5",
+      "biomass": "0.7",
+      "geothermal": "0",
+      "year": "2022"
+    },
+    {
+      "country": "Thailand",
+      "renewables": "16",
+      "hydro": "3",
+      "wind": "2",
+      "solar": "3",
+      "biomass": "7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Czech Republic",
+      "renewables": "15",
+      "hydro": "3",
+      "wind": "1",
+      "solar": "4",
+      "biomass": "7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Seychelles",
+      "renewables": "14",
+      "hydro": "0",
+      "wind": "2",
+      "solar": "13",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Tonga",
+      "renewables": "14",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "14",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Malta",
+      "renewables": "14",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "13",
+      "biomass": "0.4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Dominica",
+      "renewables": "13",
+      "hydro": "13",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "renewables": "13",
+      "hydro": "13",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Jamaica",
+      "renewables": "13",
+      "hydro": "3",
+      "wind": "6",
+      "solar": "3",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kazakhstan",
+      "renewables": "13",
+      "hydro": "8",
+      "wind": "3",
+      "solar": "2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "South Africa",
+      "renewables": "13",
+      "hydro": "0.7",
+      "wind": "5",
+      "solar": "7",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Moldova",
+      "renewables": "12",
+      "hydro": "6",
+      "wind": "4",
+      "solar": "2",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kosovo",
+      "renewables": "11",
+      "hydro": "8",
+      "wind": "3",
+      "solar": "0.3",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Eritrea",
+      "renewables": "11",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "11",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Egypt",
+      "renewables": "11",
+      "hydro": "6",
+      "wind": "3",
+      "solar": "2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "São Tomé and Príncipe",
+      "renewables": "11",
+      "hydro": "11",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Israel",
+      "renewables": "11",
+      "hydro": "0",
+      "wind": "1",
+      "solar": "9",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Mongolia",
+      "renewables": "10",
+      "hydro": "0.8",
+      "wind": "6",
+      "solar": "2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Uzbekistan",
+      "renewables": "9",
+      "hydro": "9",
+      "wind": "0",
+      "solar": "0.6",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Solomon Islands",
+      "renewables": "9",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "9",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "South Korea",
+      "renewables": "9",
+      "hydro": "0.6",
+      "wind": "0.6",
+      "solar": "5",
+      "biomass": "3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Taiwan",
+      "renewables": "9",
+      "hydro": "1",
+      "wind": "2",
+      "solar": "5",
+      "biomass": "0.7",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "United Arab Emirates",
+      "renewables": "8",
+      "hydro": "0",
+      "wind": "0.03",
+      "solar": "8",
+      "biomass": "0.02",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Barbados",
+      "renewables": "8",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "8",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guam",
+      "renewables": "8",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "8",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Maldives",
+      "renewables": "7",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "7",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "South Sudan",
+      "renewables": "7",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "7",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guyana",
+      "renewables": "7",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "1",
+      "biomass": "5",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Azerbaijan",
+      "renewables": "7",
+      "hydro": "6",
+      "wind": "0.3",
+      "solar": "0.2",
+      "biomass": "0.4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Iran",
+      "renewables": "6",
+      "hydro": "6",
+      "wind": "0.3",
+      "solar": "0.2",
+      "biomass": "0.01",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "renewables": "6",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "6",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Puerto Rico",
+      "renewables": "5",
+      "hydro": "0.2",
+      "wind": "0.8",
+      "solar": "4",
+      "biomass": "0.05",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Chad",
+      "renewables": "5",
+      "hydro": "0",
+      "wind": "3",
+      "solar": "0",
+      "biomass": "3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cuba",
+      "renewables": "5",
+      "hydro": "0.8",
+      "wind": "0.4",
+      "solar": "1",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "renewables": "5",
+      "hydro": "0",
+      "wind": "5",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Singapore",
+      "renewables": "5",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "2",
+      "biomass": "3",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Syria",
+      "renewables": "4",
+      "hydro": "4",
+      "wind": "0",
+      "solar": "0.5",
+      "biomass": "0.1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Oman",
+      "renewables": "4",
+      "hydro": "0",
+      "wind": "0.3",
+      "solar": "4",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Tunisia",
+      "renewables": "4",
+      "hydro": "0.05",
+      "wind": "2",
+      "solar": "2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Belarus",
+      "renewables": "3",
+      "hydro": "0.9",
+      "wind": "0.4",
+      "solar": "0.5",
+      "biomass": "1",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Benin",
+      "renewables": "3",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "3",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "U.S. Virgin Islands",
+      "renewables": "3",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "3",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Cayman Islands",
+      "renewables": "3",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "3",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Niger",
+      "renewables": "2",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Lucia",
+      "renewables": "2",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Kuwait",
+      "renewables": "2",
+      "hydro": "0",
+      "wind": "2",
+      "solar": "0.2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bangladesh",
+      "renewables": "2",
+      "hydro": "0.6",
+      "wind": "0",
+      "solar": "1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bermuda",
+      "renewables": "2",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saudi Arabia",
+      "renewables": "1",
+      "hydro": "0",
+      "wind": "0.3",
+      "solar": "1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Iraq",
+      "renewables": "1",
+      "hydro": "0.9",
+      "wind": "0",
+      "solar": "0.2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bahamas",
+      "renewables": "1",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Hong Kong",
+      "renewables": "1",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.5",
+      "biomass": "0.4",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Algeria",
+      "renewables": "0.9",
+      "hydro": "0.02",
+      "wind": "0.02",
+      "solar": "0.9",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Botswana",
+      "renewables": "0.4",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.4",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Qatar",
+      "renewables": "0.3",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.02",
+      "biomass": "0.2",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Bahrain",
+      "renewables": "0.2",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.2",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "renewables": "0.1",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.1",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Turkmenistan",
+      "renewables": "0.03",
+      "hydro": "0.03",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Libya",
+      "renewables": "0.03",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0.03",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "American Samoa",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Brunei",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Comoros",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Falkland Islands",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Gambia",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Gibraltar",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Grenada",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Montserrat",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Nauru",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Helena, Ascension and Tristan da Cunha",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Timor-Leste",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    },
+    {
+      "country": "British Virgin Islands",
+      "renewables": "0",
+      "hydro": "0",
+      "wind": "0",
+      "solar": "0",
+      "biomass": "0",
+      "geothermal": "0",
+      "year": "2023"
+    }
+  ]
+}

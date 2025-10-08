@@ -91,6 +91,23 @@
     ]
   },
   {
+    "category": "Energy & Industry",
+    "datasets": [
+      {
+        "title": "World's Largest Automakers by Market Capitalization – October 2025",
+        "subtitle": "A ranking of leading automobile manufacturers worldwide based on their total market capitalization as of October 2025.",
+        "updated_at": "October 08, 2025 10:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/energy-industry/largest_automakers_by_market_capitalization.json"
+      },
+      {
+        "title": "Renewable Electricity Production by Country (TWh)",
+        "subtitle": "Breakdown of renewable energy generation by source (hydro, wind, solar, biomass, geothermal) by country and year.",
+        "updated_at": "October 08, 2025 11:10 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/energy-industry/renewable_electricity_production_by_country.json"
+      }
+    ]
+  },
+  {
     "category": "Geography & Environment",
     "datasets": [
       {
@@ -181,7 +198,7 @@
       {
         "title": "Global Gender Gap Index by Country – 2024",
         "subtitle": "Overall Gender Equality Scores and Key Dimension Breakdown for 2024",
-        "updated_at": "September 24, 2025 01:42 PM UTC",
+        "updated_at": "October 08, 2025 09:36 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/global_gender_gap_by_country.json"
       },
       {

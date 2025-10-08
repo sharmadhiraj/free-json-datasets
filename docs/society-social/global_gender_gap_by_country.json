@@ -1,1175 +1,1175 @@
 {
   "title": "Global Gender Gap Index by Country – 2024",
   "subtitle": "Overall Gender Equality Scores and Key Dimension Breakdown for 2024",
-  "updated_at": "September 24, 2025 01:42 PM UTC",
+  "updated_at": "October 08, 2025 09:36 AM UTC",
   "data": [
     {
       "country": "Iceland",
-      "global_gender_gap_overall_score": "0.935",
-      "gender_gap_economics_score": "0.815",
-      "gender_gap_education_score": "0.992",
-      "gender_gap_health_score": "0.962",
-      "gender_gap_politics_score": "0.972"
+      "overall_score": "0.935",
+      "economics_score": "0.815",
+      "education_score": "0.992",
+      "health_score": "0.962",
+      "politics_score": "0.972"
     },
     {
       "country": "Finland",
-      "global_gender_gap_overall_score": "0.875",
-      "gender_gap_economics_score": "0.796",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.734"
+      "overall_score": "0.875",
+      "economics_score": "0.796",
+      "education_score": "1.000",
+      "health_score": "0.970",
+      "politics_score": "0.734"
     },
     {
       "country": "Norway",
-      "global_gender_gap_overall_score": "0.875",
-      "gender_gap_economics_score": "0.799",
-      "gender_gap_education_score": "0.993",
-      "gender_gap_health_score": "0.962",
-      "gender_gap_politics_score": "0.746"
+      "overall_score": "0.875",
+      "economics_score": "0.799",
+      "education_score": "0.993",
+      "health_score": "0.962",
+      "politics_score": "0.746"
     },
     {
       "country": "New Zealand",
-      "global_gender_gap_overall_score": "0.835",
-      "gender_gap_economics_score": "0.741",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.966",
-      "gender_gap_politics_score": "0.631"
+      "overall_score": "0.835",
+      "economics_score": "0.741",
+      "education_score": "1.000",
+      "health_score": "0.966",
+      "politics_score": "0.631"
     },
     {
       "country": "Sweden",
-      "global_gender_gap_overall_score": "0.816",
-      "gender_gap_economics_score": "0.794",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.963",
-      "gender_gap_politics_score": "0.506"
+      "overall_score": "0.816",
+      "economics_score": "0.794",
+      "education_score": "1.000",
+      "health_score": "0.963",
+      "politics_score": "0.506"
     },
     {
       "country": "Nicaragua",
-      "global_gender_gap_overall_score": "0.811",
-      "gender_gap_economics_score": "0.642",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.978",
-      "gender_gap_politics_score": "0.626"
+      "overall_score": "0.811",
+      "economics_score": "0.642",
+      "education_score": "1.000",
+      "health_score": "0.978",
+      "politics_score": "0.626"
     },
     {
       "country": "Germany",
-      "global_gender_gap_overall_score": "0.810",
-      "gender_gap_economics_score": "0.676",
-      "gender_gap_education_score": "0.987",
-      "gender_gap_health_score": "0.972",
-      "gender_gap_politics_score": "0.604"
+      "overall_score": "0.810",
+      "economics_score": "0.676",
+      "education_score": "0.987",
+      "health_score": "0.972",
+      "politics_score": "0.604"
     },
     {
       "country": "Namibia",
-      "global_gender_gap_overall_score": "0.805",
-      "gender_gap_economics_score": "0.783",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.456"
+      "overall_score": "0.805",
+      "economics_score": "0.783",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.456"
     },
     {
       "country": "Ireland",
-      "global_gender_gap_overall_score": "0.802",
-      "gender_gap_economics_score": "0.737",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.964",
-      "gender_gap_politics_score": "0.507"
+      "overall_score": "0.802",
+      "economics_score": "0.737",
+      "education_score": "1.000",
+      "health_score": "0.964",
+      "politics_score": "0.507"
     },
     {
       "country": "Spain",
-      "global_gender_gap_overall_score": "0.797",
-      "gender_gap_economics_score": "0.732",
-      "gender_gap_education_score": "0.998",
-      "gender_gap_health_score": "0.966",
-      "gender_gap_politics_score": "0.494"
+      "overall_score": "0.797",
+      "economics_score": "0.732",
+      "education_score": "0.998",
+      "health_score": "0.966",
+      "politics_score": "0.494"
     },
     {
       "country": "Belgium",
-      "global_gender_gap_overall_score": "0.793",
-      "gender_gap_economics_score": "0.718",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.486"
+      "overall_score": "0.793",
+      "economics_score": "0.718",
+      "education_score": "1.000",
+      "health_score": "0.968",
+      "politics_score": "0.486"
     },
     {
       "country": "Lithuania",
-      "global_gender_gap_overall_score": "0.793",
-      "gender_gap_economics_score": "0.760",
-      "gender_gap_education_score": "0.995",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.440"
+      "overall_score": "0.793",
+      "economics_score": "0.760",
+      "education_score": "0.995",
+      "health_score": "0.980",
+      "politics_score": "0.440"
     },
     {
       "country": "Moldova",
-      "global_gender_gap_overall_score": "0.791",
-      "gender_gap_economics_score": "0.837",
-      "gender_gap_education_score": "0.999",
-      "gender_gap_health_score": "0.977",
-      "gender_gap_politics_score": "0.350"
+      "overall_score": "0.791",
+      "economics_score": "0.837",
+      "education_score": "0.999",
+      "health_score": "0.977",
+      "politics_score": "0.350"
     },
     {
       "country": "United Kingdom",
-      "global_gender_gap_overall_score": "0.789",
-      "gender_gap_economics_score": "0.717",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.965",
-      "gender_gap_politics_score": "0.474"
+      "overall_score": "0.789",
+      "economics_score": "0.717",
+      "education_score": "1.000",
+      "health_score": "0.965",
+      "politics_score": "0.474"
     },
     {
       "country": "Denmark",
-      "global_gender_gap_overall_score": "0.789",
-      "gender_gap_economics_score": "0.741",
-      "gender_gap_education_score": "0.998",
-      "gender_gap_health_score": "0.964",
-      "gender_gap_politics_score": "0.452"
+      "overall_score": "0.789",
+      "economics_score": "0.741",
+      "education_score": "0.998",
+      "health_score": "0.964",
+      "politics_score": "0.452"
     },
     {
       "country": "Ecuador",
-      "global_gender_gap_overall_score": "0.788",
-      "gender_gap_economics_score": "0.707",
-      "gender_gap_education_score": "0.996",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.482"
+      "overall_score": "0.788",
+      "economics_score": "0.707",
+      "education_score": "0.996",
+      "health_score": "0.968",
+      "politics_score": "0.482"
     },
     {
       "country": "Portugal",
-      "global_gender_gap_overall_score": "0.787",
-      "gender_gap_economics_score": "0.754",
-      "gender_gap_education_score": "0.993",
-      "gender_gap_health_score": "0.973",
-      "gender_gap_politics_score": "0.429"
+      "overall_score": "0.787",
+      "economics_score": "0.754",
+      "education_score": "0.993",
+      "health_score": "0.973",
+      "politics_score": "0.429"
     },
     {
       "country": "South Africa",
-      "global_gender_gap_overall_score": "0.785",
-      "gender_gap_economics_score": "0.653",
-      "gender_gap_education_score": "0.997",
-      "gender_gap_health_score": "0.979",
-      "gender_gap_politics_score": "0.513"
+      "overall_score": "0.785",
+      "economics_score": "0.653",
+      "education_score": "0.997",
+      "health_score": "0.979",
+      "politics_score": "0.513"
     },
     {
       "country": "Switzerland",
-      "global_gender_gap_overall_score": "0.785",
-      "gender_gap_economics_score": "0.720",
-      "gender_gap_education_score": "0.992",
-      "gender_gap_health_score": "0.964",
-      "gender_gap_politics_score": "0.463"
+      "overall_score": "0.785",
+      "economics_score": "0.720",
+      "education_score": "0.992",
+      "health_score": "0.964",
+      "politics_score": "0.463"
     },
     {
       "country": "Costa Rica",
-      "global_gender_gap_overall_score": "0.785",
-      "gender_gap_economics_score": "0.679",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.973",
-      "gender_gap_politics_score": "0.489"
+      "overall_score": "0.785",
+      "economics_score": "0.679",
+      "education_score": "1.000",
+      "health_score": "0.973",
+      "politics_score": "0.489"
     },
     {
       "country": "France",
-      "global_gender_gap_overall_score": "0.781",
-      "gender_gap_economics_score": "0.726",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.428"
+      "overall_score": "0.781",
+      "economics_score": "0.726",
+      "education_score": "1.000",
+      "health_score": "0.970",
+      "politics_score": "0.428"
     },
     {
       "country": "Chile",
-      "global_gender_gap_overall_score": "0.781",
-      "gender_gap_economics_score": "0.662",
-      "gender_gap_education_score": "0.990",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.502"
+      "overall_score": "0.781",
+      "economics_score": "0.662",
+      "education_score": "0.990",
+      "health_score": "0.970",
+      "politics_score": "0.502"
     },
     {
       "country": "Australia",
-      "global_gender_gap_overall_score": "0.780",
-      "gender_gap_economics_score": "0.736",
-      "gender_gap_education_score": "0.991",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.424"
+      "overall_score": "0.780",
+      "economics_score": "0.736",
+      "education_score": "0.991",
+      "health_score": "0.968",
+      "politics_score": "0.424"
     },
     {
       "country": "Albania",
-      "global_gender_gap_overall_score": "0.780",
-      "gender_gap_economics_score": "0.783",
-      "gender_gap_education_score": "0.958",
-      "gender_gap_health_score": "0.962",
-      "gender_gap_politics_score": "0.419"
+      "overall_score": "0.780",
+      "economics_score": "0.783",
+      "education_score": "0.958",
+      "health_score": "0.962",
+      "politics_score": "0.419"
     },
     {
       "country": "Philippines",
-      "global_gender_gap_overall_score": "0.779",
-      "gender_gap_economics_score": "0.775",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.373"
+      "overall_score": "0.779",
+      "economics_score": "0.775",
+      "education_score": "1.000",
+      "health_score": "0.968",
+      "politics_score": "0.373"
     },
     {
       "country": "Serbia",
-      "global_gender_gap_overall_score": "0.779",
-      "gender_gap_economics_score": "0.710",
-      "gender_gap_education_score": "0.999",
-      "gender_gap_health_score": "0.969",
-      "gender_gap_politics_score": "0.438"
+      "overall_score": "0.779",
+      "economics_score": "0.710",
+      "education_score": "0.999",
+      "health_score": "0.969",
+      "politics_score": "0.438"
     },
     {
       "country": "Mozambique",
-      "global_gender_gap_overall_score": "0.776",
-      "gender_gap_economics_score": "0.690",
-      "gender_gap_education_score": "0.894",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.542"
+      "overall_score": "0.776",
+      "economics_score": "0.690",
+      "education_score": "0.894",
+      "health_score": "0.980",
+      "politics_score": "0.542"
     },
     {
       "country": "Netherlands",
-      "global_gender_gap_overall_score": "0.775",
-      "gender_gap_economics_score": "0.694",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.962",
-      "gender_gap_politics_score": "0.443"
+      "overall_score": "0.775",
+      "economics_score": "0.694",
+      "education_score": "1.000",
+      "health_score": "0.962",
+      "politics_score": "0.443"
     },
     {
       "country": "Estonia",
-      "global_gender_gap_overall_score": "0.774",
-      "gender_gap_economics_score": "0.777",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.979",
-      "gender_gap_politics_score": "0.340"
+      "overall_score": "0.774",
+      "economics_score": "0.777",
+      "education_score": "1.000",
+      "health_score": "0.979",
+      "politics_score": "0.340"
     },
     {
       "country": "Latvia",
-      "global_gender_gap_overall_score": "0.773",
-      "gender_gap_economics_score": "0.755",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.975",
-      "gender_gap_politics_score": "0.363"
+      "overall_score": "0.773",
+      "economics_score": "0.755",
+      "education_score": "1.000",
+      "health_score": "0.975",
+      "politics_score": "0.363"
     },
     {
       "country": "Barbados",
-      "global_gender_gap_overall_score": "0.773",
-      "gender_gap_economics_score": "0.848",
-      "gender_gap_education_score": "0.995",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.280"
+      "overall_score": "0.773",
+      "economics_score": "0.848",
+      "education_score": "0.995",
+      "health_score": "0.968",
+      "politics_score": "0.280"
     },
     {
       "country": "Argentina",
-      "global_gender_gap_overall_score": "0.772",
-      "gender_gap_economics_score": "0.651",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.977",
-      "gender_gap_politics_score": "0.459"
+      "overall_score": "0.772",
+      "economics_score": "0.651",
+      "education_score": "1.000",
+      "health_score": "0.977",
+      "politics_score": "0.459"
     },
     {
       "country": "Mexico",
-      "global_gender_gap_overall_score": "0.768",
-      "gender_gap_economics_score": "0.612",
-      "gender_gap_education_score": "0.994",
-      "gender_gap_health_score": "0.975",
-      "gender_gap_politics_score": "0.490"
+      "overall_score": "0.768",
+      "economics_score": "0.612",
+      "education_score": "0.994",
+      "health_score": "0.975",
+      "politics_score": "0.490"
     },
     {
       "country": "Slovenia",
-      "global_gender_gap_overall_score": "0.766",
-      "gender_gap_economics_score": "0.762",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.973",
-      "gender_gap_politics_score": "0.327"
+      "overall_score": "0.766",
+      "economics_score": "0.762",
+      "education_score": "1.000",
+      "health_score": "0.973",
+      "politics_score": "0.327"
     },
     {
       "country": "Guyana",
-      "global_gender_gap_overall_score": "0.765",
-      "gender_gap_economics_score": "0.728",
-      "gender_gap_education_score": "0.994",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.359"
+      "overall_score": "0.765",
+      "economics_score": "0.728",
+      "education_score": "0.994",
+      "health_score": "0.980",
+      "politics_score": "0.359"
     },
     {
       "country": "Canada",
-      "global_gender_gap_overall_score": "0.761",
-      "gender_gap_economics_score": "0.746",
-      "gender_gap_education_score": "0.996",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.334"
+      "overall_score": "0.761",
+      "economics_score": "0.746",
+      "education_score": "0.996",
+      "health_score": "0.968",
+      "politics_score": "0.334"
     },
     {
       "country": "Jamaica",
-      "global_gender_gap_overall_score": "0.758",
-      "gender_gap_economics_score": "0.809",
-      "gender_gap_education_score": "0.991",
-      "gender_gap_health_score": "0.967",
-      "gender_gap_politics_score": "0.263"
+      "overall_score": "0.758",
+      "economics_score": "0.809",
+      "education_score": "0.991",
+      "health_score": "0.967",
+      "politics_score": "0.263"
     },
     {
       "country": "Rwanda",
-      "global_gender_gap_overall_score": "0.757",
-      "gender_gap_economics_score": "0.668",
-      "gender_gap_education_score": "0.962",
-      "gender_gap_health_score": "0.974",
-      "gender_gap_politics_score": "0.422"
+      "overall_score": "0.757",
+      "economics_score": "0.668",
+      "education_score": "0.962",
+      "health_score": "0.974",
+      "politics_score": "0.422"
     },
     {
       "country": "Burundi",
-      "global_gender_gap_overall_score": "0.757",
-      "gender_gap_economics_score": "0.784",
-      "gender_gap_education_score": "0.943",
-      "gender_gap_health_score": "0.979",
-      "gender_gap_politics_score": "0.320"
+      "overall_score": "0.757",
+      "economics_score": "0.784",
+      "education_score": "0.943",
+      "health_score": "0.979",
+      "politics_score": "0.320"
     },
     {
       "country": "Peru",
-      "global_gender_gap_overall_score": "0.755",
-      "gender_gap_economics_score": "0.686",
-      "gender_gap_education_score": "0.990",
-      "gender_gap_health_score": "0.964",
-      "gender_gap_politics_score": "0.380"
+      "overall_score": "0.755",
+      "economics_score": "0.686",
+      "education_score": "0.990",
+      "health_score": "0.964",
+      "politics_score": "0.380"
     },
     {
       "country": "Cape Verde",
-      "global_gender_gap_overall_score": "0.755",
-      "gender_gap_economics_score": "0.746",
-      "gender_gap_education_score": "0.985",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.310"
+      "overall_score": "0.755",
+      "economics_score": "0.746",
+      "education_score": "0.985",
+      "health_score": "0.980",
+      "politics_score": "0.310"
     },
     {
       "country": "Liberia",
-      "global_gender_gap_overall_score": "0.754",
-      "gender_gap_economics_score": "0.874",
-      "gender_gap_education_score": "0.892",
-      "gender_gap_health_score": "0.962",
-      "gender_gap_politics_score": "0.287"
+      "overall_score": "0.754",
+      "economics_score": "0.874",
+      "education_score": "0.892",
+      "health_score": "0.962",
+      "politics_score": "0.287"
     },
     {
       "country": "United States",
-      "global_gender_gap_overall_score": "0.747",
-      "gender_gap_economics_score": "0.765",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.251"
+      "overall_score": "0.747",
+      "economics_score": "0.765",
+      "education_score": "1.000",
+      "health_score": "0.970",
+      "politics_score": "0.251"
     },
     {
       "country": "Bolivia",
-      "global_gender_gap_overall_score": "0.746",
-      "gender_gap_economics_score": "0.653",
-      "gender_gap_education_score": "0.985",
-      "gender_gap_health_score": "0.962",
-      "gender_gap_politics_score": "0.384"
+      "overall_score": "0.746",
+      "economics_score": "0.653",
+      "education_score": "0.985",
+      "health_score": "0.962",
+      "politics_score": "0.384"
     },
     {
       "country": "Colombia",
-      "global_gender_gap_overall_score": "0.745",
-      "gender_gap_economics_score": "0.701",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.975",
-      "gender_gap_politics_score": "0.306"
+      "overall_score": "0.745",
+      "economics_score": "0.701",
+      "education_score": "1.000",
+      "health_score": "0.975",
+      "politics_score": "0.306"
     },
     {
       "country": "Singapore",
-      "global_gender_gap_overall_score": "0.744",
-      "gender_gap_economics_score": "0.779",
-      "gender_gap_education_score": "0.994",
-      "gender_gap_health_score": "0.971",
-      "gender_gap_politics_score": "0.230"
+      "overall_score": "0.744",
+      "economics_score": "0.779",
+      "education_score": "0.994",
+      "health_score": "0.971",
+      "politics_score": "0.230"
     },
     {
       "country": "Eswatini",
-      "global_gender_gap_overall_score": "0.744",
-      "gender_gap_economics_score": "0.840",
-      "gender_gap_education_score": "0.982",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.174"
+      "overall_score": "0.744",
+      "economics_score": "0.840",
+      "education_score": "0.982",
+      "health_score": "0.980",
+      "politics_score": "0.174"
     },
     {
       "country": "Luxembourg",
-      "global_gender_gap_overall_score": "0.744",
-      "gender_gap_economics_score": "0.735",
-      "gender_gap_education_score": "0.999",
-      "gender_gap_health_score": "0.965",
-      "gender_gap_politics_score": "0.278"
+      "overall_score": "0.744",
+      "economics_score": "0.735",
+      "education_score": "0.999",
+      "health_score": "0.965",
+      "politics_score": "0.278"
     },
     {
       "country": "Austria",
-      "global_gender_gap_overall_score": "0.743",
-      "gender_gap_economics_score": "0.706",
-      "gender_gap_education_score": "0.995",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.303"
+      "overall_score": "0.743",
+      "economics_score": "0.706",
+      "education_score": "0.995",
+      "health_score": "0.970",
+      "politics_score": "0.303"
     },
     {
       "country": "Panama",
-      "global_gender_gap_overall_score": "0.742",
-      "gender_gap_economics_score": "0.723",
-      "gender_gap_education_score": "0.998",
-      "gender_gap_health_score": "0.973",
-      "gender_gap_politics_score": "0.274"
+      "overall_score": "0.742",
+      "economics_score": "0.723",
+      "education_score": "0.998",
+      "health_score": "0.973",
+      "politics_score": "0.274"
     },
     {
       "country": "Poland",
-      "global_gender_gap_overall_score": "0.740",
-      "gender_gap_economics_score": "0.712",
-      "gender_gap_education_score": "0.996",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.272"
+      "overall_score": "0.740",
+      "economics_score": "0.712",
+      "education_score": "0.996",
+      "health_score": "0.980",
+      "politics_score": "0.272"
     },
     {
       "country": "Zimbabwe",
-      "global_gender_gap_overall_score": "0.740",
-      "gender_gap_economics_score": "0.786",
-      "gender_gap_education_score": "0.994",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.199"
+      "overall_score": "0.740",
+      "economics_score": "0.786",
+      "education_score": "0.994",
+      "health_score": "0.980",
+      "politics_score": "0.199"
     },
     {
       "country": "Suriname",
-      "global_gender_gap_overall_score": "0.739",
-      "gender_gap_economics_score": "0.742",
-      "gender_gap_education_score": "0.992",
-      "gender_gap_health_score": "0.979",
-      "gender_gap_politics_score": "0.245"
+      "overall_score": "0.739",
+      "economics_score": "0.742",
+      "education_score": "0.992",
+      "health_score": "0.979",
+      "politics_score": "0.245"
     },
     {
       "country": "Tanzania",
-      "global_gender_gap_overall_score": "0.734",
-      "gender_gap_economics_score": "0.705",
-      "gender_gap_education_score": "0.963",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.300"
+      "overall_score": "0.734",
+      "economics_score": "0.705",
+      "education_score": "0.963",
+      "health_score": "0.970",
+      "politics_score": "0.300"
     },
     {
       "country": "Belarus",
-      "global_gender_gap_overall_score": "0.733",
-      "gender_gap_economics_score": "0.818",
-      "gender_gap_education_score": "0.967",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.168"
+      "overall_score": "0.733",
+      "economics_score": "0.818",
+      "education_score": "0.967",
+      "health_score": "0.980",
+      "politics_score": "0.168"
     },
     {
       "country": "Slovakia",
-      "global_gender_gap_overall_score": "0.731",
-      "gender_gap_economics_score": "0.720",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.224"
+      "overall_score": "0.731",
+      "economics_score": "0.720",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.224"
     },
     {
       "country": "Botswana",
-      "global_gender_gap_overall_score": "0.730",
-      "gender_gap_economics_score": "0.854",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.088"
+      "overall_score": "0.730",
+      "economics_score": "0.854",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.088"
     },
     {
       "country": "North Macedonia",
-      "global_gender_gap_overall_score": "0.727",
-      "gender_gap_economics_score": "0.635",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.960",
-      "gender_gap_politics_score": "0.313"
+      "overall_score": "0.727",
+      "economics_score": "0.635",
+      "education_score": "1.000",
+      "health_score": "0.960",
+      "politics_score": "0.313"
     },
     {
       "country": "Honduras",
-      "global_gender_gap_overall_score": "0.726",
-      "gender_gap_economics_score": "0.654",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.964",
-      "gender_gap_politics_score": "0.288"
+      "overall_score": "0.726",
+      "economics_score": "0.654",
+      "education_score": "1.000",
+      "health_score": "0.964",
+      "politics_score": "0.288"
     },
     {
       "country": "Bulgaria",
-      "global_gender_gap_overall_score": "0.723",
-      "gender_gap_economics_score": "0.748",
-      "gender_gap_education_score": "0.993",
-      "gender_gap_health_score": "0.979",
-      "gender_gap_politics_score": "0.174"
+      "overall_score": "0.723",
+      "economics_score": "0.748",
+      "education_score": "0.993",
+      "health_score": "0.979",
+      "politics_score": "0.174"
     },
     {
       "country": "Croatia",
-      "global_gender_gap_overall_score": "0.723",
-      "gender_gap_economics_score": "0.623",
-      "gender_gap_education_score": "0.998",
-      "gender_gap_health_score": "0.978",
-      "gender_gap_politics_score": "0.293"
+      "overall_score": "0.723",
+      "economics_score": "0.623",
+      "education_score": "0.998",
+      "health_score": "0.978",
+      "politics_score": "0.293"
     },
     {
       "country": "Malta",
-      "global_gender_gap_overall_score": "0.723",
-      "gender_gap_economics_score": "0.680",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.960",
-      "gender_gap_politics_score": "0.251"
+      "overall_score": "0.723",
+      "economics_score": "0.680",
+      "education_score": "1.000",
+      "health_score": "0.960",
+      "politics_score": "0.251"
     },
     {
       "country": "Ukraine",
-      "global_gender_gap_overall_score": "0.722",
-      "gender_gap_economics_score": "0.737",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.977",
-      "gender_gap_politics_score": "0.175"
+      "overall_score": "0.722",
+      "economics_score": "0.737",
+      "education_score": "1.000",
+      "health_score": "0.977",
+      "politics_score": "0.175"
     },
     {
       "country": "Armenia",
-      "global_gender_gap_overall_score": "0.721",
-      "gender_gap_economics_score": "0.707",
-      "gender_gap_education_score": "0.991",
-      "gender_gap_health_score": "0.958",
-      "gender_gap_politics_score": "0.227"
+      "overall_score": "0.721",
+      "economics_score": "0.707",
+      "education_score": "0.991",
+      "health_score": "0.958",
+      "politics_score": "0.227"
     },
     {
       "country": "Thailand",
-      "global_gender_gap_overall_score": "0.720",
-      "gender_gap_economics_score": "0.772",
-      "gender_gap_education_score": "0.985",
-      "gender_gap_health_score": "0.977",
-      "gender_gap_politics_score": "0.147"
+      "overall_score": "0.720",
+      "economics_score": "0.772",
+      "education_score": "0.985",
+      "health_score": "0.977",
+      "politics_score": "0.147"
     },
     {
       "country": "Madagascar",
-      "global_gender_gap_overall_score": "0.720",
-      "gender_gap_economics_score": "0.759",
-      "gender_gap_education_score": "0.993",
-      "gender_gap_health_score": "0.966",
-      "gender_gap_politics_score": "0.161"
+      "overall_score": "0.720",
+      "economics_score": "0.759",
+      "education_score": "0.993",
+      "health_score": "0.966",
+      "politics_score": "0.161"
     },
     {
       "country": "Montenegro",
-      "global_gender_gap_overall_score": "0.718",
-      "gender_gap_economics_score": "0.724",
-      "gender_gap_education_score": "0.998",
-      "gender_gap_health_score": "0.969",
-      "gender_gap_politics_score": "0.182"
+      "overall_score": "0.718",
+      "economics_score": "0.724",
+      "education_score": "0.998",
+      "health_score": "0.969",
+      "politics_score": "0.182"
     },
     {
       "country": "Romania",
-      "global_gender_gap_overall_score": "0.717",
-      "gender_gap_economics_score": "0.676",
-      "gender_gap_education_score": "0.999",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.213"
+      "overall_score": "0.717",
+      "economics_score": "0.676",
+      "education_score": "0.999",
+      "health_score": "0.980",
+      "politics_score": "0.213"
     },
     {
       "country": "Brazil",
-      "global_gender_gap_overall_score": "0.716",
-      "gender_gap_economics_score": "0.667",
-      "gender_gap_education_score": "0.996",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.220"
+      "overall_score": "0.716",
+      "economics_score": "0.667",
+      "education_score": "0.996",
+      "health_score": "0.980",
+      "politics_score": "0.220"
     },
     {
       "country": "Georgia",
-      "global_gender_gap_overall_score": "0.716",
-      "gender_gap_economics_score": "0.720",
-      "gender_gap_education_score": "0.991",
-      "gender_gap_health_score": "0.974",
-      "gender_gap_politics_score": "0.179"
+      "overall_score": "0.716",
+      "economics_score": "0.720",
+      "education_score": "0.991",
+      "health_score": "0.974",
+      "politics_score": "0.179"
     },
     {
       "country": "Vietnam",
-      "global_gender_gap_overall_score": "0.715",
-      "gender_gap_economics_score": "0.751",
-      "gender_gap_education_score": "0.992",
-      "gender_gap_health_score": "0.947",
-      "gender_gap_politics_score": "0.168"
+      "overall_score": "0.715",
+      "economics_score": "0.751",
+      "education_score": "0.992",
+      "health_score": "0.947",
+      "politics_score": "0.168"
     },
     {
       "country": "Uruguay",
-      "global_gender_gap_overall_score": "0.715",
-      "gender_gap_economics_score": "0.709",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.172"
+      "overall_score": "0.715",
+      "economics_score": "0.709",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.172"
     },
     {
       "country": "Greece",
-      "global_gender_gap_overall_score": "0.714",
-      "gender_gap_economics_score": "0.680",
-      "gender_gap_education_score": "0.994",
-      "gender_gap_health_score": "0.967",
-      "gender_gap_politics_score": "0.214"
+      "overall_score": "0.714",
+      "economics_score": "0.680",
+      "education_score": "0.994",
+      "health_score": "0.967",
+      "politics_score": "0.214"
     },
     {
       "country": "United Arab Emirates",
-      "global_gender_gap_overall_score": "0.713",
-      "gender_gap_economics_score": "0.553",
-      "gender_gap_education_score": "0.996",
-      "gender_gap_health_score": "0.963",
-      "gender_gap_politics_score": "0.341"
+      "overall_score": "0.713",
+      "economics_score": "0.553",
+      "education_score": "0.996",
+      "health_score": "0.963",
+      "politics_score": "0.341"
     },
     {
       "country": "Kenya",
-      "global_gender_gap_overall_score": "0.712",
-      "gender_gap_economics_score": "0.789",
-      "gender_gap_education_score": "0.877",
-      "gender_gap_health_score": "0.975",
-      "gender_gap_politics_score": "0.209"
+      "overall_score": "0.712",
+      "economics_score": "0.789",
+      "education_score": "0.877",
+      "health_score": "0.975",
+      "politics_score": "0.209"
     },
     {
       "country": "Kazakhstan",
-      "global_gender_gap_overall_score": "0.710",
-      "gender_gap_economics_score": "0.751",
-      "gender_gap_education_score": "0.999",
-      "gender_gap_health_score": "0.976",
-      "gender_gap_politics_score": "0.116"
+      "overall_score": "0.710",
+      "economics_score": "0.751",
+      "education_score": "0.999",
+      "health_score": "0.976",
+      "politics_score": "0.116"
     },
     {
       "country": "Togo",
-      "global_gender_gap_overall_score": "0.710",
-      "gender_gap_economics_score": "0.796",
-      "gender_gap_education_score": "0.843",
-      "gender_gap_health_score": "0.979",
-      "gender_gap_politics_score": "0.222"
+      "overall_score": "0.710",
+      "economics_score": "0.796",
+      "education_score": "0.843",
+      "health_score": "0.979",
+      "politics_score": "0.222"
     },
     {
       "country": "Bosnia and Herzegovina",
-      "global_gender_gap_overall_score": "0.710",
-      "gender_gap_economics_score": "0.620",
-      "gender_gap_education_score": "0.992",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.257"
+      "overall_score": "0.710",
+      "economics_score": "0.620",
+      "education_score": "0.992",
+      "health_score": "0.970",
+      "politics_score": "0.257"
     },
     {
       "country": "Ethiopia",
-      "global_gender_gap_overall_score": "0.709",
-      "gender_gap_economics_score": "0.587",
-      "gender_gap_education_score": "0.865",
-      "gender_gap_health_score": "0.971",
-      "gender_gap_politics_score": "0.412"
+      "overall_score": "0.709",
+      "economics_score": "0.587",
+      "education_score": "0.865",
+      "health_score": "0.971",
+      "politics_score": "0.412"
     },
     {
       "country": "Sierra Leone",
-      "global_gender_gap_overall_score": "0.708",
-      "gender_gap_economics_score": "0.668",
-      "gender_gap_education_score": "0.943",
-      "gender_gap_health_score": "0.966",
-      "gender_gap_politics_score": "0.253"
+      "overall_score": "0.708",
+      "economics_score": "0.668",
+      "education_score": "0.943",
+      "health_score": "0.966",
+      "politics_score": "0.253"
     },
     {
       "country": "Paraguay",
-      "global_gender_gap_overall_score": "0.707",
-      "gender_gap_economics_score": "0.680",
-      "gender_gap_education_score": "0.998",
-      "gender_gap_health_score": "0.975",
-      "gender_gap_politics_score": "0.173"
+      "overall_score": "0.707",
+      "economics_score": "0.680",
+      "education_score": "0.998",
+      "health_score": "0.975",
+      "politics_score": "0.173"
     },
     {
       "country": "Uganda",
-      "global_gender_gap_overall_score": "0.706",
-      "gender_gap_economics_score": "0.645",
-      "gender_gap_education_score": "0.931",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.266"
+      "overall_score": "0.706",
+      "economics_score": "0.645",
+      "education_score": "0.931",
+      "health_score": "0.980",
+      "politics_score": "0.266"
     },
     {
       "country": "Dominican Republic",
-      "global_gender_gap_overall_score": "0.706",
-      "gender_gap_economics_score": "0.702",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.145"
+      "overall_score": "0.706",
+      "economics_score": "0.702",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.145"
     },
     {
       "country": "Mongolia",
-      "global_gender_gap_overall_score": "0.705",
-      "gender_gap_economics_score": "0.736",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.104"
+      "overall_score": "0.705",
+      "economics_score": "0.736",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.104"
     },
     {
       "country": "Cyprus",
-      "global_gender_gap_overall_score": "0.705",
-      "gender_gap_economics_score": "0.666",
-      "gender_gap_education_score": "0.993",
-      "gender_gap_health_score": "0.963",
-      "gender_gap_politics_score": "0.200"
+      "overall_score": "0.705",
+      "economics_score": "0.666",
+      "education_score": "0.993",
+      "health_score": "0.963",
+      "politics_score": "0.200"
     },
     {
       "country": "Timor-Leste",
-      "global_gender_gap_overall_score": "0.704",
-      "gender_gap_economics_score": "0.631",
-      "gender_gap_education_score": "0.980",
-      "gender_gap_health_score": "0.965",
-      "gender_gap_politics_score": "0.238"
+      "overall_score": "0.704",
+      "economics_score": "0.631",
+      "education_score": "0.980",
+      "health_score": "0.965",
+      "politics_score": "0.238"
     },
     {
       "country": "Italy",
-      "global_gender_gap_overall_score": "0.703",
-      "gender_gap_economics_score": "0.607",
-      "gender_gap_education_score": "0.996",
-      "gender_gap_health_score": "0.967",
-      "gender_gap_politics_score": "0.243"
+      "overall_score": "0.703",
+      "economics_score": "0.607",
+      "education_score": "0.996",
+      "health_score": "0.967",
+      "politics_score": "0.243"
     },
     {
       "country": "Ghana",
-      "global_gender_gap_overall_score": "0.701",
-      "gender_gap_economics_score": "0.750",
-      "gender_gap_education_score": "0.972",
-      "gender_gap_health_score": "0.978",
-      "gender_gap_politics_score": "0.104"
+      "overall_score": "0.701",
+      "economics_score": "0.750",
+      "education_score": "0.972",
+      "health_score": "0.978",
+      "politics_score": "0.104"
     },
     {
       "country": "Laos",
-      "global_gender_gap_overall_score": "0.700",
-      "gender_gap_economics_score": "0.714",
-      "gender_gap_education_score": "0.972",
-      "gender_gap_health_score": "0.975",
-      "gender_gap_politics_score": "0.140"
+      "overall_score": "0.700",
+      "economics_score": "0.714",
+      "education_score": "0.972",
+      "health_score": "0.975",
+      "politics_score": "0.140"
     },
     {
       "country": "Kyrgyzstan",
-      "global_gender_gap_overall_score": "0.700",
-      "gender_gap_economics_score": "0.695",
-      "gender_gap_education_score": "0.991",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.133"
+      "overall_score": "0.700",
+      "economics_score": "0.695",
+      "education_score": "0.991",
+      "health_score": "0.980",
+      "politics_score": "0.133"
     },
     {
       "country": "Israel",
-      "global_gender_gap_overall_score": "0.699",
-      "gender_gap_economics_score": "0.690",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.964",
-      "gender_gap_politics_score": "0.139"
+      "overall_score": "0.699",
+      "economics_score": "0.690",
+      "education_score": "1.000",
+      "health_score": "0.964",
+      "politics_score": "0.139"
     },
     {
       "country": "Zambia",
-      "global_gender_gap_overall_score": "0.697",
-      "gender_gap_economics_score": "0.739",
-      "gender_gap_education_score": "0.979",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.090"
+      "overall_score": "0.697",
+      "economics_score": "0.739",
+      "education_score": "0.979",
+      "health_score": "0.980",
+      "politics_score": "0.090"
     },
     {
       "country": "Guatemala",
-      "global_gender_gap_overall_score": "0.697",
-      "gender_gap_economics_score": "0.562",
-      "gender_gap_education_score": "0.982",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.263"
+      "overall_score": "0.697",
+      "economics_score": "0.562",
+      "education_score": "0.982",
+      "health_score": "0.980",
+      "politics_score": "0.263"
     },
     {
       "country": "South Korea",
-      "global_gender_gap_overall_score": "0.696",
-      "gender_gap_economics_score": "0.605",
-      "gender_gap_education_score": "0.980",
-      "gender_gap_health_score": "0.976",
-      "gender_gap_politics_score": "0.223"
+      "overall_score": "0.696",
+      "economics_score": "0.605",
+      "education_score": "0.980",
+      "health_score": "0.976",
+      "politics_score": "0.223"
     },
     {
       "country": "Belize",
-      "global_gender_gap_overall_score": "0.696",
-      "gender_gap_economics_score": "0.729",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.074"
+      "overall_score": "0.696",
+      "economics_score": "0.729",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.074"
     },
     {
       "country": "El Salvador",
-      "global_gender_gap_overall_score": "0.695",
-      "gender_gap_economics_score": "0.592",
-      "gender_gap_education_score": "0.993",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.215"
+      "overall_score": "0.695",
+      "economics_score": "0.592",
+      "education_score": "0.993",
+      "health_score": "0.980",
+      "politics_score": "0.215"
     },
     {
       "country": "Cameroon",
-      "global_gender_gap_overall_score": "0.693",
-      "gender_gap_economics_score": "0.705",
-      "gender_gap_education_score": "0.894",
-      "gender_gap_health_score": "0.973",
-      "gender_gap_politics_score": "0.201"
+      "overall_score": "0.693",
+      "economics_score": "0.705",
+      "education_score": "0.894",
+      "health_score": "0.973",
+      "politics_score": "0.201"
     },
     {
       "country": "Lesotho",
-      "global_gender_gap_overall_score": "0.691",
-      "gender_gap_economics_score": "0.648",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.136"
+      "overall_score": "0.691",
+      "economics_score": "0.648",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.136"
     },
     {
       "country": "Bangladesh",
-      "global_gender_gap_overall_score": "0.689",
-      "gender_gap_economics_score": "0.311",
-      "gender_gap_education_score": "0.940",
-      "gender_gap_health_score": "0.962",
-      "gender_gap_politics_score": "0.543"
+      "overall_score": "0.689",
+      "economics_score": "0.311",
+      "education_score": "0.940",
+      "health_score": "0.962",
+      "politics_score": "0.543"
     },
     {
       "country": "Indonesia",
-      "global_gender_gap_overall_score": "0.686",
-      "gender_gap_economics_score": "0.667",
-      "gender_gap_education_score": "0.971",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.138"
+      "overall_score": "0.686",
+      "economics_score": "0.667",
+      "education_score": "0.971",
+      "health_score": "0.970",
+      "politics_score": "0.138"
     },
     {
       "country": "Hungary",
-      "global_gender_gap_overall_score": "0.686",
-      "gender_gap_economics_score": "0.697",
-      "gender_gap_education_score": "0.999",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.069"
+      "overall_score": "0.686",
+      "economics_score": "0.697",
+      "education_score": "0.999",
+      "health_score": "0.980",
+      "politics_score": "0.069"
     },
     {
       "country": "Cambodia",
-      "global_gender_gap_overall_score": "0.685",
-      "gender_gap_economics_score": "0.717",
-      "gender_gap_education_score": "0.967",
-      "gender_gap_health_score": "0.978",
-      "gender_gap_politics_score": "0.080"
+      "overall_score": "0.685",
+      "economics_score": "0.717",
+      "education_score": "0.967",
+      "health_score": "0.978",
+      "politics_score": "0.080"
     },
     {
       "country": "Azerbaijan",
-      "global_gender_gap_overall_score": "0.685",
-      "gender_gap_economics_score": "0.750",
-      "gender_gap_education_score": "0.985",
-      "gender_gap_health_score": "0.938",
-      "gender_gap_politics_score": "0.068"
+      "overall_score": "0.685",
+      "economics_score": "0.750",
+      "education_score": "0.985",
+      "health_score": "0.938",
+      "politics_score": "0.068"
     },
     {
       "country": "China",
-      "global_gender_gap_overall_score": "0.684",
-      "gender_gap_economics_score": "0.737",
-      "gender_gap_education_score": "0.934",
-      "gender_gap_health_score": "0.940",
-      "gender_gap_politics_score": "0.123"
+      "overall_score": "0.684",
+      "economics_score": "0.737",
+      "education_score": "0.934",
+      "health_score": "0.940",
+      "politics_score": "0.123"
     },
     {
       "country": "Czech Republic",
-      "global_gender_gap_overall_score": "0.684",
-      "gender_gap_economics_score": "0.632",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.978",
-      "gender_gap_politics_score": "0.126"
+      "overall_score": "0.684",
+      "economics_score": "0.632",
+      "education_score": "1.000",
+      "health_score": "0.978",
+      "politics_score": "0.126"
     },
     {
       "country": "Brunei",
-      "global_gender_gap_overall_score": "0.684",
-      "gender_gap_economics_score": "0.715",
-      "gender_gap_education_score": "0.997",
-      "gender_gap_health_score": "0.954",
-      "gender_gap_politics_score": "0.069"
+      "overall_score": "0.684",
+      "economics_score": "0.715",
+      "education_score": "0.997",
+      "health_score": "0.954",
+      "politics_score": "0.069"
     },
     {
       "country": "Mauritius",
-      "global_gender_gap_overall_score": "0.683",
-      "gender_gap_economics_score": "0.603",
-      "gender_gap_education_score": "0.993",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.159"
+      "overall_score": "0.683",
+      "economics_score": "0.603",
+      "education_score": "0.993",
+      "health_score": "0.980",
+      "politics_score": "0.159"
     },
     {
       "country": "Uzbekistan",
-      "global_gender_gap_overall_score": "0.681",
-      "gender_gap_economics_score": "0.598",
-      "gender_gap_education_score": "0.990",
-      "gender_gap_health_score": "0.959",
-      "gender_gap_politics_score": "0.176"
+      "overall_score": "0.681",
+      "economics_score": "0.598",
+      "education_score": "0.990",
+      "health_score": "0.959",
+      "politics_score": "0.176"
     },
     {
       "country": "Senegal",
-      "global_gender_gap_overall_score": "0.679",
-      "gender_gap_economics_score": "0.473",
-      "gender_gap_education_score": "0.936",
-      "gender_gap_health_score": "0.967",
-      "gender_gap_politics_score": "0.341"
+      "overall_score": "0.679",
+      "economics_score": "0.473",
+      "education_score": "0.936",
+      "health_score": "0.967",
+      "politics_score": "0.341"
     },
     {
       "country": "Gambia",
-      "global_gender_gap_overall_score": "0.679",
-      "gender_gap_economics_score": "0.718",
-      "gender_gap_education_score": "0.957",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.073"
+      "overall_score": "0.679",
+      "economics_score": "0.718",
+      "education_score": "0.957",
+      "health_score": "0.968",
+      "politics_score": "0.073"
     },
     {
       "country": "Tajikistan",
-      "global_gender_gap_overall_score": "0.673",
-      "gender_gap_economics_score": "0.619",
-      "gender_gap_education_score": "0.947",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.156"
+      "overall_score": "0.673",
+      "economics_score": "0.619",
+      "education_score": "0.947",
+      "health_score": "0.970",
+      "politics_score": "0.156"
     },
     {
       "country": "Vanuatu",
-      "global_gender_gap_overall_score": "0.673",
-      "gender_gap_economics_score": "0.719",
-      "gender_gap_education_score": "0.997",
-      "gender_gap_health_score": "0.971",
-      "gender_gap_politics_score": "0.006"
+      "overall_score": "0.673",
+      "economics_score": "0.719",
+      "education_score": "0.997",
+      "health_score": "0.971",
+      "politics_score": "0.006"
     },
     {
       "country": "Angola",
-      "global_gender_gap_overall_score": "0.668",
-      "gender_gap_economics_score": "0.599",
-      "gender_gap_education_score": "0.743",
-      "gender_gap_health_score": "0.976",
-      "gender_gap_politics_score": "0.354"
+      "overall_score": "0.668",
+      "economics_score": "0.599",
+      "education_score": "0.743",
+      "health_score": "0.976",
+      "politics_score": "0.354"
     },
     {
       "country": "Malaysia",
-      "global_gender_gap_overall_score": "0.668",
-      "gender_gap_economics_score": "0.634",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.969",
-      "gender_gap_politics_score": "0.068"
+      "overall_score": "0.668",
+      "economics_score": "0.634",
+      "education_score": "1.000",
+      "health_score": "0.969",
+      "politics_score": "0.068"
     },
     {
       "country": "Tunisia",
-      "global_gender_gap_overall_score": "0.668",
-      "gender_gap_economics_score": "0.517",
-      "gender_gap_education_score": "0.970",
-      "gender_gap_health_score": "0.969",
-      "gender_gap_politics_score": "0.216"
+      "overall_score": "0.668",
+      "economics_score": "0.517",
+      "education_score": "0.970",
+      "health_score": "0.969",
+      "politics_score": "0.216"
     },
     {
       "country": "Bahrain",
-      "global_gender_gap_overall_score": "0.666",
-      "gender_gap_economics_score": "0.573",
-      "gender_gap_education_score": "0.986",
-      "gender_gap_health_score": "0.959",
-      "gender_gap_politics_score": "0.146"
+      "overall_score": "0.666",
+      "economics_score": "0.573",
+      "education_score": "0.986",
+      "health_score": "0.959",
+      "politics_score": "0.146"
     },
     {
       "country": "Nepal",
-      "global_gender_gap_overall_score": "0.664",
-      "gender_gap_economics_score": "0.475",
-      "gender_gap_education_score": "0.923",
-      "gender_gap_health_score": "0.969",
-      "gender_gap_politics_score": "0.288"
+      "overall_score": "0.664",
+      "economics_score": "0.475",
+      "education_score": "0.923",
+      "health_score": "0.969",
+      "politics_score": "0.288"
     },
     {
       "country": "Japan",
-      "global_gender_gap_overall_score": "0.663",
-      "gender_gap_economics_score": "0.568",
-      "gender_gap_education_score": "0.993",
-      "gender_gap_health_score": "0.973",
-      "gender_gap_politics_score": "0.118"
+      "overall_score": "0.663",
+      "economics_score": "0.568",
+      "education_score": "0.993",
+      "health_score": "0.973",
+      "politics_score": "0.118"
     },
     {
       "country": "Comoros",
-      "global_gender_gap_overall_score": "0.663",
-      "gender_gap_economics_score": "0.655",
-      "gender_gap_education_score": "0.945",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.083"
+      "overall_score": "0.663",
+      "economics_score": "0.655",
+      "education_score": "0.945",
+      "health_score": "0.968",
+      "politics_score": "0.083"
     },
     {
       "country": "Burkina Faso",
-      "global_gender_gap_overall_score": "0.661",
-      "gender_gap_economics_score": "0.674",
-      "gender_gap_education_score": "0.903",
-      "gender_gap_health_score": "0.978",
-      "gender_gap_politics_score": "0.090"
+      "overall_score": "0.661",
+      "economics_score": "0.674",
+      "education_score": "0.903",
+      "health_score": "0.978",
+      "politics_score": "0.090"
     },
     {
       "country": "Ivory Coast",
-      "global_gender_gap_overall_score": "0.655",
-      "gender_gap_economics_score": "0.611",
-      "gender_gap_education_score": "0.924",
-      "gender_gap_health_score": "0.978",
-      "gender_gap_politics_score": "0.107"
+      "overall_score": "0.655",
+      "economics_score": "0.611",
+      "education_score": "0.924",
+      "health_score": "0.978",
+      "politics_score": "0.107"
     },
     {
       "country": "Sri Lanka",
-      "global_gender_gap_overall_score": "0.653",
-      "gender_gap_economics_score": "0.544",
-      "gender_gap_education_score": "0.997",
-      "gender_gap_health_score": "0.980",
-      "gender_gap_politics_score": "0.090"
+      "overall_score": "0.653",
+      "economics_score": "0.544",
+      "education_score": "0.997",
+      "health_score": "0.980",
+      "politics_score": "0.090"
     },
     {
       "country": "Jordan",
-      "global_gender_gap_overall_score": "0.652",
-      "gender_gap_economics_score": "0.536",
-      "gender_gap_education_score": "0.998",
-      "gender_gap_health_score": "0.957",
-      "gender_gap_politics_score": "0.117"
+      "overall_score": "0.652",
+      "economics_score": "0.536",
+      "education_score": "0.998",
+      "health_score": "0.957",
+      "politics_score": "0.117"
     },
     {
       "country": "Bhutan",
-      "global_gender_gap_overall_score": "0.651",
-      "gender_gap_economics_score": "0.634",
-      "gender_gap_education_score": "0.963",
-      "gender_gap_health_score": "0.962",
-      "gender_gap_politics_score": "0.045"
+      "overall_score": "0.651",
+      "economics_score": "0.634",
+      "education_score": "0.963",
+      "health_score": "0.962",
+      "politics_score": "0.045"
     },
     {
       "country": "Nigeria",
-      "global_gender_gap_overall_score": "0.650",
-      "gender_gap_economics_score": "0.726",
-      "gender_gap_education_score": "0.842",
-      "gender_gap_health_score": "0.967",
-      "gender_gap_politics_score": "0.066"
+      "overall_score": "0.650",
+      "economics_score": "0.726",
+      "education_score": "0.842",
+      "health_score": "0.967",
+      "politics_score": "0.066"
     },
     {
       "country": "Saudi Arabia",
-      "global_gender_gap_overall_score": "0.647",
-      "gender_gap_economics_score": "0.551",
-      "gender_gap_education_score": "0.994",
-      "gender_gap_health_score": "0.964",
-      "gender_gap_politics_score": "0.077"
+      "overall_score": "0.647",
+      "economics_score": "0.551",
+      "education_score": "0.994",
+      "health_score": "0.964",
+      "politics_score": "0.077"
     },
     {
       "country": "Turkey",
-      "global_gender_gap_overall_score": "0.645",
-      "gender_gap_economics_score": "0.507",
-      "gender_gap_education_score": "0.987",
-      "gender_gap_health_score": "0.966",
-      "gender_gap_politics_score": "0.118"
+      "overall_score": "0.645",
+      "economics_score": "0.507",
+      "education_score": "0.987",
+      "health_score": "0.966",
+      "politics_score": "0.118"
     },
     {
       "country": "Fiji",
-      "global_gender_gap_overall_score": "0.642",
-      "gender_gap_economics_score": "0.589",
-      "gender_gap_education_score": "0.969",
-      "gender_gap_health_score": "0.965",
-      "gender_gap_politics_score": "0.045"
+      "overall_score": "0.642",
+      "economics_score": "0.589",
+      "education_score": "0.969",
+      "health_score": "0.965",
+      "politics_score": "0.045"
     },
     {
       "country": "India",
-      "global_gender_gap_overall_score": "0.641",
-      "gender_gap_economics_score": "0.398",
-      "gender_gap_education_score": "",
-      "gender_gap_health_score": "0.951",
-      "gender_gap_politics_score": "0.251"
+      "overall_score": "0.641",
+      "economics_score": "0.398",
+      "education_score": "",
+      "health_score": "0.951",
+      "politics_score": "0.251"
     },
     {
       "country": "Qatar",
-      "global_gender_gap_overall_score": "0.640",
-      "gender_gap_economics_score": "0.556",
-      "gender_gap_education_score": "0.995",
-      "gender_gap_health_score": "0.947",
-      "gender_gap_politics_score": "0.061"
+      "overall_score": "0.640",
+      "economics_score": "0.556",
+      "education_score": "0.995",
+      "health_score": "0.947",
+      "politics_score": "0.061"
     },
     {
       "country": "Kuwait",
-      "global_gender_gap_overall_score": "0.636",
-      "gender_gap_economics_score": "0.550",
-      "gender_gap_education_score": "0.997",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.029"
+      "overall_score": "0.636",
+      "economics_score": "0.550",
+      "education_score": "0.997",
+      "health_score": "0.968",
+      "politics_score": "0.029"
     },
     {
       "country": "Maldives",
-      "global_gender_gap_overall_score": "0.633",
-      "gender_gap_economics_score": "0.514",
-      "gender_gap_education_score": "1.000",
-      "gender_gap_health_score": "0.962",
-      "gender_gap_politics_score": "0.055"
+      "overall_score": "0.633",
+      "economics_score": "0.514",
+      "education_score": "1.000",
+      "health_score": "0.962",
+      "politics_score": "0.055"
     },
     {
       "country": "Lebanon",
-      "global_gender_gap_overall_score": "0.632",
-      "gender_gap_economics_score": "0.558",
-      "gender_gap_education_score": "0.966",
-      "gender_gap_health_score": "0.971",
-      "gender_gap_politics_score": "0.033"
+      "overall_score": "0.632",
+      "economics_score": "0.558",
+      "education_score": "0.966",
+      "health_score": "0.971",
+      "politics_score": "0.033"
     },
     {
       "country": "Egypt",
-      "global_gender_gap_overall_score": "0.629",
-      "gender_gap_economics_score": "0.406",
-      "gender_gap_education_score": "0.966",
-      "gender_gap_health_score": "0.968",
-      "gender_gap_politics_score": "0.176"
+      "overall_score": "0.629",
+      "economics_score": "0.406",
+      "education_score": "0.966",
+      "health_score": "0.968",
+      "politics_score": "0.176"
     },
     {
       "country": "Benin",
-      "global_gender_gap_overall_score": "0.629",
-      "gender_gap_economics_score": "0.537",
-      "gender_gap_education_score": "0.817",
-      "gender_gap_health_score": "0.973",
-      "gender_gap_politics_score": "0.189"
+      "overall_score": "0.629",
+      "economics_score": "0.537",
+      "education_score": "0.817",
+      "health_score": "0.973",
+      "politics_score": "0.189"
     },
     {
       "country": "Morocco",
-      "global_gender_gap_overall_score": "0.628",
-      "gender_gap_economics_score": "0.406",
-      "gender_gap_education_score": "0.955",
-      "gender_gap_health_score": "0.961",
-      "gender_gap_politics_score": "0.188"
+      "overall_score": "0.628",
+      "economics_score": "0.406",
+      "education_score": "0.955",
+      "health_score": "0.961",
+      "politics_score": "0.188"
     },
     {
       "country": "Niger",
-      "global_gender_gap_overall_score": "0.628",
-      "gender_gap_economics_score": "0.664",
-      "gender_gap_education_score": "0.786",
-      "gender_gap_health_score": "0.964",
-      "gender_gap_politics_score": "0.096"
+      "overall_score": "0.628",
+      "economics_score": "0.664",
+      "education_score": "0.786",
+      "health_score": "0.964",
+      "politics_score": "0.096"
     },
     {
       "country": "Oman",
-      "global_gender_gap_overall_score": "0.628",
-      "gender_gap_economics_score": "0.520",
-      "gender_gap_education_score": "0.989",
-      "gender_gap_health_score": "0.961",
-      "gender_gap_politics_score": "0.044"
+      "overall_score": "0.628",
+      "economics_score": "0.520",
+      "education_score": "0.989",
+      "health_score": "0.961",
+      "politics_score": "0.044"
     },
     {
       "country": "Algeria",
-      "global_gender_gap_overall_score": "0.612",
-      "gender_gap_economics_score": "0.470",
-      "gender_gap_education_score": "0.951",
-      "gender_gap_health_score": "0.958",
-      "gender_gap_politics_score": "0.068"
+      "overall_score": "0.612",
+      "economics_score": "0.470",
+      "education_score": "0.951",
+      "health_score": "0.958",
+      "politics_score": "0.068"
     },
     {
       "country": "DR Congo",
-      "global_gender_gap_overall_score": "0.609",
-      "gender_gap_economics_score": "0.669",
-      "gender_gap_education_score": "0.683",
-      "gender_gap_health_score": "0.976",
-      "gender_gap_politics_score": "0.109"
+      "overall_score": "0.609",
+      "economics_score": "0.669",
+      "education_score": "0.683",
+      "health_score": "0.976",
+      "politics_score": "0.109"
     },
     {
       "country": "Mali",
-      "global_gender_gap_overall_score": "0.604",
-      "gender_gap_economics_score": "0.495",
-      "gender_gap_education_score": "0.776",
-      "gender_gap_health_score": "0.959",
-      "gender_gap_politics_score": "0.187"
+      "overall_score": "0.604",
+      "economics_score": "0.495",
+      "education_score": "0.776",
+      "health_score": "0.959",
+      "politics_score": "0.187"
     },
     {
       "country": "Guinea",
-      "global_gender_gap_overall_score": "0.601",
-      "gender_gap_economics_score": "0.489",
-      "gender_gap_education_score": "0.732",
-      "gender_gap_health_score": "0.966",
-      "gender_gap_politics_score": "0.217"
+      "overall_score": "0.601",
+      "economics_score": "0.489",
+      "education_score": "0.732",
+      "health_score": "0.966",
+      "politics_score": "0.217"
     },
     {
       "country": "Iran",
-      "global_gender_gap_overall_score": "0.579",
-      "gender_gap_economics_score": "0.343",
-      "gender_gap_education_score": "0.977",
-      "gender_gap_health_score": "0.964",
-      "gender_gap_politics_score": "0.031"
+      "overall_score": "0.579",
+      "economics_score": "0.343",
+      "education_score": "0.977",
+      "health_score": "0.964",
+      "politics_score": "0.031"
     },
     {
       "country": "Chad",
-      "global_gender_gap_overall_score": "0.576",
-      "gender_gap_economics_score": "0.506",
-      "gender_gap_education_score": "0.667",
-      "gender_gap_health_score": "0.970",
-      "gender_gap_politics_score": "0.161"
+      "overall_score": "0.576",
+      "economics_score": "0.506",
+      "education_score": "0.667",
+      "health_score": "0.970",
+      "politics_score": "0.161"
     },
     {
       "country": "Pakistan",
-      "global_gender_gap_overall_score": "0.570",
-      "gender_gap_economics_score": "0.360",
-      "gender_gap_education_score": "0.836",
-      "gender_gap_health_score": "0.961",
-      "gender_gap_politics_score": "0.122"
+      "overall_score": "0.570",
+      "economics_score": "0.360",
+      "education_score": "0.836",
+      "health_score": "0.961",
+      "politics_score": "0.122"
     },
     {
       "country": "Sudan",
-      "global_gender_gap_overall_score": "0.568",
-      "gender_gap_economics_score": "0.337",
-      "gender_gap_education_score": "0.940",
-      "gender_gap_health_score": "0.965",
-      "gender_gap_politics_score": "0.030"
+      "overall_score": "0.568",
+      "economics_score": "0.337",
+      "education_score": "0.940",
+      "health_score": "0.965",
+      "politics_score": "0.030"
     }
   ]
 }
