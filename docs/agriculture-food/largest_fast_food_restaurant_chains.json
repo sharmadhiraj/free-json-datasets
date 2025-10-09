@@ -1,0 +1,812 @@
+{
+  "title": "Largest Fast-Food Restaurant Chains by Number of Locations Worldwide",
+  "subtitle": "A global ranking of major fast-food restaurant chains based on their total number of locations and revenue.",
+  "updated_at": "October 09, 2025 09:16 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "country_of_origin": "China",
+      "name": "Mixue Ice Cream & Tea",
+      "number_of_locations": "45,000 (2024)",
+      "revenue": "RMB13.6 billion (2021)"
+    },
+    {
+      "rank": "2",
+      "country_of_origin": "United States",
+      "name": "McDonald's",
+      "number_of_locations": "41,822 (2023)",
+      "revenue": "US$23.2 billion (2021)"
+    },
+    {
+      "rank": "3",
+      "country_of_origin": "United States",
+      "name": "Starbucks",
+      "number_of_locations": "40,199 (2024)",
+      "revenue": "US$32.3 billion (2022)"
+    },
+    {
+      "rank": "4",
+      "country_of_origin": "United States",
+      "name": "Subway",
+      "number_of_locations": "37,000 (2022)",
+      "revenue": "US$16.1 billion (2020)"
+    },
+    {
+      "rank": "5",
+      "country_of_origin": "United States",
+      "name": "KFC",
+      "number_of_locations": "30,000+ (2024)",
+      "revenue": "US$31.3 billion (2021)"
+    },
+    {
+      "rank": "6",
+      "country_of_origin": "China",
+      "name": "Luckin Coffee",
+      "number_of_locations": "22,340 (2024)",
+      "revenue": "RMB13.3 billion (2022)"
+    },
+    {
+      "rank": "7",
+      "country_of_origin": "United States",
+      "name": "Domino's",
+      "number_of_locations": "20,591 (2024)",
+      "revenue": "US$12.9 billion (2021)"
+    },
+    {
+      "rank": "8",
+      "country_of_origin": "China",
+      "name": "Wallace",
+      "number_of_locations": "20,065 (2023)",
+      "revenue": ""
+    },
+    {
+      "rank": "9",
+      "country_of_origin": "United States",
+      "name": "Burger King",
+      "number_of_locations": "19,384 (2023)",
+      "revenue": "US$23.4 billion (2021)"
+    },
+    {
+      "rank": "10",
+      "country_of_origin": "United States",
+      "name": "Pizza Hut",
+      "number_of_locations": "18,866 (2023)",
+      "revenue": "US$17.7 billion (2021)"
+    },
+    {
+      "rank": "11",
+      "country_of_origin": "United States",
+      "name": "Dunkin' Donuts",
+      "number_of_locations": "12,700 (2021)",
+      "revenue": "US$1.37 billion (2020)"
+    },
+    {
+      "rank": "12",
+      "country_of_origin": "United States",
+      "name": "Krispy Kreme",
+      "number_of_locations": "10,427 (2021)",
+      "revenue": "US$1.38 billion (2021)"
+    },
+    {
+      "rank": "13",
+      "country_of_origin": "United States",
+      "name": "Hunt Brothers Pizza",
+      "number_of_locations": "10,000+ (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "14",
+      "country_of_origin": "China",
+      "name": "Cotti Coffee",
+      "number_of_locations": "10,000 (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "15",
+      "country_of_origin": "China",
+      "name": "Good me",
+      "number_of_locations": "9,675 (2024)",
+      "revenue": "RMB5.57 billion (2023)"
+    },
+    {
+      "rank": "16",
+      "country_of_origin": "China",
+      "name": "Tastien",
+      "number_of_locations": "9,600 (2025)",
+      "revenue": ""
+    },
+    {
+      "rank": "17",
+      "country_of_origin": "China",
+      "name": "Auntea Jenny",
+      "number_of_locations": "8,437 (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "18",
+      "country_of_origin": "United States",
+      "name": "Taco Bell",
+      "number_of_locations": "8,218 (2022)",
+      "revenue": "US$13.2 billion (2021)"
+    },
+    {
+      "rank": "19",
+      "country_of_origin": "China",
+      "name": "ChaPanda",
+      "number_of_locations": "8,016 (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "20",
+      "country_of_origin": "United States",
+      "name": "Baskin-Robbins",
+      "number_of_locations": "7,800+ (2023)",
+      "revenue": ""
+    },
+    {
+      "rank": "21",
+      "country_of_origin": "United States",
+      "name": "Wendy's",
+      "number_of_locations": "7,166 (2023)",
+      "revenue": "US$12.5 billion (2021)"
+    },
+    {
+      "rank": "22",
+      "country_of_origin": "United States",
+      "name": "Dairy Queen",
+      "number_of_locations": "7,500+ (2024)",
+      "revenue": "US$5 billion (2024)"
+    },
+    {
+      "rank": "23",
+      "country_of_origin": "China",
+      "name": "Chagee",
+      "number_of_locations": "6,000+ (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "24",
+      "country_of_origin": "China",
+      "name": "Tianlala",
+      "number_of_locations": "5,994 (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "25",
+      "country_of_origin": "Canada",
+      "name": "Tim Hortons",
+      "number_of_locations": "5,701 (2023)",
+      "revenue": "US$6.5 billion (2021)"
+    },
+    {
+      "rank": "26",
+      "country_of_origin": "United States",
+      "name": "Papa John's",
+      "number_of_locations": "5,650 (2021)",
+      "revenue": "US$2.0 billion (2021)"
+    },
+    {
+      "rank": "27",
+      "country_of_origin": "United States",
+      "name": "Little Caesars",
+      "number_of_locations": "5,463",
+      "revenue": ""
+    },
+    {
+      "rank": "28",
+      "country_of_origin": "United Kingdom",
+      "name": "Costa Coffee",
+      "number_of_locations": "4,000 (2021)",
+      "revenue": ""
+    },
+    {
+      "rank": "29",
+      "country_of_origin": "China",
+      "name": "Hey Tea",
+      "number_of_locations": "4,000 (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "30",
+      "country_of_origin": "United States",
+      "name": "Carl's Jr.",
+      "number_of_locations": "3,800+ (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "31",
+      "country_of_origin": "United States",
+      "name": "Popeyes",
+      "number_of_locations": "3,705 (2021)",
+      "revenue": "US$5.5 billion (2021)"
+    },
+    {
+      "rank": "32",
+      "country_of_origin": "United States",
+      "name": "Sonic Drive-In",
+      "number_of_locations": "3,493",
+      "revenue": ""
+    },
+    {
+      "rank": "33",
+      "country_of_origin": "United States",
+      "name": "Arby's",
+      "number_of_locations": "3,405+ (2022)",
+      "revenue": ""
+    },
+    {
+      "rank": "34",
+      "country_of_origin": "United States",
+      "name": "Chipotle Mexican Grill",
+      "number_of_locations": "2,962 (2021)",
+      "revenue": "US$7.5 billion (2021)"
+    },
+    {
+      "rank": "35",
+      "country_of_origin": "China",
+      "name": "Champion Pizza",
+      "number_of_locations": "2,945 (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "36",
+      "country_of_origin": "United States",
+      "name": "Chick-fil-A",
+      "number_of_locations": "2,700 (2021)",
+      "revenue": "US$18.8 billion (2022)"
+    },
+    {
+      "rank": "37",
+      "country_of_origin": "United States",
+      "name": "Jimmy John's",
+      "number_of_locations": "2,600+",
+      "revenue": ""
+    },
+    {
+      "rank": "38",
+      "country_of_origin": "China",
+      "name": "Dicos",
+      "number_of_locations": "2,500",
+      "revenue": ""
+    },
+    {
+      "rank": "39",
+      "country_of_origin": "United States",
+      "name": "Jersey Mike's Subs",
+      "number_of_locations": "2,500 (2021)",
+      "revenue": ""
+    },
+    {
+      "rank": "40",
+      "country_of_origin": "United States",
+      "name": "Jack in the Box",
+      "number_of_locations": "2,267 (2021)",
+      "revenue": "US$4.1 billion (2021)"
+    },
+    {
+      "rank": "41",
+      "country_of_origin": "United Kingdom",
+      "name": "Greggs",
+      "number_of_locations": "2,200 (2021)",
+      "revenue": "£1.2 billion (2021)"
+    },
+    {
+      "rank": "42",
+      "country_of_origin": "United States",
+      "name": "Panda Express",
+      "number_of_locations": "2,180+",
+      "revenue": ""
+    },
+    {
+      "rank": "43",
+      "country_of_origin": "Taiwan",
+      "name": "Ting Hsin International Group",
+      "number_of_locations": "2,160",
+      "revenue": ""
+    },
+    {
+      "rank": "45",
+      "country_of_origin": "United States",
+      "name": "Panera Bread",
+      "number_of_locations": "4,000 (2021)",
+      "revenue": ""
+    },
+    {
+      "rank": "44",
+      "country_of_origin": "South Korea",
+      "name": "Pelicana Chicken",
+      "number_of_locations": "2,000+",
+      "revenue": ""
+    },
+    {
+      "rank": "45",
+      "country_of_origin": "China",
+      "name": "Kwafood",
+      "number_of_locations": "2,000+ (2023)",
+      "revenue": ""
+    },
+    {
+      "rank": "46",
+      "country_of_origin": "Japan",
+      "name": "Sukiya",
+      "number_of_locations": "1,946 (2022)",
+      "revenue": "¥172.3 billion (2022)"
+    },
+    {
+      "rank": "47",
+      "country_of_origin": "China",
+      "name": "Naixue",
+      "number_of_locations": "1,926 (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "48",
+      "country_of_origin": "China",
+      "name": "Pala Hamburger",
+      "number_of_locations": "1,850",
+      "revenue": ""
+    },
+    {
+      "rank": "49",
+      "country_of_origin": "United States",
+      "name": "Auntie Anne's",
+      "number_of_locations": "1,800+",
+      "revenue": "US$230 million (2015)"
+    },
+    {
+      "rank": "50",
+      "country_of_origin": "United States",
+      "name": "Chester's",
+      "number_of_locations": "1,800+",
+      "revenue": ""
+    },
+    {
+      "rank": "51",
+      "country_of_origin": "Philippines",
+      "name": "Chooks-to-Go",
+      "number_of_locations": "1,800 (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "52",
+      "country_of_origin": "China",
+      "name": "Mi Bibimbap",
+      "number_of_locations": "1,800 (2025)",
+      "revenue": ""
+    },
+    {
+      "rank": "54",
+      "country_of_origin": "Philippines",
+      "name": "Jollibee",
+      "number_of_locations": "1,700 (2024)",
+      "revenue": ""
+    },
+    {
+      "rank": "55",
+      "country_of_origin": "United States",
+      "name": "Church's Texas Chicken",
+      "number_of_locations": "1,700",
+      "revenue": ""
+    },
+    {
+      "rank": "56",
+      "country_of_origin": "Japan",
+      "name": "MOS Burger",
+      "number_of_locations": "1,681 (2022)",
+      "revenue": "¥78.4 billion (2022)"
+    },
+    {
+      "rank": "57",
+      "country_of_origin": "United States",
+      "name": "Cinnabon",
+      "number_of_locations": "1,600+",
+      "revenue": ""
+    },
+    {
+      "rank": "58",
+      "country_of_origin": "United States",
+      "name": "WingStreet",
+      "number_of_locations": "1,600~",
+      "revenue": ""
+    },
+    {
+      "rank": "59",
+      "country_of_origin": "United States",
+      "name": "Five Guys",
+      "number_of_locations": "1,500+",
+      "revenue": ""
+    },
+    {
+      "rank": "60",
+      "country_of_origin": "United States",
+      "name": "Waffle House",
+      "number_of_locations": "1,500+",
+      "revenue": ""
+    },
+    {
+      "rank": "61",
+      "country_of_origin": "United States",
+      "name": "Quiznos",
+      "number_of_locations": "1,500",
+      "revenue": ""
+    },
+    {
+      "rank": "62",
+      "country_of_origin": "Japan",
+      "name": "Ichibanya",
+      "number_of_locations": "1,461 (2021)",
+      "revenue": "¥85.3 billion (2021)"
+    },
+    {
+      "rank": "63",
+      "country_of_origin": "United States",
+      "name": "Papa Murphy's",
+      "number_of_locations": "1,404 (2021)",
+      "revenue": ""
+    },
+    {
+      "rank": "64",
+      "country_of_origin": "China",
+      "name": "Home Original Chicken",
+      "number_of_locations": "1,404 (2024)",
+      "revenue": "CN¥5.65 billion (2023)"
+    },
+    {
+      "rank": "65",
+      "country_of_origin": "Spain",
+      "name": "Telepizza",
+      "number_of_locations": "1,376 (2021)",
+      "revenue": ""
+    },
+    {
+      "rank": "66",
+      "country_of_origin": "Indonesia",
+      "name": "Kebab Turki Baba Rafi",
+      "number_of_locations": "1,300",
+      "revenue": ""
+    },
+    {
+      "rank": "67",
+      "country_of_origin": "United States",
+      "name": "Firehouse Subs",
+      "number_of_locations": "1,213 (2021)",
+      "revenue": "US$1.1 billion (2021)"
+    },
+    {
+      "rank": "68",
+      "country_of_origin": "United States",
+      "name": "Long John Silver's",
+      "number_of_locations": "1,200",
+      "revenue": ""
+    },
+    {
+      "rank": "69",
+      "country_of_origin": "United States",
+      "name": "Buffalo Wild Wings",
+      "number_of_locations": "1,175",
+      "revenue": ""
+    },
+    {
+      "rank": "70",
+      "country_of_origin": "United States",
+      "name": "Orange Julius",
+      "number_of_locations": "1,164 (2024)",
+      "revenue": "US$21.3 million (2023)"
+    },
+    {
+      "rank": "71",
+      "country_of_origin": "Russia",
+      "name": "Dodo Pizza",
+      "number_of_locations": "1,118 (2023)",
+      "revenue": "5.1₽ billion (2021)"
+    },
+    {
+      "rank": "72",
+      "country_of_origin": "Brazil",
+      "name": "Bob's",
+      "number_of_locations": "1,080 (2021)",
+      "revenue": "R$ 1.1 billion (2021)"
+    },
+    {
+      "rank": "73",
+      "country_of_origin": "United States",
+      "name": "A&W Restaurants",
+      "number_of_locations": "1,028 (2021)",
+      "revenue": ""
+    },
+    {
+      "rank": "75",
+      "country_of_origin": "United States",
+      "name": "MrBeast Burger",
+      "number_of_locations": "1,000+",
+      "revenue": ""
+    },
+    {
+      "rank": "76",
+      "country_of_origin": "Taiwan",
+      "name": "85°C Bakery Cafe",
+      "number_of_locations": "1,000+",
+      "revenue": ""
+    },
+    {
+      "rank": "77",
+      "country_of_origin": "United States",
+      "name": "Zaxby's",
+      "number_of_locations": "941",
+      "revenue": ""
+    },
+    {
+      "rank": "78",
+      "country_of_origin": "United States",
+      "name": "Olive Garden",
+      "number_of_locations": "919 (2022)",
+      "revenue": "US$4.5 billion (2022)"
+    },
+    {
+      "rank": "79",
+      "country_of_origin": "South Africa",
+      "name": "Nando's",
+      "number_of_locations": "913 (2021)",
+      "revenue": ""
+    },
+    {
+      "rank": "80",
+      "country_of_origin": "United States",
+      "name": "Culver's",
+      "number_of_locations": "1000+",
+      "revenue": ""
+    },
+    {
+      "rank": "81",
+      "country_of_origin": "United States",
+      "name": "Checkers and Rally's",
+      "number_of_locations": "878+",
+      "revenue": ""
+    },
+    {
+      "rank": "82",
+      "country_of_origin": "United Kingdom",
+      "name": "Wetherspoons",
+      "number_of_locations": "861 (2021)",
+      "revenue": "£772.5 million (2021)"
+    },
+    {
+      "rank": "83",
+      "country_of_origin": "Russia",
+      "name": "Vkusno i Tochka",
+      "number_of_locations": "850",
+      "revenue": ""
+    },
+    {
+      "rank": "84",
+      "country_of_origin": "Singapore",
+      "name": "BreadTalk",
+      "number_of_locations": "836",
+      "revenue": ""
+    },
+    {
+      "rank": "85",
+      "country_of_origin": "United States",
+      "name": "Häagen-Dazs",
+      "number_of_locations": "832 (2022)",
+      "revenue": ""
+    },
+    {
+      "rank": "86",
+      "country_of_origin": "India",
+      "name": "Café Coffee Day",
+      "number_of_locations": "780 (2022)",
+      "revenue": "₹.5.0 billion (2022)"
+    },
+    {
+      "rank": "87",
+      "country_of_origin": "United States",
+      "name": "Bojangles' Famous Chicken 'n Biscuits",
+      "number_of_locations": "780",
+      "revenue": ""
+    },
+    {
+      "rank": "88",
+      "country_of_origin": "United States",
+      "name": "Whataburger",
+      "number_of_locations": "735",
+      "revenue": ""
+    },
+    {
+      "rank": "89",
+      "country_of_origin": "United Kingdom",
+      "name": "SFC Plus",
+      "number_of_locations": "700+",
+      "revenue": ""
+    },
+    {
+      "rank": "90",
+      "country_of_origin": "United States",
+      "name": "Moe's Southwest Grill",
+      "number_of_locations": "634+",
+      "revenue": ""
+    },
+    {
+      "rank": "91",
+      "country_of_origin": "Canada",
+      "name": "Pizza Pizza",
+      "number_of_locations": "630+",
+      "revenue": ""
+    },
+    {
+      "rank": "92",
+      "country_of_origin": "United States",
+      "name": "Qdoba",
+      "number_of_locations": "626+",
+      "revenue": ""
+    },
+    {
+      "rank": "93",
+      "country_of_origin": "United States",
+      "name": "Rita's Italian Ice",
+      "number_of_locations": "618+",
+      "revenue": ""
+    },
+    {
+      "rank": "94",
+      "country_of_origin": "Philippines",
+      "name": "Mang Inasal",
+      "number_of_locations": "600+",
+      "revenue": ""
+    },
+    {
+      "rank": "95",
+      "country_of_origin": "United States",
+      "name": "Wow Bao",
+      "number_of_locations": "600+",
+      "revenue": ""
+    },
+    {
+      "rank": "96",
+      "country_of_origin": "United States",
+      "name": "Smoothie King",
+      "number_of_locations": "600+",
+      "revenue": ""
+    },
+    {
+      "rank": "97",
+      "country_of_origin": "United States",
+      "name": "Hungry Howie's",
+      "number_of_locations": "530+",
+      "revenue": ""
+    },
+    {
+      "rank": "98",
+      "country_of_origin": "United States",
+      "name": "Sbarro",
+      "number_of_locations": "600+",
+      "revenue": ""
+    },
+    {
+      "rank": "99",
+      "country_of_origin": "United States",
+      "name": "Chuck E. Cheese",
+      "number_of_locations": "590",
+      "revenue": ""
+    },
+    {
+      "rank": "100",
+      "country_of_origin": "Canada",
+      "name": "Pita Pit",
+      "number_of_locations": "588",
+      "revenue": ""
+    },
+    {
+      "rank": "101",
+      "country_of_origin": "China",
+      "name": "Kungfu",
+      "number_of_locations": "566",
+      "revenue": ""
+    },
+    {
+      "rank": "102",
+      "country_of_origin": "Australia",
+      "name": "Boost Juice",
+      "number_of_locations": "550",
+      "revenue": ""
+    },
+    {
+      "rank": "103",
+      "country_of_origin": "United States",
+      "name": "Del Taco",
+      "number_of_locations": "547",
+      "revenue": ""
+    },
+    {
+      "rank": "104",
+      "country_of_origin": "United States",
+      "name": "Steak 'n Shake",
+      "number_of_locations": "544",
+      "revenue": ""
+    },
+    {
+      "rank": "105",
+      "country_of_origin": "South Africa",
+      "name": "Wimpy",
+      "number_of_locations": "543",
+      "revenue": ""
+    },
+    {
+      "rank": "106",
+      "country_of_origin": "South Africa",
+      "name": "Steers",
+      "number_of_locations": "525",
+      "revenue": ""
+    },
+    {
+      "rank": "107",
+      "country_of_origin": "United States",
+      "name": "Captain D's",
+      "number_of_locations": "520",
+      "revenue": ""
+    },
+    {
+      "rank": "108",
+      "country_of_origin": "United States",
+      "name": "Raising Cane's Chicken Fingers",
+      "number_of_locations": "515+",
+      "revenue": ""
+    },
+    {
+      "rank": "109",
+      "country_of_origin": "China",
+      "name": "Da Niang Dumpling",
+      "number_of_locations": "514",
+      "revenue": ""
+    },
+    {
+      "rank": "110",
+      "country_of_origin": "France",
+      "name": "Brioche Dorée",
+      "number_of_locations": "512+",
+      "revenue": ""
+    },
+    {
+      "rank": "111",
+      "country_of_origin": "United States",
+      "name": "Charleys Philly Steaks",
+      "number_of_locations": "510+",
+      "revenue": ""
+    },
+    {
+      "rank": "112",
+      "country_of_origin": "Finland",
+      "name": "Hesburger",
+      "number_of_locations": "508",
+      "revenue": ""
+    },
+    {
+      "rank": "113",
+      "country_of_origin": "United States",
+      "name": "Round Table Pizza",
+      "number_of_locations": "507+",
+      "revenue": ""
+    },
+    {
+      "rank": "114",
+      "country_of_origin": "United States",
+      "name": "Freddy's Frozen Custard & Steakburgers",
+      "number_of_locations": "500+",
+      "revenue": ""
+    },
+    {
+      "rank": "115",
+      "country_of_origin": "Philippines, United States",
+      "name": "Shakey's Pizza",
+      "number_of_locations": "500+",
+      "revenue": ""
+    },
+    {
+      "rank": "116",
+      "country_of_origin": "United States",
+      "name": "Shake Shack",
+      "number_of_locations": "500+",
+      "revenue": ""
+    }
+  ]
+}

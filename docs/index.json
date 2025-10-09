@@ -1,5 +1,16 @@
 [
   {
+    "category": "Agriculture & Food",
+    "datasets": [
+      {
+        "title": "Largest Fast-Food Restaurant Chains by Number of Locations Worldwide",
+        "subtitle": "A global ranking of major fast-food restaurant chains based on their total number of locations and revenue.",
+        "updated_at": "October 09, 2025 09:16 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/largest_fast_food_restaurant_chains.json"
+      }
+    ]
+  },
+  {
     "category": "Awards & Achievements",
     "datasets": [
       {
@@ -98,6 +109,12 @@
         "subtitle": "A ranking of leading automobile manufacturers worldwide based on their total market capitalization as of October 2025.",
         "updated_at": "October 08, 2025 10:54 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/energy-industry/largest_automakers_by_market_capitalization.json"
+      },
+      {
+        "title": "Oil Production by Country (Barrels per Day)",
+        "subtitle": "List of countries ranked by average daily crude oil production, including continent-wise distribution.",
+        "updated_at": "October 09, 2025 02:14 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/energy-industry/oil_production_by_country.json"
       },
       {
         "title": "Renewable Electricity Production by Country (TWh)",

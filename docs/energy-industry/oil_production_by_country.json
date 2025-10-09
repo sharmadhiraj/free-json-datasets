@@ -1,0 +1,601 @@
+{
+  "title": "Oil Production by Country (Barrels per Day)",
+  "subtitle": "List of countries ranked by average daily crude oil production, including continent-wise distribution.",
+  "updated_at": "October 09, 2025 02:14 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "United States",
+      "production": "13,401,000",
+      "continent": "North America"
+    },
+    {
+      "rank": 2,
+      "country": "Saudi Arabia (OPEC)",
+      "production": "10,815,700",
+      "continent": "Asia"
+    },
+    {
+      "rank": 3,
+      "country": "Russia (OPEC+)",
+      "production": "10,750,000",
+      "continent": "Asia/Europe"
+    },
+    {
+      "rank": 4,
+      "country": "Canada",
+      "production": "5,500,000",
+      "continent": "North America"
+    },
+    {
+      "rank": 5,
+      "country": "China",
+      "production": "4,715,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 6,
+      "country": "Iraq (OPEC)",
+      "production": "4,162,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 7,
+      "country": "Iran (OPEC)",
+      "production": "4,084,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 8,
+      "country": "United Arab Emirates (OPEC)",
+      "production": "3,770,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 9,
+      "country": "Brazil (OPEC+)",
+      "production": "3,630,000",
+      "continent": "South America"
+    },
+    {
+      "rank": 10,
+      "country": "Kuwait (OPEC)",
+      "production": "2,720,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 11,
+      "country": "Norway",
+      "production": "2,026,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 12,
+      "country": "Mexico (OPEC+)",
+      "production": "1,905,500",
+      "continent": "North America"
+    },
+    {
+      "rank": 13,
+      "country": "Kazakhstan (OPEC+)",
+      "production": "1,897,000",
+      "continent": "Asia/Europe"
+    },
+    {
+      "rank": 14,
+      "country": "Qatar",
+      "production": "1,815,100",
+      "continent": "Asia"
+    },
+    {
+      "rank": 15,
+      "country": "United Kingdom",
+      "production": "1,790,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 16,
+      "country": "Nigeria (OPEC)",
+      "production": "1,647,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 17,
+      "country": "Algeria (OPEC)",
+      "production": "1,415,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 18,
+      "country": "Libya (OPEC)",
+      "production": "1,255,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 19,
+      "country": "Angola",
+      "production": "1,235,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 20,
+      "country": "Oman (OPEC+)",
+      "production": "1,040,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 21,
+      "country": "Venezuela (OPEC)",
+      "production": "943,000",
+      "continent": "South America"
+    },
+    {
+      "rank": 22,
+      "country": "Indonesia",
+      "production": "845,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 23,
+      "country": "India",
+      "production": "772,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 24,
+      "country": "Colombia",
+      "production": "765,500",
+      "continent": "South America"
+    },
+    {
+      "rank": 25,
+      "country": "Azerbaijan (OPEC+)",
+      "production": "712,000",
+      "continent": "Asia/Europe"
+    },
+    {
+      "rank": 26,
+      "country": "Argentina",
+      "production": "700,000",
+      "continent": "South America"
+    },
+    {
+      "rank": 27,
+      "country": "Egypt",
+      "production": "661,000",
+      "continent": "Africa/Asia"
+    },
+    {
+      "rank": 28,
+      "country": "Guyana",
+      "production": "645,000",
+      "continent": "South America"
+    },
+    {
+      "rank": 29,
+      "country": "Malaysia (OPEC+)",
+      "production": "600,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 30,
+      "country": "Ecuador",
+      "production": "486,000",
+      "continent": "South America"
+    },
+    {
+      "rank": 31,
+      "country": "Australia",
+      "production": "445,000",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 32,
+      "country": "Thailand",
+      "production": "440,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 33,
+      "country": "Congo (OPEC)",
+      "production": "275,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 34,
+      "country": "Turkmenistan",
+      "production": "270,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 35,
+      "country": "Gabon (OPEC)",
+      "production": "226,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 36,
+      "country": "Sudan (OPEC+)",
+      "production": "200,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 37,
+      "country": "Vietnam",
+      "production": "190,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 38,
+      "country": "Ghana",
+      "production": "186,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 39,
+      "country": "Bahrain (OPEC+)",
+      "production": "185,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 40,
+      "country": "South Sudan (OPEC+)",
+      "production": "160,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 41,
+      "country": "Italy",
+      "production": "150,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 42,
+      "country": "Chad",
+      "production": "140,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 43,
+      "country": "Germany",
+      "production": "135,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 44,
+      "country": "Peru",
+      "production": "123,000",
+      "continent": "South America"
+    },
+    {
+      "rank": 45,
+      "country": "Pakistan",
+      "production": "101,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 46,
+      "country": "Brunei (OPEC+)",
+      "production": "100,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 47,
+      "country": "South Africa",
+      "production": "100,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 48,
+      "country": "Syria",
+      "production": "95,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 49,
+      "country": "Turkey",
+      "production": "89,000",
+      "continent": "Asia/Europe"
+    },
+    {
+      "rank": 50,
+      "country": "France",
+      "production": "82,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 51,
+      "country": "Equatorial Guinea (OPEC)",
+      "production": "79,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 52,
+      "country": "Netherlands",
+      "production": "76,100",
+      "continent": "Europe"
+    },
+    {
+      "rank": 53,
+      "country": "Romania",
+      "production": "75,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 54,
+      "country": "Yemen",
+      "production": "70,200",
+      "continent": "Asia"
+    },
+    {
+      "rank": 55,
+      "country": "Denmark",
+      "production": "70,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 56,
+      "country": "Uzbekistan",
+      "production": "67,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 57,
+      "country": "Bolivia",
+      "production": "66,000",
+      "continent": "South America"
+    },
+    {
+      "rank": 58,
+      "country": "Cameroon",
+      "production": "65,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 59,
+      "country": "Ukraine",
+      "production": "60,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 60,
+      "country": "Trinidad and Tobago",
+      "production": "54,000",
+      "continent": "North America"
+    },
+    {
+      "rank": 61,
+      "country": "Spain",
+      "production": "50,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 62,
+      "country": "Tunisia",
+      "production": "45,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 63,
+      "country": "Cuba",
+      "production": "40,000",
+      "continent": "North America"
+    },
+    {
+      "rank": 64,
+      "country": "South Korea",
+      "production": "38,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 65,
+      "country": "Belarus",
+      "production": "35,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 66,
+      "country": "Ivory Coast",
+      "production": "35,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 67,
+      "country": "Hungary",
+      "production": "35,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 68,
+      "country": "Papua New Guinea",
+      "production": "31,000",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 69,
+      "country": "Senegal",
+      "production": "30,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 70,
+      "country": "Poland",
+      "production": "28,500",
+      "continent": "Europe"
+    },
+    {
+      "rank": 71,
+      "country": "DR Congo",
+      "production": "22,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 72,
+      "country": "Austria",
+      "production": "20,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 73,
+      "country": "Mongolia",
+      "production": "17,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 74,
+      "country": "Israel",
+      "production": "15,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 75,
+      "country": "Suriname",
+      "production": "15,000",
+      "continent": "South America"
+    },
+    {
+      "rank": 76,
+      "country": "Albania",
+      "production": "14,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 77,
+      "country": "New Zealand",
+      "production": "14,000",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 78,
+      "country": "Serbia",
+      "production": "13,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 79,
+      "country": "Philippines",
+      "production": "10,500",
+      "continent": "Asia"
+    },
+    {
+      "rank": 80,
+      "country": "Croatia",
+      "production": "10,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 81,
+      "country": "Myanmar",
+      "production": "8,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 82,
+      "country": "Kyrgyzstan",
+      "production": "6,200",
+      "continent": "Asia"
+    },
+    {
+      "rank": 83,
+      "country": "Guatemala",
+      "production": "6,000",
+      "continent": "North America"
+    },
+    {
+      "rank": 84,
+      "country": "Niger",
+      "production": "6,000",
+      "continent": "Africa"
+    },
+    {
+      "rank": 85,
+      "country": "Timor-Leste",
+      "production": "5,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 86,
+      "country": "Japan",
+      "production": "3,500",
+      "continent": "Asia"
+    },
+    {
+      "rank": 87,
+      "country": "Bangladesh",
+      "production": "3,000",
+      "continent": "Asia"
+    },
+    {
+      "rank": 88,
+      "country": "Chile",
+      "production": "2,300",
+      "continent": "South America"
+    },
+    {
+      "rank": 89,
+      "country": "Greece",
+      "production": "1,500",
+      "continent": "Europe"
+    },
+    {
+      "rank": 90,
+      "country": "Czech Republic",
+      "production": "1,400",
+      "continent": "Europe"
+    },
+    {
+      "rank": 91,
+      "country": "Barbados",
+      "production": "1,000",
+      "continent": "North America"
+    },
+    {
+      "rank": 92,
+      "country": "Bulgaria",
+      "production": "1,000",
+      "continent": "Europe"
+    },
+    {
+      "rank": 93,
+      "country": "Belize",
+      "production": "800",
+      "continent": "North America"
+    },
+    {
+      "rank": 94,
+      "country": "Lithuania",
+      "production": "700",
+      "continent": "Europe"
+    },
+    {
+      "rank": 95,
+      "country": "Tajikistan",
+      "production": "300",
+      "continent": "Asia"
+    },
+    {
+      "rank": 96,
+      "country": "Georgia",
+      "production": "200",
+      "continent": "Europe/Asia"
+    },
+    {
+      "rank": 97,
+      "country": "Taiwan",
+      "production": "200",
+      "continent": "Asia"
+    },
+    {
+      "rank": 98,
+      "country": "Jordan",
+      "production": "100",
+      "continent": "Asia"
+    },
+    {
+      "rank": 99,
+      "country": "Slovakia",
+      "production": "100",
+      "continent": "Europe"
+    }
+  ]
+}

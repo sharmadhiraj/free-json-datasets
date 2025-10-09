@@ -30,6 +30,11 @@ Each dataset follows this JSON format:
 
 ## Datasets
 
+### Agriculture & Food
+
+- [**Largest Fast-Food Restaurant Chains by Number of Locations Worldwide**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/agriculture-food/largest_fast_food_restaurant_chains.json)  
+  A global ranking of major fast-food restaurant chains based on their total number of locations and revenue.
+
 ### Awards & Achievements
 
 - [**Nobel Prizes 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/awards-achievements/nobel_prizes.json)  
@@ -71,6 +76,8 @@ Each dataset follows this JSON format:
 
 - [**World's Largest Automakers by Market Capitalization – October 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/energy-industry/largest_automakers_by_market_capitalization.json)  
   A ranking of leading automobile manufacturers worldwide based on their total market capitalization as of October 2025.
+- [**Oil Production by Country (Barrels per Day)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/energy-industry/oil_production_by_country.json)  
+  List of countries ranked by average daily crude oil production, including continent-wise distribution.
 - [**Renewable Electricity Production by Country (TWh)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/energy-industry/renewable_electricity_production_by_country.json)  
   Breakdown of renewable energy generation by source (hydro, wind, solar, biomass, geothermal) by country and year.
 
