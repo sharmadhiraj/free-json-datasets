@@ -3,6 +3,12 @@
     "category": "Agriculture & Food",
     "datasets": [
       {
+        "title": "Most Valuable Crops and Livestock Products Worldwide",
+        "subtitle": "A global ranking of top agricultural and livestock products by total production value, quantity, and leading producing countries.",
+        "updated_at": "October 13, 2025 03:18 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/global_gross_production_of_crops_livestock.json"
+      },
+      {
         "title": "Largest Fast-Food Restaurant Chains by Number of Locations Worldwide",
         "subtitle": "A global ranking of major fast-food restaurant chains based on their total number of locations and revenue.",
         "updated_at": "October 09, 2025 09:16 AM UTC",

@@ -1,0 +1,457 @@
+{
+  "title": "Most Valuable Crops and Livestock Products Worldwide",
+  "subtitle": "A global ranking of top agricultural and livestock products by total production value, quantity, and leading producing countries.",
+  "updated_at": "October 13, 2025 03:18 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "product": "Rice, paddy",
+      "total_value_usd_billion": "$332",
+      "production_volume_metric_tons": "751,885,117",
+      "value_per_metric_ton_usd": "$442",
+      "top_country_value_usd_billion": "$117",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 2,
+      "product": "Pig, meat",
+      "total_value_usd_billion": "$280",
+      "production_volume_metric_tons": "118,956,327",
+      "value_per_metric_ton_usd": "$2,354",
+      "top_country_value_usd_billion": "$167",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 3,
+      "product": "Cattle, meat",
+      "total_value_usd_billion": "$269",
+      "production_volume_metric_tons": "64,568,004",
+      "value_per_metric_ton_usd": "$4,166",
+      "top_country_value_usd_billion": "$52.8",
+      "top_producing_country": "United States"
+    },
+    {
+      "rank": 4,
+      "product": "Cow's milk, whole fresh",
+      "total_value_usd_billion": "$238",
+      "production_volume_metric_tons": "665,596,536",
+      "value_per_metric_ton_usd": "$358",
+      "top_country_value_usd_billion": "$34.7",
+      "top_producing_country": "United States"
+    },
+    {
+      "rank": 5,
+      "product": "Chicken, meat",
+      "total_value_usd_billion": "$192",
+      "production_volume_metric_tons": "106,638,508",
+      "value_per_metric_ton_usd": "$1,800",
+      "top_country_value_usd_billion": "$27.4",
+      "top_producing_country": "United States"
+    },
+    {
+      "rank": 6,
+      "product": "Maize (corn)",
+      "total_value_usd_billion": "$191",
+      "production_volume_metric_tons": "1,126,990,585",
+      "value_per_metric_ton_usd": "$169",
+      "top_country_value_usd_billion": "$61.2",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 7,
+      "product": "Wheat",
+      "total_value_usd_billion": "$168",
+      "production_volume_metric_tons": "748,392,150",
+      "value_per_metric_ton_usd": "$224",
+      "top_country_value_usd_billion": "$50.7",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 8,
+      "product": "Soybeans",
+      "total_value_usd_billion": "$107",
+      "production_volume_metric_tons": "335,613,801",
+      "value_per_metric_ton_usd": "$319",
+      "top_country_value_usd_billion": "$40.7",
+      "top_producing_country": "United States"
+    },
+    {
+      "rank": 9,
+      "product": "Eggs, hen, in shell",
+      "total_value_usd_billion": "$93.6",
+      "production_volume_metric_tons": "74,180,272",
+      "value_per_metric_ton_usd": "$1,262",
+      "top_country_value_usd_billion": "$26.1",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 10,
+      "product": "Potatoes",
+      "total_value_usd_billion": "$92.7",
+      "production_volume_metric_tons": "356,952,488",
+      "value_per_metric_ton_usd": "$260",
+      "top_country_value_usd_billion": "$32.2",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 11,
+      "product": "Vegetables, not elsewhere specified",
+      "total_value_usd_billion": "$89.1",
+      "production_volume_metric_tons": "292,920,885",
+      "value_per_metric_ton_usd": "$304",
+      "top_country_value_usd_billion": "$53.6",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 12,
+      "product": "Tomatoes",
+      "total_value_usd_billion": "$87.9",
+      "production_volume_metric_tons": "178,158,747",
+      "value_per_metric_ton_usd": "$493",
+      "top_country_value_usd_billion": "$28.9",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 13,
+      "product": "Sugarcane",
+      "total_value_usd_billion": "$87.3",
+      "production_volume_metric_tons": "1,874,611,396",
+      "value_per_metric_ton_usd": "$47",
+      "top_country_value_usd_billion": "$40.9",
+      "top_producing_country": "Brazil"
+    },
+    {
+      "rank": 14,
+      "product": "Grapes",
+      "total_value_usd_billion": "$67.8",
+      "production_volume_metric_tons": "74,089,693",
+      "value_per_metric_ton_usd": "$915",
+      "top_country_value_usd_billion": "$14.4",
+      "top_producing_country": "France"
+    },
+    {
+      "rank": 15,
+      "product": "Seed cotton",
+      "total_value_usd_billion": "$56.7",
+      "production_volume_metric_tons": "67,622,193",
+      "value_per_metric_ton_usd": "$838",
+      "top_country_value_usd_billion": "$21.4",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 16,
+      "product": "Buffalo milk, whole fresh",
+      "total_value_usd_billion": "$56.4",
+      "production_volume_metric_tons": "115,204,379",
+      "value_per_metric_ton_usd": "$490",
+      "top_country_value_usd_billion": "$43.1",
+      "top_producing_country": "India"
+    },
+    {
+      "rank": 17,
+      "product": "Cotton lint",
+      "total_value_usd_billion": "$50.5",
+      "production_volume_metric_tons": "23,274,797",
+      "value_per_metric_ton_usd": "$2,170",
+      "top_country_value_usd_billion": "$18.6",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 18,
+      "product": "Apples",
+      "total_value_usd_billion": "$45.9",
+      "production_volume_metric_tons": "84,743,988",
+      "value_per_metric_ton_usd": "$542",
+      "top_country_value_usd_billion": "$20.8",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 19,
+      "product": "Onions, dry",
+      "total_value_usd_billion": "$42.1",
+      "production_volume_metric_tons": "94,838,690",
+      "value_per_metric_ton_usd": "$444",
+      "top_country_value_usd_billion": "$23.9",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 20,
+      "product": "Sheep, meat",
+      "total_value_usd_billion": "$40.4",
+      "production_volume_metric_tons": "9,567,978",
+      "value_per_metric_ton_usd": "$4,222",
+      "top_country_value_usd_billion": "$13.8",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 21,
+      "product": "Cucumbers and gherkins",
+      "total_value_usd_billion": "$40.2",
+      "production_volume_metric_tons": "79,844,838",
+      "value_per_metric_ton_usd": "$503",
+      "top_country_value_usd_billion": "$29.6",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 22,
+      "product": "Garlic",
+      "total_value_usd_billion": "$39.3",
+      "production_volume_metric_tons": "26,821,718",
+      "value_per_metric_ton_usd": "$1,465",
+      "top_country_value_usd_billion": "$31.5",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 23,
+      "product": "Bananas",
+      "total_value_usd_billion": "$38.5",
+      "production_volume_metric_tons": "112,627,980",
+      "value_per_metric_ton_usd": "$342",
+      "top_country_value_usd_billion": "$8.13",
+      "top_producing_country": "India"
+    },
+    {
+      "rank": 24,
+      "product": "Goat, meat",
+      "total_value_usd_billion": "$36.4",
+      "production_volume_metric_tons": "5,794,581",
+      "value_per_metric_ton_usd": "$6,282",
+      "top_country_value_usd_billion": "$25.3",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 25,
+      "product": "Oil palm fruit",
+      "total_value_usd_billion": "$35.7",
+      "production_volume_metric_tons": "255,567,218",
+      "value_per_metric_ton_usd": "$140",
+      "top_country_value_usd_billion": "$17.7",
+      "top_producing_country": "Indonesia"
+    },
+    {
+      "rank": 26,
+      "product": "Cassava (yuca)",
+      "total_value_usd_billion": "$34.3",
+      "production_volume_metric_tons": "288,497,460",
+      "value_per_metric_ton_usd": "$119",
+      "top_country_value_usd_billion": "$4.11",
+      "top_producing_country": "Indonesia"
+    },
+    {
+      "rank": 27,
+      "product": "Palm oil",
+      "total_value_usd_billion": "$34.0",
+      "production_volume_metric_tons": "58,156,889",
+      "value_per_metric_ton_usd": "$585",
+      "top_country_value_usd_billion": "$16.2",
+      "top_producing_country": "Indonesia"
+    },
+    {
+      "rank": 28,
+      "product": "Watermelons",
+      "total_value_usd_billion": "$33.9",
+      "production_volume_metric_tons": "102,414,316",
+      "value_per_metric_ton_usd": "$331",
+      "top_country_value_usd_billion": "$26.1",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 29,
+      "product": "Rapeseed",
+      "total_value_usd_billion": "$31.7",
+      "production_volume_metric_tons": "68,113,132",
+      "value_per_metric_ton_usd": "$465",
+      "top_country_value_usd_billion": "$10.4",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 30,
+      "product": "Mangos, mangosteens, guavas",
+      "total_value_usd_billion": "$30.0",
+      "production_volume_metric_tons": "49,523,191",
+      "value_per_metric_ton_usd": "$606",
+      "top_country_value_usd_billion": "$14.1",
+      "top_producing_country": "India"
+    },
+    {
+      "rank": 31,
+      "product": "Eggs, other bird, in shell",
+      "total_value_usd_billion": "$27.9",
+      "production_volume_metric_tons": "6,108,690",
+      "value_per_metric_ton_usd": "$4,567",
+      "top_country_value_usd_billion": "$25.6",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 32,
+      "product": "Groundnuts, with shell",
+      "total_value_usd_billion": "$26.9",
+      "production_volume_metric_tons": "44,543,757",
+      "value_per_metric_ton_usd": "$604",
+      "top_country_value_usd_billion": "$16.1",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 33,
+      "product": "Chilis and peppers, green",
+      "total_value_usd_billion": "$26.3",
+      "production_volume_metric_tons": "34,567,250",
+      "value_per_metric_ton_usd": "$761",
+      "top_country_value_usd_billion": "$9.95",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 34,
+      "product": "Sweet potatoes",
+      "total_value_usd_billion": "$26.1",
+      "production_volume_metric_tons": "89,985,845",
+      "value_per_metric_ton_usd": "$290",
+      "top_country_value_usd_billion": "$17.8",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 35,
+      "product": "Barley",
+      "total_value_usd_billion": "$22.9",
+      "production_volume_metric_tons": "145,906,773",
+      "value_per_metric_ton_usd": "$157",
+      "top_country_value_usd_billion": "$2.08",
+      "top_producing_country": "Russia"
+    },
+    {
+      "rank": 36,
+      "product": "Oranges",
+      "total_value_usd_billion": "$22.6",
+      "production_volume_metric_tons": "72,771,146",
+      "value_per_metric_ton_usd": "$311",
+      "top_country_value_usd_billion": "$5.62",
+      "top_producing_country": "India"
+    },
+    {
+      "rank": 37,
+      "product": "Eggplants (aubergines)",
+      "total_value_usd_billion": "$21.6",
+      "production_volume_metric_tons": "51,302,856",
+      "value_per_metric_ton_usd": "$421",
+      "top_country_value_usd_billion": "$16.8",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 38,
+      "product": "Olives",
+      "total_value_usd_billion": "$19.9",
+      "production_volume_metric_tons": "19,650,821",
+      "value_per_metric_ton_usd": "$1,013",
+      "top_country_value_usd_billion": "$5.5",
+      "top_producing_country": "Greece"
+    },
+    {
+      "rank": 39,
+      "product": "Sunflower seeds",
+      "total_value_usd_billion": "$19.4",
+      "production_volume_metric_tons": "47,401,997",
+      "value_per_metric_ton_usd": "$409",
+      "top_country_value_usd_billion": "$4.54",
+      "top_producing_country": "Ukraine"
+    },
+    {
+      "rank": 40,
+      "product": "Tangerines, mandarins, clementines, satsumas",
+      "total_value_usd_billion": "$19.1",
+      "production_volume_metric_tons": "32,304,732",
+      "value_per_metric_ton_usd": "$591",
+      "top_country_value_usd_billion": "$12.2",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 41,
+      "product": "Cabbages and other brassicas",
+      "total_value_usd_billion": "$19.1",
+      "production_volume_metric_tons": "69,790,058",
+      "value_per_metric_ton_usd": "$274",
+      "top_country_value_usd_billion": "$9.3",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 42,
+      "product": "Spinach",
+      "total_value_usd_billion": "$18.0",
+      "production_volume_metric_tons": "26,763,044",
+      "value_per_metric_ton_usd": "$673",
+      "top_country_value_usd_billion": "$15.4",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 43,
+      "product": "Strawberries",
+      "total_value_usd_billion": "$17.7",
+      "production_volume_metric_tons": "7,901,882",
+      "value_per_metric_ton_usd": "$2,240",
+      "top_country_value_usd_billion": "$6.49",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 44,
+      "product": "Peaches, nectarines",
+      "total_value_usd_billion": "$17.1",
+      "production_volume_metric_tons": "24,040,295",
+      "value_per_metric_ton_usd": "$711",
+      "top_country_value_usd_billion": "$9.98",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 45,
+      "product": "Tobacco, unmanufactured",
+      "total_value_usd_billion": "$16.2",
+      "production_volume_metric_tons": "6,361,725",
+      "value_per_metric_ton_usd": "$2,546",
+      "top_country_value_usd_billion": "$8.27",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 46,
+      "product": "Coffee, green",
+      "total_value_usd_billion": "$16.1",
+      "production_volume_metric_tons": "9,353,937",
+      "value_per_metric_ton_usd": "$1,721",
+      "top_country_value_usd_billion": "$6.75",
+      "top_producing_country": "Brazil"
+    },
+    {
+      "rank": 47,
+      "product": "Lettuce, chicory",
+      "total_value_usd_billion": "$15.7",
+      "production_volume_metric_tons": "27,440,987",
+      "value_per_metric_ton_usd": "$572",
+      "top_country_value_usd_billion": "$8.33",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 48,
+      "product": "Rubber, natural",
+      "total_value_usd_billion": "$15.3",
+      "production_volume_metric_tons": "13,449,190",
+      "value_per_metric_ton_usd": "$1,138",
+      "top_country_value_usd_billion": "$6.19",
+      "top_producing_country": "Thailand"
+    },
+    {
+      "rank": 49,
+      "product": "Tea",
+      "total_value_usd_billion": "$15.2",
+      "production_volume_metric_tons": "5,859,841",
+      "value_per_metric_ton_usd": "$2,594",
+      "top_country_value_usd_billion": "$11.3",
+      "top_producing_country": "Mainland China"
+    },
+    {
+      "rank": 50,
+      "product": "Peas, green",
+      "total_value_usd_billion": "$14.7",
+      "production_volume_metric_tons": "19,854,943",
+      "value_per_metric_ton_usd": "$740",
+      "top_country_value_usd_billion": "$9.68",
+      "top_producing_country": "Mainland China"
+    }
+  ]
+}
