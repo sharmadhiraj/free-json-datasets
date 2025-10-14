@@ -1,0 +1,107 @@
+{
+  "title": "Top Coffee-Producing Countries and Their Global Share",
+  "subtitle": "List of the leading coffee-producing nations, their major growing regions, and their percentage contribution to global coffee production.",
+  "updated_at": "October 14, 2025 02:34 AM UTC",
+  "data": [
+    {
+      "country": "Brazil",
+      "major_regions": "Minas Gerais, Espírito Santo, São Paulo, Bahia, Paraná",
+      "percentage_of_world_production": "37.4%"
+    },
+    {
+      "country": "Vietnam",
+      "major_regions": "Central Highlands (Dak Lak, Lam Dong, Gia Lai, Kon Tum)",
+      "percentage_of_world_production": "17.6%"
+    },
+    {
+      "country": "Colombia",
+      "major_regions": "Antioquia, Huila, Tolima, Nariño, Cauca, Santander",
+      "percentage_of_world_production": "6.5%"
+    },
+    {
+      "country": "Indonesia",
+      "major_regions": "Sumatra, Java, Sulawesi, Bali, Flores, Papua",
+      "percentage_of_world_production": "5.5%"
+    },
+    {
+      "country": "Ethiopia",
+      "major_regions": "Sidamo, Yirgacheffe, Harrar, Limu, Jimma",
+      "percentage_of_world_production": "4.7%"
+    },
+    {
+      "country": "Uganda",
+      "major_regions": "Bugisu, West Nile, Central Uganda",
+      "percentage_of_world_production": "3.9%"
+    },
+    {
+      "country": "India",
+      "major_regions": "Karnataka, Kerala, Tamil Nadu, Andhra Pradesh",
+      "percentage_of_world_production": "3.3%"
+    },
+    {
+      "country": "Honduras",
+      "major_regions": "Santa Bárbara, Copán, Lempira, Ocotepeque",
+      "percentage_of_world_production": "3.1%"
+    },
+    {
+      "country": "Peru",
+      "major_regions": "Cajamarca, San Martin, Junín, Cusco, Puno",
+      "percentage_of_world_production": "2.4%"
+    },
+    {
+      "country": "Mexico",
+      "major_regions": "Chiapas, Veracruz, Oaxaca, Puebla, Guerrero",
+      "percentage_of_world_production": "2.3%"
+    },
+    {
+      "country": "Guatemala",
+      "major_regions": "Huehuetenango, Antigua, Atitlán, Cobán, Fraijanes Plateau",
+      "percentage_of_world_production": "1.9%"
+    },
+    {
+      "country": "Nicaragua",
+      "major_regions": "Jinotega, Matagalpa, Nueva Segovia",
+      "percentage_of_world_production": "1.5%"
+    },
+    {
+      "country": "China",
+      "major_regions": "Yunnan, Fujian, Hainan",
+      "percentage_of_world_production": "1.0%"
+    },
+    {
+      "country": "Malaysia",
+      "major_regions": "Sabah, Sarawak",
+      "percentage_of_world_production": "0.8%"
+    },
+    {
+      "country": "Costa Rica",
+      "major_regions": "Central Valley, Tarrazú, West Valley, Tres Ríos",
+      "percentage_of_world_production": "0.8%"
+    },
+    {
+      "country": "Côte D'Ivoire",
+      "major_regions": "Western and Central Regions (Soubre, Man, Daloa)",
+      "percentage_of_world_production": "0.8%"
+    },
+    {
+      "country": "Tanzania",
+      "major_regions": "Northern Highlands (Kilimanjaro, Arusha), Mbeya, Ruvuma",
+      "percentage_of_world_production": "0.8%"
+    },
+    {
+      "country": "Papua New Guinea",
+      "major_regions": "Eastern Highlands, Western Highlands, Simbu, Morobe",
+      "percentage_of_world_production": "0.5%"
+    },
+    {
+      "country": "Kenya",
+      "major_regions": "Mount Kenya Region (Nyeri, Kirinyaga, Embu, Murang’a)",
+      "percentage_of_world_production": "0.5%"
+    },
+    {
+      "country": "Thailand",
+      "major_regions": "Northern Region (Chiang Mai, Chiang Rai)",
+      "percentage_of_world_production": "0.4%"
+    }
+  ]
+}

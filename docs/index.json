@@ -13,6 +13,12 @@
         "subtitle": "A global ranking of major fast-food restaurant chains based on their total number of locations and revenue.",
         "updated_at": "October 09, 2025 09:16 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/largest_fast_food_restaurant_chains.json"
+      },
+      {
+        "title": "Top Coffee-Producing Countries and Their Global Share",
+        "subtitle": "List of the leading coffee-producing nations, their major growing regions, and their percentage contribution to global coffee production.",
+        "updated_at": "October 14, 2025 02:34 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/top_coffee_producing_countries.json"
       }
     ]
   },
@@ -287,6 +293,17 @@
         "subtitle": "Popularity rankings of programming languages as of August 2025",
         "updated_at": "August 20, 2025 09:42 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/popular_programming_languages.json"
+      }
+    ]
+  },
+  {
+    "category": "Transportation & Infrastructure",
+    "datasets": [
+      {
+        "title": "World’s Busiest Container Ports by Annual Throughput",
+        "subtitle": "Ranking of major global container ports based on container traffic (in thousand TEUs) handled per year.",
+        "updated_at": "October 14, 2025 02:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/worlds_busiest_container_ports.json"
       }
     ]
   }

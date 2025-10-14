@@ -36,6 +36,8 @@ Each dataset follows this JSON format:
   A global ranking of top agricultural and livestock products by total production value, quantity, and leading producing countries.
 - [**Largest Fast-Food Restaurant Chains by Number of Locations Worldwide**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/agriculture-food/largest_fast_food_restaurant_chains.json)  
   A global ranking of major fast-food restaurant chains based on their total number of locations and revenue.
+- [**Top Coffee-Producing Countries and Their Global Share**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/agriculture-food/top_coffee_producing_countries.json)  
+  List of the leading coffee-producing nations, their major growing regions, and their percentage contribution to global coffee production.
 
 ### Awards & Achievements
 
@@ -146,4 +148,9 @@ Each dataset follows this JSON format:
   Major platforms, their companies, origins, launch years, and active user statistics (2025)
 - [**TIOBE Index - Top Programming Languages (August 2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/popular_programming_languages.json)  
   Popularity rankings of programming languages as of August 2025
+
+### Transportation & Infrastructure
+
+- [**World’s Busiest Container Ports by Annual Throughput**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/worlds_busiest_container_ports.json)  
+  Ranking of major global container ports based on container traffic (in thousand TEUs) handled per year.
 
