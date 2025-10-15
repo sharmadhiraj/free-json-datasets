@@ -300,6 +300,12 @@
     "category": "Transportation & Infrastructure",
     "datasets": [
       {
+        "title": "Countries by Rail Transport Network Size",
+        "subtitle": "Railway length, electrification, density, ownership, and related statistics by country",
+        "updated_at": "October 15, 2025 10:41 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/countries_by_rail_transport_network_size.json"
+      },
+      {
         "title": "World’s Busiest Container Ports by Annual Throughput",
         "subtitle": "Ranking of major global container ports based on container traffic (in thousand TEUs) handled per year.",
         "updated_at": "October 14, 2025 02:59 AM UTC",

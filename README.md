@@ -151,6 +151,8 @@ Each dataset follows this JSON format:
 
 ### Transportation & Infrastructure
 
+- [**Countries by Rail Transport Network Size**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/countries_by_rail_transport_network_size.json)  
+  Railway length, electrification, density, ownership, and related statistics by country
 - [**World’s Busiest Container Ports by Annual Throughput**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/worlds_busiest_container_ports.json)  
   Ranking of major global container ports based on container traffic (in thousand TEUs) handled per year.
 
