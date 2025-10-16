@@ -151,6 +151,8 @@ Each dataset follows this JSON format:
 
 ### Transportation & Infrastructure
 
+- [**Busiest Airports by Passenger Traffic in 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/busiest_airports_by_passenger_traffic.json)  
+  Major international airports ranked by total passenger traffic, location, and year-over-year change
 - [**Countries by Rail Transport Network Size**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/countries_by_rail_transport_network_size.json)  
   Railway length, electrification, density, ownership, and related statistics by country
 - [**World’s Busiest Container Ports by Annual Throughput**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/worlds_busiest_container_ports.json)  

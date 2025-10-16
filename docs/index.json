@@ -300,6 +300,12 @@
     "category": "Transportation & Infrastructure",
     "datasets": [
       {
+        "title": "Busiest Airports by Passenger Traffic in 2024",
+        "subtitle": "Major international airports ranked by total passenger traffic, location, and year-over-year change",
+        "updated_at": "October 16, 2025 02:28 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/busiest_airports_by_passenger_traffic.json"
+      },
+      {
         "title": "Countries by Rail Transport Network Size",
         "subtitle": "Railway length, electrification, density, ownership, and related statistics by country",
         "updated_at": "October 15, 2025 10:41 AM UTC",

@@ -1,0 +1,507 @@
+{
+  "title": "Busiest Airports by Passenger Traffic in 2024",
+  "subtitle": "Major international airports ranked by total passenger traffic, location, and year-over-year change",
+  "updated_at": "October 16, 2025 02:28 AM UTC",
+  "data": [
+    {
+      "rank": "1.",
+      "airport_name": "Hartsfield–Jackson Atlanta International Airport",
+      "city_or_location": "Atlanta, Georgia",
+      "country": "United States",
+      "iata_icao_code": "ATL/KATL",
+      "total_passengers": "108,067,766",
+      "rank_change": "",
+      "percent_change": "3.3%"
+    },
+    {
+      "rank": "2.",
+      "airport_name": "Dubai International Airport",
+      "city_or_location": "Garhoud, Dubai, Dubai",
+      "country": "United Arab Emirates",
+      "iata_icao_code": "DXB/OMDB",
+      "total_passengers": "92,300,000",
+      "rank_change": "",
+      "percent_change": "6.2%"
+    },
+    {
+      "rank": "3.",
+      "airport_name": "Dallas Fort Worth International Airport",
+      "city_or_location": "Dallas–Fort Worth, Texas",
+      "country": "United States",
+      "iata_icao_code": "DFW/KDFW",
+      "total_passengers": "87,817,864",
+      "rank_change": "",
+      "percent_change": "7.4%"
+    },
+    {
+      "rank": "4.",
+      "airport_name": "Tokyo Haneda Airport",
+      "city_or_location": "Ōta, Tokyo",
+      "country": "Japan",
+      "iata_icao_code": "HND/RJTT",
+      "total_passengers": "85,000,000",
+      "rank_change": "1",
+      "percent_change": "8.0%"
+    },
+    {
+      "rank": "5.",
+      "airport_name": "Heathrow Airport",
+      "city_or_location": "Hillingdon, London",
+      "country": "United Kingdom",
+      "iata_icao_code": "LHR/EGLL",
+      "total_passengers": "83,882,140",
+      "rank_change": "1",
+      "percent_change": "5.9%"
+    },
+    {
+      "rank": "6.",
+      "airport_name": "Denver International Airport",
+      "city_or_location": "Denver, Colorado",
+      "country": "United States",
+      "iata_icao_code": "DEN/KDEN",
+      "total_passengers": "82,358,744",
+      "rank_change": "",
+      "percent_change": "5.8%"
+    },
+    {
+      "rank": "7.",
+      "airport_name": "Istanbul Airport",
+      "city_or_location": "Arnavutköy, Istanbul",
+      "country": "Turkey",
+      "iata_icao_code": "IST/LTFM",
+      "total_passengers": "80,430,740",
+      "rank_change": "",
+      "percent_change": "3.9%"
+    },
+    {
+      "rank": "8.",
+      "airport_name": "O'Hare International Airport",
+      "city_or_location": "Chicago, Illinois",
+      "country": "United States",
+      "iata_icao_code": "ORD/KORD",
+      "total_passengers": "80,043,050",
+      "rank_change": "1",
+      "percent_change": "8.6%"
+    },
+    {
+      "rank": "9.",
+      "airport_name": "Indira Gandhi International Airport",
+      "city_or_location": "Palam, Delhi",
+      "country": "India",
+      "iata_icao_code": "DEL/VIDP",
+      "total_passengers": "77,820,834",
+      "rank_change": "1",
+      "percent_change": "7.8%"
+    },
+    {
+      "rank": "10.",
+      "airport_name": "Shanghai Pudong International Airport",
+      "city_or_location": "Pudong, Shanghai",
+      "country": "China",
+      "iata_icao_code": "PVG/ZSPD",
+      "total_passengers": "76,787,039",
+      "rank_change": "11",
+      "percent_change": "41.0%"
+    },
+    {
+      "rank": "11.",
+      "airport_name": "Los Angeles International Airport",
+      "city_or_location": "Los Angeles, California",
+      "country": "United States",
+      "iata_icao_code": "LAX/KLAX",
+      "total_passengers": "76,587,980",
+      "rank_change": "3",
+      "percent_change": "2.0%"
+    },
+    {
+      "rank": "12.",
+      "airport_name": "Guangzhou Baiyun International Airport",
+      "city_or_location": "Baiyun-Huadu, Guangzhou, Guangdong",
+      "country": "China",
+      "iata_icao_code": "CAN/ZGGG",
+      "total_passengers": "76,364,767",
+      "rank_change": "",
+      "percent_change": "20.9%"
+    },
+    {
+      "rank": "13.",
+      "airport_name": "Seoul Incheon International Airport",
+      "city_or_location": "Jung District, Incheon",
+      "country": "South Korea",
+      "iata_icao_code": "ICN/RKSI",
+      "total_passengers": "70,669,246",
+      "rank_change": "7",
+      "percent_change": "26.7%"
+    },
+    {
+      "rank": "14.",
+      "airport_name": "Charles de Gaulle Airport",
+      "city_or_location": "Roissy-en-France, Île-de-France",
+      "country": "France",
+      "iata_icao_code": "CDG/LFPG",
+      "total_passengers": "70,290,260",
+      "rank_change": "3",
+      "percent_change": "4.3%"
+    },
+    {
+      "rank": "15.",
+      "airport_name": "Singapore Changi Airport",
+      "city_or_location": "Changi, East Region",
+      "country": "Singapore",
+      "iata_icao_code": "SIN/WSSS",
+      "total_passengers": "67,700,000",
+      "rank_change": "2",
+      "percent_change": "14.8%"
+    },
+    {
+      "rank": "16.",
+      "airport_name": "Beijing Capital International Airport",
+      "city_or_location": "Chaoyang-Shunyi, Beijing",
+      "country": "China",
+      "iata_icao_code": "PEK/ZBAA",
+      "total_passengers": "67,367,428",
+      "rank_change": "7",
+      "percent_change": "27.4%"
+    },
+    {
+      "rank": "17.",
+      "airport_name": "Amsterdam Airport Schiphol",
+      "city_or_location": "Haarlemmermeer, North Holland",
+      "country": "Netherlands",
+      "iata_icao_code": "AMS/EHAM",
+      "total_passengers": "66,828,453",
+      "rank_change": "3",
+      "percent_change": "8.0%"
+    },
+    {
+      "rank": "18.",
+      "airport_name": "Adolfo Suárez Madrid–Barajas Airport",
+      "city_or_location": "Community of Madrid, Barajas",
+      "country": "Spain",
+      "iata_icao_code": "MAD/LEMD",
+      "total_passengers": "66,196,984",
+      "rank_change": "3",
+      "percent_change": "9.9%"
+    },
+    {
+      "rank": "19.",
+      "airport_name": "John F. Kennedy International Airport",
+      "city_or_location": "Queens, New York, New York",
+      "country": "United States",
+      "iata_icao_code": "JFK/KJFK",
+      "total_passengers": "63,265,984",
+      "rank_change": "6",
+      "percent_change": "1.9%"
+    },
+    {
+      "rank": "20.",
+      "airport_name": "Shenzhen Bao'an International Airport",
+      "city_or_location": "Bao'an, Shenzhen, Guangdong",
+      "country": "China",
+      "iata_icao_code": "SZX/ZGSZ",
+      "total_passengers": "61,477,337",
+      "rank_change": "4",
+      "percent_change": "16.6%"
+    },
+    {
+      "rank": "21.",
+      "airport_name": "Suvarnabhumi Airport",
+      "city_or_location": "Racha Thewa, Bangkok metro",
+      "country": "Thailand",
+      "iata_icao_code": "BKK/VTBS",
+      "total_passengers": "59,999,324",
+      "rank_change": "5",
+      "percent_change": "16.1%"
+    },
+    {
+      "rank": "22.",
+      "airport_name": "Frankfurt Airport",
+      "city_or_location": "Frankfurt, Hesse",
+      "country": "Germany",
+      "iata_icao_code": "FRA/EDDF",
+      "total_passengers": "59,359,539",
+      "rank_change": "6",
+      "percent_change": "3.7%"
+    },
+    {
+      "rank": "23.",
+      "airport_name": "Charlotte Douglas International Airport",
+      "city_or_location": "Charlotte, North Carolina",
+      "country": "United States",
+      "iata_icao_code": "CLT/KCLT",
+      "total_passengers": "58,811,725",
+      "rank_change": "1",
+      "percent_change": "10.0%"
+    },
+    {
+      "rank": "24.",
+      "airport_name": "Harry Reid International Airport",
+      "city_or_location": "Las Vegas, Nevada",
+      "country": "United States",
+      "iata_icao_code": "LAS/KLAS",
+      "total_passengers": "58,447,782",
+      "rank_change": "5",
+      "percent_change": "1.4%"
+    },
+    {
+      "rank": "25.",
+      "airport_name": "Orlando International Airport",
+      "city_or_location": "Orlando, Florida",
+      "country": "United States",
+      "iata_icao_code": "MCO/KMCO",
+      "total_passengers": "57,211,628",
+      "rank_change": "7",
+      "percent_change": "0.9%"
+    },
+    {
+      "rank": "26.",
+      "airport_name": "Kuala Lumpur International Airport",
+      "city_or_location": "Sepang, Selangor",
+      "country": "Malaysia",
+      "iata_icao_code": "KUL/WMKK",
+      "total_passengers": "57,044,869",
+      "rank_change": "9",
+      "percent_change": "20.7%"
+    },
+    {
+      "rank": "27.",
+      "airport_name": "Miami International Airport",
+      "city_or_location": "Miami-Dade County, Florida",
+      "country": "United States",
+      "iata_icao_code": "MIA/KMIA",
+      "total_passengers": "55,926,566",
+      "rank_change": "2",
+      "percent_change": "6.8%"
+    },
+    {
+      "rank": "28.",
+      "airport_name": "Josep Tarradellas Barcelona–El Prat Airport",
+      "city_or_location": "Catalonia, El Prat de Llobregat",
+      "country": "Spain",
+      "iata_icao_code": "BCN/LEBL",
+      "total_passengers": "55,034,955",
+      "rank_change": "2",
+      "percent_change": "10.3%"
+    },
+    {
+      "rank": "29.",
+      "airport_name": "Chengdu Tianfu International Airport",
+      "city_or_location": "Jianyang, Chengdu, Sichuan",
+      "country": "China",
+      "iata_icao_code": "TFU/ZUTF",
+      "total_passengers": "54,905,784",
+      "rank_change": "10",
+      "percent_change": "22.6%"
+    },
+    {
+      "rank": "30.",
+      "airport_name": "Soekarno–Hatta International Airport",
+      "city_or_location": "Tangerang, Banten",
+      "country": "Indonesia",
+      "iata_icao_code": "CGK/WIII",
+      "total_passengers": "54,809,500",
+      "rank_change": "2",
+      "percent_change": "11.7.%"
+    },
+    {
+      "rank": "31.",
+      "airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+      "city_or_location": "Santacruz-Sahar, Mumbai, Maharashtra",
+      "country": "India",
+      "iata_icao_code": "BOM/VABB",
+      "total_passengers": "54,800,000",
+      "rank_change": "4",
+      "percent_change": "6.3%"
+    },
+    {
+      "rank": "32.",
+      "airport_name": "Hong Kong International Airport",
+      "city_or_location": "Chek Lap Kok, New Territories",
+      "country": "Hong Kong",
+      "iata_icao_code": "HKG/VHHH",
+      "total_passengers": "53,100,000",
+      "rank_change": "",
+      "percent_change": "34.3%"
+    },
+    {
+      "rank": "33.",
+      "airport_name": "Hamad International Airport",
+      "city_or_location": "Doha",
+      "country": "Qatar",
+      "iata_icao_code": "DOH/OTHH",
+      "total_passengers": "52,700,000",
+      "rank_change": "4",
+      "percent_change": "14.8%"
+    },
+    {
+      "rank": "34.",
+      "airport_name": "Seattle–Tacoma International Airport",
+      "city_or_location": "SeaTac, Washington",
+      "country": "United States",
+      "iata_icao_code": "SEA/KSEA",
+      "total_passengers": "52,640,716",
+      "rank_change": "6",
+      "percent_change": "3.4%"
+    },
+    {
+      "rank": "35.",
+      "airport_name": "Phoenix Sky Harbor International Airport",
+      "city_or_location": "Phoenix, Arizona",
+      "country": "United States",
+      "iata_icao_code": "PHX/KPHX",
+      "total_passengers": "52,325,266",
+      "rank_change": "2",
+      "percent_change": "17.9%"
+    },
+    {
+      "rank": "36.",
+      "airport_name": "San Francisco International Airport",
+      "city_or_location": "San Mateo County, California",
+      "country": "United States",
+      "iata_icao_code": "SFO/KSFO",
+      "total_passengers": "52,288,098",
+      "rank_change": "7",
+      "percent_change": "4.1%"
+    },
+    {
+      "rank": "37.",
+      "airport_name": "Ninoy Aquino International Airport",
+      "city_or_location": "Pasay/Parañaque, Metro Manila",
+      "country": "Philippines",
+      "iata_icao_code": "MNL/RPLL",
+      "total_passengers": "50,100,000",
+      "rank_change": "1",
+      "percent_change": "10.4%"
+    },
+    {
+      "rank": "38.",
+      "airport_name": "Beijing Daxing International Airport",
+      "city_or_location": "Daxing District, Beijing",
+      "country": "China",
+      "iata_icao_code": "PKX/ZBAD",
+      "total_passengers": "49,441,029",
+      "rank_change": "14",
+      "percent_change": "25.5%"
+    },
+    {
+      "rank": "39.",
+      "airport_name": "Leonardo da Vinci Rome Fiumicino Airport",
+      "city_or_location": "Fiumicino, Metropolitan City of Rome, Lazio",
+      "country": "Italy",
+      "iata_icao_code": "FCO/LIRF",
+      "total_passengers": "49,203,734",
+      "rank_change": "",
+      "percent_change": "21.4%"
+    },
+    {
+      "rank": "40.",
+      "airport_name": "King Abdulaziz International Airport",
+      "city_or_location": "Jeddah",
+      "country": "Saudi Arabia",
+      "iata_icao_code": "JED/OEJN",
+      "total_passengers": "49,100,000",
+      "rank_change": "2",
+      "percent_change": "15.0%"
+    },
+    {
+      "rank": "41.",
+      "airport_name": "Newark Liberty International Airport",
+      "city_or_location": "Newark, New Jersey",
+      "country": "United States",
+      "iata_icao_code": "EWR/KEWR",
+      "total_passengers": "48,853,370",
+      "rank_change": "10",
+      "percent_change": "0.5%"
+    },
+    {
+      "rank": "42.",
+      "airport_name": "Chongqing Jiangbei International Airport",
+      "city_or_location": "Chongqing",
+      "country": "China",
+      "iata_icao_code": "CKG/ZUCK",
+      "total_passengers": "48,676,973",
+      "rank_change": "1",
+      "percent_change": "9.0%"
+    },
+    {
+      "rank": "43.",
+      "airport_name": "George Bush Intercontinental Airport",
+      "city_or_location": "Houston, Texas",
+      "country": "United States",
+      "iata_icao_code": "IAH/KIAH",
+      "total_passengers": "48,448,545",
+      "rank_change": "7",
+      "percent_change": "4.8%"
+    },
+    {
+      "rank": "44.",
+      "airport_name": "Hangzhou Xiaoshan International Airport",
+      "city_or_location": "Hangzhou, Zhejiang",
+      "country": "China",
+      "iata_icao_code": "HGH/ZSHC",
+      "total_passengers": "48,053,915",
+      "rank_change": "3",
+      "percent_change": "16.7%"
+    },
+    {
+      "rank": "45.",
+      "airport_name": "Shanghai Hongqiao International Airport",
+      "city_or_location": "Shanghai",
+      "country": "China",
+      "iata_icao_code": "SHA/ZSSS",
+      "total_passengers": "47,944,067",
+      "rank_change": "2",
+      "percent_change": "12.8%"
+    },
+    {
+      "rank": "46.",
+      "airport_name": "Kunming Changshui International Airport",
+      "city_or_location": "Kunming, Yunnan",
+      "country": "China",
+      "iata_icao_code": "KMG/ZPPP",
+      "total_passengers": "47,178,347",
+      "rank_change": "2",
+      "percent_change": "12.2%"
+    },
+    {
+      "rank": "47.",
+      "airport_name": "Xi'an Xianyang International Airport",
+      "city_or_location": "Xi'an, Shaanxi",
+      "country": "China",
+      "iata_icao_code": "XIY/ZLXY",
+      "total_passengers": "47,030,407",
+      "rank_change": "2",
+      "percent_change": "13.7%"
+    },
+    {
+      "rank": "48.",
+      "airport_name": "Toronto Pearson International Airport",
+      "city_or_location": "Mississauga, Ontario",
+      "country": "Canada",
+      "iata_icao_code": "YYZ/CYYZ",
+      "total_passengers": "46,800,000",
+      "rank_change": "8",
+      "percent_change": "4.4%"
+    },
+    {
+      "rank": "49.",
+      "airport_name": "El Dorado International Airport",
+      "city_or_location": "Bogotá",
+      "country": "Colombia",
+      "iata_icao_code": "BOG/SKBO",
+      "total_passengers": "45,802,360",
+      "rank_change": "",
+      "percent_change": "16.0%"
+    },
+    {
+      "rank": "50.",
+      "airport_name": "Mexico City International Airport",
+      "city_or_location": "Venustiano Carranza, Mexico City",
+      "country": "Mexico",
+      "iata_icao_code": "MEX/MMMX",
+      "total_passengers": "45,359,500",
+      "rank_change": "16",
+      "percent_change": "6.2%"
+    }
+  ]
+}
