@@ -43,6 +43,8 @@ Each dataset follows this JSON format:
 
 - [**Nobel Prizes 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/awards-achievements/nobel_prizes.json)  
   Complete list of Nobel Prizes from 1901 to 2024
+- [**Pulitzer Prize for Fiction Winners**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/awards-achievements/pulitzer_prize_for_fiction.json)  
+  Yearly list of Pulitzer Prize for Fiction winning authors and their works
 
 ### Climate & Weather
 

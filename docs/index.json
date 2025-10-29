@@ -30,6 +30,12 @@
         "subtitle": "Complete list of Nobel Prizes from 1901 to 2024",
         "updated_at": "August 20, 2025 09:42 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/nobel_prizes.json"
+      },
+      {
+        "title": "Pulitzer Prize for Fiction Winners",
+        "subtitle": "Yearly list of Pulitzer Prize for Fiction winning authors and their works",
+        "updated_at": "October 29, 2025 08:48 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/pulitzer_prize_for_fiction.json"
       }
     ]
   },
