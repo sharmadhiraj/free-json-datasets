@@ -1,0 +1,1288 @@
+{
+  "title": "Countries by Average Annual Precipitation",
+  "subtitle": "Ranking of countries based on their yearly average rainfall in millimeters and inches",
+  "updated_at": "October 29, 2025 10:06 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Colombia",
+      "average_annual_precipitation_mm": "3,240",
+      "average_annual_precipitation_inches": "127.6",
+      "continent": "South America"
+    },
+    {
+      "rank": 2,
+      "country": "São Tomé and Príncipe",
+      "average_annual_precipitation_mm": "3,200",
+      "average_annual_precipitation_inches": "126",
+      "continent": "Africa"
+    },
+    {
+      "rank": 3,
+      "country": "Papua New Guinea",
+      "average_annual_precipitation_mm": "3,142",
+      "average_annual_precipitation_inches": "123.7",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 4,
+      "country": "Solomon Islands",
+      "average_annual_precipitation_mm": "3,028",
+      "average_annual_precipitation_inches": "119.2",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 5,
+      "country": "Panama",
+      "average_annual_precipitation_mm": "2,928",
+      "average_annual_precipitation_inches": "115.3",
+      "continent": "Central America"
+    },
+    {
+      "rank": 6,
+      "country": "Costa Rica",
+      "average_annual_precipitation_mm": "2,926",
+      "average_annual_precipitation_inches": "115.2",
+      "continent": "Central America"
+    },
+    {
+      "rank": 7,
+      "country": "Samoa",
+      "average_annual_precipitation_mm": "2,880",
+      "average_annual_precipitation_inches": "113.4",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 8,
+      "country": "Malaysia",
+      "average_annual_precipitation_mm": "2,875",
+      "average_annual_precipitation_inches": "113.2",
+      "continent": "Asia"
+    },
+    {
+      "rank": 9,
+      "country": "Brunei",
+      "average_annual_precipitation_mm": "2,722",
+      "average_annual_precipitation_inches": "107.2",
+      "continent": "Asia"
+    },
+    {
+      "rank": 10,
+      "country": "Indonesia",
+      "average_annual_precipitation_mm": "2,702",
+      "average_annual_precipitation_inches": "106.4",
+      "continent": "Asia"
+    },
+    {
+      "rank": 11,
+      "country": "Tonga",
+      "average_annual_precipitation_mm": "2,700",
+      "average_annual_precipitation_inches": "110",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 12,
+      "country": "Bangladesh",
+      "average_annual_precipitation_mm": "2,666",
+      "average_annual_precipitation_inches": "105.0",
+      "continent": "Asia"
+    },
+    {
+      "rank": 13,
+      "country": "Fiji",
+      "average_annual_precipitation_mm": "2,592",
+      "average_annual_precipitation_inches": "102.0",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 14,
+      "country": "Sierra Leone",
+      "average_annual_precipitation_mm": "2,526",
+      "average_annual_precipitation_inches": "99.4",
+      "continent": "Africa"
+    },
+    {
+      "rank": 15,
+      "country": "Singapore",
+      "average_annual_precipitation_mm": "2,497",
+      "average_annual_precipitation_inches": "98.3",
+      "continent": "Asia"
+    },
+    {
+      "rank": 16,
+      "country": "Liberia",
+      "average_annual_precipitation_mm": "2,391",
+      "average_annual_precipitation_inches": "94.1",
+      "continent": "Africa"
+    },
+    {
+      "rank": 17,
+      "country": "Guyana",
+      "average_annual_precipitation_mm": "2,387",
+      "average_annual_precipitation_inches": "94.0",
+      "continent": "South America"
+    },
+    {
+      "rank": 18,
+      "country": "Grenada",
+      "average_annual_precipitation_mm": "2,350",
+      "average_annual_precipitation_inches": "93",
+      "continent": "North America"
+    },
+    {
+      "rank": 19,
+      "country": "Philippines",
+      "average_annual_precipitation_mm": "2,348",
+      "average_annual_precipitation_inches": "92.4",
+      "continent": "Asia"
+    },
+    {
+      "rank": 20,
+      "country": "Suriname",
+      "average_annual_precipitation_mm": "2,331",
+      "average_annual_precipitation_inches": "91.8",
+      "continent": "South America"
+    },
+    {
+      "rank": 21,
+      "country": "Seychelles",
+      "average_annual_precipitation_mm": "2,330",
+      "average_annual_precipitation_inches": "92",
+      "continent": "Africa"
+    },
+    {
+      "rank": 22,
+      "country": "Saint Lucia",
+      "average_annual_precipitation_mm": "2,301",
+      "average_annual_precipitation_inches": "90.6",
+      "continent": "North America"
+    },
+    {
+      "rank": 23,
+      "country": "Nicaragua",
+      "average_annual_precipitation_mm": "2,280",
+      "average_annual_precipitation_inches": "90",
+      "continent": "Central America"
+    },
+    {
+      "rank": 24,
+      "country": "Ecuador",
+      "average_annual_precipitation_mm": "2,274",
+      "average_annual_precipitation_inches": "89.5",
+      "continent": "South America"
+    },
+    {
+      "rank": 25,
+      "country": "Bhutan",
+      "average_annual_precipitation_mm": "2,200",
+      "average_annual_precipitation_inches": "87",
+      "continent": "Asia"
+    },
+    {
+      "rank": 26,
+      "country": "Trinidad and Tobago",
+      "average_annual_precipitation_mm": "2,200",
+      "average_annual_precipitation_inches": "87",
+      "continent": "North America"
+    },
+    {
+      "rank": 27,
+      "country": "Equatorial Guinea",
+      "average_annual_precipitation_mm": "2,156",
+      "average_annual_precipitation_inches": "84.9",
+      "continent": "Africa"
+    },
+    {
+      "rank": 28,
+      "country": "Myanmar",
+      "average_annual_precipitation_mm": "2,091",
+      "average_annual_precipitation_inches": "82.3",
+      "continent": "Asia"
+    },
+    {
+      "rank": 29,
+      "country": "Dominica",
+      "average_annual_precipitation_mm": "2,083",
+      "average_annual_precipitation_inches": "82.0",
+      "continent": "North America"
+    },
+    {
+      "rank": 30,
+      "country": "Puerto Rico",
+      "average_annual_precipitation_mm": "2,054",
+      "average_annual_precipitation_inches": "80.9",
+      "continent": "North America"
+    },
+    {
+      "rank": 31,
+      "country": "Jamaica",
+      "average_annual_precipitation_mm": "2,051",
+      "average_annual_precipitation_inches": "80.7",
+      "continent": "North America"
+    },
+    {
+      "rank": 32,
+      "country": "Venezuela",
+      "average_annual_precipitation_mm": "2,044",
+      "average_annual_precipitation_inches": "80.5",
+      "continent": "South America"
+    },
+    {
+      "rank": 33,
+      "country": "Mauritius",
+      "average_annual_precipitation_mm": "2,041",
+      "average_annual_precipitation_inches": "80.4",
+      "continent": "Africa"
+    },
+    {
+      "rank": 34,
+      "country": "Vanuatu",
+      "average_annual_precipitation_mm": "2,000",
+      "average_annual_precipitation_inches": "79",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 35,
+      "country": "Guatemala",
+      "average_annual_precipitation_mm": "1,996",
+      "average_annual_precipitation_inches": "78.6",
+      "continent": "Central America"
+    },
+    {
+      "rank": 36,
+      "country": "Honduras",
+      "average_annual_precipitation_mm": "1,976",
+      "average_annual_precipitation_inches": "77.8",
+      "continent": "Central America"
+    },
+    {
+      "rank": 37,
+      "country": "Maldives",
+      "average_annual_precipitation_mm": "1,972",
+      "average_annual_precipitation_inches": "77.6",
+      "continent": "Asia"
+    },
+    {
+      "rank": 38,
+      "country": "Iceland",
+      "average_annual_precipitation_mm": "1,940",
+      "average_annual_precipitation_inches": "76",
+      "continent": "Europe"
+    },
+    {
+      "rank": 39,
+      "country": "Cambodia",
+      "average_annual_precipitation_mm": "1,904",
+      "average_annual_precipitation_inches": "75.0",
+      "continent": "Asia"
+    },
+    {
+      "rank": 40,
+      "country": "Laos",
+      "average_annual_precipitation_mm": "1,834",
+      "average_annual_precipitation_inches": "72.2",
+      "continent": "Asia"
+    },
+    {
+      "rank": 41,
+      "country": "Gabon",
+      "average_annual_precipitation_mm": "1,831",
+      "average_annual_precipitation_inches": "72.1",
+      "continent": "Africa"
+    },
+    {
+      "rank": 42,
+      "country": "Vietnam",
+      "average_annual_precipitation_mm": "1,821",
+      "average_annual_precipitation_inches": "71.7",
+      "continent": "Asia"
+    },
+    {
+      "rank": 43,
+      "country": "El Salvador",
+      "average_annual_precipitation_mm": "1,784",
+      "average_annual_precipitation_inches": "70.2",
+      "continent": "Central America"
+    },
+    {
+      "rank": 44,
+      "country": "Brazil",
+      "average_annual_precipitation_mm": "1,761",
+      "average_annual_precipitation_inches": "69.3",
+      "continent": "South America"
+    },
+    {
+      "rank": 45,
+      "country": "Peru",
+      "average_annual_precipitation_mm": "1,738",
+      "average_annual_precipitation_inches": "68.4",
+      "continent": "South America"
+    },
+    {
+      "rank": 46,
+      "country": "New Zealand",
+      "average_annual_precipitation_mm": "1,732",
+      "average_annual_precipitation_inches": "68.2",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 47,
+      "country": "Sri Lanka",
+      "average_annual_precipitation_mm": "1,712",
+      "average_annual_precipitation_inches": "67.4",
+      "continent": "Asia"
+    },
+    {
+      "rank": 48,
+      "country": "Belize",
+      "average_annual_precipitation_mm": "1,705",
+      "average_annual_precipitation_inches": "67.1",
+      "continent": "North America"
+    },
+    {
+      "rank": 49,
+      "country": "Japan",
+      "average_annual_precipitation_mm": "1,668",
+      "average_annual_precipitation_inches": "65.7",
+      "continent": "Asia"
+    },
+    {
+      "rank": 50,
+      "country": "Guinea",
+      "average_annual_precipitation_mm": "1,651",
+      "average_annual_precipitation_inches": "65.0",
+      "continent": "Africa"
+    },
+    {
+      "rank": 51,
+      "country": "Congo",
+      "average_annual_precipitation_mm": "1,646",
+      "average_annual_precipitation_inches": "64.8",
+      "continent": "Africa"
+    },
+    {
+      "rank": 52,
+      "country": "Thailand",
+      "average_annual_precipitation_mm": "1,622",
+      "average_annual_precipitation_inches": "63.9",
+      "continent": "Asia"
+    },
+    {
+      "rank": 53,
+      "country": "Cameroon",
+      "average_annual_precipitation_mm": "1,604",
+      "average_annual_precipitation_inches": "63.1",
+      "continent": "Africa"
+    },
+    {
+      "rank": 54,
+      "country": "Saint Vincent and the Grenadines",
+      "average_annual_precipitation_mm": "1,583",
+      "average_annual_precipitation_inches": "62.3",
+      "continent": "North America"
+    },
+    {
+      "rank": 55,
+      "country": "Guinea-Bissau",
+      "average_annual_precipitation_mm": "1,577",
+      "average_annual_precipitation_inches": "62.1",
+      "continent": "Africa"
+    },
+    {
+      "rank": 56,
+      "country": "DR Congo",
+      "average_annual_precipitation_mm": "1,543",
+      "average_annual_precipitation_inches": "60.7",
+      "continent": "Africa"
+    },
+    {
+      "rank": 57,
+      "country": "Switzerland",
+      "average_annual_precipitation_mm": "1,537",
+      "average_annual_precipitation_inches": "60.5",
+      "continent": "Europe"
+    },
+    {
+      "rank": 58,
+      "country": "Chile",
+      "average_annual_precipitation_mm": "1,522",
+      "average_annual_precipitation_inches": "59.9",
+      "continent": "South America"
+    },
+    {
+      "rank": 59,
+      "country": "Madagascar",
+      "average_annual_precipitation_mm": "1,513",
+      "average_annual_precipitation_inches": "59.6",
+      "continent": "Africa"
+    },
+    {
+      "rank": 60,
+      "country": "Timor-Leste",
+      "average_annual_precipitation_mm": "1,500",
+      "average_annual_precipitation_inches": "59",
+      "continent": "Asia"
+    },
+    {
+      "rank": 61,
+      "country": "Nepal",
+      "average_annual_precipitation_mm": "1,500",
+      "average_annual_precipitation_inches": "59",
+      "continent": "Asia"
+    },
+    {
+      "rank": 62,
+      "country": "Albania",
+      "average_annual_precipitation_mm": "1,485",
+      "average_annual_precipitation_inches": "58.5",
+      "continent": "Europe"
+    },
+    {
+      "rank": 63,
+      "country": "Haiti",
+      "average_annual_precipitation_mm": "1,440",
+      "average_annual_precipitation_inches": "57",
+      "continent": "North America"
+    },
+    {
+      "rank": 64,
+      "country": "Saint Kitts and Nevis",
+      "average_annual_precipitation_mm": "1,427",
+      "average_annual_precipitation_inches": "56.2",
+      "continent": "North America"
+    },
+    {
+      "rank": 65,
+      "country": "Barbados",
+      "average_annual_precipitation_mm": "1,422",
+      "average_annual_precipitation_inches": "56.0",
+      "continent": "North America"
+    },
+    {
+      "rank": 66,
+      "country": "Norway",
+      "average_annual_precipitation_mm": "1,414",
+      "average_annual_precipitation_inches": "55.7",
+      "continent": "Europe"
+    },
+    {
+      "rank": 67,
+      "country": "Dominican Republic",
+      "average_annual_precipitation_mm": "1,410",
+      "average_annual_precipitation_inches": "55.5",
+      "continent": "North America"
+    },
+    {
+      "rank": 68,
+      "country": "Ivory Coast",
+      "average_annual_precipitation_mm": "1,348",
+      "average_annual_precipitation_inches": "53.1",
+      "continent": "Africa"
+    },
+    {
+      "rank": 69,
+      "country": "Central African Republic",
+      "average_annual_precipitation_mm": "1,343",
+      "average_annual_precipitation_inches": "52.9",
+      "continent": "Africa"
+    },
+    {
+      "rank": 70,
+      "country": "Cuba",
+      "average_annual_precipitation_mm": "1,335",
+      "average_annual_precipitation_inches": "52.6",
+      "continent": "North America"
+    },
+    {
+      "rank": 71,
+      "country": "Uruguay",
+      "average_annual_precipitation_mm": "1,300",
+      "average_annual_precipitation_inches": "51",
+      "continent": "South America"
+    },
+    {
+      "rank": 72,
+      "country": "Bahamas",
+      "average_annual_precipitation_mm": "1,292",
+      "average_annual_precipitation_inches": "50.9",
+      "continent": "North America"
+    },
+    {
+      "rank": 73,
+      "country": "Burundi",
+      "average_annual_precipitation_mm": "1,274",
+      "average_annual_precipitation_inches": "50.2",
+      "continent": "Africa"
+    },
+    {
+      "rank": 74,
+      "country": "South Korea",
+      "average_annual_precipitation_mm": "1,274",
+      "average_annual_precipitation_inches": "50.2",
+      "continent": "Asia"
+    },
+    {
+      "rank": 75,
+      "country": "United Kingdom",
+      "average_annual_precipitation_mm": "1,220",
+      "average_annual_precipitation_inches": "48",
+      "continent": "Europe"
+    },
+    {
+      "rank": 76,
+      "country": "Rwanda",
+      "average_annual_precipitation_mm": "1,212",
+      "average_annual_precipitation_inches": "47.7",
+      "continent": "Africa"
+    },
+    {
+      "rank": 77,
+      "country": "Ghana",
+      "average_annual_precipitation_mm": "1,187",
+      "average_annual_precipitation_inches": "46.7",
+      "continent": "Africa"
+    },
+    {
+      "rank": 78,
+      "country": "Malawi",
+      "average_annual_precipitation_mm": "1,181",
+      "average_annual_precipitation_inches": "46.5",
+      "continent": "Africa"
+    },
+    {
+      "rank": 79,
+      "country": "Uganda",
+      "average_annual_precipitation_mm": "1,180",
+      "average_annual_precipitation_inches": "46",
+      "continent": "Africa"
+    },
+    {
+      "rank": 80,
+      "country": "Togo",
+      "average_annual_precipitation_mm": "1,168",
+      "average_annual_precipitation_inches": "46.0",
+      "continent": "Africa"
+    },
+    {
+      "rank": 81,
+      "country": "Slovenia",
+      "average_annual_precipitation_mm": "1,162",
+      "average_annual_precipitation_inches": "45.7",
+      "continent": "Europe"
+    },
+    {
+      "rank": 82,
+      "country": "Nigeria",
+      "average_annual_precipitation_mm": "1,150",
+      "average_annual_precipitation_inches": "45",
+      "continent": "Africa"
+    },
+    {
+      "rank": 83,
+      "country": "Bolivia",
+      "average_annual_precipitation_mm": "1,146",
+      "average_annual_precipitation_inches": "45.1",
+      "continent": "South America"
+    },
+    {
+      "rank": 84,
+      "country": "Paraguay",
+      "average_annual_precipitation_mm": "1,130",
+      "average_annual_precipitation_inches": "44",
+      "continent": "South America"
+    },
+    {
+      "rank": 85,
+      "country": "Ireland",
+      "average_annual_precipitation_mm": "1,118",
+      "average_annual_precipitation_inches": "44.0",
+      "continent": "Europe"
+    },
+    {
+      "rank": 86,
+      "country": "Croatia",
+      "average_annual_precipitation_mm": "1,113",
+      "average_annual_precipitation_inches": "43.8",
+      "continent": "Europe"
+    },
+    {
+      "rank": 87,
+      "country": "Austria",
+      "average_annual_precipitation_mm": "1,110",
+      "average_annual_precipitation_inches": "43.7",
+      "continent": "Europe"
+    },
+    {
+      "rank": 88,
+      "country": "India",
+      "average_annual_precipitation_mm": "1,083",
+      "average_annual_precipitation_inches": "42.6",
+      "continent": "Asia"
+    },
+    {
+      "rank": 89,
+      "country": "Tanzania",
+      "average_annual_precipitation_mm": "1,071",
+      "average_annual_precipitation_inches": "42.2",
+      "continent": "Africa"
+    },
+    {
+      "rank": 90,
+      "country": "North Korea",
+      "average_annual_precipitation_mm": "1,054",
+      "average_annual_precipitation_inches": "41.5",
+      "continent": "Asia"
+    },
+    {
+      "rank": 91,
+      "country": "Benin",
+      "average_annual_precipitation_mm": "1,039",
+      "average_annual_precipitation_inches": "40.9",
+      "continent": "Africa"
+    },
+    {
+      "rank": 92,
+      "country": "Mozambique",
+      "average_annual_precipitation_mm": "1,032",
+      "average_annual_precipitation_inches": "40.6",
+      "continent": "Africa"
+    },
+    {
+      "rank": 93,
+      "country": "Antigua and Barbuda",
+      "average_annual_precipitation_mm": "1,030",
+      "average_annual_precipitation_inches": "40.6",
+      "continent": "North America"
+    },
+    {
+      "rank": 94,
+      "country": "Bosnia and Herzegovina",
+      "average_annual_precipitation_mm": "1,028",
+      "average_annual_precipitation_inches": "40.5",
+      "continent": "Europe"
+    },
+    {
+      "rank": 95,
+      "country": "Georgia",
+      "average_annual_precipitation_mm": "1,026",
+      "average_annual_precipitation_inches": "40.4",
+      "continent": "Asia"
+    },
+    {
+      "rank": 96,
+      "country": "Zambia",
+      "average_annual_precipitation_mm": "1,020",
+      "average_annual_precipitation_inches": "40",
+      "continent": "Africa"
+    },
+    {
+      "rank": 97,
+      "country": "Angola",
+      "average_annual_precipitation_mm": "1,010",
+      "average_annual_precipitation_inches": "40",
+      "continent": "Africa"
+    },
+    {
+      "rank": 98,
+      "country": "Luxembourg",
+      "average_annual_precipitation_mm": "934",
+      "average_annual_precipitation_inches": "36.8",
+      "continent": "Europe"
+    },
+    {
+      "rank": 99,
+      "country": "Comoros",
+      "average_annual_precipitation_mm": "900",
+      "average_annual_precipitation_inches": "35",
+      "continent": "Africa"
+    },
+    {
+      "rank": 100,
+      "country": "South Sudan",
+      "average_annual_precipitation_mm": "900",
+      "average_annual_precipitation_inches": "35",
+      "continent": "Africa"
+    },
+    {
+      "rank": 101,
+      "country": "France",
+      "average_annual_precipitation_mm": "867",
+      "average_annual_precipitation_inches": "34.1",
+      "continent": "Europe"
+    },
+    {
+      "rank": 102,
+      "country": "Portugal",
+      "average_annual_precipitation_mm": "854",
+      "average_annual_precipitation_inches": "33.6",
+      "continent": "Europe"
+    },
+    {
+      "rank": 103,
+      "country": "Ethiopia",
+      "average_annual_precipitation_mm": "848",
+      "average_annual_precipitation_inches": "33.4",
+      "continent": "Africa"
+    },
+    {
+      "rank": 104,
+      "country": "Belgium",
+      "average_annual_precipitation_mm": "847",
+      "average_annual_precipitation_inches": "33.3",
+      "continent": "Europe"
+    },
+    {
+      "rank": 105,
+      "country": "Gambia",
+      "average_annual_precipitation_mm": "836",
+      "average_annual_precipitation_inches": "32.9",
+      "continent": "Africa"
+    },
+    {
+      "rank": 106,
+      "country": "Italy",
+      "average_annual_precipitation_mm": "832",
+      "average_annual_precipitation_inches": "32.8",
+      "continent": "Europe"
+    },
+    {
+      "rank": 107,
+      "country": "Slovakia",
+      "average_annual_precipitation_mm": "824",
+      "average_annual_precipitation_inches": "32.4",
+      "continent": "Europe"
+    },
+    {
+      "rank": 108,
+      "country": "Eswatini",
+      "average_annual_precipitation_mm": "788",
+      "average_annual_precipitation_inches": "31.0",
+      "continent": "Africa"
+    },
+    {
+      "rank": 109,
+      "country": "Lesotho",
+      "average_annual_precipitation_mm": "788",
+      "average_annual_precipitation_inches": "31.0",
+      "continent": "Africa"
+    },
+    {
+      "rank": 110,
+      "country": "Netherlands",
+      "average_annual_precipitation_mm": "778",
+      "average_annual_precipitation_inches": "30.6",
+      "continent": "Europe"
+    },
+    {
+      "rank": 111,
+      "country": "Mexico",
+      "average_annual_precipitation_mm": "758",
+      "average_annual_precipitation_inches": "29.8",
+      "continent": "North America"
+    },
+    {
+      "rank": 112,
+      "country": "Burkina Faso",
+      "average_annual_precipitation_mm": "748",
+      "average_annual_precipitation_inches": "29.4",
+      "continent": "Africa"
+    },
+    {
+      "rank": 113,
+      "country": "United States",
+      "average_annual_precipitation_mm": "715",
+      "average_annual_precipitation_inches": "28.1",
+      "continent": "North America"
+    },
+    {
+      "rank": 114,
+      "country": "Denmark",
+      "average_annual_precipitation_mm": "703",
+      "average_annual_precipitation_inches": "27.7",
+      "continent": "Europe"
+    },
+    {
+      "rank": 115,
+      "country": "Germany",
+      "average_annual_precipitation_mm": "700",
+      "average_annual_precipitation_inches": "27.6",
+      "continent": "Europe"
+    },
+    {
+      "rank": 116,
+      "country": "Tajikistan",
+      "average_annual_precipitation_mm": "691",
+      "average_annual_precipitation_inches": "27.2",
+      "continent": "Asia"
+    },
+    {
+      "rank": 117,
+      "country": "Senegal",
+      "average_annual_precipitation_mm": "686",
+      "average_annual_precipitation_inches": "27.0",
+      "continent": "Africa"
+    },
+    {
+      "rank": 118,
+      "country": "Czech Republic",
+      "average_annual_precipitation_mm": "677",
+      "average_annual_precipitation_inches": "26.7",
+      "continent": "Europe"
+    },
+    {
+      "rank": 119,
+      "country": "Latvia",
+      "average_annual_precipitation_mm": "667",
+      "average_annual_precipitation_inches": "26.3",
+      "continent": "Europe"
+    },
+    {
+      "rank": 120,
+      "country": "Lebanon",
+      "average_annual_precipitation_mm": "661",
+      "average_annual_precipitation_inches": "26.0",
+      "continent": "Asia"
+    },
+    {
+      "rank": 121,
+      "country": "Zimbabwe",
+      "average_annual_precipitation_mm": "657",
+      "average_annual_precipitation_inches": "25.9",
+      "continent": "Africa"
+    },
+    {
+      "rank": 122,
+      "country": "Lithuania",
+      "average_annual_precipitation_mm": "656",
+      "average_annual_precipitation_inches": "25.8",
+      "continent": "Europe"
+    },
+    {
+      "rank": 123,
+      "country": "Greece",
+      "average_annual_precipitation_mm": "652",
+      "average_annual_precipitation_inches": "25.7",
+      "continent": "Europe"
+    },
+    {
+      "rank": 124,
+      "country": "China",
+      "average_annual_precipitation_mm": "645",
+      "average_annual_precipitation_inches": "25.4",
+      "continent": "Asia"
+    },
+    {
+      "rank": 125,
+      "country": "Romania",
+      "average_annual_precipitation_mm": "637",
+      "average_annual_precipitation_inches": "25.1",
+      "continent": "Europe"
+    },
+    {
+      "rank": 126,
+      "country": "Spain",
+      "average_annual_precipitation_mm": "636",
+      "average_annual_precipitation_inches": "25.0",
+      "continent": "Europe"
+    },
+    {
+      "rank": 127,
+      "country": "Kenya",
+      "average_annual_precipitation_mm": "630",
+      "average_annual_precipitation_inches": "25",
+      "continent": "Africa"
+    },
+    {
+      "rank": 128,
+      "country": "Estonia",
+      "average_annual_precipitation_mm": "626",
+      "average_annual_precipitation_inches": "24.6",
+      "continent": "Europe"
+    },
+    {
+      "rank": 129,
+      "country": "Sweden",
+      "average_annual_precipitation_mm": "624",
+      "average_annual_precipitation_inches": "24.6",
+      "continent": "Europe"
+    },
+    {
+      "rank": 130,
+      "country": "North Macedonia",
+      "average_annual_precipitation_mm": "619",
+      "average_annual_precipitation_inches": "24.4",
+      "continent": "Europe"
+    },
+    {
+      "rank": 131,
+      "country": "Belarus",
+      "average_annual_precipitation_mm": "618",
+      "average_annual_precipitation_inches": "24.3",
+      "continent": "Europe"
+    },
+    {
+      "rank": 132,
+      "country": "Bulgaria",
+      "average_annual_precipitation_mm": "608",
+      "average_annual_precipitation_inches": "23.9",
+      "continent": "Europe"
+    },
+    {
+      "rank": 133,
+      "country": "Poland",
+      "average_annual_precipitation_mm": "600",
+      "average_annual_precipitation_inches": "23.6",
+      "continent": "Europe"
+    },
+    {
+      "rank": 134,
+      "country": "Turkey",
+      "average_annual_precipitation_mm": "593",
+      "average_annual_precipitation_inches": "23.3",
+      "continent": "Europe-Asia"
+    },
+    {
+      "rank": 135,
+      "country": "Argentina",
+      "average_annual_precipitation_mm": "591",
+      "average_annual_precipitation_inches": "23.3",
+      "continent": "South America"
+    },
+    {
+      "rank": 136,
+      "country": "Hungary",
+      "average_annual_precipitation_mm": "589",
+      "average_annual_precipitation_inches": "23.2",
+      "continent": "Europe"
+    },
+    {
+      "rank": 137,
+      "country": "Ukraine",
+      "average_annual_precipitation_mm": "565",
+      "average_annual_precipitation_inches": "22.2",
+      "continent": "Europe"
+    },
+    {
+      "rank": 138,
+      "country": "Armenia",
+      "average_annual_precipitation_mm": "562",
+      "average_annual_precipitation_inches": "22.1",
+      "continent": "Asia"
+    },
+    {
+      "rank": 139,
+      "country": "Malta",
+      "average_annual_precipitation_mm": "560",
+      "average_annual_precipitation_inches": "22",
+      "continent": "Europe"
+    },
+    {
+      "rank": 140,
+      "country": "Canada",
+      "average_annual_precipitation_mm": "537",
+      "average_annual_precipitation_inches": "21.1",
+      "continent": "North America"
+    },
+    {
+      "rank": 141,
+      "country": "Finland",
+      "average_annual_precipitation_mm": "536",
+      "average_annual_precipitation_inches": "21.1",
+      "continent": "Europe"
+    },
+    {
+      "rank": 142,
+      "country": "Australia",
+      "average_annual_precipitation_mm": "534",
+      "average_annual_precipitation_inches": "21.0",
+      "continent": "Oceania"
+    },
+    {
+      "rank": 143,
+      "country": "Kyrgyzstan",
+      "average_annual_precipitation_mm": "533",
+      "average_annual_precipitation_inches": "21.0",
+      "continent": "Asia"
+    },
+    {
+      "rank": 144,
+      "country": "Cyprus",
+      "average_annual_precipitation_mm": "498",
+      "average_annual_precipitation_inches": "19.6",
+      "continent": "Asia"
+    },
+    {
+      "rank": 145,
+      "country": "South Africa",
+      "average_annual_precipitation_mm": "495",
+      "average_annual_precipitation_inches": "19.5",
+      "continent": "Africa"
+    },
+    {
+      "rank": 146,
+      "country": "Pakistan",
+      "average_annual_precipitation_mm": "494",
+      "average_annual_precipitation_inches": "19.4",
+      "continent": "Asia"
+    },
+    {
+      "rank": 147,
+      "country": "Russia",
+      "average_annual_precipitation_mm": "460",
+      "average_annual_precipitation_inches": "18",
+      "continent": "Europe-Asia"
+    },
+    {
+      "rank": 148,
+      "country": "Moldova",
+      "average_annual_precipitation_mm": "450",
+      "average_annual_precipitation_inches": "18",
+      "continent": "Europe"
+    },
+    {
+      "rank": 149,
+      "country": "Azerbaijan",
+      "average_annual_precipitation_mm": "447",
+      "average_annual_precipitation_inches": "17.6",
+      "continent": "Asia"
+    },
+    {
+      "rank": 150,
+      "country": "Israel",
+      "average_annual_precipitation_mm": "435",
+      "average_annual_precipitation_inches": "17.1",
+      "continent": "Asia"
+    },
+    {
+      "rank": 151,
+      "country": "Botswana",
+      "average_annual_precipitation_mm": "416",
+      "average_annual_precipitation_inches": "16.4",
+      "continent": "Africa"
+    },
+    {
+      "rank": 152,
+      "country": "Palestine",
+      "average_annual_precipitation_mm": "402",
+      "average_annual_precipitation_inches": "15.8",
+      "continent": "Asia"
+    },
+    {
+      "rank": 153,
+      "country": "Eritrea",
+      "average_annual_precipitation_mm": "384",
+      "average_annual_precipitation_inches": "15.1",
+      "continent": "Africa"
+    },
+    {
+      "rank": 154,
+      "country": "Morocco",
+      "average_annual_precipitation_mm": "346",
+      "average_annual_precipitation_inches": "13.6",
+      "continent": "Africa"
+    },
+    {
+      "rank": 155,
+      "country": "Afghanistan",
+      "average_annual_precipitation_mm": "327",
+      "average_annual_precipitation_inches": "12.9",
+      "continent": "Asia"
+    },
+    {
+      "rank": 156,
+      "country": "Chad",
+      "average_annual_precipitation_mm": "322",
+      "average_annual_precipitation_inches": "12.7",
+      "continent": "Africa"
+    },
+    {
+      "rank": 157,
+      "country": "Namibia",
+      "average_annual_precipitation_mm": "285",
+      "average_annual_precipitation_inches": "11.2",
+      "continent": "Africa"
+    },
+    {
+      "rank": 158,
+      "country": "Mali",
+      "average_annual_precipitation_mm": "282",
+      "average_annual_precipitation_inches": "11.1",
+      "continent": "Africa"
+    },
+    {
+      "rank": 159,
+      "country": "Somalia",
+      "average_annual_precipitation_mm": "282",
+      "average_annual_precipitation_inches": "11.1",
+      "continent": "Africa"
+    },
+    {
+      "rank": 160,
+      "country": "Syria",
+      "average_annual_precipitation_mm": "252",
+      "average_annual_precipitation_inches": "9.9",
+      "continent": "Asia"
+    },
+    {
+      "rank": 161,
+      "country": "Kazakhstan",
+      "average_annual_precipitation_mm": "250",
+      "average_annual_precipitation_inches": "9.8",
+      "continent": "Asia"
+    },
+    {
+      "rank": 162,
+      "country": "Sudan",
+      "average_annual_precipitation_mm": "250",
+      "average_annual_precipitation_inches": "9.8",
+      "continent": "Africa"
+    },
+    {
+      "rank": 163,
+      "country": "Mongolia",
+      "average_annual_precipitation_mm": "241",
+      "average_annual_precipitation_inches": "9.5",
+      "continent": "Asia"
+    },
+    {
+      "rank": 164,
+      "country": "Cape Verde",
+      "average_annual_precipitation_mm": "228",
+      "average_annual_precipitation_inches": "9.0",
+      "continent": "Africa"
+    },
+    {
+      "rank": 165,
+      "country": "Iran",
+      "average_annual_precipitation_mm": "228",
+      "average_annual_precipitation_inches": "9.0",
+      "continent": "Asia"
+    },
+    {
+      "rank": 166,
+      "country": "Djibouti",
+      "average_annual_precipitation_mm": "220",
+      "average_annual_precipitation_inches": "8.7",
+      "continent": "Africa"
+    },
+    {
+      "rank": 167,
+      "country": "Iraq",
+      "average_annual_precipitation_mm": "216",
+      "average_annual_precipitation_inches": "8.5",
+      "continent": "Asia"
+    },
+    {
+      "rank": 168,
+      "country": "Tunisia",
+      "average_annual_precipitation_mm": "207",
+      "average_annual_precipitation_inches": "8.1",
+      "continent": "Africa"
+    },
+    {
+      "rank": 169,
+      "country": "Uzbekistan",
+      "average_annual_precipitation_mm": "206",
+      "average_annual_precipitation_inches": "8.1",
+      "continent": "Asia"
+    },
+    {
+      "rank": 170,
+      "country": "Yemen",
+      "average_annual_precipitation_mm": "167",
+      "average_annual_precipitation_inches": "6.6",
+      "continent": "Asia"
+    },
+    {
+      "rank": 171,
+      "country": "Turkmenistan",
+      "average_annual_precipitation_mm": "161",
+      "average_annual_precipitation_inches": "6.3",
+      "continent": "Asia"
+    },
+    {
+      "rank": 172,
+      "country": "Niger",
+      "average_annual_precipitation_mm": "151",
+      "average_annual_precipitation_inches": "5.9",
+      "continent": "Africa"
+    },
+    {
+      "rank": 173,
+      "country": "Oman",
+      "average_annual_precipitation_mm": "125",
+      "average_annual_precipitation_inches": "4.9",
+      "continent": "Asia"
+    },
+    {
+      "rank": 174,
+      "country": "Kuwait",
+      "average_annual_precipitation_mm": "121",
+      "average_annual_precipitation_inches": "4.8",
+      "continent": "Asia"
+    },
+    {
+      "rank": 175,
+      "country": "Jordan",
+      "average_annual_precipitation_mm": "111",
+      "average_annual_precipitation_inches": "4.4",
+      "continent": "Asia"
+    },
+    {
+      "rank": 176,
+      "country": "Mauritania",
+      "average_annual_precipitation_mm": "92",
+      "average_annual_precipitation_inches": "3.6",
+      "continent": "Africa"
+    },
+    {
+      "rank": 177,
+      "country": "Algeria",
+      "average_annual_precipitation_mm": "89",
+      "average_annual_precipitation_inches": "3.5",
+      "continent": "Africa"
+    },
+    {
+      "rank": 178,
+      "country": "Bahrain",
+      "average_annual_precipitation_mm": "83",
+      "average_annual_precipitation_inches": "3.3",
+      "continent": "Asia"
+    },
+    {
+      "rank": 179,
+      "country": "United Arab Emirates",
+      "average_annual_precipitation_mm": "78",
+      "average_annual_precipitation_inches": "3.1",
+      "continent": "Asia"
+    },
+    {
+      "rank": 180,
+      "country": "Qatar",
+      "average_annual_precipitation_mm": "74",
+      "average_annual_precipitation_inches": "2.9",
+      "continent": "Asia"
+    },
+    {
+      "rank": 181,
+      "country": "Saudi Arabia",
+      "average_annual_precipitation_mm": "59",
+      "average_annual_precipitation_inches": "2.3",
+      "continent": "Asia"
+    },
+    {
+      "rank": 182,
+      "country": "Libya",
+      "average_annual_precipitation_mm": "56",
+      "average_annual_precipitation_inches": "2.2",
+      "continent": "Africa"
+    },
+    {
+      "rank": 183,
+      "country": "Egypt",
+      "average_annual_precipitation_mm": "18",
+      "average_annual_precipitation_inches": "0.71",
+      "continent": "Africa"
+    }
+  ]
+}

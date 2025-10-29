@@ -43,6 +43,12 @@
     "category": "Climate & Weather",
     "datasets": [
       {
+        "title": "Countries by Average Annual Precipitation",
+        "subtitle": "Ranking of countries based on their yearly average rainfall in millimeters and inches",
+        "updated_at": "October 29, 2025 10:06 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/climate-weather/countries_by_average_annual_precipitation.json"
+      },
+      {
         "title": "Tropical Cyclone Records (2025)",
         "subtitle": "Notable Tropical Cyclone Records in 2025",
         "updated_at": "September 11, 2025 04:17 PM UTC",

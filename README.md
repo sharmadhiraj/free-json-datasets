@@ -48,6 +48,8 @@ Each dataset follows this JSON format:
 
 ### Climate & Weather
 
+- [**Countries by Average Annual Precipitation**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/climate-weather/countries_by_average_annual_precipitation.json)  
+  Ranking of countries based on their yearly average rainfall in millimeters and inches
 - [**Tropical Cyclone Records (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/climate-weather/tropical_cyclone_records.json)  
   Notable Tropical Cyclone Records in 2025
 - [**Average Surface Temperature Yearly (1990 - 2022)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/climate-weather/yearly_average_surface_temperature_by_country.json)  
