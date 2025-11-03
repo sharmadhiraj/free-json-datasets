@@ -1,0 +1,2623 @@
+{
+  "title": "World’s Longest Bridges",
+  "subtitle": "List of the longest bridges worldwide with their lengths, completion year, traffic type, and country",
+  "updated_at": "November 03, 2025 03:57 AM UTC",
+  "data": [
+    {
+      "name": "Danyang–Kunshan Grand Bridge Beijing–Shanghai High-Speed Railway",
+      "length_m": "164,800",
+      "length_ft": "540,700",
+      "completed": "2010",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Changhua–Kaohsiung Viaduct Taiwan High Speed Rail",
+      "length_m": "157,317",
+      "length_ft": "516,132",
+      "completed": "2004",
+      "traffic": "High-speed rail",
+      "country": "Taiwan"
+    },
+    {
+      "name": "Kita – Yaita Viaduct Tōhoku Shinkansen",
+      "length_m": "114,424",
+      "length_ft": "375,407",
+      "completed": "1982",
+      "traffic": "High-speed rail",
+      "country": "Japan"
+    },
+    {
+      "name": "Tianjin Grand Bridge Beijing–Shanghai High-Speed Railway",
+      "length_m": "113,700",
+      "length_ft": "373,000",
+      "completed": "2010",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Cangde Grand Bridge Beijing–Shanghai High-Speed Railway",
+      "length_m": "105,881",
+      "length_ft": "347,379",
+      "completed": "2010",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Weinan Weihe Grand Bridge Zhengxi Passenger Railway",
+      "length_m": "79,732",
+      "length_ft": "261,588",
+      "completed": "2008",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Burapha Withi Expressway",
+      "length_m": "54,000",
+      "length_ft": "177,000",
+      "completed": "2000",
+      "traffic": "Expressway",
+      "country": "Thailand"
+    },
+    {
+      "name": "Beijing Grand Bridge Beijing–Shanghai High-Speed Railway",
+      "length_m": "48,153",
+      "length_ft": "157,982",
+      "completed": "2010",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Metro Manila Skyway System",
+      "length_m": "39,200",
+      "length_ft": "128,600",
+      "completed": "2021",
+      "traffic": "Expressway",
+      "country": "Philippines"
+    },
+    {
+      "name": "Lake Pontchartrain Causeway",
+      "length_m": "38,442",
+      "length_ft": "126,122",
+      "completed": "1956 (SB) 1969 (NB)",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Line 1, Wuhan Metro Bridge",
+      "length_m": "37,788",
+      "length_ft": "123,976",
+      "completed": "2009",
+      "traffic": "Metro",
+      "country": "China"
+    },
+    {
+      "name": "Manchac Swamp Bridge",
+      "length_m": "36,710",
+      "length_ft": "120,440",
+      "completed": "1979",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Sheikh Mohammed bin Zayed Skyway",
+      "length_m": "36,400",
+      "length_ft": "119,400",
+      "completed": "2019",
+      "traffic": "Expressway",
+      "country": "Indonesia"
+    },
+    {
+      "name": "Sheikh Jaber Al-Ahmad Al-Sabah Causeway (Main Link)",
+      "length_m": "36,140",
+      "length_ft": "118,570",
+      "completed": "2019",
+      "traffic": "Highway",
+      "country": "Kuwait"
+    },
+    {
+      "name": "Yangcun Bridge Beijing-Tianjin Intercity Railway",
+      "length_m": "35,812",
+      "length_ft": "117,493",
+      "completed": "2007",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Hangzhou Bay Bridge",
+      "length_m": "35,673",
+      "length_ft": "117,037",
+      "completed": "2007",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Runyang Bridge",
+      "length_m": "35,660",
+      "length_ft": "116,990",
+      "completed": "2005",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Line 1 – Lima Metro",
+      "length_m": "34,600",
+      "length_ft": "113,500",
+      "completed": "2014",
+      "traffic": "Metro",
+      "country": "Peru"
+    },
+    {
+      "name": "Donghai Bridge",
+      "length_m": "32,500",
+      "length_ft": "106,600",
+      "completed": "2005",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Sultan Haji Omar Ali Saifuddien Bridge",
+      "length_m": "30,000",
+      "length_ft": "98,000",
+      "completed": "2020",
+      "traffic": "Highway",
+      "country": "Brunei"
+    },
+    {
+      "name": "Shanghai Maglev line",
+      "length_m": "29,908",
+      "length_ft": "98,123",
+      "completed": "2003",
+      "traffic": "Maglev",
+      "country": "China"
+    },
+    {
+      "name": "Delhi Metro Blue Line ( Dwarka Sector 8 - Rama Krishna Ashram Marg )",
+      "length_m": "29,808",
+      "length_ft": "97,795",
+      "completed": "2010",
+      "traffic": "Metro",
+      "country": "India"
+    },
+    {
+      "name": "Atchafalaya Basin Bridge",
+      "length_m": "29,290",
+      "length_ft": "96,100",
+      "completed": "1973",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Yanshi Bridge Zhengzhou–Xi'an High-Speed Railway",
+      "length_m": "28,543",
+      "length_ft": "93,645",
+      "completed": "2009",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Jiaozhou Bay Bridge",
+      "length_m": "26,707",
+      "length_ft": "87,621",
+      "completed": "2011",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Jintang Bridge",
+      "length_m": "26,540",
+      "length_ft": "87,070",
+      "completed": "2009",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Manila LRT Line 1",
+      "length_m": "26,000",
+      "length_ft": "85,000",
+      "completed": "2024",
+      "traffic": "Metro",
+      "country": "Philippines"
+    },
+    {
+      "name": "Jinbin Light Rail No. 1 Bridge (Guanghualu – Babaocun)",
+      "length_m": "25,800",
+      "length_ft": "84,600",
+      "completed": "2003",
+      "traffic": "Metro",
+      "country": "China"
+    },
+    {
+      "name": "East West MRT line (Redhill – Tuas Link)",
+      "length_m": "25,700",
+      "length_ft": "84,300",
+      "completed": "2017",
+      "traffic": "Metro",
+      "country": "Singapore"
+    },
+    {
+      "name": "Suvarnabhumi Airport Link",
+      "length_m": "24,500",
+      "length_ft": "80,400",
+      "completed": "2010",
+      "traffic": "Rail",
+      "country": "Thailand"
+    },
+    {
+      "name": "Chesapeake Bay Bridge-Tunnel",
+      "length_m": "24,140",
+      "length_ft": "79,200",
+      "completed": "1964 (NB) 1999 (SB)",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Penang Second Bridge",
+      "length_m": "24,000",
+      "length_ft": "79,000",
+      "completed": "2014",
+      "traffic": "Highway",
+      "country": "Malaysia"
+    },
+    {
+      "name": "MRT Kajang Line Northern Elevated Section",
+      "length_m": "23,100",
+      "length_ft": "75,800",
+      "completed": "2016",
+      "traffic": "Metro",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Bridge section of Hong Kong–Zhuhai–Macau Bridge",
+      "length_m": "22,900",
+      "length_ft": "75,100",
+      "completed": "2018",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Shenzhen-Zhongshan Bridge",
+      "length_m": "22,500",
+      "length_ft": "73,800",
+      "completed": "2024",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Liangshui River Bridge Beijing-Tianjin Intercity Railway",
+      "length_m": "21,563",
+      "length_ft": "70,745",
+      "completed": "2007",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Incheon Bridge",
+      "length_m": "21,380",
+      "length_ft": "70,140",
+      "completed": "2009",
+      "traffic": "Highway",
+      "country": "South Korea"
+    },
+    {
+      "name": "Yongding New River Bridge Beijing-Tianjin Intercity Railway",
+      "length_m": "21,133",
+      "length_ft": "69,334",
+      "completed": "2007",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "6th October Bridge",
+      "length_m": "20,500",
+      "length_ft": "67,300",
+      "completed": "1996",
+      "traffic": "Road",
+      "country": "Egypt"
+    },
+    {
+      "name": "MRT Line 6",
+      "length_m": "20,100",
+      "length_ft": "65,900",
+      "completed": "2022",
+      "traffic": "Metro",
+      "country": "Bangladesh"
+    },
+    {
+      "name": "C215 Viaduct Taiwan High Speed Rail",
+      "length_m": "20,000",
+      "length_ft": "66,000",
+      "completed": "2007",
+      "traffic": "High-speed rail",
+      "country": "Taiwan"
+    },
+    {
+      "name": "Dhaka Elevated Expressway",
+      "length_m": "19,730",
+      "length_ft": "64,730",
+      "completed": "2023",
+      "traffic": "Expressway",
+      "country": "Bangladesh"
+    },
+    {
+      "name": "Hami Grade Separation Bridge Lanzhou–Urumqi High-Speed Railway",
+      "length_m": "19,300",
+      "length_ft": "63,300",
+      "completed": "2014",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "MRT Kajang Line Southern Elevated Section",
+      "length_m": "19,000",
+      "length_ft": "62,000",
+      "completed": "2017",
+      "traffic": "Metro",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Dwarka Expressway flyover",
+      "length_m": "18,900",
+      "length_ft": "62,000[24]",
+      "completed": "2024  2025 ",
+      "traffic": "Expressway",
+      "country": "India"
+    },
+    {
+      "name": "Niya River Grand Bridge Hotan–Ruoqiang railway",
+      "length_m": "18,628",
+      "length_ft": "61,115",
+      "completed": "2022",
+      "traffic": "Rail",
+      "country": "China"
+    },
+    {
+      "name": "Cangzhou–Dezhou Grand Bridge Beijing–Shanghai High-Speed Railway",
+      "length_m": "18,200",
+      "length_ft": "59,700",
+      "completed": "2010",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Mumbai Trans Harbour Link",
+      "length_m": "18,187",
+      "length_ft": "59,669",
+      "completed": "2024",
+      "traffic": "Expressway",
+      "country": "India"
+    },
+    {
+      "name": "Crimean Bridge (Kerch Strait)",
+      "length_m": "18,100",
+      "length_ft": "59,400",
+      "completed": "2018",
+      "traffic": "Road and rail",
+      "country": "RussiaandUkraine"
+    },
+    {
+      "name": "Aérotrain Test Track",
+      "length_m": "18,000",
+      "length_ft": "59,000",
+      "completed": "1965",
+      "traffic": "Rail (prototype)",
+      "country": "France"
+    },
+    {
+      "name": "Bonnet Carré Spillway Bridge",
+      "length_m": "17,702",
+      "length_ft": "58,077",
+      "completed": "1972",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Chittagong Elevated Expressway",
+      "length_m": "16,500",
+      "length_ft": "54,100",
+      "completed": "2023",
+      "traffic": "Expressway",
+      "country": "Bangladesh"
+    },
+    {
+      "name": "Pingtan Strait Rail-Road Bridge ",
+      "length_m": "16,322",
+      "length_ft": "53,550",
+      "completed": "2020",
+      "traffic": "Highway and rail",
+      "country": "China"
+    },
+    {
+      "name": "Green line (Taichung Metro)",
+      "length_m": "15,650",
+      "length_ft": "51,350",
+      "completed": "2020",
+      "traffic": "Metro",
+      "country": "Taiwan"
+    },
+    {
+      "name": "Eastern Freeway South Stretch",
+      "length_m": "15,595",
+      "length_ft": "51,165",
+      "completed": "2013",
+      "traffic": "Expressway",
+      "country": "India"
+    },
+    {
+      "name": "Cross Beijing Ring Roads Bridge Beijing-Tianjin Intercity Railway",
+      "length_m": "15,595",
+      "length_ft": "51,165",
+      "completed": "2007",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Boromma­ratcha­chonnani Elevated Highway",
+      "length_m": "14,000",
+      "length_ft": "46,000",
+      "completed": "1998",
+      "traffic": "Expressway",
+      "country": "Thailand"
+    },
+    {
+      "name": "Manila LRT Line 2",
+      "length_m": "13,800",
+      "length_ft": "45,300",
+      "completed": "2004",
+      "traffic": "Metro",
+      "country": "Philippines"
+    },
+    {
+      "name": "Penang Bridge",
+      "length_m": "13,500",
+      "length_ft": "44,300",
+      "completed": "1985",
+      "traffic": "Highway",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Kam Sheung Road - Tuen Mun viaduct (part of West Rail line )",
+      "length_m": "13,400",
+      "length_ft": "44,000",
+      "completed": "2003",
+      "traffic": "Rail",
+      "country": "Hong Kong"
+    },
+    {
+      "name": "Louisiana Highway 1 Bridge",
+      "length_m": "13,300",
+      "length_ft": "43,600",
+      "completed": "2009",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Rio–Niterói Bridge",
+      "length_m": "13,290",
+      "length_ft": "43,600",
+      "completed": "1974",
+      "traffic": "Road",
+      "country": "Brazil"
+    },
+    {
+      "name": "Ir. Wiyoto Wiyono Toll Road",
+      "length_m": "13,200",
+      "length_ft": "43,300",
+      "completed": "1990",
+      "traffic": "Highway",
+      "country": "Indonesia"
+    },
+    {
+      "name": "Great Seto Bridge",
+      "length_m": "13,100",
+      "length_ft": "43,000",
+      "completed": "1988",
+      "traffic": "Highway and rail",
+      "country": "Japan"
+    },
+    {
+      "name": "Taoyuan Airport MRT (2k+900~ 15k+930 from Airport Terminal 1 station )",
+      "length_m": "13,030",
+      "length_ft": "42,750",
+      "completed": "2017",
+      "traffic": "Metro",
+      "country": "Taiwan"
+    },
+    {
+      "name": "Bhumibol Bridge",
+      "length_m": "13,000",
+      "length_ft": "43,000",
+      "completed": "2006",
+      "traffic": "Road",
+      "country": "Thailand"
+    },
+    {
+      "name": "Confederation Bridge",
+      "length_m": "12,900",
+      "length_ft": "42,300",
+      "completed": "1997",
+      "traffic": "Highway",
+      "country": "Canada"
+    },
+    {
+      "name": "Nansha Bridge",
+      "length_m": "12,891",
+      "length_ft": "42,293",
+      "completed": "2019",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Jubilee Parkway",
+      "length_m": "12,875",
+      "length_ft": "42,241",
+      "completed": "1978",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Rudong Yangkou Yellow Sea Bridge",
+      "length_m": "12,600",
+      "length_ft": "41,300",
+      "completed": "2008",
+      "traffic": "Road",
+      "country": "China"
+    },
+    {
+      "name": "Digha-AIIMS Elevated Tollway",
+      "length_m": "12,500",
+      "length_ft": "41,000",
+      "completed": "2020",
+      "traffic": "Highway",
+      "country": "India"
+    },
+    {
+      "name": "Multan Metrobus elevated section",
+      "length_m": "12,500",
+      "length_ft": "41,000",
+      "completed": "2017",
+      "traffic": "Elevated BRT",
+      "country": "Pakistan"
+    },
+    {
+      "name": "Vasco da Gama Bridge",
+      "length_m": "12,345",
+      "length_ft": "40,502",
+      "completed": "1998",
+      "traffic": "Highway",
+      "country": "Portugal"
+    },
+    {
+      "name": "Rosario-Victoria Bridge",
+      "length_m": "12,282",
+      "length_ft": "40,295",
+      "completed": "2003",
+      "traffic": "Road",
+      "country": "Argentina"
+    },
+    {
+      "name": "North South MRT line (Lentor North – Marsiling)",
+      "length_m": "12,200",
+      "length_ft": "40,000",
+      "completed": "1996",
+      "traffic": "Metro",
+      "country": "Singapore"
+    },
+    {
+      "name": "Emsland test facility",
+      "length_m": "12,000",
+      "length_ft": "39,000",
+      "completed": "1985",
+      "traffic": "Maglev",
+      "country": "Germany"
+    },
+    {
+      "name": "Nanjing Qinhuai River Bridge Beijing-Shanghai High-Speed Railway",
+      "length_m": "12,000",
+      "length_ft": "39,000",
+      "completed": "2010",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Lezíria Bridge",
+      "length_m": "11,902",
+      "length_ft": "39,049",
+      "completed": "2007",
+      "traffic": "Highway",
+      "country": "Portugal"
+    },
+    {
+      "name": "Third Mainland Bridge",
+      "length_m": "11,800",
+      "length_ft": "38,700",
+      "completed": "1991",
+      "traffic": "Road",
+      "country": "Nigeria"
+    },
+    {
+      "name": "Qingshuihe Bridge Qingzang Railway",
+      "length_m": "11,700",
+      "length_ft": "38,400",
+      "completed": "2006",
+      "traffic": "Rail",
+      "country": "China"
+    },
+    {
+      "name": "P.V. Narasimha Rao Elevated Expressway",
+      "length_m": "11,600",
+      "length_ft": "38,100",
+      "completed": "2009",
+      "traffic": "Highway",
+      "country": "India"
+    },
+    {
+      "name": "NAIA Expressway",
+      "length_m": "11,600",
+      "length_ft": "38,100",
+      "completed": "2016",
+      "traffic": "Expressway",
+      "country": "Philippines"
+    },
+    {
+      "name": "Taoyuan Airport MRT (19k+600~ 31k+100 from Airport Terminal 1 station )",
+      "length_m": "11,500",
+      "length_ft": "37,700",
+      "completed": "2017",
+      "traffic": "Metro",
+      "country": "Taiwan"
+    },
+    {
+      "name": "San Mateo–Hayward Bridge",
+      "length_m": "11,270",
+      "length_ft": "36,980",
+      "completed": "1967",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Hutong Yangtze River Bridge",
+      "length_m": "11,072",
+      "length_ft": "36,325",
+      "completed": "2020",
+      "traffic": "Expressway and rail",
+      "country": "China"
+    },
+    {
+      "name": "Zhenjiang Beijing–Hangzhou Canal Bridge Beijing-Shanghai High-Speed Railway",
+      "length_m": "11,000",
+      "length_ft": "36,000",
+      "completed": "2010",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Seven Mile Bridge",
+      "length_m": "10,887",
+      "length_ft": "35,719",
+      "completed": "1982",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Shashangou Bridge",
+      "length_m": "10,690",
+      "length_ft": "35,070",
+      "completed": "2019",
+      "traffic": "Rail",
+      "country": "China"
+    },
+    {
+      "name": "Shandong-Henan Yellow River Bridge",
+      "length_m": "10,282",
+      "length_ft": "33,734",
+      "completed": "1985",
+      "traffic": "Rail",
+      "country": "China"
+    },
+    {
+      "name": "Jiaxing-Shaoxing Sea Bridge",
+      "length_m": "10,138",
+      "length_ft": "33,261",
+      "completed": "2013",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "GD Naidu Elevated Expressway",
+      "length_m": "10,100",
+      "length_ft": "33,100",
+      "completed": "2025",
+      "traffic": "Highway",
+      "country": "India"
+    },
+    {
+      "name": "Wuhu Yangtze River Bridge",
+      "length_m": "10,020",
+      "length_ft": "32,870",
+      "completed": "2000",
+      "traffic": "Expressway and rail",
+      "country": "China"
+    },
+    {
+      "name": "Bangalore Elevated Tollway",
+      "length_m": "9,945",
+      "length_ft": "32,628",
+      "completed": "2010",
+      "traffic": "Highway",
+      "country": "India"
+    },
+    {
+      "name": "Shanghai Yangtze River Bridge",
+      "length_m": "9,970",
+      "length_ft": "32,710",
+      "completed": "2009",
+      "traffic": "Road (& future rail)",
+      "country": "China"
+    },
+    {
+      "name": "Viadotto Coltano",
+      "length_m": "9,860",
+      "length_ft": "32,350",
+      "completed": "1993",
+      "traffic": "Expressway",
+      "country": "Italy"
+    },
+    {
+      "name": "General W.K. Wilson Jr. Bridge",
+      "length_m": "9,786",
+      "length_ft": "32,106",
+      "completed": "1980",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Southern viaduct of Western High-Speed Diameter",
+      "length_m": "9,378",
+      "length_ft": "30,768",
+      "completed": "2016",
+      "traffic": "Highway",
+      "country": "Russia"
+    },
+    {
+      "name": "Norfolk Southern Lake Pontchartrain Bridge",
+      "length_m": "9,300",
+      "length_ft": "30,500",
+      "completed": "1884",
+      "traffic": "Rail",
+      "country": "United States"
+    },
+    {
+      "name": "Transjakarta Corridor 13",
+      "length_m": "9,300",
+      "length_ft": "30,500",
+      "completed": "2017",
+      "traffic": "Elevated BRT",
+      "country": "Indonesia"
+    },
+    {
+      "name": "Nanjing Dashengguan Yangtze River Bridge",
+      "length_m": "9,273",
+      "length_ft": "30,423",
+      "completed": "2010",
+      "traffic": "High-speed rail and metro",
+      "country": "China"
+    },
+    {
+      "name": "Dhola–Sadiya Bridge",
+      "length_m": "9,150",
+      "length_ft": "30,020",
+      "completed": "2017",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Chacahoula Swamp Bridge",
+      "length_m": "9,005",
+      "length_ft": "29,544",
+      "completed": "1995",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Northern viaduct of Western High-Speed Diameter",
+      "length_m": "8,794",
+      "length_ft": "28,852",
+      "completed": "2016",
+      "traffic": "Highway",
+      "country": "Russia"
+    },
+    {
+      "name": "Cebu-Cordova Link Expressway",
+      "length_m": "8,900",
+      "length_ft": "29,200",
+      "completed": "2022",
+      "traffic": "Highway",
+      "country": "Philippines"
+    },
+    {
+      "name": "Frank Davis \"Naturally N'Awlins\" Memorial Bridge",
+      "length_m": "8,851",
+      "length_ft": "29,039",
+      "completed": "1962 2011",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Richmond–San Rafael Bridge",
+      "length_m": "8,851",
+      "length_ft": "29,039",
+      "completed": "1956",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "General Rafael Urdaneta Bridge",
+      "length_m": "8,678",
+      "length_ft": "28,471",
+      "completed": "1962",
+      "traffic": "Road",
+      "country": "Venezuela"
+    },
+    {
+      "name": "Metro Bus corridor-Rawalpindi Section",
+      "length_m": "8,600",
+      "length_ft": "28,200",
+      "completed": "2015",
+      "traffic": "Elevated BRT",
+      "country": "Pakistan"
+    },
+    {
+      "name": "Yimlakut Bridge Hotan–Ruoqiang railway",
+      "length_m": "8,600",
+      "length_ft": "28,200",
+      "completed": "2022",
+      "traffic": "Rail",
+      "country": "China"
+    },
+    {
+      "name": "Virginia Dare Memorial Bridge",
+      "length_m": "8,369",
+      "length_ft": "27,457",
+      "completed": "2002",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Yangpu Bridge",
+      "length_m": "8,354",
+      "length_ft": "27,408",
+      "completed": "1993",
+      "traffic": "Road",
+      "country": "China"
+    },
+    {
+      "name": "Rạch Miễu Bridge",
+      "length_m": "8,331",
+      "length_ft": "27,333",
+      "completed": "2009",
+      "traffic": "Road",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Bali Mandara Toll Road",
+      "length_m": "8,300",
+      "length_ft": "27,200",
+      "completed": "2013",
+      "traffic": "Road",
+      "country": "Indonesia"
+    },
+    {
+      "name": "Lahore Metrobus elevated section",
+      "length_m": "8,300",
+      "length_ft": "27,200",
+      "completed": "2013",
+      "traffic": "Elevated BRT",
+      "country": "Pakistan"
+    },
+    {
+      "name": "NLEX Harbor Link (Segment 10)",
+      "length_m": "8,250",
+      "length_ft": "27,070",
+      "completed": "2020",
+      "traffic": "Expressway",
+      "country": "Philippines"
+    },
+    {
+      "name": "Xiasha Bridge",
+      "length_m": "8,230",
+      "length_ft": "27,000",
+      "completed": "1991",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Sutong Bridge",
+      "length_m": "8,206",
+      "length_ft": "26,923",
+      "completed": "2008",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Mackinac Bridge",
+      "length_m": "8,038",
+      "length_ft": "26,371",
+      "completed": "1957",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "LaBranche Wetlands Bridge",
+      "length_m": "7,902",
+      "length_ft": "25,925",
+      "completed": "1992",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Öresund Bridge",
+      "length_m": "7,845",
+      "length_ft": "25,738",
+      "completed": "1999",
+      "traffic": "Highway and rail",
+      "country": "DenmarkandSweden"
+    },
+    {
+      "name": "NLEX Connector",
+      "length_m": "7,700",
+      "length_ft": "25,300",
+      "completed": "2023 (partially)",
+      "traffic": "Expressway",
+      "country": "Philippines"
+    },
+    {
+      "name": "Maestri Bridge",
+      "length_m": "7,693",
+      "length_ft": "25,240",
+      "completed": "1928",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Jiujiang Yangtze River Bridge",
+      "length_m": "7,675",
+      "length_ft": "25,180",
+      "completed": "1992",
+      "traffic": "Highway and rail",
+      "country": "China"
+    },
+    {
+      "name": "Gwangan Bridge",
+      "length_m": "7,420",
+      "length_ft": "24,340",
+      "completed": "2002",
+      "traffic": "Highway",
+      "country": "South Korea"
+    },
+    {
+      "name": "Fichera Viaduct ",
+      "length_m": "7,350",
+      "length_ft": "24,110",
+      "completed": "1975",
+      "traffic": "Expressway",
+      "country": "Italy"
+    },
+    {
+      "name": "Jamal Abdul Nasser Bridge",
+      "length_m": "7,333",
+      "length_ft": "24,058",
+      "completed": "2016",
+      "traffic": "Highway",
+      "country": "Kuwait"
+    },
+    {
+      "name": "Seohae Bridge",
+      "length_m": "7,310",
+      "length_ft": "23,980",
+      "completed": "2000",
+      "traffic": "Highway",
+      "country": "South Korea"
+    },
+    {
+      "name": "Madurai Natham road flyover",
+      "length_m": "7,300",
+      "length_ft": "24,000",
+      "completed": "2023",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Cheonsa Bridge",
+      "length_m": "7,224",
+      "length_ft": "23,701",
+      "completed": "2019",
+      "traffic": "Road",
+      "country": "South Korea"
+    },
+    {
+      "name": "Tongjiang-Nizhneleninskoye railway bridge",
+      "length_m": "7,194",
+      "length_ft": "23,602",
+      "completed": "2021",
+      "traffic": "Rail",
+      "country": "China andRussia"
+    },
+    {
+      "name": "Ershilipu Bridge Lanzhou–Urumqi High-Speed Railway",
+      "length_m": "7,093",
+      "length_ft": "23,271",
+      "completed": "2014",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "James River Bridge",
+      "length_m": "7,071.4",
+      "length_ft": "23,200",
+      "completed": "1928 (rebuilt 1982)",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Huey P. Long Bridge",
+      "length_m": "7,009",
+      "length_ft": "22,995",
+      "completed": "1936",
+      "traffic": "Rail",
+      "country": "United States"
+    },
+    {
+      "name": "Gardiner Expressway",
+      "length_m": "6,800",
+      "length_ft": "22,300",
+      "completed": "1966",
+      "traffic": "Highway",
+      "country": "Canada"
+    },
+    {
+      "name": "Dalian Xinghai Bay Bridge ",
+      "length_m": "6,800",
+      "length_ft": "22,300",
+      "completed": "2015",
+      "traffic": "Highway",
+      "country": "China"
+    },
+    {
+      "name": "Great Belt Bridge (Eastern)",
+      "length_m": "6,790",
+      "length_ft": "22,280",
+      "completed": "1998",
+      "traffic": "Highway",
+      "country": "Denmark"
+    },
+    {
+      "name": "Nanjing Yangtze River Bridge",
+      "length_m": "6,772",
+      "length_ft": "22,218",
+      "completed": "1968",
+      "traffic": "Highway and rail",
+      "country": "China"
+    },
+    {
+      "name": "Xiangshan Harbor Bridge",
+      "length_m": "6,761",
+      "length_ft": "22,182",
+      "completed": "2012",
+      "traffic": "Highway",
+      "country": "China"
+    },
+    {
+      "name": "Sunshine Skyway Bridge",
+      "length_m": "6,700",
+      "length_ft": "22,000",
+      "completed": "1987",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Great Belt Bridge (Western)",
+      "length_m": "6,611",
+      "length_ft": "21,690",
+      "completed": "1998",
+      "traffic": "Highway and rail",
+      "country": "Denmark"
+    },
+    {
+      "name": "Longmen Bridge",
+      "length_m": "6,597",
+      "length_ft": "21,644",
+      "completed": "2024",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Thanlwin Bridge (Mawlamyaing)",
+      "length_m": "6,589",
+      "length_ft": "21,617",
+      "completed": "2006",
+      "traffic": "Road and rail",
+      "country": "Myanmar"
+    },
+    {
+      "name": "St. George Island Bridge",
+      "length_m": "6,566",
+      "length_ft": "21,542",
+      "completed": "2004",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Astoria–Megler Bridge",
+      "length_m": "6,545",
+      "length_ft": "21,473",
+      "completed": "1966",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Chesapeake Bay Bridge (eastbound)",
+      "length_m": "6,484",
+      "length_ft": "21,273",
+      "completed": "1952",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Saale-Elster Viaduct Erfurt–Leipzig/Halle high-speed railway",
+      "length_m": "6,465",
+      "length_ft": "21,211",
+      "completed": "2013",
+      "traffic": "High-speed rail",
+      "country": "Germany"
+    },
+    {
+      "name": "Chesapeake Bay Bridge (westbound)",
+      "length_m": "6,415",
+      "length_ft": "21,047",
+      "completed": "1973",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Wufengshan Yangtze River Bridge",
+      "length_m": "6,409",
+      "length_ft": "21,027",
+      "completed": "2020",
+      "traffic": "Expressway and rail",
+      "country": "China"
+    },
+    {
+      "name": "Pakokku Bridge",
+      "length_m": "6,278",
+      "length_ft": "20,597",
+      "completed": "2011",
+      "traffic": "Road and rail",
+      "country": "Myanmar"
+    },
+    {
+      "name": "Ayeyarwady-Nyaungdon Bridge",
+      "length_m": "6,262",
+      "length_ft": "20,545",
+      "completed": "2011",
+      "traffic": "Road and rail",
+      "country": "Myanmar"
+    },
+    {
+      "name": "Dibang River Bridge",
+      "length_m": "6,200",
+      "length_ft": "20,300",
+      "completed": "2018",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "The Padma Multipurpose Bridge",
+      "length_m": "6,150",
+      "length_ft": "20,180",
+      "completed": "2022",
+      "traffic": "Road and rail",
+      "country": "Bangladesh"
+    },
+    {
+      "name": "Öland Bridge",
+      "length_m": "6,072",
+      "length_ft": "19,921",
+      "completed": "1972",
+      "traffic": "Highway",
+      "country": "Sweden"
+    },
+    {
+      "name": "Bleiswijk Railway Viaduct",
+      "length_m": "6,000",
+      "length_ft": "20,000",
+      "completed": "2006",
+      "traffic": "High-speed rail",
+      "country": "Netherlands"
+    },
+    {
+      "name": "Hernando de Soto Bridge",
+      "length_m": "5,954",
+      "length_ft": "19,534",
+      "completed": "1973",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "President Bridge",
+      "length_m": "5,825",
+      "length_ft": "19,111",
+      "completed": "2009",
+      "traffic": "Highway",
+      "country": "Russia"
+    },
+    {
+      "name": "Mid-Bay Bridge",
+      "length_m": "5,793",
+      "length_ft": "19,006",
+      "completed": "1993",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Mahatma Gandhi Setu",
+      "length_m": "5,750",
+      "length_ft": "18,860",
+      "completed": "1982",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Lepence Bridge",
+      "length_m": "5,750",
+      "length_ft": "18,860",
+      "completed": "2019",
+      "traffic": "Highway",
+      "country": "Kosovo"
+    },
+    {
+      "name": "Pulaski Skyway",
+      "length_m": "5,636",
+      "length_ft": "18,491",
+      "completed": "1932",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Garden City Skyway",
+      "length_m": "5,633",
+      "length_ft": "18,481",
+      "completed": "1963",
+      "traffic": "Highway",
+      "country": "Canada"
+    },
+    {
+      "name": "Albemarle Sound Bridge",
+      "length_m": "5,627",
+      "length_ft": "18,461",
+      "completed": "1990",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Garcon Point Bridge",
+      "length_m": "5,616",
+      "length_ft": "18,425",
+      "completed": "1999",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Bromford Viaduct",
+      "length_m": "5,600",
+      "length_ft": "18,400",
+      "completed": "1971",
+      "traffic": "Road",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Bandra-Worli Sea Link",
+      "length_m": "5,575",
+      "length_ft": "18,291",
+      "completed": "2009",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Hong Kong–Shenzhen Western Corridor",
+      "length_m": "5,545",
+      "length_ft": "18,192",
+      "completed": "2006",
+      "traffic": "Expressway",
+      "country": "Hong Kong"
+    },
+    {
+      "name": "Island Eastern Corridor (Causeway Bay to Quarry Bay section)",
+      "length_m": "5,500",
+      "length_ft": "18,000",
+      "completed": "1983",
+      "traffic": "Road",
+      "country": "Hong Kong"
+    },
+    {
+      "name": "Tan Vu-Lach Huyen Bridge ",
+      "length_m": "5,440",
+      "length_ft": "17,850",
+      "completed": "2017",
+      "traffic": "Highway",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Morello Viaduct ",
+      "length_m": "5,440",
+      "length_ft": "17,850",
+      "completed": "1970",
+      "traffic": "Expressway",
+      "country": "Italy"
+    },
+    {
+      "name": "Suramadu Bridge",
+      "length_m": "5,438",
+      "length_ft": "17,841",
+      "completed": "2009",
+      "traffic": "Road",
+      "country": "Indonesia"
+    },
+    {
+      "name": "Dauphin Island Bridge",
+      "length_m": "5,430",
+      "length_ft": "17,810",
+      "completed": "1982",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Littoral viaduct",
+      "length_m": "5,409",
+      "length_ft": "17,746",
+      "completed": "2022",
+      "traffic": "Road",
+      "country": "Réunion"
+    },
+    {
+      "name": "Xinkai River Bridge of Beijing-Tianjin Intercity Railway",
+      "length_m": "5,371",
+      "length_ft": "17,621",
+      "completed": "2007",
+      "traffic": "High-speed rail",
+      "country": "China"
+    },
+    {
+      "name": "Libertador General San Martín Bridge",
+      "length_m": "5,366",
+      "length_ft": "17,605",
+      "completed": "1976",
+      "traffic": "Road",
+      "country": "UruguayandArgentina"
+    },
+    {
+      "name": "Hanjiang Bridge of Haoji Railway",
+      "length_m": "5,242",
+      "length_ft": "17,198",
+      "completed": "2019",
+      "traffic": "Rail",
+      "country": "China"
+    },
+    {
+      "name": "Yolo Causeway",
+      "length_m": "5,200",
+      "length_ft": "17,100",
+      "completed": "1916 1962",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "King Fahd Causeway Bridge I",
+      "length_m": "5,194",
+      "length_ft": "17,041",
+      "completed": "1986",
+      "traffic": "Road",
+      "country": "Saudi ArabiaandBahrain"
+    },
+    {
+      "name": "Hell Gate Bridge",
+      "length_m": "5,182",
+      "length_ft": "17,001",
+      "completed": "1917",
+      "traffic": "Rail",
+      "country": "United States"
+    },
+    {
+      "name": "Rupsha Rail Bridge",
+      "length_m": "5,130",
+      "length_ft": "16,830",
+      "completed": "2023",
+      "traffic": "Rail",
+      "country": "Bangladesh"
+    },
+    {
+      "name": "Second Severn Crossing",
+      "length_m": "5,128",
+      "length_ft": "16,824",
+      "completed": "1996",
+      "traffic": "Road",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Zeeland Bridge",
+      "length_m": "5,022",
+      "length_ft": "16,476",
+      "completed": "1965",
+      "traffic": "Road",
+      "country": "Netherlands"
+    },
+    {
+      "name": "Kinmen Bridge",
+      "length_m": "5,000",
+      "length_ft": "16,000",
+      "completed": "2022",
+      "traffic": "Road",
+      "country": "Taiwan"
+    },
+    {
+      "name": "Bolte Bridge",
+      "length_m": "5,000",
+      "length_ft": "16,000",
+      "completed": "1999",
+      "traffic": "Freeway",
+      "country": "Australia"
+    },
+    {
+      "name": "Candaba Viaduct",
+      "length_m": "5,000",
+      "length_ft": "16,000",
+      "completed": "1977",
+      "traffic": "Highway",
+      "country": "Philippines"
+    },
+    {
+      "name": "New Tappan Zee Bridge",
+      "length_m": "4,989",
+      "length_ft": "16,368",
+      "completed": "2017",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Jamuna Bridge",
+      "length_m": "4,980",
+      "length_ft": "16,340",
+      "completed": "1998",
+      "traffic": "Road and rail",
+      "country": "Bangladesh"
+    },
+    {
+      "name": "Buckman Bridge",
+      "length_m": "4,968",
+      "length_ft": "16,299",
+      "completed": "1970",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Bogibeel Bridge",
+      "length_m": "4,940",
+      "length_ft": "16,210",
+      "completed": "2018",
+      "traffic": "Road and rail",
+      "country": "India"
+    },
+    {
+      "name": "Hongjecheon Bridge",
+      "length_m": "4,937",
+      "length_ft": "16,198",
+      "completed": "1996",
+      "traffic": "Highway",
+      "country": "South Korea"
+    },
+    {
+      "name": "Pensacola Bay Bridge",
+      "length_m": "4,920",
+      "length_ft": "16,140",
+      "completed": "1931 (rebuilt 1960) (rebuilt 2021)",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Howard Frankland Bridge (Southbound)",
+      "length_m": "4,846",
+      "length_ft": "15,899",
+      "completed": "1990",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Howard Frankland Bridge (Northbound)",
+      "length_m": "4,838",
+      "length_ft": "15,873",
+      "completed": "1960",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Jamuna Railway Bridge",
+      "length_m": "4,800",
+      "length_ft": "15,700",
+      "completed": "2025",
+      "traffic": "Rail",
+      "country": "Bangladesh"
+    },
+    {
+      "name": "North–South Motorway",
+      "length_m": "4,800",
+      "length_ft": "15,700",
+      "completed": "2014",
+      "traffic": "Expressway",
+      "country": "Australia"
+    },
+    {
+      "name": "Gran Manglar Viaduct ",
+      "length_m": "4,730",
+      "length_ft": "15,520",
+      "completed": "2018",
+      "traffic": "Road",
+      "country": "Colombia"
+    },
+    {
+      "name": "Ogooué Bridge",
+      "length_m": "4,707",
+      "length_ft": "15,443",
+      "completed": "2019",
+      "traffic": "Road",
+      "country": "Gabon"
+    },
+    {
+      "name": "Moscow Monorail Viaduct",
+      "length_m": "4,700",
+      "length_ft": "15,400",
+      "completed": "2004",
+      "traffic": "Metro",
+      "country": "Russia"
+    },
+    {
+      "name": "Tar Bridge on Washington Bypass",
+      "length_m": "4,700",
+      "length_ft": "15,400",
+      "completed": "2010",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Dingziwan Cross-Sea Bridge",
+      "length_m": "4,700",
+      "length_ft": "15,400",
+      "completed": "2012",
+      "traffic": "Highway",
+      "country": "China"
+    },
+    {
+      "name": "Vembanad Rail Bridge",
+      "length_m": "4,620",
+      "length_ft": "15,160",
+      "completed": "2011",
+      "traffic": "Rail",
+      "country": "India"
+    },
+    {
+      "name": "Çanakkale 1915 Bridge",
+      "length_m": "4,608",
+      "length_ft": "15,118",
+      "completed": "2022",
+      "traffic": "Highway",
+      "country": "Turkey"
+    },
+    {
+      "name": "Nkomi Laguna Bridge",
+      "length_m": "4,577",
+      "length_ft": "15,016",
+      "completed": "2019",
+      "traffic": "Road",
+      "country": "Gabon"
+    },
+    {
+      "name": "Digha–Sonpur Bridge",
+      "length_m": "4,556",
+      "length_ft": "14,948",
+      "completed": "2016",
+      "traffic": "Road and rail",
+      "country": "India"
+    },
+    {
+      "name": "Lindsay C. Warren Bridge",
+      "length_m": "4,550",
+      "length_ft": "14,930",
+      "completed": "1960",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Wright Memorial Bridge (Westbound)",
+      "length_m": "4,550",
+      "length_ft": "14,930",
+      "completed": "1930 (rebuilt 1995)",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Wright Memorial Bridge (Eastbound)",
+      "length_m": "4,531.7",
+      "length_ft": "14,868",
+      "completed": "1966 (rebuilt 1997)",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Gandy Bridge (Eastbound)",
+      "length_m": "4,529",
+      "length_ft": "14,859",
+      "completed": "1924 (rebuilt 1975)",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Marc Basnight Bridge",
+      "length_m": "4,506",
+      "length_ft": "14,783",
+      "completed": "2019",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Sault Ste. Marie International Bridge",
+      "length_m": "4,480",
+      "length_ft": "14,700",
+      "completed": "1962",
+      "traffic": "Highway",
+      "country": "United States andCanada"
+    },
+    {
+      "name": "Podilsko-Voskresensky Bridge",
+      "length_m": "4,432.2",
+      "length_ft": "14,541",
+      "completed": "2023 (partially)",
+      "traffic": "Road (& future metro)",
+      "country": "Ukraine"
+    },
+    {
+      "name": "Yeongjong Bridge",
+      "length_m": "4,420",
+      "length_ft": "14,500",
+      "completed": "2000",
+      "traffic": "Highway and rail",
+      "country": "South Korea"
+    },
+    {
+      "name": "Sydney Metro Northwest Skytrain",
+      "length_m": "4,413",
+      "length_ft": "14,478",
+      "completed": "2019",
+      "traffic": "Metro",
+      "country": "Australia"
+    },
+    {
+      "name": "Vikramshila Setu",
+      "length_m": "4,400",
+      "length_ft": "14,400",
+      "completed": "2001",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Jingzhou Yangtze River Bridge",
+      "length_m": "4,398",
+      "length_ft": "14,429",
+      "completed": "2002",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Aqua Bridge ( Tokyo Bay Aqua-Line )",
+      "length_m": "4,384",
+      "length_ft": "14,383",
+      "completed": "1997",
+      "traffic": "Road",
+      "country": "Japan"
+    },
+    {
+      "name": "Amur Bay Bridge",
+      "length_m": "4,364",
+      "length_ft": "14,318",
+      "completed": "2012",
+      "traffic": "Highway",
+      "country": "Russia"
+    },
+    {
+      "name": "Arrah–Chhapra Bridge",
+      "length_m": "4,350",
+      "length_ft": "14,270",
+      "completed": "2017",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "William B. Umstead Bridge",
+      "length_m": "4,348",
+      "length_ft": "14,265",
+      "completed": "1955",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Horace Wilkinson Bridge",
+      "length_m": "4,313",
+      "length_ft": "14,150",
+      "completed": "1968",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Ponte Salgueiro Maia ",
+      "length_m": "4,308",
+      "length_ft": "14,134",
+      "completed": "2000",
+      "traffic": "Highway",
+      "country": "Portugal"
+    },
+    {
+      "name": "Bayside Bridge",
+      "length_m": "4,270",
+      "length_ft": "14,010",
+      "completed": "1993",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Hochstraße Elbmarsch ",
+      "length_m": "4,258",
+      "length_ft": "13,970",
+      "completed": "1974",
+      "traffic": "Highway",
+      "country": "Germany"
+    },
+    {
+      "name": "Bubiyan Island Railway Bridge",
+      "length_m": "4,245",
+      "length_ft": "13,927",
+      "completed": "2011",
+      "traffic": "Rail",
+      "country": "Kuwait"
+    },
+    {
+      "name": "Commodore Barry Bridge",
+      "length_m": "4,240",
+      "length_ft": "13,910",
+      "completed": "1974",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Gandy Bridge (Westbound)",
+      "length_m": "4,232",
+      "length_ft": "13,885",
+      "completed": "1956 (rebuilt 1996)",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Viadotto Cannatello",
+      "length_m": "4,220",
+      "length_ft": "13,850",
+      "completed": "1975",
+      "traffic": "Expressway",
+      "country": "Italy"
+    },
+    {
+      "name": "Robert F. Kennedy Bridge",
+      "length_m": "4,212",
+      "length_ft": "13,819",
+      "completed": "1936",
+      "traffic": "Expressway",
+      "country": "United States"
+    },
+    {
+      "name": "Escambia Bay Bridge",
+      "length_m": "4,210",
+      "length_ft": "13,810",
+      "completed": "1968 (rebuilt 2007)",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Fred Hartman Bridge",
+      "length_m": "4,185",
+      "length_ft": "13,730",
+      "completed": "1995",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Verrazzano-Narrows Bridge",
+      "length_m": "4,176",
+      "length_ft": "13,701",
+      "completed": "1964",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Greenville Bridge",
+      "length_m": "4,133",
+      "length_ft": "13,560",
+      "completed": "2007",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Godavari Fourth Bridge",
+      "length_m": "4,135",
+      "length_ft": "13,566",
+      "completed": "2015",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Hưng Đức Bridge",
+      "length_m": "4,100",
+      "length_ft": "13,500",
+      "completed": "2024",
+      "traffic": "Expressway",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Yangsigang Yangtze River Bridge",
+      "length_m": "4,130",
+      "length_ft": "13,550",
+      "completed": "2019",
+      "traffic": "Highway",
+      "country": "China"
+    },
+    {
+      "name": "Godavari Road-Cum-Rail Bridge",
+      "length_m": "4,100",
+      "length_ft": "13,500",
+      "completed": "1974",
+      "traffic": "Road and rail",
+      "country": "India"
+    },
+    {
+      "name": "Crescent City Connection",
+      "length_m": "4,093",
+      "length_ft": "13,428",
+      "completed": "1958",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Anghel Saligny Bridge",
+      "length_m": "4,088",
+      "length_ft": "13,412",
+      "completed": "1895",
+      "traffic": "Rail",
+      "country": "Romania"
+    },
+    {
+      "name": "Arthur Ravenel, Jr. Bridge",
+      "length_m": "4,023",
+      "length_ft": "13,199",
+      "completed": "2005",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Kurushima-Kaikyō Bridge",
+      "length_m": "4,015",
+      "length_ft": "13,173",
+      "completed": "1999",
+      "traffic": "Highway",
+      "country": "Japan"
+    },
+    {
+      "name": "John Gorrie Memorial Bridge",
+      "length_m": "4,000",
+      "length_ft": "13,000",
+      "completed": "1935 (rebuilt 1988)",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Judge Clyde B. Wells Bridge (Northbound)",
+      "length_m": "4,000",
+      "length_ft": "13,000",
+      "completed": "2017",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Vicksburg Bridge",
+      "length_m": "3,954",
+      "length_ft": "12,972",
+      "completed": "1973",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Köhlbrandbrücke",
+      "length_m": "3,940",
+      "length_ft": "12,930",
+      "completed": "1974",
+      "traffic": "Road",
+      "country": "Germany"
+    },
+    {
+      "name": "John James Audubon Bridge",
+      "length_m": "3,927",
+      "length_ft": "12,884",
+      "completed": "2011",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Akashi Kaikyō Bridge",
+      "length_m": "3,911",
+      "length_ft": "12,831",
+      "completed": "1998",
+      "traffic": "Highway",
+      "country": "Japan"
+    },
+    {
+      "name": "Amizade Bridge",
+      "length_m": "3,900",
+      "length_ft": "12,800",
+      "completed": "1994",
+      "traffic": "Road",
+      "country": "Macau"
+    },
+    {
+      "name": "Suez Canal Bridge",
+      "length_m": "3,900",
+      "length_ft": "12,800",
+      "completed": "2001",
+      "traffic": "Road",
+      "country": "Egypt"
+    },
+    {
+      "name": "Lupu Bridge",
+      "length_m": "3,900",
+      "length_ft": "12,800",
+      "completed": "2003",
+      "traffic": "Road",
+      "country": "China"
+    },
+    {
+      "name": "Rodanthe Bridge",
+      "length_m": "3,900",
+      "length_ft": "12,800",
+      "completed": "2022",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Yuribey Bridge",
+      "length_m": "3,892.9",
+      "length_ft": "12,772",
+      "completed": "2009",
+      "traffic": "Rail",
+      "country": "Russia"
+    },
+    {
+      "name": "Khabarovsk Bridge",
+      "length_m": "3,890.5",
+      "length_ft": "12,764",
+      "completed": "1999",
+      "traffic": "Road",
+      "country": "Russia"
+    },
+    {
+      "name": "The First Kitakami River Bridge Tōhoku Shinkansen",
+      "length_m": "3,868",
+      "length_ft": "12,690",
+      "completed": "1982",
+      "traffic": "High-speed rail",
+      "country": "Japan"
+    },
+    {
+      "name": "Zacatal Bridge",
+      "length_m": "3,861",
+      "length_ft": "12,667",
+      "completed": "1994",
+      "traffic": "Road",
+      "country": "Mexico"
+    },
+    {
+      "name": "Ponte della Libertà",
+      "length_m": "3,850",
+      "length_ft": "12,630",
+      "completed": "1846 1933",
+      "traffic": "Road and rail",
+      "country": "Italy"
+    },
+    {
+      "name": "Queen Isabella Causeway",
+      "length_m": "3,810",
+      "length_ft": "12,500",
+      "completed": "1974",
+      "traffic": "Road",
+      "country": "United States"
+    },
+    {
+      "name": "Santhià Viaduct",
+      "length_m": "3,782",
+      "length_ft": "12,408",
+      "completed": "2006",
+      "traffic": "Rail",
+      "country": "Italy"
+    },
+    {
+      "name": "Panguil Bay Bridge",
+      "length_m": "3,770",
+      "length_ft": "12,370",
+      "completed": "2024",
+      "traffic": "Road",
+      "country": "Philippines"
+    },
+    {
+      "name": "Sky Gate Bridge R",
+      "length_m": "3,750",
+      "length_ft": "12,300",
+      "completed": "1994",
+      "traffic": "Road and rail",
+      "country": "Japan"
+    },
+    {
+      "name": "Munger Ganga Bridge",
+      "length_m": "3,750",
+      "length_ft": "12,300",
+      "completed": "2016",
+      "traffic": "Road and rail",
+      "country": "India"
+    },
+    {
+      "name": "CNR Bonnet Carré Spillway-McComb Bridge",
+      "length_m": "3,702",
+      "length_ft": "12,146",
+      "completed": "1935",
+      "traffic": "Rail",
+      "country": "United States"
+    },
+    {
+      "name": "Rollemberg–Vuolo Road–Railway Bridge",
+      "length_m": "3,700",
+      "length_ft": "12,100",
+      "completed": "1998",
+      "traffic": "Road and rail",
+      "country": "Brazil"
+    },
+    {
+      "name": "Nhật Tân Bridge",
+      "length_m": "3,700",
+      "length_ft": "12,100",
+      "completed": "2015",
+      "traffic": "Highway",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Vinh Tuy Bridge",
+      "length_m": "3,690",
+      "length_ft": "12,110",
+      "completed": "2008",
+      "traffic": "Road",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Dona Ana Bridge",
+      "length_m": "3,670",
+      "length_ft": "12,040",
+      "completed": "1934",
+      "traffic": "Rail",
+      "country": "Mozam­bique"
+    },
+    {
+      "name": "Walt Whitman Bridge",
+      "length_m": "3,652",
+      "length_ft": "11,982",
+      "completed": "1957",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Humen Pearl River Bridge",
+      "length_m": "3,618",
+      "length_ft": "11,870",
+      "completed": "1997",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Ayrton Senna Bridge",
+      "length_m": "3,607",
+      "length_ft": "11,834",
+      "completed": "1998",
+      "traffic": "Road",
+      "country": "Brazil"
+    },
+    {
+      "name": "Richard I. Bong Memorial Bridge",
+      "length_m": "3,600",
+      "length_ft": "11,800",
+      "completed": "1985",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Panipat Elevated Expressway",
+      "length_m": "3,600",
+      "length_ft": "11,800",
+      "completed": "2008",
+      "traffic": "Expressway",
+      "country": "India"
+    },
+    {
+      "name": "Rio Negro Bridge",
+      "length_m": "3,595",
+      "length_ft": "11,795",
+      "completed": "2011",
+      "traffic": "Road",
+      "country": "Brazil"
+    },
+    {
+      "name": "Fadalto Viaduct  (Southbound)",
+      "length_m": "3,567",
+      "length_ft": "11,703",
+      "completed": "1995",
+      "traffic": "Highway",
+      "country": "Italy"
+    },
+    {
+      "name": "San Francisco–Oakland Bay Bridge (eastern span)",
+      "length_m": "3,540",
+      "length_ft": "11,610",
+      "completed": "2013",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Irabu Bridge R ",
+      "length_m": "3,540",
+      "length_ft": "11,610",
+      "completed": "2015",
+      "traffic": "Road",
+      "country": "Japan"
+    },
+    {
+      "name": "Thang Long Bridge",
+      "length_m": "3,500",
+      "length_ft": "11,500",
+      "completed": "1978",
+      "traffic": "Highway and rail",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Fadalto Viaduct  (Northbound)",
+      "length_m": "3,485",
+      "length_ft": "11,434",
+      "completed": "1995",
+      "traffic": "Highway",
+      "country": "Italy"
+    },
+    {
+      "name": "El Hachef Viaduct",
+      "length_m": "3,466",
+      "length_ft": "11,371",
+      "completed": "2018",
+      "traffic": "High-speed rail",
+      "country": "Morocco"
+    },
+    {
+      "name": "Throgs Neck Bridge",
+      "length_m": "3,430",
+      "length_ft": "11,250",
+      "completed": "1961",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Claiborne Pell Newport Bridge",
+      "length_m": "3,428",
+      "length_ft": "11,247",
+      "completed": "1969",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Jacques Cartier Bridge",
+      "length_m": "3,425.6",
+      "length_ft": "11,239",
+      "completed": "1930",
+      "traffic": "Highway",
+      "country": "Canada"
+    },
+    {
+      "name": "San Diego–Coronado Bridge",
+      "length_m": "3,407",
+      "length_ft": "11,178",
+      "completed": "1969",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Champlain Bridge",
+      "length_m": "3,400",
+      "length_ft": "11,200",
+      "completed": "2019",
+      "traffic": "Highway and light rail",
+      "country": "Canada"
+    },
+    {
+      "name": "Mozambique Island Bridge",
+      "length_m": "3,390",
+      "length_ft": "11,120",
+      "completed": "1969",
+      "traffic": "Road",
+      "country": "Mozam­bique"
+    },
+    {
+      "name": "Colne Valley Viaduct",
+      "length_m": "3,380",
+      "length_ft": "11,090",
+      "completed": "2025 ",
+      "traffic": "High speed rail",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Lake Jesup Bridge",
+      "length_m": "3,379",
+      "length_ft": "11,086",
+      "completed": "1993",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Viadotto Imera II",
+      "length_m": "3,370",
+      "length_ft": "11,060",
+      "completed": "1975 (rebuilt 2020)",
+      "traffic": "Expressway",
+      "country": "Italy"
+    },
+    {
+      "name": "Busan Harbor Bridge",
+      "length_m": "3,368",
+      "length_ft": "11,050",
+      "completed": "2014",
+      "traffic": "Highway",
+      "country": "South Korea"
+    },
+    {
+      "name": "M12 Volga Bridge ",
+      "length_m": "3,362",
+      "length_ft": "11,030",
+      "completed": "2023",
+      "traffic": "Highway",
+      "country": "Russia"
+    },
+    {
+      "name": "Saint-Nazaire Bridge",
+      "length_m": "3,356",
+      "length_ft": "11,010",
+      "completed": "1974",
+      "traffic": "Road",
+      "country": "France"
+    },
+    {
+      "name": "King Fahd Causeway Bridge II",
+      "length_m": "3,334",
+      "length_ft": "10,938",
+      "completed": "1986",
+      "traffic": "Road",
+      "country": "Saudi Arabia andBahrain"
+    },
+    {
+      "name": "Third Bridge",
+      "length_m": "3,300",
+      "length_ft": "10,800",
+      "completed": "1989",
+      "traffic": "Road",
+      "country": "Brazil"
+    },
+    {
+      "name": "Harbor Bridge Project",
+      "length_m": "3,298",
+      "length_ft": "10,820",
+      "completed": "1,661",
+      "traffic": "2025[109]",
+      "country": "Highway"
+    },
+    {
+      "name": "Delaware Memorial Bridge (Westbound)",
+      "length_m": "3,291",
+      "length_ft": "10,797",
+      "completed": "1968",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Delaware Memorial Bridge (Eastbound)",
+      "length_m": "3,281",
+      "length_ft": "10,764",
+      "completed": "1951",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "La Unidad Bridge ",
+      "length_m": "3,277",
+      "length_ft": "10,751",
+      "completed": "1982",
+      "traffic": "Road",
+      "country": "Mexico"
+    },
+    {
+      "name": "Tay Bridge",
+      "length_m": "3,264",
+      "length_ft": "10,709",
+      "completed": "1887",
+      "traffic": "Rail",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Hale Boggs Memorial Bridge",
+      "length_m": "3,261",
+      "length_ft": "10,699",
+      "completed": "1983",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Chahlari Ghat Bridge",
+      "length_m": "3,260",
+      "length_ft": "10,700",
+      "completed": "2017",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Dames Point Bridge",
+      "length_m": "3,245",
+      "length_ft": "10,646",
+      "completed": "1989",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Pumarejo bridge",
+      "length_m": "3,237",
+      "length_ft": "10,620",
+      "completed": "2019",
+      "traffic": "Highway",
+      "country": "Colombia"
+    },
+    {
+      "name": "Great South Bay Bridge",
+      "length_m": "3,206",
+      "length_ft": "10,518",
+      "completed": "1954",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Nurly Zhol Bridge R ",
+      "length_m": "3,200",
+      "length_ft": "10,500",
+      "completed": "2016",
+      "traffic": "Road",
+      "country": "Kazakhstan"
+    },
+    {
+      "name": "Macleay Valley Bridge",
+      "length_m": "3,200",
+      "length_ft": "10,500",
+      "completed": "2013",
+      "traffic": "Freeway",
+      "country": "Australia"
+    },
+    {
+      "name": "Sam Houston Ship Channel Bridge",
+      "length_m": "3,200",
+      "length_ft": "10,500",
+      "completed": "1982",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Storstrøm Bridge",
+      "length_m": "3,199",
+      "length_ft": "10,495",
+      "completed": "1937",
+      "traffic": "Road and rail",
+      "country": "Denmark"
+    },
+    {
+      "name": "Third Mandovi Bridge",
+      "length_m": "3,190",
+      "length_ft": "10,470",
+      "completed": "2019",
+      "traffic": "Highway",
+      "country": "India"
+    },
+    {
+      "name": "25 de Abril Bridge",
+      "length_m": "3,173",
+      "length_ft": "10,410",
+      "completed": "1966",
+      "traffic": "Road and rail",
+      "country": "Portugal"
+    },
+    {
+      "name": "Orinoquia Bridge",
+      "length_m": "3,156",
+      "length_ft": "10,354",
+      "completed": "2006",
+      "traffic": "Road and rail",
+      "country": "Venezuela"
+    },
+    {
+      "name": "San Francisco–Oakland Bay Bridge (western span)",
+      "length_m": "3,141",
+      "length_ft": "10,305",
+      "completed": "1936",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Bridge to Russky Island",
+      "length_m": "3,100",
+      "length_ft": "10,200",
+      "completed": "2012",
+      "traffic": "Highway",
+      "country": "Russia"
+    },
+    {
+      "name": "La Pepa Bridge",
+      "length_m": "3,092",
+      "length_ft": "10,144",
+      "completed": "2015",
+      "traffic": "Road",
+      "country": "Spain"
+    },
+    {
+      "name": "Thanh Tri Bridge",
+      "length_m": "3,084",
+      "length_ft": "10,118",
+      "completed": "2008",
+      "traffic": "Expressway",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Heishipu Bridge",
+      "length_m": "3,068",
+      "length_ft": "10,066",
+      "completed": "2004",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Jawahar Setu",
+      "length_m": "3,061",
+      "length_ft": "10,043",
+      "completed": "1965",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Talmadge Memorial Bridge",
+      "length_m": "3,060",
+      "length_ft": "10,040",
+      "completed": "1991",
+      "traffic": "Highway",
+      "country": "United States"
+    },
+    {
+      "name": "Mokpo Bridge ",
+      "length_m": "3,060",
+      "length_ft": "10,040",
+      "completed": "2012",
+      "traffic": "Road",
+      "country": "South Korea"
+    },
+    {
+      "name": "Nehru Setu",
+      "length_m": "3,059",
+      "length_ft": "10,036",
+      "completed": "1900",
+      "traffic": "Rail",
+      "country": "India"
+    },
+    {
+      "name": "Bạch Đằng Bridge",
+      "length_m": "3,054",
+      "length_ft": "10,020",
+      "completed": "2018",
+      "traffic": "Expressway",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Maputo–Katembe bridge",
+      "length_m": "3,041",
+      "length_ft": "9,977",
+      "completed": "2018",
+      "traffic": "Road",
+      "country": "Mozam­bique"
+    },
+    {
+      "name": "Kolia Bhomora Setu (Northbound)",
+      "length_m": "3,040",
+      "length_ft": "9,970",
+      "completed": "2021",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Oleron Viaduct ",
+      "length_m": "3,027",
+      "length_ft": "9,931",
+      "completed": "1966",
+      "traffic": "Road",
+      "country": "France"
+    },
+    {
+      "name": "Kolia Bhomora Setu (Southbound)",
+      "length_m": "3,015",
+      "length_ft": "9,892",
+      "completed": "1987",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Murrumbeena Skyrail Pakenham line",
+      "length_m": "3,012",
+      "length_ft": "9,882",
+      "completed": "2018",
+      "traffic": "Metro",
+      "country": "Australia"
+    },
+    {
+      "name": "Ponte Conde de Linhares",
+      "length_m": "3,000",
+      "length_ft": "9,800",
+      "completed": "1634",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Jiangyin Bridge",
+      "length_m": "3,000",
+      "length_ft": "9,800",
+      "completed": "1999",
+      "traffic": "Expressway",
+      "country": "China"
+    },
+    {
+      "name": "Korthi-Kolhar Bridge",
+      "length_m": "3,000",
+      "length_ft": "9,800",
+      "completed": "2006",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "Daudnagar Bridge",
+      "length_m": "3,000",
+      "length_ft": "9,800",
+      "completed": "2021",
+      "traffic": "Road",
+      "country": "India"
+    },
+    {
+      "name": "C310 Viaduct",
+      "length_m": "3,000",
+      "length_ft": "9,800",
+      "completed": "2007",
+      "traffic": "High-speed rail",
+      "country": "China"
+    }
+  ]
+}

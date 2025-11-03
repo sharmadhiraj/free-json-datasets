@@ -324,6 +324,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/countries_by_rail_transport_network_size.json"
       },
       {
+        "title": "World’s Longest Bridges",
+        "subtitle": "List of the longest bridges worldwide with their lengths, completion year, traffic type, and country",
+        "updated_at": "November 03, 2025 03:57 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/list_of_longest_bridges.json"
+      },
+      {
         "title": "World’s Busiest Container Ports by Annual Throughput",
         "subtitle": "Ranking of major global container ports based on container traffic (in thousand TEUs) handled per year.",
         "updated_at": "October 14, 2025 02:59 AM UTC",
