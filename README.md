@@ -114,6 +114,8 @@ Each dataset follows this JSON format:
 
 ### Politics & Governance
 
+- [**Corruption Perceptions Index by Country (2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/corruption_perceptions_index.json)  
+  Country rankings based on perceived public sector corruption (CPI 2024).
 - [**Current Heads of State and Government (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/world_leaders_in_office.json)  
   List of countries with their respective leaders as of 2025
 
