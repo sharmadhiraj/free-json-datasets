@@ -324,6 +324,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/countries_by_rail_transport_network_size.json"
       },
       {
+        "title": "Global Road Network Size by Country (2025)",
+        "subtitle": "Comparison of total road lengths by country, measured in kilometers, based on 2025 data",
+        "updated_at": "November 04, 2025 03:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/largest_road_networks_by_country.json"
+      },
+      {
         "title": "World’s Longest Bridges",
         "subtitle": "List of the longest bridges worldwide with their lengths, completion year, traffic type, and country",
         "updated_at": "November 03, 2025 03:57 AM UTC",

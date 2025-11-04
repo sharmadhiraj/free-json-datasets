@@ -1,0 +1,1122 @@
+{
+  "title": "Global Road Network Size by Country (2025)",
+  "subtitle": "Comparison of total road lengths by country, measured in kilometers, based on 2025 data",
+  "updated_at": "November 04, 2025 03:54 AM UTC",
+  "data": [
+    {
+      "country": "United States",
+      "road_network_size_km": "6,645,582",
+      "year_measured": "2020"
+    },
+    {
+      "country": "India",
+      "road_network_size_km": "6,360,004",
+      "year_measured": "2023"
+    },
+    {
+      "country": "China",
+      "road_network_size_km": "5,436,845",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Russia",
+      "road_network_size_km": "1,579,923",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Brazil",
+      "road_network_size_km": "1,563,600",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Australia",
+      "road_network_size_km": "1,322,245",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Japan",
+      "road_network_size_km": "1,231,084",
+      "year_measured": "2022"
+    },
+    {
+      "country": "France",
+      "road_network_size_km": "1,118,600",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Canada",
+      "road_network_size_km": "1,042,718",
+      "year_measured": "2020"
+    },
+    {
+      "country": "Germany",
+      "road_network_size_km": "829,530",
+      "year_measured": "2023"
+    },
+    {
+      "country": "South Africa",
+      "road_network_size_km": "767,608",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Thailand",
+      "road_network_size_km": "703,594",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Vietnam",
+      "road_network_size_km": "639,993",
+      "year_measured": "2020"
+    },
+    {
+      "country": "Indonesia",
+      "road_network_size_km": "543,720",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Spain",
+      "road_network_size_km": "538,577",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Bangladesh",
+      "road_network_size_km": "501,334",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Pakistan",
+      "road_network_size_km": "500,591",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Poland",
+      "road_network_size_km": "428,362",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Mexico",
+      "road_network_size_km": "407,783",
+      "year_measured": "2023"
+    },
+    {
+      "country": "United Kingdom",
+      "road_network_size_km": "395,455",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Malaysia",
+      "road_network_size_km": "327,621",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Saudi Arabia",
+      "road_network_size_km": "321,259",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Turkey",
+      "road_network_size_km": "261,156",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Kenya",
+      "road_network_size_km": "239,122",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Italy",
+      "road_network_size_km": "236,146",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Iran",
+      "road_network_size_km": "221,053",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Hungary",
+      "road_network_size_km": "220,577",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Sweden",
+      "road_network_size_km": "215,690",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Bolivia",
+      "road_network_size_km": "207,508",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Colombia",
+      "road_network_size_km": "205,376",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Argentina",
+      "road_network_size_km": "204,663",
+      "year_measured": "2019"
+    },
+    {
+      "country": "Nigeria",
+      "road_network_size_km": "195,000",
+      "year_measured": "2017"
+    },
+    {
+      "country": "Netherlands",
+      "road_network_size_km": "187,620",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Tanzania",
+      "road_network_size_km": "180,791",
+      "year_measured": "2021"
+    },
+    {
+      "country": "Peru",
+      "road_network_size_km": "174,108",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Ethiopia",
+      "road_network_size_km": "165,863",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Egypt",
+      "road_network_size_km": "165,521",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Ukraine",
+      "road_network_size_km": "162,308",
+      "year_measured": "2023"
+    },
+    {
+      "country": "DR Congo",
+      "road_network_size_km": "152,373",
+      "year_measured": "2015"
+    },
+    {
+      "country": "Uganda",
+      "road_network_size_km": "144,785",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Algeria",
+      "road_network_size_km": "141,500",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Czechia",
+      "road_network_size_km": "130,784",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Austria",
+      "road_network_size_km": "128,267",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Cameroon",
+      "road_network_size_km": "121,873",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Romania",
+      "road_network_size_km": "118,488",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Belgium",
+      "road_network_size_km": "118,414",
+      "year_measured": "2015"
+    },
+    {
+      "country": "Greece",
+      "road_network_size_km": "117,899",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Mongolia",
+      "road_network_size_km": "111,917",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Ghana",
+      "road_network_size_km": "109,515",
+      "year_measured": "2009"
+    },
+    {
+      "country": "South Korea",
+      "road_network_size_km": "107,149",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Belarus",
+      "road_network_size_km": "104,036",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Ireland",
+      "road_network_size_km": "103,524",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Zimbabwe",
+      "road_network_size_km": "97,267",
+      "year_measured": "2019"
+    },
+    {
+      "country": "New Zealand",
+      "road_network_size_km": "97,231",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Venezuela",
+      "road_network_size_km": "96,189",
+      "year_measured": "2014"
+    },
+    {
+      "country": "Norway",
+      "road_network_size_km": "95,052",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Kazakhstan",
+      "road_network_size_km": "94,902",
+      "year_measured": "2023"
+    },
+    {
+      "country": "United Arab Emirates",
+      "road_network_size_km": "90,432",
+      "year_measured": "2023"
+    },
+    {
+      "country": "South Sudan",
+      "road_network_size_km": "90,200",
+      "year_measured": "2019"
+    },
+    {
+      "country": "Estonia",
+      "road_network_size_km": "89,452",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Mali",
+      "road_network_size_km": "89,024",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Chile",
+      "road_network_size_km": "88,267",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Switzerland",
+      "road_network_size_km": "85,009",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Lithuania",
+      "road_network_size_km": "83,503",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Ecuador",
+      "road_network_size_km": "82,359",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Ivory Coast",
+      "road_network_size_km": "81,996",
+      "year_measured": "2007"
+    },
+    {
+      "country": "Paraguay",
+      "road_network_size_km": "78,713",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Azerbaijan",
+      "road_network_size_km": "78,632",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Finland",
+      "road_network_size_km": "77,804",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Oman",
+      "road_network_size_km": "77,749",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Angola",
+      "road_network_size_km": "76,000",
+      "year_measured": "2019"
+    },
+    {
+      "country": "Denmark",
+      "road_network_size_km": "74,853",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Yemen",
+      "road_network_size_km": "71,300",
+      "year_measured": "2005"
+    },
+    {
+      "country": "Cuba",
+      "road_network_size_km": "71,138",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Syria",
+      "road_network_size_km": "69,873",
+      "year_measured": "2010"
+    },
+    {
+      "country": "Cambodia",
+      "road_network_size_km": "67,715",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Zambia",
+      "road_network_size_km": "67,671",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Myanmar",
+      "road_network_size_km": "66,017",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Laos",
+      "road_network_size_km": "59,646",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Morocco",
+      "road_network_size_km": "59,639",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Slovakia",
+      "road_network_size_km": "58,998",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Latvia",
+      "road_network_size_km": "57,905",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Namibia",
+      "road_network_size_km": "48,540",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Senegal",
+      "road_network_size_km": "47,313",
+      "year_measured": "2020"
+    },
+    {
+      "country": "Iraq",
+      "road_network_size_km": "46,424",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Serbia",
+      "road_network_size_km": "46,371",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Costa Rica",
+      "road_network_size_km": "45,898",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Guinea",
+      "road_network_size_km": "45,300",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Afghanistan",
+      "road_network_size_km": "44,747",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Uzbekistan",
+      "road_network_size_km": "42,869",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Taiwan",
+      "road_network_size_km": "41,475",
+      "year_measured": "2019"
+    },
+    {
+      "country": "Georgia",
+      "road_network_size_km": "41,098",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Niger",
+      "road_network_size_km": "40,098",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Slovenia",
+      "road_network_size_km": "38,995",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Libya",
+      "road_network_size_km": "37,000",
+      "year_measured": "2010"
+    },
+    {
+      "country": "Nepal",
+      "road_network_size_km": "35,809",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Philippines",
+      "road_network_size_km": "35,164",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Madagascar",
+      "road_network_size_km": "34,178",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "road_network_size_km": "34,000",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Botswana",
+      "road_network_size_km": "32,565",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Puerto Rico",
+      "road_network_size_km": "32,129",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Sri Lanka",
+      "road_network_size_km": "31,607",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Sudan",
+      "road_network_size_km": "31,000",
+      "year_measured": "2019"
+    },
+    {
+      "country": "Mozambique",
+      "road_network_size_km": "30,616",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Tajikistan",
+      "road_network_size_km": "26,666",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Croatia",
+      "road_network_size_km": "26,495",
+      "year_measured": "2023"
+    },
+    {
+      "country": "North Korea",
+      "road_network_size_km": "25,554",
+      "year_measured": "2006"
+    },
+    {
+      "country": "Nicaragua",
+      "road_network_size_km": "24,781",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Central African Republic",
+      "road_network_size_km": "24,000",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Chad",
+      "road_network_size_km": "23,695",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Republic of the Congo",
+      "road_network_size_km": "23,324",
+      "year_measured": "2017"
+    },
+    {
+      "country": "Jamaica",
+      "road_network_size_km": "22,198",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Somalia",
+      "road_network_size_km": "21,933",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Israel",
+      "road_network_size_km": "21,158",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Qatar",
+      "road_network_size_km": "20,760",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Tunisia",
+      "road_network_size_km": "19,963",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Bulgaria",
+      "road_network_size_km": "19,512",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Guatemala",
+      "road_network_size_km": "18,871",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Bhutan",
+      "road_network_size_km": "18,343",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Panama",
+      "road_network_size_km": "17,803",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Honduras",
+      "road_network_size_km": "17,596",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Eritrea",
+      "road_network_size_km": "16,000",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Malawi",
+      "road_network_size_km": "15,452",
+      "year_measured": "2015"
+    },
+    {
+      "country": "Burkina Faso",
+      "road_network_size_km": "15,272",
+      "year_measured": "2023"
+    },
+    {
+      "country": "North Macedonia",
+      "road_network_size_km": "14,902",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Portugal",
+      "road_network_size_km": "14,339",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Gabon",
+      "road_network_size_km": "14,300",
+      "year_measured": "2001"
+    },
+    {
+      "country": "Turkmenistan",
+      "road_network_size_km": "13,773",
+      "year_measured": "2020"
+    },
+    {
+      "country": "Moldova",
+      "road_network_size_km": "13,609",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Cyprus",
+      "road_network_size_km": "13,402",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Iceland",
+      "road_network_size_km": "12,950",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Mauritania",
+      "road_network_size_km": "12,253",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Sierra Leone",
+      "road_network_size_km": "11,700",
+      "year_measured": "2015"
+    },
+    {
+      "country": "Burundi",
+      "road_network_size_km": "11,513",
+      "year_measured": "2020"
+    },
+    {
+      "country": "Liberia",
+      "road_network_size_km": "10,600",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Montenegro",
+      "road_network_size_km": "9,912",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Singapore",
+      "road_network_size_km": "9,644",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "road_network_size_km": "9,592",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "road_network_size_km": "9,452",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Papua New Guinea",
+      "road_network_size_km": "9,349",
+      "year_measured": "2011"
+    },
+    {
+      "country": "El Salvador",
+      "road_network_size_km": "9,012",
+      "year_measured": "2017"
+    },
+    {
+      "country": "Uruguay",
+      "road_network_size_km": "8,833",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Timor-Leste",
+      "road_network_size_km": "8,811",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Jordan",
+      "road_network_size_km": "8,631",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Kuwait",
+      "road_network_size_km": "8,451",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Armenia",
+      "road_network_size_km": "7,427",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Lebanon",
+      "road_network_size_km": "7,000",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Rwanda",
+      "road_network_size_km": "6,674",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Benin",
+      "road_network_size_km": "5,945",
+      "year_measured": "2021"
+    },
+    {
+      "country": "Lesotho",
+      "road_network_size_km": "5,940",
+      "year_measured": "2011"
+    },
+    {
+      "country": "Dominican Republic",
+      "road_network_size_km": "5,766",
+      "year_measured": "2023"
+    },
+    {
+      "country": "New Caledonia",
+      "road_network_size_km": "5,622",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Bahrain",
+      "road_network_size_km": "5,352",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Belize",
+      "road_network_size_km": "5,042",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Suriname",
+      "road_network_size_km": "4,932",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Gambia",
+      "road_network_size_km": "4,499",
+      "year_measured": "2021"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "road_network_size_km": "4,400",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Haiti",
+      "road_network_size_km": "4,266",
+      "year_measured": "2009"
+    },
+    {
+      "country": "Guyana",
+      "road_network_size_km": "3,995",
+      "year_measured": "2019"
+    },
+    {
+      "country": "Brunei",
+      "road_network_size_km": "3,820",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Albania",
+      "road_network_size_km": "3,606",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Palestine",
+      "road_network_size_km": "3,469",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Fiji",
+      "road_network_size_km": "3,440",
+      "year_measured": "2011"
+    },
+    {
+      "country": "Mauritius",
+      "road_network_size_km": "3,129",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Luxembourg",
+      "road_network_size_km": "2,914",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Djibouti",
+      "road_network_size_km": "2,893",
+      "year_measured": "2013"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "road_network_size_km": "2,880",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Cape Verde",
+      "road_network_size_km": "2,855",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Malta",
+      "road_network_size_km": "2,841",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Bahamas",
+      "road_network_size_km": "2,700",
+      "year_measured": "2011"
+    },
+    {
+      "country": "French Polynesia",
+      "road_network_size_km": "2,590",
+      "year_measured": "1999"
+    },
+    {
+      "country": "Hong Kong",
+      "road_network_size_km": "2,239",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Vanuatu",
+      "road_network_size_km": "2,039",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Marshall Islands",
+      "road_network_size_km": "2,028",
+      "year_measured": "2007"
+    },
+    {
+      "country": "Barbados",
+      "road_network_size_km": "1,700",
+      "year_measured": "2015"
+    },
+    {
+      "country": "Togo",
+      "road_network_size_km": "1,539",
+      "year_measured": "2021"
+    },
+    {
+      "country": "Dominica",
+      "road_network_size_km": "1,512",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Eswatini",
+      "road_network_size_km": "1,500",
+      "year_measured": "2019"
+    },
+    {
+      "country": "Solomon Islands",
+      "road_network_size_km": "1,390",
+      "year_measured": "2011"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "road_network_size_km": "1,300",
+      "year_measured": "2018"
+    },
+    {
+      "country": "United States Virgin Islands",
+      "road_network_size_km": "1,260",
+      "year_measured": "2008"
+    },
+    {
+      "country": "Saint Lucia",
+      "road_network_size_km": "1,210",
+      "year_measured": "2011"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "road_network_size_km": "1,170",
+      "year_measured": "2011"
+    },
+    {
+      "country": "Samoa",
+      "road_network_size_km": "1,150",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Grenada",
+      "road_network_size_km": "1,127",
+      "year_measured": "2017"
+    },
+    {
+      "country": "Isle of Man",
+      "road_network_size_km": "1,107",
+      "year_measured": "2008"
+    },
+    {
+      "country": "Cayman Islands",
+      "road_network_size_km": "1,087",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Guam",
+      "road_network_size_km": "1,045",
+      "year_measured": "2008"
+    },
+    {
+      "country": "Aruba",
+      "road_network_size_km": "1,000",
+      "year_measured": "2010"
+    },
+    {
+      "country": "Faroe Islands",
+      "road_network_size_km": "960",
+      "year_measured": "2017"
+    },
+    {
+      "country": "Comoros",
+      "road_network_size_km": "880",
+      "year_measured": "2002"
+    },
+    {
+      "country": "Liechtenstein",
+      "road_network_size_km": "845",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Tonga",
+      "road_network_size_km": "680",
+      "year_measured": "2011"
+    },
+    {
+      "country": "Kiribati",
+      "road_network_size_km": "670",
+      "year_measured": "2017"
+    },
+    {
+      "country": "Jersey",
+      "road_network_size_km": "576",
+      "year_measured": "2010"
+    },
+    {
+      "country": "Bermuda",
+      "road_network_size_km": "551",
+      "year_measured": "2020"
+    },
+    {
+      "country": "Curacao",
+      "road_network_size_km": "550",
+      "year_measured": ""
+    },
+    {
+      "country": "Seychelles",
+      "road_network_size_km": "545",
+      "year_measured": "2021"
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "road_network_size_km": "536",
+      "year_measured": "2008"
+    },
+    {
+      "country": "Macau",
+      "road_network_size_km": "471",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Falkland Islands",
+      "road_network_size_km": "440",
+      "year_measured": "2008"
+    },
+    {
+      "country": "Micronesia",
+      "road_network_size_km": "388",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "road_network_size_km": "383",
+      "year_measured": "2002"
+    },
+    {
+      "country": "San Marino",
+      "road_network_size_km": "350",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Andorra",
+      "road_network_size_km": "320",
+      "year_measured": "2019"
+    },
+    {
+      "country": "Cook Islands",
+      "road_network_size_km": "295",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Guernsey",
+      "road_network_size_km": "260",
+      "year_measured": "2017"
+    },
+    {
+      "country": "American Samoa",
+      "road_network_size_km": "241",
+      "year_measured": "2016"
+    },
+    {
+      "country": "Niue",
+      "road_network_size_km": "234",
+      "year_measured": "2017"
+    },
+    {
+      "country": "Anguilla",
+      "road_network_size_km": "175",
+      "year_measured": "2004"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "road_network_size_km": "121",
+      "year_measured": "2003"
+    },
+    {
+      "country": "Palau",
+      "road_network_size_km": "121",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "road_network_size_km": "117",
+      "year_measured": "2009"
+    },
+    {
+      "country": "British Virgin Islands",
+      "road_network_size_km": "113",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Maldives",
+      "road_network_size_km": "90",
+      "year_measured": "2018"
+    },
+    {
+      "country": "Monaco",
+      "road_network_size_km": "57",
+      "year_measured": "2023"
+    },
+    {
+      "country": "Sint Maarten",
+      "road_network_size_km": "53",
+      "year_measured": ""
+    },
+    {
+      "country": "Saint Barthelemy",
+      "road_network_size_km": "40",
+      "year_measured": ""
+    },
+    {
+      "country": "Nauru",
+      "road_network_size_km": "30",
+      "year_measured": "2002"
+    },
+    {
+      "country": "Gibraltar",
+      "road_network_size_km": "29",
+      "year_measured": "2007"
+    },
+    {
+      "country": "Tuvalu",
+      "road_network_size_km": "16",
+      "year_measured": "2022"
+    },
+    {
+      "country": "Tokelau",
+      "road_network_size_km": "10",
+      "year_measured": "2019"
+    },
+    {
+      "country": "Total",
+      "road_network_size_km": "42,201,737",
+      "year_measured": ""
+    }
+  ]
+}
