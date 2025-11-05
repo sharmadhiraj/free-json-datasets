@@ -215,6 +215,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/corruption_perceptions_index.json"
       },
       {
+        "title": "Religious Freedom Index (2024)",
+        "subtitle": "Global ranking of countries based on their level of religious freedom in 2024",
+        "updated_at": "November 05, 2025 10:31 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/religious_freedom_index.json"
+      },
+      {
         "title": "Current Heads of State and Government (2025)",
         "subtitle": "List of countries with their respective leaders as of 2025",
         "updated_at": "September 17, 2025 01:58 PM UTC",

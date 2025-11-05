@@ -1,0 +1,452 @@
+{
+  "title": "Religious Freedom Index (2024)",
+  "subtitle": "Global ranking of countries based on their level of religious freedom in 2024",
+  "updated_at": "November 05, 2025 10:31 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Canada",
+      "score": 100.0
+    },
+    {
+      "rank": 2,
+      "country": "New Zealand",
+      "score": 95.97
+    },
+    {
+      "rank": 3,
+      "country": "Netherlands",
+      "score": 94.03
+    },
+    {
+      "rank": 4,
+      "country": "Australia",
+      "score": 92.63
+    },
+    {
+      "rank": 5,
+      "country": "United Kingdom",
+      "score": 90.23
+    },
+    {
+      "rank": 6,
+      "country": "Norway",
+      "score": 89.47
+    },
+    {
+      "rank": 7,
+      "country": "Denmark",
+      "score": 87.85
+    },
+    {
+      "rank": 8,
+      "country": "Finland",
+      "score": 82.0
+    },
+    {
+      "rank": 9,
+      "country": "Belgium",
+      "score": 81.96
+    },
+    {
+      "rank": 10,
+      "country": "Sweden",
+      "score": 81.89
+    },
+    {
+      "rank": 11,
+      "country": "Austria",
+      "score": 79.78
+    },
+    {
+      "rank": 12,
+      "country": "Iceland",
+      "score": 78.94
+    },
+    {
+      "rank": 13,
+      "country": "Switzerland",
+      "score": 78.91
+    },
+    {
+      "rank": 14,
+      "country": "Portugal",
+      "score": 78.52
+    },
+    {
+      "rank": 15,
+      "country": "Spain",
+      "score": 78.02
+    },
+    {
+      "rank": 16,
+      "country": "Luxembourg",
+      "score": 76.0
+    },
+    {
+      "rank": 17,
+      "country": "United States",
+      "score": 75.33
+    },
+    {
+      "rank": 18,
+      "country": "France",
+      "score": 69.62
+    },
+    {
+      "rank": 19,
+      "country": "Germany",
+      "score": 64.71
+    },
+    {
+      "rank": 20,
+      "country": "Ireland",
+      "score": 59.29
+    },
+    {
+      "rank": 21,
+      "country": "Italy",
+      "score": 59.12
+    },
+    {
+      "rank": 22,
+      "country": "Brazil",
+      "score": 57.71
+    },
+    {
+      "rank": 23,
+      "country": "Poland",
+      "score": 55.7
+    },
+    {
+      "rank": 24,
+      "country": "Argentina",
+      "score": 53.54
+    },
+    {
+      "rank": 25,
+      "country": "Mexico",
+      "score": 51.79
+    },
+    {
+      "rank": 26,
+      "country": "Czechia",
+      "score": 50.21
+    },
+    {
+      "rank": 27,
+      "country": "Greece",
+      "score": 47.09
+    },
+    {
+      "rank": 28,
+      "country": "Hungary",
+      "score": 42.69
+    },
+    {
+      "rank": 29,
+      "country": "Chile",
+      "score": 42.06
+    },
+    {
+      "rank": 30,
+      "country": "Estonia",
+      "score": 38.2
+    },
+    {
+      "rank": 31,
+      "country": "Uruguay",
+      "score": 37.76
+    },
+    {
+      "rank": 32,
+      "country": "Lithuania",
+      "score": 35.8
+    },
+    {
+      "rank": 33,
+      "country": "Bulgaria",
+      "score": 35.26
+    },
+    {
+      "rank": 34,
+      "country": "Latvia",
+      "score": 30.9
+    },
+    {
+      "rank": 35,
+      "country": "Slovenia",
+      "score": 30.81
+    },
+    {
+      "rank": 36,
+      "country": "Romania",
+      "score": 30.67
+    },
+    {
+      "rank": 37,
+      "country": "Peru",
+      "score": 30.25
+    },
+    {
+      "rank": 38,
+      "country": "Slovakia",
+      "score": 30.15
+    },
+    {
+      "rank": 39,
+      "country": "Croatia",
+      "score": 26.63
+    },
+    {
+      "rank": 40,
+      "country": "Ecuador",
+      "score": 26.23
+    },
+    {
+      "rank": 41,
+      "country": "Cyprus",
+      "score": 25.83
+    },
+    {
+      "rank": 42,
+      "country": "Costa Rica",
+      "score": 25.71
+    },
+    {
+      "rank": 43,
+      "country": "South Africa",
+      "score": 24.79
+    },
+    {
+      "rank": 44,
+      "country": "Colombia",
+      "score": 23.75
+    },
+    {
+      "rank": 45,
+      "country": "Japan",
+      "score": 23.61
+    },
+    {
+      "rank": 46,
+      "country": "Panama",
+      "score": 23.49
+    },
+    {
+      "rank": 47,
+      "country": "Singapore",
+      "score": 23.29
+    },
+    {
+      "rank": 48,
+      "country": "Philippines",
+      "score": 22.32
+    },
+    {
+      "rank": 49,
+      "country": "Serbia",
+      "score": 21.98
+    },
+    {
+      "rank": 50,
+      "country": "Thailand",
+      "score": 21.97
+    },
+    {
+      "rank": 51,
+      "country": "Ukraine",
+      "score": 21.85
+    },
+    {
+      "rank": 52,
+      "country": "Malaysia",
+      "score": 18.29
+    },
+    {
+      "rank": 53,
+      "country": "El Salvador",
+      "score": 16.36
+    },
+    {
+      "rank": 54,
+      "country": "Kenya",
+      "score": 16.11
+    },
+    {
+      "rank": 55,
+      "country": "Honduras",
+      "score": 16.06
+    },
+    {
+      "rank": 56,
+      "country": "Guatemala",
+      "score": 15.62
+    },
+    {
+      "rank": 57,
+      "country": "Dominican Republic",
+      "score": 14.51
+    },
+    {
+      "rank": 58,
+      "country": "Cameroon",
+      "score": 14.38
+    },
+    {
+      "rank": 59,
+      "country": "South Korea",
+      "score": 13.45
+    },
+    {
+      "rank": 60,
+      "country": "Ghana",
+      "score": 12.95
+    },
+    {
+      "rank": 61,
+      "country": "India",
+      "score": 12.76
+    },
+    {
+      "rank": 62,
+      "country": "Algeria",
+      "score": 12.36
+    },
+    {
+      "rank": 63,
+      "country": "Indonesia",
+      "score": 11.88
+    },
+    {
+      "rank": 64,
+      "country": "Egypt",
+      "score": 11.02
+    },
+    {
+      "rank": 65,
+      "country": "Turkey",
+      "score": 10.68
+    },
+    {
+      "rank": 66,
+      "country": "Lebanon",
+      "score": 10.61
+    },
+    {
+      "rank": 67,
+      "country": "Vietnam",
+      "score": 8.91
+    },
+    {
+      "rank": 68,
+      "country": "Jordan",
+      "score": 8.55
+    },
+    {
+      "rank": 69,
+      "country": "Zimbabwe",
+      "score": 8.41
+    },
+    {
+      "rank": 70,
+      "country": "Morocco",
+      "score": 8.12
+    },
+    {
+      "rank": 71,
+      "country": "Cambodia",
+      "score": 7.2
+    },
+    {
+      "rank": 72,
+      "country": "Tunisia",
+      "score": 7.06
+    },
+    {
+      "rank": 73,
+      "country": "Oman",
+      "score": 6.37
+    },
+    {
+      "rank": 74,
+      "country": "Russia",
+      "score": 6.32
+    },
+    {
+      "rank": 75,
+      "country": "Azerbaijan",
+      "score": 5.09
+    },
+    {
+      "rank": 76,
+      "country": "Kazakhstan",
+      "score": 4.81
+    },
+    {
+      "rank": 77,
+      "country": "Bangladesh",
+      "score": 4.79
+    },
+    {
+      "rank": 78,
+      "country": "Sri Lanka",
+      "score": 4.74
+    },
+    {
+      "rank": 79,
+      "country": "Myanmar",
+      "score": 4.73
+    },
+    {
+      "rank": 80,
+      "country": "Uzbekistan",
+      "score": 4.16
+    },
+    {
+      "rank": 81,
+      "country": "United Arab Emirates",
+      "score": 3.17
+    },
+    {
+      "rank": 82,
+      "country": "Belarus",
+      "score": 3.08
+    },
+    {
+      "rank": 83,
+      "country": "Israel",
+      "score": 2.83
+    },
+    {
+      "rank": 84,
+      "country": "China",
+      "score": 2.15
+    },
+    {
+      "rank": 85,
+      "country": "Kuwait",
+      "score": 2.08
+    },
+    {
+      "rank": 86,
+      "country": "Bahrain",
+      "score": 1.66
+    },
+    {
+      "rank": 87,
+      "country": "Iran",
+      "score": 0.78
+    },
+    {
+      "rank": 88,
+      "country": "Qatar",
+      "score": 0.57
+    },
+    {
+      "rank": 89,
+      "country": "Saudi Arabia",
+      "score": 0.0
+    }
+  ]
+}
