@@ -43,6 +43,8 @@ Each dataset follows this JSON format:
 
 - [**Most Visited Museums in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/arts-literature/most_visited_museums.json)  
   Global ranking of museums by annual visitor count
+- [**Timeline of Western Philosophers**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/arts-literature/timeline_of_western_philosophers.json)  
+  Chronological overview of major Western philosophers, organized by era and active years.
 
 ### Awards & Achievements
 

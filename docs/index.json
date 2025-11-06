@@ -30,6 +30,12 @@
         "subtitle": "Global ranking of museums by annual visitor count",
         "updated_at": "November 06, 2025 03:52 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/most_visited_museums.json"
+      },
+      {
+        "title": "Timeline of Western Philosophers",
+        "subtitle": "Chronological overview of major Western philosophers, organized by era and active years.",
+        "updated_at": "November 06, 2025 05:37 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/timeline_of_western_philosophers.json"
       }
     ]
   },
