@@ -1,0 +1,434 @@
+{
+  "title": "Most Visited Museums in the World",
+  "subtitle": "Global ranking of museums by annual visitor count",
+  "updated_at": "November 06, 2025 03:52 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "name": "Louvre",
+      "visit_count": "8,700,000 (2024)",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "rank": 2,
+      "name": "National Museum of China",
+      "visit_count": "6,956,800 (2024)",
+      "city": "Beijing",
+      "country": "China"
+    },
+    {
+      "rank": 3,
+      "name": "Vatican Museums",
+      "visit_count": "6,825,436 (2024)",
+      "city": "Vatican City, Rome",
+      "country": "Vatican"
+    },
+    {
+      "rank": 4,
+      "name": "Shenzhen Museum",
+      "visit_count": "6,805,000 (2024)",
+      "city": "Shenzhen",
+      "country": "China"
+    },
+    {
+      "rank": 5,
+      "name": "British Museum",
+      "visit_count": "6,479,952 (2024)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "rank": 6,
+      "name": "China Science and Technology Museum",
+      "visit_count": "6,421,000 (2024)",
+      "city": "Beijing",
+      "country": "China"
+    },
+    {
+      "rank": 7,
+      "name": "Natural History Museum, South Kensington",
+      "visit_count": "6,301,972 (2024)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "rank": 8,
+      "name": "Metropolitan Museum of Art",
+      "visit_count": "5,727,258 (2024)",
+      "city": "New York City",
+      "country": "United States"
+    },
+    {
+      "rank": 9,
+      "name": "Nanjing Museum",
+      "visit_count": "5,680,000 (2024)",
+      "city": "Nanjing",
+      "country": "China"
+    },
+    {
+      "rank": 10,
+      "name": "American Museum of Natural History",
+      "visit_count": "5,400,000 (2024)",
+      "city": "New York City",
+      "country": "United States"
+    },
+    {
+      "rank": 11,
+      "name": "Tate Modern",
+      "visit_count": "4,603,025 (2024)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "rank": 12,
+      "name": "Hubei Provincial Museum",
+      "visit_count": "4,356,943 (2024)",
+      "city": "Wuhan",
+      "country": "China"
+    },
+    {
+      "rank": 13,
+      "name": "Shanghai Museum East",
+      "visit_count": "4,230,000 (2024)",
+      "city": "Shanghai",
+      "country": "China"
+    },
+    {
+      "rank": 14,
+      "name": "National Gallery of Art",
+      "visit_count": "3,936,543 (2024)",
+      "city": "Washington, D.C.",
+      "country": "United States"
+    },
+    {
+      "rank": 15,
+      "name": "National Museum of Korea",
+      "visit_count": "3.78 million (2024)",
+      "city": "Seoul",
+      "country": "South Korea"
+    },
+    {
+      "rank": 16,
+      "name": "Musée d'Orsay",
+      "visit_count": "3,751,000 (including Musée de l'Orangerie) (2024)",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "rank": 17,
+      "name": "National Museum of Anthropology",
+      "visit_count": "3,700,000 (2024)",
+      "city": "Mexico City",
+      "country": "Mexico"
+    },
+    {
+      "rank": 18,
+      "name": "State Russian Museum",
+      "visit_count": "3,611,899 (2024)",
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "rank": 19,
+      "name": "State Hermitage Museum",
+      "visit_count": "3,563,590 (2024)",
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "rank": 20,
+      "name": "Victoria and Albert Museum",
+      "visit_count": "3,525,700 (2024)",
+      "city": "London, South Kensington",
+      "country": "United Kingdom"
+    },
+    {
+      "rank": 21,
+      "name": "Prado Museum",
+      "visit_count": "3,457,057 (2024)",
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "rank": 22,
+      "name": "Centre Pompidou",
+      "visit_count": "3,204,369 (2024)",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "rank": 23,
+      "name": "National Gallery",
+      "visit_count": "3,203,451 (2024)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "rank": 24,
+      "name": "Musée National d'Histoire Naturelle",
+      "visit_count": "3.2 million (2024)",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "rank": 25,
+      "name": "National Air and Space Museum",
+      "visit_count": "3,100,000 (2024)",
+      "city": "Washington, D.C.",
+      "country": "United States"
+    },
+    {
+      "rank": 26,
+      "name": "Mevlana Museum",
+      "visit_count": "3,048,000 (2024)",
+      "city": "Konya",
+      "country": "Turkey"
+    },
+    {
+      "rank": 27,
+      "name": "National Museum of Natural History",
+      "visit_count": "3.0 million (2024)",
+      "city": "Washington, D.C.",
+      "country": "United States"
+    },
+    {
+      "rank": 28,
+      "name": "Galleria degli Uffizi",
+      "visit_count": "2,908,828 (2024)",
+      "city": "Florence",
+      "country": "Italy"
+    },
+    {
+      "rank": 29,
+      "name": "National Museum of Natural Science",
+      "visit_count": "2,854,455 (2024)",
+      "city": "Taichung",
+      "country": "Taiwan"
+    },
+    {
+      "rank": 30,
+      "name": "Museum of Modern Art",
+      "visit_count": "2,657,377 (2024)",
+      "city": "New York City",
+      "country": "United States"
+    },
+    {
+      "rank": 31,
+      "name": "London Science Museum",
+      "visit_count": "2,827,242 (2024)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "rank": 32,
+      "name": "M+",
+      "visit_count": "2.61 million (2024)",
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    {
+      "rank": 33,
+      "name": "National Museum of Scotland",
+      "visit_count": "2,314,974 (2024)",
+      "city": "Edinburgh",
+      "country": "United Kingdom"
+    },
+    {
+      "rank": 34,
+      "name": "State Russian Museum",
+      "visit_count": "3,611,899 (2024)",
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "rank": 35,
+      "name": "Tokyo National Museum",
+      "visit_count": "2,460,000 (2024)",
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    {
+      "rank": 36,
+      "name": "Royal Museums Greenwich",
+      "visit_count": "2,255,753 (2024)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    {
+      "rank": 37,
+      "name": "State Tretyakov Gallery",
+      "visit_count": "2,524,450 (2024)",
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "rank": 38,
+      "name": "Smithsonian Museum of American History",
+      "visit_count": "2,100,000 (2024)",
+      "city": "Washington, D.C.",
+      "country": "United States"
+    },
+    {
+      "rank": 39,
+      "name": "Art Gallery of NSW",
+      "visit_count": "2,032,098",
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    {
+      "rank": 40,
+      "name": "Galleria dell'Accademia",
+      "visit_count": "2,189,103 (2024)",
+      "city": "Florence",
+      "country": "Italy"
+    },
+    {
+      "rank": 41,
+      "name": "Hebei Museum",
+      "visit_count": "1,879,175 (2023)",
+      "city": "Shijiazhuang",
+      "country": "China"
+    },
+    {
+      "rank": 42,
+      "name": "National Science and Technology Museum",
+      "visit_count": "1,875,372",
+      "city": "Kaohsiung",
+      "country": "Taiwan"
+    },
+    {
+      "rank": 43,
+      "name": "National Palace Museum",
+      "visit_count": "1,874,994 (2024)",
+      "city": "Taipei",
+      "country": "Taiwan"
+    },
+    {
+      "rank": 44,
+      "name": "Van Gogh Museum",
+      "visit_count": "1,840,000 (2024)",
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    {
+      "rank": 45,
+      "name": "Guggenheim Museum Bilbao",
+      "visit_count": "1,301,343 (2024)",
+      "city": "Bilbao",
+      "country": "Spain"
+    },
+    {
+      "rank": 46,
+      "name": "Moscow Kremlin Museum",
+      "visit_count": "1,214,851 (2024)",
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    {
+      "rank": 47,
+      "name": "National Gallery Singapore",
+      "visit_count": "2,040,481 (2024)",
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    {
+      "rank": 48,
+      "name": "California Science Center",
+      "visit_count": "1,694,000 (2022)",
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    {
+      "rank": 49,
+      "name": "China National Silk Museum",
+      "visit_count": "1,692,697 (2023)",
+      "city": "Hangzhou",
+      "country": "China"
+    },
+    {
+      "rank": 50,
+      "name": "Kunsthistorisches Museum",
+      "visit_count": "1,688,509",
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "rank": 51,
+      "name": "Fujian Museum",
+      "visit_count": "1,676,973 (2023)",
+      "city": "Fuzhou",
+      "country": "China"
+    },
+    {
+      "rank": 52,
+      "name": "Hangzhou Arts and Crafts Museum",
+      "visit_count": "1,641,226 (2023)",
+      "city": "Hangzhou",
+      "country": "China"
+    },
+    {
+      "rank": 53,
+      "name": "National Museum in Kraków",
+      "visit_count": "1,600,000",
+      "city": "Kraków",
+      "country": "Poland"
+    },
+    {
+      "rank": 54,
+      "name": "National Gallery of Victoria",
+      "visit_count": "1,580,303",
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    {
+      "rank": 55,
+      "name": "Louis Vuitton Foundation",
+      "visit_count": "1,500,000 (2023)",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "rank": 56,
+      "name": "Kaohsiung Museum of Fine Arts",
+      "visit_count": "1,461,406",
+      "city": "Kaohsiung",
+      "country": "Taiwan"
+    },
+    {
+      "rank": 57,
+      "name": "Acropolis Museum",
+      "visit_count": "1,451,727",
+      "city": "Athens",
+      "country": "Greece"
+    },
+    {
+      "rank": 58,
+      "name": "The National Art Center, Tokyo",
+      "visit_count": "1,755,036",
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    {
+      "rank": 59,
+      "name": "Centro Cultural Banco do Brasil",
+      "visit_count": "1,364,208",
+      "city": "São Paulo",
+      "country": "Brazil"
+    },
+    {
+      "rank": 60,
+      "name": "Palacio de Cristal del Retiro",
+      "visit_count": "1,318,823",
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    {
+      "rank": 61,
+      "name": "Chinese Aviation Museum",
+      "visit_count": "1,292,278 (2023)",
+      "city": "Beijing",
+      "country": "China"
+    }
+  ]
+}

@@ -39,6 +39,11 @@ Each dataset follows this JSON format:
 - [**Top Coffee-Producing Countries and Their Global Share**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/agriculture-food/top_coffee_producing_countries.json)  
   List of the leading coffee-producing nations, their major growing regions, and their percentage contribution to global coffee production.
 
+### Arts & Literature
+
+- [**Most Visited Museums in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/arts-literature/most_visited_museums.json)  
+  Global ranking of museums by annual visitor count
+
 ### Awards & Achievements
 
 - [**Nobel Prizes 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/awards-achievements/nobel_prizes.json)  
