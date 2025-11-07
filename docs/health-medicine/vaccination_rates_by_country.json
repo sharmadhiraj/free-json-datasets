@@ -1,0 +1,1762 @@
+{
+  "title": "Global Vaccination Rates by Country (2025)",
+  "subtitle": "BCG, DTP3, HIB3, MCV1, POL3, and YFV vaccination coverage by country in 2025.",
+  "updated_at": "November 07, 2025 03:17 AM UTC",
+  "data": [
+    {
+      "country": "China",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Bangladesh",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Iran",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Thailand",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "92%",
+      "hib3_vaccination_rate_2023": "83%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "93%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Algeria",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "92%",
+      "hib3_vaccination_rate_2023": "92%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "88%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Morocco",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Uzbekistan",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Malaysia",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "97%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Sri Lanka",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Dominican Republic",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "90%",
+      "hib3_vaccination_rate_2023": "88%",
+      "mcv1_vaccination_rate_2023": "94%",
+      "pol3_vaccination_rate_2023": "89%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Cuba",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Tajikistan",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "98%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Hungary",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Oman",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Costa Rica",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Kuwait",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Panama",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "66%",
+      "hib3_vaccination_rate_2023": "66%",
+      "mcv1_vaccination_rate_2023": "78%",
+      "pol3_vaccination_rate_2023": "66%",
+      "yfv_vaccination_rate_2023": "4%"
+    },
+    {
+      "country": "Mongolia",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Uruguay",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "95%",
+      "hib3_vaccination_rate_2023": "95%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "95%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Qatar",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "95%",
+      "hib3_vaccination_rate_2023": "95%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Armenia",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "94%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Jamaica",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Albania",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "97%",
+      "mcv1_vaccination_rate_2023": "83%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Fiji",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Guyana",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": "94%"
+    },
+    {
+      "country": "Maldives",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Brunei",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Samoa",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "83%",
+      "hib3_vaccination_rate_2023": "83%",
+      "mcv1_vaccination_rate_2023": "87%",
+      "pol3_vaccination_rate_2023": "84%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Seychelles",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "97%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Tonga",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Marshall Islands",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "85%",
+      "hib3_vaccination_rate_2023": "72%",
+      "mcv1_vaccination_rate_2023": "88%",
+      "pol3_vaccination_rate_2023": "84%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Cook Islands",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "86%",
+      "hib3_vaccination_rate_2023": "69%",
+      "mcv1_vaccination_rate_2023": "84%",
+      "pol3_vaccination_rate_2023": "69%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Nauru",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "97%",
+      "mcv1_vaccination_rate_2023": "98%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Tuvalu",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "98%",
+      "pol3_vaccination_rate_2023": "94%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Niue",
+      "bcg_vaccination_rate_2023": "99%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Turkey",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "South Korea",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Burkina Faso",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "94%",
+      "pol3_vaccination_rate_2023": "93%",
+      "yfv_vaccination_rate_2023": "94%"
+    },
+    {
+      "country": "Chile",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "94%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "United Arab Emirates",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "98%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Belarus",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Turkmenistan",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Serbia",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "93%",
+      "hib3_vaccination_rate_2023": "93%",
+      "mcv1_vaccination_rate_2023": "84%",
+      "pol3_vaccination_rate_2023": "93%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Singapore",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Mauritania",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "90%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "92%",
+      "pol3_vaccination_rate_2023": "90%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Botswana",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "95%",
+      "hib3_vaccination_rate_2023": "95%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Latvia",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Mauritius",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Cape Verde",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "93%",
+      "hib3_vaccination_rate_2023": "93%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "94%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "bcg_vaccination_rate_2023": "98%",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "90%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Japan",
+      "bcg_vaccination_rate_2023": "97%",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "94%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Egypt",
+      "bcg_vaccination_rate_2023": "97%",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Ghana",
+      "bcg_vaccination_rate_2023": "97%",
+      "dtp3_vaccination_rate_2023": "95%",
+      "hib3_vaccination_rate_2023": "95%",
+      "mcv1_vaccination_rate_2023": "90%",
+      "pol3_vaccination_rate_2023": "91%",
+      "yfv_vaccination_rate_2023": "88%"
+    },
+    {
+      "country": "Nepal",
+      "bcg_vaccination_rate_2023": "97%",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "93%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Bulgaria",
+      "bcg_vaccination_rate_2023": "97%",
+      "dtp3_vaccination_rate_2023": "92%",
+      "hib3_vaccination_rate_2023": "92%",
+      "mcv1_vaccination_rate_2023": "92%",
+      "pol3_vaccination_rate_2023": "92%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Croatia",
+      "bcg_vaccination_rate_2023": "97%",
+      "dtp3_vaccination_rate_2023": "93%",
+      "hib3_vaccination_rate_2023": "91%",
+      "mcv1_vaccination_rate_2023": "90%",
+      "pol3_vaccination_rate_2023": "93%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Eritrea",
+      "bcg_vaccination_rate_2023": "97%",
+      "dtp3_vaccination_rate_2023": "95%",
+      "hib3_vaccination_rate_2023": "95%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "95%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Bhutan",
+      "bcg_vaccination_rate_2023": "97%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Pakistan",
+      "bcg_vaccination_rate_2023": "96%",
+      "dtp3_vaccination_rate_2023": "86%",
+      "hib3_vaccination_rate_2023": "86%",
+      "mcv1_vaccination_rate_2023": "84%",
+      "pol3_vaccination_rate_2023": "86%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Russia",
+      "bcg_vaccination_rate_2023": "96%",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "95%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Saudi Arabia",
+      "bcg_vaccination_rate_2023": "96%",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "97%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Zimbabwe",
+      "bcg_vaccination_rate_2023": "96%",
+      "dtp3_vaccination_rate_2023": "90%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "90%",
+      "pol3_vaccination_rate_2023": "90%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Moldova",
+      "bcg_vaccination_rate_2023": "96%",
+      "dtp3_vaccination_rate_2023": "87%",
+      "hib3_vaccination_rate_2023": "87%",
+      "mcv1_vaccination_rate_2023": "85%",
+      "pol3_vaccination_rate_2023": "88%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Kiribati",
+      "bcg_vaccination_rate_2023": "96%",
+      "dtp3_vaccination_rate_2023": "90%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "79%",
+      "pol3_vaccination_rate_2023": "87%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Vietnam",
+      "bcg_vaccination_rate_2023": "95%",
+      "dtp3_vaccination_rate_2023": "65%",
+      "hib3_vaccination_rate_2023": "65%",
+      "mcv1_vaccination_rate_2023": "82%",
+      "pol3_vaccination_rate_2023": "60%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Tanzania",
+      "bcg_vaccination_rate_2023": "95%",
+      "dtp3_vaccination_rate_2023": "93%",
+      "hib3_vaccination_rate_2023": "93%",
+      "mcv1_vaccination_rate_2023": "91%",
+      "pol3_vaccination_rate_2023": "84%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Uganda",
+      "bcg_vaccination_rate_2023": "95%",
+      "dtp3_vaccination_rate_2023": "91%",
+      "hib3_vaccination_rate_2023": "91%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "89%",
+      "yfv_vaccination_rate_2023": "39%"
+    },
+    {
+      "country": "Azerbaijan",
+      "bcg_vaccination_rate_2023": "95%",
+      "dtp3_vaccination_rate_2023": "83%",
+      "hib3_vaccination_rate_2023": "83%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "91%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Kyrgyzstan",
+      "bcg_vaccination_rate_2023": "95%",
+      "dtp3_vaccination_rate_2023": "86%",
+      "hib3_vaccination_rate_2023": "86%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "92%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "El Salvador",
+      "bcg_vaccination_rate_2023": "95%",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "bcg_vaccination_rate_2023": "95%",
+      "dtp3_vaccination_rate_2023": "73%",
+      "hib3_vaccination_rate_2023": "73%",
+      "mcv1_vaccination_rate_2023": "55%",
+      "pol3_vaccination_rate_2023": "75%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Dominica",
+      "bcg_vaccination_rate_2023": "95%",
+      "dtp3_vaccination_rate_2023": "56%",
+      "hib3_vaccination_rate_2023": "56%",
+      "mcv1_vaccination_rate_2023": "87%",
+      "pol3_vaccination_rate_2023": "57%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "bcg_vaccination_rate_2023": "95%",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Romania",
+      "bcg_vaccination_rate_2023": "94%",
+      "dtp3_vaccination_rate_2023": "78%",
+      "hib3_vaccination_rate_2023": "78%",
+      "mcv1_vaccination_rate_2023": "78%",
+      "pol3_vaccination_rate_2023": "78%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Georgia",
+      "bcg_vaccination_rate_2023": "94%",
+      "dtp3_vaccination_rate_2023": "88%",
+      "hib3_vaccination_rate_2023": "88%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "88%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Iraq",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "91%",
+      "hib3_vaccination_rate_2023": "91%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "91%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Mozambique",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "70%",
+      "hib3_vaccination_rate_2023": "70%",
+      "mcv1_vaccination_rate_2023": "65%",
+      "pol3_vaccination_rate_2023": "78%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Cameroon",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "75%",
+      "hib3_vaccination_rate_2023": "75%",
+      "mcv1_vaccination_rate_2023": "71%",
+      "pol3_vaccination_rate_2023": "74%",
+      "yfv_vaccination_rate_2023": "67%"
+    },
+    {
+      "country": "Niger",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "85%",
+      "hib3_vaccination_rate_2023": "85%",
+      "mcv1_vaccination_rate_2023": "80%",
+      "pol3_vaccination_rate_2023": "85%",
+      "yfv_vaccination_rate_2023": "80%"
+    },
+    {
+      "country": "Kazakhstan",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Benin",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "69%",
+      "hib3_vaccination_rate_2023": "69%",
+      "mcv1_vaccination_rate_2023": "52%",
+      "pol3_vaccination_rate_2023": "65%",
+      "yfv_vaccination_rate_2023": "55%"
+    },
+    {
+      "country": "Laos",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "84%",
+      "hib3_vaccination_rate_2023": "84%",
+      "mcv1_vaccination_rate_2023": "80%",
+      "pol3_vaccination_rate_2023": "83%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Lithuania",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "90%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "87%",
+      "pol3_vaccination_rate_2023": "90%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "North Macedonia",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "86%",
+      "hib3_vaccination_rate_2023": "86%",
+      "mcv1_vaccination_rate_2023": "73%",
+      "pol3_vaccination_rate_2023": "86%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Eswatini",
+      "bcg_vaccination_rate_2023": "93%",
+      "dtp3_vaccination_rate_2023": "85%",
+      "hib3_vaccination_rate_2023": "85%",
+      "mcv1_vaccination_rate_2023": "85%",
+      "pol3_vaccination_rate_2023": "76%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Chad",
+      "bcg_vaccination_rate_2023": "92%",
+      "dtp3_vaccination_rate_2023": "67%",
+      "hib3_vaccination_rate_2023": "67%",
+      "mcv1_vaccination_rate_2023": "63%",
+      "pol3_vaccination_rate_2023": "67%",
+      "yfv_vaccination_rate_2023": "62%"
+    },
+    {
+      "country": "Senegal",
+      "bcg_vaccination_rate_2023": "92%",
+      "dtp3_vaccination_rate_2023": "83%",
+      "hib3_vaccination_rate_2023": "83%",
+      "mcv1_vaccination_rate_2023": "76%",
+      "pol3_vaccination_rate_2023": "76%",
+      "yfv_vaccination_rate_2023": "76%"
+    },
+    {
+      "country": "Rwanda",
+      "bcg_vaccination_rate_2023": "92%",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "94%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Saint Lucia",
+      "bcg_vaccination_rate_2023": "92%",
+      "dtp3_vaccination_rate_2023": "74%",
+      "hib3_vaccination_rate_2023": "74%",
+      "mcv1_vaccination_rate_2023": "85%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Philippines",
+      "bcg_vaccination_rate_2023": "91%",
+      "dtp3_vaccination_rate_2023": "89%",
+      "hib3_vaccination_rate_2023": "89%",
+      "mcv1_vaccination_rate_2023": "81%",
+      "pol3_vaccination_rate_2023": "77%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Cambodia",
+      "bcg_vaccination_rate_2023": "91%",
+      "dtp3_vaccination_rate_2023": "85%",
+      "hib3_vaccination_rate_2023": "85%",
+      "mcv1_vaccination_rate_2023": "79%",
+      "pol3_vaccination_rate_2023": "84%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Togo",
+      "bcg_vaccination_rate_2023": "91%",
+      "dtp3_vaccination_rate_2023": "85%",
+      "hib3_vaccination_rate_2023": "85%",
+      "mcv1_vaccination_rate_2023": "72%",
+      "pol3_vaccination_rate_2023": "81%",
+      "yfv_vaccination_rate_2023": "72%"
+    },
+    {
+      "country": "Namibia",
+      "bcg_vaccination_rate_2023": "91%",
+      "dtp3_vaccination_rate_2023": "83%",
+      "hib3_vaccination_rate_2023": "83%",
+      "mcv1_vaccination_rate_2023": "86%",
+      "pol3_vaccination_rate_2023": "77%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Kenya",
+      "bcg_vaccination_rate_2023": "90%",
+      "dtp3_vaccination_rate_2023": "93%",
+      "hib3_vaccination_rate_2023": "93%",
+      "mcv1_vaccination_rate_2023": "91%",
+      "pol3_vaccination_rate_2023": "92%",
+      "yfv_vaccination_rate_2023": "6%"
+    },
+    {
+      "country": "Poland",
+      "bcg_vaccination_rate_2023": "90%",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "91%",
+      "pol3_vaccination_rate_2023": "85%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Jordan",
+      "bcg_vaccination_rate_2023": "90%",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "95%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Timor-Leste",
+      "bcg_vaccination_rate_2023": "90%",
+      "dtp3_vaccination_rate_2023": "83%",
+      "hib3_vaccination_rate_2023": "83%",
+      "mcv1_vaccination_rate_2023": "72%",
+      "pol3_vaccination_rate_2023": "83%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Estonia",
+      "bcg_vaccination_rate_2023": "90%",
+      "dtp3_vaccination_rate_2023": "90%",
+      "hib3_vaccination_rate_2023": "89%",
+      "mcv1_vaccination_rate_2023": "89%",
+      "pol3_vaccination_rate_2023": "89%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "India",
+      "bcg_vaccination_rate_2023": "89%",
+      "dtp3_vaccination_rate_2023": "91%",
+      "hib3_vaccination_rate_2023": "91%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "91%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Mexico",
+      "bcg_vaccination_rate_2023": "89%",
+      "dtp3_vaccination_rate_2023": "85%",
+      "hib3_vaccination_rate_2023": "85%",
+      "mcv1_vaccination_rate_2023": "76%",
+      "pol3_vaccination_rate_2023": "85%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Burundi",
+      "bcg_vaccination_rate_2023": "89%",
+      "dtp3_vaccination_rate_2023": "89%",
+      "hib3_vaccination_rate_2023": "89%",
+      "mcv1_vaccination_rate_2023": "86%",
+      "pol3_vaccination_rate_2023": "89%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Indonesia",
+      "bcg_vaccination_rate_2023": "88%",
+      "dtp3_vaccination_rate_2023": "83%",
+      "hib3_vaccination_rate_2023": "83%",
+      "mcv1_vaccination_rate_2023": "82%",
+      "pol3_vaccination_rate_2023": "82%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Malawi",
+      "bcg_vaccination_rate_2023": "88%",
+      "dtp3_vaccination_rate_2023": "91%",
+      "hib3_vaccination_rate_2023": "91%",
+      "mcv1_vaccination_rate_2023": "87%",
+      "pol3_vaccination_rate_2023": "91%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Guatemala",
+      "bcg_vaccination_rate_2023": "88%",
+      "dtp3_vaccination_rate_2023": "83%",
+      "hib3_vaccination_rate_2023": "83%",
+      "mcv1_vaccination_rate_2023": "88%",
+      "pol3_vaccination_rate_2023": "84%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Equatorial Guinea",
+      "bcg_vaccination_rate_2023": "88%",
+      "dtp3_vaccination_rate_2023": "74%",
+      "hib3_vaccination_rate_2023": "74%",
+      "mcv1_vaccination_rate_2023": "61%",
+      "pol3_vaccination_rate_2023": "73%",
+      "yfv_vaccination_rate_2023": "59%"
+    },
+    {
+      "country": "Belize",
+      "bcg_vaccination_rate_2023": "88%",
+      "dtp3_vaccination_rate_2023": "85%",
+      "hib3_vaccination_rate_2023": "85%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "85%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Colombia",
+      "bcg_vaccination_rate_2023": "87%",
+      "dtp3_vaccination_rate_2023": "90%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "90%",
+      "yfv_vaccination_rate_2023": "86%"
+    },
+    {
+      "country": "Peru",
+      "bcg_vaccination_rate_2023": "87%",
+      "dtp3_vaccination_rate_2023": "84%",
+      "hib3_vaccination_rate_2023": "84%",
+      "mcv1_vaccination_rate_2023": "84%",
+      "pol3_vaccination_rate_2023": "84%",
+      "yfv_vaccination_rate_2023": "61%"
+    },
+    {
+      "country": "Ivory Coast",
+      "bcg_vaccination_rate_2023": "87%",
+      "dtp3_vaccination_rate_2023": "79%",
+      "hib3_vaccination_rate_2023": "79%",
+      "mcv1_vaccination_rate_2023": "70%",
+      "pol3_vaccination_rate_2023": "77%",
+      "yfv_vaccination_rate_2023": "67%"
+    },
+    {
+      "country": "Palestine",
+      "bcg_vaccination_rate_2023": "87%",
+      "dtp3_vaccination_rate_2023": "88%",
+      "hib3_vaccination_rate_2023": "88%",
+      "mcv1_vaccination_rate_2023": "89%",
+      "pol3_vaccination_rate_2023": "89%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Vanuatu",
+      "bcg_vaccination_rate_2023": "86%",
+      "dtp3_vaccination_rate_2023": "72%",
+      "hib3_vaccination_rate_2023": "72%",
+      "mcv1_vaccination_rate_2023": "70%",
+      "pol3_vaccination_rate_2023": "71%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Tunisia",
+      "bcg_vaccination_rate_2023": "85%",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "97%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Comoros",
+      "bcg_vaccination_rate_2023": "85%",
+      "dtp3_vaccination_rate_2023": "75%",
+      "hib3_vaccination_rate_2023": "75%",
+      "mcv1_vaccination_rate_2023": "70%",
+      "pol3_vaccination_rate_2023": "62%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Ukraine",
+      "bcg_vaccination_rate_2023": "84%",
+      "dtp3_vaccination_rate_2023": "83%",
+      "hib3_vaccination_rate_2023": "78%",
+      "mcv1_vaccination_rate_2023": "92%",
+      "pol3_vaccination_rate_2023": "85%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Gabon",
+      "bcg_vaccination_rate_2023": "84%",
+      "dtp3_vaccination_rate_2023": "70%",
+      "hib3_vaccination_rate_2023": "70%",
+      "mcv1_vaccination_rate_2023": "66%",
+      "pol3_vaccination_rate_2023": "69%",
+      "yfv_vaccination_rate_2023": "62%"
+    },
+    {
+      "country": "Solomon Islands",
+      "bcg_vaccination_rate_2023": "83%",
+      "dtp3_vaccination_rate_2023": "84%",
+      "hib3_vaccination_rate_2023": "84%",
+      "mcv1_vaccination_rate_2023": "68%",
+      "pol3_vaccination_rate_2023": "81%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Liberia",
+      "bcg_vaccination_rate_2023": "82%",
+      "dtp3_vaccination_rate_2023": "82%",
+      "hib3_vaccination_rate_2023": "82%",
+      "mcv1_vaccination_rate_2023": "82%",
+      "pol3_vaccination_rate_2023": "72%",
+      "yfv_vaccination_rate_2023": "82%"
+    },
+    {
+      "country": "Zambia",
+      "bcg_vaccination_rate_2023": "81%",
+      "dtp3_vaccination_rate_2023": "80%",
+      "hib3_vaccination_rate_2023": "80%",
+      "mcv1_vaccination_rate_2023": "90%",
+      "pol3_vaccination_rate_2023": "81%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Guinea-Bissau",
+      "bcg_vaccination_rate_2023": "81%",
+      "dtp3_vaccination_rate_2023": "74%",
+      "hib3_vaccination_rate_2023": "74%",
+      "mcv1_vaccination_rate_2023": "72%",
+      "pol3_vaccination_rate_2023": "75%",
+      "yfv_vaccination_rate_2023": "70%"
+    },
+    {
+      "country": "Myanmar",
+      "bcg_vaccination_rate_2023": "80%",
+      "dtp3_vaccination_rate_2023": "76%",
+      "hib3_vaccination_rate_2023": "76%",
+      "mcv1_vaccination_rate_2023": "74%",
+      "pol3_vaccination_rate_2023": "80%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Montenegro",
+      "bcg_vaccination_rate_2023": "80%",
+      "dtp3_vaccination_rate_2023": "81%",
+      "hib3_vaccination_rate_2023": "81%",
+      "mcv1_vaccination_rate_2023": "24%",
+      "pol3_vaccination_rate_2023": "81%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "bcg_vaccination_rate_2023": "80%",
+      "dtp3_vaccination_rate_2023": "86%",
+      "hib3_vaccination_rate_2023": "86%",
+      "mcv1_vaccination_rate_2023": "86%",
+      "pol3_vaccination_rate_2023": "85%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Brazil",
+      "bcg_vaccination_rate_2023": "79%",
+      "dtp3_vaccination_rate_2023": "90%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "87%",
+      "pol3_vaccination_rate_2023": "85%",
+      "yfv_vaccination_rate_2023": "70%"
+    },
+    {
+      "country": "South Africa",
+      "bcg_vaccination_rate_2023": "79%",
+      "dtp3_vaccination_rate_2023": "79%",
+      "hib3_vaccination_rate_2023": "79%",
+      "mcv1_vaccination_rate_2023": "80%",
+      "pol3_vaccination_rate_2023": "79%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Nicaragua",
+      "bcg_vaccination_rate_2023": "79%",
+      "dtp3_vaccination_rate_2023": "89%",
+      "hib3_vaccination_rate_2023": "89%",
+      "mcv1_vaccination_rate_2023": "85%",
+      "pol3_vaccination_rate_2023": "90%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Sierra Leone",
+      "bcg_vaccination_rate_2023": "78%",
+      "dtp3_vaccination_rate_2023": "91%",
+      "hib3_vaccination_rate_2023": "91%",
+      "mcv1_vaccination_rate_2023": "90%",
+      "pol3_vaccination_rate_2023": "91%",
+      "yfv_vaccination_rate_2023": "85%"
+    },
+    {
+      "country": "Paraguay",
+      "bcg_vaccination_rate_2023": "78%",
+      "dtp3_vaccination_rate_2023": "71%",
+      "hib3_vaccination_rate_2023": "71%",
+      "mcv1_vaccination_rate_2023": "83%",
+      "pol3_vaccination_rate_2023": "75%",
+      "yfv_vaccination_rate_2023": "79%"
+    },
+    {
+      "country": "DR Congo",
+      "bcg_vaccination_rate_2023": "77%",
+      "dtp3_vaccination_rate_2023": "60%",
+      "hib3_vaccination_rate_2023": "60%",
+      "mcv1_vaccination_rate_2023": "52%",
+      "pol3_vaccination_rate_2023": "61%",
+      "yfv_vaccination_rate_2023": "50%"
+    },
+    {
+      "country": "Micronesia",
+      "bcg_vaccination_rate_2023": "77%",
+      "dtp3_vaccination_rate_2023": "79%",
+      "hib3_vaccination_rate_2023": "67%",
+      "mcv1_vaccination_rate_2023": "86%",
+      "pol3_vaccination_rate_2023": "79%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Ecuador",
+      "bcg_vaccination_rate_2023": "76%",
+      "dtp3_vaccination_rate_2023": "70%",
+      "hib3_vaccination_rate_2023": "70%",
+      "mcv1_vaccination_rate_2023": "74%",
+      "pol3_vaccination_rate_2023": "59%",
+      "yfv_vaccination_rate_2023": "70%"
+    },
+    {
+      "country": "Gambia",
+      "bcg_vaccination_rate_2023": "76%",
+      "dtp3_vaccination_rate_2023": "84%",
+      "hib3_vaccination_rate_2023": "84%",
+      "mcv1_vaccination_rate_2023": "80%",
+      "pol3_vaccination_rate_2023": "86%",
+      "yfv_vaccination_rate_2023": "78%"
+    },
+    {
+      "country": "Syria",
+      "bcg_vaccination_rate_2023": "75%",
+      "dtp3_vaccination_rate_2023": "66%",
+      "hib3_vaccination_rate_2023": "66%",
+      "mcv1_vaccination_rate_2023": "74%",
+      "pol3_vaccination_rate_2023": "66%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Nigeria",
+      "bcg_vaccination_rate_2023": "74%",
+      "dtp3_vaccination_rate_2023": "62%",
+      "hib3_vaccination_rate_2023": "62%",
+      "mcv1_vaccination_rate_2023": "60%",
+      "pol3_vaccination_rate_2023": "62%",
+      "yfv_vaccination_rate_2023": "59%"
+    },
+    {
+      "country": "Ethiopia",
+      "bcg_vaccination_rate_2023": "74%",
+      "dtp3_vaccination_rate_2023": "72%",
+      "hib3_vaccination_rate_2023": "72%",
+      "mcv1_vaccination_rate_2023": "61%",
+      "pol3_vaccination_rate_2023": "72%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Bolivia",
+      "bcg_vaccination_rate_2023": "74%",
+      "dtp3_vaccination_rate_2023": "67%",
+      "hib3_vaccination_rate_2023": "67%",
+      "mcv1_vaccination_rate_2023": "68%",
+      "pol3_vaccination_rate_2023": "67%",
+      "yfv_vaccination_rate_2023": "67%"
+    },
+    {
+      "country": "Libya",
+      "bcg_vaccination_rate_2023": "74%",
+      "dtp3_vaccination_rate_2023": "73%",
+      "hib3_vaccination_rate_2023": "73%",
+      "mcv1_vaccination_rate_2023": "73%",
+      "pol3_vaccination_rate_2023": "73%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Angola",
+      "bcg_vaccination_rate_2023": "73%",
+      "dtp3_vaccination_rate_2023": "54%",
+      "hib3_vaccination_rate_2023": "54%",
+      "mcv1_vaccination_rate_2023": "50%",
+      "pol3_vaccination_rate_2023": "60%",
+      "yfv_vaccination_rate_2023": "42%"
+    },
+    {
+      "country": "Madagascar",
+      "bcg_vaccination_rate_2023": "73%",
+      "dtp3_vaccination_rate_2023": "65%",
+      "hib3_vaccination_rate_2023": "65%",
+      "mcv1_vaccination_rate_2023": "51%",
+      "pol3_vaccination_rate_2023": "63%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Guinea",
+      "bcg_vaccination_rate_2023": "73%",
+      "dtp3_vaccination_rate_2023": "47%",
+      "hib3_vaccination_rate_2023": "47%",
+      "mcv1_vaccination_rate_2023": "47%",
+      "pol3_vaccination_rate_2023": "48%",
+      "yfv_vaccination_rate_2023": "40%"
+    },
+    {
+      "country": "Haiti",
+      "bcg_vaccination_rate_2023": "73%",
+      "dtp3_vaccination_rate_2023": "51%",
+      "hib3_vaccination_rate_2023": "51%",
+      "mcv1_vaccination_rate_2023": "65%",
+      "pol3_vaccination_rate_2023": "51%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "South Sudan",
+      "bcg_vaccination_rate_2023": "72%",
+      "dtp3_vaccination_rate_2023": "73%",
+      "hib3_vaccination_rate_2023": "73%",
+      "mcv1_vaccination_rate_2023": "72%",
+      "pol3_vaccination_rate_2023": "72%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Honduras",
+      "bcg_vaccination_rate_2023": "72%",
+      "dtp3_vaccination_rate_2023": "73%",
+      "hib3_vaccination_rate_2023": "73%",
+      "mcv1_vaccination_rate_2023": "77%",
+      "pol3_vaccination_rate_2023": "71%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Mali",
+      "bcg_vaccination_rate_2023": "71%",
+      "dtp3_vaccination_rate_2023": "77%",
+      "hib3_vaccination_rate_2023": "77%",
+      "mcv1_vaccination_rate_2023": "73%",
+      "pol3_vaccination_rate_2023": "68%",
+      "yfv_vaccination_rate_2023": "64%"
+    },
+    {
+      "country": "Argentina",
+      "bcg_vaccination_rate_2023": "69%",
+      "dtp3_vaccination_rate_2023": "66%",
+      "hib3_vaccination_rate_2023": "66%",
+      "mcv1_vaccination_rate_2023": "80%",
+      "pol3_vaccination_rate_2023": "71%",
+      "yfv_vaccination_rate_2023": "7%"
+    },
+    {
+      "country": "Afghanistan",
+      "bcg_vaccination_rate_2023": "68%",
+      "dtp3_vaccination_rate_2023": "60%",
+      "hib3_vaccination_rate_2023": "60%",
+      "mcv1_vaccination_rate_2023": "55%",
+      "pol3_vaccination_rate_2023": "68%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Lesotho",
+      "bcg_vaccination_rate_2023": "68%",
+      "dtp3_vaccination_rate_2023": "87%",
+      "hib3_vaccination_rate_2023": "87%",
+      "mcv1_vaccination_rate_2023": "90%",
+      "pol3_vaccination_rate_2023": "87%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Venezuela",
+      "bcg_vaccination_rate_2023": "67%",
+      "dtp3_vaccination_rate_2023": "54%",
+      "hib3_vaccination_rate_2023": "54%",
+      "mcv1_vaccination_rate_2023": "68%",
+      "pol3_vaccination_rate_2023": "61%",
+      "yfv_vaccination_rate_2023": "56%"
+    },
+    {
+      "country": "Republic of the Congo",
+      "bcg_vaccination_rate_2023": "67%",
+      "dtp3_vaccination_rate_2023": "78%",
+      "hib3_vaccination_rate_2023": "78%",
+      "mcv1_vaccination_rate_2023": "65%",
+      "pol3_vaccination_rate_2023": "52%",
+      "yfv_vaccination_rate_2023": "61%"
+    },
+    {
+      "country": "Djibouti",
+      "bcg_vaccination_rate_2023": "65%",
+      "dtp3_vaccination_rate_2023": "72%",
+      "hib3_vaccination_rate_2023": "72%",
+      "mcv1_vaccination_rate_2023": "76%",
+      "pol3_vaccination_rate_2023": "72%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "North Korea",
+      "bcg_vaccination_rate_2023": "63%",
+      "dtp3_vaccination_rate_2023": "16%",
+      "hib3_vaccination_rate_2023": "16%",
+      "mcv1_vaccination_rate_2023": "28%",
+      "pol3_vaccination_rate_2023": "",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Central African Republic",
+      "bcg_vaccination_rate_2023": "61%",
+      "dtp3_vaccination_rate_2023": "42%",
+      "hib3_vaccination_rate_2023": "42%",
+      "mcv1_vaccination_rate_2023": "41%",
+      "pol3_vaccination_rate_2023": "46%",
+      "yfv_vaccination_rate_2023": "41%"
+    },
+    {
+      "country": "Yemen",
+      "bcg_vaccination_rate_2023": "54%",
+      "dtp3_vaccination_rate_2023": "46%",
+      "hib3_vaccination_rate_2023": "46%",
+      "mcv1_vaccination_rate_2023": "45%",
+      "pol3_vaccination_rate_2023": "46%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Sudan",
+      "bcg_vaccination_rate_2023": "49%",
+      "dtp3_vaccination_rate_2023": "51%",
+      "hib3_vaccination_rate_2023": "51%",
+      "mcv1_vaccination_rate_2023": "51%",
+      "pol3_vaccination_rate_2023": "53%",
+      "yfv_vaccination_rate_2023": "50%"
+    },
+    {
+      "country": "Papua New Guinea",
+      "bcg_vaccination_rate_2023": "43%",
+      "dtp3_vaccination_rate_2023": "35%",
+      "hib3_vaccination_rate_2023": "35%",
+      "mcv1_vaccination_rate_2023": "52%",
+      "pol3_vaccination_rate_2023": "46%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Somalia",
+      "bcg_vaccination_rate_2023": "37%",
+      "dtp3_vaccination_rate_2023": "42%",
+      "hib3_vaccination_rate_2023": "42%",
+      "mcv1_vaccination_rate_2023": "46%",
+      "pol3_vaccination_rate_2023": "47%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "United States",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "92%",
+      "mcv1_vaccination_rate_2023": "92%",
+      "pol3_vaccination_rate_2023": "93%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Germany",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "91%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "91%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "United Kingdom",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "92%",
+      "hib3_vaccination_rate_2023": "92%",
+      "mcv1_vaccination_rate_2023": "90%",
+      "pol3_vaccination_rate_2023": "92%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "France",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Italy",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "95%",
+      "hib3_vaccination_rate_2023": "95%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "95%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Spain",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "93%",
+      "hib3_vaccination_rate_2023": "93%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "93%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Canada",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "92%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "92%",
+      "pol3_vaccination_rate_2023": "92%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Australia",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "91%",
+      "pol3_vaccination_rate_2023": "94%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Netherlands",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "92%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "89%",
+      "pol3_vaccination_rate_2023": "92%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Belgium",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "97%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Sweden",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "93%",
+      "pol3_vaccination_rate_2023": "94%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Czechia",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "94%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "87%",
+      "pol3_vaccination_rate_2023": "94%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Portugal",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "98%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Greece",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "97%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Israel",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "98%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Austria",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "84%",
+      "hib3_vaccination_rate_2023": "84%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "84%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Switzerland",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "95%",
+      "hib3_vaccination_rate_2023": "94%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "95%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Denmark",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "97%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Lebanon",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "55%",
+      "hib3_vaccination_rate_2023": "55%",
+      "mcv1_vaccination_rate_2023": "73%",
+      "pol3_vaccination_rate_2023": "55%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Finland",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "91%",
+      "hib3_vaccination_rate_2023": "91%",
+      "mcv1_vaccination_rate_2023": "94%",
+      "pol3_vaccination_rate_2023": "91%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Norway",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Slovakia",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "94%",
+      "pol3_vaccination_rate_2023": "96%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Ireland",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "89%",
+      "hib3_vaccination_rate_2023": "93%",
+      "mcv1_vaccination_rate_2023": "89%",
+      "pol3_vaccination_rate_2023": "93%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "New Zealand",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "88%",
+      "hib3_vaccination_rate_2023": "88%",
+      "mcv1_vaccination_rate_2023": "89%",
+      "pol3_vaccination_rate_2023": "88%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Slovenia",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "89%",
+      "hib3_vaccination_rate_2023": "89%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "89%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Bahrain",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "96%",
+      "hib3_vaccination_rate_2023": "96%",
+      "mcv1_vaccination_rate_2023": "90%",
+      "pol3_vaccination_rate_2023": "94%",
+      "yfv_vaccination_rate_2023": "90%"
+    },
+    {
+      "country": "Cyprus",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "95%",
+      "hib3_vaccination_rate_2023": "95%",
+      "mcv1_vaccination_rate_2023": "82%",
+      "pol3_vaccination_rate_2023": "95%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Luxembourg",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Suriname",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "72%",
+      "hib3_vaccination_rate_2023": "72%",
+      "mcv1_vaccination_rate_2023": "71%",
+      "pol3_vaccination_rate_2023": "72%",
+      "yfv_vaccination_rate_2023": "75%"
+    },
+    {
+      "country": "Malta",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "95%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Bahamas",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "87%",
+      "hib3_vaccination_rate_2023": "87%",
+      "mcv1_vaccination_rate_2023": "86%",
+      "pol3_vaccination_rate_2023": "87%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Iceland",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "92%",
+      "hib3_vaccination_rate_2023": "92%",
+      "mcv1_vaccination_rate_2023": "91%",
+      "pol3_vaccination_rate_2023": "92%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Barbados",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "85%",
+      "hib3_vaccination_rate_2023": "85%",
+      "mcv1_vaccination_rate_2023": "89%",
+      "pol3_vaccination_rate_2023": "85%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Grenada",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "86%",
+      "hib3_vaccination_rate_2023": "86%",
+      "mcv1_vaccination_rate_2023": "82%",
+      "pol3_vaccination_rate_2023": "86%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "98%",
+      "mcv1_vaccination_rate_2023": "94%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Andorra",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "98%",
+      "hib3_vaccination_rate_2023": "97%",
+      "mcv1_vaccination_rate_2023": "99%",
+      "pol3_vaccination_rate_2023": "98%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Monaco",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "99%",
+      "hib3_vaccination_rate_2023": "99%",
+      "mcv1_vaccination_rate_2023": "88%",
+      "pol3_vaccination_rate_2023": "99%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "San Marino",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "91%",
+      "hib3_vaccination_rate_2023": "90%",
+      "mcv1_vaccination_rate_2023": "89%",
+      "pol3_vaccination_rate_2023": "91%",
+      "yfv_vaccination_rate_2023": ""
+    },
+    {
+      "country": "Palau",
+      "bcg_vaccination_rate_2023": "",
+      "dtp3_vaccination_rate_2023": "97%",
+      "hib3_vaccination_rate_2023": "92%",
+      "mcv1_vaccination_rate_2023": "96%",
+      "pol3_vaccination_rate_2023": "97%",
+      "yfv_vaccination_rate_2023": ""
+    }
+  ]
+}

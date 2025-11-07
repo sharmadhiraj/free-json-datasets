@@ -111,6 +111,8 @@ Each dataset follows this JSON format:
 
 - [**Life Expectancy by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/health-medicine/life_expectancy_by_country.json)  
   Average life expectancy of adults worldwide, with breakdown by gender, as reported in 2025.
+- [**Global Vaccination Rates by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/health-medicine/vaccination_rates_by_country.json)  
+  BCG, DTP3, HIB3, MCV1, POL3, and YFV vaccination coverage by country in 2025.
 
 ### Miscellaneous / General Data
 
