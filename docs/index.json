@@ -135,6 +135,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/literacy_rate_by_country.json"
       },
       {
+        "title": "Oldest Universities in the World",
+        "subtitle": "List of the world's oldest continuously operating universities with their founding years and locations.",
+        "updated_at": "November 07, 2025 02:44 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/oldest_universities_in_the_world.json"
+      },
+      {
         "title": "Global University Rankings 2025",
         "subtitle": "Comprehensive list of top universities worldwide in 2025",
         "updated_at": "September 04, 2025 05:23 AM UTC",

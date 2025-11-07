@@ -84,6 +84,8 @@ Each dataset follows this JSON format:
 
 - [**Literacy Rate by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/education-knowledge/literacy_rate_by_country.json)  
   Percentage of adults (15+) who can read and write a simple statement in everyday life, 2025
+- [**Oldest Universities in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/education-knowledge/oldest_universities_in_the_world.json)  
+  List of the world's oldest continuously operating universities with their founding years and locations.
 - [**Global University Rankings 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/education-knowledge/world_university_ranking.json)  
   Comprehensive list of top universities worldwide in 2025
 
