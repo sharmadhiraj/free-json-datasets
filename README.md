@@ -111,6 +111,8 @@ Each dataset follows this JSON format:
 
 - [**Life Expectancy by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/health-medicine/life_expectancy_by_country.json)  
   Average life expectancy of adults worldwide, with breakdown by gender, as reported in 2025.
+- [**Health Expenditure per Capita by Country (2020–2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/health-medicine/list_of_countries_by_total_health_expenditure_per_capita.json)  
+  Total health spending per capita (PPP, international dollars) for OECD and non-OECD countries, 2020–2024
 - [**Global Vaccination Rates by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/health-medicine/vaccination_rates_by_country.json)  
   BCG, DTP3, HIB3, MCV1, POL3, and YFV vaccination coverage by country in 2025.
 

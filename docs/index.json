@@ -204,6 +204,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/life_expectancy_by_country.json"
       },
       {
+        "title": "Health Expenditure per Capita by Country (2020–2024)",
+        "subtitle": "Total health spending per capita (PPP, international dollars) for OECD and non-OECD countries, 2020–2024",
+        "updated_at": "November 11, 2025 08:53 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/list_of_countries_by_total_health_expenditure_per_capita.json"
+      },
+      {
         "title": "Global Vaccination Rates by Country (2025)",
         "subtitle": "BCG, DTP3, HIB3, MCV1, POL3, and YFV vaccination coverage by country in 2025.",
         "updated_at": "November 07, 2025 03:17 AM UTC",
