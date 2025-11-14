@@ -136,6 +136,8 @@ Each dataset follows this JSON format:
 
 ### Science & Technology
 
+- [**Global AI Index - Country Rankings**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/global_ai_index.json)  
+  A comprehensive ranking of countries based on talent, infrastructure, research, development, commercial activity, and national AI strategy.
 - [**Largest Technology Companies by Revenue**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/list_of_largest_technology_companies_by_revenue.json)  
   Top global technology companies ranked by annual revenue, profit, employees, and headquarters location
 - [**Periodic Table of Elements with Key Properties**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/periodic_table_with_properties.json)  
