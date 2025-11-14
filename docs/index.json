@@ -267,6 +267,12 @@
     "category": "Science & Technology",
     "datasets": [
       {
+        "title": "Largest Technology Companies by Revenue",
+        "subtitle": "Top global technology companies ranked by annual revenue, profit, employees, and headquarters location",
+        "updated_at": "November 14, 2025 05:21 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/list_of_largest_technology_companies_by_revenue.json"
+      },
+      {
         "title": "Periodic Table of Elements with Key Properties",
         "subtitle": "Comprehensive dataset of elements including atomic number, weight, electron configuration, melting/boiling points, and other physical & chemical properties",
         "updated_at": "September 15, 2025 08:58 AM UTC",

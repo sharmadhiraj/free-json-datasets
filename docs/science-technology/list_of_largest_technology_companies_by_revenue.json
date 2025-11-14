@@ -1,0 +1,232 @@
+{
+  "title": "Largest Technology Companies by Revenue",
+  "subtitle": "Top global technology companies ranked by annual revenue, profit, employees, and headquarters location",
+  "updated_at": "November 14, 2025 05:21 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "company": "Amazon",
+      "revenue_in_billions_usd": "$637.9",
+      "profit_in_billions_usd": "$59.2",
+      "employees": "1,556,000",
+      "country_of_origin": "US",
+      "headquarters": "Seattle, Washington & Arlington, Virginia, US"
+    },
+    {
+      "rank": 2,
+      "company": "Apple",
+      "revenue_in_billions_usd": "$416.0",
+      "profit_in_billions_usd": "$112.0",
+      "employees": "166,100",
+      "country_of_origin": "US",
+      "headquarters": "Cupertino, California, US"
+    },
+    {
+      "rank": 3,
+      "company": "Alphabet",
+      "revenue_in_billions_usd": "$350.0",
+      "profit_in_billions_usd": "$100.1",
+      "employees": "190,167",
+      "country_of_origin": "US",
+      "headquarters": "Mountain View, California, US"
+    },
+    {
+      "rank": 4,
+      "company": "Microsoft",
+      "revenue_in_billions_usd": "$281.7",
+      "profit_in_billions_usd": "$101.8",
+      "employees": "228,000",
+      "country_of_origin": "US",
+      "headquarters": "Redmond, Washington, US"
+    },
+    {
+      "rank": 5,
+      "company": "Samsung Electronics",
+      "revenue_in_billions_usd": "$220.3",
+      "profit_in_billions_usd": "$25.3",
+      "employees": "270,372",
+      "country_of_origin": "South Korea",
+      "headquarters": "Suwon, South Korea"
+    },
+    {
+      "rank": 6,
+      "company": "Foxconn",
+      "revenue_in_billions_usd": "$213.9",
+      "profit_in_billions_usd": "$4.6",
+      "employees": "767,062",
+      "country_of_origin": "Taiwan",
+      "headquarters": "New Taipei City, Taiwan"
+    },
+    {
+      "rank": 7,
+      "company": "Meta",
+      "revenue_in_billions_usd": "$164.5",
+      "profit_in_billions_usd": "$62.4",
+      "employees": "78,450",
+      "country_of_origin": "US",
+      "headquarters": "Menlo Park, California, US"
+    },
+    {
+      "rank": 8,
+      "company": "Jingdong",
+      "revenue_in_billions_usd": "$158.8",
+      "profit_in_billions_usd": "$3.3",
+      "employees": "620,000",
+      "country_of_origin": "China",
+      "headquarters": "Beijing, China"
+    },
+    {
+      "rank": 9,
+      "company": "Alibaba",
+      "revenue_in_billions_usd": "$137.3",
+      "profit_in_billions_usd": "$17.8",
+      "employees": "124,320",
+      "country_of_origin": "China",
+      "headquarters": "Hangzhou, China & George Town, Cayman Islands"
+    },
+    {
+      "rank": 10,
+      "company": "Nvidia",
+      "revenue_in_billions_usd": "130.5",
+      "profit_in_billions_usd": "$72.9",
+      "employees": "36,000",
+      "country_of_origin": "US",
+      "headquarters": "Sunnyvale, California, US"
+    },
+    {
+      "rank": 11,
+      "company": "AT&T",
+      "revenue_in_billions_usd": "$122.3",
+      "profit_in_billions_usd": "$50.2",
+      "employees": "140,990",
+      "country_of_origin": "US",
+      "headquarters": "Dallas, Texas, US"
+    },
+    {
+      "rank": 12,
+      "company": "Huawei",
+      "revenue_in_billions_usd": "$118.1",
+      "profit_in_billions_usd": "$8.5",
+      "employees": "208,000",
+      "country_of_origin": "China",
+      "headquarters": "Shenzhen, China"
+    },
+    {
+      "rank": 13,
+      "company": "Deutsche Telekom",
+      "revenue_in_billions_usd": "$112.0",
+      "profit_in_billions_usd": "$9.0",
+      "employees": "205,000",
+      "country_of_origin": "Germany",
+      "headquarters": "Bonn, Germany"
+    },
+    {
+      "rank": 14,
+      "company": "Dell Technologies",
+      "revenue_in_billions_usd": "$95.6",
+      "profit_in_billions_usd": "$4.6",
+      "employees": "108,000",
+      "country_of_origin": "US",
+      "headquarters": "Round Rock, Texas, US"
+    },
+    {
+      "rank": 15,
+      "company": "Tencent",
+      "revenue_in_billions_usd": "$91.8",
+      "profit_in_billions_usd": "$27.3",
+      "employees": "105,417",
+      "country_of_origin": "China",
+      "headquarters": "Shenzhen, China"
+    },
+    {
+      "rank": 16,
+      "company": "Sony",
+      "revenue_in_billions_usd": "$90.1",
+      "profit_in_billions_usd": "$6.7",
+      "employees": "113,00",
+      "country_of_origin": "Japan",
+      "headquarters": "Tokyo, Japan"
+    },
+    {
+      "rank": 17,
+      "company": "TSMC",
+      "revenue_in_billions_usd": "$88.3",
+      "profit_in_billions_usd": "$35.3",
+      "employees": "83,825",
+      "country_of_origin": "Taiwan",
+      "headquarters": "New Taipei City, Taiwan"
+    },
+    {
+      "rank": 18,
+      "company": "Hitachi",
+      "revenue_in_billions_usd": "$80.39",
+      "profit_in_billions_usd": "$3.8",
+      "employees": "322,525",
+      "country_of_origin": "Japan",
+      "headquarters": "Tokyo, Japan"
+    },
+    {
+      "rank": 19,
+      "company": "Lenovo",
+      "revenue_in_billions_usd": "$69.0",
+      "profit_in_billions_usd": "$1.5",
+      "employees": "72,000",
+      "country_of_origin": "Hong Kong/ US",
+      "headquarters": "Hong Kong China/Morrisville, North Carolina, US"
+    },
+    {
+      "rank": 20,
+      "company": "Accenture",
+      "revenue_in_billions_usd": "$64.9",
+      "profit_in_billions_usd": "$7.4",
+      "employees": "774,000",
+      "country_of_origin": "Ireland/ US",
+      "headquarters": "Dublin, Ireland/New York, US"
+    },
+    {
+      "rank": 21,
+      "company": "IBM",
+      "revenue_in_billions_usd": "$62.7",
+      "profit_in_billions_usd": "$6.0",
+      "employees": "270,300",
+      "country_of_origin": "US",
+      "headquarters": "Armonk, New York, US"
+    },
+    {
+      "rank": 22,
+      "company": "LG Electronics",
+      "revenue_in_billions_usd": "$57.7",
+      "profit_in_billions_usd": "$1.3",
+      "employees": "75,000",
+      "country_of_origin": "South Korea",
+      "headquarters": "Seoul, South Korea"
+    },
+    {
+      "rank": 23,
+      "company": "Oracle",
+      "revenue_in_billions_usd": "$57.4",
+      "profit_in_billions_usd": "$12.4",
+      "employees": "162,000",
+      "country_of_origin": "US",
+      "headquarters": "Austin, Texas, US"
+    },
+    {
+      "rank": 24,
+      "company": "Cisco",
+      "revenue_in_billions_usd": "$56.7",
+      "profit_in_billions_usd": "$10.1",
+      "employees": "86,200",
+      "country_of_origin": "US",
+      "headquarters": "San Jose, California, US"
+    },
+    {
+      "rank": 25,
+      "company": "Panasonic",
+      "revenue_in_billions_usd": "$55.3",
+      "profit_in_billions_usd": "$2.9",
+      "employees": "228,420",
+      "country_of_origin": "Japan",
+      "headquarters": "Kadoma, Osaka, Japan"
+    }
+  ]
+}

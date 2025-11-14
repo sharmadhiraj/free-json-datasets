@@ -136,6 +136,8 @@ Each dataset follows this JSON format:
 
 ### Science & Technology
 
+- [**Largest Technology Companies by Revenue**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/list_of_largest_technology_companies_by_revenue.json)  
+  Top global technology companies ranked by annual revenue, profit, employees, and headquarters location
 - [**Periodic Table of Elements with Key Properties**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/periodic_table_with_properties.json)  
   Comprehensive dataset of elements including atomic number, weight, electron configuration, melting/boiling points, and other physical & chemical properties
 - [**Timeline of Space Exploration (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/timeline_of_space_exploration.json)  
