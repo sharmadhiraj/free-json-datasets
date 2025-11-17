@@ -1,0 +1,2007 @@
+{
+  "title": "Countries by Foreign Direct Investment (FDI) Inflows",
+  "subtitle": "Annual FDI inflows for countries and territories in USD with reporting years.",
+  "updated_at": "November 17, 2025 05:09 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Aruba",
+      "fdi_wb_million_usd": "−177.94",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "7.00%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 2,
+      "country": "Afghanistan",
+      "fdi_wb_million_usd": "20.60",
+      "fdi_wb_year": "2021",
+      "fdi_wb_percent_gdp": "0.14%",
+      "fdi_wb_percent_gdp_year": "2021",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 3,
+      "country": "Angola",
+      "fdi_wb_million_usd": "−2119.63",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−2.50%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 4,
+      "country": "Albania",
+      "fdi_wb_million_usd": "1614.45",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "7.03%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 5,
+      "country": "United Arab Emirates",
+      "fdi_wb_million_usd": "30687.54",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "6.09%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 6,
+      "country": "Argentina",
+      "fdi_wb_million_usd": "23866.14",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.73%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 7,
+      "country": "Armenia",
+      "fdi_wb_million_usd": "580.37",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.40%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 8,
+      "country": "Antigua and Barbuda",
+      "fdi_wb_million_usd": "300.60",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "14.79%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 9,
+      "country": "Australia",
+      "fdi_wb_million_usd": "32744.70",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.90%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "32992.49",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 10,
+      "country": "Austria",
+      "fdi_wb_million_usd": "−667.97",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−0.13%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "4503.68",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 11,
+      "country": "Azerbaijan",
+      "fdi_wb_million_usd": "252.84",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.35%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 12,
+      "country": "Burundi",
+      "fdi_wb_million_usd": "34.13",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.29%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 13,
+      "country": "Belgium",
+      "fdi_wb_million_usd": "−20003.31",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−3.16%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "23020.11",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 14,
+      "country": "Benin",
+      "fdi_wb_million_usd": "433.85",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.21%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 15,
+      "country": "Burkina Faso",
+      "fdi_wb_million_usd": "85.35",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.42%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 16,
+      "country": "Bangladesh",
+      "fdi_wb_million_usd": "1385.16",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.32%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 17,
+      "country": "Bulgaria",
+      "fdi_wb_million_usd": "4405.52",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "4.34%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 18,
+      "country": "Bahrain",
+      "fdi_wb_million_usd": "6839.63",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "15.83%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 19,
+      "country": "Bahamas",
+      "fdi_wb_million_usd": "1459.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "10.18%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 20,
+      "country": "Bosnia and Herzegovina",
+      "fdi_wb_million_usd": "944.79",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.49%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 21,
+      "country": "Belarus",
+      "fdi_wb_million_usd": "2070.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.88%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 22,
+      "country": "Belize",
+      "fdi_wb_million_usd": "16.27",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.50%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 23,
+      "country": "Bermuda",
+      "fdi_wb_million_usd": "156.44",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.13%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 24,
+      "country": "Bolivia",
+      "fdi_wb_million_usd": "293.69",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.64%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 25,
+      "country": "Brazil",
+      "fdi_wb_million_usd": "64227.33",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.95%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 26,
+      "country": "Barbados",
+      "fdi_wb_million_usd": "224.90",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.52%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 27,
+      "country": "Brunei",
+      "fdi_wb_million_usd": "−50.99",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−0.34%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 28,
+      "country": "Bhutan",
+      "fdi_wb_million_usd": "11.92",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.29%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 29,
+      "country": "Botswana",
+      "fdi_wb_million_usd": "665.42",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.43%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 30,
+      "country": "Central African Republic",
+      "fdi_wb_million_usd": "38.74",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.52%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 31,
+      "country": "Canada",
+      "fdi_wb_million_usd": "47745.20",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.23%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "46179.60",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 32,
+      "country": "Switzerland",
+      "fdi_wb_million_usd": "−45590.02",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−5.15%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "8268.88",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 33,
+      "country": "Chile",
+      "fdi_wb_million_usd": "21737.84",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "6.48%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "21026.94",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 34,
+      "country": "China",
+      "fdi_wb_million_usd": "42727.68",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.24%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 35,
+      "country": "Ivory Coast",
+      "fdi_wb_million_usd": "1752.56",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.22%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 36,
+      "country": "Cameroon",
+      "fdi_wb_million_usd": "799.20",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.67%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 37,
+      "country": "Democratic Republic of the Congo",
+      "fdi_wb_million_usd": "1667.90",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.51%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 38,
+      "country": "Republic of the Congo",
+      "fdi_wb_million_usd": "626.47",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "4.09%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 39,
+      "country": "Colombia",
+      "fdi_wb_million_usd": "17146.85",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "4.72%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "17146.85",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 40,
+      "country": "Comoros",
+      "fdi_wb_million_usd": "5.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.37%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 41,
+      "country": "Cape Verde",
+      "fdi_wb_million_usd": "159.01",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "6.15%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 42,
+      "country": "Costa Rica",
+      "fdi_wb_million_usd": "4687.48",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "5.42%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "3988.80",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 43,
+      "country": "Curaçao",
+      "fdi_wb_million_usd": "136.60",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "5.71%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 44,
+      "country": "Cayman Islands",
+      "fdi_wb_million_usd": "28134.16",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−44.23%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 45,
+      "country": "Cyprus",
+      "fdi_wb_million_usd": "−8942.34",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−27.75%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 46,
+      "country": "Czech Republic",
+      "fdi_wb_million_usd": "8225.35",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.49%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "7785.91",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 47,
+      "country": "Germany",
+      "fdi_wb_million_usd": "16289.40",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.37%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "36699.28",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 48,
+      "country": "Djibouti",
+      "fdi_wb_million_usd": "137.01",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.34%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 49,
+      "country": "Dominica",
+      "fdi_wb_million_usd": "20.69",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.16%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 50,
+      "country": "Denmark",
+      "fdi_wb_million_usd": "6754.26",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.67%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "9700.26",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 51,
+      "country": "Dominican Republic",
+      "fdi_wb_million_usd": "4750.50",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.91%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 52,
+      "country": "Algeria",
+      "fdi_wb_million_usd": "1215.78",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.51%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 53,
+      "country": "Ecuador",
+      "fdi_wb_million_usd": "380.34",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.32%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 54,
+      "country": "Egypt",
+      "fdi_wb_million_usd": "9840.60",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.49%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 55,
+      "country": "Eritrea",
+      "fdi_wb_million_usd": "2.07",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.89%",
+      "fdi_wb_percent_gdp_year": "2011",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 56,
+      "country": "Spain",
+      "fdi_wb_million_usd": "33705.76",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.13%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "33469.94",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 57,
+      "country": "Estonia",
+      "fdi_wb_million_usd": "5133.82",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "12.60%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "4393.94",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 58,
+      "country": "Ethiopia",
+      "fdi_wb_million_usd": "3262.97",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.99%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 59,
+      "country": "Finland",
+      "fdi_wb_million_usd": "−1467.80",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−0.49%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "7408.09",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 60,
+      "country": "Fiji",
+      "fdi_wb_million_usd": "91.02",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.66%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 61,
+      "country": "France",
+      "fdi_wb_million_usd": "8803.38",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.29%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "42284.98",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 62,
+      "country": "Federated States of Micronesia",
+      "fdi_wb_million_usd": "20.21",
+      "fdi_wb_year": "2014",
+      "fdi_wb_percent_gdp": "6.33%",
+      "fdi_wb_percent_gdp_year": "2014",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 63,
+      "country": "Gabon",
+      "fdi_wb_million_usd": "1150.73",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "5.61%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 64,
+      "country": "United Kingdom",
+      "fdi_wb_million_usd": "−48148.52",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−1.44%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "−89926.66",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 65,
+      "country": "Georgia",
+      "fdi_wb_million_usd": "1777.74",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "5.82%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 66,
+      "country": "Ghana",
+      "fdi_wb_million_usd": "1319.32",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.73%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 67,
+      "country": "Guinea",
+      "fdi_wb_million_usd": "893.15",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.78%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 68,
+      "country": "Gambia",
+      "fdi_wb_million_usd": "208.37",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "8.91%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 69,
+      "country": "Guinea-Bissau",
+      "fdi_wb_million_usd": "23.80",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.21%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 70,
+      "country": "Equatorial Guinea",
+      "fdi_wb_million_usd": "141.78",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.17%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 71,
+      "country": "Greece",
+      "fdi_wb_million_usd": "4988.72",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.09%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "5430.37",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 72,
+      "country": "Grenada",
+      "fdi_wb_million_usd": "163.82",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "12.41%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 73,
+      "country": "Guatemala",
+      "fdi_wb_million_usd": "1545.93",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.51%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 74,
+      "country": "Guyana",
+      "fdi_wb_million_usd": "7197.90",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "42.88%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 75,
+      "country": "Hong Kong",
+      "fdi_wb_million_usd": "111109.24",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "29.08%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 76,
+      "country": "Honduras",
+      "fdi_wb_million_usd": "1084.55",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.15%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 77,
+      "country": "Croatia",
+      "fdi_wb_million_usd": "2938.50",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.55%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 78,
+      "country": "Haiti",
+      "fdi_wb_million_usd": "32.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.16%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 79,
+      "country": "Hungary",
+      "fdi_wb_million_usd": "−75221.44",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−35.42%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "6296.03",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 80,
+      "country": "Indonesia",
+      "fdi_wb_million_usd": "22085.91",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.61%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 81,
+      "country": "India",
+      "fdi_wb_million_usd": "28070.21",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.79%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 82,
+      "country": "Ireland",
+      "fdi_wb_million_usd": "−124835.43",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−22.88%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "−9345.69",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 83,
+      "country": "Iran",
+      "fdi_wb_million_usd": "1422.33",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.35%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 84,
+      "country": "Iraq",
+      "fdi_wb_million_usd": "−5273.33",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−2.10%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 85,
+      "country": "Iceland",
+      "fdi_wb_million_usd": "597.71",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.93%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "390.13",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 86,
+      "country": "Israel",
+      "fdi_wb_million_usd": "15110.60",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.96%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "15110.60",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 87,
+      "country": "Italy",
+      "fdi_wb_million_usd": "33135.36",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.47%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "18219.37",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 88,
+      "country": "Jamaica",
+      "fdi_wb_million_usd": "376.52",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.94%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 89,
+      "country": "Jordan",
+      "fdi_wb_million_usd": "842.82",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.66%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 90,
+      "country": "Japan",
+      "fdi_wb_million_usd": "19983.86",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.47%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "21431.07",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 91,
+      "country": "Kazakhstan",
+      "fdi_wb_million_usd": "5303.90",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.03%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 92,
+      "country": "Kenya",
+      "fdi_wb_million_usd": "1504.34",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.40%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 93,
+      "country": "Kyrgyzstan",
+      "fdi_wb_million_usd": "490.40",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.51%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 94,
+      "country": "Cambodia",
+      "fdi_wb_million_usd": "3958.79",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "12.46%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 95,
+      "country": "Kiribati",
+      "fdi_wb_million_usd": "2.18",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.78%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 96,
+      "country": "Saint Kitts and Nevis",
+      "fdi_wb_million_usd": "32.16",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.99%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 97,
+      "country": "South Korea",
+      "fdi_wb_million_usd": "15178.40",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.89%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "15178.40",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 98,
+      "country": "Kuwait",
+      "fdi_wb_million_usd": "2114.60",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.31%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 99,
+      "country": "Laos",
+      "fdi_wb_million_usd": "1668.16",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "10.53%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 100,
+      "country": "Lebanon",
+      "fdi_wb_million_usd": "655.44",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.51%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 101,
+      "country": "Liberia",
+      "fdi_wb_million_usd": "744.58",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "17.19%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 102,
+      "country": "Libya",
+      "fdi_wb_million_usd": "603.00",
+      "fdi_wb_year": "2021",
+      "fdi_wb_percent_gdp": "1.26%",
+      "fdi_wb_percent_gdp_year": "2021",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 103,
+      "country": "Saint Lucia",
+      "fdi_wb_million_usd": "138.72",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "5.50%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 104,
+      "country": "Liechtenstein",
+      "fdi_wb_million_usd": "−87212.09",
+      "fdi_wb_year": "2018",
+      "fdi_wb_percent_gdp": "−1303.11%",
+      "fdi_wb_percent_gdp_year": "2018",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 105,
+      "country": "Sri Lanka",
+      "fdi_wb_million_usd": "711.83",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.84%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 106,
+      "country": "Lesotho",
+      "fdi_wb_million_usd": "−25.65",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−1.25%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 107,
+      "country": "Lithuania",
+      "fdi_wb_million_usd": "3172.25",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "4.08%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "1907.70",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 108,
+      "country": "Luxembourg",
+      "fdi_wb_million_usd": "−62807.62",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−73.24%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "−62810.34",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 109,
+      "country": "Latvia",
+      "fdi_wb_million_usd": "1504.30",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.45%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "1200.26",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 110,
+      "country": "Macau",
+      "fdi_wb_million_usd": "2323.96",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "4.94%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 111,
+      "country": "Morocco",
+      "fdi_wb_million_usd": "1095.98",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.78%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 112,
+      "country": "Moldova",
+      "fdi_wb_million_usd": "416.99",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.52%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 113,
+      "country": "Madagascar",
+      "fdi_wb_million_usd": "414.54",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.59%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 114,
+      "country": "Maldives",
+      "fdi_wb_million_usd": "761.52",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "11.54%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 115,
+      "country": "Mexico",
+      "fdi_wb_million_usd": "30195.95",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.69%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "36280.96",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 116,
+      "country": "Marshall Islands",
+      "fdi_wb_million_usd": "2.04",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.72%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 117,
+      "country": "North Macedonia",
+      "fdi_wb_million_usd": "702.49",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "4.76%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 118,
+      "country": "Mali",
+      "fdi_wb_million_usd": "697.97",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.34%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 119,
+      "country": "Malta",
+      "fdi_wb_million_usd": "20899.83",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "99.73%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 120,
+      "country": "Myanmar",
+      "fdi_wb_million_usd": "1520.17",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.35%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 121,
+      "country": "Montenegro",
+      "fdi_wb_million_usd": "525.87",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "7.10%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 122,
+      "country": "Mongolia",
+      "fdi_wb_million_usd": "2247.57",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "11.31%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 123,
+      "country": "Mozambique",
+      "fdi_wb_million_usd": "2683.51",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "13.01%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 124,
+      "country": "Mauritania",
+      "fdi_wb_million_usd": "873.44",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "8.36%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 125,
+      "country": "Mauritius",
+      "fdi_wb_million_usd": "759.82",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "5.28%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 126,
+      "country": "Malawi",
+      "fdi_wb_million_usd": "203.25",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.44%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 127,
+      "country": "Malaysia",
+      "fdi_wb_million_usd": "7918.60",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.98%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 128,
+      "country": "Namibia",
+      "fdi_wb_million_usd": "2294.38",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "18.58%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 129,
+      "country": "New Caledonia",
+      "fdi_wb_million_usd": "687.25",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "7.24%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 130,
+      "country": "Niger",
+      "fdi_wb_million_usd": "966.03",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "5.74%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 131,
+      "country": "Nigeria",
+      "fdi_wb_million_usd": "1872.52",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.52%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 132,
+      "country": "Nicaragua",
+      "fdi_wb_million_usd": "1230.10",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "6.90%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 133,
+      "country": "Netherlands",
+      "fdi_wb_million_usd": "−309007.49",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−27.64%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "−184370.33",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 134,
+      "country": "Norway",
+      "fdi_wb_million_usd": "8687.89",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.79%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "8830.25",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 135,
+      "country": "Nepal",
+      "fdi_wb_million_usd": "73.83",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.18%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 136,
+      "country": "New Zealand",
+      "fdi_wb_million_usd": "3592.04",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.42%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "2985.63",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 137,
+      "country": "Oman",
+      "fdi_wb_million_usd": "4745.38",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "4.39%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 138,
+      "country": "Pakistan",
+      "fdi_wb_million_usd": "2048.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.60%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 139,
+      "country": "Panama",
+      "fdi_wb_million_usd": "2326.84",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.79%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 140,
+      "country": "Peru",
+      "fdi_wb_million_usd": "3918.25",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.46%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 141,
+      "country": "Philippines",
+      "fdi_wb_million_usd": "8863.96",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.03%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 142,
+      "country": "Palau",
+      "fdi_wb_million_usd": "47.82",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "18.18%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 143,
+      "country": "Papua New Guinea",
+      "fdi_wb_million_usd": "−424.80",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−1.37%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 144,
+      "country": "Poland",
+      "fdi_wb_million_usd": "31576.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.89%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "22866.54",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 145,
+      "country": "Portugal",
+      "fdi_wb_million_usd": "9706.32",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.38%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "7221.02",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 146,
+      "country": "Paraguay",
+      "fdi_wb_million_usd": "240.72",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.56%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 147,
+      "country": "Palestine",
+      "fdi_wb_million_usd": "103.54",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.60%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 148,
+      "country": "French Polynesia",
+      "fdi_wb_million_usd": "−6.50",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−0.16%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 149,
+      "country": "Qatar",
+      "fdi_wb_million_usd": "−474.18",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.03%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 150,
+      "country": "Romania",
+      "fdi_wb_million_usd": "8412.98",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.40%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 151,
+      "country": "Russia",
+      "fdi_wb_million_usd": "−11132.62",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−0.55%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 152,
+      "country": "Rwanda",
+      "fdi_wb_million_usd": "459.17",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.26%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 153,
+      "country": "Saudi Arabia",
+      "fdi_wb_million_usd": "12319.04",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.15%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 154,
+      "country": "Sudan",
+      "fdi_wb_million_usd": "573.50",
+      "fdi_wb_year": "2022",
+      "fdi_wb_percent_gdp": "1.11%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 155,
+      "country": "Senegal",
+      "fdi_wb_million_usd": "2641.33",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "8.52%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 156,
+      "country": "Singapore",
+      "fdi_wb_million_usd": "175241.47",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "34.95%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 157,
+      "country": "Solomon Islands",
+      "fdi_wb_million_usd": "78.90",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "4.84%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 158,
+      "country": "Sierra Leone",
+      "fdi_wb_million_usd": "262.97",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "6.90%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 159,
+      "country": "El Salvador",
+      "fdi_wb_million_usd": "638.12",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.88%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 160,
+      "country": "Somalia",
+      "fdi_wb_million_usd": "676.50",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "5.79%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 161,
+      "country": "Serbia",
+      "fdi_wb_million_usd": "4891.72",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "6.51%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 162,
+      "country": "South Sudan",
+      "fdi_wb_million_usd": "−6.34",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.00%",
+      "fdi_wb_percent_gdp_year": "2015",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 163,
+      "country": "São Tomé and Príncipe",
+      "fdi_wb_million_usd": "18.44",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.06%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 164,
+      "country": "Suriname",
+      "fdi_wb_million_usd": "−53.10",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−1.40%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 165,
+      "country": "Slovakia",
+      "fdi_wb_million_usd": "−327.96",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−0.25%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "180.27",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 166,
+      "country": "Slovenia",
+      "fdi_wb_million_usd": "1141.38",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.67%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "1473.90",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 167,
+      "country": "Sweden",
+      "fdi_wb_million_usd": "23001.11",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "3.88%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "30367.72",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 168,
+      "country": "Eswatini",
+      "fdi_wb_million_usd": "28.13",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.61%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 169,
+      "country": "Sint Maarten",
+      "fdi_wb_million_usd": "45.27",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.79%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 170,
+      "country": "Seychelles",
+      "fdi_wb_million_usd": "239.71",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "11.19%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 171,
+      "country": "Syria",
+      "fdi_wb_million_usd": "804.16",
+      "fdi_wb_year": "2011",
+      "fdi_wb_percent_gdp": "1.19%",
+      "fdi_wb_percent_gdp_year": "2011",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 172,
+      "country": "Turks and Caicos Islands",
+      "fdi_wb_million_usd": "32.66",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.33%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 173,
+      "country": "Chad",
+      "fdi_wb_million_usd": "913.33",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "6.95%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 174,
+      "country": "Togo",
+      "fdi_wb_million_usd": "33.59",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.37%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 175,
+      "country": "Thailand",
+      "fdi_wb_million_usd": "3086.43",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.60%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 176,
+      "country": "Tajikistan",
+      "fdi_wb_million_usd": "140.58",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.17%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 177,
+      "country": "Turkmenistan",
+      "fdi_wb_million_usd": "1378.31",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.30%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 178,
+      "country": "Timor-Leste",
+      "fdi_wb_million_usd": "−50.11",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−2.23%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 179,
+      "country": "Tonga",
+      "fdi_wb_million_usd": "24.34",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.50%",
+      "fdi_wb_percent_gdp_year": "2022",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 180,
+      "country": "Trinidad and Tobago",
+      "fdi_wb_million_usd": "−1555.47",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−5.53%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 181,
+      "country": "Tunisia",
+      "fdi_wb_million_usd": "767.99",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.58%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 182,
+      "country": "Turkey",
+      "fdi_wb_million_usd": "10642.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.96%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "10418.84",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 183,
+      "country": "Tuvalu",
+      "fdi_wb_million_usd": "0.17",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.27%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 184,
+      "country": "Tanzania",
+      "fdi_wb_million_usd": "1338.82",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.69%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 185,
+      "country": "Uganda",
+      "fdi_wb_million_usd": "2886.01",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "5.86%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 186,
+      "country": "Ukraine",
+      "fdi_wb_million_usd": "4805.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.69%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 187,
+      "country": "Uruguay",
+      "fdi_wb_million_usd": "−436.30",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "−0.56%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 188,
+      "country": "United States",
+      "fdi_wb_million_usd": "348784.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "1.27%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "288683.00",
+      "inward_fdi_oecd_year": "2023"
+    },
+    {
+      "rank": 189,
+      "country": "Uzbekistan",
+      "fdi_wb_million_usd": "2143.82",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.36%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 190,
+      "country": "Saint Vincent and the Grenadines",
+      "fdi_wb_million_usd": "81.43",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "7.64%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 191,
+      "country": "Venezuela",
+      "fdi_wb_million_usd": "688.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.24%",
+      "fdi_wb_percent_gdp_year": "2014",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 192,
+      "country": "British Virgin Islands",
+      "fdi_wb_million_usd": "39889.38",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "",
+      "fdi_wb_percent_gdp_year": "",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 193,
+      "country": "Vietnam",
+      "fdi_wb_million_usd": "18500.00",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "4.31%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 194,
+      "country": "Vanuatu",
+      "fdi_wb_million_usd": "9.27",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.82%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 195,
+      "country": "Samoa",
+      "fdi_wb_million_usd": "2.40",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.26%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 196,
+      "country": "Kosovo",
+      "fdi_wb_million_usd": "913.12",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "8.75%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 197,
+      "country": "Yemen",
+      "fdi_wb_million_usd": "−370.98",
+      "fdi_wb_year": "2019",
+      "fdi_wb_percent_gdp": "−1.69%",
+      "fdi_wb_percent_gdp_year": "2019",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 198,
+      "country": "South Africa",
+      "fdi_wb_million_usd": "3442.33",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.91%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 199,
+      "country": "Zambia",
+      "fdi_wb_million_usd": "91.03",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "0.32%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    },
+    {
+      "rank": 200,
+      "country": "Zimbabwe",
+      "fdi_wb_million_usd": "588.40",
+      "fdi_wb_year": "2023",
+      "fdi_wb_percent_gdp": "2.22%",
+      "fdi_wb_percent_gdp_year": "2023",
+      "inward_fdi_oecd_million_usd": "",
+      "inward_fdi_oecd_year": ""
+    }
+  ]
+}
