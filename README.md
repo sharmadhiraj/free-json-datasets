@@ -142,6 +142,8 @@ Each dataset follows this JSON format:
   Top global technology companies ranked by annual revenue, profit, employees, and headquarters location
 - [**Periodic Table of Elements with Key Properties**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/periodic_table_with_properties.json)  
   Comprehensive dataset of elements including atomic number, weight, electron configuration, melting/boiling points, and other physical & chemical properties
+- [**Timeline of Historic Inventions**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/timeline_of_historic_inventions.json)  
+  Chronological overview of significant inventions throughout history, organized by era.
 - [**Timeline of Space Exploration (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/timeline_of_space_exploration.json)  
   A historical record of space missions and events up to 2025
 

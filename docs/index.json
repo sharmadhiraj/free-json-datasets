@@ -34,7 +34,7 @@
       {
         "title": "Timeline of Western Philosophers",
         "subtitle": "Chronological overview of major Western philosophers, organized by era and active years.",
-        "updated_at": "November 06, 2025 05:37 AM UTC",
+        "updated_at": "November 17, 2025 04:21 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/timeline_of_western_philosophers.json"
       }
     ]
@@ -283,6 +283,12 @@
         "subtitle": "Comprehensive dataset of elements including atomic number, weight, electron configuration, melting/boiling points, and other physical & chemical properties",
         "updated_at": "September 15, 2025 08:58 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/periodic_table_with_properties.json"
+      },
+      {
+        "title": "Timeline of Historic Inventions",
+        "subtitle": "Chronological overview of significant inventions throughout history, organized by era.",
+        "updated_at": "November 17, 2025 04:22 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/timeline_of_historic_inventions.json"
       },
       {
         "title": "Timeline of Space Exploration (2025)",
