@@ -205,6 +205,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/largest_deserts_in_the_world.json"
       },
       {
+        "title": "Countries by Length of Coastline",
+        "subtitle": "Coastline lengths (km) by country, with CIA/WRI estimates, land area, and coastline-to-area ratios.",
+        "updated_at": "November 18, 2025 10:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_countries_by_length_of_coastline.json"
+      },
+      {
         "title": "Longest Rivers in the World",
         "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
         "updated_at": "August 20, 2025 09:42 AM UTC",

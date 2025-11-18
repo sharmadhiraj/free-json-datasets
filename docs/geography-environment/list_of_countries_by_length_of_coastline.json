@@ -1,0 +1,2567 @@
+{
+  "title": "Countries by Length of Coastline",
+  "subtitle": "Coastline lengths (km) by country, with CIA/WRI estimates, land area, and coastline-to-area ratios.",
+  "updated_at": "November 18, 2025 10:54 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "location": "Canada",
+      "coastline_cia_km": "203,228",
+      "coastline_wri_km": "267,450",
+      "land_area_km2": "9,093,507",
+      "coast_area_ratio_cia_m_per_km2": "22.2",
+      "coast_area_ratio_wri_m_per_km2": "29.2",
+      "coast_area_sqrt_ratio_cia": "67"
+    },
+    {
+      "rank": 2,
+      "location": "Norway",
+      "coastline_cia_km": "83,281",
+      "coastline_wri_km": "53,199",
+      "land_area_km2": "304,282",
+      "coast_area_ratio_cia_m_per_km2": "274",
+      "coast_area_ratio_wri_m_per_km2": "175",
+      "coast_area_sqrt_ratio_cia": "151"
+    },
+    {
+      "rank": 3,
+      "location": "Indonesia",
+      "coastline_cia_km": "54,716",
+      "coastline_wri_km": "95,181",
+      "land_area_km2": "1,811,569",
+      "coast_area_ratio_cia_m_per_km2": "30.2",
+      "coast_area_ratio_wri_m_per_km2": "52.5",
+      "coast_area_sqrt_ratio_cia": "40.7"
+    },
+    {
+      "rank": 4,
+      "location": "European Union",
+      "coastline_cia_km": "53,563",
+      "coastline_wri_km": "",
+      "land_area_km2": "4,236,351",
+      "coast_area_ratio_cia_m_per_km2": "12.6",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "26"
+    },
+    {
+      "rank": 5,
+      "location": "Greenland",
+      "coastline_cia_km": "44,087",
+      "coastline_wri_km": "",
+      "land_area_km2": "2,166,086",
+      "coast_area_ratio_cia_m_per_km2": "20.4",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "30"
+    },
+    {
+      "rank": 6,
+      "location": "Russia",
+      "coastline_cia_km": "37,653",
+      "coastline_wri_km": "110,310",
+      "land_area_km2": "16,377,742",
+      "coast_area_ratio_cia_m_per_km2": "2.30",
+      "coast_area_ratio_wri_m_per_km2": "6.74",
+      "coast_area_sqrt_ratio_cia": "9.3"
+    },
+    {
+      "rank": 7,
+      "location": "Philippines",
+      "coastline_cia_km": "36,289",
+      "coastline_wri_km": "33,900",
+      "land_area_km2": "298,170",
+      "coast_area_ratio_cia_m_per_km2": "122",
+      "coast_area_ratio_wri_m_per_km2": "114",
+      "coast_area_sqrt_ratio_cia": "66.5"
+    },
+    {
+      "rank": 8,
+      "location": "Japan",
+      "coastline_cia_km": "29,751",
+      "coastline_wri_km": "29,020",
+      "land_area_km2": "364,485",
+      "coast_area_ratio_cia_m_per_km2": "81.6",
+      "coast_area_ratio_wri_m_per_km2": "79.6",
+      "coast_area_sqrt_ratio_cia": "49.3"
+    },
+    {
+      "rank": 9,
+      "location": "Australia",
+      "coastline_cia_km": "25,760",
+      "coastline_wri_km": "66,530",
+      "land_area_km2": "7,682,300",
+      "coast_area_ratio_cia_m_per_km2": "3.35",
+      "coast_area_ratio_wri_m_per_km2": "8.66",
+      "coast_area_sqrt_ratio_cia": "9.29"
+    },
+    {
+      "rank": 10,
+      "location": "United States",
+      "coastline_cia_km": "19,924",
+      "coastline_wri_km": "133,312",
+      "land_area_km2": "9,147,593",
+      "coast_area_ratio_cia_m_per_km2": "2.18",
+      "coast_area_ratio_wri_m_per_km2": "14.6",
+      "coast_area_sqrt_ratio_cia": "6.59"
+    },
+    {
+      "rank": 11,
+      "location": "Antarctica",
+      "coastline_cia_km": "17,968",
+      "coastline_wri_km": "",
+      "land_area_km2": "14,200,000",
+      "coast_area_ratio_cia_m_per_km2": "1.27",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "4.77"
+    },
+    {
+      "rank": 12,
+      "location": "New Zealand",
+      "coastline_cia_km": "15,134",
+      "coastline_wri_km": "17,209",
+      "land_area_km2": "264,537",
+      "coast_area_ratio_cia_m_per_km2": "57.2",
+      "coast_area_ratio_wri_m_per_km2": "65.1",
+      "coast_area_sqrt_ratio_cia": "29.4"
+    },
+    {
+      "rank": 13,
+      "location": "China",
+      "coastline_cia_km": "14,500",
+      "coastline_wri_km": "30,017",
+      "land_area_km2": "9,326,410",
+      "coast_area_ratio_cia_m_per_km2": "1.55",
+      "coast_area_ratio_wri_m_per_km2": "3.22",
+      "coast_area_sqrt_ratio_cia": "4.75"
+    },
+    {
+      "rank": 14,
+      "location": "Greece",
+      "coastline_cia_km": "13,676",
+      "coastline_wri_km": "15,147",
+      "land_area_km2": "130,647",
+      "coast_area_ratio_cia_m_per_km2": "105",
+      "coast_area_ratio_wri_m_per_km2": "116",
+      "coast_area_sqrt_ratio_cia": "37.8"
+    },
+    {
+      "rank": 15,
+      "location": "United Kingdom",
+      "coastline_cia_km": "12,429",
+      "coastline_wri_km": "19,717",
+      "land_area_km2": "241,930",
+      "coast_area_ratio_cia_m_per_km2": "51.4",
+      "coast_area_ratio_wri_m_per_km2": "81.5",
+      "coast_area_sqrt_ratio_cia": "25.3"
+    },
+    {
+      "rank": 16,
+      "location": "Mexico",
+      "coastline_cia_km": "9,330",
+      "coastline_wri_km": "23,761",
+      "land_area_km2": "1,943,945",
+      "coast_area_ratio_cia_m_per_km2": "4.80",
+      "coast_area_ratio_wri_m_per_km2": "12.2",
+      "coast_area_sqrt_ratio_cia": "6.69"
+    },
+    {
+      "rank": 17,
+      "location": "Italy",
+      "coastline_cia_km": "7,600",
+      "coastline_wri_km": "9,226",
+      "land_area_km2": "294,140",
+      "coast_area_ratio_cia_m_per_km2": "25.8",
+      "coast_area_ratio_wri_m_per_km2": "31.4",
+      "coast_area_sqrt_ratio_cia": "14"
+    },
+    {
+      "rank": 18,
+      "location": "Brazil",
+      "coastline_cia_km": "7,491",
+      "coastline_wri_km": "33,379",
+      "land_area_km2": "8,358,140",
+      "coast_area_ratio_cia_m_per_km2": "0.896",
+      "coast_area_ratio_wri_m_per_km2": "3.99",
+      "coast_area_sqrt_ratio_cia": "2.59"
+    },
+    {
+      "rank": 19,
+      "location": "Turkey",
+      "coastline_cia_km": "7,200",
+      "coastline_wri_km": "8,140",
+      "land_area_km2": "769,632",
+      "coast_area_ratio_cia_m_per_km2": "9.36",
+      "coast_area_ratio_wri_m_per_km2": "10.6",
+      "coast_area_sqrt_ratio_cia": "8.21"
+    },
+    {
+      "rank": 20,
+      "location": "India",
+      "coastline_cia_km": "11,098",
+      "coastline_wri_km": "17,181",
+      "land_area_km2": "2,973,193",
+      "coast_area_ratio_cia_m_per_km2": "2.35",
+      "coast_area_ratio_wri_m_per_km2": "5.78",
+      "coast_area_sqrt_ratio_cia": "4.06"
+    },
+    {
+      "rank": 21,
+      "location": "Chile",
+      "coastline_cia_km": "6,435",
+      "coastline_wri_km": "78,563",
+      "land_area_km2": "743,812",
+      "coast_area_ratio_cia_m_per_km2": "8.65",
+      "coast_area_ratio_wri_m_per_km2": "106",
+      "coast_area_sqrt_ratio_cia": "7.46"
+    },
+    {
+      "rank": 22,
+      "location": "Micronesia",
+      "coastline_cia_km": "6,112",
+      "coastline_wri_km": "1,295",
+      "land_area_km2": "702",
+      "coast_area_ratio_cia_m_per_km2": "8,710",
+      "coast_area_ratio_wri_m_per_km2": "1,840",
+      "coast_area_sqrt_ratio_cia": "231"
+    },
+    {
+      "rank": 23,
+      "location": "Croatia",
+      "coastline_cia_km": "5,835",
+      "coastline_wri_km": "5,664",
+      "land_area_km2": "55,974",
+      "coast_area_ratio_cia_m_per_km2": "112",
+      "coast_area_ratio_wri_m_per_km2": "101",
+      "coast_area_sqrt_ratio_cia": "24.7"
+    },
+    {
+      "rank": 24,
+      "location": "Solomon Islands",
+      "coastline_cia_km": "5,313",
+      "coastline_wri_km": "9,880",
+      "land_area_km2": "27,986",
+      "coast_area_ratio_cia_m_per_km2": "190",
+      "coast_area_ratio_wri_m_per_km2": "353",
+      "coast_area_sqrt_ratio_cia": "31.8"
+    },
+    {
+      "rank": 25,
+      "location": "Papua New Guinea",
+      "coastline_cia_km": "5,152",
+      "coastline_wri_km": "20,197",
+      "land_area_km2": "452,860",
+      "coast_area_ratio_cia_m_per_km2": "11.4",
+      "coast_area_ratio_wri_m_per_km2": "44.6",
+      "coast_area_sqrt_ratio_cia": "7.66"
+    },
+    {
+      "rank": 26,
+      "location": "Argentina",
+      "coastline_cia_km": "4,989",
+      "coastline_wri_km": "8,397",
+      "land_area_km2": "2,736,690",
+      "coast_area_ratio_cia_m_per_km2": "1.82",
+      "coast_area_ratio_wri_m_per_km2": "3.07",
+      "coast_area_sqrt_ratio_cia": "3.02"
+    },
+    {
+      "rank": 27,
+      "location": "Iceland",
+      "coastline_cia_km": "4,970",
+      "coastline_wri_km": "8,506",
+      "land_area_km2": "100,250",
+      "coast_area_ratio_cia_m_per_km2": "49.6",
+      "coast_area_ratio_wri_m_per_km2": "84.8",
+      "coast_area_sqrt_ratio_cia": "15.7"
+    },
+    {
+      "rank": 28,
+      "location": "Spain",
+      "coastline_cia_km": "4,964",
+      "coastline_wri_km": "7,268",
+      "land_area_km2": "498,980",
+      "coast_area_ratio_cia_m_per_km2": "9.95",
+      "coast_area_ratio_wri_m_per_km2": "14.6",
+      "coast_area_sqrt_ratio_cia": "7.03"
+    },
+    {
+      "rank": 29,
+      "location": "France",
+      "coastline_cia_km": "4,853",
+      "coastline_wri_km": "7,330",
+      "land_area_km2": "640,427",
+      "coast_area_ratio_cia_m_per_km2": "7.58",
+      "coast_area_ratio_wri_m_per_km2": "11.4",
+      "coast_area_sqrt_ratio_cia": "6.06"
+    },
+    {
+      "rank": 30,
+      "location": "Madagascar",
+      "coastline_cia_km": "4,828",
+      "coastline_wri_km": "9,935",
+      "land_area_km2": "581,540",
+      "coast_area_ratio_cia_m_per_km2": "8.30",
+      "coast_area_ratio_wri_m_per_km2": "17.1",
+      "coast_area_sqrt_ratio_cia": "6.33"
+    },
+    {
+      "rank": 31,
+      "location": "Malaysia",
+      "coastline_cia_km": "4,675",
+      "coastline_wri_km": "9,323",
+      "land_area_km2": "328,657",
+      "coast_area_ratio_cia_m_per_km2": "14.2",
+      "coast_area_ratio_wri_m_per_km2": "28.4",
+      "coast_area_sqrt_ratio_cia": "8.15"
+    },
+    {
+      "rank": 32,
+      "location": "Estonia",
+      "coastline_cia_km": "3,794",
+      "coastline_wri_km": "2,956",
+      "land_area_km2": "42,388",
+      "coast_area_ratio_cia_m_per_km2": "89.5",
+      "coast_area_ratio_wri_m_per_km2": "69.7",
+      "coast_area_sqrt_ratio_cia": "18.4"
+    },
+    {
+      "rank": 33,
+      "location": "Cuba",
+      "coastline_cia_km": "3,735",
+      "coastline_wri_km": "14,519",
+      "land_area_km2": "109,820",
+      "coast_area_ratio_cia_m_per_km2": "34.0",
+      "coast_area_ratio_wri_m_per_km2": "132",
+      "coast_area_sqrt_ratio_cia": "11.3"
+    },
+    {
+      "rank": 34,
+      "location": "Svalbard",
+      "coastline_cia_km": "3,587",
+      "coastline_wri_km": "",
+      "land_area_km2": "62,045",
+      "coast_area_ratio_cia_m_per_km2": "57.8",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "14.4"
+    },
+    {
+      "rank": 35,
+      "location": "Bahamas",
+      "coastline_cia_km": "3,542",
+      "coastline_wri_km": "11,238",
+      "land_area_km2": "10,010",
+      "coast_area_ratio_cia_m_per_km2": "354",
+      "coast_area_ratio_wri_m_per_km2": "1,120",
+      "coast_area_sqrt_ratio_cia": "35.4"
+    },
+    {
+      "rank": 36,
+      "location": "Vietnam",
+      "coastline_cia_km": "3,444",
+      "coastline_wri_km": "11,409",
+      "land_area_km2": "310,070",
+      "coast_area_ratio_cia_m_per_km2": "11.1",
+      "coast_area_ratio_wri_m_per_km2": "36.8",
+      "coast_area_sqrt_ratio_cia": "6.18"
+    },
+    {
+      "rank": 37,
+      "location": "Somalia",
+      "coastline_cia_km": "3,333",
+      "coastline_wri_km": "3,898",
+      "land_area_km2": "627,337",
+      "coast_area_ratio_cia_m_per_km2": "4.82",
+      "coast_area_ratio_wri_m_per_km2": "6.21",
+      "coast_area_sqrt_ratio_cia": "4.21"
+    },
+    {
+      "rank": 38,
+      "location": "Thailand",
+      "coastline_cia_km": "3,219",
+      "coastline_wri_km": "7,066",
+      "land_area_km2": "510,890",
+      "coast_area_ratio_cia_m_per_km2": "6.30",
+      "coast_area_ratio_wri_m_per_km2": "13.8",
+      "coast_area_sqrt_ratio_cia": "4.5"
+    },
+    {
+      "rank": 39,
+      "location": "Sweden",
+      "coastline_cia_km": "3,218",
+      "coastline_wri_km": "26,384",
+      "land_area_km2": "410,335",
+      "coast_area_ratio_cia_m_per_km2": "7.84",
+      "coast_area_ratio_wri_m_per_km2": "64.3",
+      "coast_area_sqrt_ratio_cia": "5.02"
+    },
+    {
+      "rank": 40,
+      "location": "Colombia",
+      "coastline_cia_km": "3,208",
+      "coastline_wri_km": "5,875",
+      "land_area_km2": "1,038,700",
+      "coast_area_ratio_cia_m_per_km2": "3.09",
+      "coast_area_ratio_wri_m_per_km2": "5.66",
+      "coast_area_sqrt_ratio_cia": "3.15"
+    },
+    {
+      "rank": 41,
+      "location": "Coral Sea Islands",
+      "coastline_cia_km": "3,095",
+      "coastline_wri_km": "",
+      "land_area_km2": "<3",
+      "coast_area_ratio_cia_m_per_km2": ">1,000,000",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 42,
+      "location": "French Southern and Antarctic Lands",
+      "coastline_cia_km": "2,948.4",
+      "coastline_wri_km": "",
+      "land_area_km2": "7,667.6",
+      "coast_area_ratio_cia_m_per_km2": "385",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "33.7"
+    },
+    {
+      "rank": 43,
+      "location": "Morocco",
+      "coastline_cia_km": "2,945",
+      "coastline_wri_km": "2,009",
+      "land_area_km2": "716,550",
+      "coast_area_ratio_cia_m_per_km2": "2.56",
+      "coast_area_ratio_wri_m_per_km2": "2.80",
+      "coast_area_sqrt_ratio_cia": "3.48"
+    },
+    {
+      "rank": 44,
+      "location": "Venezuela",
+      "coastline_cia_km": "2,800",
+      "coastline_wri_km": "6,762",
+      "land_area_km2": "882,050",
+      "coast_area_ratio_cia_m_per_km2": "3.17",
+      "coast_area_ratio_wri_m_per_km2": "7.67",
+      "coast_area_sqrt_ratio_cia": "2.98"
+    },
+    {
+      "rank": 45,
+      "location": "South Africa",
+      "coastline_cia_km": "2,798",
+      "coastline_wri_km": "3,751",
+      "land_area_km2": "1,214,470",
+      "coast_area_ratio_cia_m_per_km2": "2.30",
+      "coast_area_ratio_wri_m_per_km2": "3.09",
+      "coast_area_sqrt_ratio_cia": "2.54"
+    },
+    {
+      "rank": 46,
+      "location": "Ukraine",
+      "coastline_cia_km": "2,782",
+      "coastline_wri_km": "4,953",
+      "land_area_km2": "579,330",
+      "coast_area_ratio_cia_m_per_km2": "4.80",
+      "coast_area_ratio_wri_m_per_km2": "8.55",
+      "coast_area_sqrt_ratio_cia": "3.66"
+    },
+    {
+      "rank": 47,
+      "location": "Saudi Arabia",
+      "coastline_cia_km": "2,640",
+      "coastline_wri_km": "7,572",
+      "land_area_km2": "2,149,690",
+      "coast_area_ratio_cia_m_per_km2": "1.23",
+      "coast_area_ratio_wri_m_per_km2": "3.52",
+      "coast_area_sqrt_ratio_cia": "1.8"
+    },
+    {
+      "rank": 48,
+      "location": "Vanuatu",
+      "coastline_cia_km": "2,528",
+      "coastline_wri_km": "3,132",
+      "land_area_km2": "12,189",
+      "coast_area_ratio_cia_m_per_km2": "207",
+      "coast_area_ratio_wri_m_per_km2": "257",
+      "coast_area_sqrt_ratio_cia": "22.9"
+    },
+    {
+      "rank": 49,
+      "location": "French Polynesia",
+      "coastline_cia_km": "2,525",
+      "coastline_wri_km": "5,830",
+      "land_area_km2": "3,827",
+      "coast_area_ratio_cia_m_per_km2": "660",
+      "coast_area_ratio_wri_m_per_km2": "1,520",
+      "coast_area_sqrt_ratio_cia": "40.8"
+    },
+    {
+      "rank": 50,
+      "location": "North Korea",
+      "coastline_cia_km": "2,495",
+      "coastline_wri_km": "4,009",
+      "land_area_km2": "120,408",
+      "coast_area_ratio_cia_m_per_km2": "20.7",
+      "coast_area_ratio_wri_m_per_km2": "33.3",
+      "coast_area_sqrt_ratio_cia": "7.19"
+    },
+    {
+      "rank": 51,
+      "location": "Panama",
+      "coastline_cia_km": "2,490",
+      "coastline_wri_km": "5,637",
+      "land_area_km2": "74,340",
+      "coast_area_ratio_cia_m_per_km2": "33.5",
+      "coast_area_ratio_wri_m_per_km2": "75.8",
+      "coast_area_sqrt_ratio_cia": "9.13"
+    },
+    {
+      "rank": 52,
+      "location": "Mozambique",
+      "coastline_cia_km": "2,470",
+      "coastline_wri_km": "6,942",
+      "land_area_km2": "786,380",
+      "coast_area_ratio_cia_m_per_km2": "3.14",
+      "coast_area_ratio_wri_m_per_km2": "8.83",
+      "coast_area_sqrt_ratio_cia": "2.79"
+    },
+    {
+      "rank": 53,
+      "location": "Egypt",
+      "coastline_cia_km": "2,450",
+      "coastline_wri_km": "5,898",
+      "land_area_km2": "995,450",
+      "coast_area_ratio_cia_m_per_km2": "2.46",
+      "coast_area_ratio_wri_m_per_km2": "5.92",
+      "coast_area_sqrt_ratio_cia": "2.46"
+    },
+    {
+      "rank": 54,
+      "location": "Iran",
+      "coastline_cia_km": "2,440",
+      "coastline_wri_km": "5,891",
+      "land_area_km2": "1,531,595",
+      "coast_area_ratio_cia_m_per_km2": "1.59",
+      "coast_area_ratio_wri_m_per_km2": "3.85",
+      "coast_area_sqrt_ratio_cia": "1.97"
+    },
+    {
+      "rank": 55,
+      "location": "Peru",
+      "coastline_cia_km": "2,414",
+      "coastline_wri_km": "3,362",
+      "land_area_km2": "1,279,996",
+      "coast_area_ratio_cia_m_per_km2": "1.89",
+      "coast_area_ratio_wri_m_per_km2": "2.63",
+      "coast_area_sqrt_ratio_cia": "2.13"
+    },
+    {
+      "rank": 56,
+      "location": "South Korea",
+      "coastline_cia_km": "2,413",
+      "coastline_wri_km": "12,478",
+      "land_area_km2": "96,920",
+      "coast_area_ratio_cia_m_per_km2": "24.9",
+      "coast_area_ratio_wri_m_per_km2": "129",
+      "coast_area_sqrt_ratio_cia": "7.75"
+    },
+    {
+      "rank": 57,
+      "location": "Germany",
+      "coastline_cia_km": "2,389",
+      "coastline_wri_km": "3,624",
+      "land_area_km2": "348,672",
+      "coast_area_ratio_cia_m_per_km2": "6.85",
+      "coast_area_ratio_wri_m_per_km2": "10.4",
+      "coast_area_sqrt_ratio_cia": "4.05"
+    },
+    {
+      "rank": 58,
+      "location": "New Caledonia",
+      "coastline_cia_km": "2,254",
+      "coastline_wri_km": "3,624",
+      "land_area_km2": "18,275",
+      "coast_area_ratio_cia_m_per_km2": "123",
+      "coast_area_ratio_wri_m_per_km2": "198",
+      "coast_area_sqrt_ratio_cia": "16.7"
+    },
+    {
+      "rank": 59,
+      "location": "Ecuador",
+      "coastline_cia_km": "2,237",
+      "coastline_wri_km": "4,597",
+      "land_area_km2": "276,841",
+      "coast_area_ratio_cia_m_per_km2": "8.08",
+      "coast_area_ratio_wri_m_per_km2": "16.6",
+      "coast_area_sqrt_ratio_cia": "4.25"
+    },
+    {
+      "rank": 60,
+      "location": "Eritrea",
+      "coastline_cia_km": "2,234",
+      "coastline_wri_km": "3,446",
+      "land_area_km2": "101,000",
+      "coast_area_ratio_cia_m_per_km2": "22.1",
+      "coast_area_ratio_wri_m_per_km2": "34.1",
+      "coast_area_sqrt_ratio_cia": "7.03"
+    },
+    {
+      "rank": 61,
+      "location": "Oman",
+      "coastline_cia_km": "2,092",
+      "coastline_wri_km": "2,810",
+      "land_area_km2": "309,500",
+      "coast_area_ratio_cia_m_per_km2": "6.76",
+      "coast_area_ratio_wri_m_per_km2": "9.08",
+      "coast_area_sqrt_ratio_cia": "3.76"
+    },
+    {
+      "rank": 62,
+      "location": "Myanmar",
+      "coastline_cia_km": "1,930",
+      "coastline_wri_km": "14,708",
+      "land_area_km2": "653,508",
+      "coast_area_ratio_cia_m_per_km2": "2.95",
+      "coast_area_ratio_wri_m_per_km2": "22.5",
+      "coast_area_sqrt_ratio_cia": "2.39"
+    },
+    {
+      "rank": 63,
+      "location": "Yemen",
+      "coastline_cia_km": "1,906",
+      "coastline_wri_km": "3,149",
+      "land_area_km2": "527,968",
+      "coast_area_ratio_cia_m_per_km2": "3.61",
+      "coast_area_ratio_wri_m_per_km2": "5.96",
+      "coast_area_sqrt_ratio_cia": "2.62"
+    },
+    {
+      "rank": 64,
+      "location": "Portugal",
+      "coastline_cia_km": "1,793",
+      "coastline_wri_km": "2,830",
+      "land_area_km2": "91,470",
+      "coast_area_ratio_cia_m_per_km2": "19.6",
+      "coast_area_ratio_wri_m_per_km2": "30.9",
+      "coast_area_sqrt_ratio_cia": "5.93"
+    },
+    {
+      "rank": 65,
+      "location": "Haiti",
+      "coastline_cia_km": "1,771",
+      "coastline_wri_km": "1,977",
+      "land_area_km2": "27,560",
+      "coast_area_ratio_cia_m_per_km2": "64.3",
+      "coast_area_ratio_wri_m_per_km2": "71.7",
+      "coast_area_sqrt_ratio_cia": "10.7"
+    },
+    {
+      "rank": 66,
+      "location": "Libya",
+      "coastline_cia_km": "1,770",
+      "coastline_wri_km": "2,025",
+      "land_area_km2": "1,759,540",
+      "coast_area_ratio_cia_m_per_km2": "1.01",
+      "coast_area_ratio_wri_m_per_km2": "1.15",
+      "coast_area_sqrt_ratio_cia": "1.33"
+    },
+    {
+      "rank": 67,
+      "location": "Angola",
+      "coastline_cia_km": "1,600",
+      "coastline_wri_km": "2,252",
+      "land_area_km2": "1,246,700",
+      "coast_area_ratio_cia_m_per_km2": "1.28",
+      "coast_area_ratio_wri_m_per_km2": "1.81",
+      "coast_area_sqrt_ratio_cia": "1.43"
+    },
+    {
+      "rank": 68,
+      "location": "Namibia",
+      "coastline_cia_km": "1,572",
+      "coastline_wri_km": "1,754",
+      "land_area_km2": "823,290",
+      "coast_area_ratio_cia_m_per_km2": "1.91",
+      "coast_area_ratio_wri_m_per_km2": "2.13",
+      "coast_area_sqrt_ratio_cia": "1.73"
+    },
+    {
+      "rank": 69,
+      "location": "Taiwan",
+      "coastline_cia_km": "1,566.3",
+      "coastline_wri_km": "2,007",
+      "land_area_km2": "32,260",
+      "coast_area_ratio_cia_m_per_km2": "48.6",
+      "coast_area_ratio_wri_m_per_km2": "62.2",
+      "coast_area_sqrt_ratio_cia": "8.72"
+    },
+    {
+      "rank": 70,
+      "location": "Palau",
+      "coastline_cia_km": "1,519",
+      "coastline_wri_km": "",
+      "land_area_km2": "459",
+      "coast_area_ratio_cia_m_per_km2": "3,310",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "70.9"
+    },
+    {
+      "rank": 71,
+      "location": "Northern Mariana Islands",
+      "coastline_cia_km": "1,482",
+      "coastline_wri_km": "",
+      "land_area_km2": "464",
+      "coast_area_ratio_cia_m_per_km2": "3,190",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "68.8"
+    },
+    {
+      "rank": 72,
+      "location": "Ireland",
+      "coastline_cia_km": "1,448",
+      "coastline_wri_km": "6,437",
+      "land_area_km2": "68,883",
+      "coast_area_ratio_cia_m_per_km2": "21.0",
+      "coast_area_ratio_wri_m_per_km2": "93.4",
+      "coast_area_sqrt_ratio_cia": "5.52"
+    },
+    {
+      "rank": 73,
+      "location": "Tanzania",
+      "coastline_cia_km": "1,424",
+      "coastline_wri_km": "3,461",
+      "land_area_km2": "885,800",
+      "coast_area_ratio_cia_m_per_km2": "1.61",
+      "coast_area_ratio_wri_m_per_km2": "3.91",
+      "coast_area_sqrt_ratio_cia": "1.51"
+    },
+    {
+      "rank": 74,
+      "location": "Sri Lanka",
+      "coastline_cia_km": "1,340",
+      "coastline_wri_km": "2,825",
+      "land_area_km2": "64,630",
+      "coast_area_ratio_cia_m_per_km2": "20.7",
+      "coast_area_ratio_wri_m_per_km2": "43.7",
+      "coast_area_sqrt_ratio_cia": "5.27"
+    },
+    {
+      "rank": 75,
+      "location": "United Arab Emirates",
+      "coastline_cia_km": "1,318",
+      "coastline_wri_km": "2,871",
+      "land_area_km2": "83,600",
+      "coast_area_ratio_cia_m_per_km2": "15.8",
+      "coast_area_ratio_wri_m_per_km2": "34.3",
+      "coast_area_sqrt_ratio_cia": "4.56"
+    },
+    {
+      "rank": 76,
+      "location": "Costa Rica",
+      "coastline_cia_km": "1,290",
+      "coastline_wri_km": "2,069",
+      "land_area_km2": "51,060",
+      "coast_area_ratio_cia_m_per_km2": "25.3",
+      "coast_area_ratio_wri_m_per_km2": "40.5",
+      "coast_area_sqrt_ratio_cia": "5.71"
+    },
+    {
+      "rank": 77,
+      "location": "Dominican Republic",
+      "coastline_cia_km": "1,288",
+      "coastline_wri_km": "1,612",
+      "land_area_km2": "48,320",
+      "coast_area_ratio_cia_m_per_km2": "26.7",
+      "coast_area_ratio_wri_m_per_km2": "33.4",
+      "coast_area_sqrt_ratio_cia": "5.86"
+    },
+    {
+      "rank": 78,
+      "location": "Falkland Islands",
+      "coastline_cia_km": "1,288",
+      "coastline_wri_km": "",
+      "land_area_km2": "12,173",
+      "coast_area_ratio_cia_m_per_km2": "106",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "11.7"
+    },
+    {
+      "rank": 79,
+      "location": "Finland",
+      "coastline_cia_km": "1,250",
+      "coastline_wri_km": "31,119",
+      "land_area_km2": "303,815",
+      "coast_area_ratio_cia_m_per_km2": "4.11",
+      "coast_area_ratio_wri_m_per_km2": "102",
+      "coast_area_sqrt_ratio_cia": "2.27"
+    },
+    {
+      "rank": 80,
+      "location": "Kiribati",
+      "coastline_cia_km": "1,143",
+      "coastline_wri_km": "1,961",
+      "land_area_km2": "811",
+      "coast_area_ratio_cia_m_per_km2": "1,410",
+      "coast_area_ratio_wri_m_per_km2": "2,420",
+      "coast_area_sqrt_ratio_cia": "40.1"
+    },
+    {
+      "rank": 81,
+      "location": "Fiji",
+      "coastline_cia_km": "1,129",
+      "coastline_wri_km": "4,638",
+      "land_area_km2": "18,274",
+      "coast_area_ratio_cia_m_per_km2": "61.8",
+      "coast_area_ratio_wri_m_per_km2": "254",
+      "coast_area_sqrt_ratio_cia": "8.35"
+    },
+    {
+      "rank": 82,
+      "location": "Faroe Islands",
+      "coastline_cia_km": "1,117",
+      "coastline_wri_km": "",
+      "land_area_km2": "1,393",
+      "coast_area_ratio_cia_m_per_km2": "802",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "29.9"
+    },
+    {
+      "rank": 83,
+      "location": "Pakistan",
+      "coastline_cia_km": "1,046",
+      "coastline_wri_km": "2,599",
+      "land_area_km2": "770,875",
+      "coast_area_ratio_cia_m_per_km2": "1.36",
+      "coast_area_ratio_wri_m_per_km2": "3.37",
+      "coast_area_sqrt_ratio_cia": "1.19"
+    },
+    {
+      "rank": 84,
+      "location": "Jamaica",
+      "coastline_cia_km": "1,022",
+      "coastline_wri_km": "895",
+      "land_area_km2": "10,831",
+      "coast_area_ratio_cia_m_per_km2": "94.4",
+      "coast_area_ratio_wri_m_per_km2": "82.6",
+      "coast_area_sqrt_ratio_cia": "9.82"
+    },
+    {
+      "rank": 85,
+      "location": "Algeria",
+      "coastline_cia_km": "998",
+      "coastline_wri_km": "1,557",
+      "land_area_km2": "2,381,740",
+      "coast_area_ratio_cia_m_per_km2": "0.419",
+      "coast_area_ratio_wri_m_per_km2": "0.654",
+      "coast_area_sqrt_ratio_cia": "0.647"
+    },
+    {
+      "rank": 86,
+      "location": "Cape Verde",
+      "coastline_cia_km": "965",
+      "coastline_wri_km": "1,121",
+      "land_area_km2": "4,033",
+      "coast_area_ratio_cia_m_per_km2": "239",
+      "coast_area_ratio_wri_m_per_km2": "278",
+      "coast_area_sqrt_ratio_cia": "15.2"
+    },
+    {
+      "rank": 87,
+      "location": "Spratly Islands",
+      "coastline_cia_km": "926",
+      "coastline_wri_km": "",
+      "land_area_km2": "<5",
+      "coast_area_ratio_cia_m_per_km2": ">200,000",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 88,
+      "location": "Nicaragua",
+      "coastline_cia_km": "910",
+      "coastline_wri_km": "1,915",
+      "land_area_km2": "119,990",
+      "coast_area_ratio_cia_m_per_km2": "7.58",
+      "coast_area_ratio_wri_m_per_km2": "16.0",
+      "coast_area_sqrt_ratio_cia": "2.63"
+    },
+    {
+      "rank": 89,
+      "location": "Gabon",
+      "coastline_cia_km": "885",
+      "coastline_wri_km": "2,019",
+      "land_area_km2": "257,667",
+      "coast_area_ratio_cia_m_per_km2": "3.43",
+      "coast_area_ratio_wri_m_per_km2": "7.84",
+      "coast_area_sqrt_ratio_cia": "1.74"
+    },
+    {
+      "rank": 90,
+      "location": "Nigeria",
+      "coastline_cia_km": "853",
+      "coastline_wri_km": "3,122",
+      "land_area_km2": "910,768",
+      "coast_area_ratio_cia_m_per_km2": "0.937",
+      "coast_area_ratio_wri_m_per_km2": "3.43",
+      "coast_area_sqrt_ratio_cia": "0.894"
+    },
+    {
+      "rank": 91,
+      "location": "Sudan",
+      "coastline_cia_km": "853",
+      "coastline_wri_km": "2,245",
+      "land_area_km2": "1,731,671",
+      "coast_area_ratio_cia_m_per_km2": "0.493",
+      "coast_area_ratio_wri_m_per_km2": "1.30",
+      "coast_area_sqrt_ratio_cia": "0.648"
+    },
+    {
+      "rank": 92,
+      "location": "Honduras",
+      "coastline_cia_km": "832",
+      "coastline_wri_km": "1,878",
+      "land_area_km2": "111,890",
+      "coast_area_ratio_cia_m_per_km2": "7.44",
+      "coast_area_ratio_wri_m_per_km2": "16.8",
+      "coast_area_sqrt_ratio_cia": "2.49"
+    },
+    {
+      "rank": 93,
+      "location": "Mauritania",
+      "coastline_cia_km": "754",
+      "coastline_wri_km": "1,268",
+      "land_area_km2": "1,030,700",
+      "coast_area_ratio_cia_m_per_km2": "0.732",
+      "coast_area_ratio_wri_m_per_km2": "1.23",
+      "coast_area_sqrt_ratio_cia": "0.743"
+    },
+    {
+      "rank": 94,
+      "location": "Hong Kong",
+      "coastline_cia_km": "733",
+      "coastline_wri_km": "955",
+      "land_area_km2": "1,073",
+      "coast_area_ratio_cia_m_per_km2": "683",
+      "coast_area_ratio_wri_m_per_km2": "890",
+      "coast_area_sqrt_ratio_cia": "22.4"
+    },
+    {
+      "rank": 95,
+      "location": "Timor-Leste",
+      "coastline_cia_km": "706",
+      "coastline_wri_km": "",
+      "land_area_km2": "14,874",
+      "coast_area_ratio_cia_m_per_km2": "47.5",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "5.79"
+    },
+    {
+      "rank": 96,
+      "location": "British Indian Ocean Territory",
+      "coastline_cia_km": "698",
+      "coastline_wri_km": "",
+      "land_area_km2": "60",
+      "coast_area_ratio_cia_m_per_km2": "11,600",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "90.1"
+    },
+    {
+      "rank": 97,
+      "location": "Uruguay",
+      "coastline_cia_km": "660",
+      "coastline_wri_km": "1,096",
+      "land_area_km2": "175,015",
+      "coast_area_ratio_cia_m_per_km2": "3.77",
+      "coast_area_ratio_wri_m_per_km2": "6.26",
+      "coast_area_sqrt_ratio_cia": "1.58"
+    },
+    {
+      "rank": 98,
+      "location": "Cyprus",
+      "coastline_cia_km": "648",
+      "coastline_wri_km": "671",
+      "land_area_km2": "9,241",
+      "coast_area_ratio_cia_m_per_km2": "70.1",
+      "coast_area_ratio_wri_m_per_km2": "72.6",
+      "coast_area_sqrt_ratio_cia": "6.74"
+    },
+    {
+      "rank": 99,
+      "location": "Maldives",
+      "coastline_cia_km": "644",
+      "coastline_wri_km": "2,002",
+      "land_area_km2": "298",
+      "coast_area_ratio_cia_m_per_km2": "2,160",
+      "coast_area_ratio_wri_m_per_km2": "6,720",
+      "coast_area_sqrt_ratio_cia": "37.3"
+    },
+    {
+      "rank": 100,
+      "location": "Bangladesh",
+      "coastline_cia_km": "580",
+      "coastline_wri_km": "3,306",
+      "land_area_km2": "148,470",
+      "coast_area_ratio_cia_m_per_km2": "4.46",
+      "coast_area_ratio_wri_m_per_km2": "25.4",
+      "coast_area_sqrt_ratio_cia": "1.61"
+    },
+    {
+      "rank": 101,
+      "location": "Liberia",
+      "coastline_cia_km": "579",
+      "coastline_wri_km": "842",
+      "land_area_km2": "96,320",
+      "coast_area_ratio_cia_m_per_km2": "6.01",
+      "coast_area_ratio_wri_m_per_km2": "8.74",
+      "coast_area_sqrt_ratio_cia": "1.87"
+    },
+    {
+      "rank": 102,
+      "location": "Qatar",
+      "coastline_cia_km": "563",
+      "coastline_wri_km": "909",
+      "land_area_km2": "11,586",
+      "coast_area_ratio_cia_m_per_km2": "48.6",
+      "coast_area_ratio_wri_m_per_km2": "78.5",
+      "coast_area_sqrt_ratio_cia": "5.23"
+    },
+    {
+      "rank": 103,
+      "location": "Ghana",
+      "coastline_cia_km": "539",
+      "coastline_wri_km": "758",
+      "land_area_km2": "227,533",
+      "coast_area_ratio_cia_m_per_km2": "2.37",
+      "coast_area_ratio_wri_m_per_km2": "3.33",
+      "coast_area_sqrt_ratio_cia": "1.13"
+    },
+    {
+      "rank": 104,
+      "location": "Kenya",
+      "coastline_cia_km": "536",
+      "coastline_wri_km": "1,586",
+      "land_area_km2": "569,140",
+      "coast_area_ratio_cia_m_per_km2": "0.942",
+      "coast_area_ratio_wri_m_per_km2": "2.79",
+      "coast_area_sqrt_ratio_cia": "0.71"
+    },
+    {
+      "rank": 105,
+      "location": "Senegal",
+      "coastline_cia_km": "531",
+      "coastline_wri_km": "1,327",
+      "land_area_km2": "192,530",
+      "coast_area_ratio_cia_m_per_km2": "2.76",
+      "coast_area_ratio_wri_m_per_km2": "6.89",
+      "coast_area_sqrt_ratio_cia": "1.21"
+    },
+    {
+      "rank": 106,
+      "location": "Paracel Islands",
+      "coastline_cia_km": "518",
+      "coastline_wri_km": "",
+      "land_area_km2": "7.75",
+      "coast_area_ratio_cia_m_per_km2": "66,800",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "186"
+    },
+    {
+      "rank": 107,
+      "location": "Ivory Coast",
+      "coastline_cia_km": "515",
+      "coastline_wri_km": "797",
+      "land_area_km2": "318,003",
+      "coast_area_ratio_cia_m_per_km2": "1.62",
+      "coast_area_ratio_wri_m_per_km2": "2.51",
+      "coast_area_sqrt_ratio_cia": "0.913"
+    },
+    {
+      "rank": 108,
+      "location": "Puerto Rico",
+      "coastline_cia_km": "501",
+      "coastline_wri_km": "1,094",
+      "land_area_km2": "8,959",
+      "coast_area_ratio_cia_m_per_km2": "55.9",
+      "coast_area_ratio_wri_m_per_km2": "122",
+      "coast_area_sqrt_ratio_cia": "5.29"
+    },
+    {
+      "rank": 109,
+      "location": "Kuwait",
+      "coastline_cia_km": "499",
+      "coastline_wri_km": "756",
+      "land_area_km2": "17,818",
+      "coast_area_ratio_cia_m_per_km2": "28.0",
+      "coast_area_ratio_wri_m_per_km2": "42.4",
+      "coast_area_sqrt_ratio_cia": "3.74"
+    },
+    {
+      "rank": 110,
+      "location": "Latvia",
+      "coastline_cia_km": "498",
+      "coastline_wri_km": "566",
+      "land_area_km2": "62,249",
+      "coast_area_ratio_cia_m_per_km2": "8.00",
+      "coast_area_ratio_wri_m_per_km2": "9.09",
+      "coast_area_sqrt_ratio_cia": "2"
+    },
+    {
+      "rank": 111,
+      "location": "Seychelles",
+      "coastline_cia_km": "491",
+      "coastline_wri_km": "747",
+      "land_area_km2": "455",
+      "coast_area_ratio_cia_m_per_km2": "1,080",
+      "coast_area_ratio_wri_m_per_km2": "1,640",
+      "coast_area_sqrt_ratio_cia": "23"
+    },
+    {
+      "rank": 112,
+      "location": "Guyana",
+      "coastline_cia_km": "459",
+      "coastline_wri_km": "1,154",
+      "land_area_km2": "196,849",
+      "coast_area_ratio_cia_m_per_km2": "2.33",
+      "coast_area_ratio_wri_m_per_km2": "5.86",
+      "coast_area_sqrt_ratio_cia": "1.03"
+    },
+    {
+      "rank": 113,
+      "location": "Netherlands",
+      "coastline_cia_km": "451",
+      "coastline_wri_km": "1,914",
+      "land_area_km2": "33,893",
+      "coast_area_ratio_cia_m_per_km2": "13.3",
+      "coast_area_ratio_wri_m_per_km2": "56.5",
+      "coast_area_sqrt_ratio_cia": "2.45"
+    },
+    {
+      "rank": 114,
+      "location": "Cambodia",
+      "coastline_cia_km": "443",
+      "coastline_wri_km": "1,127",
+      "land_area_km2": "176,515",
+      "coast_area_ratio_cia_m_per_km2": "2.51",
+      "coast_area_ratio_wri_m_per_km2": "6.38",
+      "coast_area_sqrt_ratio_cia": "1.05"
+    },
+    {
+      "rank": 115,
+      "location": "Poland",
+      "coastline_cia_km": "440",
+      "coastline_wri_km": "1,032",
+      "land_area_km2": "304,255",
+      "coast_area_ratio_cia_m_per_km2": "1.45",
+      "coast_area_ratio_wri_m_per_km2": "3.39",
+      "coast_area_sqrt_ratio_cia": "0.798"
+    },
+    {
+      "rank": 116,
+      "location": "Tonga",
+      "coastline_cia_km": "419",
+      "coastline_wri_km": "909",
+      "land_area_km2": "717",
+      "coast_area_ratio_cia_m_per_km2": "584",
+      "coast_area_ratio_wri_m_per_km2": "1,270",
+      "coast_area_sqrt_ratio_cia": "15.6"
+    },
+    {
+      "rank": 117,
+      "location": "Samoa",
+      "coastline_cia_km": "403",
+      "coastline_wri_km": "463",
+      "land_area_km2": "2,821",
+      "coast_area_ratio_cia_m_per_km2": "143",
+      "coast_area_ratio_wri_m_per_km2": "164",
+      "coast_area_sqrt_ratio_cia": "7.59"
+    },
+    {
+      "rank": 118,
+      "location": "Cameroon",
+      "coastline_cia_km": "402",
+      "coastline_wri_km": "1,799",
+      "land_area_km2": "472,710",
+      "coast_area_ratio_cia_m_per_km2": "0.850",
+      "coast_area_ratio_wri_m_per_km2": "3.81",
+      "coast_area_sqrt_ratio_cia": "0.585"
+    },
+    {
+      "rank": 119,
+      "location": "Sierra Leone",
+      "coastline_cia_km": "402",
+      "coastline_wri_km": "1,677",
+      "land_area_km2": "71,620",
+      "coast_area_ratio_cia_m_per_km2": "5.61",
+      "coast_area_ratio_wri_m_per_km2": "23.4",
+      "coast_area_sqrt_ratio_cia": "1.5"
+    },
+    {
+      "rank": 120,
+      "location": "Guatemala",
+      "coastline_cia_km": "400",
+      "coastline_wri_km": "445",
+      "land_area_km2": "107,159",
+      "coast_area_ratio_cia_m_per_km2": "3.73",
+      "coast_area_ratio_wri_m_per_km2": "4.15",
+      "coast_area_sqrt_ratio_cia": "1.22"
+    },
+    {
+      "rank": 121,
+      "location": "Turks and Caicos Islands",
+      "coastline_cia_km": "389",
+      "coastline_wri_km": "",
+      "land_area_km2": "948",
+      "coast_area_ratio_cia_m_per_km2": "410",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "12.6"
+    },
+    {
+      "rank": 122,
+      "location": "Belize",
+      "coastline_cia_km": "386",
+      "coastline_wri_km": "1,996",
+      "land_area_km2": "22,806",
+      "coast_area_ratio_cia_m_per_km2": "16.9",
+      "coast_area_ratio_wri_m_per_km2": "87.5",
+      "coast_area_sqrt_ratio_cia": "2.56"
+    },
+    {
+      "rank": 123,
+      "location": "Suriname",
+      "coastline_cia_km": "386",
+      "coastline_wri_km": "620",
+      "land_area_km2": "156,000",
+      "coast_area_ratio_cia_m_per_km2": "2.47",
+      "coast_area_ratio_wri_m_per_km2": "3.97",
+      "coast_area_sqrt_ratio_cia": "0.977"
+    },
+    {
+      "rank": 124,
+      "location": "Marshall Islands",
+      "coastline_cia_km": "370.4",
+      "coastline_wri_km": "2,106",
+      "land_area_km2": "181",
+      "coast_area_ratio_cia_m_per_km2": "2,050",
+      "coast_area_ratio_wri_m_per_km2": "11,600",
+      "coast_area_sqrt_ratio_cia": "27.5"
+    },
+    {
+      "rank": 125,
+      "location": "Curaçao",
+      "coastline_cia_km": "364",
+      "coastline_wri_km": "",
+      "land_area_km2": "444",
+      "coast_area_ratio_cia_m_per_km2": "820",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "17.3"
+    },
+    {
+      "rank": 126,
+      "location": "Albania",
+      "coastline_cia_km": "362",
+      "coastline_wri_km": "649",
+      "land_area_km2": "27,398",
+      "coast_area_ratio_cia_m_per_km2": "13.2",
+      "coast_area_ratio_wri_m_per_km2": "23.7",
+      "coast_area_sqrt_ratio_cia": "2.19"
+    },
+    {
+      "rank": 127,
+      "location": "Trinidad and Tobago",
+      "coastline_cia_km": "362",
+      "coastline_wri_km": "704",
+      "land_area_km2": "5,128",
+      "coast_area_ratio_cia_m_per_km2": "70.6",
+      "coast_area_ratio_wri_m_per_km2": "137",
+      "coast_area_sqrt_ratio_cia": "5.06"
+    },
+    {
+      "rank": 128,
+      "location": "Bulgaria",
+      "coastline_cia_km": "354",
+      "coastline_wri_km": "457",
+      "land_area_km2": "108,489",
+      "coast_area_ratio_cia_m_per_km2": "3.26",
+      "coast_area_ratio_wri_m_per_km2": "4.21",
+      "coast_area_sqrt_ratio_cia": "1.07"
+    },
+    {
+      "rank": 129,
+      "location": "Guinea-Bissau",
+      "coastline_cia_km": "350",
+      "coastline_wri_km": "3,176",
+      "land_area_km2": "28,120",
+      "coast_area_ratio_cia_m_per_km2": "12.4",
+      "coast_area_ratio_wri_m_per_km2": "113",
+      "coast_area_sqrt_ratio_cia": "2.09"
+    },
+    {
+      "rank": 130,
+      "location": "Comoros",
+      "coastline_cia_km": "340",
+      "coastline_wri_km": "469",
+      "land_area_km2": "2,235",
+      "coast_area_ratio_cia_m_per_km2": "152",
+      "coast_area_ratio_wri_m_per_km2": "210",
+      "coast_area_sqrt_ratio_cia": "7.19"
+    },
+    {
+      "rank": 131,
+      "location": "Guinea",
+      "coastline_cia_km": "320",
+      "coastline_wri_km": "1,615",
+      "land_area_km2": "245,717",
+      "coast_area_ratio_cia_m_per_km2": "1.30",
+      "coast_area_ratio_wri_m_per_km2": "6.57",
+      "coast_area_sqrt_ratio_cia": "0.646"
+    },
+    {
+      "rank": 132,
+      "location": "Djibouti",
+      "coastline_cia_km": "314",
+      "coastline_wri_km": "443",
+      "land_area_km2": "23,180",
+      "coast_area_ratio_cia_m_per_km2": "13.5",
+      "coast_area_ratio_wri_m_per_km2": "19.1",
+      "coast_area_sqrt_ratio_cia": "2.06"
+    },
+    {
+      "rank": 133,
+      "location": "Georgia",
+      "coastline_cia_km": "310",
+      "coastline_wri_km": "376",
+      "land_area_km2": "69,700",
+      "coast_area_ratio_cia_m_per_km2": "4.45",
+      "coast_area_ratio_wri_m_per_km2": "5.39",
+      "coast_area_sqrt_ratio_cia": "1.17"
+    },
+    {
+      "rank": 134,
+      "location": "El Salvador",
+      "coastline_cia_km": "307",
+      "coastline_wri_km": "756",
+      "land_area_km2": "20,721",
+      "coast_area_ratio_cia_m_per_km2": "14.8",
+      "coast_area_ratio_wri_m_per_km2": "36.5",
+      "coast_area_sqrt_ratio_cia": "2.13"
+    },
+    {
+      "rank": 135,
+      "location": "Equatorial Guinea",
+      "coastline_cia_km": "296",
+      "coastline_wri_km": "603",
+      "land_area_km2": "28,051",
+      "coast_area_ratio_cia_m_per_km2": "10.6",
+      "coast_area_ratio_wri_m_per_km2": "21.5",
+      "coast_area_sqrt_ratio_cia": "1.77"
+    },
+    {
+      "rank": 136,
+      "location": "Montenegro",
+      "coastline_cia_km": "293.5",
+      "coastline_wri_km": "",
+      "land_area_km2": "13,452",
+      "coast_area_ratio_cia_m_per_km2": "21.82",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "2.53"
+    },
+    {
+      "rank": 137,
+      "location": "Israel",
+      "coastline_cia_km": "273",
+      "coastline_wri_km": "205",
+      "land_area_km2": "21,497",
+      "coast_area_ratio_cia_m_per_km2": "12.7",
+      "coast_area_ratio_wri_m_per_km2": "9.54",
+      "coast_area_sqrt_ratio_cia": "1.86"
+    },
+    {
+      "rank": 138,
+      "location": "Malta",
+      "coastline_cia_km": "252.8",
+      "coastline_wri_km": "198",
+      "land_area_km2": "316",
+      "coast_area_ratio_cia_m_per_km2": "800",
+      "coast_area_ratio_wri_m_per_km2": "627",
+      "coast_area_sqrt_ratio_cia": "14.2"
+    },
+    {
+      "rank": 139,
+      "location": "Lebanon",
+      "coastline_cia_km": "225",
+      "coastline_wri_km": "294",
+      "land_area_km2": "10,230",
+      "coast_area_ratio_cia_m_per_km2": "22.0",
+      "coast_area_ratio_wri_m_per_km2": "28.7",
+      "coast_area_sqrt_ratio_cia": "2.22"
+    },
+    {
+      "rank": 140,
+      "location": "Romania",
+      "coastline_cia_km": "225",
+      "coastline_wri_km": "696",
+      "land_area_km2": "229,891",
+      "coast_area_ratio_cia_m_per_km2": "0.979",
+      "coast_area_ratio_wri_m_per_km2": "3.03",
+      "coast_area_sqrt_ratio_cia": "0.469"
+    },
+    {
+      "rank": 141,
+      "location": "São Tomé and Príncipe",
+      "coastline_cia_km": "209",
+      "coastline_wri_km": "269",
+      "land_area_km2": "964",
+      "coast_area_ratio_cia_m_per_km2": "217",
+      "coast_area_ratio_wri_m_per_km2": "279",
+      "coast_area_sqrt_ratio_cia": "6.73"
+    },
+    {
+      "rank": 142,
+      "location": "Singapore",
+      "coastline_cia_km": "193",
+      "coastline_wri_km": "268",
+      "land_area_km2": "709.2",
+      "coast_area_ratio_cia_m_per_km2": "272",
+      "coast_area_ratio_wri_m_per_km2": "378",
+      "coast_area_sqrt_ratio_cia": "7.25"
+    },
+    {
+      "rank": 143,
+      "location": "Syria",
+      "coastline_cia_km": "193",
+      "coastline_wri_km": "212",
+      "land_area_km2": "185,887",
+      "coast_area_ratio_cia_m_per_km2": "1.04",
+      "coast_area_ratio_wri_m_per_km2": "1.14",
+      "coast_area_sqrt_ratio_cia": "0.448"
+    },
+    {
+      "rank": 144,
+      "location": "U.S. Virgin Islands",
+      "coastline_cia_km": "188",
+      "coastline_wri_km": "390",
+      "land_area_km2": "346",
+      "coast_area_ratio_cia_m_per_km2": "543",
+      "coast_area_ratio_wri_m_per_km2": "1,130",
+      "coast_area_sqrt_ratio_cia": "10.1"
+    },
+    {
+      "rank": 145,
+      "location": "Mauritius",
+      "coastline_cia_km": "177",
+      "coastline_wri_km": "496",
+      "land_area_km2": "2,030",
+      "coast_area_ratio_cia_m_per_km2": "87.2",
+      "coast_area_ratio_wri_m_per_km2": "244",
+      "coast_area_sqrt_ratio_cia": "3.93"
+    },
+    {
+      "rank": 146,
+      "location": "Congo, Republic of the",
+      "coastline_cia_km": "169",
+      "coastline_wri_km": "205",
+      "land_area_km2": "341,500",
+      "coast_area_ratio_cia_m_per_km2": "0.495",
+      "coast_area_ratio_wri_m_per_km2": "0.600",
+      "coast_area_sqrt_ratio_cia": "0.289"
+    },
+    {
+      "rank": 147,
+      "location": "Bahrain",
+      "coastline_cia_km": "161",
+      "coastline_wri_km": "255",
+      "land_area_km2": "760",
+      "coast_area_ratio_cia_m_per_km2": "212",
+      "coast_area_ratio_wri_m_per_km2": "336",
+      "coast_area_sqrt_ratio_cia": "5.84"
+    },
+    {
+      "rank": 148,
+      "location": "Brunei",
+      "coastline_cia_km": "161",
+      "coastline_wri_km": "269",
+      "land_area_km2": "5,265",
+      "coast_area_ratio_cia_m_per_km2": "30.6",
+      "coast_area_ratio_wri_m_per_km2": "51.1",
+      "coast_area_sqrt_ratio_cia": "2.22"
+    },
+    {
+      "rank": 149,
+      "location": "Cayman Islands",
+      "coastline_cia_km": "160",
+      "coastline_wri_km": "",
+      "land_area_km2": "264",
+      "coast_area_ratio_cia_m_per_km2": "606",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "9.85"
+    },
+    {
+      "rank": 150,
+      "location": "Isle of Man",
+      "coastline_cia_km": "160",
+      "coastline_wri_km": "",
+      "land_area_km2": "572",
+      "coast_area_ratio_cia_m_per_km2": "280",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "6.69"
+    },
+    {
+      "rank": 151,
+      "location": "Saint Lucia",
+      "coastline_cia_km": "158",
+      "coastline_wri_km": "166",
+      "land_area_km2": "606",
+      "coast_area_ratio_cia_m_per_km2": "261",
+      "coast_area_ratio_wri_m_per_km2": "274",
+      "coast_area_sqrt_ratio_cia": "6.42"
+    },
+    {
+      "rank": 152,
+      "location": "Antigua and Barbuda",
+      "coastline_cia_km": "153",
+      "coastline_wri_km": "289",
+      "land_area_km2": "442.6",
+      "coast_area_ratio_cia_m_per_km2": "346",
+      "coast_area_ratio_wri_m_per_km2": "653",
+      "coast_area_sqrt_ratio_cia": "7.27"
+    },
+    {
+      "rank": 153,
+      "location": "Dominica",
+      "coastline_cia_km": "148",
+      "coastline_wri_km": "152",
+      "land_area_km2": "751",
+      "coast_area_ratio_cia_m_per_km2": "197",
+      "coast_area_ratio_wri_m_per_km2": "202",
+      "coast_area_sqrt_ratio_cia": "5.4"
+    },
+    {
+      "rank": 154,
+      "location": "Christmas Island",
+      "coastline_cia_km": "138.9",
+      "coastline_wri_km": "",
+      "land_area_km2": "135",
+      "coast_area_ratio_cia_m_per_km2": "1,030",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "12"
+    },
+    {
+      "rank": 155,
+      "location": "Saint Kitts and Nevis",
+      "coastline_cia_km": "135",
+      "coastline_wri_km": "",
+      "land_area_km2": "261",
+      "coast_area_ratio_cia_m_per_km2": "517",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "8.36"
+    },
+    {
+      "rank": 156,
+      "location": "Wallis and Futuna",
+      "coastline_cia_km": "129",
+      "coastline_wri_km": "",
+      "land_area_km2": "142",
+      "coast_area_ratio_cia_m_per_km2": "908",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "10.8"
+    },
+    {
+      "rank": 157,
+      "location": "Guam",
+      "coastline_cia_km": "125.5",
+      "coastline_wri_km": "",
+      "land_area_km2": "544",
+      "coast_area_ratio_cia_m_per_km2": "231",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "5.38"
+    },
+    {
+      "rank": 158,
+      "location": "Jan Mayen",
+      "coastline_cia_km": "124.1",
+      "coastline_wri_km": "",
+      "land_area_km2": "377",
+      "coast_area_ratio_cia_m_per_km2": "329",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "6.39"
+    },
+    {
+      "rank": 159,
+      "location": "Benin",
+      "coastline_cia_km": "121",
+      "coastline_wri_km": "153",
+      "land_area_km2": "110,622",
+      "coast_area_ratio_cia_m_per_km2": "1.09",
+      "coast_area_ratio_wri_m_per_km2": "1.38",
+      "coast_area_sqrt_ratio_cia": "0.364"
+    },
+    {
+      "rank": 160,
+      "location": "Grenada",
+      "coastline_cia_km": "121",
+      "coastline_wri_km": "252",
+      "land_area_km2": "344",
+      "coast_area_ratio_cia_m_per_km2": "352",
+      "coast_area_ratio_wri_m_per_km2": "733",
+      "coast_area_sqrt_ratio_cia": "6.52"
+    },
+    {
+      "rank": 161,
+      "location": "Cook Islands",
+      "coastline_cia_km": "120",
+      "coastline_wri_km": "",
+      "land_area_km2": "236",
+      "coast_area_ratio_cia_m_per_km2": "508",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "7.81"
+    },
+    {
+      "rank": 162,
+      "location": "Saint Pierre and Miquelon",
+      "coastline_cia_km": "120",
+      "coastline_wri_km": "",
+      "land_area_km2": "242",
+      "coast_area_ratio_cia_m_per_km2": "496",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "7.71"
+    },
+    {
+      "rank": 163,
+      "location": "American Samoa",
+      "coastline_cia_km": "116",
+      "coastline_wri_km": "",
+      "land_area_km2": "224",
+      "coast_area_ratio_cia_m_per_km2": "518",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "7.75"
+    },
+    {
+      "rank": 164,
+      "location": "Bermuda",
+      "coastline_cia_km": "103",
+      "coastline_wri_km": "180",
+      "land_area_km2": "54",
+      "coast_area_ratio_cia_m_per_km2": "1,910",
+      "coast_area_ratio_wri_m_per_km2": "3,330",
+      "coast_area_sqrt_ratio_cia": "14"
+    },
+    {
+      "rank": 165,
+      "location": "Heard Island and McDonald Islands",
+      "coastline_cia_km": "101.9",
+      "coastline_wri_km": "",
+      "land_area_km2": "412",
+      "coast_area_ratio_cia_m_per_km2": "247",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "5.02"
+    },
+    {
+      "rank": 166,
+      "location": "Tokelau",
+      "coastline_cia_km": "101",
+      "coastline_wri_km": "",
+      "land_area_km2": "12",
+      "coast_area_ratio_cia_m_per_km2": "8,420",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "29.2"
+    },
+    {
+      "rank": 167,
+      "location": "Barbados",
+      "coastline_cia_km": "97",
+      "coastline_wri_km": "97",
+      "land_area_km2": "430",
+      "coast_area_ratio_cia_m_per_km2": "226",
+      "coast_area_ratio_wri_m_per_km2": "226",
+      "coast_area_sqrt_ratio_cia": "4.68"
+    },
+    {
+      "rank": 168,
+      "location": "Saint Helena, Ascension and Tristan da Cunha",
+      "coastline_cia_km": "94",
+      "coastline_wri_km": "",
+      "land_area_km2": "394",
+      "coast_area_ratio_cia_m_per_km2": "239",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "4.74"
+    },
+    {
+      "rank": 169,
+      "location": "Lithuania",
+      "coastline_cia_km": "90",
+      "coastline_wri_km": "258",
+      "land_area_km2": "62,680",
+      "coast_area_ratio_cia_m_per_km2": "1.44",
+      "coast_area_ratio_wri_m_per_km2": "4.12",
+      "coast_area_sqrt_ratio_cia": "0.359"
+    },
+    {
+      "rank": 170,
+      "location": "United States Pacific Island Wildlife Refuges",
+      "coastline_cia_km": "85.7",
+      "coastline_wri_km": "",
+      "land_area_km2": "22.41",
+      "coast_area_ratio_cia_m_per_km2": "3,820",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "18.1"
+    },
+    {
+      "rank": 171,
+      "location": "Saint Vincent and the Grenadines",
+      "coastline_cia_km": "84",
+      "coastline_wri_km": "264",
+      "land_area_km2": "389",
+      "coast_area_ratio_cia_m_per_km2": "216",
+      "coast_area_ratio_wri_m_per_km2": "679",
+      "coast_area_sqrt_ratio_cia": "4.26"
+    },
+    {
+      "rank": 172,
+      "location": "Akrotiri and Dhekelia",
+      "coastline_cia_km": "83.8",
+      "coastline_wri_km": "",
+      "land_area_km2": "253.8",
+      "coast_area_ratio_cia_m_per_km2": "330",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "5.26"
+    },
+    {
+      "rank": 173,
+      "location": "British Virgin Islands",
+      "coastline_cia_km": "80",
+      "coastline_wri_km": "",
+      "land_area_km2": "151",
+      "coast_area_ratio_cia_m_per_km2": "530",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "6.51"
+    },
+    {
+      "rank": 174,
+      "location": "Gambia",
+      "coastline_cia_km": "80",
+      "coastline_wri_km": "503",
+      "land_area_km2": "10,120",
+      "coast_area_ratio_cia_m_per_km2": "7.91",
+      "coast_area_ratio_wri_m_per_km2": "49.7",
+      "coast_area_sqrt_ratio_cia": "0.795"
+    },
+    {
+      "rank": 175,
+      "location": "Ashmore and Cartier Islands",
+      "coastline_cia_km": "74.1",
+      "coastline_wri_km": "",
+      "land_area_km2": "5",
+      "coast_area_ratio_cia_m_per_km2": "14,800",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "33.1"
+    },
+    {
+      "rank": 176,
+      "location": "Jersey",
+      "coastline_cia_km": "70",
+      "coastline_wri_km": "",
+      "land_area_km2": "116",
+      "coast_area_ratio_cia_m_per_km2": "603",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "6.5"
+    },
+    {
+      "rank": 177,
+      "location": "Aruba",
+      "coastline_cia_km": "68.5",
+      "coastline_wri_km": "107",
+      "land_area_km2": "180",
+      "coast_area_ratio_cia_m_per_km2": "381",
+      "coast_area_ratio_wri_m_per_km2": "594",
+      "coast_area_sqrt_ratio_cia": "5.11"
+    },
+    {
+      "rank": 178,
+      "location": "Belgium",
+      "coastline_cia_km": "66.5",
+      "coastline_wri_km": "76",
+      "land_area_km2": "30,278",
+      "coast_area_ratio_cia_m_per_km2": "2.20",
+      "coast_area_ratio_wri_m_per_km2": "2.51",
+      "coast_area_sqrt_ratio_cia": "0.382"
+    },
+    {
+      "rank": 179,
+      "location": "Niue",
+      "coastline_cia_km": "64",
+      "coastline_wri_km": "",
+      "land_area_km2": "260",
+      "coast_area_ratio_cia_m_per_km2": "246",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "3.97"
+    },
+    {
+      "rank": 180,
+      "location": "Anguilla",
+      "coastline_cia_km": "61",
+      "coastline_wri_km": "",
+      "land_area_km2": "91",
+      "coast_area_ratio_cia_m_per_km2": "670",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "6.39"
+    },
+    {
+      "rank": 181,
+      "location": "Saint Martin",
+      "coastline_cia_km": "58.9",
+      "coastline_wri_km": "",
+      "land_area_km2": "54.4",
+      "coast_area_ratio_cia_m_per_km2": "1,080",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "7.99"
+    },
+    {
+      "rank": 182,
+      "location": "Iraq",
+      "coastline_cia_km": "58",
+      "coastline_wri_km": "105",
+      "land_area_km2": "437,367",
+      "coast_area_ratio_cia_m_per_km2": "0.133",
+      "coast_area_ratio_wri_m_per_km2": "0.240",
+      "coast_area_sqrt_ratio_cia": "0.0877"
+    },
+    {
+      "rank": 183,
+      "location": "Togo",
+      "coastline_cia_km": "56",
+      "coastline_wri_km": "53",
+      "land_area_km2": "54,385",
+      "coast_area_ratio_cia_m_per_km2": "1.03",
+      "coast_area_ratio_wri_m_per_km2": "0.975",
+      "coast_area_sqrt_ratio_cia": "0.24"
+    },
+    {
+      "rank": 184,
+      "location": "Pitcairn Islands",
+      "coastline_cia_km": "51",
+      "coastline_wri_km": "",
+      "land_area_km2": "47",
+      "coast_area_ratio_cia_m_per_km2": "1,090",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "7.44"
+    },
+    {
+      "rank": 185,
+      "location": "Guernsey",
+      "coastline_cia_km": "50",
+      "coastline_wri_km": "",
+      "land_area_km2": "78",
+      "coast_area_ratio_cia_m_per_km2": "641",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "5.66"
+    },
+    {
+      "rank": 186,
+      "location": "Slovenia",
+      "coastline_cia_km": "46.6",
+      "coastline_wri_km": "41",
+      "land_area_km2": "20,151",
+      "coast_area_ratio_cia_m_per_km2": "2.31",
+      "coast_area_ratio_wri_m_per_km2": "2.03",
+      "coast_area_sqrt_ratio_cia": "0.328"
+    },
+    {
+      "rank": 187,
+      "location": "Macau",
+      "coastline_cia_km": "41",
+      "coastline_wri_km": "36",
+      "land_area_km2": "28.2",
+      "coast_area_ratio_cia_m_per_km2": "1,450",
+      "coast_area_ratio_wri_m_per_km2": "1,280",
+      "coast_area_sqrt_ratio_cia": "7.72"
+    },
+    {
+      "rank": 188,
+      "location": "Gaza Strip (Palestine)",
+      "coastline_cia_km": "40",
+      "coastline_wri_km": "",
+      "land_area_km2": "360",
+      "coast_area_ratio_cia_m_per_km2": "111",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "2.11"
+    },
+    {
+      "rank": 189,
+      "location": "Montserrat",
+      "coastline_cia_km": "40",
+      "coastline_wri_km": "",
+      "land_area_km2": "102",
+      "coast_area_ratio_cia_m_per_km2": "392",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "3.96"
+    },
+    {
+      "rank": 190,
+      "location": "Congo, Democratic Republic of the",
+      "coastline_cia_km": "37",
+      "coastline_wri_km": "177",
+      "land_area_km2": "2,267,048",
+      "coast_area_ratio_cia_m_per_km2": "0.0163",
+      "coast_area_ratio_wri_m_per_km2": "0.0781",
+      "coast_area_sqrt_ratio_cia": "0.0246"
+    },
+    {
+      "rank": 191,
+      "location": "Norfolk Island",
+      "coastline_cia_km": "32",
+      "coastline_wri_km": "",
+      "land_area_km2": "36",
+      "coast_area_ratio_cia_m_per_km2": "889",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "5.33"
+    },
+    {
+      "rank": 192,
+      "location": "Nauru",
+      "coastline_cia_km": "30",
+      "coastline_wri_km": "",
+      "land_area_km2": "21",
+      "coast_area_ratio_cia_m_per_km2": "1,430",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "6.55"
+    },
+    {
+      "rank": 193,
+      "location": "Bouvet Island",
+      "coastline_cia_km": "29.6",
+      "coastline_wri_km": "",
+      "land_area_km2": "49",
+      "coast_area_ratio_cia_m_per_km2": "604",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "4.23"
+    },
+    {
+      "rank": 194,
+      "location": "Cocos (Keeling) Islands",
+      "coastline_cia_km": "26",
+      "coastline_wri_km": "",
+      "land_area_km2": "14",
+      "coast_area_ratio_cia_m_per_km2": "1,860",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "6.95"
+    },
+    {
+      "rank": 195,
+      "location": "Jordan",
+      "coastline_cia_km": "26",
+      "coastline_wri_km": "27",
+      "land_area_km2": "88,802",
+      "coast_area_ratio_cia_m_per_km2": "0.293",
+      "coast_area_ratio_wri_m_per_km2": "0.304",
+      "coast_area_sqrt_ratio_cia": "0.0872"
+    },
+    {
+      "rank": 196,
+      "location": "Tuvalu",
+      "coastline_cia_km": "24",
+      "coastline_wri_km": "",
+      "land_area_km2": "26",
+      "coast_area_ratio_cia_m_per_km2": "923",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "4.71"
+    },
+    {
+      "rank": 197,
+      "location": "Bosnia and Herzegovina",
+      "coastline_cia_km": "20",
+      "coastline_wri_km": "23",
+      "land_area_km2": "51,187",
+      "coast_area_ratio_cia_m_per_km2": "0.391",
+      "coast_area_ratio_wri_m_per_km2": "0.449",
+      "coast_area_sqrt_ratio_cia": "0.0884"
+    },
+    {
+      "rank": 198,
+      "location": "Wake Island",
+      "coastline_cia_km": "19.3",
+      "coastline_wri_km": "",
+      "land_area_km2": "6.5",
+      "coast_area_ratio_cia_m_per_km2": "2,970",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "7.57"
+    },
+    {
+      "rank": 199,
+      "location": "Gibraltar",
+      "coastline_cia_km": "12",
+      "coastline_wri_km": "",
+      "land_area_km2": "6.5",
+      "coast_area_ratio_cia_m_per_km2": "1,850",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "4.71"
+    },
+    {
+      "rank": 200,
+      "location": "Clipperton Island",
+      "coastline_cia_km": "11.1",
+      "coastline_wri_km": "",
+      "land_area_km2": "6",
+      "coast_area_ratio_cia_m_per_km2": "1,850",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "4.53"
+    },
+    {
+      "rank": 201,
+      "location": "Navassa Island",
+      "coastline_cia_km": "8",
+      "coastline_wri_km": "",
+      "land_area_km2": "5.4",
+      "coast_area_ratio_cia_m_per_km2": "1,480",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "3.44"
+    },
+    {
+      "rank": 202,
+      "location": "Monaco",
+      "coastline_cia_km": "4.1",
+      "coastline_wri_km": "",
+      "land_area_km2": "2",
+      "coast_area_ratio_cia_m_per_km2": "2,050",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": "2.9"
+    },
+    {
+      "rank": 203,
+      "location": "Saint Barthélemy",
+      "coastline_cia_km": "NA",
+      "coastline_wri_km": "",
+      "land_area_km2": "25",
+      "coast_area_ratio_cia_m_per_km2": "",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 204,
+      "location": "Sint Maarten",
+      "coastline_cia_km": "NA",
+      "coastline_wri_km": "",
+      "land_area_km2": "34",
+      "coast_area_ratio_cia_m_per_km2": "0.0147",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 205,
+      "location": "South Georgia and the South Sandwich Islands",
+      "coastline_cia_km": "NA",
+      "coastline_wri_km": "",
+      "land_area_km2": "3,903",
+      "coast_area_ratio_cia_m_per_km2": "0.000128",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 206,
+      "location": "Kazakhstan",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "4,528",
+      "land_area_km2": "2,699,700",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "1.68",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 207,
+      "location": "Turkmenistan",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "1,289",
+      "land_area_km2": "469,930",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "2.74",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 208,
+      "location": "Azerbaijan",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "871",
+      "land_area_km2": "82,629",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "10.5",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 209,
+      "location": "West Bank (Palestine)",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "",
+      "land_area_km2": "5,640",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 210,
+      "location": "Afghanistan",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "652,230",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 211,
+      "location": "Andorra",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "",
+      "land_area_km2": "468",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 212,
+      "location": "Armenia",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "28,203",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 213,
+      "location": "Austria",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "82,445",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 214,
+      "location": "Belarus",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "202,900",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 215,
+      "location": "Bhutan",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "38,394",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 216,
+      "location": "Bolivia",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "1,083,301",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 217,
+      "location": "Botswana",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "566,730",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 218,
+      "location": "Burkina Faso",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "273,800",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 219,
+      "location": "Burundi",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "25,680",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 220,
+      "location": "Central African Republic",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "622,984",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 221,
+      "location": "Chad",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "1,259,200",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 222,
+      "location": "Czech Republic",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "77,247",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 223,
+      "location": "Ethiopia",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "1,096,570",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 224,
+      "location": "Hungary",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "89,608",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 225,
+      "location": "Kosovo",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "",
+      "land_area_km2": "10,887",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 226,
+      "location": "Kyrgyzstan",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "191,801",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 227,
+      "location": "Laos",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "230,800",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 228,
+      "location": "Lesotho",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "30,355",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 229,
+      "location": "Liechtenstein",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "",
+      "land_area_km2": "160",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 230,
+      "location": "Luxembourg",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "2,586",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 231,
+      "location": "Malawi",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "94,080",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 232,
+      "location": "Mali",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "1,220,190",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 233,
+      "location": "Moldova",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "32,891",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 234,
+      "location": "Mongolia",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "1,553,556",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 235,
+      "location": "Nepal",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "143,351",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 236,
+      "location": "Niger",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "1,266,700",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 237,
+      "location": "North Macedonia",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "25,433",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 238,
+      "location": "Paraguay",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "397,302",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 239,
+      "location": "Rwanda",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "24,668",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 240,
+      "location": "San Marino",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "",
+      "land_area_km2": "61",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 241,
+      "location": "Serbia",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "",
+      "land_area_km2": "77,474",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 242,
+      "location": "Slovakia",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "48,105",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 243,
+      "location": "South Sudan",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "",
+      "land_area_km2": "644,329",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 244,
+      "location": "Swaziland",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "17,204",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 245,
+      "location": "Switzerland",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "39,997",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 246,
+      "location": "Tajikistan",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "141,510",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 247,
+      "location": "Uganda",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "197,100",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 248,
+      "location": "Uzbekistan",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "1,707",
+      "land_area_km2": "425,400",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "4.01",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 249,
+      "location": "Vatican City",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "",
+      "land_area_km2": "0.44",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 250,
+      "location": "Zambia",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "743,398",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 251,
+      "location": "Zimbabwe",
+      "coastline_cia_km": "0",
+      "coastline_wri_km": "0",
+      "land_area_km2": "386,847",
+      "coast_area_ratio_cia_m_per_km2": "0",
+      "coast_area_ratio_wri_m_per_km2": "0",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 252,
+      "location": "French Guiana",
+      "coastline_cia_km": "",
+      "coastline_wri_km": "763",
+      "land_area_km2": "",
+      "coast_area_ratio_cia_m_per_km2": "",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 253,
+      "location": "Guadeloupe",
+      "coastline_cia_km": "",
+      "coastline_wri_km": "581",
+      "land_area_km2": "",
+      "coast_area_ratio_cia_m_per_km2": "",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 254,
+      "location": "Martinique",
+      "coastline_cia_km": "",
+      "coastline_wri_km": "369",
+      "land_area_km2": "",
+      "coast_area_ratio_cia_m_per_km2": "",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 255,
+      "location": "Caribbean Netherlands",
+      "coastline_cia_km": "",
+      "coastline_wri_km": "361",
+      "land_area_km2": "",
+      "coast_area_ratio_cia_m_per_km2": "",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    },
+    {
+      "rank": 256,
+      "location": "Réunion",
+      "coastline_cia_km": "",
+      "coastline_wri_km": "219",
+      "land_area_km2": "",
+      "coast_area_ratio_cia_m_per_km2": "",
+      "coast_area_ratio_wri_m_per_km2": "",
+      "coast_area_sqrt_ratio_cia": ""
+    }
+  ]
+}
