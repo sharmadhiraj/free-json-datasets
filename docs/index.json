@@ -112,6 +112,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/gdp_by_country.json"
       },
       {
+        "title": "Countries by Total Exports",
+        "subtitle": "Exports of goods and services by country, including total values (USD millions) and major export categories.",
+        "updated_at": "November 18, 2025 10:26 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_exports.json"
+      },
+      {
         "title": "Countries by Foreign Direct Investment (FDI) Inflows",
         "subtitle": "Annual FDI inflows for countries and territories in USD with reporting years.",
         "updated_at": "November 17, 2025 05:09 AM UTC",

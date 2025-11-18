@@ -1,0 +1,1449 @@
+{
+  "title": "Countries by Total Exports",
+  "subtitle": "Exports of goods and services by country, including total values (USD millions) and major export categories.",
+  "updated_at": "November 18, 2025 10:26 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "China",
+      "total_exports_usd_millions": "3,792,950",
+      "reporting_year": "2024",
+      "major_export_goods": "Broadcasting equipment"
+    },
+    {
+      "rank": 2,
+      "country": "United States",
+      "total_exports_usd_millions": "3,232,524",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 3,
+      "country": "Germany",
+      "total_exports_usd_millions": "1,989,101",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 4,
+      "country": "France",
+      "total_exports_usd_millions": "1,203,576",
+      "reporting_year": "2024",
+      "major_export_goods": "Packaged medications"
+    },
+    {
+      "rank": 5,
+      "country": "United Kingdom",
+      "total_exports_usd_millions": "1,116,624",
+      "reporting_year": "2024",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 6,
+      "country": "Netherlands",
+      "total_exports_usd_millions": "1,032,468",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 7,
+      "country": "Singapore",
+      "total_exports_usd_millions": "978,597",
+      "reporting_year": "2024",
+      "major_export_goods": "Integrated circuits"
+    },
+    {
+      "rank": 8,
+      "country": "Japan",
+      "total_exports_usd_millions": "922,447",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 9,
+      "country": "South Korea",
+      "total_exports_usd_millions": "835,148",
+      "reporting_year": "2024",
+      "major_export_goods": "Integrated circuits"
+    },
+    {
+      "rank": 10,
+      "country": "India",
+      "total_exports_usd_millions": "822,045",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 11,
+      "country": "Italy",
+      "total_exports_usd_millions": "778,897",
+      "reporting_year": "2024",
+      "major_export_goods": "Packaged medications"
+    },
+    {
+      "rank": 12,
+      "country": "Ireland",
+      "total_exports_usd_millions": "761,875",
+      "reporting_year": "2024",
+      "major_export_goods": "Serums and vaccines"
+    },
+    {
+      "rank": 13,
+      "country": "Hong Kong (CN)",
+      "total_exports_usd_millions": "739,915",
+      "reporting_year": "2024",
+      "major_export_goods": "Integrated circuits"
+    },
+    {
+      "rank": 14,
+      "country": "Canada",
+      "total_exports_usd_millions": "727,830",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 15,
+      "country": "Mexico",
+      "total_exports_usd_millions": "680,798",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 16,
+      "country": "Switzerland",
+      "total_exports_usd_millions": "675,059",
+      "reporting_year": "2024",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 17,
+      "country": "Spain",
+      "total_exports_usd_millions": "642,357",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 18,
+      "country": "United Arab Emirates",
+      "total_exports_usd_millions": "558,400",
+      "reporting_year": "2023",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 19,
+      "country": "Belgium",
+      "total_exports_usd_millions": "525,458",
+      "reporting_year": "2024",
+      "major_export_goods": "Vaccines"
+    },
+    {
+      "rank": 20,
+      "country": "Taiwan",
+      "total_exports_usd_millions": "486,344",
+      "reporting_year": "2023",
+      "major_export_goods": "Integrated circuits"
+    },
+    {
+      "rank": 21,
+      "country": "Poland",
+      "total_exports_usd_millions": "478,579",
+      "reporting_year": "2024",
+      "major_export_goods": "Car parts"
+    },
+    {
+      "rank": 22,
+      "country": "Russia",
+      "total_exports_usd_millions": "475,277",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 23,
+      "country": "Vietnam",
+      "total_exports_usd_millions": "429,383",
+      "reporting_year": "2024",
+      "major_export_goods": "Broadcasting equipment"
+    },
+    {
+      "rank": 24,
+      "country": "Australia",
+      "total_exports_usd_millions": "425,159",
+      "reporting_year": "2024",
+      "major_export_goods": "Iron ore"
+    },
+    {
+      "rank": 25,
+      "country": "Brazil",
+      "total_exports_usd_millions": "388,333",
+      "reporting_year": "2024",
+      "major_export_goods": "Iron ore"
+    },
+    {
+      "rank": 26,
+      "country": "Turkey",
+      "total_exports_usd_millions": "372,756",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 27,
+      "country": "Thailand",
+      "total_exports_usd_millions": "369,190",
+      "reporting_year": "2024",
+      "major_export_goods": "Data processing equipment"
+    },
+    {
+      "rank": 28,
+      "country": "Saudi Arabia",
+      "total_exports_usd_millions": "360,897",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 29,
+      "country": "Sweden",
+      "total_exports_usd_millions": "338,851",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 30,
+      "country": "Malaysia",
+      "total_exports_usd_millions": "301,788",
+      "reporting_year": "2024",
+      "major_export_goods": "Integrated circuits"
+    },
+    {
+      "rank": 31,
+      "country": "Indonesia",
+      "total_exports_usd_millions": "300,868",
+      "reporting_year": "2024",
+      "major_export_goods": "Coal"
+    },
+    {
+      "rank": 32,
+      "country": "Denmark",
+      "total_exports_usd_millions": "299,404",
+      "reporting_year": "2024",
+      "major_export_goods": "Packaged medications"
+    },
+    {
+      "rank": 33,
+      "country": "Austria",
+      "total_exports_usd_millions": "299,366",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 34,
+      "country": "Czech Republic",
+      "total_exports_usd_millions": "239,259",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 35,
+      "country": "Norway",
+      "total_exports_usd_millions": "229,205",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 36,
+      "country": "Luxembourg",
+      "total_exports_usd_millions": "202,203",
+      "reporting_year": "2024",
+      "major_export_goods": "Iron"
+    },
+    {
+      "rank": 37,
+      "country": "Hungary",
+      "total_exports_usd_millions": "166,502",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 38,
+      "country": "Israel",
+      "total_exports_usd_millions": "153,248",
+      "reporting_year": "2024",
+      "major_export_goods": "Diamonds"
+    },
+    {
+      "rank": 39,
+      "country": "Portugal",
+      "total_exports_usd_millions": "144,236",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 40,
+      "country": "Romania",
+      "total_exports_usd_millions": "136,252",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 41,
+      "country": "South Africa",
+      "total_exports_usd_millions": "127,629",
+      "reporting_year": "2024",
+      "major_export_goods": "Platinum"
+    },
+    {
+      "rank": 42,
+      "country": "Qatar",
+      "total_exports_usd_millions": "125,216",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 43,
+      "country": "Finland",
+      "total_exports_usd_millions": "124,530",
+      "reporting_year": "2024",
+      "major_export_goods": "Paper"
+    },
+    {
+      "rank": 44,
+      "country": "Slovakia",
+      "total_exports_usd_millions": "120,354",
+      "reporting_year": "2024",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 45,
+      "country": "Chile",
+      "total_exports_usd_millions": "111,122",
+      "reporting_year": "2024",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 46,
+      "country": "Greece",
+      "total_exports_usd_millions": "108,423",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 47,
+      "country": "Iraq",
+      "total_exports_usd_millions": "107,851",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 48,
+      "country": "Philippines",
+      "total_exports_usd_millions": "106,989",
+      "reporting_year": "2024",
+      "major_export_goods": "Integrated circuits"
+    },
+    {
+      "rank": 49,
+      "country": "Iran",
+      "total_exports_usd_millions": "100,031",
+      "reporting_year": "2024",
+      "major_export_goods": "Plastic"
+    },
+    {
+      "rank": 50,
+      "country": "Argentina",
+      "total_exports_usd_millions": "96,899",
+      "reporting_year": "2024",
+      "major_export_goods": "Soybeans"
+    },
+    {
+      "rank": 51,
+      "country": "Kazakhstan",
+      "total_exports_usd_millions": "91,908",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 52,
+      "country": "Kuwait",
+      "total_exports_usd_millions": "89,709",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 53,
+      "country": "Peru",
+      "total_exports_usd_millions": "83,324",
+      "reporting_year": "2024",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 54,
+      "country": "Colombia",
+      "total_exports_usd_millions": "68,866",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 55,
+      "country": "Puerto Rico (US)",
+      "total_exports_usd_millions": "65,368",
+      "reporting_year": "2024",
+      "major_export_goods": "Packaged medications"
+    },
+    {
+      "rank": 56,
+      "country": "Oman",
+      "total_exports_usd_millions": "64,749",
+      "reporting_year": "2023",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 57,
+      "country": "Egypt",
+      "total_exports_usd_millions": "63,713",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 58,
+      "country": "Lithuania",
+      "total_exports_usd_millions": "62,895",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 59,
+      "country": "Bulgaria",
+      "total_exports_usd_millions": "62,622",
+      "reporting_year": "2024",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 60,
+      "country": "New Zealand",
+      "total_exports_usd_millions": "61,798",
+      "reporting_year": "2024",
+      "major_export_goods": "Milk"
+    },
+    {
+      "rank": 61,
+      "country": "Morocco",
+      "total_exports_usd_millions": "61,746",
+      "reporting_year": "2024",
+      "major_export_goods": "Fertilizers"
+    },
+    {
+      "rank": 62,
+      "country": "Algeria",
+      "total_exports_usd_millions": "59,426",
+      "reporting_year": "2023",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 63,
+      "country": "Slovenia",
+      "total_exports_usd_millions": "59,159",
+      "reporting_year": "2024",
+      "major_export_goods": "Packaged medications"
+    },
+    {
+      "rank": 64,
+      "country": "Nigeria",
+      "total_exports_usd_millions": "57,536",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 65,
+      "country": "Ukraine",
+      "total_exports_usd_millions": "56,114",
+      "reporting_year": "2024",
+      "major_export_goods": "Sunflower seed oil"
+    },
+    {
+      "rank": 66,
+      "country": "Bangladesh",
+      "total_exports_usd_millions": "53,848",
+      "reporting_year": "2024",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 67,
+      "country": "Belarus",
+      "total_exports_usd_millions": "49,385",
+      "reporting_year": "2024",
+      "major_export_goods": "Fertilizers"
+    },
+    {
+      "rank": 68,
+      "country": "Serbia",
+      "total_exports_usd_millions": "46,940",
+      "reporting_year": "2024",
+      "major_export_goods": "Insulated wire"
+    },
+    {
+      "rank": 69,
+      "country": "Croatia",
+      "total_exports_usd_millions": "46,600",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 70,
+      "country": "Macau (CN)",
+      "total_exports_usd_millions": "45,040",
+      "reporting_year": "2024",
+      "major_export_goods": "Jewelry"
+    },
+    {
+      "rank": 71,
+      "country": "Bahrain",
+      "total_exports_usd_millions": "41,303",
+      "reporting_year": "2024",
+      "major_export_goods": "Aluminium"
+    },
+    {
+      "rank": 72,
+      "country": "Pakistan",
+      "total_exports_usd_millions": "40,218",
+      "reporting_year": "2024",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 73,
+      "country": "Ecuador",
+      "total_exports_usd_millions": "38,468",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 74,
+      "country": "Panama",
+      "total_exports_usd_millions": "37,376",
+      "reporting_year": "2024",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 75,
+      "country": "Angola",
+      "total_exports_usd_millions": "36,923",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 76,
+      "country": "Costa Rica",
+      "total_exports_usd_millions": "36,770",
+      "reporting_year": "2024",
+      "major_export_goods": "Medical instruments"
+    },
+    {
+      "rank": 77,
+      "country": "Cyprus",
+      "total_exports_usd_millions": "35,119",
+      "reporting_year": "2024",
+      "major_export_goods": "Boats"
+    },
+    {
+      "rank": 78,
+      "country": "Libya",
+      "total_exports_usd_millions": "34,896",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 79,
+      "country": "Azerbaijan",
+      "total_exports_usd_millions": "34,112",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 80,
+      "country": "Democratic Republic of the Congo",
+      "total_exports_usd_millions": "32,984",
+      "reporting_year": "2024",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 81,
+      "country": "Estonia",
+      "total_exports_usd_millions": "32,636",
+      "reporting_year": "2024",
+      "major_export_goods": "Wood"
+    },
+    {
+      "rank": 82,
+      "country": "Cambodia",
+      "total_exports_usd_millions": "31,712",
+      "reporting_year": "2024",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 83,
+      "country": "Malta",
+      "total_exports_usd_millions": "29,244",
+      "reporting_year": "2024",
+      "major_export_goods": "Integrated circuits"
+    },
+    {
+      "rank": 84,
+      "country": "Ghana",
+      "total_exports_usd_millions": "29,197",
+      "reporting_year": "2024",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 85,
+      "country": "Dominican Republic",
+      "total_exports_usd_millions": "28,563",
+      "reporting_year": "2024",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 86,
+      "country": "Latvia",
+      "total_exports_usd_millions": "28,116",
+      "reporting_year": "2024",
+      "major_export_goods": "Wood"
+    },
+    {
+      "rank": 87,
+      "country": "Tunisia",
+      "total_exports_usd_millions": "25,869",
+      "reporting_year": "2024",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 88,
+      "country": "Uzbekistan",
+      "total_exports_usd_millions": "26,173",
+      "reporting_year": "2024",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 89,
+      "country": "Côte d'Ivoire",
+      "total_exports_usd_millions": "23,882",
+      "reporting_year": "2024",
+      "major_export_goods": "Cocoa beans"
+    },
+    {
+      "rank": 90,
+      "country": "Uruguay",
+      "total_exports_usd_millions": "23,329",
+      "reporting_year": "2024",
+      "major_export_goods": "Beef"
+    },
+    {
+      "rank": 91,
+      "country": "Jordan",
+      "total_exports_usd_millions": "22,734",
+      "reporting_year": "2024",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 92,
+      "country": "Sri Lanka",
+      "total_exports_usd_millions": "19,680",
+      "reporting_year": "2024",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 93,
+      "country": "Armenia",
+      "total_exports_usd_millions": "18,618",
+      "reporting_year": "2024",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 94,
+      "country": "Guatemala",
+      "total_exports_usd_millions": "17,996",
+      "reporting_year": "2024",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 95,
+      "country": "Paraguay",
+      "total_exports_usd_millions": "17,395",
+      "reporting_year": "2024",
+      "major_export_goods": "Soybeans"
+    },
+    {
+      "rank": 96,
+      "country": "Myanmar",
+      "total_exports_usd_millions": "16,791",
+      "reporting_year": "2023",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 97,
+      "country": "Georgia",
+      "total_exports_usd_millions": "16,321",
+      "reporting_year": "2024",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 98,
+      "country": "Mongolia",
+      "total_exports_usd_millions": "16,306",
+      "reporting_year": "2024",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 99,
+      "country": "Tanzania",
+      "total_exports_usd_millions": "15,622",
+      "reporting_year": "2024",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 100,
+      "country": "Iceland",
+      "total_exports_usd_millions": "13,915",
+      "reporting_year": "2024",
+      "major_export_goods": "Aluminium"
+    },
+    {
+      "rank": 101,
+      "country": "Kenya",
+      "total_exports_usd_millions": "13,865",
+      "reporting_year": "2024",
+      "major_export_goods": "Tea"
+    },
+    {
+      "rank": 102,
+      "country": "Guyana",
+      "total_exports_usd_millions": "13,739",
+      "reporting_year": "2023",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 103,
+      "country": "Papua New Guinea",
+      "total_exports_usd_millions": "12,930",
+      "reporting_year": "2023",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 104,
+      "country": "Bosnia and Herzegovina",
+      "total_exports_usd_millions": "12,141",
+      "reporting_year": "2024",
+      "major_export_goods": "Energy"
+    },
+    {
+      "rank": 105,
+      "country": "Bolivia",
+      "total_exports_usd_millions": "11,904",
+      "reporting_year": "2023",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 106,
+      "country": "Guinea",
+      "total_exports_usd_millions": "11,156",
+      "reporting_year": "2024",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 107,
+      "country": "Lebanon",
+      "total_exports_usd_millions": "11,770",
+      "reporting_year": "2023",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 108,
+      "country": "El Salvador",
+      "total_exports_usd_millions": "11,585",
+      "reporting_year": "2024",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 109,
+      "country": "Brunei",
+      "total_exports_usd_millions": "11,482",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 110,
+      "country": "Zambia",
+      "total_exports_usd_millions": "11,453",
+      "reporting_year": "2023",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 111,
+      "country": "Trinidad and Tobago",
+      "total_exports_usd_millions": "11,086",
+      "reporting_year": "2024",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 112,
+      "country": "Ethiopia",
+      "total_exports_usd_millions": "10,865",
+      "reporting_year": "2023",
+      "major_export_goods": "Coffee"
+    },
+    {
+      "rank": 113,
+      "country": "North Macedonia",
+      "total_exports_usd_millions": "10,445",
+      "reporting_year": "2024",
+      "major_export_goods": "Automobile catalysts"
+    },
+    {
+      "rank": 114,
+      "country": "Mozambique",
+      "total_exports_usd_millions": "9,409",
+      "reporting_year": "2022",
+      "major_export_goods": "Coal"
+    },
+    {
+      "rank": 115,
+      "country": "Honduras",
+      "total_exports_usd_millions": "9,243",
+      "reporting_year": "2022",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 116,
+      "country": "Venezuela",
+      "total_exports_usd_millions": "8,475",
+      "reporting_year": "2023",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 117,
+      "country": "Cuba",
+      "total_exports_usd_millions": "8,769",
+      "reporting_year": "2020",
+      "major_export_goods": "Cigars"
+    },
+    {
+      "rank": 118,
+      "country": "Turkmenistan",
+      "total_exports_usd_millions": "8,164",
+      "reporting_year": "2020",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 119,
+      "country": "Botswana",
+      "total_exports_usd_millions": "7,930",
+      "reporting_year": "2021",
+      "major_export_goods": "Diamonds"
+    },
+    {
+      "rank": 120,
+      "country": "Nicaragua",
+      "total_exports_usd_millions": "7,870",
+      "reporting_year": "2022",
+      "major_export_goods": "Clothing"
+    },
+    {
+      "rank": 121,
+      "country": "Laos",
+      "total_exports_usd_millions": "7,819",
+      "reporting_year": "2021",
+      "major_export_goods": "Energy"
+    },
+    {
+      "rank": 122,
+      "country": "Cameroon",
+      "total_exports_usd_millions": "7,449",
+      "reporting_year": "2021",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 123,
+      "country": "Albania",
+      "total_exports_usd_millions": "7,057",
+      "reporting_year": "2022",
+      "major_export_goods": "Footwear"
+    },
+    {
+      "rank": 124,
+      "country": "Equatorial Guinea",
+      "total_exports_usd_millions": "6,656",
+      "reporting_year": "2022",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 125,
+      "country": "Chad",
+      "total_exports_usd_millions": "6,503",
+      "reporting_year": "2022",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 126,
+      "country": "Jamaica",
+      "total_exports_usd_millions": "6,424",
+      "reporting_year": "2022",
+      "major_export_goods": "Aluminium oxide"
+    },
+    {
+      "rank": 127,
+      "country": "Burkina Faso",
+      "total_exports_usd_millions": "6,233",
+      "reporting_year": "2021",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 128,
+      "country": "Uganda",
+      "total_exports_usd_millions": "6,177",
+      "reporting_year": "2021",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 129,
+      "country": "Moldova",
+      "total_exports_usd_millions": "5,977",
+      "reporting_year": "2022",
+      "major_export_goods": "Insulated wire"
+    },
+    {
+      "rank": 130,
+      "country": "Sudan",
+      "total_exports_usd_millions": "5,908",
+      "reporting_year": "2022",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 131,
+      "country": "Gabon",
+      "total_exports_usd_millions": "5,390",
+      "reporting_year": "2015",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 132,
+      "country": "Mali",
+      "total_exports_usd_millions": "5,381",
+      "reporting_year": "2021",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 133,
+      "country": "Senegal",
+      "total_exports_usd_millions": "5,287",
+      "reporting_year": "2018",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 134,
+      "country": "Zimbabwe",
+      "total_exports_usd_millions": "5,263",
+      "reporting_year": "2020",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 135,
+      "country": "Djibouti",
+      "total_exports_usd_millions": "5,160",
+      "reporting_year": "2021",
+      "major_export_goods": "Palm oil"
+    },
+    {
+      "rank": 136,
+      "country": "Maldives",
+      "total_exports_usd_millions": "5,096",
+      "reporting_year": "2022",
+      "major_export_goods": "Fish"
+    },
+    {
+      "rank": 137,
+      "country": "Namibia",
+      "total_exports_usd_millions": "5,080",
+      "reporting_year": "2022",
+      "major_export_goods": "Copper"
+    },
+    {
+      "rank": 138,
+      "country": "Mauritius",
+      "total_exports_usd_millions": "4,918",
+      "reporting_year": "2022",
+      "major_export_goods": "Fish"
+    },
+    {
+      "rank": 139,
+      "country": "Republic of the Congo",
+      "total_exports_usd_millions": "4,700",
+      "reporting_year": "2020",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 140,
+      "country": "South Sudan",
+      "total_exports_usd_millions": "4,652",
+      "reporting_year": "2021",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 141,
+      "country": "U.S. Virgin Islands (US)",
+      "total_exports_usd_millions": "4,549",
+      "reporting_year": "2022",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 142,
+      "country": "Benin",
+      "total_exports_usd_millions": "4,154",
+      "reporting_year": "2021",
+      "major_export_goods": "Cotton"
+    },
+    {
+      "rank": 143,
+      "country": "Cayman Islands (UK)",
+      "total_exports_usd_millions": "3,652",
+      "reporting_year": "2020",
+      "major_export_goods": "Boats"
+    },
+    {
+      "rank": 144,
+      "country": "Kosovo",
+      "total_exports_usd_millions": "3,577",
+      "reporting_year": "2022",
+      "major_export_goods": ""
+    },
+    {
+      "rank": 145,
+      "country": "Palestine",
+      "total_exports_usd_millions": "3,544",
+      "reporting_year": "2022",
+      "major_export_goods": "Stone"
+    },
+    {
+      "rank": 146,
+      "country": "San Marino",
+      "total_exports_usd_millions": "3,420",
+      "reporting_year": "2021",
+      "major_export_goods": "Dish washing machines"
+    },
+    {
+      "rank": 147,
+      "country": "Madagascar",
+      "total_exports_usd_millions": "3,341",
+      "reporting_year": "2021",
+      "major_export_goods": "Vanilla"
+    },
+    {
+      "rank": 148,
+      "country": "Kyrgyzstan",
+      "total_exports_usd_millions": "3,292",
+      "reporting_year": "2021",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 149,
+      "country": "Bahamas",
+      "total_exports_usd_millions": "3,202",
+      "reporting_year": "2021",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 150,
+      "country": "Mauritania",
+      "total_exports_usd_millions": "3,181",
+      "reporting_year": "2021",
+      "major_export_goods": "Iron ore"
+    },
+    {
+      "rank": 151,
+      "country": "Montenegro",
+      "total_exports_usd_millions": "3,178",
+      "reporting_year": "2022",
+      "major_export_goods": "Aluminium"
+    },
+    {
+      "rank": 152,
+      "country": "Aruba (NL)",
+      "total_exports_usd_millions": "3,004",
+      "reporting_year": "2022",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 153,
+      "country": "Rwanda",
+      "total_exports_usd_millions": "2,994",
+      "reporting_year": "2022",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 154,
+      "country": "Nepal",
+      "total_exports_usd_millions": "2,722",
+      "reporting_year": "2022",
+      "major_export_goods": "Soybean oil"
+    },
+    {
+      "rank": 155,
+      "country": "Suriname",
+      "total_exports_usd_millions": "2,599",
+      "reporting_year": "2022",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 156,
+      "country": "Andorra",
+      "total_exports_usd_millions": "2,414",
+      "reporting_year": "2021",
+      "major_export_goods": "Cars"
+    },
+    {
+      "rank": 157,
+      "country": "Fiji",
+      "total_exports_usd_millions": "2,376",
+      "reporting_year": "2022",
+      "major_export_goods": "Water"
+    },
+    {
+      "rank": 158,
+      "country": "Timor-Leste",
+      "total_exports_usd_millions": "2,315",
+      "reporting_year": "2021",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 159,
+      "country": "Barbados",
+      "total_exports_usd_millions": "2,228",
+      "reporting_year": "2017",
+      "major_export_goods": "Rum"
+    },
+    {
+      "rank": 160,
+      "country": "Eswatini",
+      "total_exports_usd_millions": "2,131",
+      "reporting_year": "2021",
+      "major_export_goods": "Soft drink concentrates"
+    },
+    {
+      "rank": 161,
+      "country": "New Caledonia (FR)",
+      "total_exports_usd_millions": "1,875",
+      "reporting_year": "2016",
+      "major_export_goods": "Ferroalloys"
+    },
+    {
+      "rank": 162,
+      "country": "Tajikistan",
+      "total_exports_usd_millions": "1,753",
+      "reporting_year": "2022",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 163,
+      "country": "Seychelles",
+      "total_exports_usd_millions": "1,751",
+      "reporting_year": "2021",
+      "major_export_goods": "Boats"
+    },
+    {
+      "rank": 164,
+      "country": "Togo",
+      "total_exports_usd_millions": "1,721",
+      "reporting_year": "2020",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 165,
+      "country": "Syria",
+      "total_exports_usd_millions": "1,608",
+      "reporting_year": "2022",
+      "major_export_goods": "Olive oil"
+    },
+    {
+      "rank": 166,
+      "country": "Malawi",
+      "total_exports_usd_millions": "1,538",
+      "reporting_year": "2021",
+      "major_export_goods": "Tobacco"
+    },
+    {
+      "rank": 167,
+      "country": "Niger",
+      "total_exports_usd_millions": "1,487",
+      "reporting_year": "2021",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 168,
+      "country": "Afghanistan",
+      "total_exports_usd_millions": "1,476",
+      "reporting_year": "2020",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 169,
+      "country": "Somalia",
+      "total_exports_usd_millions": "1,363",
+      "reporting_year": "2022",
+      "major_export_goods": "Goats"
+    },
+    {
+      "rank": 170,
+      "country": "Belize",
+      "total_exports_usd_millions": "1,345",
+      "reporting_year": "2022",
+      "major_export_goods": "Sugarcane"
+    },
+    {
+      "rank": 171,
+      "country": "Curaçao (NL)",
+      "total_exports_usd_millions": "1,280",
+      "reporting_year": "2021",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 172,
+      "country": "Haiti",
+      "total_exports_usd_millions": "1,241",
+      "reporting_year": "2021",
+      "major_export_goods": "Clothes"
+    },
+    {
+      "rank": 173,
+      "country": "Faroe Islands (DK)",
+      "total_exports_usd_millions": "1,213",
+      "reporting_year": "2011",
+      "major_export_goods": "Fish"
+    },
+    {
+      "rank": 174,
+      "country": "French Polynesia (FR)",
+      "total_exports_usd_millions": "1,202",
+      "reporting_year": "2016",
+      "major_export_goods": "Pearls"
+    },
+    {
+      "rank": 175,
+      "country": "Bermuda (UK)",
+      "total_exports_usd_millions": "1,136",
+      "reporting_year": "2021",
+      "major_export_goods": "Boats"
+    },
+    {
+      "rank": 176,
+      "country": "Sierra Leone",
+      "total_exports_usd_millions": "1,114",
+      "reporting_year": "2021",
+      "major_export_goods": "Titanium ore"
+    },
+    {
+      "rank": 177,
+      "country": "Lesotho",
+      "total_exports_usd_millions": "1,066",
+      "reporting_year": "2022",
+      "major_export_goods": "Diamonds"
+    },
+    {
+      "rank": 178,
+      "country": "Yemen",
+      "total_exports_usd_millions": "938",
+      "reporting_year": "2016",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 179,
+      "country": "Cape Verde",
+      "total_exports_usd_millions": "855",
+      "reporting_year": "2022",
+      "major_export_goods": "Fish"
+    },
+    {
+      "rank": 180,
+      "country": "Turks and Caicos Islands (UK)",
+      "total_exports_usd_millions": "827",
+      "reporting_year": "2018",
+      "major_export_goods": "Molluscs"
+    },
+    {
+      "rank": 181,
+      "country": "Bhutan",
+      "total_exports_usd_millions": "791",
+      "reporting_year": "2022",
+      "major_export_goods": "Ferroalloys"
+    },
+    {
+      "rank": 182,
+      "country": "Sint Maarten (NL)",
+      "total_exports_usd_millions": "788",
+      "reporting_year": "2021",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 183,
+      "country": "Antigua and Barbuda",
+      "total_exports_usd_millions": "752",
+      "reporting_year": "2021",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 184,
+      "country": "Saint Lucia",
+      "total_exports_usd_millions": "711",
+      "reporting_year": "2021",
+      "major_export_goods": "Petroleum"
+    },
+    {
+      "rank": 185,
+      "country": "Liberia",
+      "total_exports_usd_millions": "554",
+      "reporting_year": "2019",
+      "major_export_goods": "Iron ore"
+    },
+    {
+      "rank": 186,
+      "country": "Solomon Islands",
+      "total_exports_usd_millions": "411",
+      "reporting_year": "2022",
+      "major_export_goods": "Wood"
+    },
+    {
+      "rank": 187,
+      "country": "Grenada",
+      "total_exports_usd_millions": "394",
+      "reporting_year": "2021",
+      "major_export_goods": "Fish"
+    },
+    {
+      "rank": 188,
+      "country": "Saint Kitts and Nevis",
+      "total_exports_usd_millions": "393",
+      "reporting_year": "2021",
+      "major_export_goods": "Broadcasting equipment"
+    },
+    {
+      "rank": 189,
+      "country": "Eritrea",
+      "total_exports_usd_millions": "375",
+      "reporting_year": "2011",
+      "major_export_goods": "Zinc"
+    },
+    {
+      "rank": 190,
+      "country": "Guinea-Bissau",
+      "total_exports_usd_millions": "335",
+      "reporting_year": "2021",
+      "major_export_goods": "Cashews"
+    },
+    {
+      "rank": 191,
+      "country": "Central African Republic",
+      "total_exports_usd_millions": "316",
+      "reporting_year": "2022",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 192,
+      "country": "Burundi",
+      "total_exports_usd_millions": "285",
+      "reporting_year": "2018",
+      "major_export_goods": "Gold"
+    },
+    {
+      "rank": 193,
+      "country": "Samoa",
+      "total_exports_usd_millions": "171",
+      "reporting_year": "2022",
+      "major_export_goods": "Coconut oil"
+    },
+    {
+      "rank": 194,
+      "country": "Comoros",
+      "total_exports_usd_millions": "140",
+      "reporting_year": "2021",
+      "major_export_goods": "Cloves"
+    },
+    {
+      "rank": 195,
+      "country": "Saint Vincent and the Grenadines",
+      "total_exports_usd_millions": "138",
+      "reporting_year": "2021",
+      "major_export_goods": "Boats"
+    },
+    {
+      "rank": 196,
+      "country": "Gambia",
+      "total_exports_usd_millions": "135",
+      "reporting_year": "2021",
+      "major_export_goods": "Cashews"
+    },
+    {
+      "rank": 197,
+      "country": "Marshall Islands",
+      "total_exports_usd_millions": "130",
+      "reporting_year": "2021",
+      "major_export_goods": "Boats"
+    },
+    {
+      "rank": 198,
+      "country": "Micronesia",
+      "total_exports_usd_millions": "126",
+      "reporting_year": "2014",
+      "major_export_goods": "Fish"
+    },
+    {
+      "rank": 199,
+      "country": "Dominica",
+      "total_exports_usd_millions": "123",
+      "reporting_year": "2021",
+      "major_export_goods": "Medical instruments"
+    },
+    {
+      "rank": 200,
+      "country": "Vanuatu",
+      "total_exports_usd_millions": "89",
+      "reporting_year": "2021",
+      "major_export_goods": "Fish"
+    },
+    {
+      "rank": 201,
+      "country": "São Tomé and Príncipe",
+      "total_exports_usd_millions": "75",
+      "reporting_year": "2021",
+      "major_export_goods": "Cocoa beans"
+    },
+    {
+      "rank": 202,
+      "country": "Tonga",
+      "total_exports_usd_millions": "60",
+      "reporting_year": "2022",
+      "major_export_goods": "Shellfish"
+    },
+    {
+      "rank": 203,
+      "country": "Nauru",
+      "total_exports_usd_millions": "31",
+      "reporting_year": "2018",
+      "major_export_goods": "Fish"
+    },
+    {
+      "rank": 204,
+      "country": "Palau",
+      "total_exports_usd_millions": "12",
+      "reporting_year": "2021",
+      "major_export_goods": "Computers"
+    },
+    {
+      "rank": 205,
+      "country": "Kiribati",
+      "total_exports_usd_millions": "11",
+      "reporting_year": "2021",
+      "major_export_goods": "Fish"
+    },
+    {
+      "rank": 206,
+      "country": "Tuvalu",
+      "total_exports_usd_millions": "3",
+      "reporting_year": "2021",
+      "major_export_goods": "Boats"
+    }
+  ]
+}
