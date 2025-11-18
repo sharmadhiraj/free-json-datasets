@@ -77,6 +77,8 @@ Each dataset follows this JSON format:
   Nominal GDP (in USD) for all countries in 2023
 - [**Countries by Foreign Direct Investment (FDI) Inflows**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/list_of_countries_by_foreign_direct_investment_inflows.json)  
   Annual FDI inflows for countries and territories in USD with reporting years.
+- [**Countries by Income Inequality**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/list_of_countries_by_income_inequality.json)  
+  Gini coefficients from World Bank, UNU-WIDER, and OECD with reporting years.
 - [**Inflation Rate by Country (2015–2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/list_of_countries_by_inflation_rate.json)  
   Annual inflation rates for each country from 2015 to 2024
 - [**NEPSE Listed Companies**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/nepse_listed_companies.json)  

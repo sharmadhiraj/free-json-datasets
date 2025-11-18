@@ -118,6 +118,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_foreign_direct_investment_inflows.json"
       },
       {
+        "title": "Countries by Income Inequality",
+        "subtitle": "Gini coefficients from World Bank, UNU-WIDER, and OECD with reporting years.",
+        "updated_at": "November 18, 2025 10:21 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_income_inequality.json"
+      },
+      {
         "title": "Inflation Rate by Country (2015–2024)",
         "subtitle": "Annual inflation rates for each country from 2015 to 2024",
         "updated_at": "September 11, 2025 04:09 PM UTC",
