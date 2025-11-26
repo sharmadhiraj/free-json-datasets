@@ -211,6 +211,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_countries_by_length_of_coastline.json"
       },
       {
+        "title": "Highest Mountains on Earth",
+        "subtitle": "A ranked list of the world's tallest mountains with key geographic details.",
+        "updated_at": "November 26, 2025 10:31 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_highest_mountains_on_earth.json"
+      },
+      {
         "title": "Longest Rivers in the World",
         "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
         "updated_at": "August 20, 2025 09:42 AM UTC",

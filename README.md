@@ -112,6 +112,8 @@ Each dataset follows this JSON format:
   List of the largest deserts and their sizes in 2025
 - [**Countries by Length of Coastline**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_countries_by_length_of_coastline.json)  
   Coastline lengths (km) by country, with CIA/WRI estimates, land area, and coastline-to-area ratios.
+- [**Highest Mountains on Earth**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_highest_mountains_on_earth.json)  
+  A ranked list of the world's tallest mountains with key geographic details.
 - [**Longest Rivers in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/longest_rivers.json)  
   Details of the world's longest rivers, including length, outflow, and countries sharing the basin
 
