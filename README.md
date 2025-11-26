@@ -110,6 +110,8 @@ Each dataset follows this JSON format:
   Tonnes, per capita, per GDP, and share of world emissions
 - [**World’s Major Deserts by Area (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/largest_deserts_in_the_world.json)  
   List of the largest deserts and their sizes in 2025
+- [**Countries by Forest Area**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_countries_by_forest_area.json)  
+  Forest area by country, measured in thousand hectares across selected years.
 - [**Countries by Length of Coastline**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_countries_by_length_of_coastline.json)  
   Coastline lengths (km) by country, with CIA/WRI estimates, land area, and coastline-to-area ratios.
 - [**Highest Mountains on Earth**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_highest_mountains_on_earth.json)  
