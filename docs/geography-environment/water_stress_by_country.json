@@ -1,0 +1,985 @@
+{
+  "title": "Global Water Stress Rankings (2023)",
+  "subtitle": "Country-wise water stress levels and baseline stress comparison",
+  "updated_at": "December 05, 2025 05:46 AM UTC",
+  "data": [
+    {
+      "country": "Kuwait",
+      "water_stress_rank_2023": "1st",
+      "total_stress_2023": "5",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Cyprus",
+      "water_stress_rank_2023": "2nd",
+      "total_stress_2023": "5",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Oman",
+      "water_stress_rank_2023": "3rd",
+      "total_stress_2023": "5",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Qatar",
+      "water_stress_rank_2023": "4th",
+      "total_stress_2023": "5",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Bahrain",
+      "water_stress_rank_2023": "5th",
+      "total_stress_2023": "5",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Lebanon",
+      "water_stress_rank_2023": "6th",
+      "total_stress_2023": "5",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "United Arab Emirates",
+      "water_stress_rank_2023": "7th",
+      "total_stress_2023": "5",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Saudi Arabia",
+      "water_stress_rank_2023": "8th",
+      "total_stress_2023": "4.98",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Israel",
+      "water_stress_rank_2023": "9th",
+      "total_stress_2023": "4.94",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Egypt",
+      "water_stress_rank_2023": "10th",
+      "total_stress_2023": "4.85",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Libya",
+      "water_stress_rank_2023": "11th",
+      "total_stress_2023": "4.81",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Yemen",
+      "water_stress_rank_2023": "12th",
+      "total_stress_2023": "4.69",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Botswana",
+      "water_stress_rank_2023": "13th",
+      "total_stress_2023": "4.66",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Iran",
+      "water_stress_rank_2023": "14th",
+      "total_stress_2023": "4.65",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Jordan",
+      "water_stress_rank_2023": "15th",
+      "total_stress_2023": "4.62",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Chile",
+      "water_stress_rank_2023": "16th",
+      "total_stress_2023": "4.47",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "San Marino",
+      "water_stress_rank_2023": "17th",
+      "total_stress_2023": "4.45",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Belgium",
+      "water_stress_rank_2023": "18th",
+      "total_stress_2023": "4.41",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Greece",
+      "water_stress_rank_2023": "19th",
+      "total_stress_2023": "4.34",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Tunisia",
+      "water_stress_rank_2023": "20th",
+      "total_stress_2023": "4.28",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Namibia",
+      "water_stress_rank_2023": "21st",
+      "total_stress_2023": "4.18",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "South Africa",
+      "water_stress_rank_2023": "22nd",
+      "total_stress_2023": "4.17",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Iraq",
+      "water_stress_rank_2023": "23rd",
+      "total_stress_2023": "4.15",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "India",
+      "water_stress_rank_2023": "24th",
+      "total_stress_2023": "4.11",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Syria",
+      "water_stress_rank_2023": "25th",
+      "total_stress_2023": "4.01",
+      "baseline_water_stress_2019": "5 - Extremely High (>80%)"
+    },
+    {
+      "country": "Mexico",
+      "water_stress_rank_2023": "26th",
+      "total_stress_2023": "4",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Morocco",
+      "water_stress_rank_2023": "27th",
+      "total_stress_2023": "3.99",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Eritrea",
+      "water_stress_rank_2023": "28th",
+      "total_stress_2023": "3.94",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Spain",
+      "water_stress_rank_2023": "29th",
+      "total_stress_2023": "3.94",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Algeria",
+      "water_stress_rank_2023": "30th",
+      "total_stress_2023": "3.87",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Pakistan",
+      "water_stress_rank_2023": "31st",
+      "total_stress_2023": "3.79",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Peru",
+      "water_stress_rank_2023": "32nd",
+      "total_stress_2023": "3.74",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Turkmenistan",
+      "water_stress_rank_2023": "33rd",
+      "total_stress_2023": "3.74",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Uzbekistan",
+      "water_stress_rank_2023": "34th",
+      "total_stress_2023": "3.63",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Thailand",
+      "water_stress_rank_2023": "35th",
+      "total_stress_2023": "3.62",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Andorra",
+      "water_stress_rank_2023": "36th",
+      "total_stress_2023": "3.54",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Niger",
+      "water_stress_rank_2023": "37th",
+      "total_stress_2023": "3.47",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Albania",
+      "water_stress_rank_2023": "38th",
+      "total_stress_2023": "3.47",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Turkey",
+      "water_stress_rank_2023": "39th",
+      "total_stress_2023": "3.39",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Afghanistan",
+      "water_stress_rank_2023": "40th",
+      "total_stress_2023": "3.37",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Italy",
+      "water_stress_rank_2023": "41st",
+      "total_stress_2023": "3.34",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "water_stress_rank_2023": "42nd",
+      "total_stress_2023": "3.28",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Portugal",
+      "water_stress_rank_2023": "43rd",
+      "total_stress_2023": "3.26",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Djibouti",
+      "water_stress_rank_2023": "44th",
+      "total_stress_2023": "3.18",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Nepal",
+      "water_stress_rank_2023": "45th",
+      "total_stress_2023": "3.18",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Mongolia",
+      "water_stress_rank_2023": "46th",
+      "total_stress_2023": "3.13",
+      "baseline_water_stress_2019": "4 - High (40%-80%)"
+    },
+    {
+      "country": "Armenia",
+      "water_stress_rank_2023": "48th",
+      "total_stress_2023": "2.99",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Lesotho",
+      "water_stress_rank_2023": "49th",
+      "total_stress_2023": "2.95",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Luxembourg",
+      "water_stress_rank_2023": "50th",
+      "total_stress_2023": "2.93",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Australia",
+      "water_stress_rank_2023": "51st",
+      "total_stress_2023": "2.91",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "China",
+      "water_stress_rank_2023": "52nd",
+      "total_stress_2023": "2.8",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Mauritania",
+      "water_stress_rank_2023": "53rd",
+      "total_stress_2023": "2.73",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Guyana",
+      "water_stress_rank_2023": "54th",
+      "total_stress_2023": "2.7",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Indonesia",
+      "water_stress_rank_2023": "55th",
+      "total_stress_2023": "2.67",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Bangladesh",
+      "water_stress_rank_2023": "56th",
+      "total_stress_2023": "2.66",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "United States",
+      "water_stress_rank_2023": "57th",
+      "total_stress_2023": "2.6",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Kazakhstan",
+      "water_stress_rank_2023": "58th",
+      "total_stress_2023": "2.51",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Azerbaijan",
+      "water_stress_rank_2023": "59th",
+      "total_stress_2023": "2.47",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "South Korea",
+      "water_stress_rank_2023": "60th",
+      "total_stress_2023": "2.38",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Sri Lanka",
+      "water_stress_rank_2023": "61st",
+      "total_stress_2023": "2.36",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Tajikistan",
+      "water_stress_rank_2023": "62nd",
+      "total_stress_2023": "2.34",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "North Korea",
+      "water_stress_rank_2023": "63rd",
+      "total_stress_2023": "2.32",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Senegal",
+      "water_stress_rank_2023": "64th",
+      "total_stress_2023": "2.22",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Zimbabwe",
+      "water_stress_rank_2023": "65th",
+      "total_stress_2023": "2.17",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Lithuania",
+      "water_stress_rank_2023": "66th",
+      "total_stress_2023": "2.14",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Myanmar",
+      "water_stress_rank_2023": "67th",
+      "total_stress_2023": "2.13",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Vietnam",
+      "water_stress_rank_2023": "68th",
+      "total_stress_2023": "2.11",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Germany",
+      "water_stress_rank_2023": "69th",
+      "total_stress_2023": "2.04",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Philippines",
+      "water_stress_rank_2023": "70th",
+      "total_stress_2023": "2.03",
+      "baseline_water_stress_2019": "3 - Medium-High (20%-40%)"
+    },
+    {
+      "country": "Japan",
+      "water_stress_rank_2023": "71st",
+      "total_stress_2023": "1.97",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "El Salvador",
+      "water_stress_rank_2023": "72nd",
+      "total_stress_2023": "1.95",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "France",
+      "water_stress_rank_2023": "73rd",
+      "total_stress_2023": "1.92",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Tanzania",
+      "water_stress_rank_2023": "74th",
+      "total_stress_2023": "1.91",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Cambodia",
+      "water_stress_rank_2023": "75th",
+      "total_stress_2023": "1.87",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Czechia",
+      "water_stress_rank_2023": "76th",
+      "total_stress_2023": "1.84",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Argentina",
+      "water_stress_rank_2023": "77th",
+      "total_stress_2023": "1.83",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Uruguay",
+      "water_stress_rank_2023": "78th",
+      "total_stress_2023": "1.83",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Venezuela",
+      "water_stress_rank_2023": "79th",
+      "total_stress_2023": "1.82",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Timor-Leste",
+      "water_stress_rank_2023": "80th",
+      "total_stress_2023": "1.77",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Somalia",
+      "water_stress_rank_2023": "81st",
+      "total_stress_2023": "1.67",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Suriname",
+      "water_stress_rank_2023": "82nd",
+      "total_stress_2023": "1.67",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Poland",
+      "water_stress_rank_2023": "83rd",
+      "total_stress_2023": "1.66",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Burkina Faso",
+      "water_stress_rank_2023": "84th",
+      "total_stress_2023": "1.65",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Cuba",
+      "water_stress_rank_2023": "85th",
+      "total_stress_2023": "1.65",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Slovakia",
+      "water_stress_rank_2023": "86th",
+      "total_stress_2023": "1.62",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Dominican Republic",
+      "water_stress_rank_2023": "87th",
+      "total_stress_2023": "1.6",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Haiti",
+      "water_stress_rank_2023": "88th",
+      "total_stress_2023": "1.6",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Netherlands",
+      "water_stress_rank_2023": "89th",
+      "total_stress_2023": "1.58",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Sudan",
+      "water_stress_rank_2023": "90th",
+      "total_stress_2023": "1.46",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Bulgaria",
+      "water_stress_rank_2023": "91st",
+      "total_stress_2023": "1.46",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "South Sudan",
+      "water_stress_rank_2023": "92nd",
+      "total_stress_2023": "1.39",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Ukraine",
+      "water_stress_rank_2023": "93rd",
+      "total_stress_2023": "1.37",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "United Kingdom",
+      "water_stress_rank_2023": "94th",
+      "total_stress_2023": "1.3",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Moldova",
+      "water_stress_rank_2023": "95th",
+      "total_stress_2023": "1.26",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Serbia",
+      "water_stress_rank_2023": "96th",
+      "total_stress_2023": "1.24",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Canada",
+      "water_stress_rank_2023": "97th",
+      "total_stress_2023": "1.23",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Estonia",
+      "water_stress_rank_2023": "98th",
+      "total_stress_2023": "1.22",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Romania",
+      "water_stress_rank_2023": "99th",
+      "total_stress_2023": "1.19",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Belarus",
+      "water_stress_rank_2023": "100th",
+      "total_stress_2023": "1.18",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Russia",
+      "water_stress_rank_2023": "101st",
+      "total_stress_2023": "1.17",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Angola",
+      "water_stress_rank_2023": "102nd",
+      "total_stress_2023": "1.13",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Brazil",
+      "water_stress_rank_2023": "103rd",
+      "total_stress_2023": "1.04",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Malaysia",
+      "water_stress_rank_2023": "104th",
+      "total_stress_2023": "1.03",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Guatemala",
+      "water_stress_rank_2023": "105th",
+      "total_stress_2023": "1.03",
+      "baseline_water_stress_2019": "2 - Low-Medium (10%-20%)"
+    },
+    {
+      "country": "Ethiopia",
+      "water_stress_rank_2023": "106th",
+      "total_stress_2023": "0.96",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Denmark",
+      "water_stress_rank_2023": "107th",
+      "total_stress_2023": "0.95",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Georgia",
+      "water_stress_rank_2023": "108th",
+      "total_stress_2023": "0.93",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Madagascar",
+      "water_stress_rank_2023": "109th",
+      "total_stress_2023": "0.9",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Chad",
+      "water_stress_rank_2023": "110th",
+      "total_stress_2023": "0.85",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Zambia",
+      "water_stress_rank_2023": "111th",
+      "total_stress_2023": "0.85",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Finland",
+      "water_stress_rank_2023": "112th",
+      "total_stress_2023": "0.81",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Liechtenstein",
+      "water_stress_rank_2023": "113th",
+      "total_stress_2023": "0.81",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Nigeria",
+      "water_stress_rank_2023": "114th",
+      "total_stress_2023": "0.8",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Kenya",
+      "water_stress_rank_2023": "115th",
+      "total_stress_2023": "0.79",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Sweden",
+      "water_stress_rank_2023": "116th",
+      "total_stress_2023": "0.78",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Malawi",
+      "water_stress_rank_2023": "117th",
+      "total_stress_2023": "0.75",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Panama",
+      "water_stress_rank_2023": "118th",
+      "total_stress_2023": "0.75",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Laos",
+      "water_stress_rank_2023": "119th",
+      "total_stress_2023": "0.74",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Montenegro",
+      "water_stress_rank_2023": "120th",
+      "total_stress_2023": "0.72",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Mali",
+      "water_stress_rank_2023": "121st",
+      "total_stress_2023": "0.68",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Ecuador",
+      "water_stress_rank_2023": "122nd",
+      "total_stress_2023": "0.66",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Costa Rica",
+      "water_stress_rank_2023": "123rd",
+      "total_stress_2023": "0.65",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Latvia",
+      "water_stress_rank_2023": "124th",
+      "total_stress_2023": "0.57",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Slovenia",
+      "water_stress_rank_2023": "125th",
+      "total_stress_2023": "0.53",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Colombia",
+      "water_stress_rank_2023": "126th",
+      "total_stress_2023": "0.5",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Hungary",
+      "water_stress_rank_2023": "127th",
+      "total_stress_2023": "0.43",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Switzerland",
+      "water_stress_rank_2023": "128th",
+      "total_stress_2023": "0.41",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "water_stress_rank_2023": "129th",
+      "total_stress_2023": "0.4",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Bhutan",
+      "water_stress_rank_2023": "130th",
+      "total_stress_2023": "0.37",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Mozambique",
+      "water_stress_rank_2023": "131st",
+      "total_stress_2023": "0.37",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Ireland",
+      "water_stress_rank_2023": "132nd",
+      "total_stress_2023": "0.36",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Guinea",
+      "water_stress_rank_2023": "133rd",
+      "total_stress_2023": "0.36",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Eswatini",
+      "water_stress_rank_2023": "134th",
+      "total_stress_2023": "0.31",
+      "baseline_water_stress_2019": ""
+    },
+    {
+      "country": "Guinea-Bissau",
+      "water_stress_rank_2023": "135th",
+      "total_stress_2023": "0.31",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Austria",
+      "water_stress_rank_2023": "136th",
+      "total_stress_2023": "0.26",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Nicaragua",
+      "water_stress_rank_2023": "137th",
+      "total_stress_2023": "0.21",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Uganda",
+      "water_stress_rank_2023": "138th",
+      "total_stress_2023": "0.2",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Norway",
+      "water_stress_rank_2023": "139th",
+      "total_stress_2023": "0.19",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Croatia",
+      "water_stress_rank_2023": "140th",
+      "total_stress_2023": "0.17",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Bolivia",
+      "water_stress_rank_2023": "141st",
+      "total_stress_2023": "0.16",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Honduras",
+      "water_stress_rank_2023": "142nd",
+      "total_stress_2023": "0.11",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Ghana",
+      "water_stress_rank_2023": "143rd",
+      "total_stress_2023": "0.11",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Belize",
+      "water_stress_rank_2023": "144th",
+      "total_stress_2023": "0.07",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "New Zealand",
+      "water_stress_rank_2023": "145th",
+      "total_stress_2023": "0.05",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Gambia",
+      "water_stress_rank_2023": "146th",
+      "total_stress_2023": "0.02",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Republic of the Congo",
+      "water_stress_rank_2023": "147th",
+      "total_stress_2023": "0.01",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Cameroon",
+      "water_stress_rank_2023": "148th",
+      "total_stress_2023": "0.01",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "DR Congo",
+      "water_stress_rank_2023": "149th",
+      "total_stress_2023": "0.01",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Central African Republic",
+      "water_stress_rank_2023": "150th",
+      "total_stress_2023": "0.01",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Benin",
+      "water_stress_rank_2023": "151st",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Togo",
+      "water_stress_rank_2023": "152nd",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Paraguay",
+      "water_stress_rank_2023": "153rd",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Gabon",
+      "water_stress_rank_2023": "154th",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Sierra Leone",
+      "water_stress_rank_2023": "155th",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Rwanda",
+      "water_stress_rank_2023": "156th",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Ivory Coast",
+      "water_stress_rank_2023": "157th",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Brunei",
+      "water_stress_rank_2023": "158th",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Burundi",
+      "water_stress_rank_2023": "159th",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Jamaica",
+      "water_stress_rank_2023": "160th",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Liberia",
+      "water_stress_rank_2023": "161st",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "water_stress_rank_2023": "162nd",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Iceland",
+      "water_stress_rank_2023": "163rd",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    },
+    {
+      "country": "Papua New Guinea",
+      "water_stress_rank_2023": "164th",
+      "total_stress_2023": "",
+      "baseline_water_stress_2019": "1 - Low (<10%)"
+    }
+  ]
+}

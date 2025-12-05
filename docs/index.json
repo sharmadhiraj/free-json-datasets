@@ -227,6 +227,12 @@
         "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
         "updated_at": "August 20, 2025 09:42 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/longest_rivers.json"
+      },
+      {
+        "title": "Global Water Stress Rankings (2023)",
+        "subtitle": "Country-wise water stress levels and baseline stress comparison",
+        "updated_at": "December 05, 2025 05:46 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/water_stress_by_country.json"
       }
     ]
   },

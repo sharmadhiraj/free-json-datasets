@@ -118,6 +118,8 @@ Each dataset follows this JSON format:
   A ranked list of the world's tallest mountains with key geographic details.
 - [**Longest Rivers in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/longest_rivers.json)  
   Details of the world's longest rivers, including length, outflow, and countries sharing the basin
+- [**Global Water Stress Rankings (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/water_stress_by_country.json)  
+  Country-wise water stress levels and baseline stress comparison
 
 ### Health & Medicine
 
