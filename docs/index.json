@@ -385,6 +385,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/imdb_top_movies.json"
       },
       {
+        "title": "Most Watched TV Shows of All Time",
+        "subtitle": "IMDB List of the 100 Most Popular and Viewed Series",
+        "updated_at": "December 05, 2025 07:27 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/most_watched_tv_shows_of_all_time.json"
+      },
+      {
         "title": "Premier League Tables",
         "subtitle": "Season-by-season league tables from 1992/93 to 2024/2025",
         "updated_at": "August 20, 2025 09:42 AM UTC",

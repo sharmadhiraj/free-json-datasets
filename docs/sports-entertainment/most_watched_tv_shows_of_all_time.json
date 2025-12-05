@@ -1,0 +1,2961 @@
+{
+  "title": "Most Watched TV Shows of All Time",
+  "subtitle": "IMDB List of the 100 Most Popular and Viewed Series",
+  "updated_at": "December 05, 2025 07:27 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "title": "Game of Thrones",
+      "url": "https://www.imdb.com/title/tt0944947/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 9.2,
+      "rating_count": 2508013
+    },
+    {
+      "rank": 2,
+      "title": "Stranger Things",
+      "url": "https://www.imdb.com/title/tt4574334/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_.jpg",
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 8.6,
+      "rating_count": 1531219
+    },
+    {
+      "rank": 3,
+      "title": "The Walking Dead",
+      "url": "https://www.imdb.com/title/tt1520211/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 1170831
+    },
+    {
+      "rank": 4,
+      "title": "13 Reasons Why",
+      "url": "https://www.imdb.com/title/tt1837492/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNThjYzQ3ZjYtM2I0ZC00OGNjLTlmNGItYjE3ZWI5MWIyMWYyXkEyXkFqcGc@._V1_.jpg",
+      "description": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 7.4,
+      "rating_count": 334627
+    },
+    {
+      "rank": 5,
+      "title": "The 100",
+      "url": "https://www.imdb.com/title/tt2661044/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdmZGYwOWEtN2FkZC00Y2ExLWJkY2UtNzFlODVlNzc3MGIzXkEyXkFqcGc@._V1_.jpg",
+      "description": "Set 97 years after a nuclear war destroyed civilization, when a spaceship housing humanity&apos;s lone survivors sends 100 juvenile delinquents back to Earth, hoping to repopulate the planet.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 7.5,
+      "rating_count": 298088
+    },
+    {
+      "rank": 6,
+      "title": "Orange Is the New Black",
+      "url": "https://www.imdb.com/title/tt2372162/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRjMTAyYjUtZDk0Mi00OGQ5LWJjNzMtMzBhNDMwMmI5NzVjXkEyXkFqcGc@._V1_.jpg",
+      "description": "Convicted of a decade-old crime of transporting drug money, ordinarily law-abiding Piper Chapman is sentenced to 18 months behind bars and quickly discovers the realities of life-changing prison time.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8,
+      "rating_count": 333211
+    },
+    {
+      "rank": 7,
+      "title": "Riverdale",
+      "url": "https://www.imdb.com/title/tt5420376/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0NjA5NzY3M15BMl5BanBnXkFtZTgwMjQwMDQzMzI@._V1_.jpg",
+      "description": "While navigating the troubled waters of romance, school and family, Archie and his gang become entangled in dark Riverdale mysteries.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 6.4,
+      "rating_count": 163407
+    },
+    {
+      "rank": 8,
+      "title": "Grey&apos;s Anatomy",
+      "url": "https://www.imdb.com/title/tt0413573/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.6,
+      "rating_count": 368081
+    },
+    {
+      "rank": 9,
+      "title": "The Flash",
+      "url": "https://www.imdb.com/title/tt3107288/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU0ZjZhNDQtMDhkYi00OWQyLWE3NGYtNzBlY2VmM2I4ZDg5XkEyXkFqcGc@._V1_.jpg",
+      "description": "After being struck by lightning, Barry Allen wakes up from his coma to discover he&apos;s been given the power of super speed, becoming the Flash, and fighting crime in Central City.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 7.5,
+      "rating_count": 381853
+    },
+    {
+      "rank": 10,
+      "title": "Arrow",
+      "url": "https://www.imdb.com/title/tt2193021/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRlNjNlY2YtYzQxNS00ZTUzLTkwMTQtMjM0YjZlOWQwZmFkXkEyXkFqcGc@._V1_.jpg",
+      "description": "Presumed-dead billionaire playboy Oliver Queen returns to Starling City and rights societal wrongs as Arrow.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "rating": 7.5,
+      "rating_count": 458108
+    },
+    {
+      "rank": 11,
+      "title": "La casa de papel",
+      "url": "https://www.imdb.com/title/tt6468322/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_.jpg",
+      "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 589532
+    },
+    {
+      "rank": 12,
+      "title": "The Big Bang Theory",
+      "url": "https://www.imdb.com/title/tt0898266/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_.jpg",
+      "description": "Aspiring actress Penny moves into a Pasadena apartment across the hall from brilliant but socially awkward physicists Sheldon Cooper and Leonard Hofstadter, and shows them how little they know about life outside of the lab.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 8.1,
+      "rating_count": 924288
+    },
+    {
+      "rank": 13,
+      "title": "Black Mirror",
+      "url": "https://www.imdb.com/title/tt2085059/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_.jpg",
+      "description": "Featuring stand-alone dramas -- sharp, suspenseful, satirical tales that explore techno-paranoia -- &quot;Black Mirror&quot; is a contemporary reworking of &quot;The Twilight Zone&quot; with stories that tap into the collective unease about the moder...",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.7,
+      "rating_count": 718695
+    },
+    {
+      "rank": 14,
+      "title": "Sherlock",
+      "url": "https://www.imdb.com/title/tt1475582/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_.jpg",
+      "description": "The quirky spin on Conan Doyle&apos;s iconic sleuth pitches him as a &quot;high-functioning sociopath&quot; in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who&apos;s introduced to Holmes by a mutual acquai...",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 9,
+      "rating_count": 1071170
+    },
+    {
+      "rank": 15,
+      "title": "Vikings",
+      "url": "https://www.imdb.com/title/tt2306299/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTFmZmExYTEtYmE0Mi00MzRmLWE4ZDYtOThiNzNlOTIyODljXkEyXkFqcGc@._V1_.jpg",
+      "description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 630350
+    },
+    {
+      "rank": 16,
+      "title": "Pretty Little Liars",
+      "url": "https://www.imdb.com/title/tt1578873/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5MDYzMzQ2Nl5BMl5BanBnXkFtZTgwMDE3MzU4MTI@._V1_.jpg",
+      "description": "Four friends band together against an anonymous foe who threatens to reveal their darkest secrets, while also investigating the disappearance of their best friend.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "rating": 7.3,
+      "rating_count": 186326
+    },
+    {
+      "rank": 17,
+      "title": "The Vampire Diaries",
+      "url": "https://www.imdb.com/title/tt1405406/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmNjOWQzYmYtNGYxOS00MjVkLTg1MWUtMTkzMGE0MDgwNzQ5XkEyXkFqcGc@._V1_.jpg",
+      "description": "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 7.7,
+      "rating_count": 375369
+    },
+    {
+      "rank": 18,
+      "title": "American Horror Story",
+      "url": "https://www.imdb.com/title/tt1844624/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJjZTg0ZmMtMTg0Ny00NzYxLWFjMWMtMWFiYmNkMTNjZGMyXkEyXkFqcGc@._V1_.jpg",
+      "description": "An anthology horror drama series centering on different characters and locations, showcasing different aspects of horror. Created and produced by Ryan Murphy and Brad Falchuk.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": 7.9,
+      "rating_count": 359214
+    },
+    {
+      "rank": 19,
+      "title": "Breaking Bad",
+      "url": "https://www.imdb.com/title/tt0903747/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
+      "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family&apos;s future.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 9.5,
+      "rating_count": 2437218
+    },
+    {
+      "rank": 20,
+      "title": "Lucifer",
+      "url": "https://www.imdb.com/title/tt4052886/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_.jpg",
+      "description": "Lucifer Morningstar has decided he&apos;s had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8,
+      "rating_count": 384596
+    },
+    {
+      "rank": 21,
+      "title": "Supernatural",
+      "url": "https://www.imdb.com/title/tt0460681/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_.jpg",
+      "description": "Two brothers follow their father&apos;s footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 8.4,
+      "rating_count": 526922
+    },
+    {
+      "rank": 22,
+      "title": "Prison Break",
+      "url": "https://www.imdb.com/title/tt0455275/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_.jpg",
+      "description": "A structural engineer installs himself in a prison he helped design, in order to save his falsely accused brother from a death sentence by breaking themselves out from the inside.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 650300
+    },
+    {
+      "rank": 23,
+      "title": "How to Get Away with Murder",
+      "url": "https://www.imdb.com/title/tt3205802/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFmY2ZjMGEtYzA3OS00OGZiLTkwMWItZjk2NDQ3MmQxMjQ5XkEyXkFqcGc@._V1_.jpg",
+      "description": "A group of ambitious law students and their brilliant criminal defense professor become involved in a twisted murder plot that promises to change the course of their lives.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "rating_count": 176427
+    },
+    {
+      "rank": 24,
+      "title": "Teen Wolf",
+      "url": "https://www.imdb.com/title/tt1567432/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjc2NGJkMzgtYzMxNy00YWZiLTk0MjUtNTRmNGU3NzA2NDc2XkEyXkFqcGc@._V1_.jpg",
+      "description": "An average high school student and his best friend get caught up in some trouble causing him to receive a werewolf bite. As a result they find themselves in the middle of all sorts of dramas in Beacon Hills.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 7.7,
+      "rating_count": 175107
+    },
+    {
+      "rank": 25,
+      "title": "The Simpsons",
+      "url": "https://www.imdb.com/title/tt0096697/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_.jpg",
+      "description": "The satiric half-hour adventures of a working-class family in the misfit city of Springfield.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 8.6,
+      "rating_count": 462402
+    },
+    {
+      "rank": 26,
+      "title": "Once Upon a Time",
+      "url": "https://www.imdb.com/title/tt1843230/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDgwNTcwYmMtNjVmNi00NDdkLTllY2MtYmQ4MTM3ZThjZTllXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young woman with a troubled past is drawn to a small town in Maine where fairy tales are to be believed.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 7.7,
+      "rating_count": 245814
+    },
+    {
+      "rank": 27,
+      "title": "Narcos",
+      "url": "https://www.imdb.com/title/tt2707408/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_.jpg",
+      "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "rating_count": 515897
+    },
+    {
+      "rank": 28,
+      "title": "Daredevil",
+      "url": "https://www.imdb.com/title/tt3322312/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_.jpg",
+      "description": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "rating_count": 518622
+    },
+    {
+      "rank": 29,
+      "title": "Friends",
+      "url": "https://www.imdb.com/title/tt0108778/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg",
+      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 8.9,
+      "rating_count": 1172011
+    },
+    {
+      "rank": 30,
+      "title": "How I Met Your Mother",
+      "url": "https://www.imdb.com/title/tt0460649/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_.jpg",
+      "description": "A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.3,
+      "rating_count": 771372
+    },
+    {
+      "rank": 31,
+      "title": "Suits",
+      "url": "https://www.imdb.com/title/tt1632701/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmE4MmNjZjUtNTEyNy00NTZiLWE4NTktYjM2NjBhYzQ1N2IzXkEyXkFqcGc@._V1_.jpg",
+      "description": "On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City&apos;s best lawyers.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "rating_count": 528286
+    },
+    {
+      "rank": 32,
+      "title": "Mr. Robot",
+      "url": "https://www.imdb.com/title/tt4158110/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTg4NTBiZDAtZTc0YS00NzZlLTg4Y2ItNGQ3M2ZlMDM5MWQzXkEyXkFqcGc@._V1_.jpg",
+      "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to p...",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.5,
+      "rating_count": 456485
+    },
+    {
+      "rank": 33,
+      "title": "The Originals",
+      "url": "https://www.imdb.com/title/tt2632424/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDJkYjg3MDItMjhiMi00NjhjLThlM2EtNzUxNzcyNDJjN2ZhXkEyXkFqcGc@._V1_.jpg",
+      "description": "A family of power-hungry thousand-year-old vampires look to take back the city that they built and dominate all those who have done them wrong.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 8.2,
+      "rating_count": 157991
+    },
+    {
+      "rank": 34,
+      "title": "Supergirl",
+      "url": "https://www.imdb.com/title/tt4016454/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGM4MzY3NzYtYjViZS00MmE4LTgxZmMtNTZkNDM5MDIwMDg1XkEyXkFqcGc@._V1_.jpg",
+      "description": "The adventures of Superman&apos;s cousin and her own superhero career.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 6.2,
+      "rating_count": 133803
+    },
+    {
+      "rank": 35,
+      "title": "Gossip Girl",
+      "url": "https://www.imdb.com/title/tt0397442/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljNzZmMGMtM2FmNC00ZTkzLTg2OTctNDAxZGViYjVlYjAxXkEyXkFqcGc@._V1_.jpg",
+      "description": "Narrated by a mysterious vicious blogger, this show follows a set of wealthy teenagers through their day-to-day scandalous lives as Manhattans Elite, and how they betray each other for each other&apos;s gain.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.5,
+      "rating_count": 210776
+    },
+    {
+      "rank": 36,
+      "title": "Sense8",
+      "url": "https://www.imdb.com/title/tt2431438/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_.jpg",
+      "description": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world&apos;s order.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.2,
+      "rating_count": 169806
+    },
+    {
+      "rank": 37,
+      "title": "Gotham",
+      "url": "https://www.imdb.com/title/tt3749900/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0ZmM3N2QtYmFiMy00YzUzLWE1M2QtZWVhMzBiNGZjMmVjXkEyXkFqcGc@._V1_.jpg",
+      "description": "The story behind Detective James Gordon&apos;s rise to prominence in Gotham City in the years before Batman&apos;s arrival.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "rating_count": 249683
+    },
+    {
+      "rank": 38,
+      "title": "Westworld",
+      "url": "https://www.imdb.com/title/tt0475784/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM2MTA5NjIwNV5BMl5BanBnXkFtZTgwNjI2OTMxNTM@._V1_.jpg",
+      "description": "At the intersection of the near future and the reimagined past, waits a world in which every human appetite can be indulged without consequence.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "rating_count": 553599
+    },
+    {
+      "rank": 39,
+      "title": "Jessica Jones",
+      "url": "https://www.imdb.com/title/tt2357547/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDhhY2VlMWItMjM3Yi00MDc1LTlmYjctNjMzNDIxZjc5NGEwXkEyXkFqcGc@._V1_.jpg",
+      "description": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "rating_count": 236678
+    },
+    {
+      "rank": 40,
+      "title": "Modern Family",
+      "url": "https://www.imdb.com/title/tt1442437/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_.jpg",
+      "description": "Three different, but related, families face trials and tribulations in their own uniquely comedic ways.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.5,
+      "rating_count": 529753
+    },
+    {
+      "rank": 41,
+      "title": "Rick and Morty",
+      "url": "https://www.imdb.com/title/tt2861424/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
+      "description": "The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 9,
+      "rating_count": 677358
+    },
+    {
+      "rank": 42,
+      "title": "Shadowhunters: The Mortal Instruments",
+      "url": "https://www.imdb.com/title/tt4145054/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTEzZThhZDYtZGFhMy00Y2Q1LWE2ZmMtNzg2MjYxY2I2NzIxXkEyXkFqcGc@._V1_.jpg",
+      "description": "After her mother disappears, Clary must venture into the dark world of demon hunting, and embrace her new role among the Shadowhunters.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 6.5,
+      "rating_count": 75567
+    },
+    {
+      "rank": 43,
+      "title": "The End of the F***ing World",
+      "url": "https://www.imdb.com/title/tt6257970/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTVkZTI3MmMtMDY1Yi00NjJhLTgyYTctNWE1OTJkNmZiZjdlXkEyXkFqcGc@._V1_.jpg",
+      "description": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8,
+      "rating_count": 241407
+    },
+    {
+      "rank": 44,
+      "title": "House of Cards",
+      "url": "https://www.imdb.com/title/tt1856010/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MDczNDYwNV5BMl5BanBnXkFtZTcwNjMwMDk5OA@@._V1_.jpg",
+      "description": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.6,
+      "rating_count": 553884
+    },
+    {
+      "rank": 45,
+      "title": "Dark",
+      "url": "https://www.imdb.com/title/tt5753856/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.7,
+      "rating_count": 516365
+    },
+    {
+      "rank": 46,
+      "title": "Élite",
+      "url": "https://www.imdb.com/title/tt7134908/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTViZmMyNGUtZDhiMy00NGIxLTgzNzEtZmRhYjA4Y2E3NjIwXkEyXkFqcGc@._V1_.jpg",
+      "description": "When three low-income students are offered scholarships to attend an exclusive school, their affluent classmates react with distrust and hostility. The friction that ensues results in a murder, which irrevocably alters all of thei...",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 7.1,
+      "rating_count": 99408
+    },
+    {
+      "rank": 47,
+      "title": "Sex Education",
+      "url": "https://www.imdb.com/title/tt7767422/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_.jpg",
+      "description": "A teenage boy with a sex-therapist mother teams up with a high-school classmate to set up an underground sex-therapy clinic at school.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.2,
+      "rating_count": 389036
+    },
+    {
+      "rank": 48,
+      "title": "Shameless",
+      "url": "https://www.imdb.com/title/tt1586680/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWUwZjJmYjctYTY3MC00ZTVlLWI1ZGEtNWQzMTFlMTcwMTY2XkEyXkFqcGc@._V1_.jpg",
+      "description": "A scrappy, feisty, fiercely loyal Chicago family makes no apologies.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 324236
+    },
+    {
+      "rank": 49,
+      "title": "New Girl",
+      "url": "https://www.imdb.com/title/tt1826940/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MzM1NzMwMl5BMl5BanBnXkFtZTgwNjQ2MzI2NzE@._V1_.jpg",
+      "description": "After a bad break-up, Jess, an offbeat young woman, moves into an apartment loft with three single men. Although they find her behavior very unusual, the men support her - most of the time.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 7.8,
+      "rating_count": 259659
+    },
+    {
+      "rank": 50,
+      "title": "Agents of S.H.I.E.L.D.",
+      "url": "https://www.imdb.com/title/tt2364582/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkwODYyMjgzOV5BMl5BanBnXkFtZTgwODAzMTE5MjE@._V1_.jpg",
+      "description": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.5,
+      "rating_count": 233426
+    },
+    {
+      "rank": 51,
+      "title": "Game of Thrones",
+      "url": "https://www.imdb.com/title/tt0944947/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 9.2,
+      "rating_count": 2508013
+    },
+    {
+      "rank": 52,
+      "title": "You",
+      "url": "https://www.imdb.com/title/tt7335184/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTVlYmRhMWQtNmE0Yi00ODM1LWEzMWEtNTQzZGZhODRmZTE0XkEyXkFqcGc@._V1_.jpg",
+      "description": "He&apos;s the perfect man - until his love becomes the most dangerous thing in your life.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.6,
+      "rating_count": 355358
+    },
+    {
+      "rank": 53,
+      "title": "Stranger Things",
+      "url": "https://www.imdb.com/title/tt4574334/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_.jpg",
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 8.6,
+      "rating_count": 1531219
+    },
+    {
+      "rank": 54,
+      "title": "Dexter",
+      "url": "https://www.imdb.com/title/tt0773262/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_.jpg",
+      "description": "He&apos;s smart. He&apos;s lovable. He&apos;s Dexter Morgan, America&apos;s favorite serial killer, who spends his days solving crimes and his nights committing them.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "rating_count": 895973
+    },
+    {
+      "rank": 55,
+      "title": "The Walking Dead",
+      "url": "https://www.imdb.com/title/tt1520211/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "rating_count": 1170831
+    },
+    {
+      "rank": 56,
+      "title": "Fear the Walking Dead",
+      "url": "https://www.imdb.com/title/tt3743822/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDU2YmNiOTktMjE4Ny00NmFhLWIxZTYtOWY0ZWQ4MWM3YjdiXkEyXkFqcGc@._V1_.jpg",
+      "description": "A Walking Dead spinoff set in Los Angeles, California. Follows two families who must band together to survive the undead apocalypse.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": 6.8,
+      "rating_count": 152363
+    },
+    {
+      "rank": 57,
+      "title": "13 Reasons Why",
+      "url": "https://www.imdb.com/title/tt1837492/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNThjYzQ3ZjYtM2I0ZC00OGNjLTlmNGItYjE3ZWI5MWIyMWYyXkEyXkFqcGc@._V1_.jpg",
+      "description": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 7.4,
+      "rating_count": 334627
+    },
+    {
+      "rank": 58,
+      "title": "Family Guy",
+      "url": "https://www.imdb.com/title/tt0182576/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTZlMGQ1YjEtMzVlNC00ZmMxLTk0MzgtZjdkYTU1NmUxNTQ0XkEyXkFqcGc@._V1_.jpg",
+      "description": "In a wacky Rhode Island town, a dysfunctional family strives to cope with everyday life as they are thrown from one crazy scenario to another.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 8.1,
+      "rating_count": 383803
+    },
+    {
+      "rank": 59,
+      "title": "The 100",
+      "url": "https://www.imdb.com/title/tt2661044/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdmZGYwOWEtN2FkZC00Y2ExLWJkY2UtNzFlODVlNzc3MGIzXkEyXkFqcGc@._V1_.jpg",
+      "description": "Set 97 years after a nuclear war destroyed civilization, when a spaceship housing humanity&apos;s lone survivors sends 100 juvenile delinquents back to Earth, hoping to repopulate the planet.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 7.5,
+      "rating_count": 298088
+    },
+    {
+      "rank": 60,
+      "title": "The Blacklist",
+      "url": "https://www.imdb.com/title/tt2741602/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDk4MGU4NTItNDMyMC00NjQ0LWFlMWUtYzJlMTM1M2M2ZTU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 7.9,
+      "rating_count": 296311
+    },
+    {
+      "rank": 61,
+      "title": "Orange Is the New Black",
+      "url": "https://www.imdb.com/title/tt2372162/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRjMTAyYjUtZDk0Mi00OGQ5LWJjNzMtMzBhNDMwMmI5NzVjXkEyXkFqcGc@._V1_.jpg",
+      "description": "Convicted of a decade-old crime of transporting drug money, ordinarily law-abiding Piper Chapman is sentenced to 18 months behind bars and quickly discovers the realities of life-changing prison time.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8,
+      "rating_count": 333211
+    },
+    {
+      "rank": 62,
+      "title": "Lost",
+      "url": "https://www.imdb.com/title/tt0411008/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_.jpg",
+      "description": "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.3,
+      "rating_count": 659492
+    },
+    {
+      "rank": 63,
+      "title": "Riverdale",
+      "url": "https://www.imdb.com/title/tt5420376/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0NjA5NzY3M15BMl5BanBnXkFtZTgwMjQwMDQzMzI@._V1_.jpg",
+      "description": "While navigating the troubled waters of romance, school and family, Archie and his gang become entangled in dark Riverdale mysteries.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 6.4,
+      "rating_count": 163407
+    },
+    {
+      "rank": 64,
+      "title": "Peaky Blinders",
+      "url": "https://www.imdb.com/title/tt2442560/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGM0NGY3ZmItOGE2ZC00OWIxLTk0N2EtZWY4Yzg3ZDlhNGI3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "rating_count": 741935
+    },
+    {
+      "rank": 65,
+      "title": "Grey&apos;s Anatomy",
+      "url": "https://www.imdb.com/title/tt0413573/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.6,
+      "rating_count": 368081
+    },
+    {
+      "rank": 66,
+      "title": "House M.D.",
+      "url": "https://www.imdb.com/title/tt0412142/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjgxYjAwNmMtYTAwZC00YmQxLWJlOTMtMWM0NGJmNDE0YmI2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Using a crack team of doctors and his wits, an antisocial maverick doctor specializing in diagnostic medicine does whatever it takes to solve puzzling cases that come his way.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.7,
+      "rating_count": 579233
+    },
+    {
+      "rank": 67,
+      "title": "The Flash",
+      "url": "https://www.imdb.com/title/tt3107288/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU0ZjZhNDQtMDhkYi00OWQyLWE3NGYtNzBlY2VmM2I4ZDg5XkEyXkFqcGc@._V1_.jpg",
+      "description": "After being struck by lightning, Barry Allen wakes up from his coma to discover he&apos;s been given the power of super speed, becoming the Flash, and fighting crime in Central City.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 7.5,
+      "rating_count": 381853
+    },
+    {
+      "rank": 68,
+      "title": "Quantico",
+      "url": "https://www.imdb.com/title/tt4428122/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTg3MTc0Ml5BMl5BanBnXkFtZTgwMzYxNDIyNTM@._V1_.jpg",
+      "description": "A look at the lives of young FBI recruits training at the Quantico base in Virginia when one of them is suspected of being a sleeper terrorist.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 6.7,
+      "rating_count": 65466
+    },
+    {
+      "rank": 69,
+      "title": "Arrow",
+      "url": "https://www.imdb.com/title/tt2193021/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRlNjNlY2YtYzQxNS00ZTUzLTkwMTQtMjM0YjZlOWQwZmFkXkEyXkFqcGc@._V1_.jpg",
+      "description": "Presumed-dead billionaire playboy Oliver Queen returns to Starling City and rights societal wrongs as Arrow.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "rating": 7.5,
+      "rating_count": 458108
+    },
+    {
+      "rank": 70,
+      "title": "Orphan Black",
+      "url": "https://www.imdb.com/title/tt2234222/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzdmMzI1NjktOTE5MS00MWM1LWI1YTAtODE4YjkzZmRlNzI4XkEyXkFqcGc@._V1_.jpg",
+      "description": "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "rating_count": 123289
+    },
+    {
+      "rank": 71,
+      "title": "La casa de papel",
+      "url": "https://www.imdb.com/title/tt6468322/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_.jpg",
+      "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 589532
+    },
+    {
+      "rank": 72,
+      "title": "Homeland",
+      "url": "https://www.imdb.com/title/tt1796960/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwNTRmODktZDk5Ny00ZjMwLWFhMDUtOTdlOWNhNDMyZmNkXkEyXkFqcGc@._V1_.jpg",
+      "description": "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.3,
+      "rating_count": 374584
+    },
+    {
+      "rank": 73,
+      "title": "The Big Bang Theory",
+      "url": "https://www.imdb.com/title/tt0898266/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_.jpg",
+      "description": "Aspiring actress Penny moves into a Pasadena apartment across the hall from brilliant but socially awkward physicists Sheldon Cooper and Leonard Hofstadter, and shows them how little they know about life outside of the lab.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 8.1,
+      "rating_count": 924288
+    },
+    {
+      "rank": 74,
+      "title": "Blindspot",
+      "url": "https://www.imdb.com/title/tt4474344/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdhZDA2MTYtN2EyYi00ODk4LWI3NmUtMjM4Nzk5ODY1NzVmXkEyXkFqcGc@._V1_.jpg",
+      "description": "Jane Doe is found in Times Square with no memory and mysterious tattoos on her body.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "rating_count": 84807
+    },
+    {
+      "rank": 75,
+      "title": "Black Mirror",
+      "url": "https://www.imdb.com/title/tt2085059/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_.jpg",
+      "description": "Featuring stand-alone dramas -- sharp, suspenseful, satirical tales that explore techno-paranoia -- &quot;Black Mirror&quot; is a contemporary reworking of &quot;The Twilight Zone&quot; with stories that tap into the collective unease about the moder...",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.7,
+      "rating_count": 718695
+    },
+    {
+      "rank": 76,
+      "title": "Legends of Tomorrow",
+      "url": "https://www.imdb.com/title/tt4532368/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTMwNTYzZGMtY2U3Yy00ZjgzLTg4MmUtNmRiMWIxOGQ4OGI2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Time-traveling rogue Rip Hunter must recruit a ragtag team of heroes and villains to help prevent an apocalypse that could impact not only Earth, but all of time.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 6.7,
+      "rating_count": 113771
+    },
+    {
+      "rank": 77,
+      "title": "Sherlock",
+      "url": "https://www.imdb.com/title/tt1475582/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_.jpg",
+      "description": "The quirky spin on Conan Doyle&apos;s iconic sleuth pitches him as a &quot;high-functioning sociopath&quot; in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who&apos;s introduced to Holmes by a mutual acquai...",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 9,
+      "rating_count": 1071170
+    },
+    {
+      "rank": 78,
+      "title": "The Handmaid&apos;s Tale",
+      "url": "https://www.imdb.com/title/tt5834204/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWIxMzk4NmItZmM1YS00ODUyLWFlNjgtZDQ4MzljZTZmZDQ5XkEyXkFqcGc@._V1_.jpg",
+      "description": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "rating_count": 291576
+    },
+    {
+      "rank": 79,
+      "title": "Vikings",
+      "url": "https://www.imdb.com/title/tt2306299/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTFmZmExYTEtYmE0Mi00MzRmLWE4ZDYtOThiNzNlOTIyODljXkEyXkFqcGc@._V1_.jpg",
+      "description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 630350
+    },
+    {
+      "rank": 80,
+      "title": "Chilling Adventures of Sabrina",
+      "url": "https://www.imdb.com/title/tt7569592/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTQyMDYwNDMyOV5BMl5BanBnXkFtZTgwMjM4NTIzNjM@._V1_.jpg",
+      "description": "As her 16th birthday nears, Sabrina Spellman must reconcile her dual nature as a half-witch, half-mortal while fighting the evil forces that threaten her, her family, and the daylight world humans inhabit.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 7.4,
+      "rating_count": 117011
+    },
+    {
+      "rank": 81,
+      "title": "Pretty Little Liars",
+      "url": "https://www.imdb.com/title/tt1578873/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5MDYzMzQ2Nl5BMl5BanBnXkFtZTgwMDE3MzU4MTI@._V1_.jpg",
+      "description": "Four friends band together against an anonymous foe who threatens to reveal their darkest secrets, while also investigating the disappearance of their best friend.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "rating": 7.3,
+      "rating_count": 186326
+    },
+    {
+      "rank": 82,
+      "title": "The Good Doctor",
+      "url": "https://www.imdb.com/title/tt6470478/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg",
+      "description": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8,
+      "rating_count": 125788
+    },
+    {
+      "rank": 83,
+      "title": "The Vampire Diaries",
+      "url": "https://www.imdb.com/title/tt1405406/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmNjOWQzYmYtNGYxOS00MjVkLTg1MWUtMTkzMGE0MDgwNzQ5XkEyXkFqcGc@._V1_.jpg",
+      "description": "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 7.7,
+      "rating_count": 375369
+    },
+    {
+      "rank": 84,
+      "title": "Jane the Virgin",
+      "url": "https://www.imdb.com/title/tt3566726/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjNjZWI4OWUtZDY3Yy00NDBhLWE3YjMtNzc2ZTVjMjRkOWFlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young, devout Catholic woman discovers that she was accidentally artificially inseminated.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "rating_count": 63738
+    },
+    {
+      "rank": 85,
+      "title": "American Horror Story",
+      "url": "https://www.imdb.com/title/tt1844624/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJjZTg0ZmMtMTg0Ny00NzYxLWFjMWMtMWFiYmNkMTNjZGMyXkEyXkFqcGc@._V1_.jpg",
+      "description": "An anthology horror drama series centering on different characters and locations, showcasing different aspects of horror. Created and produced by Ryan Murphy and Brad Falchuk.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": 7.9,
+      "rating_count": 359214
+    },
+    {
+      "rank": 86,
+      "title": "Glee",
+      "url": "https://www.imdb.com/title/tt1327801/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUwYWRkMDItYTNkNy00OWQ0LWJhYTQtNzI3MWFmMmI3ZDQ5XkEyXkFqcGc@._V1_.jpg",
+      "description": "A group of ambitious misfits try to escape the harsh realities of high school by joining a glee club headed by a passionate Spanish teacher.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "rating": 6.8,
+      "rating_count": 160325
+    },
+    {
+      "rank": 87,
+      "title": "Breaking Bad",
+      "url": "https://www.imdb.com/title/tt0903747/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
+      "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family&apos;s future.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 9.5,
+      "rating_count": 2437218
+    },
+    {
+      "rank": 88,
+      "title": "South Park",
+      "url": "https://www.imdb.com/title/tt0121955/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTBlMzA3ZTUtODZjNi00NTM0LWExMjMtNjJhYzA3YTkwMWYwXkEyXkFqcGc@._V1_.jpg",
+      "description": "The misadventures of four foul-mouthed, dirty-minded, irreverent grade-schoolers who live in the quiet, dysfunctional mountain town of South Park, Colorado.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 8.7,
+      "rating_count": 437380
+    },
+    {
+      "rank": 89,
+      "title": "Lucifer",
+      "url": "https://www.imdb.com/title/tt4052886/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzMwNzI3MWItZTIzYi00YjkxLThhOWQtYmUwYjg4NWM0ZWI1XkEyXkFqcGc@._V1_.jpg",
+      "description": "Lucifer Morningstar has decided he&apos;s had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8,
+      "rating_count": 384596
+    },
+    {
+      "rank": 90,
+      "title": "Brooklyn Nine-Nine",
+      "url": "https://www.imdb.com/title/tt2467372/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD&apos;s 99th Precinct.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.4,
+      "rating_count": 406402
+    },
+    {
+      "rank": 91,
+      "title": "Supernatural",
+      "url": "https://www.imdb.com/title/tt0460681/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_.jpg",
+      "description": "Two brothers follow their father&apos;s footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 8.4,
+      "rating_count": 526922
+    },
+    {
+      "rank": 92,
+      "title": "Under the Dome",
+      "url": "https://www.imdb.com/title/tt1553656/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_.jpg",
+      "description": "An invisible and mysterious force field descends upon the small town of Chester&apos;s Mill, Maine, USA, trapping residents inside, cut off from the rest of civilization. The trapped townspeople must discover the secrets and purpose of...",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 6.5,
+      "rating_count": 117550
+    },
+    {
+      "rank": 93,
+      "title": "Prison Break",
+      "url": "https://www.imdb.com/title/tt0455275/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_.jpg",
+      "description": "A structural engineer installs himself in a prison he helped design, in order to save his falsely accused brother from a death sentence by breaking themselves out from the inside.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "rating_count": 650300
+    },
+    {
+      "rank": 94,
+      "title": "The Umbrella Academy",
+      "url": "https://www.imdb.com/title/tt1312171/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlmMmIxODItYzBjNC00YjMwLWIwOTAtNzVlMTBlNTNkMjZjXkEyXkFqcGc@._V1_.jpg",
+      "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 7.8,
+      "rating_count": 309790
+    },
+    {
+      "rank": 95,
+      "title": "How to Get Away with Murder",
+      "url": "https://www.imdb.com/title/tt3205802/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFmY2ZjMGEtYzA3OS00OGZiLTkwMWItZjk2NDQ3MmQxMjQ5XkEyXkFqcGc@._V1_.jpg",
+      "description": "A group of ambitious law students and their brilliant criminal defense professor become involved in a twisted murder plot that promises to change the course of their lives.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "rating_count": 176427
+    },
+    {
+      "rank": 96,
+      "title": "True Detective",
+      "url": "https://www.imdb.com/title/tt2356777/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjgwYzA1NWMtNDYyZi00ZGQyLWI5NTktMDYwZjE2OTIwZWEwXkEyXkFqcGc@._V1_.jpg",
+      "description": "Anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.9,
+      "rating_count": 732243
+    },
+    {
+      "rank": 97,
+      "title": "Teen Wolf",
+      "url": "https://www.imdb.com/title/tt1567432/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjc2NGJkMzgtYzMxNy00YWZiLTk0MjUtNTRmNGU3NzA2NDc2XkEyXkFqcGc@._V1_.jpg",
+      "description": "An average high school student and his best friend get caught up in some trouble causing him to receive a werewolf bite. As a result they find themselves in the middle of all sorts of dramas in Beacon Hills.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 7.7,
+      "rating_count": 175107
+    },
+    {
+      "rank": 98,
+      "title": "The OA",
+      "url": "https://www.imdb.com/title/tt4635282/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTkwNDkzOF5BMl5BanBnXkFtZTgwMDEyNzI1NzM@._V1_.jpg",
+      "description": "Having gone missing seven years ago, the previously blind Prairie returns home, now in her twenties with her sight restored. While many believe she is a miracle, others worry that she could be dangerous.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": 7.8,
+      "rating_count": 124831
+    },
+    {
+      "rank": 99,
+      "title": "The Simpsons",
+      "url": "https://www.imdb.com/title/tt0096697/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_.jpg",
+      "description": "The satiric half-hour adventures of a working-class family in the misfit city of Springfield.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 8.6,
+      "rating_count": 462402
+    },
+    {
+      "rank": 100,
+      "title": "Desperate Housewives",
+      "url": "https://www.imdb.com/title/tt0410975/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDljYmI5OTktNDFmNC00NmIxLWFhODktM2YyM2JlODVmMWUwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A close-knit group of housewives reside in Wisteria Lane. It may appear to be a seemingly perfect neighborhood but it hides many secrets, crimes, forbidden romances and domestic struggles.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 7.6,
+      "rating_count": 151003
+    },
+    {
+      "rank": 101,
+      "title": "Once Upon a Time",
+      "url": "https://www.imdb.com/title/tt1843230/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDgwNTcwYmMtNjVmNi00NDdkLTllY2MtYmQ4MTM3ZThjZTllXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young woman with a troubled past is drawn to a small town in Maine where fairy tales are to be believed.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 7.7,
+      "rating_count": 245814
+    },
+    {
+      "rank": 102,
+      "title": "Better Call Saul",
+      "url": "https://www.imdb.com/title/tt3032476/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_.jpg",
+      "description": "The trials and tribulations of criminal lawyer Jimmy McGill in the years leading up to his fateful run-in with Walter White and Jesse Pinkman.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9,
+      "rating_count": 783412
+    },
+    {
+      "rank": 103,
+      "title": "Narcos",
+      "url": "https://www.imdb.com/title/tt2707408/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_.jpg",
+      "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "rating_count": 515897
+    },
+    {
+      "rank": 104,
+      "title": "Bates Motel",
+      "url": "https://www.imdb.com/title/tt2188671/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzk4OTU5NTE2M15BMl5BanBnXkFtZTcwNTIxMDIyOQ@@._V1_.jpg",
+      "description": "An intimate look into the unraveling of Norman Bates&apos; psyche throughout his teenage years.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "rating_count": 124090
+    },
+    {
+      "rank": 105,
+      "title": "Daredevil",
+      "url": "https://www.imdb.com/title/tt3322312/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_.jpg",
+      "description": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "rating_count": 518622
+    },
+    {
+      "rank": 106,
+      "title": "The Punisher",
+      "url": "https://www.imdb.com/title/tt5675620/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTI2NDllMjgtOWEyYi00Y2YxLThhYjQtNTQ0NTgwNDE1YmYzXkEyXkFqcGc@._V1_.jpg",
+      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as &quot;The Punisher&quot;.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "rating_count": 294011
+    },
+    {
+      "rank": 107,
+      "title": "Friends",
+      "url": "https://www.imdb.com/title/tt0108778/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg",
+      "description": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 8.9,
+      "rating_count": 1172011
+    },
+    {
+      "rank": 108,
+      "title": "Atypical",
+      "url": "https://www.imdb.com/title/tt6315640/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTJiY2ZiNjEtMjk1MS00Yzk0LThiNGMtMGUzZjRlNjc1OTU2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Sam, an 18-year-old on the autism spectrum, decides it&apos;s time to find a girlfriend, which sets Sam&apos;s mom on her own life-changing path as her son seeks more independence.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 112067
+    },
+    {
+      "rank": 109,
+      "title": "How I Met Your Mother",
+      "url": "https://www.imdb.com/title/tt0460649/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_.jpg",
+      "description": "A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.3,
+      "rating_count": 771372
+    },
+    {
+      "rank": 110,
+      "title": "Dynasty",
+      "url": "https://www.imdb.com/title/tt6128300/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU3MTk5Y2UtNGZhYS00NzA3LWExMWUtNmVlZjRiMTg3MDY0XkEyXkFqcGc@._V1_.jpg",
+      "description": "Follows two of America&apos;s wealthiest families as they feud for control over their fortune and their children.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 7.2,
+      "rating_count": 26562
+    },
+    {
+      "rank": 111,
+      "title": "Suits",
+      "url": "https://www.imdb.com/title/tt1632701/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmE4MmNjZjUtNTEyNy00NTZiLWE4NTktYjM2NjBhYzQ1N2IzXkEyXkFqcGc@._V1_.jpg",
+      "description": "On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City&apos;s best lawyers.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "rating_count": 528286
+    },
+    {
+      "rank": 112,
+      "title": "This Is Us",
+      "url": "https://www.imdb.com/title/tt5555260/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzk4YzY2ZjUtNTQ2YS00MWQ5LTgzZjctZTRlMmZlMzNjNDc3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.7,
+      "rating_count": 171542
+    },
+    {
+      "rank": 113,
+      "title": "Mr. Robot",
+      "url": "https://www.imdb.com/title/tt4158110/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTg4NTBiZDAtZTc0YS00NzZlLTg4Y2ItNGQ3M2ZlMDM5MWQzXkEyXkFqcGc@._V1_.jpg",
+      "description": "Elliot, a brilliant but unstable cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global chaos when he and his shadowy allies try to take down the corrupt corporation his company is paid to p...",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.5,
+      "rating_count": 456485
+    },
+    {
+      "rank": 114,
+      "title": "The Good Place",
+      "url": "https://www.imdb.com/title/tt4955642/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjI3ZGRhNDYtNDFjOS00OGFlLTg4NTEtYjZjYTViY2ZiMzBkXkEyXkFqcGc@._V1_.jpg",
+      "description": "Eleanor Shellstrop, a deceased saleswoman who lived a morally corrupt life, finds herself in a heaven-like afterlife in a case of mistaken identity and tries to hide her past in order to stay there.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.2,
+      "rating_count": 214324
+    },
+    {
+      "rank": 115,
+      "title": "The Originals",
+      "url": "https://www.imdb.com/title/tt2632424/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDJkYjg3MDItMjhiMi00NjhjLThlM2EtNzUxNzcyNDJjN2ZhXkEyXkFqcGc@._V1_.jpg",
+      "description": "A family of power-hungry thousand-year-old vampires look to take back the city that they built and dominate all those who have done them wrong.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 8.2,
+      "rating_count": 157991
+    },
+    {
+      "rank": 116,
+      "title": "Iron Fist",
+      "url": "https://www.imdb.com/title/tt3322310/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI5Mjg1NDcyOV5BMl5BanBnXkFtZTgwMjAxOTQ5MTI@._V1_.jpg",
+      "description": "A young man is bestowed with incredible martial arts skills and a mystical force known as the Iron Fist.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "rating": 6.4,
+      "rating_count": 147106
+    },
+    {
+      "rank": 117,
+      "title": "Supergirl",
+      "url": "https://www.imdb.com/title/tt4016454/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGM4MzY3NzYtYjViZS00MmE4LTgxZmMtNTZkNDM5MDIwMDg1XkEyXkFqcGc@._V1_.jpg",
+      "description": "The adventures of Superman&apos;s cousin and her own superhero career.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 6.2,
+      "rating_count": 133803
+    },
+    {
+      "rank": 118,
+      "title": "The Rain",
+      "url": "https://www.imdb.com/title/tt6656238/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2MjMwNDI2OV5BMl5BanBnXkFtZTgwMDU2NzczNTM@._V1_.jpg",
+      "description": "After a brutal virus wipes out most of the population, two young siblings embark on a perilous search for safety.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 6.3,
+      "rating_count": 45084
+    },
+    {
+      "rank": 119,
+      "title": "Gossip Girl",
+      "url": "https://www.imdb.com/title/tt0397442/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljNzZmMGMtM2FmNC00ZTkzLTg2OTctNDAxZGViYjVlYjAxXkEyXkFqcGc@._V1_.jpg",
+      "description": "Narrated by a mysterious vicious blogger, this show follows a set of wealthy teenagers through their day-to-day scandalous lives as Manhattans Elite, and how they betray each other for each other&apos;s gain.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.5,
+      "rating_count": 210776
+    },
+    {
+      "rank": 120,
+      "title": "Mindhunter",
+      "url": "https://www.imdb.com/title/tt5290382/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTk4NDA4MGMtNjliOC00MjExLWI1YzctOTc4NWIxM2I1YjM5XkEyXkFqcGc@._V1_.jpg",
+      "description": "In the late 1970s, two FBI agents broaden the realm of criminal science by investigating the psychology behind murder and end up getting too close to real-life monsters.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "rating_count": 384934
+    },
+    {
+      "rank": 121,
+      "title": "Sense8",
+      "url": "https://www.imdb.com/title/tt2431438/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_.jpg",
+      "description": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world&apos;s order.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.2,
+      "rating_count": 169806
+    },
+    {
+      "rank": 122,
+      "title": "Revenge",
+      "url": "https://www.imdb.com/title/tt1837642/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2NjA5MDc0OF5BMl5BanBnXkFtZTgwNTE4OTA5MjE@._V1_.jpg",
+      "description": "An emotionally troubled young woman sets out to exact revenge against the people who wronged her father.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 7.8,
+      "rating_count": 128586
+    },
+    {
+      "rank": 123,
+      "title": "Gotham",
+      "url": "https://www.imdb.com/title/tt3749900/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0ZmM3N2QtYmFiMy00YzUzLWE1M2QtZWVhMzBiNGZjMmVjXkEyXkFqcGc@._V1_.jpg",
+      "description": "The story behind Detective James Gordon&apos;s rise to prominence in Gotham City in the years before Batman&apos;s arrival.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "rating_count": 249683
+    },
+    {
+      "rank": 124,
+      "title": "Luke Cage",
+      "url": "https://www.imdb.com/title/tt3322314/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1_.jpg",
+      "description": "When a sabotaged experiment gives him super strength and unbreakable skin, Luke Cage becomes a fugitive attempting to rebuild his life in Harlem and must confront his past and fight a battle for the heart of his city.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.2,
+      "rating_count": 146602
+    },
+    {
+      "rank": 125,
+      "title": "Westworld",
+      "url": "https://www.imdb.com/title/tt0475784/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM2MTA5NjIwNV5BMl5BanBnXkFtZTgwNjI2OTMxNTM@._V1_.jpg",
+      "description": "At the intersection of the near future and the reimagined past, waits a world in which every human appetite can be indulged without consequence.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "rating_count": 553599
+    },
+    {
+      "rank": 126,
+      "title": "Scandal",
+      "url": "https://www.imdb.com/title/tt1837576/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxNzk3MDQyNl5BMl5BanBnXkFtZTgwNDgxMDkyMzI@._V1_.jpg",
+      "description": "A former White House Communications Director starts her own crisis management firm only to realize her clients are not the only ones with secrets.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 7.7,
+      "rating_count": 83336
+    },
+    {
+      "rank": 127,
+      "title": "Jessica Jones",
+      "url": "https://www.imdb.com/title/tt2357547/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDhhY2VlMWItMjM3Yi00MDc1LTlmYjctNjMzNDIxZjc5NGEwXkEyXkFqcGc@._V1_.jpg",
+      "description": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "rating_count": 236678
+    },
+    {
+      "rank": 128,
+      "title": "The Defenders",
+      "url": "https://www.imdb.com/title/tt4230076/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwMjA5NTg4MF5BMl5BanBnXkFtZTgwODUyODkwMzI@._V1_.jpg",
+      "description": "Set a few months after the events of the second season of Daredevil, and a month after the events of Iron Fist, the vigilantes Daredevil, Jessica Jones, Luke Cage, and Iron Fist team up in New York City to fight a common enemy: Th...",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "rating": 7.2,
+      "rating_count": 124358
+    },
+    {
+      "rank": 129,
+      "title": "Modern Family",
+      "url": "https://www.imdb.com/title/tt1442437/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzFlOWFjNzQtODViNC00NzgzLThhZmItZTc1N2VlZDgwODUwXkEyXkFqcGc@._V1_.jpg",
+      "description": "Three different, but related, families face trials and tribulations in their own uniquely comedic ways.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.5,
+      "rating_count": 529753
+    },
+    {
+      "rank": 130,
+      "title": "Big Little Lies",
+      "url": "https://www.imdb.com/title/tt3920596/",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2E3ODNhNWYtYWQ0ZS00ZjdlLTg5NjItMzYwMTlkN2I3YTFjXkEyXkFqcGc@._V1_.jpg",
+      "description": "The apparently-perfect lives of upper-class mothers of students at a prestigious elementary school unravel to the point of murder when a single mother moves to their quaint California beach town.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.4,
+      "rating_count": 240933
+    },
+    {
+      "rank": 131,
+      "title": "Rick and Morty",
+      "url": "https://www.imdb.com/title/tt2861424/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
+      "description": "The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 9,
+      "rating_count": 677358
+    },
+    {
+      "rank": 132,
+      "title": "Insatiable",
+      "url": "https://www.imdb.com/title/tt6487482/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTAyZGMyMDYtYTIzYi00ZDViLWFmNzAtMDk5N2Y0YzU4YzMzXkEyXkFqcGc@._V1_.jpg",
+      "description": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he&apos;s about to unleash upon the world.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 6.5,
+      "rating_count": 35355
+    },
+    {
+      "rank": 133,
+      "title": "Shadowhunters: The Mortal Instruments",
+      "url": "https://www.imdb.com/title/tt4145054/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTEzZThhZDYtZGFhMy00Y2Q1LWE2ZmMtNzg2MjYxY2I2NzIxXkEyXkFqcGc@._V1_.jpg",
+      "description": "After her mother disappears, Clary must venture into the dark world of demon hunting, and embrace her new role among the Shadowhunters.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 6.5,
+      "rating_count": 75567
+    },
+    {
+      "rank": 134,
+      "title": "The Mentalist",
+      "url": "https://www.imdb.com/title/tt1196946/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_.jpg",
+      "description": "Famous &quot;psychic&quot;, Patrick Jane, outs himself as a fake, and using his heightened observational skills and impeccable knowledge of the human psyche, he works with the police so he can find &quot;Red John&quot;, the madman who killed his family.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.2,
+      "rating_count": 218227
+    },
+    {
+      "rank": 135,
+      "title": "The End of the F***ing World",
+      "url": "https://www.imdb.com/title/tt6257970/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTVkZTI3MmMtMDY1Yi00NjJhLTgyYTctNWE1OTJkNmZiZjdlXkEyXkFqcGc@._V1_.jpg",
+      "description": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8,
+      "rating_count": 241407
+    },
+    {
+      "rank": 136,
+      "title": "The Crown",
+      "url": "https://www.imdb.com/title/tt4786824/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODcyODZlZDMtZGE0Ni00NjBhLWJlYTAtZDdlNWY3MzkwMGVhXkEyXkFqcGc@._V1_.jpg",
+      "description": "Follows the political rivalries and romances of Queen Elizabeth II&apos;s reign and the events that shaped Britain for the second half of the 20th century.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.6,
+      "rating_count": 276122
+    },
+    {
+      "rank": 137,
+      "title": "House of Cards",
+      "url": "https://www.imdb.com/title/tt1856010/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MDczNDYwNV5BMl5BanBnXkFtZTcwNjMwMDk5OA@@._V1_.jpg",
+      "description": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.6,
+      "rating_count": 553884
+    },
+    {
+      "rank": 138,
+      "title": "Chernobyl",
+      "url": "https://www.imdb.com/title/tt7366338/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_.jpg",
+      "description": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "rating": 9.3,
+      "rating_count": 993656
+    },
+    {
+      "rank": 139,
+      "title": "Dark",
+      "url": "https://www.imdb.com/title/tt5753856/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.7,
+      "rating_count": 516365
+    },
+    {
+      "rank": 140,
+      "title": "iZombie",
+      "url": "https://www.imdb.com/title/tt3501584/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTA0M2NiNTItZTY5OS00Yjk0LTk4MTktNDhhNTdhMDJjMjAxXkEyXkFqcGc@._V1_.jpg",
+      "description": "A medical resident finds that being a zombie has its perks, which she uses to assist the police.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "rating_count": 78223
+    },
+    {
+      "rank": 141,
+      "title": "Élite",
+      "url": "https://www.imdb.com/title/tt7134908/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTViZmMyNGUtZDhiMy00NGIxLTgzNzEtZmRhYjA4Y2E3NjIwXkEyXkFqcGc@._V1_.jpg",
+      "description": "When three low-income students are offered scholarships to attend an exclusive school, their affluent classmates react with distrust and hostility. The friction that ensues results in a murder, which irrevocably alters all of thei...",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 7.1,
+      "rating_count": 99408
+    },
+    {
+      "rank": 142,
+      "title": "Reign",
+      "url": "https://www.imdb.com/title/tt2710394/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwMDgzNjA1Ml5BMl5BanBnXkFtZTgwNjYyNDUzMTI@._V1_.jpg",
+      "description": "Mary, Queen of Scots, faces political and sexual intrigue in the treacherous world of the French court.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "rating": 7.4,
+      "rating_count": 57346
+    },
+    {
+      "rank": 143,
+      "title": "Sex Education",
+      "url": "https://www.imdb.com/title/tt7767422/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_.jpg",
+      "description": "A teenage boy with a sex-therapist mother teams up with a high-school classmate to set up an underground sex-therapy clinic at school.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.2,
+      "rating_count": 389036
+    },
+    {
+      "rank": 144,
+      "title": "A Series of Unfortunate Events",
+      "url": "https://www.imdb.com/title/tt4834206/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMjIzODI0NV5BMl5BanBnXkFtZTgwMDk3OTI2MDI@._V1_.jpg",
+      "description": "After the loss of their parents in a mysterious fire, the three Baudelaire children face trials and tribulations attempting to uncover dark family secrets.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.7,
+      "rating_count": 71123
+    },
+    {
+      "rank": 145,
+      "title": "Shameless",
+      "url": "https://www.imdb.com/title/tt1586680/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWUwZjJmYjctYTY3MC00ZTVlLWI1ZGEtNWQzMTFlMTcwMTY2XkEyXkFqcGc@._V1_.jpg",
+      "description": "A scrappy, feisty, fiercely loyal Chicago family makes no apologies.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "rating_count": 324236
+    },
+    {
+      "rank": 146,
+      "title": "Criminal Minds",
+      "url": "https://www.imdb.com/title/tt0452046/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmEyNTAyZDEtMTlhNS00ZTJjLWI1OWEtNWMzNzFhMWNjMDY2XkEyXkFqcGc@._V1_.jpg",
+      "description": "The FBI&apos;s Behavioral Analysis Unit in Quantico helps police solve violent serial crimes using profiling. Team members analyze evidence and psychology to catch unknown subjects, but their demanding work affects personal lives.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "rating_count": 236556
+    },
+    {
+      "rank": 147,
+      "title": "New Girl",
+      "url": "https://www.imdb.com/title/tt1826940/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MzM1NzMwMl5BMl5BanBnXkFtZTgwNjQ2MzI2NzE@._V1_.jpg",
+      "description": "After a bad break-up, Jess, an offbeat young woman, moves into an apartment loft with three single men. Although they find her behavior very unusual, the men support her - most of the time.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 7.8,
+      "rating_count": 259659
+    },
+    {
+      "rank": 148,
+      "title": "Scream",
+      "url": "https://www.imdb.com/title/tt3921180/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGUyZGMzMTItN2M0ZS00ZDI5LWFkZGMtMmUzMTE0MTk1NWFlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A serialized anthology series that follows a group of teenagers being targeted by a masked serial killer.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7,
+      "rating_count": 47569
+    },
+    {
+      "rank": 149,
+      "title": "Agents of S.H.I.E.L.D.",
+      "url": "https://www.imdb.com/title/tt2364582/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkwODYyMjgzOV5BMl5BanBnXkFtZTgwODAzMTE5MjE@._V1_.jpg",
+      "description": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.5,
+      "rating_count": 233426
+    },
+    {
+      "rank": 150,
+      "title": "The Haunting of Hill House",
+      "url": "https://www.imdb.com/title/tt6763664/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_.jpg",
+      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": 8.5,
+      "rating_count": 320835
+    },
+    {
+      "rank": 151,
+      "title": "You",
+      "url": "https://www.imdb.com/title/tt7335184/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTVlYmRhMWQtNmE0Yi00ODM1LWEzMWEtNTQzZGZhODRmZTE0XkEyXkFqcGc@._V1_.jpg",
+      "description": "He&apos;s the perfect man - until his love becomes the most dangerous thing in your life.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.6,
+      "rating_count": 355358
+    },
+    {
+      "rank": 152,
+      "title": "Dexter",
+      "url": "https://www.imdb.com/title/tt0773262/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_.jpg",
+      "description": "He&apos;s smart. He&apos;s lovable. He&apos;s Dexter Morgan, America&apos;s favorite serial killer, who spends his days solving crimes and his nights committing them.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "rating_count": 895973
+    },
+    {
+      "rank": 153,
+      "title": "Fear the Walking Dead",
+      "url": "https://www.imdb.com/title/tt3743822/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDU2YmNiOTktMjE4Ny00NmFhLWIxZTYtOWY0ZWQ4MWM3YjdiXkEyXkFqcGc@._V1_.jpg",
+      "description": "A Walking Dead spinoff set in Los Angeles, California. Follows two families who must band together to survive the undead apocalypse.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": 6.8,
+      "rating_count": 152363
+    },
+    {
+      "rank": 154,
+      "title": "Family Guy",
+      "url": "https://www.imdb.com/title/tt0182576/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTZlMGQ1YjEtMzVlNC00ZmMxLTk0MzgtZjdkYTU1NmUxNTQ0XkEyXkFqcGc@._V1_.jpg",
+      "description": "In a wacky Rhode Island town, a dysfunctional family strives to cope with everyday life as they are thrown from one crazy scenario to another.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 8.1,
+      "rating_count": 383803
+    },
+    {
+      "rank": 155,
+      "title": "The Blacklist",
+      "url": "https://www.imdb.com/title/tt2741602/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDk4MGU4NTItNDMyMC00NjQ0LWFlMWUtYzJlMTM1M2M2ZTU3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 7.9,
+      "rating_count": 296311
+    },
+    {
+      "rank": 156,
+      "title": "Lost",
+      "url": "https://www.imdb.com/title/tt0411008/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmZhY2ViYzYtMTQ0NS00NDcyLWIxZTYtMGUyODE0NDA0NmNkXkEyXkFqcGc@._V1_.jpg",
+      "description": "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.3,
+      "rating_count": 659492
+    },
+    {
+      "rank": 157,
+      "title": "Peaky Blinders",
+      "url": "https://www.imdb.com/title/tt2442560/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGM0NGY3ZmItOGE2ZC00OWIxLTk0N2EtZWY4Yzg3ZDlhNGI3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "rating_count": 741935
+    },
+    {
+      "rank": 158,
+      "title": "House M.D.",
+      "url": "https://www.imdb.com/title/tt0412142/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjgxYjAwNmMtYTAwZC00YmQxLWJlOTMtMWM0NGJmNDE0YmI2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Using a crack team of doctors and his wits, an antisocial maverick doctor specializing in diagnostic medicine does whatever it takes to solve puzzling cases that come his way.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.7,
+      "rating_count": 579233
+    },
+    {
+      "rank": 159,
+      "title": "Quantico",
+      "url": "https://www.imdb.com/title/tt4428122/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTg3MTc0Ml5BMl5BanBnXkFtZTgwMzYxNDIyNTM@._V1_.jpg",
+      "description": "A look at the lives of young FBI recruits training at the Quantico base in Virginia when one of them is suspected of being a sleeper terrorist.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 6.7,
+      "rating_count": 65466
+    },
+    {
+      "rank": 160,
+      "title": "Orphan Black",
+      "url": "https://www.imdb.com/title/tt2234222/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzdmMzI1NjktOTE5MS00MWM1LWI1YTAtODE4YjkzZmRlNzI4XkEyXkFqcGc@._V1_.jpg",
+      "description": "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "rating_count": 123289
+    },
+    {
+      "rank": 161,
+      "title": "Homeland",
+      "url": "https://www.imdb.com/title/tt1796960/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwNTRmODktZDk5Ny00ZjMwLWFhMDUtOTdlOWNhNDMyZmNkXkEyXkFqcGc@._V1_.jpg",
+      "description": "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.3,
+      "rating_count": 374584
+    },
+    {
+      "rank": 162,
+      "title": "Blindspot",
+      "url": "https://www.imdb.com/title/tt4474344/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdhZDA2MTYtN2EyYi00ODk4LWI3NmUtMjM4Nzk5ODY1NzVmXkEyXkFqcGc@._V1_.jpg",
+      "description": "Jane Doe is found in Times Square with no memory and mysterious tattoos on her body.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "rating_count": 84807
+    },
+    {
+      "rank": 163,
+      "title": "Legends of Tomorrow",
+      "url": "https://www.imdb.com/title/tt4532368/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTMwNTYzZGMtY2U3Yy00ZjgzLTg4MmUtNmRiMWIxOGQ4OGI2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Time-traveling rogue Rip Hunter must recruit a ragtag team of heroes and villains to help prevent an apocalypse that could impact not only Earth, but all of time.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 6.7,
+      "rating_count": 113771
+    },
+    {
+      "rank": 164,
+      "title": "The Handmaid&apos;s Tale",
+      "url": "https://www.imdb.com/title/tt5834204/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWIxMzk4NmItZmM1YS00ODUyLWFlNjgtZDQ4MzljZTZmZDQ5XkEyXkFqcGc@._V1_.jpg",
+      "description": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "rating_count": 291576
+    },
+    {
+      "rank": 165,
+      "title": "Chilling Adventures of Sabrina",
+      "url": "https://www.imdb.com/title/tt7569592/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTQyMDYwNDMyOV5BMl5BanBnXkFtZTgwMjM4NTIzNjM@._V1_.jpg",
+      "description": "As her 16th birthday nears, Sabrina Spellman must reconcile her dual nature as a half-witch, half-mortal while fighting the evil forces that threaten her, her family, and the daylight world humans inhabit.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 7.4,
+      "rating_count": 117011
+    },
+    {
+      "rank": 166,
+      "title": "The Good Doctor",
+      "url": "https://www.imdb.com/title/tt6470478/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg",
+      "description": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8,
+      "rating_count": 125788
+    },
+    {
+      "rank": 167,
+      "title": "Jane the Virgin",
+      "url": "https://www.imdb.com/title/tt3566726/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjNjZWI4OWUtZDY3Yy00NDBhLWE3YjMtNzc2ZTVjMjRkOWFlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A young, devout Catholic woman discovers that she was accidentally artificially inseminated.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "rating_count": 63738
+    },
+    {
+      "rank": 168,
+      "title": "Glee",
+      "url": "https://www.imdb.com/title/tt1327801/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUwYWRkMDItYTNkNy00OWQ0LWJhYTQtNzI3MWFmMmI3ZDQ5XkEyXkFqcGc@._V1_.jpg",
+      "description": "A group of ambitious misfits try to escape the harsh realities of high school by joining a glee club headed by a passionate Spanish teacher.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "rating": 6.8,
+      "rating_count": 160325
+    },
+    {
+      "rank": 169,
+      "title": "South Park",
+      "url": "https://www.imdb.com/title/tt0121955/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTBlMzA3ZTUtODZjNi00NTM0LWExMjMtNjJhYzA3YTkwMWYwXkEyXkFqcGc@._V1_.jpg",
+      "description": "The misadventures of four foul-mouthed, dirty-minded, irreverent grade-schoolers who live in the quiet, dysfunctional mountain town of South Park, Colorado.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 8.7,
+      "rating_count": 437380
+    },
+    {
+      "rank": 170,
+      "title": "Brooklyn Nine-Nine",
+      "url": "https://www.imdb.com/title/tt2467372/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_.jpg",
+      "description": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD&apos;s 99th Precinct.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.4,
+      "rating_count": 406402
+    },
+    {
+      "rank": 171,
+      "title": "Under the Dome",
+      "url": "https://www.imdb.com/title/tt1553656/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_.jpg",
+      "description": "An invisible and mysterious force field descends upon the small town of Chester&apos;s Mill, Maine, USA, trapping residents inside, cut off from the rest of civilization. The trapped townspeople must discover the secrets and purpose of...",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 6.5,
+      "rating_count": 117550
+    },
+    {
+      "rank": 172,
+      "title": "The Umbrella Academy",
+      "url": "https://www.imdb.com/title/tt1312171/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlmMmIxODItYzBjNC00YjMwLWIwOTAtNzVlMTBlNTNkMjZjXkEyXkFqcGc@._V1_.jpg",
+      "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 7.8,
+      "rating_count": 309790
+    },
+    {
+      "rank": 173,
+      "title": "True Detective",
+      "url": "https://www.imdb.com/title/tt2356777/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjgwYzA1NWMtNDYyZi00ZGQyLWI5NTktMDYwZjE2OTIwZWEwXkEyXkFqcGc@._V1_.jpg",
+      "description": "Anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.9,
+      "rating_count": 732243
+    },
+    {
+      "rank": 174,
+      "title": "The OA",
+      "url": "https://www.imdb.com/title/tt4635282/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTkwNDkzOF5BMl5BanBnXkFtZTgwMDEyNzI1NzM@._V1_.jpg",
+      "description": "Having gone missing seven years ago, the previously blind Prairie returns home, now in her twenties with her sight restored. While many believe she is a miracle, others worry that she could be dangerous.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "rating": 7.8,
+      "rating_count": 124831
+    },
+    {
+      "rank": 175,
+      "title": "Desperate Housewives",
+      "url": "https://www.imdb.com/title/tt0410975/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDljYmI5OTktNDFmNC00NmIxLWFhODktM2YyM2JlODVmMWUwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A close-knit group of housewives reside in Wisteria Lane. It may appear to be a seemingly perfect neighborhood but it hides many secrets, crimes, forbidden romances and domestic struggles.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 7.6,
+      "rating_count": 151003
+    },
+    {
+      "rank": 176,
+      "title": "Better Call Saul",
+      "url": "https://www.imdb.com/title/tt3032476/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_.jpg",
+      "description": "The trials and tribulations of criminal lawyer Jimmy McGill in the years leading up to his fateful run-in with Walter White and Jesse Pinkman.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9,
+      "rating_count": 783412
+    },
+    {
+      "rank": 177,
+      "title": "Bates Motel",
+      "url": "https://www.imdb.com/title/tt2188671/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzk4OTU5NTE2M15BMl5BanBnXkFtZTcwNTIxMDIyOQ@@._V1_.jpg",
+      "description": "An intimate look into the unraveling of Norman Bates&apos; psyche throughout his teenage years.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "rating_count": 124090
+    },
+    {
+      "rank": 178,
+      "title": "The Punisher",
+      "url": "https://www.imdb.com/title/tt5675620/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTI2NDllMjgtOWEyYi00Y2YxLThhYjQtNTQ0NTgwNDE1YmYzXkEyXkFqcGc@._V1_.jpg",
+      "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as &quot;The Punisher&quot;.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "rating_count": 294011
+    },
+    {
+      "rank": 179,
+      "title": "Atypical",
+      "url": "https://www.imdb.com/title/tt6315640/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTJiY2ZiNjEtMjk1MS00Yzk0LThiNGMtMGUzZjRlNjc1OTU2XkEyXkFqcGc@._V1_.jpg",
+      "description": "Sam, an 18-year-old on the autism spectrum, decides it&apos;s time to find a girlfriend, which sets Sam&apos;s mom on her own life-changing path as her son seeks more independence.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "rating_count": 112067
+    },
+    {
+      "rank": 180,
+      "title": "Dynasty",
+      "url": "https://www.imdb.com/title/tt6128300/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU3MTk5Y2UtNGZhYS00NzA3LWExMWUtNmVlZjRiMTg3MDY0XkEyXkFqcGc@._V1_.jpg",
+      "description": "Follows two of America&apos;s wealthiest families as they feud for control over their fortune and their children.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 7.2,
+      "rating_count": 26562
+    },
+    {
+      "rank": 181,
+      "title": "This Is Us",
+      "url": "https://www.imdb.com/title/tt5555260/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzk4YzY2ZjUtNTQ2YS00MWQ5LTgzZjctZTRlMmZlMzNjNDc3XkEyXkFqcGc@._V1_.jpg",
+      "description": "A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.7,
+      "rating_count": 171542
+    },
+    {
+      "rank": 182,
+      "title": "The Good Place",
+      "url": "https://www.imdb.com/title/tt4955642/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjI3ZGRhNDYtNDFjOS00OGFlLTg4NTEtYjZjYTViY2ZiMzBkXkEyXkFqcGc@._V1_.jpg",
+      "description": "Eleanor Shellstrop, a deceased saleswoman who lived a morally corrupt life, finds herself in a heaven-like afterlife in a case of mistaken identity and tries to hide her past in order to stay there.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.2,
+      "rating_count": 214324
+    },
+    {
+      "rank": 183,
+      "title": "Iron Fist",
+      "url": "https://www.imdb.com/title/tt3322310/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI5Mjg1NDcyOV5BMl5BanBnXkFtZTgwMjAxOTQ5MTI@._V1_.jpg",
+      "description": "A young man is bestowed with incredible martial arts skills and a mystical force known as the Iron Fist.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "rating": 6.4,
+      "rating_count": 147106
+    },
+    {
+      "rank": 184,
+      "title": "The Rain",
+      "url": "https://www.imdb.com/title/tt6656238/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2MjMwNDI2OV5BMl5BanBnXkFtZTgwMDU2NzczNTM@._V1_.jpg",
+      "description": "After a brutal virus wipes out most of the population, two young siblings embark on a perilous search for safety.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 6.3,
+      "rating_count": 45084
+    },
+    {
+      "rank": 185,
+      "title": "Mindhunter",
+      "url": "https://www.imdb.com/title/tt5290382/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTk4NDA4MGMtNjliOC00MjExLWI1YzctOTc4NWIxM2I1YjM5XkEyXkFqcGc@._V1_.jpg",
+      "description": "In the late 1970s, two FBI agents broaden the realm of criminal science by investigating the psychology behind murder and end up getting too close to real-life monsters.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "rating_count": 384934
+    },
+    {
+      "rank": 186,
+      "title": "Revenge",
+      "url": "https://www.imdb.com/title/tt1837642/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2NjA5MDc0OF5BMl5BanBnXkFtZTgwNTE4OTA5MjE@._V1_.jpg",
+      "description": "An emotionally troubled young woman sets out to exact revenge against the people who wronged her father.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 7.8,
+      "rating_count": 128586
+    },
+    {
+      "rank": 187,
+      "title": "Luke Cage",
+      "url": "https://www.imdb.com/title/tt3322314/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1_.jpg",
+      "description": "When a sabotaged experiment gives him super strength and unbreakable skin, Luke Cage becomes a fugitive attempting to rebuild his life in Harlem and must confront his past and fight a battle for the heart of his city.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.2,
+      "rating_count": 146602
+    },
+    {
+      "rank": 188,
+      "title": "Scandal",
+      "url": "https://www.imdb.com/title/tt1837576/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxNzk3MDQyNl5BMl5BanBnXkFtZTgwNDgxMDkyMzI@._V1_.jpg",
+      "description": "A former White House Communications Director starts her own crisis management firm only to realize her clients are not the only ones with secrets.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 7.7,
+      "rating_count": 83336
+    },
+    {
+      "rank": 189,
+      "title": "The Defenders",
+      "url": "https://www.imdb.com/title/tt4230076/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwMjA5NTg4MF5BMl5BanBnXkFtZTgwODUyODkwMzI@._V1_.jpg",
+      "description": "Set a few months after the events of the second season of Daredevil, and a month after the events of Iron Fist, the vigilantes Daredevil, Jessica Jones, Luke Cage, and Iron Fist team up in New York City to fight a common enemy: Th...",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "rating": 7.2,
+      "rating_count": 124358
+    },
+    {
+      "rank": 190,
+      "title": "Big Little Lies",
+      "url": "https://www.imdb.com/title/tt3920596/",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2E3ODNhNWYtYWQ0ZS00ZjdlLTg5NjItMzYwMTlkN2I3YTFjXkEyXkFqcGc@._V1_.jpg",
+      "description": "The apparently-perfect lives of upper-class mothers of students at a prestigious elementary school unravel to the point of murder when a single mother moves to their quaint California beach town.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.4,
+      "rating_count": 240933
+    },
+    {
+      "rank": 191,
+      "title": "Insatiable",
+      "url": "https://www.imdb.com/title/tt6487482/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTAyZGMyMDYtYTIzYi00ZDViLWFmNzAtMDk5N2Y0YzU4YzMzXkEyXkFqcGc@._V1_.jpg",
+      "description": "A disgraced, dissatisfied civil lawyer-turned-beauty pageant coach takes on a vengeful, bullied teenager as his client and has no idea what he&apos;s about to unleash upon the world.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 6.5,
+      "rating_count": 35355
+    },
+    {
+      "rank": 192,
+      "title": "The Mentalist",
+      "url": "https://www.imdb.com/title/tt1196946/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_.jpg",
+      "description": "Famous &quot;psychic&quot;, Patrick Jane, outs himself as a fake, and using his heightened observational skills and impeccable knowledge of the human psyche, he works with the police so he can find &quot;Red John&quot;, the madman who killed his family.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.2,
+      "rating_count": 218227
+    },
+    {
+      "rank": 193,
+      "title": "The Crown",
+      "url": "https://www.imdb.com/title/tt4786824/",
+      "image": "https://m.media-amazon.com/images/M/MV5BODcyODZlZDMtZGE0Ni00NjBhLWJlYTAtZDdlNWY3MzkwMGVhXkEyXkFqcGc@._V1_.jpg",
+      "description": "Follows the political rivalries and romances of Queen Elizabeth II&apos;s reign and the events that shaped Britain for the second half of the 20th century.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.6,
+      "rating_count": 276122
+    },
+    {
+      "rank": 194,
+      "title": "Chernobyl",
+      "url": "https://www.imdb.com/title/tt7366338/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_.jpg",
+      "description": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "rating": 9.3,
+      "rating_count": 993656
+    },
+    {
+      "rank": 195,
+      "title": "iZombie",
+      "url": "https://www.imdb.com/title/tt3501584/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTA0M2NiNTItZTY5OS00Yjk0LTk4MTktNDhhNTdhMDJjMjAxXkEyXkFqcGc@._V1_.jpg",
+      "description": "A medical resident finds that being a zombie has its perks, which she uses to assist the police.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "rating_count": 78223
+    },
+    {
+      "rank": 196,
+      "title": "Reign",
+      "url": "https://www.imdb.com/title/tt2710394/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwMDgzNjA1Ml5BMl5BanBnXkFtZTgwNjYyNDUzMTI@._V1_.jpg",
+      "description": "Mary, Queen of Scots, faces political and sexual intrigue in the treacherous world of the French court.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "rating": 7.4,
+      "rating_count": 57346
+    },
+    {
+      "rank": 197,
+      "title": "A Series of Unfortunate Events",
+      "url": "https://www.imdb.com/title/tt4834206/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMjIzODI0NV5BMl5BanBnXkFtZTgwMDk3OTI2MDI@._V1_.jpg",
+      "description": "After the loss of their parents in a mysterious fire, the three Baudelaire children face trials and tribulations attempting to uncover dark family secrets.",
+      "content_rating": "TV-PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.7,
+      "rating_count": 71123
+    },
+    {
+      "rank": 198,
+      "title": "Criminal Minds",
+      "url": "https://www.imdb.com/title/tt0452046/",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmEyNTAyZDEtMTlhNS00ZTJjLWI1OWEtNWMzNzFhMWNjMDY2XkEyXkFqcGc@._V1_.jpg",
+      "description": "The FBI&apos;s Behavioral Analysis Unit in Quantico helps police solve violent serial crimes using profiling. Team members analyze evidence and psychology to catch unknown subjects, but their demanding work affects personal lives.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "rating_count": 236556
+    },
+    {
+      "rank": 199,
+      "title": "Scream",
+      "url": "https://www.imdb.com/title/tt3921180/",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGUyZGMzMTItN2M0ZS00ZDI5LWFkZGMtMmUzMTE0MTk1NWFlXkEyXkFqcGc@._V1_.jpg",
+      "description": "A serialized anthology series that follows a group of teenagers being targeted by a masked serial killer.",
+      "content_rating": "TV-14",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7,
+      "rating_count": 47569
+    },
+    {
+      "rank": 200,
+      "title": "The Haunting of Hill House",
+      "url": "https://www.imdb.com/title/tt6763664/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_.jpg",
+      "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+      "content_rating": "TV-MA",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": 8.5,
+      "rating_count": 320835
+    }
+  ]
+}

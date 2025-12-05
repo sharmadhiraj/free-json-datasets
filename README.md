@@ -178,6 +178,8 @@ Each dataset follows this JSON format:
   Complete list of FIFA World Cup finals from 1930 - 2026
 - [**IMDb Top 250 Movies**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/imdb_top_movies.json)  
   A curated list of the highest-rated films from IMDb's Top 250
+- [**Most Watched TV Shows of All Time**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/most_watched_tv_shows_of_all_time.json)  
+  IMDB List of the 100 Most Popular and Viewed Series
 - [**Premier League Tables**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/premier_league_table_all_seasons.json)  
   Season-by-season league tables from 1992/93 to 2024/2025
 
