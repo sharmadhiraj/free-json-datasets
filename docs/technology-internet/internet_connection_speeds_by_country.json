@@ -1,0 +1,787 @@
+{
+  "title": "Country-wise median download speeds (Mbits/s) for fixed broadband",
+  "subtitle": "A dataset of median fixed broadband download speeds (Mbps) by country.",
+  "updated_at": "December 05, 2025 06:09 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Singapore",
+      "median_download_mbps": "406.14"
+    },
+    {
+      "rank": 2,
+      "country": "Chile",
+      "median_download_mbps": "360.89"
+    },
+    {
+      "rank": 3,
+      "country": "Hong Kong",
+      "median_download_mbps": "343.36"
+    },
+    {
+      "rank": 4,
+      "country": "United Arab Emirates",
+      "median_download_mbps": "343.28"
+    },
+    {
+      "rank": 5,
+      "country": "France",
+      "median_download_mbps": "332.74"
+    },
+    {
+      "rank": 6,
+      "country": "Macau",
+      "median_download_mbps": "314.32"
+    },
+    {
+      "rank": 7,
+      "country": "United States",
+      "median_download_mbps": "298.38"
+    },
+    {
+      "rank": 8,
+      "country": "Iceland",
+      "median_download_mbps": "289.98"
+    },
+    {
+      "rank": 9,
+      "country": "Thailand",
+      "median_download_mbps": "272.65"
+    },
+    {
+      "rank": 10,
+      "country": "Vietnam",
+      "median_download_mbps": "271.95"
+    },
+    {
+      "rank": 11,
+      "country": "Israel",
+      "median_download_mbps": "270.69"
+    },
+    {
+      "rank": 12,
+      "country": "Switzerland",
+      "median_download_mbps": "266.34"
+    },
+    {
+      "rank": 13,
+      "country": "Romania",
+      "median_download_mbps": "261.35"
+    },
+    {
+      "rank": 14,
+      "country": "Taiwan",
+      "median_download_mbps": "258.86"
+    },
+    {
+      "rank": 15,
+      "country": "Denmark",
+      "median_download_mbps": "256.74"
+    },
+    {
+      "rank": 16,
+      "country": "Spain",
+      "median_download_mbps": "255.02"
+    },
+    {
+      "rank": 17,
+      "country": "Canada",
+      "median_download_mbps": "245.77"
+    },
+    {
+      "rank": 18,
+      "country": "Peru",
+      "median_download_mbps": "235.09"
+    },
+    {
+      "rank": 19,
+      "country": "South Korea",
+      "median_download_mbps": "234.07"
+    },
+    {
+      "rank": 20,
+      "country": "Hungary",
+      "median_download_mbps": "230.29"
+    },
+    {
+      "rank": 21,
+      "country": "Portugal",
+      "median_download_mbps": "227.53"
+    },
+    {
+      "rank": 22,
+      "country": "Kuwait",
+      "median_download_mbps": "224.13"
+    },
+    {
+      "rank": 23,
+      "country": "China",
+      "median_download_mbps": "222.29"
+    },
+    {
+      "rank": 24,
+      "country": "Japan",
+      "median_download_mbps": "219.78"
+    },
+    {
+      "rank": 25,
+      "country": "Netherlands",
+      "median_download_mbps": "218.31"
+    },
+    {
+      "rank": 26,
+      "country": "New Zealand",
+      "median_download_mbps": "217.32"
+    },
+    {
+      "rank": 27,
+      "country": "Brazil",
+      "median_download_mbps": "215.58"
+    },
+    {
+      "rank": 28,
+      "country": "Poland",
+      "median_download_mbps": "207.54"
+    },
+    {
+      "rank": 29,
+      "country": "Qatar",
+      "median_download_mbps": "203.49"
+    },
+    {
+      "rank": 30,
+      "country": "Luxembourg",
+      "median_download_mbps": "201.60"
+    },
+    {
+      "rank": 31,
+      "country": "Lithuania",
+      "median_download_mbps": "200.23"
+    },
+    {
+      "rank": 32,
+      "country": "Colombia",
+      "median_download_mbps": "199.70"
+    },
+    {
+      "rank": 33,
+      "country": "Jordan",
+      "median_download_mbps": "192.49"
+    },
+    {
+      "rank": 34,
+      "country": "Panama",
+      "median_download_mbps": "192.18"
+    },
+    {
+      "rank": 35,
+      "country": "Malta",
+      "median_download_mbps": "187.47"
+    },
+    {
+      "rank": 36,
+      "country": "Uruguay",
+      "median_download_mbps": "187.28"
+    },
+    {
+      "rank": 37,
+      "country": "Sweden",
+      "median_download_mbps": "181.27"
+    },
+    {
+      "rank": 38,
+      "country": "Ireland",
+      "median_download_mbps": "180.01"
+    },
+    {
+      "rank": 39,
+      "country": "Moldova",
+      "median_download_mbps": "164.43"
+    },
+    {
+      "rank": 40,
+      "country": "Norway",
+      "median_download_mbps": "161.47"
+    },
+    {
+      "rank": 41,
+      "country": "Malaysia",
+      "median_download_mbps": "161.18"
+    },
+    {
+      "rank": 42,
+      "country": "Finland",
+      "median_download_mbps": "157.81"
+    },
+    {
+      "rank": 43,
+      "country": "United Kingdom",
+      "median_download_mbps": "154.10"
+    },
+    {
+      "rank": 44,
+      "country": "Costa Rica",
+      "median_download_mbps": "153.94"
+    },
+    {
+      "rank": 45,
+      "country": "Trinidad and Tobago",
+      "median_download_mbps": "148.99"
+    },
+    {
+      "rank": 46,
+      "country": "Bahrain",
+      "median_download_mbps": "144.64"
+    },
+    {
+      "rank": 47,
+      "country": "Ecuador",
+      "median_download_mbps": "139.77"
+    },
+    {
+      "rank": 48,
+      "country": "Australia",
+      "median_download_mbps": "135.31"
+    },
+    {
+      "rank": 49,
+      "country": "Belgium",
+      "median_download_mbps": "134.83"
+    },
+    {
+      "rank": 50,
+      "country": "Saudi Arabia",
+      "median_download_mbps": "132.66"
+    },
+    {
+      "rank": 51,
+      "country": "Cyprus",
+      "median_download_mbps": "130.59"
+    },
+    {
+      "rank": 52,
+      "country": "Slovenia",
+      "median_download_mbps": "122.90"
+    },
+    {
+      "rank": 53,
+      "country": "Latvia",
+      "median_download_mbps": "120.41"
+    },
+    {
+      "rank": 54,
+      "country": "Austria",
+      "median_download_mbps": "108.88"
+    },
+    {
+      "rank": 55,
+      "country": "Philippines",
+      "median_download_mbps": "106.71"
+    },
+    {
+      "rank": 56,
+      "country": "Argentina",
+      "median_download_mbps": "105.42"
+    },
+    {
+      "rank": 57,
+      "country": "Italy",
+      "median_download_mbps": "103.96"
+    },
+    {
+      "rank": 58,
+      "country": "Paraguay",
+      "median_download_mbps": "103.51"
+    },
+    {
+      "rank": 59,
+      "country": "Germany",
+      "median_download_mbps": "101.08"
+    },
+    {
+      "rank": 60,
+      "country": "San Marino",
+      "median_download_mbps": "99.32"
+    },
+    {
+      "rank": 61,
+      "country": "Serbia",
+      "median_download_mbps": "99.12"
+    },
+    {
+      "rank": 62,
+      "country": "Croatia",
+      "median_download_mbps": "97.87"
+    },
+    {
+      "rank": 63,
+      "country": "Slovakia",
+      "median_download_mbps": "97.07"
+    },
+    {
+      "rank": 64,
+      "country": "Montenegro",
+      "median_download_mbps": "96.28"
+    },
+    {
+      "rank": 65,
+      "country": "Jamaica",
+      "median_download_mbps": "95.58"
+    },
+    {
+      "rank": 66,
+      "country": "Venezuela",
+      "median_download_mbps": "95.02"
+    },
+    {
+      "rank": 67,
+      "country": "Estonia",
+      "median_download_mbps": "93.69"
+    },
+    {
+      "rank": 68,
+      "country": "Oman",
+      "median_download_mbps": "92.69"
+    },
+    {
+      "rank": 69,
+      "country": "Mexico",
+      "median_download_mbps": "91.99"
+    },
+    {
+      "rank": 70,
+      "country": "Nicaragua",
+      "median_download_mbps": "91.94"
+    },
+    {
+      "rank": 71,
+      "country": "El Salvador",
+      "median_download_mbps": "91.46"
+    },
+    {
+      "rank": 72,
+      "country": "Grenada",
+      "median_download_mbps": "91.30"
+    },
+    {
+      "rank": 73,
+      "country": "Egypt",
+      "median_download_mbps": "91.25"
+    },
+    {
+      "rank": 74,
+      "country": "Russia",
+      "median_download_mbps": "89.20"
+    },
+    {
+      "rank": 75,
+      "country": "Ukraine",
+      "median_download_mbps": "88.92"
+    },
+    {
+      "rank": 76,
+      "country": "Uzbekistan",
+      "median_download_mbps": "88.82"
+    },
+    {
+      "rank": 77,
+      "country": "Czech Republic",
+      "median_download_mbps": "87.22"
+    },
+    {
+      "rank": 78,
+      "country": "Bulgaria",
+      "median_download_mbps": "87.04"
+    },
+    {
+      "rank": 79,
+      "country": "Albania",
+      "median_download_mbps": "86.90"
+    },
+    {
+      "rank": 80,
+      "country": "Saint Kitts and Nevis",
+      "median_download_mbps": "86.47"
+    },
+    {
+      "rank": 81,
+      "country": "Belarus",
+      "median_download_mbps": "86.12"
+    },
+    {
+      "rank": 82,
+      "country": "Brunei",
+      "median_download_mbps": "85.60"
+    },
+    {
+      "rank": 83,
+      "country": "Guatemala",
+      "median_download_mbps": "85.29"
+    },
+    {
+      "rank": 84,
+      "country": "Azerbaijan",
+      "median_download_mbps": "84.82"
+    },
+    {
+      "rank": 85,
+      "country": "Bahamas",
+      "median_download_mbps": "84.08"
+    },
+    {
+      "rank": 86,
+      "country": "Honduras",
+      "median_download_mbps": "83.93"
+    },
+    {
+      "rank": 87,
+      "country": "Kyrgyzstan",
+      "median_download_mbps": "83.87"
+    },
+    {
+      "rank": 88,
+      "country": "Kosovo",
+      "median_download_mbps": "83.61"
+    },
+    {
+      "rank": 89,
+      "country": "Kazakhstan",
+      "median_download_mbps": "82.47"
+    },
+    {
+      "rank": 90,
+      "country": "Greece",
+      "median_download_mbps": "80.14"
+    },
+    {
+      "rank": 91,
+      "country": "Mongolia",
+      "median_download_mbps": "79.62"
+    },
+    {
+      "rank": 92,
+      "country": "Nepal",
+      "median_download_mbps": "77.33"
+    },
+    {
+      "rank": 93,
+      "country": "Palestine",
+      "median_download_mbps": "74.54"
+    },
+    {
+      "rank": 94,
+      "country": "Armenia",
+      "median_download_mbps": "73.95"
+    },
+    {
+      "rank": 95,
+      "country": "Turkey",
+      "median_download_mbps": "64.22"
+    },
+    {
+      "rank": 96,
+      "country": "Bangladesh",
+      "median_download_mbps": "62.73"
+    },
+    {
+      "rank": 97,
+      "country": "Bolivia",
+      "median_download_mbps": "61.89"
+    },
+    {
+      "rank": 98,
+      "country": "Dominican Republic",
+      "median_download_mbps": "60.98"
+    },
+    {
+      "rank": 99,
+      "country": "India",
+      "median_download_mbps": "60.34"
+    },
+    {
+      "rank": 100,
+      "country": "Mauritius",
+      "median_download_mbps": "59.56"
+    },
+    {
+      "rank": 101,
+      "country": "Ivory Coast",
+      "median_download_mbps": "59.14"
+    },
+    {
+      "rank": 102,
+      "country": "North Macedonia",
+      "median_download_mbps": "55.31"
+    },
+    {
+      "rank": 103,
+      "country": "Morocco",
+      "median_download_mbps": "54.52"
+    },
+    {
+      "rank": 104,
+      "country": "Mauritania",
+      "median_download_mbps": "53.57"
+    },
+    {
+      "rank": 105,
+      "country": "Haiti",
+      "median_download_mbps": "51.86"
+    },
+    {
+      "rank": 106,
+      "country": "Ghana",
+      "median_download_mbps": "51.22"
+    },
+    {
+      "rank": 107,
+      "country": "Algeria",
+      "median_download_mbps": "50.85"
+    },
+    {
+      "rank": 108,
+      "country": "Laos",
+      "median_download_mbps": "50.44"
+    },
+    {
+      "rank": 109,
+      "country": "Cambodia",
+      "median_download_mbps": "48.69"
+    },
+    {
+      "rank": 110,
+      "country": "South Africa",
+      "median_download_mbps": "48.40"
+    },
+    {
+      "rank": 111,
+      "country": "Belize",
+      "median_download_mbps": "48.26"
+    },
+    {
+      "rank": 112,
+      "country": "Burkina Faso",
+      "median_download_mbps": "47.76"
+    },
+    {
+      "rank": 113,
+      "country": "DR Congo",
+      "median_download_mbps": "47.43"
+    },
+    {
+      "rank": 114,
+      "country": "Georgia",
+      "median_download_mbps": "44.03"
+    },
+    {
+      "rank": 115,
+      "country": "Indonesia",
+      "median_download_mbps": "42.79"
+    },
+    {
+      "rank": 116,
+      "country": "Iraq",
+      "median_download_mbps": "42.21"
+    },
+    {
+      "rank": 117,
+      "country": "Antigua and Barbuda",
+      "median_download_mbps": "41.46"
+    },
+    {
+      "rank": 118,
+      "country": "Rwanda",
+      "median_download_mbps": "41.02"
+    },
+    {
+      "rank": 119,
+      "country": "Botswana",
+      "median_download_mbps": "40.68"
+    },
+    {
+      "rank": 120,
+      "country": "Gabon",
+      "median_download_mbps": "40.31"
+    },
+    {
+      "rank": 121,
+      "country": "Cape Verde",
+      "median_download_mbps": "40.02"
+    },
+    {
+      "rank": 122,
+      "country": "Zambia",
+      "median_download_mbps": "39.74"
+    },
+    {
+      "rank": 123,
+      "country": "Tajikistan",
+      "median_download_mbps": "39.57"
+    },
+    {
+      "rank": 124,
+      "country": "Lesotho",
+      "median_download_mbps": "36.91"
+    },
+    {
+      "rank": 125,
+      "country": "Bosnia and Herzegovina",
+      "median_download_mbps": "36.03"
+    },
+    {
+      "rank": 126,
+      "country": "Togo",
+      "median_download_mbps": "35.60"
+    },
+    {
+      "rank": 127,
+      "country": "Zimbabwe",
+      "median_download_mbps": "35.38"
+    },
+    {
+      "rank": 128,
+      "country": "Sri Lanka",
+      "median_download_mbps": "32.03"
+    },
+    {
+      "rank": 129,
+      "country": "Mozambique",
+      "median_download_mbps": "31.97"
+    },
+    {
+      "rank": 130,
+      "country": "Fiji",
+      "median_download_mbps": "30.76"
+    },
+    {
+      "rank": 131,
+      "country": "Nigeria",
+      "median_download_mbps": "29.73"
+    },
+    {
+      "rank": 132,
+      "country": "Madagascar",
+      "median_download_mbps": "28.57"
+    },
+    {
+      "rank": 133,
+      "country": "Myanmar",
+      "median_download_mbps": "28.03"
+    },
+    {
+      "rank": 134,
+      "country": "Uganda",
+      "median_download_mbps": "27.56"
+    },
+    {
+      "rank": 135,
+      "country": "Yemen",
+      "median_download_mbps": "26.38"
+    },
+    {
+      "rank": 136,
+      "country": "Benin",
+      "median_download_mbps": "24.46"
+    },
+    {
+      "rank": 137,
+      "country": "Niger",
+      "median_download_mbps": "23.28"
+    },
+    {
+      "rank": 138,
+      "country": "Senegal",
+      "median_download_mbps": "21.85"
+    },
+    {
+      "rank": 139,
+      "country": "Angola",
+      "median_download_mbps": "21.64"
+    },
+    {
+      "rank": 140,
+      "country": "Mali",
+      "median_download_mbps": "21.61"
+    },
+    {
+      "rank": 141,
+      "country": "Maldives",
+      "median_download_mbps": "20.15"
+    },
+    {
+      "rank": 142,
+      "country": "Tanzania",
+      "median_download_mbps": "20.07"
+    },
+    {
+      "rank": 143,
+      "country": "Suriname",
+      "median_download_mbps": "20.04"
+    },
+    {
+      "rank": 144,
+      "country": "Iran",
+      "median_download_mbps": "19.88"
+    },
+    {
+      "rank": 145,
+      "country": "Somalia",
+      "median_download_mbps": "19.36"
+    },
+    {
+      "rank": 146,
+      "country": "Tunisia",
+      "median_download_mbps": "18.07"
+    },
+    {
+      "rank": 147,
+      "country": "Pakistan",
+      "median_download_mbps": "17.77"
+    },
+    {
+      "rank": 148,
+      "country": "Lebanon",
+      "median_download_mbps": "17.47"
+    },
+    {
+      "rank": 149,
+      "country": "Namibia",
+      "median_download_mbps": "16.40"
+    },
+    {
+      "rank": 150,
+      "country": "Kenya",
+      "median_download_mbps": "15.75"
+    },
+    {
+      "rank": 151,
+      "country": "Cameroon",
+      "median_download_mbps": "12.82"
+    },
+    {
+      "rank": 152,
+      "country": "Libya",
+      "median_download_mbps": "10.63"
+    },
+    {
+      "rank": 153,
+      "country": "Ethiopia",
+      "median_download_mbps": "10.12"
+    },
+    {
+      "rank": 154,
+      "country": "Afghanistan",
+      "median_download_mbps": "4.54"
+    },
+    {
+      "rank": 155,
+      "country": "Cuba",
+      "median_download_mbps": "3.67"
+    },
+    {
+      "rank": 156,
+      "country": "Syria",
+      "median_download_mbps": "3.51"
+    }
+  ]
+}

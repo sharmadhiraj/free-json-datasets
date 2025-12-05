@@ -183,6 +183,8 @@ Each dataset follows this JSON format:
 
 ### Technology & Internet
 
+- [**Country-wise median download speeds (Mbits/s) for fixed broadband**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/internet_connection_speeds_by_country.json)  
+  A dataset of median fixed broadband download speeds (Mbps) by country.
 - [**Internet Users by Country 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/internet_users_by_country.json)  
   Estimated Internet Users and Usage Percentage by Country (2025)
 - [**Social Media Platforms with 100M+ Active Users (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/most_popular_social_platforms.json)  

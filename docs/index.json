@@ -396,6 +396,12 @@
     "category": "Technology & Internet",
     "datasets": [
       {
+        "title": "Country-wise median download speeds (Mbits/s) for fixed broadband",
+        "subtitle": "A dataset of median fixed broadband download speeds (Mbps) by country.",
+        "updated_at": "December 05, 2025 06:09 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/internet_connection_speeds_by_country.json"
+      },
+      {
         "title": "Internet Users by Country 2025",
         "subtitle": "Estimated Internet Users and Usage Percentage by Country (2025)",
         "updated_at": "September 02, 2025 10:47 AM UTC",
