@@ -1,0 +1,1555 @@
+{
+  "title": "List of Best-Selling Books Worldwide",
+  "subtitle": "Books, authors, languages, publication years, sales estimates, and genres",
+  "updated_at": "December 05, 2025 07:59 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "book": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "original_language": "English",
+      "first_published": "1859",
+      "approximate_sales": ">200 million",
+      "genre": "Historical fiction"
+    },
+    {
+      "rank": 2,
+      "book": "The Little Prince ( Le Petit Prince )",
+      "author": "Antoine de Saint-Exupéry",
+      "original_language": "French",
+      "first_published": "1943",
+      "approximate_sales": "200 million",
+      "genre": "Fantasy"
+    },
+    {
+      "rank": 3,
+      "book": "The Alchemist ( O Alquimista )",
+      "author": "Paulo Coelho",
+      "original_language": "Portuguese",
+      "first_published": "1988",
+      "approximate_sales": "150 million",
+      "genre": "Fantasy"
+    },
+    {
+      "rank": 4,
+      "book": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "original_language": "English",
+      "first_published": "1997",
+      "approximate_sales": "120 million",
+      "genre": "Fantasy"
+    },
+    {
+      "rank": 5,
+      "book": "And Then There Were None",
+      "author": "Agatha Christie",
+      "original_language": "English",
+      "first_published": "1939",
+      "approximate_sales": "100 million",
+      "genre": "Mystery"
+    },
+    {
+      "rank": 6,
+      "book": "Dream of the Red Chamber (紅樓夢)",
+      "author": "Cao Xueqin",
+      "original_language": "Chinese",
+      "first_published": "1791",
+      "approximate_sales": "100 million",
+      "genre": "Family saga"
+    },
+    {
+      "rank": 7,
+      "book": "The Hobbit",
+      "author": "J. R. R. Tolkien",
+      "original_language": "English",
+      "first_published": "1937",
+      "approximate_sales": "100 million",
+      "genre": "Fantasy, children's fiction"
+    },
+    {
+      "rank": 8,
+      "book": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "original_language": "English",
+      "first_published": "1865",
+      "approximate_sales": "100 million",
+      "genre": "Fantasy, absurdist fiction"
+    },
+    {
+      "rank": 1,
+      "book": "She: A History of Adventure",
+      "author": "H. Rider Haggard",
+      "original_language": "English",
+      "first_published": "1887",
+      "approximate_sales": "83 million",
+      "genre": "Adventure"
+    },
+    {
+      "rank": 2,
+      "book": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "original_language": "English",
+      "first_published": "2003",
+      "approximate_sales": "80 million",
+      "genre": "Mystery thriller"
+    },
+    {
+      "rank": 3,
+      "book": "Harry Potter and the Chamber of Secrets",
+      "author": "J. K. Rowling",
+      "original_language": "English",
+      "first_published": "1998",
+      "approximate_sales": "77 million",
+      "genre": "Fantasy"
+    },
+    {
+      "rank": 4,
+      "book": "The Catcher in the Rye",
+      "author": "J. D. Salinger",
+      "original_language": "English",
+      "first_published": "1951",
+      "approximate_sales": "65 million",
+      "genre": "Coming-of-age"
+    },
+    {
+      "rank": 5,
+      "book": "Harry Potter and the Prisoner of Azkaban",
+      "author": "J. K. Rowling",
+      "original_language": "English",
+      "first_published": "1999",
+      "approximate_sales": "65 million",
+      "genre": "Fantasy"
+    },
+    {
+      "rank": 6,
+      "book": "Harry Potter and the Goblet of Fire",
+      "author": "J. K. Rowling",
+      "original_language": "English",
+      "first_published": "2000",
+      "approximate_sales": "65 million",
+      "genre": "Fantasy"
+    },
+    {
+      "rank": 7,
+      "book": "Harry Potter and the Order of Phoenix",
+      "author": "J. K. Rowling",
+      "original_language": "English",
+      "first_published": "2003",
+      "approximate_sales": "65 million",
+      "genre": "Fantasy"
+    },
+    {
+      "rank": 8,
+      "book": "Harry Potter and the Half-Blood Prince",
+      "author": "J. K. Rowling",
+      "original_language": "English",
+      "first_published": "2005",
+      "approximate_sales": "65 million",
+      "genre": "Fantasy"
+    },
+    {
+      "rank": 9,
+      "book": "Harry Potter and the Deathly Hallows",
+      "author": "J. K. Rowling",
+      "original_language": "English",
+      "first_published": "2007",
+      "approximate_sales": "65 million",
+      "genre": "Fantasy"
+    },
+    {
+      "rank": 10,
+      "book": "The Bridges of Madison County",
+      "author": "Robert James Waller",
+      "original_language": "English",
+      "first_published": "1992",
+      "approximate_sales": "60 million",
+      "genre": "Romance"
+    },
+    {
+      "rank": 11,
+      "book": "One Hundred Years of Solitude ( Cien años de soledad )",
+      "author": "Gabriel García Márquez",
+      "original_language": "Spanish",
+      "first_published": "1967",
+      "approximate_sales": "50 million",
+      "genre": "Magic realism"
+    },
+    {
+      "rank": 12,
+      "book": "Lolita",
+      "author": "Vladimir Nabokov",
+      "original_language": "English",
+      "first_published": "1955",
+      "approximate_sales": "50 million",
+      "genre": "Novel"
+    },
+    {
+      "rank": 13,
+      "book": "Heidi",
+      "author": "Johanna Spyri",
+      "original_language": "German",
+      "first_published": "1880",
+      "approximate_sales": "50 million",
+      "genre": "Children's fiction"
+    },
+    {
+      "rank": 14,
+      "book": "The Common Sense Book of Baby and Child Care",
+      "author": "Benjamin Spock",
+      "original_language": "English",
+      "first_published": "1946",
+      "approximate_sales": "50 million",
+      "genre": "Manual"
+    },
+    {
+      "rank": 15,
+      "book": "Anne of Green Gables",
+      "author": "Lucy Maud Montgomery",
+      "original_language": "English",
+      "first_published": "1908",
+      "approximate_sales": "50 million",
+      "genre": "Children's novel"
+    },
+    {
+      "rank": 16,
+      "book": "Black Beauty",
+      "author": "Anna Sewell",
+      "original_language": "English",
+      "first_published": "1877",
+      "approximate_sales": "50 million",
+      "genre": "Children's literature"
+    },
+    {
+      "rank": 17,
+      "book": "The Name of the Rose ( Il Nome della Rosa )",
+      "author": "Umberto Eco",
+      "original_language": "Italian",
+      "first_published": "1980",
+      "approximate_sales": "50 million",
+      "genre": "Historical novel, mystery"
+    },
+    {
+      "rank": 18,
+      "book": "The Eagle Has Landed",
+      "author": "Jack Higgins",
+      "original_language": "English",
+      "first_published": "1975",
+      "approximate_sales": "50 million",
+      "genre": "War, thriller"
+    },
+    {
+      "rank": 19,
+      "book": "Watership Down",
+      "author": "Richard Adams",
+      "original_language": "English",
+      "first_published": "1972",
+      "approximate_sales": "50 million",
+      "genre": "Children's fiction"
+    },
+    {
+      "rank": 20,
+      "book": "The Hite Report",
+      "author": "Shere Hite",
+      "original_language": "English",
+      "first_published": "1976",
+      "approximate_sales": "50 million",
+      "genre": "nonfiction"
+    },
+    {
+      "rank": 21,
+      "book": "Charlotte's Web",
+      "author": "E. B. White",
+      "original_language": "English",
+      "first_published": "1952",
+      "approximate_sales": "50 million",
+      "genre": "Children's fiction"
+    },
+    {
+      "rank": 22,
+      "book": "The Ginger Man",
+      "author": "J. P. Donleavy",
+      "original_language": "English",
+      "first_published": "1955",
+      "approximate_sales": "50 million",
+      "genre": "Novel"
+    },
+    {
+      "rank": 23,
+      "book": "The Purpose Driven Life",
+      "author": "Rick Warren",
+      "original_language": "English",
+      "first_published": "2002",
+      "approximate_sales": "50 million",
+      "genre": "Bible study"
+    },
+    {
+      "rank": 1,
+      "book": "The Tale of Peter Rabbit",
+      "author": "Beatrix Potter",
+      "original_language": "English",
+      "first_published": "1902",
+      "approximate_sales": "45 million",
+      "genre": "Children's literature"
+    },
+    {
+      "rank": 2,
+      "book": "Jonathan Livingston Seagull",
+      "author": "Richard Bach",
+      "original_language": "English",
+      "first_published": "1970",
+      "approximate_sales": "44 million",
+      "genre": "Novella, self-help"
+    },
+    {
+      "rank": 3,
+      "book": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "original_language": "English",
+      "first_published": "1969",
+      "approximate_sales": "43 million",
+      "genre": "Children's literature, picture book"
+    },
+    {
+      "rank": 4,
+      "book": "A Message to Garcia",
+      "author": "Elbert Hubbard",
+      "original_language": "English",
+      "first_published": "1899",
+      "approximate_sales": "40 million",
+      "genre": "Essay/literature"
+    },
+    {
+      "rank": 5,
+      "book": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "original_language": "English",
+      "first_published": "1960",
+      "approximate_sales": "40 million",
+      "genre": "Southern Gothic, Bildungsroman"
+    },
+    {
+      "rank": 6,
+      "book": "Flowers in the Attic",
+      "author": "V. C. Andrews",
+      "original_language": "English",
+      "first_published": "1979",
+      "approximate_sales": "40 million",
+      "genre": "Gothic horror, family saga"
+    },
+    {
+      "rank": 7,
+      "book": "Cosmos",
+      "author": "Carl Sagan",
+      "original_language": "English",
+      "first_published": "1980",
+      "approximate_sales": "40 million",
+      "genre": "Popular science, anthropology, astrophysics, cosmology, philosophy, history"
+    },
+    {
+      "rank": 8,
+      "book": "Sophie's World ( Sofies verden )",
+      "author": "Jostein Gaarder",
+      "original_language": "Norwegian",
+      "first_published": "1991",
+      "approximate_sales": "40 million",
+      "genre": "Philosophical novel, Young adult"
+    },
+    {
+      "rank": 9,
+      "book": "Angels & Demons",
+      "author": "Dan Brown",
+      "original_language": "English",
+      "first_published": "2000",
+      "approximate_sales": "39 million",
+      "genre": "mystery - thriller"
+    },
+    {
+      "rank": 10,
+      "book": "Alcoholics Anonymous",
+      "author": "William Griffith Wilson",
+      "original_language": "English",
+      "first_published": "1939",
+      "approximate_sales": "over 37 million",
+      "genre": "Self-help"
+    },
+    {
+      "rank": 11,
+      "book": "Kane and Abel",
+      "author": "Jeffrey Archer",
+      "original_language": "English",
+      "first_published": "1979",
+      "approximate_sales": "37 million",
+      "genre": "Novel"
+    },
+    {
+      "rank": 12,
+      "book": "Fear of Flying",
+      "author": "Erica Jong",
+      "original_language": "English",
+      "first_published": "1973",
+      "approximate_sales": "37 million",
+      "genre": "Romantic novel"
+    },
+    {
+      "rank": 13,
+      "book": "How the Steel Was Tempered ( Как закалялась сталь )",
+      "author": "Nikolai Ostrovsky",
+      "original_language": "Russian",
+      "first_published": "1932",
+      "approximate_sales": "36.4 million copies in USSR",
+      "genre": "Socialist realist novel"
+    },
+    {
+      "rank": 14,
+      "book": "War and Peace ( Война и мир )",
+      "author": "Leo Tolstoy",
+      "original_language": "Russian",
+      "first_published": "1869",
+      "approximate_sales": "36 million copies in Russia",
+      "genre": "Historical novel"
+    },
+    {
+      "rank": 15,
+      "book": "The Adventures of Pinocchio ( Le avventure di Pinocchio )",
+      "author": "Carlo Collodi",
+      "original_language": "Italian",
+      "first_published": "1881",
+      "approximate_sales": "35 million",
+      "genre": "Fantasy, children's fiction"
+    },
+    {
+      "rank": 16,
+      "book": "The Diary of Anne Frank ( Het Achterhuis )",
+      "author": "Anne Frank",
+      "original_language": "Dutch",
+      "first_published": "1947",
+      "approximate_sales": "35 million",
+      "genre": "Historical non-fiction, autobiography, memoir, bildungsroman / coming of age, Jewish literature"
+    },
+    {
+      "rank": 17,
+      "book": "Your Erroneous Zones",
+      "author": "Wayne Dyer",
+      "original_language": "English",
+      "first_published": "1976",
+      "approximate_sales": "35 million",
+      "genre": "Self-help"
+    },
+    {
+      "rank": 18,
+      "book": "The Thorn Birds",
+      "author": "Colleen McCullough",
+      "original_language": "English",
+      "first_published": "1977",
+      "approximate_sales": "33 million",
+      "genre": "Romantic family saga"
+    },
+    {
+      "rank": 19,
+      "book": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "original_language": "English",
+      "first_published": "2003",
+      "approximate_sales": "31.5 million",
+      "genre": "Bildungsroman, historical fiction"
+    },
+    {
+      "rank": 20,
+      "book": "Valley of the Dolls",
+      "author": "Jacqueline Susann",
+      "original_language": "English",
+      "first_published": "1966",
+      "approximate_sales": "31 million",
+      "genre": "Novel"
+    },
+    {
+      "rank": 21,
+      "book": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "original_language": "English",
+      "first_published": "1936",
+      "approximate_sales": "Over 30 million",
+      "genre": "Self-help"
+    },
+    {
+      "rank": 22,
+      "book": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "original_language": "English",
+      "first_published": "1925",
+      "approximate_sales": "30 million (\"around\")",
+      "genre": "Novel, tragedy"
+    },
+    {
+      "rank": 23,
+      "book": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "original_language": "English",
+      "first_published": "1936",
+      "approximate_sales": "30 million (est.)",
+      "genre": "Historical fiction"
+    },
+    {
+      "rank": 24,
+      "book": "Rebecca",
+      "author": "Daphne du Maurier",
+      "original_language": "English",
+      "first_published": "1938",
+      "approximate_sales": "30 million (est.)",
+      "genre": "Gothic novel"
+    },
+    {
+      "rank": 25,
+      "book": "The Revolt of Mamie Stover",
+      "author": "William Bradford Huie",
+      "original_language": "English",
+      "first_published": "1951",
+      "approximate_sales": "30 million",
+      "genre": "Fiction"
+    },
+    {
+      "rank": 26,
+      "book": "The Girl with the Dragon Tattoo ( Män som hatar kvinnor )",
+      "author": "Stieg Larsson",
+      "original_language": "Swedish",
+      "first_published": "2005",
+      "approximate_sales": "30 million",
+      "genre": "Fiction"
+    },
+    {
+      "rank": 27,
+      "book": "The Lost Symbol",
+      "author": "Dan Brown",
+      "original_language": "English",
+      "first_published": "2009",
+      "approximate_sales": "30 million",
+      "genre": "Fiction"
+    },
+    {
+      "rank": 28,
+      "book": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "original_language": "English",
+      "first_published": "2008",
+      "approximate_sales": "29 million in US",
+      "genre": "Young adult fiction"
+    },
+    {
+      "rank": 29,
+      "book": "James and the Giant Peach",
+      "author": "Roald Dahl",
+      "original_language": "English",
+      "first_published": "1961",
+      "approximate_sales": "28 million",
+      "genre": "Children's novel"
+    },
+    {
+      "rank": 30,
+      "book": "Ben-Hur: A Tale of the Christ",
+      "author": "Lew Wallace",
+      "original_language": "English",
+      "first_published": "1880",
+      "approximate_sales": "26 million in 1946",
+      "genre": "Novel"
+    },
+    {
+      "rank": 31,
+      "book": "The Young Guard ( Молодая гвардия )",
+      "author": "Alexander Alexandrovich Fadeyev",
+      "original_language": "Russian",
+      "first_published": "1945",
+      "approximate_sales": "26 million copies in USSR",
+      "genre": "Young adult historical novel"
+    },
+    {
+      "rank": 32,
+      "book": "Who Moved My Cheese?",
+      "author": "Spencer Johnson",
+      "original_language": "English",
+      "first_published": "1998",
+      "approximate_sales": "28 – 30 million",
+      "genre": "Self-help, motivational, business fable, psychology, leadership, parable"
+    },
+    {
+      "rank": 33,
+      "book": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "original_language": "English",
+      "first_published": "1988",
+      "approximate_sales": "25 million",
+      "genre": "Popular science"
+    },
+    {
+      "rank": 34,
+      "book": "Paul et Virginie",
+      "author": "Jacques-Henri Bernardin de Saint-Pierre",
+      "original_language": "French",
+      "first_published": "1788",
+      "approximate_sales": "25 million",
+      "genre": "Novel"
+    },
+    {
+      "rank": 35,
+      "book": "Lust for Life",
+      "author": "Irving Stone",
+      "original_language": "English",
+      "first_published": "1934",
+      "approximate_sales": "25 million",
+      "genre": "Biographical novel"
+    },
+    {
+      "rank": 36,
+      "book": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "original_language": "English",
+      "first_published": "1908",
+      "approximate_sales": "25 million",
+      "genre": "Children's literature"
+    },
+    {
+      "rank": 37,
+      "book": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "original_language": "English",
+      "first_published": "1989",
+      "approximate_sales": "25 million",
+      "genre": "Self-help"
+    },
+    {
+      "rank": 38,
+      "book": "Totto-Chan: The Little Girl at the Window (窓ぎわのトットちゃん)",
+      "author": "Tetsuko Kuroyanagi",
+      "original_language": "Japanese",
+      "first_published": "1981",
+      "approximate_sales": "25 million",
+      "genre": "Autobiographical novel"
+    },
+    {
+      "rank": 39,
+      "book": "Virgin Soil Upturned ( Поднятая целина )",
+      "author": "Mikhail Sholokhov",
+      "original_language": "Russian",
+      "first_published": "1935",
+      "approximate_sales": "24 million copies in USSR",
+      "genre": "Novel"
+    },
+    {
+      "rank": 40,
+      "book": "The Celestine Prophecy",
+      "author": "James Redfield",
+      "original_language": "English",
+      "first_published": "1993",
+      "approximate_sales": "23 million",
+      "genre": "New-age spiritual novel"
+    },
+    {
+      "rank": 41,
+      "book": "The Fault in Our Stars",
+      "author": "John Green",
+      "original_language": "English",
+      "first_published": "2012",
+      "approximate_sales": "23 million",
+      "genre": "Young adult romantic novel"
+    },
+    {
+      "rank": 42,
+      "book": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "original_language": "English",
+      "first_published": "2015",
+      "approximate_sales": "23 million",
+      "genre": "Thriller"
+    },
+    {
+      "rank": 43,
+      "book": "The Shack",
+      "author": "William P. Young",
+      "original_language": "English",
+      "first_published": "2007",
+      "approximate_sales": "22.5 million",
+      "genre": "Novel"
+    },
+    {
+      "rank": 44,
+      "book": "Uncle Styopa ( Дядя Стёпа )",
+      "author": "Sergey Mikhalkov",
+      "original_language": "Russian",
+      "first_published": "1936",
+      "approximate_sales": "21 million copies in USSR",
+      "genre": "Children's Literature, picture book"
+    },
+    {
+      "rank": 45,
+      "book": "The Godfather",
+      "author": "Mario Puzo",
+      "original_language": "English",
+      "first_published": "1969",
+      "approximate_sales": "21 million",
+      "genre": "Crime novel"
+    },
+    {
+      "rank": 46,
+      "book": "Love Story",
+      "author": "Erich Segal",
+      "original_language": "English",
+      "first_published": "1970",
+      "approximate_sales": "21 million",
+      "genre": "Romance novel"
+    },
+    {
+      "rank": 47,
+      "book": "Catching Fire",
+      "author": "Suzanne Collins",
+      "original_language": "English",
+      "first_published": "2009",
+      "approximate_sales": "21 million in US",
+      "genre": "Young adult novel, adventure, dystopian, science fiction"
+    },
+    {
+      "rank": 48,
+      "book": "Mockingjay",
+      "author": "Suzanne Collins",
+      "original_language": "English",
+      "first_published": "2010",
+      "approximate_sales": "20 million in US",
+      "genre": "Young Adult novel, adventure, war, science fiction, action thriller"
+    },
+    {
+      "rank": 49,
+      "book": "Kitchen (キッチン)",
+      "author": "Banana Yoshimoto",
+      "original_language": "Japanese",
+      "first_published": "1988",
+      "approximate_sales": "20 million",
+      "genre": "Japanese novel"
+    },
+    {
+      "rank": 50,
+      "book": "Andromeda Nebula ( Туманность Андромеды )",
+      "author": "Ivan Yefremov",
+      "original_language": "Russian",
+      "first_published": "1957",
+      "approximate_sales": "20 million",
+      "genre": "Science fiction novel"
+    },
+    {
+      "rank": 51,
+      "book": "Gone Girl",
+      "author": "Gillian Flynn",
+      "original_language": "English",
+      "first_published": "2012",
+      "approximate_sales": "20 million",
+      "genre": "Crime thriller novel"
+    },
+    {
+      "rank": 52,
+      "book": "The Bermuda Triangle",
+      "author": "Charles Berlitz",
+      "original_language": "English",
+      "first_published": "1974",
+      "approximate_sales": "20 million",
+      "genre": ""
+    },
+    {
+      "rank": 53,
+      "book": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "original_language": "English",
+      "first_published": "1958",
+      "approximate_sales": "20 million",
+      "genre": "Novel"
+    },
+    {
+      "rank": 54,
+      "book": "Wolf Totem (狼图腾)",
+      "author": "Jiang Rong",
+      "original_language": "Chinese",
+      "first_published": "2004",
+      "approximate_sales": "20 million",
+      "genre": "Semi-autobiographical novel"
+    },
+    {
+      "rank": 55,
+      "book": "The Happy Hooker: My Own Story",
+      "author": "Xaviera Hollander",
+      "original_language": "English",
+      "first_published": "1971",
+      "approximate_sales": "20 million",
+      "genre": "Memoir"
+    },
+    {
+      "rank": 56,
+      "book": "Jaws",
+      "author": "Peter Benchley",
+      "original_language": "English",
+      "first_published": "1974",
+      "approximate_sales": "20 million",
+      "genre": "Thriller"
+    },
+    {
+      "rank": 57,
+      "book": "Love You Forever",
+      "author": "Robert Munsch",
+      "original_language": "English",
+      "first_published": "1986",
+      "approximate_sales": "20 million",
+      "genre": "Children's literature, picture book, fiction"
+    },
+    {
+      "rank": 58,
+      "book": "The Women's Room",
+      "author": "Marilyn French",
+      "original_language": "English",
+      "first_published": "1977",
+      "approximate_sales": "20 million",
+      "genre": "Feminist novel"
+    },
+    {
+      "rank": 59,
+      "book": "What to Expect When You're Expecting",
+      "author": "Arlene Eisenberg and Heidi Murkoff",
+      "original_language": "English",
+      "first_published": "1984",
+      "approximate_sales": "20 million",
+      "genre": "Pregnancy guide"
+    },
+    {
+      "rank": 60,
+      "book": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "original_language": "English",
+      "first_published": "1885",
+      "approximate_sales": "20 million",
+      "genre": "Picaresque novel, Bildungsroman, satire, Robinsonade"
+    },
+    {
+      "rank": 61,
+      "book": "The Secret Diary of Adrian Mole, Aged 13¾",
+      "author": "Sue Townsend",
+      "original_language": "English",
+      "first_published": "1982",
+      "approximate_sales": "20 million",
+      "genre": "Young adult novel"
+    },
+    {
+      "rank": 62,
+      "book": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "original_language": "English",
+      "first_published": "1813",
+      "approximate_sales": "20 million",
+      "genre": "Classic regency novel, romance"
+    },
+    {
+      "rank": 63,
+      "book": "Kon-Tiki: Across the Pacific in a Raft ( Kon-Tiki ekspedisjonen )",
+      "author": "Thor Heyerdahl",
+      "original_language": "Norwegian",
+      "first_published": "1950",
+      "approximate_sales": "20 million",
+      "genre": "Travel literature"
+    },
+    {
+      "rank": 64,
+      "book": "The Good Soldier Švejk ( Osudy dobrého vojáka Švejka za světové války )",
+      "author": "Jaroslav Hašek",
+      "original_language": "Czech",
+      "first_published": "1923",
+      "approximate_sales": "20 million (printed)",
+      "genre": "Unfinished satirical dark comedy novel"
+    },
+    {
+      "rank": 65,
+      "book": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "original_language": "English",
+      "first_published": "1963",
+      "approximate_sales": "20 million",
+      "genre": "Children's picture book"
+    },
+    {
+      "rank": 66,
+      "book": "The Power of Positive Thinking",
+      "author": "Norman Vincent Peale",
+      "original_language": "English",
+      "first_published": "1952",
+      "approximate_sales": "20 million",
+      "genre": "Self-help"
+    },
+    {
+      "rank": 67,
+      "book": "The Secret",
+      "author": "Rhonda Byrne",
+      "original_language": "English",
+      "first_published": "2006",
+      "approximate_sales": "20 million",
+      "genre": "Self-help"
+    },
+    {
+      "rank": 68,
+      "book": "Dune",
+      "author": "Frank Herbert",
+      "original_language": "English",
+      "first_published": "1965",
+      "approximate_sales": "20 million",
+      "genre": "Science fiction novel"
+    },
+    {
+      "rank": 69,
+      "book": "Charlie and the Chocolate Factory",
+      "author": "Roald Dahl",
+      "original_language": "English",
+      "first_published": "1964",
+      "approximate_sales": "20 million",
+      "genre": "Children's fantasy novel"
+    },
+    {
+      "rank": 70,
+      "book": "The Naked Ape",
+      "author": "Desmond Morris",
+      "original_language": "English",
+      "first_published": "1968",
+      "approximate_sales": "20 million",
+      "genre": "Social Science, Anthropology, Psychology"
+    },
+    {
+      "rank": 71,
+      "book": "Kokoro (こゝろ)",
+      "author": "Natsume Sōseki",
+      "original_language": "Japanese",
+      "first_published": "1914",
+      "approximate_sales": "20 million (as of 1994)",
+      "genre": "Novel"
+    },
+    {
+      "rank": 1,
+      "book": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "original_language": "English",
+      "first_published": "2018",
+      "approximate_sales": "18 million",
+      "genre": "Coming-of-age, murder mystery"
+    },
+    {
+      "rank": 2,
+      "book": "Follow Your Heart ( Va' dove ti porta il cuore )",
+      "author": "Susanna Tamaro",
+      "original_language": "Italian",
+      "first_published": "1994",
+      "approximate_sales": "18 million",
+      "genre": "Sentimental, epistolary novel"
+    },
+    {
+      "rank": 3,
+      "book": "Matilda",
+      "author": "Roald Dahl",
+      "original_language": "English",
+      "first_published": "1988",
+      "approximate_sales": "17 million",
+      "genre": "Children's literature"
+    },
+    {
+      "rank": 4,
+      "book": "The Book Thief",
+      "author": "Markus Zusak",
+      "original_language": "English",
+      "first_published": "2005",
+      "approximate_sales": "16 million",
+      "genre": "Young adult fiction"
+    },
+    {
+      "rank": 5,
+      "book": "The Horse Whisperer",
+      "author": "Nicholas Evans",
+      "original_language": "English",
+      "first_published": "1995",
+      "approximate_sales": "16 million",
+      "genre": ""
+    },
+    {
+      "rank": 6,
+      "book": "Goodnight Moon",
+      "author": "Margaret Wise Brown",
+      "original_language": "English",
+      "first_published": "1947",
+      "approximate_sales": "16 million",
+      "genre": "Children's literature"
+    },
+    {
+      "rank": 7,
+      "book": "The Neverending Story ( Die unendliche Geschichte )",
+      "author": "Michael Ende",
+      "original_language": "German",
+      "first_published": "1979",
+      "approximate_sales": "16 million",
+      "genre": "Children's literature"
+    },
+    {
+      "rank": 8,
+      "book": "All the Light We Cannot See",
+      "author": "Anthony Doerr",
+      "original_language": "English",
+      "first_published": "2014",
+      "approximate_sales": "15.3 million",
+      "genre": "Historical fiction, war novel"
+    },
+    {
+      "rank": 9,
+      "book": "Fifty Shades of Grey",
+      "author": "E. L. James",
+      "original_language": "English",
+      "first_published": "2011",
+      "approximate_sales": "15.2 million in the U.S.",
+      "genre": "Erotica"
+    },
+    {
+      "rank": 10,
+      "book": "The Outsiders",
+      "author": "S. E. Hinton",
+      "original_language": "English",
+      "first_published": "1967",
+      "approximate_sales": "15 million",
+      "genre": ""
+    },
+    {
+      "rank": 11,
+      "book": "Guess How Much I Love You",
+      "author": "Sam McBratney",
+      "original_language": "English",
+      "first_published": "1994",
+      "approximate_sales": "15 million",
+      "genre": ""
+    },
+    {
+      "rank": 12,
+      "book": "Shōgun",
+      "author": "James Clavell",
+      "original_language": "English",
+      "first_published": "1975",
+      "approximate_sales": "15 million",
+      "genre": ""
+    },
+    {
+      "rank": 13,
+      "book": "The Poky Little Puppy",
+      "author": "Janette Sebring Lowrey",
+      "original_language": "English",
+      "first_published": "1942",
+      "approximate_sales": "15 million",
+      "genre": ""
+    },
+    {
+      "rank": 14,
+      "book": "The Pillars of the Earth",
+      "author": "Ken Follett",
+      "original_language": "English",
+      "first_published": "1989",
+      "approximate_sales": "15 million",
+      "genre": "Historical fiction"
+    },
+    {
+      "rank": 15,
+      "book": "Perfume ( Das Parfum )",
+      "author": "Patrick Süskind",
+      "original_language": "German",
+      "first_published": "1985",
+      "approximate_sales": "15 million",
+      "genre": ""
+    },
+    {
+      "rank": 16,
+      "book": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "original_language": "English",
+      "first_published": "1939",
+      "approximate_sales": "15 million",
+      "genre": ""
+    },
+    {
+      "rank": 17,
+      "book": "The Shadow of the Wind ( La sombra del viento )",
+      "author": "Carlos Ruiz Zafón",
+      "original_language": "Spanish",
+      "first_published": "2001",
+      "approximate_sales": "15 million",
+      "genre": ""
+    },
+    {
+      "rank": 18,
+      "book": "Interpreter of Maladies",
+      "author": "Jhumpa Lahiri",
+      "original_language": "English",
+      "first_published": "2000",
+      "approximate_sales": "15 million",
+      "genre": ""
+    },
+    {
+      "rank": 19,
+      "book": "Becoming",
+      "author": "Michelle Obama",
+      "original_language": "English",
+      "first_published": "2018",
+      "approximate_sales": "14 million",
+      "genre": "Memoir"
+    },
+    {
+      "rank": 20,
+      "book": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "original_language": "English",
+      "first_published": "1979",
+      "approximate_sales": "14 million",
+      "genre": "Science fiction"
+    },
+    {
+      "rank": 21,
+      "book": "Tuesdays with Morrie",
+      "author": "Mitch Albom",
+      "original_language": "English",
+      "first_published": "1997",
+      "approximate_sales": "14 million",
+      "genre": ""
+    },
+    {
+      "rank": 22,
+      "book": "God's Little Acre",
+      "author": "Erskine Caldwell",
+      "original_language": "English",
+      "first_published": "1933",
+      "approximate_sales": "14 million",
+      "genre": ""
+    },
+    {
+      "rank": 23,
+      "book": "A Wrinkle in Time",
+      "author": "Madeleine L'Engle",
+      "original_language": "English",
+      "first_published": "1962",
+      "approximate_sales": "14 million",
+      "genre": ""
+    },
+    {
+      "rank": 24,
+      "book": "Long Walk to Freedom",
+      "author": "Nelson Mandela",
+      "original_language": "English",
+      "first_published": "1994",
+      "approximate_sales": "14 million",
+      "genre": ""
+    },
+    {
+      "rank": 25,
+      "book": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "original_language": "English",
+      "first_published": "1952",
+      "approximate_sales": "13 million",
+      "genre": ""
+    },
+    {
+      "rank": 26,
+      "book": "Life After Life",
+      "author": "Raymond Moody",
+      "original_language": "English",
+      "first_published": "1975",
+      "approximate_sales": "13 million",
+      "genre": ""
+    },
+    {
+      "rank": 27,
+      "book": "Momo",
+      "author": "Michael Ende",
+      "original_language": "German",
+      "first_published": "1973",
+      "approximate_sales": "13 million",
+      "genre": "Children's literature"
+    },
+    {
+      "rank": 28,
+      "book": "Peyton Place",
+      "author": "Grace Metalious",
+      "original_language": "English",
+      "first_published": "1956",
+      "approximate_sales": "12.1 million",
+      "genre": ""
+    },
+    {
+      "rank": 29,
+      "book": "The Giver",
+      "author": "Lois Lowry",
+      "original_language": "English",
+      "first_published": "1993",
+      "approximate_sales": "12 million",
+      "genre": "Dystopian fiction"
+    },
+    {
+      "rank": 30,
+      "book": "Me Before You",
+      "author": "Jojo Moyes",
+      "original_language": "English",
+      "first_published": "2012",
+      "approximate_sales": "12 million",
+      "genre": ""
+    },
+    {
+      "rank": 31,
+      "book": "Norwegian Wood (ノルウェイの森)",
+      "author": "Haruki Murakami",
+      "original_language": "Japanese",
+      "first_published": "1987",
+      "approximate_sales": "12 million",
+      "genre": ""
+    },
+    {
+      "rank": 32,
+      "book": "The Plague ( La Peste )",
+      "author": "Albert Camus",
+      "original_language": "French",
+      "first_published": "1947",
+      "approximate_sales": "12 million",
+      "genre": ""
+    },
+    {
+      "rank": 33,
+      "book": "No Longer Human (人間失格)",
+      "author": "Osamu Dazai",
+      "original_language": "Japanese",
+      "first_published": "1948",
+      "approximate_sales": "12 million",
+      "genre": ""
+    },
+    {
+      "rank": 34,
+      "book": "Man's Search for Meaning ( Ein Psychologe erlebt das Konzentrationslager )",
+      "author": "Viktor Frankl",
+      "original_language": "German",
+      "first_published": "1946",
+      "approximate_sales": "12 million",
+      "genre": ""
+    },
+    {
+      "rank": 35,
+      "book": "The Subtle Art of Not Giving a Fuck",
+      "author": "Mark Manson",
+      "original_language": "English",
+      "first_published": "2016",
+      "approximate_sales": "12 million",
+      "genre": ""
+    },
+    {
+      "rank": 36,
+      "book": "The Divine Comedy ( La Divina Commedia )",
+      "author": "Dante Alighieri",
+      "original_language": "Italian",
+      "first_published": "1304",
+      "approximate_sales": "11–12 million (during the 20th century)",
+      "genre": ""
+    },
+    {
+      "rank": 37,
+      "book": "Hairy Maclary from Donaldson's Dairy",
+      "author": "Lynley Dodd",
+      "original_language": "English",
+      "first_published": "1983",
+      "approximate_sales": "11 million",
+      "genre": "Children's literature, picture book"
+    },
+    {
+      "rank": 38,
+      "book": "The Prophet",
+      "author": "Kahlil Gibran",
+      "original_language": "English",
+      "first_published": "1923",
+      "approximate_sales": "11 million",
+      "genre": ""
+    },
+    {
+      "rank": 39,
+      "book": "The Boy in the Striped Pyjamas",
+      "author": "John Boyne",
+      "original_language": "English",
+      "first_published": "2006",
+      "approximate_sales": "11 million",
+      "genre": ""
+    },
+    {
+      "rank": 40,
+      "book": "The Exorcist",
+      "author": "William Peter Blatty",
+      "original_language": "English",
+      "first_published": "1971",
+      "approximate_sales": "11 million",
+      "genre": "Horror"
+    },
+    {
+      "rank": 41,
+      "book": "The Gruffalo",
+      "author": "Julia Donaldson",
+      "original_language": "English",
+      "first_published": "1999",
+      "approximate_sales": "10.5 million",
+      "genre": "Children's literature, picture book"
+    },
+    {
+      "rank": 42,
+      "book": "Fifty Shades Darker",
+      "author": "E. L. James",
+      "original_language": "English",
+      "first_published": "2012",
+      "approximate_sales": "10.4 million in the U.S.",
+      "genre": "Erotica"
+    },
+    {
+      "rank": 43,
+      "book": "Tobacco Road",
+      "author": "Erskine Caldwell",
+      "original_language": "English",
+      "first_published": "1932",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 44,
+      "book": "Ronia, the Robber's Daughter",
+      "author": "Astrid Lindgren",
+      "original_language": "Swedish",
+      "first_published": "1981",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 45,
+      "book": "The Cat in the Hat",
+      "author": "Dr. Seuss",
+      "original_language": "English",
+      "first_published": "1957",
+      "approximate_sales": "10.5 million",
+      "genre": "Children's literature, picture book"
+    },
+    {
+      "rank": 46,
+      "book": "Diana: Her True Story",
+      "author": "Andrew Morton",
+      "original_language": "English",
+      "first_published": "1992",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 47,
+      "book": "The Help",
+      "author": "Kathryn Stockett",
+      "original_language": "English",
+      "first_published": "2009",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 48,
+      "book": "Catch-22",
+      "author": "Joseph Heller",
+      "original_language": "English",
+      "first_published": "1961",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 49,
+      "book": "The Stranger ( L'Étranger )",
+      "author": "Albert Camus",
+      "original_language": "French",
+      "first_published": "1942",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 50,
+      "book": "Eye of the Needle",
+      "author": "Ken Follett",
+      "original_language": "English",
+      "first_published": "1978",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 51,
+      "book": "The Lovely Bones",
+      "author": "Alice Sebold",
+      "original_language": "English",
+      "first_published": "2002",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 52,
+      "book": "Wild Swans",
+      "author": "Jung Chang",
+      "original_language": "English",
+      "first_published": "1992",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 53,
+      "book": "Santa Evita",
+      "author": "Tomás Eloy Martínez",
+      "original_language": "Spanish",
+      "first_published": "1995",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 54,
+      "book": "Night ( Un di Velt Hot Geshvign )",
+      "author": "Elie Wiesel",
+      "original_language": "Yiddish",
+      "first_published": "1958",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 55,
+      "book": "Confucius from the Heart (于丹《论语》心得)",
+      "author": "Yu Dan",
+      "original_language": "Chinese",
+      "first_published": "2006",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 56,
+      "book": "The Total Woman",
+      "author": "Marabel Morgan",
+      "original_language": "English",
+      "first_published": "1974",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 57,
+      "book": "Knowledge-value Revolution (知価革命)",
+      "author": "Taichi Sakaiya",
+      "original_language": "Japanese",
+      "first_published": "1985",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 58,
+      "book": "Problems in China's Socialist Economy (中国社会主义经济问题研究)",
+      "author": "Xue Muqiao",
+      "original_language": "Chinese",
+      "first_published": "1979",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 59,
+      "book": "What Color Is Your Parachute?",
+      "author": "Richard Nelson Bolles",
+      "original_language": "English",
+      "first_published": "1970",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 60,
+      "book": "The Dukan Diet",
+      "author": "Pierre Dukan",
+      "original_language": "French",
+      "first_published": "2000",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 61,
+      "book": "The Joy of Sex",
+      "author": "Alex Comfort",
+      "original_language": "English",
+      "first_published": "1972",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 62,
+      "book": "The Gospel According to Peanuts",
+      "author": "Robert L. Short",
+      "original_language": "English",
+      "first_published": "1965",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 63,
+      "book": "Life of Pi",
+      "author": "Yann Martel",
+      "original_language": "English",
+      "first_published": "2001",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 64,
+      "book": "The Front Runner",
+      "author": "Patricia Nell Warren",
+      "original_language": "English",
+      "first_published": "1974",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 65,
+      "book": "The Goal",
+      "author": "Eliyahu M. Goldratt",
+      "original_language": "English",
+      "first_published": "1984",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 66,
+      "book": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "original_language": "English",
+      "first_published": "1953",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 67,
+      "book": "Angela's Ashes",
+      "author": "Frank McCourt",
+      "original_language": "English",
+      "first_published": "1996",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 68,
+      "book": "The Story of My Experiments with Truth (સત્યના પ્રયોગો અથવા આત્મકથા)",
+      "author": "Mohandas Karamchand Gandhi",
+      "original_language": "Gujarati",
+      "first_published": "1925–1929",
+      "approximate_sales": "10 million",
+      "genre": ""
+    },
+    {
+      "rank": 69,
+      "book": "Bridget Jones's Diary",
+      "author": "Helen Fielding",
+      "original_language": "English",
+      "first_published": "1996",
+      "approximate_sales": "10 million (as of 2005)",
+      "genre": ""
+    },
+    {
+      "rank": 70,
+      "book": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "original_language": "English",
+      "first_published": "2016",
+      "approximate_sales": "10 million",
+      "genre": "Romance, Fiction"
+    }
+  ]
+}

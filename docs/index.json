@@ -26,6 +26,12 @@
     "category": "Arts & Literature",
     "datasets": [
       {
+        "title": "List of Best-Selling Books Worldwide",
+        "subtitle": "Books, authors, languages, publication years, sales estimates, and genres",
+        "updated_at": "December 05, 2025 07:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/list_of_best_selling_books.json"
+      },
+      {
         "title": "Most Visited Museums in the World",
         "subtitle": "Global ranking of museums by annual visitor count",
         "updated_at": "November 06, 2025 03:52 AM UTC",

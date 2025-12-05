@@ -41,6 +41,8 @@ Each dataset follows this JSON format:
 
 ### Arts & Literature
 
+- [**List of Best-Selling Books Worldwide**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/arts-literature/list_of_best_selling_books.json)  
+  Books, authors, languages, publication years, sales estimates, and genres
 - [**Most Visited Museums in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/arts-literature/most_visited_museums.json)  
   Global ranking of museums by annual visitor count
 - [**Timeline of Western Philosophers**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/arts-literature/timeline_of_western_philosophers.json)  
