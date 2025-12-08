@@ -1,7 +1,7 @@
 {
   "title": "List of Best-Selling Books Worldwide",
   "subtitle": "Books, authors, languages, publication years, sales estimates, and genres",
-  "updated_at": "December 05, 2025 07:59 AM UTC",
+  "updated_at": "December 08, 2025 03:08 AM UTC",
   "data": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     },
     {
       "rank": 2,
-      "book": "The Little Prince ( Le Petit Prince )",
+      "book": "The Little Prince (Le Petit Prince)",
       "author": "Antoine de Saint-Exupéry",
       "original_language": "French",
       "first_published": "1943",
@@ -23,7 +23,7 @@
     },
     {
       "rank": 3,
-      "book": "The Alchemist ( O Alquimista )",
+      "book": "The Alchemist (O Alquimista)",
       "author": "Paulo Coelho",
       "original_language": "Portuguese",
       "first_published": "1988",
@@ -167,7 +167,7 @@
     },
     {
       "rank": 11,
-      "book": "One Hundred Years of Solitude ( Cien años de soledad )",
+      "book": "One Hundred Years of Solitude (Cien años de soledad)",
       "author": "Gabriel García Márquez",
       "original_language": "Spanish",
       "first_published": "1967",
@@ -221,7 +221,7 @@
     },
     {
       "rank": 17,
-      "book": "The Name of the Rose ( Il Nome della Rosa )",
+      "book": "The Name of the Rose (Il Nome della Rosa)",
       "author": "Umberto Eco",
       "original_language": "Italian",
       "first_published": "1980",
@@ -347,7 +347,7 @@
     },
     {
       "rank": 8,
-      "book": "Sophie's World ( Sofies verden )",
+      "book": "Sophie's World (Sofies verden)",
       "author": "Jostein Gaarder",
       "original_language": "Norwegian",
       "first_published": "1991",
@@ -361,7 +361,7 @@
       "original_language": "English",
       "first_published": "2000",
       "approximate_sales": "39 million",
-      "genre": "mystery - thriller"
+      "genre": "mystery-thriller"
     },
     {
       "rank": 10,
@@ -392,7 +392,7 @@
     },
     {
       "rank": 13,
-      "book": "How the Steel Was Tempered ( Как закалялась сталь )",
+      "book": "How the Steel Was Tempered (Как закалялась сталь)",
       "author": "Nikolai Ostrovsky",
       "original_language": "Russian",
       "first_published": "1932",
@@ -401,7 +401,7 @@
     },
     {
       "rank": 14,
-      "book": "War and Peace ( Война и мир )",
+      "book": "War and Peace (Война и мир)",
       "author": "Leo Tolstoy",
       "original_language": "Russian",
       "first_published": "1869",
@@ -410,7 +410,7 @@
     },
     {
       "rank": 15,
-      "book": "The Adventures of Pinocchio ( Le avventure di Pinocchio )",
+      "book": "The Adventures of Pinocchio (Le avventure di Pinocchio)",
       "author": "Carlo Collodi",
       "original_language": "Italian",
       "first_published": "1881",
@@ -419,7 +419,7 @@
     },
     {
       "rank": 16,
-      "book": "The Diary of Anne Frank ( Het Achterhuis )",
+      "book": "The Diary of Anne Frank (Het Achterhuis)",
       "author": "Anne Frank",
       "original_language": "Dutch",
       "first_published": "1947",
@@ -509,7 +509,7 @@
     },
     {
       "rank": 26,
-      "book": "The Girl with the Dragon Tattoo ( Män som hatar kvinnor )",
+      "book": "The Girl with the Dragon Tattoo (Män som hatar kvinnor)",
       "author": "Stieg Larsson",
       "original_language": "Swedish",
       "first_published": "2005",
@@ -554,7 +554,7 @@
     },
     {
       "rank": 31,
-      "book": "The Young Guard ( Молодая гвардия )",
+      "book": "The Young Guard (Молодая гвардия)",
       "author": "Alexander Alexandrovich Fadeyev",
       "original_language": "Russian",
       "first_published": "1945",
@@ -626,7 +626,7 @@
     },
     {
       "rank": 39,
-      "book": "Virgin Soil Upturned ( Поднятая целина )",
+      "book": "Virgin Soil Upturned (Поднятая целина)",
       "author": "Mikhail Sholokhov",
       "original_language": "Russian",
       "first_published": "1935",
@@ -671,7 +671,7 @@
     },
     {
       "rank": 44,
-      "book": "Uncle Styopa ( Дядя Стёпа )",
+      "book": "Uncle Styopa (Дядя Стёпа)",
       "author": "Sergey Mikhalkov",
       "original_language": "Russian",
       "first_published": "1936",
@@ -725,7 +725,7 @@
     },
     {
       "rank": 50,
-      "book": "Andromeda Nebula ( Туманность Андромеды )",
+      "book": "Andromeda Nebula (Туманность Андромеды)",
       "author": "Ivan Yefremov",
       "original_language": "Russian",
       "first_published": "1957",
@@ -842,7 +842,7 @@
     },
     {
       "rank": 63,
-      "book": "Kon-Tiki: Across the Pacific in a Raft ( Kon-Tiki ekspedisjonen )",
+      "book": "Kon-Tiki: Across the Pacific in a Raft (Kon-Tiki ekspedisjonen)",
       "author": "Thor Heyerdahl",
       "original_language": "Norwegian",
       "first_published": "1950",
@@ -851,7 +851,7 @@
     },
     {
       "rank": 64,
-      "book": "The Good Soldier Švejk ( Osudy dobrého vojáka Švejka za světové války )",
+      "book": "The Good Soldier Švejk (Osudy dobrého vojáka Švejka za světové války)",
       "author": "Jaroslav Hašek",
       "original_language": "Czech",
       "first_published": "1923",
@@ -932,7 +932,7 @@
     },
     {
       "rank": 2,
-      "book": "Follow Your Heart ( Va' dove ti porta il cuore )",
+      "book": "Follow Your Heart (Va' dove ti porta il cuore)",
       "author": "Susanna Tamaro",
       "original_language": "Italian",
       "first_published": "1994",
@@ -977,7 +977,7 @@
     },
     {
       "rank": 7,
-      "book": "The Neverending Story ( Die unendliche Geschichte )",
+      "book": "The Neverending Story (Die unendliche Geschichte)",
       "author": "Michael Ende",
       "original_language": "German",
       "first_published": "1979",
@@ -1049,7 +1049,7 @@
     },
     {
       "rank": 15,
-      "book": "Perfume ( Das Parfum )",
+      "book": "Perfume (Das Parfum)",
       "author": "Patrick Süskind",
       "original_language": "German",
       "first_published": "1985",
@@ -1067,7 +1067,7 @@
     },
     {
       "rank": 17,
-      "book": "The Shadow of the Wind ( La sombra del viento )",
+      "book": "The Shadow of the Wind (La sombra del viento)",
       "author": "Carlos Ruiz Zafón",
       "original_language": "Spanish",
       "first_published": "2001",
@@ -1202,7 +1202,7 @@
     },
     {
       "rank": 32,
-      "book": "The Plague ( La Peste )",
+      "book": "The Plague (La Peste)",
       "author": "Albert Camus",
       "original_language": "French",
       "first_published": "1947",
@@ -1220,7 +1220,7 @@
     },
     {
       "rank": 34,
-      "book": "Man's Search for Meaning ( Ein Psychologe erlebt das Konzentrationslager )",
+      "book": "Man's Search for Meaning (Ein Psychologe erlebt das Konzentrationslager)",
       "author": "Viktor Frankl",
       "original_language": "German",
       "first_published": "1946",
@@ -1238,11 +1238,11 @@
     },
     {
       "rank": 36,
-      "book": "The Divine Comedy ( La Divina Commedia )",
+      "book": "The Divine Comedy (La Divina Commedia)",
       "author": "Dante Alighieri",
       "original_language": "Italian",
       "first_published": "1304",
-      "approximate_sales": "11–12 million (during the 20th century)",
+      "approximate_sales": "11–12 million(during the 20th century)",
       "genre": ""
     },
     {
@@ -1355,7 +1355,7 @@
     },
     {
       "rank": 49,
-      "book": "The Stranger ( L'Étranger )",
+      "book": "The Stranger (L'Étranger)",
       "author": "Albert Camus",
       "original_language": "French",
       "first_published": "1942",
@@ -1400,7 +1400,7 @@
     },
     {
       "rank": 54,
-      "book": "Night ( Un di Velt Hot Geshvign )",
+      "book": "Night (Un di Velt Hot Geshvign)",
       "author": "Elie Wiesel",
       "original_language": "Yiddish",
       "first_published": "1958",

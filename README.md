@@ -202,6 +202,8 @@ Each dataset follows this JSON format:
   Major international airports ranked by total passenger traffic, location, and year-over-year change
 - [**Countries by Rail Transport Network Size**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/countries_by_rail_transport_network_size.json)  
   Railway length, electrification, density, ownership, and related statistics by country
+- [**History of the World's Tallest Man-Made Structures**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/history_of_tallest_structures.json)  
+  A chronological list of the tallest land-supported man-made structures throughout history.
 - [**Global Road Network Size by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/largest_road_networks_by_country.json)  
   Comparison of total road lengths by country, measured in kilometers, based on 2025 data
 - [**World’s Longest Bridges**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/list_of_longest_bridges.json)  

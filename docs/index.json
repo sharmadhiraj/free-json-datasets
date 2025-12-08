@@ -28,7 +28,7 @@
       {
         "title": "List of Best-Selling Books Worldwide",
         "subtitle": "Books, authors, languages, publication years, sales estimates, and genres",
-        "updated_at": "December 05, 2025 07:59 AM UTC",
+        "updated_at": "December 08, 2025 03:08 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/list_of_best_selling_books.json"
       },
       {
@@ -447,6 +447,12 @@
         "subtitle": "Railway length, electrification, density, ownership, and related statistics by country",
         "updated_at": "October 15, 2025 10:41 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/countries_by_rail_transport_network_size.json"
+      },
+      {
+        "title": "History of the World's Tallest Man-Made Structures",
+        "subtitle": "A chronological list of the tallest land-supported man-made structures throughout history.",
+        "updated_at": "December 08, 2025 03:22 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/history_of_tallest_structures.json"
       },
       {
         "title": "Global Road Network Size by Country (2025)",
