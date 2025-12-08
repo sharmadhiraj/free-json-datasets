@@ -118,6 +118,8 @@ Each dataset follows this JSON format:
   Coastline lengths (km) by country, with CIA/WRI estimates, land area, and coastline-to-area ratios.
 - [**Highest Mountains on Earth**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_highest_mountains_on_earth.json)  
   A ranked list of the world's tallest mountains with key geographic details.
+- [**Largest Lakes by Surface Area**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_lakes_by_area.json)  
+  Major terrestrial lakes over 3,000 km², ranked by area.
 - [**Longest Rivers in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/longest_rivers.json)  
   Details of the world's longest rivers, including length, outflow, and countries sharing the basin
 - [**Global Water Stress Rankings (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/water_stress_by_country.json)  
