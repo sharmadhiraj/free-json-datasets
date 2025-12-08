@@ -1,0 +1,287 @@
+{
+  "title": "Global Military Expenditure Rankings",
+  "subtitle": "Top countries by military spending based on the 2024 SIPRI Military Expenditure Database.",
+  "updated_at": "December 08, 2025 04:49 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "country": "United States",
+      "spending_usd_billions": "997.0",
+      "percentage_of_gdp": "3.4",
+      "percentage_of_global_spending": "37.0"
+    },
+    {
+      "rank": "2",
+      "country": "China",
+      "spending_usd_billions": "314.0",
+      "percentage_of_gdp": "1.7",
+      "percentage_of_global_spending": "12.0"
+    },
+    {
+      "rank": "3",
+      "country": "Russia",
+      "spending_usd_billions": "149.0",
+      "percentage_of_gdp": "7.1",
+      "percentage_of_global_spending": "5.5"
+    },
+    {
+      "rank": "4",
+      "country": "Germany",
+      "spending_usd_billions": "88.5",
+      "percentage_of_gdp": "1.9",
+      "percentage_of_global_spending": "3.3"
+    },
+    {
+      "rank": "5",
+      "country": "India",
+      "spending_usd_billions": "86.1",
+      "percentage_of_gdp": "2.3",
+      "percentage_of_global_spending": "3.2"
+    },
+    {
+      "rank": "6",
+      "country": "United Kingdom",
+      "spending_usd_billions": "81.8",
+      "percentage_of_gdp": "2.3",
+      "percentage_of_global_spending": "3.0"
+    },
+    {
+      "rank": "7",
+      "country": "Saudi Arabia",
+      "spending_usd_billions": "80.3",
+      "percentage_of_gdp": "7.3",
+      "percentage_of_global_spending": "3.0"
+    },
+    {
+      "rank": "8",
+      "country": "Ukraine",
+      "spending_usd_billions": "64.7",
+      "percentage_of_gdp": "34.0",
+      "percentage_of_global_spending": "2.4"
+    },
+    {
+      "rank": "9",
+      "country": "France",
+      "spending_usd_billions": "64.7",
+      "percentage_of_gdp": "2.1",
+      "percentage_of_global_spending": "2.4"
+    },
+    {
+      "rank": "10",
+      "country": "Japan",
+      "spending_usd_billions": "55.3",
+      "percentage_of_gdp": "1.4",
+      "percentage_of_global_spending": "2.0"
+    },
+    {
+      "rank": "11",
+      "country": "South Korea",
+      "spending_usd_billions": "47.6",
+      "percentage_of_gdp": "2.6",
+      "percentage_of_global_spending": "1.8"
+    },
+    {
+      "rank": "12",
+      "country": "Israel",
+      "spending_usd_billions": "46.5",
+      "percentage_of_gdp": "8.8",
+      "percentage_of_global_spending": "1.7"
+    },
+    {
+      "rank": "13",
+      "country": "Poland",
+      "spending_usd_billions": "38.0",
+      "percentage_of_gdp": "4.2",
+      "percentage_of_global_spending": "1.4"
+    },
+    {
+      "rank": "14",
+      "country": "Italy",
+      "spending_usd_billions": "38.0",
+      "percentage_of_gdp": "1.6",
+      "percentage_of_global_spending": "1.4"
+    },
+    {
+      "rank": "15",
+      "country": "Australia",
+      "spending_usd_billions": "33.8",
+      "percentage_of_gdp": "1.9",
+      "percentage_of_global_spending": "1.2"
+    },
+    {
+      "rank": "16",
+      "country": "Canada",
+      "spending_usd_billions": "29.3",
+      "percentage_of_gdp": "1.3",
+      "percentage_of_global_spending": "1.1"
+    },
+    {
+      "rank": "17",
+      "country": "Turkey",
+      "spending_usd_billions": "25.0",
+      "percentage_of_gdp": "1.9",
+      "percentage_of_global_spending": "1.0"
+    },
+    {
+      "rank": "18",
+      "country": "Spain",
+      "spending_usd_billions": "24.6",
+      "percentage_of_gdp": "1.4",
+      "percentage_of_global_spending": "0.9"
+    },
+    {
+      "rank": "19",
+      "country": "Netherlands",
+      "spending_usd_billions": "23.2",
+      "percentage_of_gdp": "1.9",
+      "percentage_of_global_spending": "0.7"
+    },
+    {
+      "rank": "20",
+      "country": "Algeria",
+      "spending_usd_billions": "21.8",
+      "percentage_of_gdp": "8.0",
+      "percentage_of_global_spending": "0.7"
+    },
+    {
+      "rank": "21",
+      "country": "Brazil",
+      "spending_usd_billions": "20.9",
+      "percentage_of_gdp": "1.0",
+      "percentage_of_global_spending": "0.7"
+    },
+    {
+      "rank": "22",
+      "country": "Mexico",
+      "spending_usd_billions": "16.7",
+      "percentage_of_gdp": "0.9",
+      "percentage_of_global_spending": "0.6"
+    },
+    {
+      "rank": "23",
+      "country": "Taiwan",
+      "spending_usd_billions": "16.5",
+      "percentage_of_gdp": "2.1",
+      "percentage_of_global_spending": "0.5"
+    },
+    {
+      "rank": "24",
+      "country": "Colombia",
+      "spending_usd_billions": "15.1",
+      "percentage_of_gdp": "3.4",
+      "percentage_of_global_spending": "0.5"
+    },
+    {
+      "rank": "25",
+      "country": "Singapore",
+      "spending_usd_billions": "15.1",
+      "percentage_of_gdp": "2.8",
+      "percentage_of_global_spending": "0.4"
+    },
+    {
+      "rank": "26",
+      "country": "Sweden",
+      "spending_usd_billions": "12.0",
+      "percentage_of_gdp": "2.0",
+      "percentage_of_global_spending": "0.4"
+    },
+    {
+      "rank": "27",
+      "country": "Indonesia",
+      "spending_usd_billions": "11.0",
+      "percentage_of_gdp": "0.8",
+      "percentage_of_global_spending": "0.4"
+    },
+    {
+      "rank": "28",
+      "country": "Norway",
+      "spending_usd_billions": "10.4",
+      "percentage_of_gdp": "2.1",
+      "percentage_of_global_spending": "0.4"
+    },
+    {
+      "rank": "29",
+      "country": "Pakistan",
+      "spending_usd_billions": "10.2",
+      "percentage_of_gdp": "2.7",
+      "percentage_of_global_spending": "0.4"
+    },
+    {
+      "rank": "30",
+      "country": "Denmark",
+      "spending_usd_billions": "10.0",
+      "percentage_of_gdp": "2.4",
+      "percentage_of_global_spending": "0.3"
+    },
+    {
+      "rank": "31",
+      "country": "Romania",
+      "spending_usd_billions": "8.7",
+      "percentage_of_gdp": "2.3",
+      "percentage_of_global_spending": "0.3"
+    },
+    {
+      "rank": "32",
+      "country": "Belgium",
+      "spending_usd_billions": "8.6",
+      "percentage_of_gdp": "1.3",
+      "percentage_of_global_spending": "0.3"
+    },
+    {
+      "rank": "33",
+      "country": "Greece",
+      "spending_usd_billions": "8.0",
+      "percentage_of_gdp": "3.1",
+      "percentage_of_global_spending": "0.3"
+    },
+    {
+      "rank": "34",
+      "country": "Iran",
+      "spending_usd_billions": "7.9",
+      "percentage_of_gdp": "2.0",
+      "percentage_of_global_spending": "0.3"
+    },
+    {
+      "rank": "35",
+      "country": "Kuwait",
+      "spending_usd_billions": "7.8",
+      "percentage_of_gdp": "4.8",
+      "percentage_of_global_spending": "0.3"
+    },
+    {
+      "rank": "36",
+      "country": "Finland",
+      "spending_usd_billions": "7.0",
+      "percentage_of_gdp": "2.3",
+      "percentage_of_global_spending": "0.3"
+    },
+    {
+      "rank": "37",
+      "country": "Switzerland",
+      "spending_usd_billions": "6.7",
+      "percentage_of_gdp": "0.7",
+      "percentage_of_global_spending": "0.2"
+    },
+    {
+      "rank": "38",
+      "country": "Czechia",
+      "spending_usd_billions": "6.5",
+      "percentage_of_gdp": "1.9",
+      "percentage_of_global_spending": "0.2"
+    },
+    {
+      "rank": "39",
+      "country": "Iraq",
+      "spending_usd_billions": "6.2",
+      "percentage_of_gdp": "2.4",
+      "percentage_of_global_spending": "0.2"
+    },
+    {
+      "rank": "40",
+      "country": "Philippines",
+      "spending_usd_billions": "6.1",
+      "percentage_of_gdp": "1.3",
+      "percentage_of_global_spending": "0.2"
+    }
+  ]
+}
