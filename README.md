@@ -87,6 +87,8 @@ Each dataset follows this JSON format:
   Annual inflation rates for each country from 2015 to 2024
 - [**NEPSE Listed Companies**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/nepse_listed_companies.json)  
   List of all companies listed on NEPSE with their shares, paid-up value, and sector
+- [**S&P 500 Historical Performance**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/sp500_historical_performance.json)  
+  Annual index changes, total returns, and long-term annualized performance
 
 ### Education & Knowledge
 

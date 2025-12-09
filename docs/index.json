@@ -146,6 +146,12 @@
         "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
         "updated_at": "August 20, 2025 09:42 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/nepse_listed_companies.json"
+      },
+      {
+        "title": "S&P 500 Historical Performance",
+        "subtitle": "Annual index changes, total returns, and long-term annualized performance",
+        "updated_at": "December 09, 2025 02:08 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/sp500_historical_performance.json"
       }
     ]
   },
