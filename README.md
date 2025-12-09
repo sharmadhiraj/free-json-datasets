@@ -134,6 +134,11 @@ Each dataset follows this JSON format:
 - [**Global Vaccination Rates by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/health-medicine/vaccination_rates_by_country.json)  
   BCG, DTP3, HIB3, MCV1, POL3, and YFV vaccination coverage by country in 2025.
 
+### History & Culture
+
+- [**UNESCO World Heritage Sites by Country**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/history-culture/world_heritage_sites_by_country.json)  
+  Country-wise count of cultural, natural, and mixed UNESCO World Heritage Sites
+
 ### Miscellaneous / General Data
 
 - [**ISO 3166 Country Codes**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/misc-general/iso_3166_country_codes.json)  

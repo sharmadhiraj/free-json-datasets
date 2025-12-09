@@ -1,0 +1,1546 @@
+{
+  "title": "UNESCO World Heritage Sites by Country",
+  "subtitle": "Country-wise count of cultural, natural, and mixed UNESCO World Heritage Sites",
+  "updated_at": "December 09, 2025 12:51 PM UTC",
+  "data": [
+    {
+      "country": "Afghanistan",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Albania",
+      "cultural_sites": "2",
+      "natural_sites": "1",
+      "mixed_sites": "1",
+      "total_sites": "4",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Algeria",
+      "cultural_sites": "6",
+      "natural_sites": "",
+      "mixed_sites": "1",
+      "total_sites": "7",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Andorra",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Angola",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Argentina",
+      "cultural_sites": "7",
+      "natural_sites": "5",
+      "mixed_sites": "",
+      "total_sites": "12",
+      "shared_sites": "3",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Armenia",
+      "cultural_sites": "3",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Australia",
+      "cultural_sites": "5",
+      "natural_sites": "12",
+      "mixed_sites": "4",
+      "total_sites": "21",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Austria",
+      "cultural_sites": "11",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "12",
+      "shared_sites": "5",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Azerbaijan",
+      "cultural_sites": "4",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Bahrain",
+      "cultural_sites": "3",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Bangladesh",
+      "cultural_sites": "2",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Barbados",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Belarus",
+      "cultural_sites": "3",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "4",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Belgium",
+      "cultural_sites": "15",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "16",
+      "shared_sites": "6",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Belize",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Benin",
+      "cultural_sites": "2",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "2",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Bolivia",
+      "cultural_sites": "6",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "7",
+      "shared_sites": "1",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "cultural_sites": "3",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Botswana",
+      "cultural_sites": "1",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Brazil",
+      "cultural_sites": "15",
+      "natural_sites": "9",
+      "mixed_sites": "1",
+      "total_sites": "25",
+      "shared_sites": "1",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Bulgaria",
+      "cultural_sites": "7",
+      "natural_sites": "3",
+      "mixed_sites": "",
+      "total_sites": "10",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Burkina Faso",
+      "cultural_sites": "3",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "4",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Cambodia",
+      "cultural_sites": "5",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Cameroon",
+      "cultural_sites": "1",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Canada",
+      "cultural_sites": "10",
+      "natural_sites": "11",
+      "mixed_sites": "1",
+      "total_sites": "22",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Cape Verde",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Central African Republic",
+      "cultural_sites": "",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Chad",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "1",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Chile",
+      "cultural_sites": "7",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "7",
+      "shared_sites": "1",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "China",
+      "cultural_sites": "41",
+      "natural_sites": "15",
+      "mixed_sites": "4",
+      "total_sites": "60",
+      "shared_sites": "1",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Colombia",
+      "cultural_sites": "6",
+      "natural_sites": "2",
+      "mixed_sites": "1",
+      "total_sites": "9",
+      "shared_sites": "1",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Costa Rica",
+      "cultural_sites": "1",
+      "natural_sites": "3",
+      "mixed_sites": "",
+      "total_sites": "4",
+      "shared_sites": "1",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Côte d'Ivoire",
+      "cultural_sites": "2",
+      "natural_sites": "3",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Croatia",
+      "cultural_sites": "8",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "10",
+      "shared_sites": "3",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Cuba",
+      "cultural_sites": "7",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "9",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Cyprus",
+      "cultural_sites": "3",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Czech Republic",
+      "cultural_sites": "16",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "17",
+      "shared_sites": "3",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "cultural_sites": "",
+      "natural_sites": "5",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Denmark",
+      "cultural_sites": "8",
+      "natural_sites": "4",
+      "mixed_sites": "",
+      "total_sites": "12",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Dominica",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Dominican Republic",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Ecuador",
+      "cultural_sites": "3",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "1",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Egypt",
+      "cultural_sites": "6",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "7",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "El Salvador",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Eritrea",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Estonia",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Ethiopia",
+      "cultural_sites": "10",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "12",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Fiji",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Finland",
+      "cultural_sites": "6",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "7",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "France",
+      "cultural_sites": "45",
+      "natural_sites": "7",
+      "mixed_sites": "2",
+      "total_sites": "54",
+      "shared_sites": "7",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Gabon",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "1",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Gambia",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Georgia",
+      "cultural_sites": "3",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "4",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Germany",
+      "cultural_sites": "52",
+      "natural_sites": "3",
+      "mixed_sites": "",
+      "total_sites": "55",
+      "shared_sites": "11",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Ghana",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Greece",
+      "cultural_sites": "18",
+      "natural_sites": "",
+      "mixed_sites": "2",
+      "total_sites": "20",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Guatemala",
+      "cultural_sites": "3",
+      "natural_sites": "",
+      "mixed_sites": "1",
+      "total_sites": "4",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Guinea",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Haiti",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Honduras",
+      "cultural_sites": "1",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Hungary",
+      "cultural_sites": "7",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "8",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Iceland",
+      "cultural_sites": "1",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "India",
+      "cultural_sites": "36",
+      "natural_sites": "7",
+      "mixed_sites": "1",
+      "total_sites": "44",
+      "shared_sites": "1",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Indonesia",
+      "cultural_sites": "6",
+      "natural_sites": "4",
+      "mixed_sites": "",
+      "total_sites": "10",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Iran",
+      "cultural_sites": "27",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "29",
+      "shared_sites": "1",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Iraq",
+      "cultural_sites": "5",
+      "natural_sites": "",
+      "mixed_sites": "1",
+      "total_sites": "6",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Ireland",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Israel",
+      "cultural_sites": "9",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "9",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Italy",
+      "cultural_sites": "55",
+      "natural_sites": "6",
+      "mixed_sites": "",
+      "total_sites": "61",
+      "shared_sites": "7",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Jamaica",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "1",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Japan",
+      "cultural_sites": "21",
+      "natural_sites": "5",
+      "mixed_sites": "",
+      "total_sites": "26",
+      "shared_sites": "1",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Jerusalem (proposed by Jordan)",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Jordan",
+      "cultural_sites": "6",
+      "natural_sites": "",
+      "mixed_sites": "1",
+      "total_sites": "7",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Kazakhstan",
+      "cultural_sites": "3",
+      "natural_sites": "3",
+      "mixed_sites": "",
+      "total_sites": "6",
+      "shared_sites": "3",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Kenya",
+      "cultural_sites": "5",
+      "natural_sites": "3",
+      "mixed_sites": "",
+      "total_sites": "8",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Kiribati",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "cultural_sites": "2",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "2",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Laos",
+      "cultural_sites": "3",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Latvia",
+      "cultural_sites": "3",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Lebanon",
+      "cultural_sites": "6",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "6",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Lesotho",
+      "cultural_sites": "",
+      "natural_sites": "",
+      "mixed_sites": "1",
+      "total_sites": "1",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Libya",
+      "cultural_sites": "5",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Lithuania",
+      "cultural_sites": "5",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Luxembourg",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Madagascar",
+      "cultural_sites": "1",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Malawi",
+      "cultural_sites": "2",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Malaysia",
+      "cultural_sites": "4",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "6",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Mali",
+      "cultural_sites": "3",
+      "natural_sites": "",
+      "mixed_sites": "1",
+      "total_sites": "4",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Malta",
+      "cultural_sites": "3",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Marshall Islands",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Mauritania",
+      "cultural_sites": "1",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Mauritius",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Mexico",
+      "cultural_sites": "28",
+      "natural_sites": "6",
+      "mixed_sites": "2",
+      "total_sites": "36",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Moldova",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Micronesia",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Mongolia",
+      "cultural_sites": "4",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "6",
+      "shared_sites": "2",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Montenegro",
+      "cultural_sites": "3",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "4",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Morocco",
+      "cultural_sites": "9",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "9",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Mozambique",
+      "cultural_sites": "1",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Myanmar",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Namibia",
+      "cultural_sites": "1",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Nepal",
+      "cultural_sites": "2",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "4",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Netherlands",
+      "cultural_sites": "12",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "13",
+      "shared_sites": "3",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "New Zealand",
+      "cultural_sites": "",
+      "natural_sites": "2",
+      "mixed_sites": "1",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Nicaragua",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Niger",
+      "cultural_sites": "1",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Nigeria",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "North Korea",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "1",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "North Macedonia",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "1",
+      "total_sites": "2",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Norway",
+      "cultural_sites": "7",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "8",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Oman",
+      "cultural_sites": "5",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Pakistan",
+      "cultural_sites": "6",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "6",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Palau",
+      "cultural_sites": "",
+      "natural_sites": "",
+      "mixed_sites": "1",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Palestine",
+      "cultural_sites": "5",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Panama",
+      "cultural_sites": "3",
+      "natural_sites": "3",
+      "mixed_sites": "",
+      "total_sites": "6",
+      "shared_sites": "1",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Papua New Guinea",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Paraguay",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Peru",
+      "cultural_sites": "9",
+      "natural_sites": "2",
+      "mixed_sites": "2",
+      "total_sites": "13",
+      "shared_sites": "1",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Philippines",
+      "cultural_sites": "3",
+      "natural_sites": "3",
+      "mixed_sites": "",
+      "total_sites": "6",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Poland",
+      "cultural_sites": "15",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "17",
+      "shared_sites": "4",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Portugal",
+      "cultural_sites": "16",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "17",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Qatar",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Republic of the Congo",
+      "cultural_sites": "",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Romania",
+      "cultural_sites": "9",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "11",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Russia",
+      "cultural_sites": "22",
+      "natural_sites": "11",
+      "mixed_sites": "",
+      "total_sites": "33",
+      "shared_sites": "4",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Rwanda",
+      "cultural_sites": "1",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Saint Lucia",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "San Marino",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Saudi Arabia",
+      "cultural_sites": "7",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "8",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Senegal",
+      "cultural_sites": "5",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "7",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Serbia",
+      "cultural_sites": "5",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Seychelles",
+      "cultural_sites": "",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Sierra Leone",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Singapore",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Slovakia",
+      "cultural_sites": "6",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "8",
+      "shared_sites": "3",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Slovenia",
+      "cultural_sites": "3",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "3",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Solomon Islands",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "South Africa",
+      "cultural_sites": "7",
+      "natural_sites": "4",
+      "mixed_sites": "1",
+      "total_sites": "12",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "South Korea",
+      "cultural_sites": "15",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "17",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Spain",
+      "cultural_sites": "44",
+      "natural_sites": "4",
+      "mixed_sites": "2",
+      "total_sites": "50",
+      "shared_sites": "4",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Sri Lanka",
+      "cultural_sites": "6",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "8",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Sudan",
+      "cultural_sites": "2",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Suriname",
+      "cultural_sites": "2",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Sweden",
+      "cultural_sites": "13",
+      "natural_sites": "1",
+      "mixed_sites": "1",
+      "total_sites": "15",
+      "shared_sites": "2",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Switzerland",
+      "cultural_sites": "9",
+      "natural_sites": "4",
+      "mixed_sites": "",
+      "total_sites": "13",
+      "shared_sites": "5",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Syria",
+      "cultural_sites": "6",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "6",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Tajikistan",
+      "cultural_sites": "3",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "1",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Tanzania",
+      "cultural_sites": "3",
+      "natural_sites": "3",
+      "mixed_sites": "1",
+      "total_sites": "7",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Thailand",
+      "cultural_sites": "5",
+      "natural_sites": "3",
+      "mixed_sites": "",
+      "total_sites": "8",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Togo",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Tunisia",
+      "cultural_sites": "8",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "9",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Turkey",
+      "cultural_sites": "20",
+      "natural_sites": "",
+      "mixed_sites": "2",
+      "total_sites": "22",
+      "shared_sites": "",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Turkmenistan",
+      "cultural_sites": "4",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "2",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Uganda",
+      "cultural_sites": "1",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Ukraine",
+      "cultural_sites": "7",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "8",
+      "shared_sites": "3",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "United Arab Emirates",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "United Kingdom",
+      "cultural_sites": "29",
+      "natural_sites": "5",
+      "mixed_sites": "1",
+      "total_sites": "35",
+      "shared_sites": "3",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "United States",
+      "cultural_sites": "13",
+      "natural_sites": "12",
+      "mixed_sites": "1",
+      "total_sites": "26",
+      "shared_sites": "3",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Uruguay",
+      "cultural_sites": "3",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Uzbekistan",
+      "cultural_sites": "5",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "7",
+      "shared_sites": "3",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Vanuatu",
+      "cultural_sites": "1",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Vatican City",
+      "cultural_sites": "2",
+      "natural_sites": "",
+      "mixed_sites": "",
+      "total_sites": "2",
+      "shared_sites": "1",
+      "unesco_region": "Europe and North America"
+    },
+    {
+      "country": "Venezuela",
+      "cultural_sites": "2",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "3",
+      "shared_sites": "",
+      "unesco_region": "Latin America & the Caribbean"
+    },
+    {
+      "country": "Vietnam",
+      "cultural_sites": "6",
+      "natural_sites": "2",
+      "mixed_sites": "1",
+      "total_sites": "9",
+      "shared_sites": "",
+      "unesco_region": "Asia and the Pacific"
+    },
+    {
+      "country": "Yemen",
+      "cultural_sites": "4",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "",
+      "unesco_region": "Arab States"
+    },
+    {
+      "country": "Zambia",
+      "cultural_sites": "",
+      "natural_sites": "1",
+      "mixed_sites": "",
+      "total_sites": "1",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    },
+    {
+      "country": "Zimbabwe",
+      "cultural_sites": "3",
+      "natural_sites": "2",
+      "mixed_sites": "",
+      "total_sites": "5",
+      "shared_sites": "1",
+      "unesco_region": "Africa"
+    }
+  ]
+}

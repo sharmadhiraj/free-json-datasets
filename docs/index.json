@@ -272,6 +272,17 @@
     ]
   },
   {
+    "category": "History & Culture",
+    "datasets": [
+      {
+        "title": "UNESCO World Heritage Sites by Country",
+        "subtitle": "Country-wise count of cultural, natural, and mixed UNESCO World Heritage Sites",
+        "updated_at": "December 09, 2025 12:51 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/history-culture/world_heritage_sites_by_country.json"
+      }
+    ]
+  },
+  {
     "category": "Miscellaneous / General Data",
     "datasets": [
       {
