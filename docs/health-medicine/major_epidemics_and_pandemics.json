@@ -1,0 +1,178 @@
+{
+  "title": "Major Epidemics and Pandemics",
+  "subtitle": "Global outbreaks with over 1 million deaths",
+  "updated_at": "December 09, 2025 01:56 PM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "epidemic_or_pandemic": "Plague of Justinian",
+      "disease": "Bubonic plague",
+      "death_toll": "15–100 million",
+      "percentage_of_population_lost": "25–60% of European population",
+      "years": "541–549",
+      "location": "North Africa, Europe, and Western Asia"
+    },
+    {
+      "rank": "2",
+      "epidemic_or_pandemic": "HIV/AIDS pandemic",
+      "disease": "HIV/AIDS",
+      "death_toll": "44 million (as of 2025)",
+      "percentage_of_population_lost": "–",
+      "years": "1981–present",
+      "location": "Worldwide"
+    },
+    {
+      "rank": "3",
+      "epidemic_or_pandemic": "Black Death",
+      "disease": "Bubonic plague",
+      "death_toll": "25–50 million",
+      "percentage_of_population_lost": "30–60% of European population",
+      "years": "1346–1353",
+      "location": "Europe, Asia, and North Africa"
+    },
+    {
+      "rank": "4",
+      "epidemic_or_pandemic": "1918 \"Spanish\" influenza pandemic",
+      "disease": "Influenza A/H1N1",
+      "death_toll": "25–50 million",
+      "percentage_of_population_lost": "1–5.4% of global population",
+      "years": "1918–1920",
+      "location": "Worldwide"
+    },
+    {
+      "rank": "5",
+      "epidemic_or_pandemic": "COVID-19 pandemic",
+      "disease": "COVID-19",
+      "death_toll": "7.1–36.5 million(as of 2025)",
+      "percentage_of_population_lost": "–",
+      "years": "2019–present",
+      "location": "Worldwide"
+    },
+    {
+      "rank": "6",
+      "epidemic_or_pandemic": "Third plague pandemic",
+      "disease": "Bubonic plague",
+      "death_toll": "12–15 million",
+      "percentage_of_population_lost": "–",
+      "years": "1855–1960",
+      "location": "Worldwide"
+    },
+    {
+      "rank": "7",
+      "epidemic_or_pandemic": "Cocoliztli epidemic of 1545–1548",
+      "disease": "Cocoliztli, caused by an unidentified pathogen",
+      "death_toll": "5–15 million",
+      "percentage_of_population_lost": "27–80% of Mexican population",
+      "years": "1545–1548",
+      "location": "Mexico"
+    },
+    {
+      "rank": "8",
+      "epidemic_or_pandemic": "Antonine Plague",
+      "disease": "Smallpox or measles",
+      "death_toll": "5–10 million",
+      "percentage_of_population_lost": "25–33% of Roman population",
+      "years": "165–180 (possibly up to 190)",
+      "location": "Roman Empire"
+    },
+    {
+      "rank": "9",
+      "epidemic_or_pandemic": "1520 Mexico smallpox epidemic",
+      "disease": "Smallpox",
+      "death_toll": "5–8 million",
+      "percentage_of_population_lost": "23–37% of Mexican population",
+      "years": "1519–1520",
+      "location": "Mexico"
+    },
+    {
+      "rank": "10",
+      "epidemic_or_pandemic": "1957–1958 influenza pandemic",
+      "disease": "Influenza A/H2N2",
+      "death_toll": "1–4 million",
+      "percentage_of_population_lost": "–",
+      "years": "1957–1958",
+      "location": "Worldwide"
+    },
+    {
+      "rank": "11",
+      "epidemic_or_pandemic": "Hong Kong flu",
+      "disease": "Influenza A/H3N2",
+      "death_toll": "1–4 million",
+      "percentage_of_population_lost": "–",
+      "years": "1968–1969",
+      "location": "Worldwide"
+    },
+    {
+      "rank": "12",
+      "epidemic_or_pandemic": "1918–1922 Russia typhus epidemic",
+      "disease": "Typhus",
+      "death_toll": "2–3 million",
+      "percentage_of_population_lost": "1–1.6% of Russian population",
+      "years": "1918–1922",
+      "location": "Russia"
+    },
+    {
+      "rank": "13",
+      "epidemic_or_pandemic": "Cocoliztli epidemic of 1576",
+      "disease": "Cocoliztli",
+      "death_toll": "2–2.5 million",
+      "percentage_of_population_lost": "50% of Mexican population",
+      "years": "1576–1580",
+      "location": "Mexico"
+    },
+    {
+      "rank": "14",
+      "epidemic_or_pandemic": "1772–1773 Persian Plague",
+      "disease": "Bubonic plague",
+      "death_toll": "2 million",
+      "percentage_of_population_lost": "–",
+      "years": "1772–1773",
+      "location": "Persia"
+    },
+    {
+      "rank": "15",
+      "epidemic_or_pandemic": "735–737 Japanese smallpox epidemic",
+      "disease": "Smallpox",
+      "death_toll": "2 million",
+      "percentage_of_population_lost": "33% of Japanese population",
+      "years": "735–737",
+      "location": "Japan"
+    },
+    {
+      "rank": "16",
+      "epidemic_or_pandemic": "Naples Plague",
+      "disease": "Bubonic plague",
+      "death_toll": "1.25 million",
+      "percentage_of_population_lost": "–",
+      "years": "1656–1658",
+      "location": "Southern Italy"
+    },
+    {
+      "rank": "17",
+      "epidemic_or_pandemic": "1889–1890 pandemic",
+      "disease": "Influenza or human coronavirus OC43",
+      "death_toll": "1 million",
+      "percentage_of_population_lost": "–",
+      "years": "1889–1890",
+      "location": "Worldwide"
+    },
+    {
+      "rank": "18",
+      "epidemic_or_pandemic": "1629–1631 Italian plague",
+      "disease": "Bubonic plague",
+      "death_toll": "1 million",
+      "percentage_of_population_lost": "–",
+      "years": "1629–1631",
+      "location": "Italy"
+    },
+    {
+      "rank": "19",
+      "epidemic_or_pandemic": "1846–1860 cholera pandemic",
+      "disease": "Cholera",
+      "death_toll": "1 million",
+      "percentage_of_population_lost": "–",
+      "years": "1846–1860",
+      "location": "Worldwide"
+    }
+  ]
+}

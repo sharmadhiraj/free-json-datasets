@@ -264,6 +264,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/list_of_countries_by_total_health_expenditure_per_capita.json"
       },
       {
+        "title": "Major Epidemics and Pandemics",
+        "subtitle": "Global outbreaks with over 1 million deaths",
+        "updated_at": "December 09, 2025 01:56 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/major_epidemics_and_pandemics.json"
+      },
+      {
         "title": "Global Vaccination Rates by Country (2025)",
         "subtitle": "BCG, DTP3, HIB3, MCV1, POL3, and YFV vaccination coverage by country in 2025.",
         "updated_at": "November 07, 2025 03:17 AM UTC",
