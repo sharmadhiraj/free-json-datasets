@@ -1,0 +1,991 @@
+{
+  "title": "Best-Selling Mobile Phones",
+  "subtitle": "Global list of top-selling mobile phone models by total units sold",
+  "updated_at": "December 09, 2025 12:37 PM UTC",
+  "data": [
+    {
+      "manufacturer": "Nokia",
+      "model": "1100",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2003",
+      "million_units": "250"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "1110",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2005",
+      "million_units": "250"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 6 and iPhone 6 Plus",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2014",
+      "million_units": "222.4"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "105 series",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2013",
+      "million_units": "200"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 6S and iPhone 6S Plus",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2015",
+      "million_units": "173.8"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 5S",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2013",
+      "million_units": "163.7"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "3210",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "1999",
+      "million_units": "160"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 7 and iPhone 7 Plus",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2016",
+      "million_units": "156.7"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "156"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone XR, iPhone XS and iPhone XS Max",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2018",
+      "million_units": "150.7"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "6600",
+      "form_factor": "Bar",
+      "is_smart_phone": "Yes",
+      "year": "2003",
+      "million_units": "150"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "1200",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2007",
+      "million_units": "150"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "5230",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2009",
+      "million_units": "150"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "E1100",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2009",
+      "million_units": "150"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 5",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2012",
+      "million_units": "143.4"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "2600 (2610/2626/2630)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2004",
+      "million_units": "135"
+    },
+    {
+      "manufacturer": "Motorola",
+      "model": "Razr V3",
+      "form_factor": "Flip phone",
+      "is_smart_phone": "No",
+      "year": "2004",
+      "million_units": "130"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "1600 (1650/1661)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2005",
+      "million_units": "130"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "3310 (3330)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2000",
+      "million_units": "126"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 8 and iPhone 8 Plus",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2017",
+      "million_units": "121.7"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 12, 12 mini, 12 Pro and 12 Pro Max",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2020",
+      "million_units": "100"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "1208 (1209)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2007",
+      "million_units": "100"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "1280",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2010",
+      "million_units": "100"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "6010 (6020/6030)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2004",
+      "million_units": "75"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S III and Galaxy S III Mini",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2012",
+      "million_units": "70"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S4",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2013",
+      "million_units": "70"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "5130 (5220/5310)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2007",
+      "million_units": "65"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone X",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2017",
+      "million_units": "63"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 4S",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2011",
+      "million_units": "60"
+    },
+    {
+      "manufacturer": "Motorola",
+      "model": "StarTAC",
+      "form_factor": "Flip phone",
+      "is_smart_phone": "No",
+      "year": "1996",
+      "million_units": "60"
+    },
+    {
+      "manufacturer": "Motorola",
+      "model": "C200",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2003",
+      "million_units": "60"
+    },
+    {
+      "manufacturer": "Motorola",
+      "model": "C139",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2005",
+      "million_units": "60"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S7 and Galaxy S7 edge",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2016",
+      "million_units": "55"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "3100 (3120)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2003",
+      "million_units": "50"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "6230 (6233/6234)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2004",
+      "million_units": "50"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 4",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2010",
+      "million_units": "50"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "6300",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2006",
+      "million_units": "47"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S6 and Galaxy S6 edge",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2015",
+      "million_units": "45"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "N70 (N72/N73)",
+      "form_factor": "Bar",
+      "is_smart_phone": "Yes",
+      "year": "2005",
+      "million_units": "45"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S8 and Galaxy S8+",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2017",
+      "million_units": "41"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S II",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2011",
+      "million_units": "40"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S10, Galaxy S10+ and Galaxy S10e",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "37"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S9 and Galaxy S9+",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2018",
+      "million_units": "35.4"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "2650",
+      "form_factor": "Flip phone",
+      "is_smart_phone": "No",
+      "year": "2004",
+      "million_units": "35"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 3GS",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2009",
+      "million_units": "35"
+    },
+    {
+      "manufacturer": "Huawei",
+      "model": "P20, P20 Pro and P20 Lite",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2018",
+      "million_units": "32"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A10",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "30.3"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "E250",
+      "form_factor": "Slider",
+      "is_smart_phone": "No",
+      "year": "2006",
+      "million_units": "30"
+    },
+    {
+      "manufacturer": "LG",
+      "model": "KP100",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2008",
+      "million_units": "30"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy Note II",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2012",
+      "million_units": "30"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "5200 (5300)",
+      "form_factor": "Slider",
+      "is_smart_phone": "No",
+      "year": "2006",
+      "million_units": "30"
+    },
+    {
+      "manufacturer": "Xiaomi",
+      "model": "Redmi Note 8 and Redmi Note 8 Pro",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "30"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone 12 Pro Max",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2020",
+      "million_units": "29"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S20, Galaxy S20+ and Galaxy S20 Ultra",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2020",
+      "million_units": "28"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2010",
+      "million_units": "25"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy Grand Prime Plus",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2016",
+      "million_units": "24.2"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A50",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "24.2"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone SE (2nd generation)",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2020",
+      "million_units": "24.2"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A51",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "23.2"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A20",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "23.1"
+    },
+    {
+      "manufacturer": "LG",
+      "model": "Chocolate",
+      "form_factor": "Slider",
+      "is_smart_phone": "No",
+      "year": "2006",
+      "million_units": "21"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "2100",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2003",
+      "million_units": "20"
+    },
+    {
+      "manufacturer": "Xiaomi",
+      "model": "Redmi Note 7 and Redmi Note 7 Pro",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "20"
+    },
+    {
+      "manufacturer": "Huawei",
+      "model": "P30 and P30 Pro",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "20"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A21s",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2020",
+      "million_units": "19.4"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A02",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2021",
+      "million_units": "18.3"
+    },
+    {
+      "manufacturer": "Huawei",
+      "model": "Mate 10 and Mate 10 Pro",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2017",
+      "million_units": "17"
+    },
+    {
+      "manufacturer": "Huawei",
+      "model": "Mate 20 and Mate 20 Pro",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2018",
+      "million_units": "17"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A01",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "16.9"
+    },
+    {
+      "manufacturer": "HTC",
+      "model": "ThunderBolt",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2011",
+      "million_units": "16"
+    },
+    {
+      "manufacturer": "Huawei",
+      "model": "Mate 9",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2016",
+      "million_units": "15.8"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A11",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2020",
+      "million_units": "15.3"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy J2 Core",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2018",
+      "million_units": "15.2"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "5610 XpressMusic",
+      "form_factor": "Slider",
+      "is_smart_phone": "No",
+      "year": "2007",
+      "million_units": "15"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "5800 XpressMusic",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2008",
+      "million_units": "15"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "E71 (E72)",
+      "form_factor": "Keyboard bar",
+      "is_smart_phone": "Yes",
+      "year": "2008",
+      "million_units": "15"
+    },
+    {
+      "manufacturer": "Sony Ericsson",
+      "model": "K300 (K310)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2004",
+      "million_units": "15"
+    },
+    {
+      "manufacturer": "Sony Ericsson",
+      "model": "K750",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2005",
+      "million_units": "15"
+    },
+    {
+      "manufacturer": "Sony Ericsson",
+      "model": "W800 (W810)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2006",
+      "million_units": "15"
+    },
+    {
+      "manufacturer": "Research in Motion (RIM)",
+      "model": "BlackBerry Pearl",
+      "form_factor": "Bar",
+      "is_smart_phone": "Yes",
+      "year": "2006",
+      "million_units": "15"
+    },
+    {
+      "manufacturer": "Xiaomi",
+      "model": "Redmi Note 9 Pro",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2020",
+      "million_units": "15"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S21, Galaxy S21+ and Galaxy S21 Ultra",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2021",
+      "million_units": "13.5"
+    },
+    {
+      "manufacturer": "Motorola",
+      "model": "Droid Bionic",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2011",
+      "million_units": "13"
+    },
+    {
+      "manufacturer": "LG",
+      "model": "Cookie (KP500)",
+      "form_factor": "Slate",
+      "is_smart_phone": "No",
+      "year": "2009",
+      "million_units": "13"
+    },
+    {
+      "manufacturer": "Huawei",
+      "model": "Mate 30 and Mate 30 Pro",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "12"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S22 Ultra",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2022",
+      "million_units": "10.9"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "SGH-E700",
+      "form_factor": "Flip phone",
+      "is_smart_phone": "No",
+      "year": "2003",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "N95",
+      "form_factor": "Slider",
+      "is_smart_phone": "Yes",
+      "year": "2007",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "LG",
+      "model": "Shine",
+      "form_factor": "Slider",
+      "is_smart_phone": "No",
+      "year": "2008",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Star/Tocco Lite (S5230)",
+      "form_factor": "Slate",
+      "is_smart_phone": "No",
+      "year": "2009",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy Note",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2011",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "Xiaomi",
+      "model": "Mi 2",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2012",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy Note 3",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2013",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "LG",
+      "model": "G3",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2014",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy Note 8",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2017",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "Xiaomi",
+      "model": "Redmi 6A",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy S20 FE",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2020",
+      "million_units": "10"
+    },
+    {
+      "manufacturer": "Oppo",
+      "model": "A5 (AX5)",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2018",
+      "million_units": "9.7"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy Note 9",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2018",
+      "million_units": "9.6"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A30",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "9.2"
+    },
+    {
+      "manufacturer": "Xiaomi",
+      "model": "Redmi 8A",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "7.3"
+    },
+    {
+      "manufacturer": "Oppo",
+      "model": "F1 Plus",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2016",
+      "million_units": "7"
+    },
+    {
+      "manufacturer": "Xiaomi",
+      "model": "Redmi 8",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "6.8"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy J4+",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2018",
+      "million_units": "6.4"
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "iPhone",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2007",
+      "million_units": "6"
+    },
+    {
+      "manufacturer": "LG",
+      "model": "Viewty (KU990)",
+      "form_factor": "Bar",
+      "is_smart_phone": "No",
+      "year": "2007",
+      "million_units": "5"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy J6+",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2018",
+      "million_units": "4.9"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Samsung Galaxy S24 Ultra",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2024",
+      "million_units": "4.9"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Samsung Galaxy Note 4",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2014",
+      "million_units": "4.5"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Samsung Galaxy A14 4G",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2023",
+      "million_units": "4"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A10s",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "3.9"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Samsung Galaxy S23 FE",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2023",
+      "million_units": "3.8"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Galaxy A30s",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2019",
+      "million_units": "3.4"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "N-Gage",
+      "form_factor": "Taco",
+      "is_smart_phone": "Yes",
+      "year": "2003",
+      "million_units": "3"
+    },
+    {
+      "manufacturer": "LG",
+      "model": "G2",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2013",
+      "million_units": "3"
+    },
+    {
+      "manufacturer": "LeTV",
+      "model": "LeEco Le 1s",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2016",
+      "million_units": "3"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Samsung Galaxy A55",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2024",
+      "million_units": "2.7"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Samsung Galaxy S24",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2024",
+      "million_units": "2.4"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Samsung Galaxy A15 4G",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2023",
+      "million_units": "2.2"
+    },
+    {
+      "manufacturer": "Google",
+      "model": "Pixel and Pixel XL",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2016",
+      "million_units": "2.1"
+    },
+    {
+      "manufacturer": "Palm",
+      "model": "Centro",
+      "form_factor": "Keyboard bar",
+      "is_smart_phone": "Yes",
+      "year": "2007",
+      "million_units": "2"
+    },
+    {
+      "manufacturer": "Nokia",
+      "model": "N97",
+      "form_factor": "Tilt slider",
+      "is_smart_phone": "Yes",
+      "year": "2009",
+      "million_units": "2"
+    },
+    {
+      "manufacturer": "Samsung",
+      "model": "Samsung Galaxy A05s",
+      "form_factor": "Slate",
+      "is_smart_phone": "Yes",
+      "year": "2023",
+      "million_units": "2"
+    }
+  ]
+}

@@ -420,6 +420,12 @@
     "category": "Technology & Internet",
     "datasets": [
       {
+        "title": "Best-Selling Mobile Phones",
+        "subtitle": "Global list of top-selling mobile phone models by total units sold",
+        "updated_at": "December 09, 2025 12:37 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/best_selling_mobile_phones.json"
+      },
+      {
         "title": "Country-wise median download speeds (Mbits/s) for fixed broadband",
         "subtitle": "A dataset of median fixed broadband download speeds (Mbps) by country.",
         "updated_at": "December 05, 2025 06:09 AM UTC",

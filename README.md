@@ -191,6 +191,8 @@ Each dataset follows this JSON format:
 
 ### Technology & Internet
 
+- [**Best-Selling Mobile Phones**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/best_selling_mobile_phones.json)  
+  Global list of top-selling mobile phone models by total units sold
 - [**Country-wise median download speeds (Mbits/s) for fixed broadband**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/internet_connection_speeds_by_country.json)  
   A dataset of median fixed broadband download speeds (Mbps) by country.
 - [**Internet Users by Country 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/internet_users_by_country.json)  
