@@ -66,6 +66,8 @@ Each dataset follows this JSON format:
 
 ### Demographics & Population
 
+- [**Immigration by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/immigration_by_country.json)  
+  Total immigrants, gender split and population share in 2025.
 - [**Largest Cities by Population (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/largest_cities_by_population.json)  
   City-wise population data for the year 2025
 - [**World Population by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/world_population_by_country.json)  

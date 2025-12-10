@@ -89,6 +89,12 @@
     "category": "Demographics & Population",
     "datasets": [
       {
+        "title": "Immigration by Country (2025)",
+        "subtitle": "Total immigrants, gender split and population share in 2025.",
+        "updated_at": "December 10, 2025 12:56 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/immigration_by_country.json"
+      },
+      {
         "title": "Largest Cities by Population (2025)",
         "subtitle": "City-wise population data for the year 2025",
         "updated_at": "August 20, 2025 09:42 AM UTC",

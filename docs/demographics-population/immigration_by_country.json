@@ -1,0 +1,1589 @@
+{
+  "title": "Immigration by Country (2025)",
+  "subtitle": "Total immigrants, gender split and population share in 2025.",
+  "updated_at": "December 10, 2025 12:56 PM UTC",
+  "data": [
+    {
+      "country": "India",
+      "immigrants_total": "18,533,845",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "11.9M",
+      "immigrants_female": "6.6M"
+    },
+    {
+      "country": "China",
+      "immigrants_total": "11,701,619",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "5.1M",
+      "immigrants_female": "6.6M"
+    },
+    {
+      "country": "Mexico",
+      "immigrants_total": "11,596,529",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "5.9M",
+      "immigrants_female": "5.7M"
+    },
+    {
+      "country": "Ukraine",
+      "immigrants_total": "9,769,216",
+      "immigrants_percent_population": "0.25%",
+      "immigrants_male": "4M",
+      "immigrants_female": "5.8M"
+    },
+    {
+      "country": "Russia",
+      "immigrants_total": "9,134,094",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "3.8M",
+      "immigrants_female": "5.4M"
+    },
+    {
+      "country": "Syria",
+      "immigrants_total": "8,927,523",
+      "immigrants_percent_population": "0.35%",
+      "immigrants_male": "4.7M",
+      "immigrants_female": "4.2M"
+    },
+    {
+      "country": "Bangladesh",
+      "immigrants_total": "8,706,947",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "6.3M",
+      "immigrants_female": "2.4M"
+    },
+    {
+      "country": "Venezuela",
+      "immigrants_total": "8,328,514",
+      "immigrants_percent_population": "0.29%",
+      "immigrants_male": "4M",
+      "immigrants_female": "4.3M"
+    },
+    {
+      "country": "Afghanistan",
+      "immigrants_total": "7,528,994",
+      "immigrants_percent_population": "0.17%",
+      "immigrants_male": "3.9M",
+      "immigrants_female": "3.6M"
+    },
+    {
+      "country": "Philippines",
+      "immigrants_total": "6,988,383",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "3M",
+      "immigrants_female": "4M"
+    },
+    {
+      "country": "Pakistan",
+      "immigrants_total": "6,915,057",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "4.9M",
+      "immigrants_female": "2.1M"
+    },
+    {
+      "country": "Egypt",
+      "immigrants_total": "4,820,002",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "3.4M",
+      "immigrants_female": "1.4M"
+    },
+    {
+      "country": "United Kingdom",
+      "immigrants_total": "4,804,944",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "2.5M",
+      "immigrants_female": "2.3M"
+    },
+    {
+      "country": "Romania",
+      "immigrants_total": "4,583,819",
+      "immigrants_percent_population": "0.24%",
+      "immigrants_male": "2.2M",
+      "immigrants_female": "2.4M"
+    },
+    {
+      "country": "Poland",
+      "immigrants_total": "4,572,613",
+      "immigrants_percent_population": "0.12%",
+      "immigrants_male": "2.2M",
+      "immigrants_female": "2.4M"
+    },
+    {
+      "country": "Myanmar",
+      "immigrants_total": "4,320,462",
+      "immigrants_percent_population": "0.08%",
+      "immigrants_male": "2.7M",
+      "immigrants_female": "1.7M"
+    },
+    {
+      "country": "Germany",
+      "immigrants_total": "4,297,233",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "2M",
+      "immigrants_female": "2.3M"
+    },
+    {
+      "country": "Palestine",
+      "immigrants_total": "4,233,248",
+      "immigrants_percent_population": "0.76%",
+      "immigrants_male": "2.3M",
+      "immigrants_female": "1.9M"
+    },
+    {
+      "country": "Sudan",
+      "immigrants_total": "3,786,603",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "2.2M",
+      "immigrants_female": "1.6M"
+    },
+    {
+      "country": "Indonesia",
+      "immigrants_total": "3,745,148",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "2.3M",
+      "immigrants_female": "1.5M"
+    },
+    {
+      "country": "Vietnam",
+      "immigrants_total": "3,693,537",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "1.8M",
+      "immigrants_female": "1.9M"
+    },
+    {
+      "country": "Colombia",
+      "immigrants_total": "3,652,238",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "1.6M",
+      "immigrants_female": "2M"
+    },
+    {
+      "country": "Morocco",
+      "immigrants_total": "3,627,829",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "1.9M",
+      "immigrants_female": "1.7M"
+    },
+    {
+      "country": "United States",
+      "immigrants_total": "3,186,999",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "1.6M",
+      "immigrants_female": "1.6M"
+    },
+    {
+      "country": "South Sudan",
+      "immigrants_total": "3,168,836",
+      "immigrants_percent_population": "0.26%",
+      "immigrants_male": "1.5M",
+      "immigrants_female": "1.6M"
+    },
+    {
+      "country": "Turkey",
+      "immigrants_total": "3,130,337",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "1.7M",
+      "immigrants_female": "1.5M"
+    },
+    {
+      "country": "Italy",
+      "immigrants_total": "2,941,444",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "1.6M",
+      "immigrants_female": "1.3M"
+    },
+    {
+      "country": "Kazakhstan",
+      "immigrants_total": "2,796,572",
+      "immigrants_percent_population": "0.13%",
+      "immigrants_male": "1.3M",
+      "immigrants_female": "1.5M"
+    },
+    {
+      "country": "Nepal",
+      "immigrants_total": "2,637,195",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "1.5M",
+      "immigrants_female": "1.2M"
+    },
+    {
+      "country": "France",
+      "immigrants_total": "2,547,158",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "1.3M",
+      "immigrants_female": "1.3M"
+    },
+    {
+      "country": "Yemen",
+      "immigrants_total": "2,480,734",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "1.8M",
+      "immigrants_female": "710.2K"
+    },
+    {
+      "country": "Malaysia",
+      "immigrants_total": "2,433,875",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "1.1M",
+      "immigrants_female": "1.4M"
+    },
+    {
+      "country": "Iraq",
+      "immigrants_total": "2,313,028",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "1.2M",
+      "immigrants_female": "1.1M"
+    },
+    {
+      "country": "Brazil",
+      "immigrants_total": "2,194,325",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "974.4K",
+      "immigrants_female": "1.2M"
+    },
+    {
+      "country": "Uzbekistan",
+      "immigrants_total": "2,114,480",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "1.1M",
+      "immigrants_female": "1M"
+    },
+    {
+      "country": "DR Congo",
+      "immigrants_total": "2,097,387",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "1M",
+      "immigrants_female": "1.1M"
+    },
+    {
+      "country": "Nigeria",
+      "immigrants_total": "2,094,265",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "1.1M",
+      "immigrants_female": "994.9K"
+    },
+    {
+      "country": "Burkina Faso",
+      "immigrants_total": "2,050,050",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "1.2M",
+      "immigrants_female": "824.4K"
+    },
+    {
+      "country": "South Korea",
+      "immigrants_total": "2,030,473",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "899.3K",
+      "immigrants_female": "1.1M"
+    },
+    {
+      "country": "Haiti",
+      "immigrants_total": "2,017,692",
+      "immigrants_percent_population": "0.17%",
+      "immigrants_male": "1.1M",
+      "immigrants_female": "933.1K"
+    },
+    {
+      "country": "Puerto Rico",
+      "immigrants_total": "1,948,223",
+      "immigrants_percent_population": "0.6%",
+      "immigrants_male": "948.1K",
+      "immigrants_female": "1M"
+    },
+    {
+      "country": "Somalia",
+      "immigrants_total": "1,935,594",
+      "immigrants_percent_population": "0.1%",
+      "immigrants_male": "1M",
+      "immigrants_female": "895.4K"
+    },
+    {
+      "country": "Dominican Republic",
+      "immigrants_total": "1,917,153",
+      "immigrants_percent_population": "0.17%",
+      "immigrants_male": "848.5K",
+      "immigrants_female": "1.1M"
+    },
+    {
+      "country": "Cuba",
+      "immigrants_total": "1,879,613",
+      "immigrants_percent_population": "0.17%",
+      "immigrants_male": "931.8K",
+      "immigrants_female": "947.8K"
+    },
+    {
+      "country": "El Salvador",
+      "immigrants_total": "1,834,670",
+      "immigrants_percent_population": "0.29%",
+      "immigrants_male": "930.6K",
+      "immigrants_female": "904K"
+    },
+    {
+      "country": "Portugal",
+      "immigrants_total": "1,799,179",
+      "immigrants_percent_population": "0.17%",
+      "immigrants_male": "921.3K",
+      "immigrants_female": "877.8K"
+    },
+    {
+      "country": "Algeria",
+      "immigrants_total": "1,780,399",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "880.7K",
+      "immigrants_female": "899.7K"
+    },
+    {
+      "country": "Iran",
+      "immigrants_total": "1,733,468",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "905.4K",
+      "immigrants_female": "828.1K"
+    },
+    {
+      "country": "Peru",
+      "immigrants_total": "1,672,482",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "781.4K",
+      "immigrants_female": "891.1K"
+    },
+    {
+      "country": "Spain",
+      "immigrants_total": "1,623,550",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "804.3K",
+      "immigrants_female": "819.2K"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "immigrants_total": "1,608,324",
+      "immigrants_percent_population": "0.51%",
+      "immigrants_male": "788.3K",
+      "immigrants_female": "820.1K"
+    },
+    {
+      "country": "Zimbabwe",
+      "immigrants_total": "1,519,324",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "783.2K",
+      "immigrants_female": "736.1K"
+    },
+    {
+      "country": "Sri Lanka",
+      "immigrants_total": "1,492,103",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "799.5K",
+      "immigrants_female": "692.6K"
+    },
+    {
+      "country": "Guatemala",
+      "immigrants_total": "1,460,232",
+      "immigrants_percent_population": "0.08%",
+      "immigrants_male": "830.6K",
+      "immigrants_female": "629.6K"
+    },
+    {
+      "country": "Honduras",
+      "immigrants_total": "1,397,584",
+      "immigrants_percent_population": "0.13%",
+      "immigrants_male": "684.3K",
+      "immigrants_female": "713.2K"
+    },
+    {
+      "country": "Canada",
+      "immigrants_total": "1,347,381",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "656.6K",
+      "immigrants_female": "690.8K"
+    },
+    {
+      "country": "Mali",
+      "immigrants_total": "1,292,519",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "769.6K",
+      "immigrants_female": "522.9K"
+    },
+    {
+      "country": "Bulgaria",
+      "immigrants_total": "1,252,234",
+      "immigrants_percent_population": "0.19%",
+      "immigrants_male": "587.9K",
+      "immigrants_female": "664.3K"
+    },
+    {
+      "country": "Jamaica",
+      "immigrants_total": "1,248,512",
+      "immigrants_percent_population": "0.44%",
+      "immigrants_male": "550.2K",
+      "immigrants_female": "698.3K"
+    },
+    {
+      "country": "Ecuador",
+      "immigrants_total": "1,243,065",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "600.4K",
+      "immigrants_female": "642.7K"
+    },
+    {
+      "country": "Ethiopia",
+      "immigrants_total": "1,240,645",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "620.4K",
+      "immigrants_female": "620.2K"
+    },
+    {
+      "country": "Hong Kong",
+      "immigrants_total": "1,240,250",
+      "immigrants_percent_population": "0.17%",
+      "immigrants_male": "607.9K",
+      "immigrants_female": "632.3K"
+    },
+    {
+      "country": "Albania",
+      "immigrants_total": "1,216,628",
+      "immigrants_percent_population": "0.44%",
+      "immigrants_male": "624.7K",
+      "immigrants_female": "591.9K"
+    },
+    {
+      "country": "Ivory Coast",
+      "immigrants_total": "1,211,422",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "603.4K",
+      "immigrants_female": "608K"
+    },
+    {
+      "country": "Argentina",
+      "immigrants_total": "1,183,381",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "591.2K",
+      "immigrants_female": "592.2K"
+    },
+    {
+      "country": "Thailand",
+      "immigrants_total": "1,178,757",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "437.5K",
+      "immigrants_female": "741.3K"
+    },
+    {
+      "country": "Ghana",
+      "immigrants_total": "1,055,494",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "544.9K",
+      "immigrants_female": "510.6K"
+    },
+    {
+      "country": "Japan",
+      "immigrants_total": "1,008,173",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "435.2K",
+      "immigrants_female": "572.9K"
+    },
+    {
+      "country": "South Africa",
+      "immigrants_total": "1,005,800",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "506.1K",
+      "immigrants_female": "499.7K"
+    },
+    {
+      "country": "Serbia",
+      "immigrants_total": "963,307",
+      "immigrants_percent_population": "0.14%",
+      "immigrants_male": "476.6K",
+      "immigrants_female": "486.7K"
+    },
+    {
+      "country": "Eritrea",
+      "immigrants_total": "912,792",
+      "immigrants_percent_population": "0.25%",
+      "immigrants_male": "477.7K",
+      "immigrants_female": "435.1K"
+    },
+    {
+      "country": "Central African Republic",
+      "immigrants_total": "905,808",
+      "immigrants_percent_population": "0.16%",
+      "immigrants_male": "454.8K",
+      "immigrants_female": "451K"
+    },
+    {
+      "country": "Nicaragua",
+      "immigrants_total": "905,251",
+      "immigrants_percent_population": "0.13%",
+      "immigrants_male": "423K",
+      "immigrants_female": "482.3K"
+    },
+    {
+      "country": "Moldova",
+      "immigrants_total": "864,257",
+      "immigrants_percent_population": "0.29%",
+      "immigrants_male": "384.4K",
+      "immigrants_female": "479.8K"
+    },
+    {
+      "country": "Taiwan",
+      "immigrants_total": "832,507",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "384.7K",
+      "immigrants_female": "447.8K"
+    },
+    {
+      "country": "Croatia",
+      "immigrants_total": "826,166",
+      "immigrants_percent_population": "0.21%",
+      "immigrants_male": "394.7K",
+      "immigrants_female": "431.5K"
+    },
+    {
+      "country": "Azerbaijan",
+      "immigrants_total": "810,116",
+      "immigrants_percent_population": "0.08%",
+      "immigrants_male": "406.1K",
+      "immigrants_female": "404.1K"
+    },
+    {
+      "country": "Belarus",
+      "immigrants_total": "790,232",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "322.8K",
+      "immigrants_female": "467.5K"
+    },
+    {
+      "country": "Bolivia",
+      "immigrants_total": "783,473",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "353.9K",
+      "immigrants_female": "429.6K"
+    },
+    {
+      "country": "Greece",
+      "immigrants_total": "780,112",
+      "immigrants_percent_population": "0.08%",
+      "immigrants_male": "404.7K",
+      "immigrants_female": "375.4K"
+    },
+    {
+      "country": "Cambodia",
+      "immigrants_total": "778,793",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "389.7K",
+      "immigrants_female": "389K"
+    },
+    {
+      "country": "Paraguay",
+      "immigrants_total": "746,362",
+      "immigrants_percent_population": "0.11%",
+      "immigrants_male": "321.5K",
+      "immigrants_female": "424.9K"
+    },
+    {
+      "country": "Senegal",
+      "immigrants_total": "741,357",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "468K",
+      "immigrants_female": "273.3K"
+    },
+    {
+      "country": "Benin",
+      "immigrants_total": "726,530",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "390.4K",
+      "immigrants_female": "336.1K"
+    },
+    {
+      "country": "Tunisia",
+      "immigrants_total": "715,249",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "393.4K",
+      "immigrants_female": "321.9K"
+    },
+    {
+      "country": "Ireland",
+      "immigrants_total": "714,405",
+      "immigrants_percent_population": "0.13%",
+      "immigrants_male": "389.8K",
+      "immigrants_female": "324.6K"
+    },
+    {
+      "country": "Mozambique",
+      "immigrants_total": "702,796",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "419.5K",
+      "immigrants_female": "283.3K"
+    },
+    {
+      "country": "Lebanon",
+      "immigrants_total": "681,720",
+      "immigrants_percent_population": "0.12%",
+      "immigrants_male": "380.4K",
+      "immigrants_female": "301.3K"
+    },
+    {
+      "country": "New Zealand",
+      "immigrants_total": "679,772",
+      "immigrants_percent_population": "0.13%",
+      "immigrants_male": "349.2K",
+      "immigrants_female": "330.6K"
+    },
+    {
+      "country": "Laos",
+      "immigrants_total": "660,258",
+      "immigrants_percent_population": "0.08%",
+      "immigrants_male": "275.5K",
+      "immigrants_female": "384.7K"
+    },
+    {
+      "country": "Jordan",
+      "immigrants_total": "659,204",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "375.8K",
+      "immigrants_female": "283.4K"
+    },
+    {
+      "country": "Armenia",
+      "immigrants_total": "637,604",
+      "immigrants_percent_population": "0.22%",
+      "immigrants_male": "340K",
+      "immigrants_female": "297.6K"
+    },
+    {
+      "country": "Netherlands",
+      "immigrants_total": "631,391",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "319.6K",
+      "immigrants_female": "311.8K"
+    },
+    {
+      "country": "Angola",
+      "immigrants_total": "616,967",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "309.1K",
+      "immigrants_female": "307.9K"
+    },
+    {
+      "country": "Togo",
+      "immigrants_total": "584,790",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "293.9K",
+      "immigrants_female": "290.9K"
+    },
+    {
+      "country": "Czechia",
+      "immigrants_total": "583,214",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "241.8K",
+      "immigrants_female": "341.4K"
+    },
+    {
+      "country": "Uganda",
+      "immigrants_total": "578,034",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "286.8K",
+      "immigrants_female": "291.2K"
+    },
+    {
+      "country": "Burundi",
+      "immigrants_total": "576,530",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "287.5K",
+      "immigrants_female": "289K"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "immigrants_total": "540,573",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "243K",
+      "immigrants_female": "297.6K"
+    },
+    {
+      "country": "Kenya",
+      "immigrants_total": "540,466",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "253.8K",
+      "immigrants_female": "286.7K"
+    },
+    {
+      "country": "Rwanda",
+      "immigrants_total": "539,046",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "261.2K",
+      "immigrants_female": "277.8K"
+    },
+    {
+      "country": "Hungary",
+      "immigrants_total": "538,794",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "254.6K",
+      "immigrants_female": "284.2K"
+    },
+    {
+      "country": "North Macedonia",
+      "immigrants_total": "534,616",
+      "immigrants_percent_population": "0.29%",
+      "immigrants_male": "273.9K",
+      "immigrants_female": "260.7K"
+    },
+    {
+      "country": "Belgium",
+      "immigrants_total": "521,884",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "249.2K",
+      "immigrants_female": "272.7K"
+    },
+    {
+      "country": "Tajikistan",
+      "immigrants_total": "514,478",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "295.4K",
+      "immigrants_female": "219.1K"
+    },
+    {
+      "country": "Switzerland",
+      "immigrants_total": "512,547",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "243.4K",
+      "immigrants_female": "269.2K"
+    },
+    {
+      "country": "Guinea",
+      "immigrants_total": "508,203",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "295.8K",
+      "immigrants_female": "212.4K"
+    },
+    {
+      "country": "Georgia",
+      "immigrants_total": "496,486",
+      "immigrants_percent_population": "0.13%",
+      "immigrants_male": "226.9K",
+      "immigrants_female": "269.6K"
+    },
+    {
+      "country": "Guyana",
+      "immigrants_total": "469,649",
+      "immigrants_percent_population": "0.56%",
+      "immigrants_male": "214.2K",
+      "immigrants_female": "255.4K"
+    },
+    {
+      "country": "Lithuania",
+      "immigrants_total": "459,268",
+      "immigrants_percent_population": "0.16%",
+      "immigrants_male": "218.8K",
+      "immigrants_female": "240.5K"
+    },
+    {
+      "country": "Chile",
+      "immigrants_total": "444,451",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "212.8K",
+      "immigrants_female": "231.7K"
+    },
+    {
+      "country": "Niger",
+      "immigrants_total": "439,378",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "272.2K",
+      "immigrants_female": "167.1K"
+    },
+    {
+      "country": "Australia",
+      "immigrants_total": "430,718",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "224.4K",
+      "immigrants_female": "206.3K"
+    },
+    {
+      "country": "Austria",
+      "immigrants_total": "430,560",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "201.4K",
+      "immigrants_female": "229.1K"
+    },
+    {
+      "country": "Malawi",
+      "immigrants_total": "427,573",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "259.1K",
+      "immigrants_female": "168.5K"
+    },
+    {
+      "country": "Cameroon",
+      "immigrants_total": "409,677",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "201K",
+      "immigrants_female": "208.7K"
+    },
+    {
+      "country": "Slovakia",
+      "immigrants_total": "389,909",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "172.7K",
+      "immigrants_female": "217.3K"
+    },
+    {
+      "country": "Comoros",
+      "immigrants_total": "367,574",
+      "immigrants_percent_population": "0.42%",
+      "immigrants_male": "169.4K",
+      "immigrants_female": "198.2K"
+    },
+    {
+      "country": "Turkmenistan",
+      "immigrants_total": "365,787",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "131.2K",
+      "immigrants_female": "234.6K"
+    },
+    {
+      "country": "Israel",
+      "immigrants_total": "324,804",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "175K",
+      "immigrants_female": "149.8K"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "immigrants_total": "323,630",
+      "immigrants_percent_population": "0.21%",
+      "immigrants_male": "139.7K",
+      "immigrants_female": "183.9K"
+    },
+    {
+      "country": "Chad",
+      "immigrants_total": "292,298",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "153.8K",
+      "immigrants_female": "138.5K"
+    },
+    {
+      "country": "Singapore",
+      "immigrants_total": "269,613",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "130.9K",
+      "immigrants_female": "138.8K"
+    },
+    {
+      "country": "Uruguay",
+      "immigrants_total": "263,285",
+      "immigrants_percent_population": "0.08%",
+      "immigrants_male": "127K",
+      "immigrants_female": "136.3K"
+    },
+    {
+      "country": "Suriname",
+      "immigrants_total": "258,026",
+      "immigrants_percent_population": "0.4%",
+      "immigrants_male": "113.4K",
+      "immigrants_female": "144.7K"
+    },
+    {
+      "country": "Lesotho",
+      "immigrants_total": "246,938",
+      "immigrants_percent_population": "0.1%",
+      "immigrants_male": "104.1K",
+      "immigrants_female": "142.8K"
+    },
+    {
+      "country": "Saudi Arabia",
+      "immigrants_total": "236,699",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "136.2K",
+      "immigrants_female": "100.5K"
+    },
+    {
+      "country": "Republic of the Congo",
+      "immigrants_total": "231,080",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "111.8K",
+      "immigrants_female": "119.3K"
+    },
+    {
+      "country": "Tanzania",
+      "immigrants_total": "225,017",
+      "immigrants_percent_population": "0%",
+      "immigrants_male": "116.5K",
+      "immigrants_female": "108.6K"
+    },
+    {
+      "country": "Sweden",
+      "immigrants_total": "223,508",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "108.4K",
+      "immigrants_female": "115.1K"
+    },
+    {
+      "country": "Madagascar",
+      "immigrants_total": "212,455",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "86.7K",
+      "immigrants_female": "125.7K"
+    },
+    {
+      "country": "Western Sahara",
+      "immigrants_total": "202,107",
+      "immigrants_percent_population": "0.34%",
+      "immigrants_male": "106.7K",
+      "immigrants_female": "95.4K"
+    },
+    {
+      "country": "Panama",
+      "immigrants_total": "194,816",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "88.2K",
+      "immigrants_female": "106.6K"
+    },
+    {
+      "country": "Finland",
+      "immigrants_total": "181,834",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "71.9K",
+      "immigrants_female": "110K"
+    },
+    {
+      "country": "Fiji",
+      "immigrants_total": "181,025",
+      "immigrants_percent_population": "0.19%",
+      "immigrants_male": "86K",
+      "immigrants_female": "95.1K"
+    },
+    {
+      "country": "Mongolia",
+      "immigrants_total": "175,596",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "83.5K",
+      "immigrants_female": "92.1K"
+    },
+    {
+      "country": "Kuwait",
+      "immigrants_total": "167,850",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "102.3K",
+      "immigrants_female": "65.6K"
+    },
+    {
+      "country": "United Arab Emirates",
+      "immigrants_total": "166,074",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "84.9K",
+      "immigrants_female": "81.1K"
+    },
+    {
+      "country": "Latvia",
+      "immigrants_total": "161,014",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "73.7K",
+      "immigrants_female": "87.3K"
+    },
+    {
+      "country": "Libya",
+      "immigrants_total": "156,874",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "81.8K",
+      "immigrants_female": "75.1K"
+    },
+    {
+      "country": "Macau",
+      "immigrants_total": "149,247",
+      "immigrants_percent_population": "0.21%",
+      "immigrants_male": "66.5K",
+      "immigrants_female": "82.8K"
+    },
+    {
+      "country": "Cape Verde",
+      "immigrants_total": "146,396",
+      "immigrants_percent_population": "0.28%",
+      "immigrants_male": "66.5K",
+      "immigrants_female": "79.9K"
+    },
+    {
+      "country": "Liberia",
+      "immigrants_total": "145,919",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "73.5K",
+      "immigrants_female": "72.4K"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "immigrants_total": "136,825",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "72.9K",
+      "immigrants_female": "64K"
+    },
+    {
+      "country": "Denmark",
+      "immigrants_total": "124,665",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "65.4K",
+      "immigrants_female": "59.3K"
+    },
+    {
+      "country": "Estonia",
+      "immigrants_total": "124,216",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "59K",
+      "immigrants_female": "65.2K"
+    },
+    {
+      "country": "Zambia",
+      "immigrants_total": "122,793",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "61.4K",
+      "immigrants_female": "61.4K"
+    },
+    {
+      "country": "Norway",
+      "immigrants_total": "120,891",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "53K",
+      "immigrants_female": "67.8K"
+    },
+    {
+      "country": "Samoa",
+      "immigrants_total": "119,313",
+      "immigrants_percent_population": "0.54%",
+      "immigrants_male": "59.9K",
+      "immigrants_female": "59.5K"
+    },
+    {
+      "country": "Mauritius",
+      "immigrants_total": "114,314",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "49.1K",
+      "immigrants_female": "65.2K"
+    },
+    {
+      "country": "Timor-Leste",
+      "immigrants_total": "109,613",
+      "immigrants_percent_population": "0.08%",
+      "immigrants_male": "58K",
+      "immigrants_female": "51.6K"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "immigrants_total": "103,999",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "54.6K",
+      "immigrants_female": "49.4K"
+    },
+    {
+      "country": "Mauritania",
+      "immigrants_total": "91,705",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "52.6K",
+      "immigrants_female": "39.1K"
+    },
+    {
+      "country": "Montenegro",
+      "immigrants_total": "90,678",
+      "immigrants_percent_population": "0.14%",
+      "immigrants_male": "40.3K",
+      "immigrants_female": "50.4K"
+    },
+    {
+      "country": "Cyprus",
+      "immigrants_total": "80,760",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "38.6K",
+      "immigrants_female": "42.2K"
+    },
+    {
+      "country": "Slovenia",
+      "immigrants_total": "78,808",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "34.1K",
+      "immigrants_female": "44.7K"
+    },
+    {
+      "country": "Gambia",
+      "immigrants_total": "72,452",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "58.8K",
+      "immigrants_female": "13.6K"
+    },
+    {
+      "country": "Bhutan",
+      "immigrants_total": "66,145",
+      "immigrants_percent_population": "0.08%",
+      "immigrants_male": "32.6K",
+      "immigrants_female": "33.6K"
+    },
+    {
+      "country": "Sierra Leone",
+      "immigrants_total": "63,631",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "34.2K",
+      "immigrants_female": "29.5K"
+    },
+    {
+      "country": "Luxembourg",
+      "immigrants_total": "61,859",
+      "immigrants_percent_population": "0.09%",
+      "immigrants_male": "29.9K",
+      "immigrants_female": "31.9K"
+    },
+    {
+      "country": "Gabon",
+      "immigrants_total": "61,160",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "27.3K",
+      "immigrants_female": "33.9K"
+    },
+    {
+      "country": "Bahrain",
+      "immigrants_total": "57,160",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "20.6K",
+      "immigrants_female": "36.5K"
+    },
+    {
+      "country": "Tonga",
+      "immigrants_total": "53,237",
+      "immigrants_percent_population": "0.51%",
+      "immigrants_male": "28.8K",
+      "immigrants_female": "24.4K"
+    },
+    {
+      "country": "Costa Rica",
+      "immigrants_total": "50,982",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "24.8K",
+      "immigrants_female": "26.2K"
+    },
+    {
+      "country": "Brunei",
+      "immigrants_total": "46,552",
+      "immigrants_percent_population": "0.1%",
+      "immigrants_male": "19.4K",
+      "immigrants_female": "27.2K"
+    },
+    {
+      "country": "North Korea",
+      "immigrants_total": "46,379",
+      "immigrants_percent_population": "0%",
+      "immigrants_male": "24K",
+      "immigrants_female": "22.3K"
+    },
+    {
+      "country": "Malta",
+      "immigrants_total": "43,940",
+      "immigrants_percent_population": "0.08%",
+      "immigrants_male": "21.6K",
+      "immigrants_female": "22.4K"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "immigrants_total": "41,433",
+      "immigrants_percent_population": "0.17%",
+      "immigrants_male": "19.8K",
+      "immigrants_female": "21.6K"
+    },
+    {
+      "country": "Namibia",
+      "immigrants_total": "40,371",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "19.5K",
+      "immigrants_female": "20.9K"
+    },
+    {
+      "country": "Monaco",
+      "immigrants_total": "36,682",
+      "immigrants_percent_population": "0.96%",
+      "immigrants_male": "18K",
+      "immigrants_female": "18.7K"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "immigrants_total": "35,264",
+      "immigrants_percent_population": "0.35%",
+      "immigrants_male": "15.6K",
+      "immigrants_female": "19.6K"
+    },
+    {
+      "country": "Papua New Guinea",
+      "immigrants_total": "35,050",
+      "immigrants_percent_population": "0%",
+      "immigrants_male": "15.7K",
+      "immigrants_female": "19.4K"
+    },
+    {
+      "country": "Aruba",
+      "immigrants_total": "29,305",
+      "immigrants_percent_population": "0.27%",
+      "immigrants_male": "13.6K",
+      "immigrants_female": "15.7K"
+    },
+    {
+      "country": "Grenada",
+      "immigrants_total": "26,300",
+      "immigrants_percent_population": "0.22%",
+      "immigrants_male": "12.3K",
+      "immigrants_female": "14K"
+    },
+    {
+      "country": "Iceland",
+      "immigrants_total": "23,326",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "11.3K",
+      "immigrants_female": "12K"
+    },
+    {
+      "country": "Seychelles",
+      "immigrants_total": "22,191",
+      "immigrants_percent_population": "0.17%",
+      "immigrants_male": "10K",
+      "immigrants_female": "12.2K"
+    },
+    {
+      "country": "Saint Lucia",
+      "immigrants_total": "21,706",
+      "immigrants_percent_population": "0.12%",
+      "immigrants_male": "9.3K",
+      "immigrants_female": "12.4K"
+    },
+    {
+      "country": "Dominica",
+      "immigrants_total": "21,384",
+      "immigrants_percent_population": "0.32%",
+      "immigrants_male": "9.2K",
+      "immigrants_female": "12.2K"
+    },
+    {
+      "country": "Cook Islands",
+      "immigrants_total": "20,288",
+      "immigrants_percent_population": "1.53%",
+      "immigrants_male": "9.8K",
+      "immigrants_female": "10.5K"
+    },
+    {
+      "country": "Qatar",
+      "immigrants_total": "19,821",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "9.5K",
+      "immigrants_female": "10.3K"
+    },
+    {
+      "country": "Barbados",
+      "immigrants_total": "19,558",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "9.5K",
+      "immigrants_female": "10.1K"
+    },
+    {
+      "country": "Greenland",
+      "immigrants_total": "18,491",
+      "immigrants_percent_population": "0.33%",
+      "immigrants_male": "8K",
+      "immigrants_female": "10.5K"
+    },
+    {
+      "country": "Oman",
+      "immigrants_total": "17,095",
+      "immigrants_percent_population": "0%",
+      "immigrants_male": "9K",
+      "immigrants_female": "8.1K"
+    },
+    {
+      "country": "Botswana",
+      "immigrants_total": "16,731",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "8.6K",
+      "immigrants_female": "8.2K"
+    },
+    {
+      "country": "Vanuatu",
+      "immigrants_total": "15,202",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "9.8K",
+      "immigrants_female": "5.4K"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "immigrants_total": "13,872",
+      "immigrants_percent_population": "0.3%",
+      "immigrants_male": "6.7K",
+      "immigrants_female": "7.2K"
+    },
+    {
+      "country": "Micronesia",
+      "immigrants_total": "13,568",
+      "immigrants_percent_population": "0.12%",
+      "immigrants_male": "6.8K",
+      "immigrants_female": "6.7K"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "immigrants_total": "13,111",
+      "immigrants_percent_population": "0.14%",
+      "immigrants_male": "6.4K",
+      "immigrants_female": "6.7K"
+    },
+    {
+      "country": "Martinique",
+      "immigrants_total": "12,893",
+      "immigrants_percent_population": "0.04%",
+      "immigrants_male": "5.7K",
+      "immigrants_female": "7.2K"
+    },
+    {
+      "country": "Guadeloupe",
+      "immigrants_total": "12,374",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "4.9K",
+      "immigrants_female": "7.5K"
+    },
+    {
+      "country": "Faroe Islands",
+      "immigrants_total": "12,282",
+      "immigrants_percent_population": "0.22%",
+      "immigrants_male": "5.3K",
+      "immigrants_female": "7K"
+    },
+    {
+      "country": "Eswatini",
+      "immigrants_total": "11,561",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "5.3K",
+      "immigrants_female": "6.2K"
+    },
+    {
+      "country": "Curacao",
+      "immigrants_total": "10,103",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "5K",
+      "immigrants_female": "5.1K"
+    },
+    {
+      "country": "Solomon Islands",
+      "immigrants_total": "8,352",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "4.8K",
+      "immigrants_female": "3.5K"
+    },
+    {
+      "country": "Belize",
+      "immigrants_total": "7,383",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "3.6K",
+      "immigrants_female": "3.8K"
+    },
+    {
+      "country": "Mayotte",
+      "immigrants_total": "6,960",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "3.4K",
+      "immigrants_female": "3.6K"
+    },
+    {
+      "country": "Kiribati",
+      "immigrants_total": "6,306",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "3.1K",
+      "immigrants_female": "3.2K"
+    },
+    {
+      "country": "British Virgin Islands",
+      "immigrants_total": "6,185",
+      "immigrants_percent_population": "0.16%",
+      "immigrants_male": "2.7K",
+      "immigrants_female": "3.5K"
+    },
+    {
+      "country": "New Caledonia",
+      "immigrants_total": "5,082",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "2.5K",
+      "immigrants_female": "2.6K"
+    },
+    {
+      "country": "Niue",
+      "immigrants_total": "4,955",
+      "immigrants_percent_population": "2.72%",
+      "immigrants_male": "2.3K",
+      "immigrants_female": "2.6K"
+    },
+    {
+      "country": "French Guiana",
+      "immigrants_total": "4,490",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "1.9K",
+      "immigrants_female": "2.6K"
+    },
+    {
+      "country": "United States Virgin Islands",
+      "immigrants_total": "4,047",
+      "immigrants_percent_population": "0.05%",
+      "immigrants_male": "2.3K",
+      "immigrants_female": "1.8K"
+    },
+    {
+      "country": "Djibouti",
+      "immigrants_total": "3,576",
+      "immigrants_percent_population": "0%",
+      "immigrants_male": "2.2K",
+      "immigrants_female": "1.4K"
+    },
+    {
+      "country": "American Samoa",
+      "immigrants_total": "3,362",
+      "immigrants_percent_population": "0.07%",
+      "immigrants_male": "1.8K",
+      "immigrants_female": "1.6K"
+    },
+    {
+      "country": "Montserrat",
+      "immigrants_total": "3,341",
+      "immigrants_percent_population": "0.77%",
+      "immigrants_male": "1.7K",
+      "immigrants_female": "1.7K"
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "immigrants_total": "2,779",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "1.4K",
+      "immigrants_female": "1.4K"
+    },
+    {
+      "country": "Maldives",
+      "immigrants_total": "2,773",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "1.1K",
+      "immigrants_female": "1.6K"
+    },
+    {
+      "country": "Palau",
+      "immigrants_total": "2,674",
+      "immigrants_percent_population": "0.15%",
+      "immigrants_male": "1.4K",
+      "immigrants_female": "1.3K"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "immigrants_total": "2,663",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "1.1K",
+      "immigrants_female": "1.6K"
+    },
+    {
+      "country": "Nauru",
+      "immigrants_total": "2,484",
+      "immigrants_percent_population": "0.21%",
+      "immigrants_male": "1.2K",
+      "immigrants_female": "1.3K"
+    },
+    {
+      "country": "Bahamas",
+      "immigrants_total": "2,174",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "1.1K",
+      "immigrants_female": "1.1K"
+    },
+    {
+      "country": "French Polynesia",
+      "immigrants_total": "2,008",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "1K",
+      "immigrants_female": "975"
+    },
+    {
+      "country": "San Marino",
+      "immigrants_total": "1,991",
+      "immigrants_percent_population": "0.06%",
+      "immigrants_male": "846",
+      "immigrants_female": "1.1K"
+    },
+    {
+      "country": "Andorra",
+      "immigrants_total": "1,982",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "1K",
+      "immigrants_female": "977"
+    },
+    {
+      "country": "Anguilla",
+      "immigrants_total": "1,614",
+      "immigrants_percent_population": "0.11%",
+      "immigrants_male": "850",
+      "immigrants_female": "764"
+    },
+    {
+      "country": "Tuvalu",
+      "immigrants_total": "1,239",
+      "immigrants_percent_population": "0.13%",
+      "immigrants_male": "687",
+      "immigrants_female": "552"
+    },
+    {
+      "country": "Guam",
+      "immigrants_total": "1,179",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "558",
+      "immigrants_female": "621"
+    },
+    {
+      "country": "Bermuda",
+      "immigrants_total": "1,100",
+      "immigrants_percent_population": "0.02%",
+      "immigrants_male": "455",
+      "immigrants_female": "645"
+    },
+    {
+      "country": "Isle of Man",
+      "immigrants_total": "908",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "497",
+      "immigrants_female": "411"
+    },
+    {
+      "country": "Tokelau",
+      "immigrants_total": "688",
+      "immigrants_percent_population": "0.26%",
+      "immigrants_male": "365",
+      "immigrants_female": "323"
+    },
+    {
+      "country": "Cayman Islands",
+      "immigrants_total": "609",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "218",
+      "immigrants_female": "391"
+    },
+    {
+      "country": "Gibraltar",
+      "immigrants_total": "474",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "239",
+      "immigrants_female": "235"
+    },
+    {
+      "country": "Marshall Islands",
+      "immigrants_total": "400",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "202",
+      "immigrants_female": "198"
+    },
+    {
+      "country": "Liechtenstein",
+      "immigrants_total": "346",
+      "immigrants_percent_population": "0.01%",
+      "immigrants_male": "305",
+      "immigrants_female": "41"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "immigrants_total": "156",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "88",
+      "immigrants_female": "68"
+    },
+    {
+      "country": "Falkland Islands",
+      "immigrants_total": "93",
+      "immigrants_percent_population": "0.03%",
+      "immigrants_male": "39",
+      "immigrants_female": "54"
+    }
+  ]
+}
