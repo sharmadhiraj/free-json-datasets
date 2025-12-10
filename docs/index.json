@@ -241,6 +241,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_lakes_by_area.json"
       },
       {
+        "title": "List of the World’s Largest Dams by Structural Volume",
+        "subtitle": "Dataset of major dams ranked by fill/structure volume, including location, height, reservoir capacity, installed power, and dam type (TE-Earth, ER-Rock-fill, PG-Concrete gravity).",
+        "updated_at": "December 10, 2025 12:48 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_largest_dams.json"
+      },
+      {
         "title": "Longest Rivers in the World",
         "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
         "updated_at": "August 20, 2025 09:42 AM UTC",

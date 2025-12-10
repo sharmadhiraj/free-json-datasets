@@ -1,0 +1,249 @@
+{
+  "title": "List of the World’s Largest Dams by Structural Volume",
+  "subtitle": "Dataset of major dams ranked by fill/structure volume, including location, height, reservoir capacity, installed power, and dam type (TE-Earth, ER-Rock-fill, PG-Concrete gravity).",
+  "updated_at": "December 10, 2025 12:48 PM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "dam_name": "Tarbela Dam",
+      "location_country": "Pakistan",
+      "year_completed": "1976",
+      "structure_volume_million_m3": "153",
+      "height_m": "143",
+      "reservoir_volume_billion_m3": "13.7",
+      "installed_capacity_mw": "4,888",
+      "dam_type": "TE/ER"
+    },
+    {
+      "rank": "2",
+      "dam_name": "Fort Peck Dam",
+      "location_country": "United States",
+      "year_completed": "1940",
+      "structure_volume_million_m3": "96",
+      "height_m": "76.4",
+      "reservoir_volume_billion_m3": "23",
+      "installed_capacity_mw": "185",
+      "dam_type": "TE"
+    },
+    {
+      "rank": "3",
+      "dam_name": "Atatürk Dam",
+      "location_country": "Turkey",
+      "year_completed": "1990",
+      "structure_volume_million_m3": "84.5",
+      "height_m": "166",
+      "reservoir_volume_billion_m3": "48.7",
+      "installed_capacity_mw": "2,400",
+      "dam_type": "TE/ER"
+    },
+    {
+      "rank": "4",
+      "dam_name": "Houtribdijk",
+      "location_country": "Netherlands",
+      "year_completed": "1968",
+      "structure_volume_million_m3": "78",
+      "height_m": "13",
+      "reservoir_volume_billion_m3": "2",
+      "installed_capacity_mw": "0",
+      "dam_type": "TE/ER"
+    },
+    {
+      "rank": "5",
+      "dam_name": "Oahe Dam",
+      "location_country": "United States",
+      "year_completed": "1963",
+      "structure_volume_million_m3": "70.3",
+      "height_m": "75",
+      "reservoir_volume_billion_m3": "29",
+      "installed_capacity_mw": "786",
+      "dam_type": "TE/ER"
+    },
+    {
+      "rank": "6",
+      "dam_name": "Mangla Dam",
+      "location_country": "Pakistan",
+      "year_completed": "1967",
+      "structure_volume_million_m3": "65.4",
+      "height_m": "147",
+      "reservoir_volume_billion_m3": "7.25",
+      "installed_capacity_mw": "1,000",
+      "dam_type": "TE or TE/ER"
+    },
+    {
+      "rank": "7",
+      "dam_name": "Gardiner Dam",
+      "location_country": "Canada",
+      "year_completed": "1967",
+      "structure_volume_million_m3": "65.4",
+      "height_m": "64",
+      "reservoir_volume_billion_m3": "9.4",
+      "installed_capacity_mw": "186",
+      "dam_type": "TE"
+    },
+    {
+      "rank": "8",
+      "dam_name": "Oroville Dam",
+      "location_country": "United States",
+      "year_completed": "1968",
+      "structure_volume_million_m3": "59.6",
+      "height_m": "230",
+      "reservoir_volume_billion_m3": "4.36",
+      "installed_capacity_mw": "819",
+      "dam_type": "TE/ER"
+    },
+    {
+      "rank": "9",
+      "dam_name": "San Luis Dam (BF Sisk Dam)",
+      "location_country": "United States",
+      "year_completed": "1967",
+      "structure_volume_million_m3": "59.6",
+      "height_m": "93",
+      "reservoir_volume_billion_m3": "2.52",
+      "installed_capacity_mw": "424",
+      "dam_type": "TE"
+    },
+    {
+      "rank": "10",
+      "dam_name": "Nurek Dam",
+      "location_country": "Tajikistan",
+      "year_completed": "1980",
+      "structure_volume_million_m3": "54",
+      "height_m": "300",
+      "reservoir_volume_billion_m3": "10.5",
+      "installed_capacity_mw": "3,200",
+      "dam_type": "TE"
+    },
+    {
+      "rank": "11",
+      "dam_name": "Samara Dam",
+      "location_country": "Russia",
+      "year_completed": "1955",
+      "structure_volume_million_m3": "54",
+      "height_m": "52",
+      "reservoir_volume_billion_m3": "57.3",
+      "installed_capacity_mw": "2,315",
+      "dam_type": "TE or ER"
+    },
+    {
+      "rank": "12",
+      "dam_name": "Garrison Dam",
+      "location_country": "United States",
+      "year_completed": "1954",
+      "structure_volume_million_m3": "50.8",
+      "height_m": "64",
+      "reservoir_volume_billion_m3": "29",
+      "installed_capacity_mw": "583.3",
+      "dam_type": "TE"
+    },
+    {
+      "rank": "13",
+      "dam_name": "Cochiti Dam",
+      "location_country": "United States",
+      "year_completed": "1975",
+      "structure_volume_million_m3": "50.2",
+      "height_m": "76.5",
+      "reservoir_volume_billion_m3": "0.73",
+      "installed_capacity_mw": "NA",
+      "dam_type": "TE"
+    },
+    {
+      "rank": "14",
+      "dam_name": "Aswan Dam",
+      "location_country": "Egypt",
+      "year_completed": "1970",
+      "structure_volume_million_m3": "44.3",
+      "height_m": "111",
+      "reservoir_volume_billion_m3": "169",
+      "installed_capacity_mw": "2,100",
+      "dam_type": "TE/ER"
+    },
+    {
+      "rank": "15",
+      "dam_name": "W. A. C. Bennett Dam",
+      "location_country": "Canada",
+      "year_completed": "1968",
+      "structure_volume_million_m3": "43.7",
+      "height_m": "186",
+      "reservoir_volume_billion_m3": "7.4",
+      "installed_capacity_mw": "2,876",
+      "dam_type": "TE"
+    },
+    {
+      "rank": "16",
+      "dam_name": "San Roque Dam",
+      "location_country": "Philippines",
+      "year_completed": "2003",
+      "structure_volume_million_m3": "40",
+      "height_m": "200",
+      "reservoir_volume_billion_m3": "0.835",
+      "installed_capacity_mw": "345",
+      "dam_type": "TE or ER"
+    },
+    {
+      "rank": "17",
+      "dam_name": "Fort Randall Dam",
+      "location_country": "United States",
+      "year_completed": "1953",
+      "structure_volume_million_m3": "38.2",
+      "height_m": "50.3",
+      "reservoir_volume_billion_m3": "6.7",
+      "installed_capacity_mw": "320",
+      "dam_type": "TE/ER"
+    },
+    {
+      "rank": "18",
+      "dam_name": "Afsluitdijk",
+      "location_country": "Netherlands",
+      "year_completed": "1932",
+      "structure_volume_million_m3": "36.5",
+      "height_m": "13",
+      "reservoir_volume_billion_m3": "5.5",
+      "installed_capacity_mw": "0",
+      "dam_type": "TE/ER"
+    },
+    {
+      "rank": "19",
+      "dam_name": "Guri Dam",
+      "location_country": "Venezuela",
+      "year_completed": "1978",
+      "structure_volume_million_m3": "29.8",
+      "height_m": "162",
+      "reservoir_volume_billion_m3": "135",
+      "installed_capacity_mw": "10,235",
+      "dam_type": "PG/ER"
+    },
+    {
+      "rank": "20",
+      "dam_name": "Three Gorges Dam",
+      "location_country": "China",
+      "year_completed": "2008",
+      "structure_volume_million_m3": "27.4",
+      "height_m": "181",
+      "reservoir_volume_billion_m3": "39.3",
+      "installed_capacity_mw": "22,500",
+      "dam_type": "PG"
+    },
+    {
+      "rank": "21",
+      "dam_name": "Indira Sagar Dam",
+      "location_country": "India",
+      "year_completed": "2005",
+      "structure_volume_million_m3": "12.2",
+      "height_m": "92",
+      "reservoir_volume_billion_m3": "9.75",
+      "installed_capacity_mw": "1,000",
+      "dam_type": "PG"
+    },
+    {
+      "rank": "22",
+      "dam_name": "Kariba Dam",
+      "location_country": "Zimbabwe",
+      "year_completed": "1960",
+      "structure_volume_million_m3": "1",
+      "height_m": "128",
+      "reservoir_volume_billion_m3": "180",
+      "installed_capacity_mw": "2000",
+      "dam_type": "PG"
+    }
+  ]
+}

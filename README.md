@@ -122,6 +122,8 @@ Each dataset follows this JSON format:
   A ranked list of the world's tallest mountains with key geographic details.
 - [**Largest Lakes by Surface Area**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_lakes_by_area.json)  
   Major terrestrial lakes over 3,000 km², ranked by area.
+- [**List of the World’s Largest Dams by Structural Volume**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_largest_dams.json)  
+  Dataset of major dams ranked by fill/structure volume, including location, height, reservoir capacity, installed power, and dam type (TE-Earth, ER-Rock-fill, PG-Concrete gravity).
 - [**Longest Rivers in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/longest_rivers.json)  
   Details of the world's longest rivers, including length, outflow, and countries sharing the basin
 - [**Global Water Stress Rankings (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/water_stress_by_country.json)  
