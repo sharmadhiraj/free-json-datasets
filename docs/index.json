@@ -508,6 +508,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/history_of_tallest_structures.json"
       },
       {
+        "title": "World’s Largest Airlines by Financial Metrics",
+        "subtitle": "Ranking of global airline groups based on revenue, net income, assets, and market capitalization.",
+        "updated_at": "December 11, 2025 09:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/largest_airlines_in_the_world.json"
+      },
+      {
         "title": "Global Road Network Size by Country (2025)",
         "subtitle": "Comparison of total road lengths by country, measured in kilometers, based on 2025 data",
         "updated_at": "November 04, 2025 03:54 AM UTC",

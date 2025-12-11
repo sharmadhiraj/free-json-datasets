@@ -223,6 +223,8 @@ Each dataset follows this JSON format:
   Railway length, electrification, density, ownership, and related statistics by country
 - [**History of the World's Tallest Man-Made Structures**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/history_of_tallest_structures.json)  
   A chronological list of the tallest land-supported man-made structures throughout history.
+- [**World’s Largest Airlines by Financial Metrics**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/largest_airlines_in_the_world.json)  
+  Ranking of global airline groups based on revenue, net income, assets, and market capitalization.
 - [**Global Road Network Size by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/largest_road_networks_by_country.json)  
   Comparison of total road lengths by country, measured in kilometers, based on 2025 data
 - [**World’s Longest Bridges**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/list_of_longest_bridges.json)  
