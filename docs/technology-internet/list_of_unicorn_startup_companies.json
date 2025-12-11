@@ -1,0 +1,5647 @@
+{
+  "title": "Unicorn Startup Companies (Valuation Over $1B)",
+  "subtitle": "A global list of privately held startup companies valued at USD 1 billion or more",
+  "updated_at": "December 11, 2025 12:11 PM UTC",
+  "data": [
+    {
+      "company_name": "OpenAI",
+      "valuation_usd_billion": "500",
+      "valuation_date": "October 2025",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": "Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever"
+    },
+    {
+      "company_name": "SpaceX",
+      "valuation_usd_billion": "425",
+      "valuation_date": "September 2025",
+      "industry": "Aerospace",
+      "operating_countries": "United States",
+      "founders": "Elon Musk"
+    },
+    {
+      "company_name": "Anthropic",
+      "valuation_usd_billion": "350",
+      "valuation_date": "November 2025",
+      "industry": "Artificial Intelligence",
+      "operating_countries": "United States",
+      "founders": "Dario Amodei"
+    },
+    {
+      "company_name": "ByteDance",
+      "valuation_usd_billion": "330",
+      "valuation_date": "September 2025",
+      "industry": "Internet",
+      "operating_countries": "China",
+      "founders": "Zhang Yiming, Liang Rubo"
+    },
+    {
+      "company_name": "xAI",
+      "valuation_usd_billion": "200",
+      "valuation_date": "September 2025",
+      "industry": "Artificial Intelligence",
+      "operating_countries": "United States",
+      "founders": "Elon Musk"
+    },
+    {
+      "company_name": "Stripe",
+      "valuation_usd_billion": "106",
+      "valuation_date": "September 2025",
+      "industry": "Financial services",
+      "operating_countries": "United States and Ireland",
+      "founders": "Patrick and John Collison"
+    },
+    {
+      "company_name": "Databricks",
+      "valuation_usd_billion": "100",
+      "valuation_date": "September 2025",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Ali Ghodsi"
+    },
+    {
+      "company_name": "Binance",
+      "valuation_usd_billion": "80–90",
+      "valuation_date": "September 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "Canada",
+      "founders": "Changpeng Zhao"
+    },
+    {
+      "company_name": "Revolut",
+      "valuation_usd_billion": "75",
+      "valuation_date": "November 2025",
+      "industry": "Financial technology",
+      "operating_countries": "United Kingdom",
+      "founders": "Nikolay Storonsky, Vlad Yatsenko"
+    },
+    {
+      "company_name": "Shein",
+      "valuation_usd_billion": "66",
+      "valuation_date": "May 2023",
+      "industry": "E-commerce",
+      "operating_countries": "China",
+      "founders": "Chris Xu"
+    },
+    {
+      "company_name": "Canva",
+      "valuation_usd_billion": "42",
+      "valuation_date": "October 2024",
+      "industry": "Graphic design",
+      "operating_countries": "Australia",
+      "founders": "Melanie Perkins, Clifford Obrecht, Cameron Adams"
+    },
+    {
+      "company_name": "Figure AI",
+      "valuation_usd_billion": "39",
+      "valuation_date": "September 2025",
+      "industry": "Humanoid robotics",
+      "operating_countries": "United States",
+      "founders": "Brett Adcock"
+    },
+    {
+      "company_name": "Ramp",
+      "valuation_usd_billion": "32",
+      "valuation_date": "November 2025",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Safe Superintelligence",
+      "valuation_usd_billion": "32",
+      "valuation_date": "April 2025",
+      "industry": "Artificial Intelligence",
+      "operating_countries": "United States and Israel",
+      "founders": "Ilya Sutskever, Daniel Gross, Daniel Levy"
+    },
+    {
+      "company_name": "Epic Games",
+      "valuation_usd_billion": "31.5",
+      "valuation_date": "June 2022",
+      "industry": "Video games",
+      "operating_countries": "United States",
+      "founders": "Tim Sweeney"
+    },
+    {
+      "company_name": "Anduril Industries",
+      "valuation_usd_billion": "30.5",
+      "valuation_date": "June 2025",
+      "industry": "Defense technology",
+      "operating_countries": "United States",
+      "founders": "Palmer Luckey"
+    },
+    {
+      "company_name": "Telegram",
+      "valuation_usd_billion": "30",
+      "valuation_date": "January 2021",
+      "industry": "Internet",
+      "operating_countries": "United Arab Emirates",
+      "founders": "Nikolai and Pavel Durov"
+    },
+    {
+      "company_name": "Anysphere",
+      "valuation_usd_billion": "29.3",
+      "valuation_date": "November 2025",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": "Michael Truell, Sualeh Asif, Arvid Lunnemark and Aman Sanger"
+    },
+    {
+      "company_name": "Scale AI",
+      "valuation_usd_billion": "29",
+      "valuation_date": "June 2025",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": "Alexandr Wang, Lucy Guo"
+    },
+    {
+      "company_name": "Fanatics",
+      "valuation_usd_billion": "27",
+      "valuation_date": "June 2022",
+      "industry": "E-commerce",
+      "operating_countries": "United States",
+      "founders": "Alan Trager, Mitch Trager, Michael Rubin"
+    },
+    {
+      "company_name": "Perplexity AI",
+      "valuation_usd_billion": "20",
+      "valuation_date": "September 2025",
+      "industry": "Artificial Intelligence",
+      "operating_countries": "United States",
+      "founders": "Aravind Srinivas, Denis Yarats, Johnny Ho, Andy Konwinski"
+    },
+    {
+      "company_name": "Miro",
+      "valuation_usd_billion": "17.5",
+      "valuation_date": "January 2022",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Andrey Khusid"
+    },
+    {
+      "company_name": "Nature's Fynd",
+      "valuation_usd_billion": "17",
+      "valuation_date": "July 2021",
+      "industry": "Consumer packaged goods",
+      "operating_countries": "United States",
+      "founders": "Thomas Jonas, Mark Kozubal, Yuval Avniel, Rich Macur, Daniel Livny, Matthew Strongin"
+    },
+    {
+      "company_name": "Trendyol",
+      "valuation_usd_billion": "16.5",
+      "valuation_date": "May 2021",
+      "industry": "E-commerce",
+      "operating_countries": "Turkey",
+      "founders": "Demet Mutlu"
+    },
+    {
+      "company_name": "Yuanfudao",
+      "valuation_usd_billion": "15.5",
+      "valuation_date": "October 2020",
+      "industry": "Educational technology",
+      "operating_countries": "China",
+      "founders": "Yong Li"
+    },
+    {
+      "company_name": "Discord",
+      "valuation_usd_billion": "15",
+      "valuation_date": "September 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Jason Citron, Stanislav Vishnevsky"
+    },
+    {
+      "company_name": "DJI",
+      "valuation_usd_billion": "15",
+      "valuation_date": "September 2016",
+      "industry": "Technology",
+      "operating_countries": "China",
+      "founders": "Frank Wang (Wang Tao)"
+    },
+    {
+      "company_name": "GoPuff",
+      "valuation_usd_billion": "15",
+      "valuation_date": "July 2021",
+      "industry": "E-commerce",
+      "operating_countries": "United States",
+      "founders": "Yakir Gola, Rafael Ilishayev"
+    },
+    {
+      "company_name": "Mistral AI",
+      "valuation_usd_billion": "14",
+      "valuation_date": "September 2025",
+      "industry": "Artificial Intelligence",
+      "operating_countries": "France",
+      "founders": "Arthur Mensch, Guillaume Lample, Timothée Lacroix"
+    },
+    {
+      "company_name": "Xiaohongshu",
+      "valuation_usd_billion": "14",
+      "valuation_date": "September 2023",
+      "industry": "E-commerce",
+      "operating_countries": "China",
+      "founders": "Miranda Qu Fang, Charlwin Mao Wenchao"
+    },
+    {
+      "company_name": "Helsing",
+      "valuation_usd_billion": "14",
+      "valuation_date": "September 2025",
+      "industry": "Defense",
+      "operating_countries": "Germany",
+      "founders": "Torsten Reil, Gundbert Scherf, Niklas Köhler"
+    },
+    {
+      "company_name": "Plaid",
+      "valuation_usd_billion": "13.4",
+      "valuation_date": "April 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": "Zach Perret, William Hockey"
+    },
+    {
+      "company_name": "Grammarly",
+      "valuation_usd_billion": "13",
+      "valuation_date": "November 2021",
+      "industry": "Collaborative software",
+      "operating_countries": "Ukraine/United States",
+      "founders": "Alex Shevchenko, Max Lytvyn, and Dmytro Lider"
+    },
+    {
+      "company_name": "Devoted Health",
+      "valuation_usd_billion": "12.6",
+      "valuation_date": "October 2021",
+      "industry": "Healthcare",
+      "operating_countries": "United States",
+      "founders": "Todd Park"
+    },
+    {
+      "company_name": "Faire",
+      "valuation_usd_billion": "12.4",
+      "valuation_date": "November 2021",
+      "industry": "E-commerce",
+      "operating_countries": "United States",
+      "founders": "Max Rhodes"
+    },
+    {
+      "company_name": "Brex",
+      "valuation_usd_billion": "12.3",
+      "valuation_date": "October 2021",
+      "industry": "Finance",
+      "operating_countries": "United States",
+      "founders": "Henrique Dubugras and Pedro Franceschi"
+    },
+    {
+      "company_name": "Thinking Machines Lab",
+      "valuation_usd_billion": "12",
+      "valuation_date": "July 2025",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": "Mira Murati"
+    },
+    {
+      "company_name": "Biosplice Therapeutics",
+      "valuation_usd_billion": "12",
+      "valuation_date": "April 2021",
+      "industry": "Health",
+      "operating_countries": "United States",
+      "founders": "Osman Kibar"
+    },
+    {
+      "company_name": "Bitmain",
+      "valuation_usd_billion": "12",
+      "valuation_date": "June 2018",
+      "industry": "Cryptocurrency",
+      "operating_countries": "China",
+      "founders": "Jihan Wu"
+    },
+    {
+      "company_name": "GoodLeap",
+      "valuation_usd_billion": "12",
+      "valuation_date": "October 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": "Hayes Barnard, Jason Walker, Matt Dawson"
+    },
+    {
+      "company_name": "SenseTime",
+      "valuation_usd_billion": "12",
+      "valuation_date": "January 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "China / Hong Kong",
+      "founders": "Tang Xiao'ouXu Li"
+    },
+    {
+      "company_name": "Getir",
+      "valuation_usd_billion": "12",
+      "valuation_date": "March 2022",
+      "industry": "Retail",
+      "operating_countries": "Turkey",
+      "founders": "Nazım Salur"
+    },
+    {
+      "company_name": "Northvolt",
+      "valuation_usd_billion": "11.75",
+      "valuation_date": "June 2021",
+      "industry": "Batteries",
+      "operating_countries": "Sweden",
+      "founders": "Peter Carlsson, Paolo Cerrutim, Harald Mix, Carl-Erik Lagercrantz"
+    },
+    {
+      "company_name": "Rippling",
+      "valuation_usd_billion": "11.25",
+      "valuation_date": "March 2023",
+      "industry": "Workforce management",
+      "operating_countries": "United States",
+      "founders": "Parker Conrad"
+    },
+    {
+      "company_name": "Airtable",
+      "valuation_usd_billion": "11",
+      "valuation_date": "December 2021",
+      "industry": "Collaborative software",
+      "operating_countries": "United States",
+      "founders": "Howie Liu, Andrew Ofstad, Emmett Nicholas"
+    },
+    {
+      "company_name": "Checkout.com",
+      "valuation_usd_billion": "11",
+      "valuation_date": "December 2022",
+      "industry": "Financial technology",
+      "operating_countries": "United Kingdom",
+      "founders": "Guillaume Pousaz"
+    },
+    {
+      "company_name": "Celonis",
+      "valuation_usd_billion": "11",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "Germany",
+      "founders": "Alex Rinke, Bastian Nominacher, Martin Klenk"
+    },
+    {
+      "company_name": "ZongMu Technology",
+      "valuation_usd_billion": "11",
+      "valuation_date": "June 2021",
+      "industry": "Self-driving cars",
+      "operating_countries": "China",
+      "founders": "Tang Rui"
+    },
+    {
+      "company_name": "Bolt Financial",
+      "valuation_usd_billion": "11",
+      "valuation_date": "January 2022",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": "Ryan Breslow"
+    },
+    {
+      "company_name": "Cognition AI",
+      "valuation_usd_billion": "10.2",
+      "valuation_date": "September 2025",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": "Scott Wu, Steven Hao, Walden Yan"
+    },
+    {
+      "company_name": "Colossal Biosciences",
+      "valuation_usd_billion": "10.2",
+      "valuation_date": "January 2025",
+      "industry": "Biotechnology",
+      "operating_countries": "United States",
+      "founders": "George Churchm, Ben Lamm"
+    },
+    {
+      "company_name": "Alchemy",
+      "valuation_usd_billion": "10.2",
+      "valuation_date": "January 2022",
+      "industry": "Blockchain",
+      "operating_countries": "United States",
+      "founders": "Joe Lau and Nikil Viswanathan"
+    },
+    {
+      "company_name": "Chehaoduo",
+      "valuation_usd_billion": "10",
+      "valuation_date": "July 2021",
+      "industry": "Marketplace",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Digital Currency Group",
+      "valuation_usd_billion": "10",
+      "valuation_date": "November 2021",
+      "industry": "Venture capital",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Gusto",
+      "valuation_usd_billion": "10",
+      "valuation_date": "August 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Joshua Reeves and Edward Kim"
+    },
+    {
+      "company_name": "KuCoin",
+      "valuation_usd_billion": "10",
+      "valuation_date": "May 2022",
+      "industry": "Cryptocurrency",
+      "operating_countries": "Seychelles",
+      "founders": ""
+    },
+    {
+      "company_name": "Lalamove",
+      "valuation_usd_billion": "10",
+      "valuation_date": "January 2021",
+      "industry": "Supply chain management",
+      "operating_countries": "Hong Kong / China",
+      "founders": ""
+    },
+    {
+      "company_name": "Notion Labs",
+      "valuation_usd_billion": "10",
+      "valuation_date": "October 2021",
+      "industry": "Productivity software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Polygon Technology",
+      "valuation_usd_billion": "10",
+      "valuation_date": "February 2022",
+      "industry": "Blockchain, Web3",
+      "operating_countries": "India / Cayman Islands",
+      "founders": ""
+    },
+    {
+      "company_name": "Ripple",
+      "valuation_usd_billion": "10",
+      "valuation_date": "December 2019",
+      "industry": "Cryptocurrency",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Talkdesk",
+      "valuation_usd_billion": "10",
+      "valuation_date": "August 2021",
+      "industry": "Software as a service",
+      "operating_countries": "Portugal / United States",
+      "founders": "Cristina Fonseca, Tiago Paiva"
+    },
+    {
+      "company_name": "Oyo",
+      "valuation_usd_billion": "9.6",
+      "valuation_date": "August 2021",
+      "industry": "Hospitality",
+      "operating_countries": "India",
+      "founders": "Ritesh Agarwal"
+    },
+    {
+      "company_name": "Klaviyo",
+      "valuation_usd_billion": "9.5",
+      "valuation_date": "May 2021",
+      "industry": "Marketing",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "OutSystems",
+      "valuation_usd_billion": "9.5",
+      "valuation_date": "February 2021",
+      "industry": "Software development",
+      "operating_countries": "Portugal / United States",
+      "founders": "Paulo Rosado, Rui Pereira"
+    },
+    {
+      "company_name": "ServiceTitan",
+      "valuation_usd_billion": "9.5",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Vercel",
+      "valuation_usd_billion": "9.3",
+      "valuation_date": "September 2025",
+      "industry": "Cloud computing / AI",
+      "operating_countries": "United States",
+      "founders": "Guillermo Rauch"
+    },
+    {
+      "company_name": "HeyTea",
+      "valuation_usd_billion": "9.3",
+      "valuation_date": "July 2021",
+      "industry": "Retail",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Neuralink",
+      "valuation_usd_billion": "9",
+      "valuation_date": "May 2025",
+      "industry": "Neurotechnology",
+      "operating_countries": "United States",
+      "founders": "Elon Musk"
+    },
+    {
+      "company_name": "VAST Data",
+      "valuation_usd_billion": "9",
+      "valuation_date": "December 2023",
+      "industry": "Data storage",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Tanium",
+      "valuation_usd_billion": "9",
+      "valuation_date": "June 2020",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": "David Hindawi, Orion Hindawi"
+    },
+    {
+      "company_name": "Kavak",
+      "valuation_usd_billion": "8.7",
+      "valuation_date": "October 2021",
+      "industry": "Marketplace",
+      "operating_countries": "Mexico",
+      "founders": ""
+    },
+    {
+      "company_name": "Rapyd",
+      "valuation_usd_billion": "8.7",
+      "valuation_date": "August 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Supercell",
+      "valuation_usd_billion": "8.6",
+      "valuation_date": "June 2021",
+      "industry": "Gaming",
+      "operating_countries": "Finland",
+      "founders": "Ilkka Paananen and Mikko Kodisoja"
+    },
+    {
+      "company_name": "Nuro",
+      "valuation_usd_billion": "8.6",
+      "valuation_date": "November 2021",
+      "industry": "Robotics",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Snyk",
+      "valuation_usd_billion": "8.5",
+      "valuation_date": "September 2021",
+      "industry": "Application security",
+      "operating_countries": "United Kingdom",
+      "founders": "Assaf Hefetz, Danny Grander"
+    },
+    {
+      "company_name": "Bolt",
+      "valuation_usd_billion": "8.4",
+      "valuation_date": "January 2022",
+      "industry": "Transportation",
+      "operating_countries": "Estonia / France",
+      "founders": "Markus Villig"
+    },
+    {
+      "company_name": "Dream11",
+      "valuation_usd_billion": "8",
+      "valuation_date": "November 2021",
+      "industry": "Fantasy sports",
+      "operating_countries": "India",
+      "founders": "Harsh Jain, Bhavit Sheth"
+    },
+    {
+      "company_name": "Flexport",
+      "valuation_usd_billion": "8",
+      "valuation_date": "February 2022",
+      "industry": "Logistics",
+      "operating_countries": "United States",
+      "founders": "Ryan Petersen"
+    },
+    {
+      "company_name": "StarkWare Industries",
+      "valuation_usd_billion": "8",
+      "valuation_date": "May 2022",
+      "industry": "Blockchain",
+      "operating_countries": "Israel",
+      "founders": "Eli Ben-Sasson, Michael Riabzev, Uri Kolodny, Alessandro Chiesa"
+    },
+    {
+      "company_name": "Hopin",
+      "valuation_usd_billion": "7.75",
+      "valuation_date": "August 2021",
+      "industry": "Virtual event",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Dapper Labs",
+      "valuation_usd_billion": "7.6",
+      "valuation_date": "September 2021",
+      "industry": "NFT",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "Netskope",
+      "valuation_usd_billion": "7.5",
+      "valuation_date": "July 2021",
+      "industry": "Computer security",
+      "operating_countries": "India / United States",
+      "founders": "Sanjay Beri, Lebin Cheng, Ravi Ithal, Krishna Narayanaswamy"
+    },
+    {
+      "company_name": "Razorpay",
+      "valuation_usd_billion": "7.5",
+      "valuation_date": "December 2021",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "Harshil Mathur, Shashank Kumar"
+    },
+    {
+      "company_name": "Carta",
+      "valuation_usd_billion": "7.4",
+      "valuation_date": "August 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Henry Ward"
+    },
+    {
+      "company_name": "Ola Consumer",
+      "valuation_usd_billion": "7.3",
+      "valuation_date": "December 2021",
+      "industry": "Transportation",
+      "operating_countries": "India",
+      "founders": "Bhavish Aggarwal, Ankit Bhati"
+    },
+    {
+      "company_name": "Gong",
+      "valuation_usd_billion": "4.5",
+      "valuation_date": "November 2025",
+      "industry": "June 2021",
+      "operating_countries": "Artificial intelligence",
+      "founders": "United States"
+    },
+    {
+      "company_name": "TripActions",
+      "valuation_usd_billion": "7.25",
+      "valuation_date": "October 2021",
+      "industry": "Travel",
+      "operating_countries": "United States",
+      "founders": "Ariel Cohen and Ilan Twig"
+    },
+    {
+      "company_name": "PsiQuantum",
+      "valuation_usd_billion": "7",
+      "valuation_date": "March 2025",
+      "industry": "Quantum computing",
+      "operating_countries": "United States",
+      "founders": "Jeremy O'Brien, Terry Rudolph, Peter Shadbolt, Mark Thompson"
+    },
+    {
+      "company_name": "Automation Anywhere",
+      "valuation_usd_billion": "6.8",
+      "valuation_date": "November 2019",
+      "industry": "Robotic process automation",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "1Password",
+      "valuation_usd_billion": "6.8",
+      "valuation_date": "July 2021",
+      "industry": "Password manager",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "WeDoctor",
+      "valuation_usd_billion": "6.8",
+      "valuation_date": "February 2021",
+      "industry": "Healthcare",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Cohere",
+      "valuation_usd_billion": "6.8",
+      "valuation_date": "August 2025",
+      "industry": "Artificial intelligence",
+      "operating_countries": "Canada",
+      "founders": "Aidan Gomez, Ivan Zhang, Nick Frosst"
+    },
+    {
+      "company_name": "Yanolja",
+      "valuation_usd_billion": "6.7",
+      "valuation_date": "July 2021",
+      "industry": "Hospitality",
+      "operating_countries": "South Korea",
+      "founders": "Lee Su-jin"
+    },
+    {
+      "company_name": "Ziroom",
+      "valuation_usd_billion": "6.6",
+      "valuation_date": "March 2020",
+      "industry": "Real estate technology",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Klarna",
+      "valuation_usd_billion": "6.5",
+      "valuation_date": "July 2022",
+      "industry": "Financial technology",
+      "operating_countries": "Sweden",
+      "founders": "Sebastian Siemiatkowski, Niklas Adalberth, Victor Jacobsson"
+    },
+    {
+      "company_name": "Mollie",
+      "valuation_usd_billion": "6.5",
+      "valuation_date": "June 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Netherlands",
+      "founders": ""
+    },
+    {
+      "company_name": "CRED",
+      "valuation_usd_billion": "6.4",
+      "valuation_date": "June 2022",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "Kunal Shah"
+    },
+    {
+      "company_name": "DataRobot",
+      "valuation_usd_billion": "6.3",
+      "valuation_date": "July 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Personio",
+      "valuation_usd_billion": "6.3",
+      "valuation_date": "October 2021",
+      "industry": "Software",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Doctolib",
+      "valuation_usd_billion": "6.2",
+      "valuation_date": "August 2022",
+      "industry": "Healthcare",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Lianjia (Homelink)",
+      "valuation_usd_billion": "6.04",
+      "valuation_date": "April 2017",
+      "industry": "Real estate",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "OpenEvidence",
+      "valuation_usd_billion": "6",
+      "valuation_date": "October 2025",
+      "industry": "Health Technology",
+      "operating_countries": "United States",
+      "founders": "Daniel Nadler"
+    },
+    {
+      "company_name": "iCapital",
+      "valuation_usd_billion": "6",
+      "valuation_date": "2022",
+      "industry": "Financial services",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Xingsheng Youxuan",
+      "valuation_usd_billion": "6",
+      "valuation_date": "January 2021",
+      "industry": "Retail",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "SandboxAQ",
+      "valuation_usd_billion": "5.6",
+      "valuation_date": "December 2024",
+      "industry": "Quantum technology, Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": "Jack Hidary, Eric Schmidt"
+    },
+    {
+      "company_name": "Back Market",
+      "valuation_usd_billion": "5.8",
+      "valuation_date": "August 2022",
+      "industry": "Marketplace",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "The Boring Company",
+      "valuation_usd_billion": "5.7",
+      "valuation_date": "April 2022",
+      "industry": "Construction",
+      "operating_countries": "United States",
+      "founders": "Elon Musk"
+    },
+    {
+      "company_name": "Vice Media",
+      "valuation_usd_billion": "5.7",
+      "valuation_date": "February 2020",
+      "industry": "Mass media",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Relex",
+      "valuation_usd_billion": "5.68",
+      "valuation_date": "February 2022",
+      "industry": "Supply Chain Automation",
+      "operating_countries": "Finland",
+      "founders": "Johanna Småros, Mikko Kärkkäinen, and Michael Falck"
+    },
+    {
+      "company_name": "Contentsquare",
+      "valuation_usd_billion": "5.6",
+      "valuation_date": "August 2022",
+      "industry": "Software as a service",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Fivetran",
+      "valuation_usd_billion": "5.6",
+      "valuation_date": "September 2021",
+      "industry": "Data infrastructure",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "PharmEasy",
+      "valuation_usd_billion": "5.6",
+      "valuation_date": "October 2021",
+      "industry": "Health technology",
+      "operating_countries": "India",
+      "founders": "Siddharth Shah"
+    },
+    {
+      "company_name": "Postman",
+      "valuation_usd_billion": "5.6",
+      "valuation_date": "August 2021",
+      "industry": "Software as a service",
+      "operating_countries": "India / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Swiggy",
+      "valuation_usd_billion": "5.5",
+      "valuation_date": "January 2022",
+      "industry": "Food delivery",
+      "operating_countries": "India",
+      "founders": "Nandan Reddy, Sriharsha Majety"
+    },
+    {
+      "company_name": "Airwallex",
+      "valuation_usd_billion": "5.5",
+      "valuation_date": "November 2021",
+      "industry": "Financial services",
+      "operating_countries": "Australia / Hong Kong",
+      "founders": ""
+    },
+    {
+      "company_name": "PhonePe",
+      "valuation_usd_billion": "5.5",
+      "valuation_date": "December 2020",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "Sameer Nigam, Rahul Chari"
+    },
+    {
+      "company_name": "Viva Republica (Toss)",
+      "valuation_usd_billion": "5.48",
+      "valuation_date": "June 2021",
+      "industry": "Financial technology",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Helion Energy",
+      "valuation_usd_billion": "5.42",
+      "valuation_date": "January 2025",
+      "industry": "Fusion power",
+      "operating_countries": "United States",
+      "founders": "David Kirtley, John Slough, Chris Pihl, George Votroubek"
+    },
+    {
+      "company_name": "Pony.ai",
+      "valuation_usd_billion": "5.3",
+      "valuation_date": "November 2020",
+      "industry": "Artificial intelligence",
+      "operating_countries": "China / United States",
+      "founders": "James Peng, Tiancheng Lou"
+    },
+    {
+      "company_name": "Trade Republic",
+      "valuation_usd_billion": "5.3",
+      "valuation_date": "May 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Rappi",
+      "valuation_usd_billion": "5.25",
+      "valuation_date": "July 2021",
+      "industry": "Transportation",
+      "operating_countries": "Colombia",
+      "founders": ""
+    },
+    {
+      "company_name": "Oura Health",
+      "valuation_usd_billion": "5.2",
+      "valuation_date": "December 2024",
+      "industry": "Wearables",
+      "operating_countries": "Finland",
+      "founders": "Petteri Lahtela, Kari Kivelä, and Markku Koskela"
+    },
+    {
+      "company_name": "Blockchain.com",
+      "valuation_usd_billion": "5.2",
+      "valuation_date": "March 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "OneTrust",
+      "valuation_usd_billion": "5.1",
+      "valuation_date": "December 2020",
+      "industry": "Cybersecurity",
+      "operating_countries": "United Kingdom / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "SambaNova",
+      "valuation_usd_billion": "5.1",
+      "valuation_date": "April 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Collibra",
+      "valuation_usd_billion": "5+",
+      "valuation_date": "January 2019",
+      "industry": "Data governance",
+      "operating_countries": "Belgium",
+      "founders": "Pieter De Leenheer, Felix Van de Maele, Stijn Christiaens"
+    },
+    {
+      "company_name": "Thrasio",
+      "valuation_usd_billion": "5+",
+      "valuation_date": "October 2021",
+      "industry": "Holding company",
+      "operating_countries": "United States",
+      "founders": "Josh Silberstein and Carlos Cashman"
+    },
+    {
+      "company_name": "CloudKitchens",
+      "valuation_usd_billion": "5",
+      "valuation_date": "November 2019",
+      "industry": "Ghost kitchen",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Hello TransTech",
+      "valuation_usd_billion": "5",
+      "valuation_date": "March 2021",
+      "industry": "Transportation",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Hopper",
+      "valuation_usd_billion": "5",
+      "valuation_date": "August 2021",
+      "industry": "Travel",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "JUUL Labs",
+      "valuation_usd_billion": "5",
+      "valuation_date": "October 2019",
+      "industry": "Electronic cigarettes",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "OfBusiness",
+      "valuation_usd_billion": "5",
+      "valuation_date": "December 2021",
+      "industry": "B2B e-commerce",
+      "operating_countries": "India",
+      "founders": "Bhuvan Gupta, Vasant Sridhar, Ruchi Kalra, Nitin Jain, Asish Mohapatra"
+    },
+    {
+      "company_name": "Ola Electric",
+      "valuation_usd_billion": "5",
+      "valuation_date": "January 2022",
+      "industry": "Electric vehicles",
+      "operating_countries": "India",
+      "founders": "Bhavish Aggarwal"
+    },
+    {
+      "company_name": "Qonto",
+      "valuation_usd_billion": "5",
+      "valuation_date": "August 2022",
+      "industry": "Finance",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Ro",
+      "valuation_usd_billion": "5",
+      "valuation_date": "March 2021",
+      "industry": "Health technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Royole",
+      "valuation_usd_billion": "5",
+      "valuation_date": "August 2018",
+      "industry": "Flexible electronics",
+      "operating_countries": "China / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "UBtech Robotics",
+      "valuation_usd_billion": "5",
+      "valuation_date": "May 2018",
+      "industry": "Robotics",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "GetBlock",
+      "valuation_usd_billion": "4.6",
+      "valuation_date": "June 2020",
+      "industry": "Blockchain",
+      "operating_countries": "Georgia",
+      "founders": "Steven Lloyd"
+    },
+    {
+      "company_name": "United Imaging",
+      "valuation_usd_billion": "5",
+      "valuation_date": "September 2017",
+      "industry": "Healthcare",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Zepz",
+      "valuation_usd_billion": "5",
+      "valuation_date": "August 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Animoca Brands",
+      "valuation_usd_billion": "5",
+      "valuation_date": "January 2022",
+      "industry": "Blockchain gaming",
+      "operating_countries": "Hong Kong",
+      "founders": "Yat Siu"
+    },
+    {
+      "company_name": "Octopus Energy",
+      "valuation_usd_billion": "5",
+      "valuation_date": "December 2021",
+      "industry": "Energy supply",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Pine Labs",
+      "valuation_usd_billion": "5",
+      "valuation_date": "February 2022",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "Lokvir Kapoor, Rajul Garg, Tarun Upaday"
+    },
+    {
+      "company_name": "Meesho",
+      "valuation_usd_billion": "4.9",
+      "valuation_date": "September 2021",
+      "industry": "E-commerce",
+      "operating_countries": "India",
+      "founders": "Vidit Aatrey, Sanjeev Barnwal"
+    },
+    {
+      "company_name": "Pleo",
+      "valuation_usd_billion": "4.7",
+      "valuation_date": "December 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Denmark",
+      "founders": ""
+    },
+    {
+      "company_name": "Checkr",
+      "valuation_usd_billion": "4.6",
+      "valuation_date": "August 2021",
+      "industry": "Human resource management",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Dataiku",
+      "valuation_usd_billion": "4.6",
+      "valuation_date": "August 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "France / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Sorare",
+      "valuation_usd_billion": "4.6",
+      "valuation_date": "August 2022",
+      "industry": "Fantasy sports",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Magic Leap",
+      "valuation_usd_billion": "4.5",
+      "valuation_date": "February 2016",
+      "industry": "Augmented reality",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Socure",
+      "valuation_usd_billion": "4.5",
+      "valuation_date": "November 2021",
+      "industry": "Identity management",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Vinted",
+      "valuation_usd_billion": "4.5",
+      "valuation_date": "May 2021",
+      "industry": "Marketplace",
+      "operating_countries": "Lithuania",
+      "founders": "Milda Mitkutė, Justas Janauskas"
+    },
+    {
+      "company_name": "Zenefits",
+      "valuation_usd_billion": "4.5",
+      "valuation_date": "May 2015",
+      "industry": "Human resource management",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Meizu",
+      "valuation_usd_billion": "4.4",
+      "valuation_date": "October 2016",
+      "industry": "Consumer electronics",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Outreach",
+      "valuation_usd_billion": "4.4",
+      "valuation_date": "June 2021",
+      "industry": "Sales",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Arctic Wolf Networks",
+      "valuation_usd_billion": "4.3",
+      "valuation_date": "July 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Chainalysis",
+      "valuation_usd_billion": "4.2",
+      "valuation_date": "June 2021",
+      "industry": "Blockchain",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Relativity Space",
+      "valuation_usd_billion": "4.2",
+      "valuation_date": "June 2021",
+      "industry": "Aerospace",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "SSENSE",
+      "valuation_usd_billion": "4.15",
+      "valuation_date": "June 2021",
+      "industry": "E-commerce",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "Bitpanda",
+      "valuation_usd_billion": "4.1",
+      "valuation_date": "August 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "Austria",
+      "founders": ""
+    },
+    {
+      "company_name": "Dataminr",
+      "valuation_usd_billion": "4.1",
+      "valuation_date": "March 2021",
+      "industry": "Data analytics",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Yello Mobile",
+      "valuation_usd_billion": "4.05",
+      "valuation_date": "November 2016",
+      "industry": "Software industry",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Abnormal Security",
+      "valuation_usd_billion": "4",
+      "valuation_date": "May 2022",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": "Evan Reiser, Sanjay Jeyakumar"
+    },
+    {
+      "company_name": "AlphaSense",
+      "valuation_usd_billion": "4",
+      "valuation_date": "June 2024",
+      "industry": "Software",
+      "operating_countries": "Finland, United States",
+      "founders": "Jaakko Kokko, Raj Neervannan"
+    },
+    {
+      "company_name": "Branch Metrics",
+      "valuation_usd_billion": "4",
+      "valuation_date": "February 2022",
+      "industry": "Marketing",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "BrowserStack",
+      "valuation_usd_billion": "4",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "India",
+      "founders": "Ritesh Arora, Nakul Aggarwal"
+    },
+    {
+      "company_name": "Clubhouse",
+      "valuation_usd_billion": "4",
+      "valuation_date": "April 2021",
+      "industry": "Messaging",
+      "operating_countries": "United States",
+      "founders": "Paul Davison and Rohan Seth"
+    },
+    {
+      "company_name": "Houzz",
+      "valuation_usd_billion": "4",
+      "valuation_date": "June 2017",
+      "industry": "Interior design",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Megvii",
+      "valuation_usd_billion": "4",
+      "valuation_date": "May 2019",
+      "industry": "Technology",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Melio",
+      "valuation_usd_billion": "4",
+      "valuation_date": "September 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "NEXT Insurance",
+      "valuation_usd_billion": "4",
+      "valuation_date": "March 2021",
+      "industry": "Insurance",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Olive",
+      "valuation_usd_billion": "4",
+      "valuation_date": "June 2021",
+      "industry": "Health technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Patreon",
+      "valuation_usd_billion": "4",
+      "valuation_date": "April 2021",
+      "industry": "Online membership service",
+      "operating_countries": "United States",
+      "founders": "Jack Conte, Sam Yam"
+    },
+    {
+      "company_name": "PointClickCare",
+      "valuation_usd_billion": "4",
+      "valuation_date": "January 2021",
+      "industry": "Software",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "QuintoAndar",
+      "valuation_usd_billion": "4",
+      "valuation_date": "May 2021",
+      "industry": "Real estate",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "Niantic",
+      "valuation_usd_billion": "3.95",
+      "valuation_date": "January 2019",
+      "industry": "Video games",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "StockX",
+      "valuation_usd_billion": "3.8",
+      "valuation_date": "April 2021",
+      "industry": "E-commerce",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Articulate",
+      "valuation_usd_billion": "3.75",
+      "valuation_date": "July 2021",
+      "industry": "Educational technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Cohesity",
+      "valuation_usd_billion": "3.7",
+      "valuation_date": "March 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Noom",
+      "valuation_usd_billion": "3.7",
+      "valuation_date": "May 2021",
+      "industry": "Healthcare",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "PAPAYA Global",
+      "valuation_usd_billion": "3.7",
+      "valuation_date": "September 2021",
+      "industry": "Workforce management",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "ShareChat",
+      "valuation_usd_billion": "3.7",
+      "valuation_date": "December 2021",
+      "industry": "Social network",
+      "operating_countries": "India",
+      "founders": "Ankush Sachdeva, Bhanu Pratap Singh, Farid Ahsan"
+    },
+    {
+      "company_name": "WHOOP",
+      "valuation_usd_billion": "3.6",
+      "valuation_date": "August 2021",
+      "industry": "Wearable technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Shouqi",
+      "valuation_usd_billion": "3.55",
+      "valuation_date": "December 2016",
+      "industry": "Transportation",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Alchemy",
+      "valuation_usd_billion": "3.5",
+      "valuation_date": "October 2021",
+      "industry": "Blockchain",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Coalition",
+      "valuation_usd_billion": "3.5",
+      "valuation_date": "September 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Commure",
+      "valuation_usd_billion": "3.5",
+      "valuation_date": "September 2021",
+      "industry": "Health technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Digit Insurance",
+      "valuation_usd_billion": "3.5",
+      "valuation_date": "July 2021",
+      "industry": "Insurance",
+      "operating_countries": "India",
+      "founders": "Kamesh Goyal"
+    },
+    {
+      "company_name": "Mirakl",
+      "valuation_usd_billion": "3.5",
+      "valuation_date": "September 2021",
+      "industry": "Marketplace",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "N26",
+      "valuation_usd_billion": "3.5",
+      "valuation_date": "July 2019",
+      "industry": "Financial services",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "OwnBackup",
+      "valuation_usd_billion": "3.35",
+      "valuation_date": "August 2021",
+      "industry": "Data storage",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Preferred Networks",
+      "valuation_usd_billion": "3.33",
+      "valuation_date": "September 2019",
+      "industry": "Artificial intelligence",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "CARS24",
+      "valuation_usd_billion": "3.3",
+      "valuation_date": "December 2021",
+      "industry": "Marketplace",
+      "operating_countries": "India",
+      "founders": "Vikram Chopra, Mehul Agrawal, Gajendra Jangid and Ruchit Agarwal"
+    },
+    {
+      "company_name": "Kurly",
+      "valuation_usd_billion": "3.3",
+      "valuation_date": "July 2021",
+      "industry": "E-commerce",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Rubrik",
+      "valuation_usd_billion": "3.3",
+      "valuation_date": "January 2019",
+      "industry": "Computer storage",
+      "operating_countries": "United States",
+      "founders": "Bipul Sinha, Arvind Jain, Soham Mazumdar, Arvind Nithrakashyap"
+    },
+    {
+      "company_name": "WeRide",
+      "valuation_usd_billion": "3.3",
+      "valuation_date": "June 2021",
+      "industry": "Self-driving cars",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Youxia Motors",
+      "valuation_usd_billion": "3.3",
+      "valuation_date": "October 2018",
+      "industry": "Electric vehicles",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "MoonPay",
+      "valuation_usd_billion": "3.4",
+      "valuation_date": "November 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Upstox",
+      "valuation_usd_billion": "3.4",
+      "valuation_date": "November 2021",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "Ravi Kumar, Kavitha Subramanian, Shrini Viswanath"
+    },
+    {
+      "company_name": "Unacademy",
+      "valuation_usd_billion": "3.4",
+      "valuation_date": "August 2021",
+      "industry": "Educational technology",
+      "operating_countries": "India",
+      "founders": "Gaurav Munjal"
+    },
+    {
+      "company_name": "Plus.ai",
+      "valuation_usd_billion": "3.3",
+      "valuation_date": "May 2021",
+      "industry": "Self-driving trucks",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Starburst Data",
+      "valuation_usd_billion": "3.3",
+      "valuation_date": "February 2022",
+      "industry": "Data analytics",
+      "operating_countries": "United States",
+      "founders": "Justin Borgman, Matt Fuller, Kamil Bajda-Pawlikowski, Anu Sudarsan, Wojciech Biela, Grzegorz Kokosiński, Lukasz Osipiuk, Martin Traverso"
+    },
+    {
+      "company_name": "Thumbtack",
+      "valuation_usd_billion": "3.2",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Marco Zappacosta"
+    },
+    {
+      "company_name": "ApplyBoard",
+      "valuation_usd_billion": "3.2",
+      "valuation_date": "June 2021",
+      "industry": "Educational technology",
+      "operating_countries": "Canada",
+      "founders": "Martin Basiri, Massi Basiri, Meti Basiri"
+    },
+    {
+      "company_name": "Blockstream",
+      "valuation_usd_billion": "3.2",
+      "valuation_date": "August 2021",
+      "industry": "Blockchain",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "ConsenSys",
+      "valuation_usd_billion": "3.2",
+      "valuation_date": "November 2021",
+      "industry": "Blockchain",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Cybereason",
+      "valuation_usd_billion": "3.2",
+      "valuation_date": "July 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Verkada",
+      "valuation_usd_billion": "3.2",
+      "valuation_date": "September 2022",
+      "industry": "Physical security",
+      "operating_countries": "United States",
+      "founders": "Filip Kailiszan, James Ren, Benjamin Bercowitz, Hans Robertson"
+    },
+    {
+      "company_name": "Eruditus",
+      "valuation_usd_billion": "3.2",
+      "valuation_date": "August 2021",
+      "industry": "Educational technology",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "SpotOn",
+      "valuation_usd_billion": "3.15",
+      "valuation_date": "September 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "TiendaNube",
+      "valuation_usd_billion": "3.1",
+      "valuation_date": "August 2021",
+      "industry": "E-commerce",
+      "operating_countries": "Argentina",
+      "founders": ""
+    },
+    {
+      "company_name": "SentinelOne",
+      "valuation_usd_billion": "3.1",
+      "valuation_date": "November 2020",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Udaan",
+      "valuation_usd_billion": "3.1",
+      "valuation_date": "January 2021",
+      "industry": "B2B e-commerce",
+      "operating_countries": "India",
+      "founders": "Vaibhav Gupta, Amod Malviya, Sujeet Kumar"
+    },
+    {
+      "company_name": "Wildlife",
+      "valuation_usd_billion": "3+",
+      "valuation_date": "August 2020",
+      "industry": "Mobile gaming",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "Replit",
+      "valuation_usd_billion": "3",
+      "valuation_date": "September 2025",
+      "industry": "Artificial Intelligence",
+      "operating_countries": "United States",
+      "founders": "Amjad Masad, Faris Masad, Haya Odeh"
+    },
+    {
+      "company_name": "CMR Surgical",
+      "valuation_usd_billion": "3",
+      "valuation_date": "January 2021",
+      "industry": "Robotics",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Traveloka",
+      "valuation_usd_billion": "3",
+      "valuation_date": "January 2017",
+      "industry": "Travel",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "ActiveCampaign",
+      "valuation_usd_billion": "3",
+      "valuation_date": "April 2021",
+      "industry": "Marketing",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Age of Learning, Inc.",
+      "valuation_usd_billion": "3",
+      "valuation_date": "June 2021",
+      "industry": "Education",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Automattic",
+      "valuation_usd_billion": "3",
+      "valuation_date": "September 2019",
+      "industry": "Internet",
+      "operating_countries": "United States",
+      "founders": "Matt Mullenweg"
+    },
+    {
+      "company_name": "Calendly",
+      "valuation_usd_billion": "3",
+      "valuation_date": "January 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Tope Awotona"
+    },
+    {
+      "company_name": "Contentful",
+      "valuation_usd_billion": "3",
+      "valuation_date": "July 2021",
+      "industry": "Content management system",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Forter",
+      "valuation_usd_billion": "3",
+      "valuation_date": "May 2021",
+      "industry": "Software",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Grafana Labs",
+      "valuation_usd_billion": "3",
+      "valuation_date": "August 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Groww",
+      "valuation_usd_billion": "3",
+      "valuation_date": "April 2021",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "Lalit Keshre, Harsh Jain, Ishan Bansal, Neeraj Singh"
+    },
+    {
+      "company_name": "Hinge Health",
+      "valuation_usd_billion": "3",
+      "valuation_date": "January 2021",
+      "industry": "Healthcare",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Horizon Robotics",
+      "valuation_usd_billion": "3",
+      "valuation_date": "February 2018",
+      "industry": "Semiconductors",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Lucid Software",
+      "valuation_usd_billion": "3",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "MessageBird",
+      "valuation_usd_billion": "3",
+      "valuation_date": "October 2020",
+      "industry": "Cloud communications",
+      "operating_countries": "Netherlands",
+      "founders": ""
+    },
+    {
+      "company_name": "Seismic",
+      "valuation_usd_billion": "3",
+      "valuation_date": "August 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Sky Mavis",
+      "valuation_usd_billion": "3",
+      "valuation_date": "October 2021",
+      "industry": "Video games",
+      "operating_countries": "Vietnam",
+      "founders": ""
+    },
+    {
+      "company_name": "Souche",
+      "valuation_usd_billion": "3",
+      "valuation_date": "September 2018",
+      "industry": "Marketplace",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "TradingView",
+      "valuation_usd_billion": "3",
+      "valuation_date": "October 2021",
+      "industry": "Finance",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Aiven",
+      "valuation_usd_billion": "3",
+      "valuation_date": "May 2022",
+      "industry": "Data infrastructure",
+      "operating_countries": "Finland",
+      "founders": "Hannu Valtonen, Heikki Nousiainen, Oskari Saarenmaa"
+    },
+    {
+      "company_name": "VANCL",
+      "valuation_usd_billion": "3",
+      "valuation_date": "February 2014",
+      "industry": "E-commerce",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Veepee",
+      "valuation_usd_billion": "3",
+      "valuation_date": "August 2022",
+      "industry": "E-commerce",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "VIPKID",
+      "valuation_usd_billion": "3",
+      "valuation_date": "June 2018",
+      "industry": "Education",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Warby Parker",
+      "valuation_usd_billion": "3",
+      "valuation_date": "August 2020",
+      "industry": "Retail",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Wefox",
+      "valuation_usd_billion": "3",
+      "valuation_date": "June 2021",
+      "industry": "Insurance",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Yixia Technology",
+      "valuation_usd_billion": "3",
+      "valuation_date": "November 2016",
+      "industry": "Internet media",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "OVO",
+      "valuation_usd_billion": "2.9",
+      "valuation_date": "March 2019",
+      "industry": "Financial technology",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "Workrise",
+      "valuation_usd_billion": "2.9",
+      "valuation_date": "May 2021",
+      "industry": "Workforce management",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "DriveWealth",
+      "valuation_usd_billion": "2.85",
+      "valuation_date": "August 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "BharatPe",
+      "valuation_usd_billion": "2.8",
+      "valuation_date": "August 2021",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "Ashneer Grover"
+    },
+    {
+      "company_name": "Graphcore",
+      "valuation_usd_billion": "2.8",
+      "valuation_date": "December 2020",
+      "industry": "Semiconductors",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Groq",
+      "valuation_usd_billion": "2.8",
+      "valuation_date": "August 2024",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": "Jonathan Ross"
+    },
+    {
+      "company_name": "Icertis",
+      "valuation_usd_billion": "2.8",
+      "valuation_date": "March 2021",
+      "industry": "Software",
+      "operating_countries": "India / United States",
+      "founders": "Samir Bodas, Monish Darda."
+    },
+    {
+      "company_name": "OakNorth",
+      "valuation_usd_billion": "2.8",
+      "valuation_date": "February 2019",
+      "industry": "Finance",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "UnionPay",
+      "valuation_usd_billion": "2.8",
+      "valuation_date": "October 2016",
+      "industry": "Finance",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Urban Company",
+      "valuation_usd_billion": "2.8",
+      "valuation_date": "December 2021",
+      "industry": "Home services",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Bird",
+      "valuation_usd_billion": "2.78",
+      "valuation_date": "October 2019",
+      "industry": "Transportation",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Convoy",
+      "valuation_usd_billion": "2.75",
+      "valuation_date": "November 2019",
+      "industry": "Trucking",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Illumio",
+      "valuation_usd_billion": "2.75",
+      "valuation_date": "June 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "MasterClass",
+      "valuation_usd_billion": "2.75",
+      "valuation_date": "May 2021",
+      "industry": "Educational technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Zipline",
+      "valuation_usd_billion": "2.75",
+      "valuation_date": "June 2021",
+      "industry": "Logistics",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Dream Games",
+      "valuation_usd_billion": "2.75",
+      "valuation_date": "January 2022",
+      "industry": "Gaming",
+      "operating_countries": "Turkey",
+      "founders": ""
+    },
+    {
+      "company_name": "Daangn Market",
+      "valuation_usd_billion": "2.7",
+      "valuation_date": "August 2021",
+      "industry": "E-commerce",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Tridge",
+      "valuation_usd_billion": "2.7",
+      "valuation_date": "August 2022",
+      "industry": "Software as a service",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Nextiva",
+      "valuation_usd_billion": "2.7",
+      "valuation_date": "September 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Tradeshift",
+      "valuation_usd_billion": "2.7",
+      "valuation_date": "March 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Odoo",
+      "valuation_usd_billion": "2.63",
+      "valuation_date": "July 2021",
+      "industry": "CRM",
+      "operating_countries": "Belgium",
+      "founders": ""
+    },
+    {
+      "company_name": "AmWINS Group",
+      "valuation_usd_billion": "2.6",
+      "valuation_date": "October 2016",
+      "industry": "Insurance",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "ManoMano",
+      "valuation_usd_billion": "2.6",
+      "valuation_date": "July 2021",
+      "industry": "E-commerce",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Pendo",
+      "valuation_usd_billion": "2.6",
+      "valuation_date": "July 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Sourcegraph",
+      "valuation_usd_billion": "2.6",
+      "valuation_date": "July 2021",
+      "industry": "Developer platform",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Jumpcloud",
+      "valuation_usd_billion": "2.56",
+      "valuation_date": "September 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Cato Networks",
+      "valuation_usd_billion": "2.5",
+      "valuation_date": "October 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "eToro",
+      "valuation_usd_billion": "2.5",
+      "valuation_date": "December 2020",
+      "industry": "Financial technology",
+      "operating_countries": "Israel",
+      "founders": "Yoni Assia, Ronen Assia, David Ring"
+    },
+    {
+      "company_name": "Infra.Market",
+      "valuation_usd_billion": "2.5",
+      "valuation_date": "August 2021",
+      "industry": "Marketplace",
+      "operating_countries": "India",
+      "founders": "Aaditya Sharda, Souvik Sengupta"
+    },
+    {
+      "company_name": "DriveNets",
+      "valuation_usd_billion": "2.5+",
+      "valuation_date": "August 2022",
+      "industry": "Network operating system, Software-defined networking, Software as a service",
+      "operating_countries": "Israel",
+      "founders": "Ido Susan, Hillel Kobrinsky"
+    },
+    {
+      "company_name": "Lenskart",
+      "valuation_usd_billion": "2.5",
+      "valuation_date": "May 2021",
+      "industry": "Retail",
+      "operating_countries": "India",
+      "founders": "Peyush Bansal, Amit Chaudhary, Sumeet Kapahi"
+    },
+    {
+      "company_name": "Monzo",
+      "valuation_usd_billion": "2.5",
+      "valuation_date": "June 2019",
+      "industry": "Financial services",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Ualá",
+      "valuation_usd_billion": "2.45",
+      "valuation_date": "November 2019",
+      "industry": "Personal finance",
+      "operating_countries": "Argentina",
+      "founders": ""
+    },
+    {
+      "company_name": "HoneyBook",
+      "valuation_usd_billion": "2.4",
+      "valuation_date": "November 2021",
+      "industry": "Financial services",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "BitSight",
+      "valuation_usd_billion": "2.4",
+      "valuation_date": "September 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": "Nagarjuna Venna, Stephen Boyer"
+    },
+    {
+      "company_name": "Exabeam",
+      "valuation_usd_billion": "2.4",
+      "valuation_date": "June 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Paxos",
+      "valuation_usd_billion": "2.4",
+      "valuation_date": "April 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Mozido",
+      "valuation_usd_billion": "2.39",
+      "valuation_date": "October 2014",
+      "industry": "E-commerce",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Wemakeprice",
+      "valuation_usd_billion": "2.33",
+      "valuation_date": "September 2015",
+      "industry": "E-commerce",
+      "operating_countries": "South Korea",
+      "founders": "Huh Min"
+    },
+    {
+      "company_name": "Headway",
+      "valuation_usd_billion": "2.3",
+      "valuation_date": "July 2024",
+      "industry": "Healthcare",
+      "operating_countries": "United States",
+      "founders": "Andrew Adams"
+    },
+    {
+      "company_name": "Highspot",
+      "valuation_usd_billion": "2.3",
+      "valuation_date": "February 2021",
+      "industry": "Sales",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "MPL",
+      "valuation_usd_billion": "2.3",
+      "valuation_date": "September 2021",
+      "industry": "Mobile gaming",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Uptake",
+      "valuation_usd_billion": "2.3",
+      "valuation_date": "November 2017",
+      "industry": "Asset performance management",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Algolia",
+      "valuation_usd_billion": "2.25",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "France / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "KeepTruckin",
+      "valuation_usd_billion": "2.25",
+      "valuation_date": "June 2021",
+      "industry": "Logistics",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Via Transportation",
+      "valuation_usd_billion": "2.25",
+      "valuation_date": "March 2020",
+      "industry": "Transportation",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Zume",
+      "valuation_usd_billion": "2.25",
+      "valuation_date": "November 2018",
+      "industry": "Food packaging, Logistics",
+      "operating_countries": "United States",
+      "founders": "Alex Garden, Julia Collins"
+    },
+    {
+      "company_name": "Acorns",
+      "valuation_usd_billion": "2.2",
+      "valuation_date": "May 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Bitso",
+      "valuation_usd_billion": "2.2",
+      "valuation_date": "May 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "Mexico",
+      "founders": ""
+    },
+    {
+      "company_name": "Gympass",
+      "valuation_usd_billion": "2.2",
+      "valuation_date": "June 2021",
+      "industry": "Fitness",
+      "operating_countries": "Brazil / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Transmit Security",
+      "valuation_usd_billion": "2.2",
+      "valuation_date": "June 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Addepar",
+      "valuation_usd_billion": "2.17",
+      "valuation_date": "June 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Eightfold.ai",
+      "valuation_usd_billion": "2.1+",
+      "valuation_date": "June 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "PayFit",
+      "valuation_usd_billion": "2.1",
+      "valuation_date": "January 2022",
+      "industry": "Software",
+      "operating_countries": "France",
+      "founders": "Ghislain de Fontenay, Firmin Zoccchetto, Florian Fournier"
+    },
+    {
+      "company_name": "6sense",
+      "valuation_usd_billion": "2.1",
+      "valuation_date": "March 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "C6 Bank",
+      "valuation_usd_billion": "2.1",
+      "valuation_date": "December 2020",
+      "industry": "Financial services",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "Mambu",
+      "valuation_usd_billion": "2.1",
+      "valuation_date": "January 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Moveworks",
+      "valuation_usd_billion": "2.1",
+      "valuation_date": "June 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Nextdoor",
+      "valuation_usd_billion": "2.1",
+      "valuation_date": "May 2019",
+      "industry": "Social network",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Webflow",
+      "valuation_usd_billion": "2.1",
+      "valuation_date": "January 2021",
+      "industry": "Web development",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "bKash",
+      "valuation_usd_billion": "2+",
+      "valuation_date": "November 2021",
+      "industry": "Mobile financial services",
+      "operating_countries": "Bangladesh",
+      "founders": "Kamal Quadir"
+    },
+    {
+      "company_name": "Babylon Health",
+      "valuation_usd_billion": "2+",
+      "valuation_date": "August 2019",
+      "industry": "Healthcare",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Bought By Many",
+      "valuation_usd_billion": "2+",
+      "valuation_date": "June 2021",
+      "industry": "Insurance",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "FlixMobility",
+      "valuation_usd_billion": "2+",
+      "valuation_date": "August 2019",
+      "industry": "Transportation",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Tipalti",
+      "valuation_usd_billion": "2+",
+      "valuation_date": "October 2020",
+      "industry": "Financial technology",
+      "operating_countries": "United States / Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "XtalPi",
+      "valuation_usd_billion": "2+",
+      "valuation_date": "August 2021",
+      "industry": "Pharmaceuticals",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Figure AI",
+      "valuation_usd_billion": "2",
+      "valuation_date": "February 2024",
+      "industry": "Humanoid robotics",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Hive",
+      "valuation_usd_billion": "2",
+      "valuation_date": "April 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": "Kevin Guo, Dmitriy Karpman"
+    },
+    {
+      "company_name": "Mural",
+      "valuation_usd_billion": "2",
+      "valuation_date": "July 2021",
+      "industry": "Technology",
+      "operating_countries": "Argentina / United States",
+      "founders": "Patricio Jutard"
+    },
+    {
+      "company_name": "AppsFlyer",
+      "valuation_usd_billion": "2",
+      "valuation_date": "November 2020",
+      "industry": "Mobile marketing analytics",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Beijing Weiying Technology",
+      "valuation_usd_billion": "2",
+      "valuation_date": "April 2016",
+      "industry": "E-commerce, movie ticket distributor",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "BlaBlaCar",
+      "valuation_usd_billion": "2",
+      "valuation_date": "April 2021",
+      "industry": "Transportation",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Calm",
+      "valuation_usd_billion": "2",
+      "valuation_date": "December 2020",
+      "industry": "Digital health",
+      "operating_countries": "United States",
+      "founders": "Michael Acton Smith, Alex Tew"
+    },
+    {
+      "company_name": "Clearco",
+      "valuation_usd_billion": "2",
+      "valuation_date": "April 2021",
+      "industry": "Financial services",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "ClickHouse",
+      "valuation_usd_billion": "2",
+      "valuation_date": "October 2021",
+      "industry": "Database management",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Clip",
+      "valuation_usd_billion": "2",
+      "valuation_date": "June 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Mexico",
+      "founders": ""
+    },
+    {
+      "company_name": "Cockroach Labs",
+      "valuation_usd_billion": "2",
+      "valuation_date": "January 2021",
+      "industry": "Database management",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Divvy Homes",
+      "valuation_usd_billion": "2",
+      "valuation_date": "August 2021",
+      "industry": "Real estate technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Druva",
+      "valuation_usd_billion": "2",
+      "valuation_date": "April 2021",
+      "industry": "Cloud computing",
+      "operating_countries": "India / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Exotec",
+      "valuation_usd_billion": "2",
+      "valuation_date": "August 2022",
+      "industry": "Robotics",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Firstp2p",
+      "valuation_usd_billion": "2",
+      "valuation_date": "September 2016",
+      "industry": "Financial services",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Formlabs",
+      "valuation_usd_billion": "2",
+      "valuation_date": "May 2021",
+      "industry": "3D printing",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Huimin.cn",
+      "valuation_usd_billion": "2",
+      "valuation_date": "September 2016",
+      "industry": "B2B e-commerce",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Iterable",
+      "valuation_usd_billion": "2",
+      "valuation_date": "June 2021",
+      "industry": "Marketing",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Kry",
+      "valuation_usd_billion": "2",
+      "valuation_date": "April 2021",
+      "industry": "Healthcare",
+      "operating_countries": "Sweden",
+      "founders": ""
+    },
+    {
+      "company_name": "Meicai.cn",
+      "valuation_usd_billion": "2",
+      "valuation_date": "June 2016",
+      "industry": "Agriculture, E-commerce",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Mynt",
+      "valuation_usd_billion": "2",
+      "valuation_date": "November 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Philippines",
+      "founders": ""
+    },
+    {
+      "company_name": "OPay",
+      "valuation_usd_billion": "2",
+      "valuation_date": "August 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Nigeria",
+      "founders": ""
+    },
+    {
+      "company_name": "Oxford Nanopore Technologies",
+      "valuation_usd_billion": "2",
+      "valuation_date": "November 2012",
+      "industry": "Nanopore sequencing",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Sword Health",
+      "valuation_usd_billion": "2",
+      "valuation_date": "November 2021",
+      "industry": "Health",
+      "operating_countries": "Portugal / United States",
+      "founders": "Virgílio Bento, Márcio Colunas"
+    },
+    {
+      "company_name": "Taopiaopiao",
+      "valuation_usd_billion": "2",
+      "valuation_date": "July 2017",
+      "industry": "E-commerce, movie ticket distributor",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Trendy International Group",
+      "valuation_usd_billion": "2",
+      "valuation_date": "February 2012",
+      "industry": "Fashion, Retail",
+      "operating_countries": "China / Hong Kong",
+      "founders": ""
+    },
+    {
+      "company_name": "Unqork",
+      "valuation_usd_billion": "2",
+      "valuation_date": "October 2020",
+      "industry": "Software development",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Zerodha",
+      "valuation_usd_billion": "2",
+      "valuation_date": "May 2021",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Instabase",
+      "valuation_usd_billion": "2",
+      "valuation_date": "June 2023",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Anant Bhardwaj"
+    },
+    {
+      "company_name": "Zilch",
+      "valuation_usd_billion": "2",
+      "valuation_date": "November 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Akulaku",
+      "valuation_usd_billion": "2",
+      "valuation_date": "February 2022",
+      "industry": "Financial technology",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "Ankorstore",
+      "valuation_usd_billion": "1.98",
+      "valuation_date": "August 2022",
+      "industry": "Marketplace",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Avant",
+      "valuation_usd_billion": "1.98",
+      "valuation_date": "September 2015",
+      "industry": "Consumer finance",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Intarcia Therapeutics",
+      "valuation_usd_billion": "1.95",
+      "valuation_date": "September 2016",
+      "industry": "Pharmaceutical",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "ThoughtSpot",
+      "valuation_usd_billion": "1.95",
+      "valuation_date": "August 2019",
+      "industry": "Analytics",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Yinlong Group",
+      "valuation_usd_billion": "1.95",
+      "valuation_date": "December 2016",
+      "industry": "Energy",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Sanpower Group",
+      "valuation_usd_billion": "1.93",
+      "valuation_date": "March 2018",
+      "industry": "Holding company",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "ZigBang",
+      "valuation_usd_billion": "1.93",
+      "valuation_date": "June 2022",
+      "industry": "Property technology",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Bunq",
+      "valuation_usd_billion": "1.9",
+      "valuation_date": "July 2021",
+      "industry": "Financial services",
+      "operating_countries": "Netherlands",
+      "founders": ""
+    },
+    {
+      "company_name": "CoinSwitch Kuber",
+      "valuation_usd_billion": "1.9",
+      "valuation_date": "October 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "India",
+      "founders": "Ashish Singhal, Vimal Sagar Tiwari, Govind Soni"
+    },
+    {
+      "company_name": "Dfinity",
+      "valuation_usd_billion": "1.9",
+      "valuation_date": "August 2018",
+      "industry": "Cloud computing",
+      "operating_countries": "Switzerland",
+      "founders": ""
+    },
+    {
+      "company_name": "Prosper Marketplace",
+      "valuation_usd_billion": "1.9",
+      "valuation_date": "August 2015",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Musinsa",
+      "valuation_usd_billion": "1.89",
+      "valuation_date": "November 2019",
+      "industry": "Fashion",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Apus Group",
+      "valuation_usd_billion": "1.85",
+      "valuation_date": "August 2017",
+      "industry": "Mobile internet",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "BenevolentAI",
+      "valuation_usd_billion": "1.85",
+      "valuation_date": "August 2015",
+      "industry": "Drug discovery",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "MEGAZONE",
+      "valuation_usd_billion": "1.83",
+      "valuation_date": "Aug 2022",
+      "industry": "Cloud computing",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Lovable",
+      "valuation_usd_billion": "1.8",
+      "valuation_date": "July 2025",
+      "industry": "Artificial intelligence",
+      "operating_countries": "Sweden",
+      "founders": "Anton Osika, Fabian Hedin"
+    },
+    {
+      "company_name": "BillDesk",
+      "valuation_usd_billion": "1.8",
+      "valuation_date": "November 2018",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "M.N. Srinivasu, Ajay Kaushal, Karthik Ganapathy"
+    },
+    {
+      "company_name": "Landa Digital Printing",
+      "valuation_usd_billion": "1.8",
+      "valuation_date": "June 2018",
+      "industry": "Printing",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "Lightricks",
+      "valuation_usd_billion": "1.8",
+      "valuation_date": "September 2021",
+      "industry": "Software development",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "NantOmics",
+      "valuation_usd_billion": "1.8",
+      "valuation_date": "June 2015",
+      "industry": "Biotechnology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Orca Security",
+      "valuation_usd_billion": "1.8",
+      "valuation_date": "October 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "Quora",
+      "valuation_usd_billion": "1.8",
+      "valuation_date": "April 2017",
+      "industry": "Social network",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Zocdoc",
+      "valuation_usd_billion": "1.8",
+      "valuation_date": "August 2015",
+      "industry": "Healthcare",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "L&P Cosmetic",
+      "valuation_usd_billion": "1.78",
+      "valuation_date": "March 2018",
+      "industry": "Cosmetics",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Creditas",
+      "valuation_usd_billion": "1.75",
+      "valuation_date": "December 2020",
+      "industry": "Financial services",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "Spinny",
+      "valuation_usd_billion": "1.75",
+      "valuation_date": "November 2021",
+      "industry": "Marketplace",
+      "operating_countries": "India",
+      "founders": "Niraj Singh, Ramanshu Mahaur, Ganesh Pawar, Mohit Gupta"
+    },
+    {
+      "company_name": "Trulioo",
+      "valuation_usd_billion": "1.75",
+      "valuation_date": "June 2021",
+      "industry": "Identity management",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "ADVASA",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "January 2023",
+      "industry": "Software",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "Dragos",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "October 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Dutchie.com",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "March 2021",
+      "industry": "Cannabis",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "GVE",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "January 2023",
+      "industry": "Software",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "Harness",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Jyoti Bansal"
+    },
+    {
+      "company_name": "PAX Labs",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "April 2019",
+      "industry": "Cannabis",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Taihe Music Group",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "June 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Vestiaire Collective",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "September 2021",
+      "industry": "Marketplace",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Voodoo",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "August 2022",
+      "industry": "Gaming",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "VTEX",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "September 2020",
+      "industry": "Technology",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "Wave",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "September 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Senegal / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Workato",
+      "valuation_usd_billion": "1.7",
+      "valuation_date": "December 2020",
+      "industry": "Technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Alan",
+      "valuation_usd_billion": "1.68",
+      "valuation_date": "April 2021",
+      "industry": "Health technology",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "GoStudent",
+      "valuation_usd_billion": "1.67",
+      "valuation_date": "June 2021",
+      "industry": "Educational technology",
+      "operating_countries": "Austria",
+      "founders": ""
+    },
+    {
+      "company_name": "Incredible Health",
+      "valuation_usd_billion": "1.65",
+      "valuation_date": "August 2022",
+      "industry": "Healthcare Technology",
+      "operating_countries": "United States",
+      "founders": "Iman Abuzeid, Rome Portlock"
+    },
+    {
+      "company_name": "HiBob",
+      "valuation_usd_billion": "1.65",
+      "valuation_date": "October 2021",
+      "industry": "HR technology",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Solarisbank",
+      "valuation_usd_billion": "1.65",
+      "valuation_date": "July 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Wayflyer",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "Feb 2022",
+      "industry": "Financial technology",
+      "operating_countries": "Ireland",
+      "founders": ""
+    },
+    {
+      "company_name": "Afiniti",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "May 2017",
+      "industry": "Software development",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Aiways",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "April 2018",
+      "industry": "Electric vehicles",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Caocao Zhuanche",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "January 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Cresta",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "March 2022",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United States",
+      "founders": "Sebastian Thrun, Tim Shi, Zayd Enam"
+    },
+    {
+      "company_name": "Clari",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "March 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Clio",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "April 2021",
+      "industry": "Legal technology",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "Cognite",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "May 2021",
+      "industry": "Software",
+      "operating_countries": "Norway",
+      "founders": ""
+    },
+    {
+      "company_name": "HomeLight",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "September 2021",
+      "industry": "Real estate",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Infinidat",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "October 2017",
+      "industry": "Data storage",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Judo Bank",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "December 2020",
+      "industry": "Financial services",
+      "operating_countries": "Australia",
+      "founders": ""
+    },
+    {
+      "company_name": "Nord Security",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "April 2022",
+      "industry": "VPN service",
+      "operating_countries": "Lithuania",
+      "founders": "Tom Okman, Eimantas Sabaliauskas, Jonas Karklys"
+    },
+    {
+      "company_name": "SafetyCulture",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "May 2021",
+      "industry": "Technology",
+      "operating_countries": "Australia",
+      "founders": "Luke Anear"
+    },
+    {
+      "company_name": "SmartHR",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "May 2021",
+      "industry": "HR technology",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "Unite Us",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "March 2021",
+      "industry": "Healthcare",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Vanta",
+      "valuation_usd_billion": "1.6",
+      "valuation_date": "June 2022",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": "Christina Cacioppo"
+    },
+    {
+      "company_name": "CureFit",
+      "valuation_usd_billion": "1.56",
+      "valuation_date": "November 2021",
+      "industry": "",
+      "operating_countries": "India",
+      "founders": "Mukesh Bansal, Ankit Nagori"
+    },
+    {
+      "company_name": "HeartFlow",
+      "valuation_usd_billion": "1.5+",
+      "valuation_date": "February 2018",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Airbyte",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "December 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Michel Tricot, John Lafleur"
+    },
+    {
+      "company_name": "Aihuishou",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "January 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Andela",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "September 2021",
+      "industry": "Education",
+      "operating_countries": "Nigeria/ United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Culture Amp",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "July 2021",
+      "industry": "Software",
+      "operating_countries": "Australia",
+      "founders": ""
+    },
+    {
+      "company_name": "Devo, Inc.",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "October 2021",
+      "industry": "Software",
+      "operating_countries": "Spain",
+      "founders": ""
+    },
+    {
+      "company_name": "Gett",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "May 2019",
+      "industry": "Transportation",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "ID.me",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "March 2021",
+      "industry": "Identity verification service",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Ledger",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "June 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Matillion",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "September 2021",
+      "industry": "Data analytics",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "MOLOCO",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "August 2021",
+      "industry": "Advertising technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Molbio Diagnostics",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "February 2023",
+      "industry": "Medical device",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Mu Sigma",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "February 2013",
+      "industry": "Management consulting",
+      "operating_countries": "India / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "NextSilicon",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "June 2021",
+      "industry": "Semiconductors",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "NotCo",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "July 2021",
+      "industry": "Food technology",
+      "operating_countries": "Chile",
+      "founders": ""
+    },
+    {
+      "company_name": "Podium",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "August 2019",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Remote",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "July 2021",
+      "industry": "Software",
+      "operating_countries": "Portugal / United States",
+      "founders": "Marcelo Lebre, Job van der Voort"
+    },
+    {
+      "company_name": "Spring Rain Software",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "June 2016",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Starling Bank",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "March 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "5ire",
+      "valuation_usd_billion": "1.5+",
+      "valuation_date": "July 2022",
+      "industry": "Technology",
+      "operating_countries": "India",
+      "founders": "Pratik Gauri"
+    },
+    {
+      "company_name": "Swvl",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "July 2021",
+      "industry": "Transportation",
+      "operating_countries": "Egypt",
+      "founders": "Mostafa Kandil"
+    },
+    {
+      "company_name": "Tujia.com",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "October 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "ZBJ.com",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "June 2015",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Ascend Money",
+      "valuation_usd_billion": "1.5",
+      "valuation_date": "September 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Thailand",
+      "founders": ""
+    },
+    {
+      "company_name": "Hellobike",
+      "valuation_usd_billion": "1.47",
+      "valuation_date": "June 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Suning Sports",
+      "valuation_usd_billion": "1.47",
+      "valuation_date": "July 2018",
+      "industry": "Holding company",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Koudai Gouwu",
+      "valuation_usd_billion": "1.45",
+      "valuation_date": "October 2014",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "M1 Finance",
+      "valuation_usd_billion": "1.45",
+      "valuation_date": "July 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Zeta",
+      "valuation_usd_billion": "1.45",
+      "valuation_date": "May 2021",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "Bhavin Turakhia, Ramki Gaddipati"
+    },
+    {
+      "company_name": "Einride",
+      "valuation_usd_billion": "1.44",
+      "valuation_date": "April 2022",
+      "industry": "Technology",
+      "operating_countries": "Sweden",
+      "founders": ""
+    },
+    {
+      "company_name": "Deliverect",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "January 2022",
+      "industry": "Ordering software for POS",
+      "operating_countries": "Belgium",
+      "founders": ""
+    },
+    {
+      "company_name": "Away",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "May 2019",
+      "industry": "Retail",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "OneCard",
+      "valuation_usd_billion": "1.4+",
+      "valuation_date": "July 2022",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": "Anurag Sinha, Rupesh Kumar, Vaibhav Hathi"
+    },
+    {
+      "company_name": "Bucketplace",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "May 2022",
+      "industry": "Interior design",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Cabify",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "January 2018",
+      "industry": "Transportation",
+      "operating_countries": "Spain",
+      "founders": ""
+    },
+    {
+      "company_name": "Chargebee",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "April 2021",
+      "industry": "Financial technology",
+      "operating_countries": "India / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Epidemic Sound",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "March 2021",
+      "industry": "Music",
+      "operating_countries": "Sweden",
+      "founders": "Peer Åström, David Stenmarck, Oscar Höglund, Jan Zachrisson"
+    },
+    {
+      "company_name": "FiscalNote",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "May 2021",
+      "industry": "Data analytics",
+      "operating_countries": "United States",
+      "founders": "Timothy Hwang, Gerald Yao, Jonathan Chen"
+    },
+    {
+      "company_name": "Five Star Finance",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "March 2021",
+      "industry": "Financial services",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Gupshup",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "April 2021",
+      "industry": "Messaging",
+      "operating_countries": "India / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "IAD",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "Oct 2021",
+      "industry": "Real estate",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "NetDocuments",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "May 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Panther Labs, Inc.",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "December 2021",
+      "industry": "Computer security",
+      "operating_countries": "United States",
+      "founders": "Jack Naglieri"
+    },
+    {
+      "company_name": "Pristyn Care",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "December 2021",
+      "industry": "Health technology",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "QOMPLX, Inc.",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "March 2021",
+      "industry": "Computer security",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Rebel Foods",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "October 2021",
+      "industry": "Ghost kitchen",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Stash",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "February 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Symphony",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "June 2019",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Voyager",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "April 2022",
+      "industry": "Financial technology",
+      "operating_countries": "Philippines",
+      "founders": ""
+    },
+    {
+      "company_name": "Yotpo",
+      "valuation_usd_billion": "1.4",
+      "valuation_date": "March 2021",
+      "industry": "Marketing",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "RIDI",
+      "valuation_usd_billion": "1.33",
+      "valuation_date": "August 2021",
+      "industry": "E-commerce",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Zetwerk",
+      "valuation_usd_billion": "1.33",
+      "valuation_date": "August 2021",
+      "industry": "",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "GPClub",
+      "valuation_usd_billion": "1.32",
+      "valuation_date": "December 2018",
+      "industry": "",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "DistroKid",
+      "valuation_usd_billion": "1.3",
+      "valuation_date": "August 2021",
+      "industry": "Music",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "ETCP",
+      "valuation_usd_billion": "1.3",
+      "valuation_date": "October 2016",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Feedzai",
+      "valuation_usd_billion": "1.3",
+      "valuation_date": "March 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "Portugal / United States",
+      "founders": "Nuno Sebastião"
+    },
+    {
+      "company_name": "G2",
+      "valuation_usd_billion": "1.3",
+      "valuation_date": "June 2021",
+      "industry": "Technology",
+      "operating_countries": "United States",
+      "founders": "Tim Handorf, Godard Abel, Matt Gorniak, Mark Myers, Mike Wheeler"
+    },
+    {
+      "company_name": "Innovaccer",
+      "valuation_usd_billion": "1.3",
+      "valuation_date": "February 2021",
+      "industry": "Health care",
+      "operating_countries": "India / United States",
+      "founders": "Abhinav Shashank, Kanav Hasija, Sandeep Gupta"
+    },
+    {
+      "company_name": "Knotel",
+      "valuation_usd_billion": "1.3",
+      "valuation_date": "August 2019",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Konfio",
+      "valuation_usd_billion": "1.3",
+      "valuation_date": "September 2021",
+      "industry": "Financial services",
+      "operating_countries": "Mexico",
+      "founders": ""
+    },
+    {
+      "company_name": "Kr Space",
+      "valuation_usd_billion": "1.3",
+      "valuation_date": "June 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Yugabyte",
+      "valuation_usd_billion": "1.3",
+      "valuation_date": "October 2021",
+      "industry": "Database management",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Cart.com",
+      "valuation_usd_billion": "1.27",
+      "valuation_date": "June 2023",
+      "industry": "Commerce and logistics",
+      "operating_countries": "United States",
+      "founders": "Omair Tariq, Remington Tonar"
+    },
+    {
+      "company_name": "Incode",
+      "valuation_usd_billion": "1.25",
+      "valuation_date": "December 2021",
+      "industry": "Technology",
+      "operating_countries": "Mexico",
+      "founders": ""
+    },
+    {
+      "company_name": "Applied Intuition",
+      "valuation_usd_billion": "1.25",
+      "valuation_date": "October 2020",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "BigID",
+      "valuation_usd_billion": "1.25",
+      "valuation_date": "May 2018",
+      "industry": "Cybersecurity",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Deel",
+      "valuation_usd_billion": "1.25",
+      "valuation_date": "April 2021",
+      "industry": "",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "ezCater",
+      "valuation_usd_billion": "1.25",
+      "valuation_date": "April 2019",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": "Stefania Mallett, Briscoe Rodgers"
+    },
+    {
+      "company_name": "Iwjw",
+      "valuation_usd_billion": "1.25",
+      "valuation_date": "November 2015",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Marshmallow",
+      "valuation_usd_billion": "1.25",
+      "valuation_date": "September 2021",
+      "industry": "Insurance",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Rec Room",
+      "valuation_usd_billion": "1.25",
+      "valuation_date": "March 2021",
+      "industry": "Video games",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Nexii",
+      "valuation_usd_billion": "1.23",
+      "valuation_date": "September 2021",
+      "industry": "Building services engineering",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "Spiber",
+      "valuation_usd_billion": "1.22",
+      "valuation_date": "September 2021",
+      "industry": "Biotechnology",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "Insider",
+      "valuation_usd_billion": "1.22",
+      "valuation_date": "March 2022",
+      "industry": "AI-powered SaaS",
+      "operating_countries": "Turkey",
+      "founders": "Hande Çilingir"
+    },
+    {
+      "company_name": "Mamaearth",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "January 2022",
+      "industry": "Personal care",
+      "operating_countries": "India",
+      "founders": "Varun Alagh and Ghazal Alagh"
+    },
+    {
+      "company_name": "Merama",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "December 2021",
+      "industry": "E-commerce",
+      "operating_countries": "Mexico",
+      "founders": ""
+    },
+    {
+      "company_name": "Jokr",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "June 2021",
+      "industry": "Transportation",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Ada",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "May 2021",
+      "industry": "Software",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "Alation",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": "Satyen Sangani, Aaron Kalb, Feng Niu, and Venky Ganti"
+    },
+    {
+      "company_name": "Apotea",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "April 2021",
+      "industry": "E-commerce",
+      "operating_countries": "Sweden",
+      "founders": ""
+    },
+    {
+      "company_name": "Axonius",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "March 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Byton",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "June 2018",
+      "industry": "Automotive",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "CarDekho",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "October 2021",
+      "industry": "Marketplace",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Copado",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "September 2021",
+      "industry": "Software",
+      "operating_countries": "Spain / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Dada",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "August 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Dental Monitoring",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "October 2021",
+      "industry": "Healthcare",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Deutsche Health",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "August 2020",
+      "industry": "Biotech/Medical",
+      "operating_countries": "Germany/Russia",
+      "founders": ""
+    },
+    {
+      "company_name": "Droom",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "July 2021",
+      "industry": "Marketplace",
+      "operating_countries": "India",
+      "founders": "Sandeep Aggarwal"
+    },
+    {
+      "company_name": "Fair",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "December 2018",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "FirstCry",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "February 2020",
+      "industry": "E-commerce",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "FloQast",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "July 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Forto",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Glossier",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "March 2019",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Intercom",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "March 2018",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Kyriba",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "October 2021",
+      "industry": "Cloud software",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "MindTickle",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "August 2021",
+      "industry": "Software as a service",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "MyGlamm",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "November 2021",
+      "industry": "E-commerce",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Triple-1",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "January 2023",
+      "industry": "Blockchain",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "Rohlik",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "June 2021",
+      "industry": "Retail",
+      "operating_countries": "Czech Republic",
+      "founders": ""
+    },
+    {
+      "company_name": "upGrad",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "August 2021",
+      "industry": "Educational technology",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Workhuman",
+      "valuation_usd_billion": "1.2",
+      "valuation_date": "June 2020",
+      "industry": "Software",
+      "operating_countries": "Ireland",
+      "founders": ""
+    },
+    {
+      "company_name": "Sysdig",
+      "valuation_usd_billion": "1.18",
+      "valuation_date": "April 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "3DOM Alliance, Inc.",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "January 2023",
+      "industry": "Battery manufacturing",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "Physics Wallah",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "June 2022",
+      "industry": "Educational technology",
+      "operating_countries": "India",
+      "founders": "Alakh Pandey"
+    },
+    {
+      "company_name": "Acko",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "October 2021",
+      "industry": "Insurance",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Apna",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "September 2021",
+      "industry": "",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Carousell",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "September 2021",
+      "industry": "Marketplace",
+      "operating_countries": "Singapore",
+      "founders": ""
+    },
+    {
+      "company_name": "CoinDCX",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "August 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "India",
+      "founders": "Sumit Gupta, Neeraj Khandelwal"
+    },
+    {
+      "company_name": "Purplle",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "June 2022",
+      "industry": "E-Commerce",
+      "operating_countries": "India",
+      "founders": "Manish Taneja, Rahul Dash"
+    },
+    {
+      "company_name": "GlobalBees",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "December 2021",
+      "industry": "",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Luoji Siwei",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "September 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Nexthink",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "February 2021",
+      "industry": "Technology",
+      "operating_countries": "Switzerland",
+      "founders": ""
+    },
+    {
+      "company_name": "Sisense",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "January 2020",
+      "industry": "Business intelligence",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Drools",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "January 2023",
+      "industry": "Pet food",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "SmartNews",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "August 2019",
+      "industry": "",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "Trax",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "May 2019",
+      "industry": "",
+      "operating_countries": "Singapore / Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "Virta Health",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "December 2020",
+      "industry": "Healthcare",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "YouniteD",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "December 2022",
+      "industry": "Financial services",
+      "operating_countries": "France",
+      "founders": "Charles Égly, Geoffroy Guigou"
+    },
+    {
+      "company_name": "Benevity",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "December 2020",
+      "industry": "Software as a service",
+      "operating_countries": "Canada",
+      "founders": "Bryan de Lottinville"
+    },
+    {
+      "company_name": "Zego",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "March 2021",
+      "industry": "Insurance",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Fawry",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "August 2020",
+      "industry": "Fintech",
+      "operating_countries": "Egypt",
+      "founders": "Ashraf Sabry"
+    },
+    {
+      "company_name": "Rivigo",
+      "valuation_usd_billion": "1.05",
+      "valuation_date": "October 2019",
+      "industry": "Logistics",
+      "operating_countries": "India",
+      "founders": "Deepak Garg, Gazal Kalra"
+    },
+    {
+      "company_name": "Aprogen",
+      "valuation_usd_billion": "1.04",
+      "valuation_date": "December 2019",
+      "industry": "",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Substrate",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2025",
+      "industry": "Semiconductor",
+      "operating_countries": "United States",
+      "founders": "James Proud"
+    },
+    {
+      "company_name": "Character.ai",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2023",
+      "industry": "Artificial Intelligence",
+      "operating_countries": "United States",
+      "founders": "Daniel De Freitas, Noam Shazeer"
+    },
+    {
+      "company_name": "Pentera",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2022",
+      "industry": "Cybersecurity",
+      "operating_countries": "Israel",
+      "founders": "Arik Liberzon, Arik Faingold"
+    },
+    {
+      "company_name": "VectorBuilder, Inc.",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 26, 2023",
+      "industry": "Biotechnology",
+      "operating_countries": "United States",
+      "founders": "Bruce Lahn, Kristofer Mussar"
+    },
+    {
+      "company_name": "Emplifi",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2022",
+      "industry": "Technology",
+      "operating_countries": "United States, United Kingdom and Europe",
+      "founders": ""
+    },
+    {
+      "company_name": "Gymshark",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2020",
+      "industry": "Sportswear",
+      "operating_countries": "United Kingdom",
+      "founders": "Ben Francis, Lewis Morgan"
+    },
+    {
+      "company_name": "Kopi Kenangan",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2021",
+      "industry": "Coffee shop",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "Clara",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Mexico",
+      "founders": ""
+    },
+    {
+      "company_name": "ClassDojo",
+      "valuation_usd_billion": "1.25",
+      "valuation_date": "July 2022",
+      "industry": "Education Technology",
+      "operating_countries": "United States",
+      "founders": "Sam Chaudhary, Liam Don"
+    },
+    {
+      "company_name": "58 Daojia",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2015",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Acronis",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2019",
+      "industry": "Software",
+      "operating_countries": "Singapore / Switzerland",
+      "founders": ""
+    },
+    {
+      "company_name": "Aircall",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2021",
+      "industry": "Cloud",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Ajaib",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "Amber Group",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "Hong Kong",
+      "founders": ""
+    },
+    {
+      "company_name": "AppDirect",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2015",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Aqua Security",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2021",
+      "industry": "Cloud computing",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "Asia First Media",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2019",
+      "industry": "Media",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "Assent Compliance",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2022",
+      "industry": "Supply chain management",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "Krutrim",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "26 January 2024",
+      "industry": "AI / GPT",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Beibei",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2016",
+      "industry": "E-commerce",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Blackbuck",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2021",
+      "industry": "Logistics",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Back Market",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2021",
+      "industry": "E-commerce",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Bluecore",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2021",
+      "industry": "E-commerce",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Bringg",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Logistics",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "Cadence Solutions, Inc.",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2021",
+      "industry": "Healthcare",
+      "operating_countries": "United States",
+      "founders": "Chris Altchek"
+    },
+    {
+      "company_name": "Calabrio",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Carro",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Marketplace",
+      "operating_countries": "Singapore",
+      "founders": ""
+    },
+    {
+      "company_name": "Carsome",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2021",
+      "industry": "Marketplace",
+      "operating_countries": "Malaysia",
+      "founders": ""
+    },
+    {
+      "company_name": "Chubao Technology",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Dt Dream",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Dunamu",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "Jul 2021",
+      "industry": "Financial technology",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "DXY",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "April 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Earnix",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "February 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "Ebanx",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2019",
+      "industry": "Financial services",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "EMPG",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2020",
+      "industry": "Real estate technology",
+      "operating_countries": "United Arab Emirates",
+      "founders": ""
+    },
+    {
+      "company_name": "eSentire",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "Feb 2022",
+      "industry": "Cybersecurity",
+      "operating_countries": "Canada / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Flash Express",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Logistics",
+      "operating_countries": "Thailand",
+      "founders": ""
+    },
+    {
+      "company_name": "Flexe",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2022",
+      "industry": "Logistics",
+      "operating_countries": "United States",
+      "founders": "Karl Siebrecht"
+    },
+    {
+      "company_name": "Flutterwave",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Nigeria / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Fractal",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2022",
+      "industry": "Artificial intelligence",
+      "operating_countries": "India / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "FreshBooks",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2021",
+      "industry": "Accounting software",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "Frontline Education",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2017",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "FXiaoKe",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Gelato",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2021",
+      "industry": "",
+      "operating_countries": "Norway",
+      "founders": ""
+    },
+    {
+      "company_name": "GeoComply",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "GetYourGuide",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2019",
+      "industry": "Travel",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Glance",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2020",
+      "industry": "Artificial intelligence",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Go1",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2021",
+      "industry": "Education",
+      "operating_countries": "Australia",
+      "founders": ""
+    },
+    {
+      "company_name": "GoGoVan",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2017",
+      "industry": "Technology",
+      "operating_countries": "Hong Kong",
+      "founders": ""
+    },
+    {
+      "company_name": "Gorillas",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2021",
+      "industry": "Retail",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Gousto",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2020",
+      "industry": "Meal kit",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Blinkit",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Retail",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Grover",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "April 2022",
+      "industry": "E-commerce",
+      "operating_countries": "Germany",
+      "founders": "Michael Cassau"
+    },
+    {
+      "company_name": "Grove Collaborative",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2019",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Hailo",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Electronics",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "HighRadius",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2020",
+      "industry": "Software as a service",
+      "operating_countries": "India / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Huikedu Group",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "iCarbonX",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2016",
+      "industry": "Healthcare",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "IFood",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2018",
+      "industry": "Food delivery",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "IGAWorks",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "Aug 2021",
+      "industry": "Advertising technology",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "Improbable",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2017",
+      "industry": "Cloud computing",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Infobip",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2020",
+      "industry": "Cloud communications",
+      "operating_countries": "Croatia",
+      "founders": "Silvio Kutić, Izabel Jelenić, Roberto Kutić"
+    },
+    {
+      "company_name": "Injective",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "April 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": "Eric Chen, Albert Chon"
+    },
+    {
+      "company_name": "InMobi",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2017",
+      "industry": "Internet",
+      "operating_countries": "India",
+      "founders": "Naveen Tewari, Mohit Saxena, Amit Gupta and Abhay Singhal"
+    },
+    {
+      "company_name": "InVision",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2017",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Ivalua",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2020",
+      "industry": "",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Jollychic",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "JoyTunes",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Music",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "Kitopi",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2021",
+      "industry": "Ghost kitchen",
+      "operating_countries": "United Arab Emirates",
+      "founders": ""
+    },
+    {
+      "company_name": "Klook",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "April 2019",
+      "industry": "",
+      "operating_countries": "Hong Kong",
+      "founders": ""
+    },
+    {
+      "company_name": "Lamabang",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "February 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "LetsGetChecked",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Healthcare",
+      "operating_countries": "Ireland",
+      "founders": ""
+    },
+    {
+      "company_name": "Licious",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2021",
+      "industry": "Retail",
+      "operating_countries": "India",
+      "founders": "Abhay Hanjura, Vivek Gupta"
+    },
+    {
+      "company_name": "Lydia",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2022",
+      "industry": "Finance",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Lilium GmbH",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2020",
+      "industry": "Transportation",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "LinkSure Network (WiFi Master Key)",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2015",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Liquid Group",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "April 2019",
+      "industry": "Cryptocurrency",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "LMAX Group",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Locus Robotics",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "February 2021",
+      "industry": "Robotics",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Loft Brazil Technology",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2020",
+      "industry": "Real estate",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "Lunar",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Denmark",
+      "founders": ""
+    },
+    {
+      "company_name": "Loggi",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2019",
+      "industry": "Logistics",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "Lookout",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2014",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "MadeiraMadeira",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2021",
+      "industry": "Furniture",
+      "operating_countries": "Brazil",
+      "founders": ""
+    },
+    {
+      "company_name": "Maimai",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Matrixport",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "Singapore",
+      "founders": ""
+    },
+    {
+      "company_name": "Meero",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2019",
+      "industry": "Internet",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Mensa Brands",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2021",
+      "industry": "E-commerce",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Mia.com",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2016",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "MindMaze",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "February 2016",
+      "industry": "",
+      "operating_countries": "Switzerland",
+      "founders": ""
+    },
+    {
+      "company_name": "MobiKwik",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2021",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "MobileCoin",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2021",
+      "industry": "Cryptocurrency",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Mobvoi",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2015",
+      "industry": "Artificial intelligence",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Mofang Apartment",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "April 2016",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Moglix",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2021",
+      "industry": "E-commerce",
+      "operating_countries": "India / Singapore",
+      "founders": "Rahul Garg"
+    },
+    {
+      "company_name": "Moka",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2021",
+      "industry": "Human resource management",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Morning Consult",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Ninja Van",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2021",
+      "industry": "Logistics",
+      "operating_countries": "Singapore",
+      "founders": ""
+    },
+    {
+      "company_name": "Nium",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Singapore",
+      "founders": ""
+    },
+    {
+      "company_name": "NoBroker",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2021",
+      "industry": "",
+      "operating_countries": "India",
+      "founders": "Akhil Gupta, Amit Agarwal, Saurabh Garg"
+    },
+    {
+      "company_name": "Numbrs",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2019",
+      "industry": "Financial technology",
+      "operating_countries": "Switzerland",
+      "founders": ""
+    },
+    {
+      "company_name": "Kredivo",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2022",
+      "industry": "Financial technology",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "OCSiAl",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2019",
+      "industry": "Nanotechnology",
+      "operating_countries": "Luxembourg",
+      "founders": ""
+    },
+    {
+      "company_name": "Opn (Synqa)",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2022",
+      "industry": "Financial technology",
+      "operating_countries": "Japan",
+      "founders": "Jun Hasegawa, Ezra Don Harinsut"
+    },
+    {
+      "company_name": "OrCam",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "February 2018",
+      "industry": "Health",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "PandaDoc",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2021",
+      "industry": "Software as a service",
+      "operating_countries": "United States",
+      "founders": "Mikita Mikado, Sergey Barysiuk"
+    },
+    {
+      "company_name": "Pantheon Systems",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2021",
+      "industry": "WebOps",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "PatSnap",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2021",
+      "industry": "Intellectual property",
+      "operating_countries": "Singapore",
+      "founders": ""
+    },
+    {
+      "company_name": "Perimeter 81",
+      "valuation_usd_billion": "1",
+      "valuation_date": "June 2022",
+      "industry": "Network security",
+      "operating_countries": "Israel",
+      "founders": "Sagi Gidali, Amit Bareket"
+    },
+    {
+      "company_name": "Picsart",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2021",
+      "industry": "Graphic design",
+      "operating_countries": "Armenia / United States",
+      "founders": "Hovhannes Avoyan, Artavazd Mehrabyan, Mikayel Vardanyan"
+    },
+    {
+      "company_name": "Pipedrive",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2020",
+      "industry": "Customer relationship management (CRM)",
+      "operating_countries": "Estonia / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Playco",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2020",
+      "industry": "Mobile gaming",
+      "operating_countries": "Japan",
+      "founders": ""
+    },
+    {
+      "company_name": "Printful, Inc",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2021",
+      "industry": "Technology",
+      "operating_countries": "Latvia",
+      "founders": ""
+    },
+    {
+      "company_name": "Redis Labs",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2020",
+      "industry": "Software",
+      "operating_countries": "Israel / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "REEF Technology",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2020",
+      "industry": "Real estate technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Quizlet",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2020",
+      "industry": "Educational technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Revolution Precrafted",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2017",
+      "industry": "Architecture",
+      "operating_countries": "Philippines",
+      "founders": ""
+    },
+    {
+      "company_name": "Rubicon Global",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2017",
+      "industry": "Waste management",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Sennder",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2021",
+      "industry": "Logistics",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Shift Technology",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Shippo",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": "Laura Behrens Wu, Simon Kreuz"
+    },
+    {
+      "company_name": "Sift",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "April 2021",
+      "industry": "Fraud prevention",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Slice",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2021",
+      "industry": "Financial technology",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "SmartAsset",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "SmartMore",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Snapdeal",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2017",
+      "industry": "E-commerce",
+      "operating_countries": "India",
+      "founders": "Rohit Bansal, Kunal Bahl"
+    },
+    {
+      "company_name": "Socar",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2020",
+      "industry": "Car sharing",
+      "operating_countries": "South Korea",
+      "founders": ""
+    },
+    {
+      "company_name": "SoundHound",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2018",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Spendesk",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2022",
+      "industry": "Financial software",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Splashtop",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "January 2021",
+      "industry": "Software",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Staffbase",
+      "valuation_usd_billion": "1.1",
+      "valuation_date": "March 2022",
+      "industry": "Software as a service",
+      "operating_countries": "Germany",
+      "founders": "Frank Wolf, Lutz Gerlach, Martin Böhringer"
+    },
+    {
+      "company_name": "Swile",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2021",
+      "industry": "Financial services",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Synthesia",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2023",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United Kingdom",
+      "founders": "Lourdes Agapito, Matthias Niessner, Victor Riparbelli, Steffen Tjerrild"
+    },
+    {
+      "company_name": "Tekion",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2020",
+      "industry": "Software as a service",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Tenstorrent",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2021",
+      "industry": "Semiconductors",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "Tezign",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2021",
+      "industry": "Software",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Tongdun Technology",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Tractable",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Artificial intelligence",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Tresata",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2018",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "TrueLayer",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2021",
+      "industry": "Financial technology",
+      "operating_countries": "United Kingdom",
+      "founders": ""
+    },
+    {
+      "company_name": "Trustly",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2020",
+      "industry": "Financial technology",
+      "operating_countries": "Sweden",
+      "founders": ""
+    },
+    {
+      "company_name": "Turo",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2019",
+      "industry": "Car sharing",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Udacity",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2015",
+      "industry": "Education",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Unisound",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2018",
+      "industry": "Technology",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Vagaro",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2021",
+      "industry": "Software as a service",
+      "operating_countries": "United States",
+      "founders": "Fred Fady Helou"
+    },
+    {
+      "company_name": "Vedantu",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2021",
+      "industry": "Educational technology",
+      "operating_countries": "India",
+      "founders": ""
+    },
+    {
+      "company_name": "Blibli",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2021",
+      "industry": "E-commerce",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "Verbit",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Software",
+      "operating_countries": "Israel",
+      "founders": ""
+    },
+    {
+      "company_name": "VerSe Innovation",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2020",
+      "industry": "Technology",
+      "operating_countries": "India",
+      "founders": "Virendra Gupta"
+    },
+    {
+      "company_name": "Visier",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "June 2021",
+      "industry": "Technology",
+      "operating_countries": "Canada",
+      "founders": ""
+    },
+    {
+      "company_name": "volocopter",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2021",
+      "industry": "Transportation",
+      "operating_countries": "Germany",
+      "founders": ""
+    },
+    {
+      "company_name": "Vox Media",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2015",
+      "industry": "Digital media",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "VTS",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2019",
+      "industry": "",
+      "operating_countries": "United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Wacai.com",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "WeLab",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2019",
+      "industry": "Financial technology",
+      "operating_countries": "Hong Kong",
+      "founders": ""
+    },
+    {
+      "company_name": "Womai",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2015",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Xendit",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2021",
+      "industry": "Financial technology",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "Xiaozhu.com",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "November 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "YH Global",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2017",
+      "industry": "Telecommunications",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Yidian Zixun",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "October 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Yitu Technology",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "YunQuNa",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2021",
+      "industry": "Logistics",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Zenoti",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2020",
+      "industry": "Software company",
+      "operating_countries": "India / United States",
+      "founders": ""
+    },
+    {
+      "company_name": "Zhaogang.com",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Zhuanzhuan",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "April 2017",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "Zuoyebang",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2018",
+      "industry": "",
+      "operating_countries": "China",
+      "founders": ""
+    },
+    {
+      "company_name": "eFishery",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "May 2023",
+      "industry": "Aquaculture",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "LINE MAN Wongnai",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2022",
+      "industry": "E-commerce, Food delivery",
+      "operating_countries": "Thailand",
+      "founders": ""
+    },
+    {
+      "company_name": "ReliaQuest",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": "Brian Murphy"
+    },
+    {
+      "company_name": "DANA",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "September 2022",
+      "industry": "Financial technology",
+      "operating_countries": "Indonesia",
+      "founders": ""
+    },
+    {
+      "company_name": "Nagad",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "July 2023",
+      "industry": "Mobile financial services",
+      "operating_countries": "Bangladesh",
+      "founders": "Tanvir A Mishuk"
+    },
+    {
+      "company_name": "Deezer",
+      "valuation_usd_billion": "1",
+      "valuation_date": "August 2022",
+      "industry": "Music",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Ecovadis",
+      "valuation_usd_billion": "1",
+      "valuation_date": "August 2022",
+      "industry": "Environmental, social, and corporate governance",
+      "operating_countries": "France",
+      "founders": ""
+    },
+    {
+      "company_name": "Scandit",
+      "valuation_usd_billion": "1",
+      "valuation_date": "February 2022",
+      "industry": "Software",
+      "operating_countries": "Switzerland",
+      "founders": "Samuel Mueller, Christian Floerkemeier, Christof Roduner"
+    },
+    {
+      "company_name": "BlueVoyant",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "February 2022",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": "Jim Rosenthal, Chris Meissner, Jim Thompson, and Arun Sankaran"
+    },
+    {
+      "company_name": "Payhawk",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "March 2022",
+      "industry": "Financial technology",
+      "operating_countries": "Bulgaria",
+      "founders": ""
+    },
+    {
+      "company_name": "Voi",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "April 2022",
+      "industry": "",
+      "operating_countries": "Sweden",
+      "founders": ""
+    },
+    {
+      "company_name": "Neo Financial",
+      "valuation_usd_billion": "1",
+      "valuation_date": "May 2022",
+      "industry": "Financial technology",
+      "operating_countries": "Canada",
+      "founders": "Andrew Chau, Jeff Adamson, Kris Read"
+    },
+    {
+      "company_name": "Stytch",
+      "valuation_usd_billion": "1",
+      "valuation_date": "November 2021",
+      "industry": "Cybersecurity",
+      "operating_countries": "United States",
+      "founders": "Reed McGinley-Stempel, Julianna Lamb"
+    },
+    {
+      "company_name": "Epassi",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "December 2023",
+      "industry": "Employee benefits platform",
+      "operating_countries": "Finland",
+      "founders": "Risto Virkkala"
+    },
+    {
+      "company_name": "HMD Global",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "August 2020",
+      "industry": "Mobile Devices",
+      "operating_countries": "Finland",
+      "founders": "Jean-Francois Baril"
+    },
+    {
+      "company_name": "IQM",
+      "valuation_usd_billion": "1",
+      "valuation_date": "July 2022",
+      "industry": "Quantum Computing",
+      "operating_countries": "Finland",
+      "founders": "Jan Goetz, Mikko Möttönen, Kuan Yen Tan, Juha Vartiainen"
+    },
+    {
+      "company_name": "Hostaway",
+      "valuation_usd_billion": "1",
+      "valuation_date": "December 2024",
+      "industry": "Vacation rental software platform",
+      "operating_countries": "Finland",
+      "founders": "Marcus Räder, Saber Kordestanchi, Mikko Nurminen"
+    },
+    {
+      "company_name": "Papara",
+      "valuation_usd_billion": "1",
+      "valuation_date": "July 2023",
+      "industry": "Fintech",
+      "operating_countries": "Turkey",
+      "founders": "Ahmed Faruk Karslı"
+    },
+    {
+      "company_name": "MNT-Halan",
+      "valuation_usd_billion": "1+",
+      "valuation_date": "February 2023",
+      "industry": "Fintech",
+      "operating_countries": "Egypt",
+      "founders": "Mounir Nakhla, Ahmed Mohsen"
+    }
+  ]
+}

@@ -210,6 +210,8 @@ Each dataset follows this JSON format:
   A dataset of median fixed broadband download speeds (Mbps) by country.
 - [**Internet Users by Country 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/internet_users_by_country.json)  
   Estimated Internet Users and Usage Percentage by Country (2025)
+- [**Unicorn Startup Companies (Valuation Over $1B)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/list_of_unicorn_startup_companies.json)  
+  A global list of privately held startup companies valued at USD 1 billion or more
 - [**Social Media Platforms with 100M+ Active Users (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/most_popular_social_platforms.json)  
   Major platforms, their companies, origins, launch years, and active user statistics (2025)
 - [**TIOBE Index - Top Programming Languages (August 2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/popular_programming_languages.json)  

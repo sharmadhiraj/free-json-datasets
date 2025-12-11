@@ -473,6 +473,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/internet_users_by_country.json"
       },
       {
+        "title": "Unicorn Startup Companies (Valuation Over $1B)",
+        "subtitle": "A global list of privately held startup companies valued at USD 1 billion or more",
+        "updated_at": "December 11, 2025 12:11 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/list_of_unicorn_startup_companies.json"
+      },
+      {
         "title": "Social Media Platforms with 100M+ Active Users (2025)",
         "subtitle": "Major platforms, their companies, origins, launch years, and active user statistics (2025)",
         "updated_at": "September 04, 2025 04:59 AM UTC",
