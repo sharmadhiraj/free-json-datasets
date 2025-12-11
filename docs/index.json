@@ -526,6 +526,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/list_of_longest_bridges.json"
       },
       {
+        "title": "World’s Longest Tunnels (Operational)",
+        "subtitle": "List of the longest operational tunnels worldwide, including type, location, length and year opened.",
+        "updated_at": "December 11, 2025 11:00 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/list_of_longest_tunnels.json"
+      },
+      {
         "title": "World’s Busiest Container Ports by Annual Throughput",
         "subtitle": "Ranking of major global container ports based on container traffic (in thousand TEUs) handled per year.",
         "updated_at": "October 14, 2025 02:59 AM UTC",

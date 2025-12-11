@@ -1,0 +1,2509 @@
+{
+  "title": "World’s Longest Tunnels (Operational)",
+  "subtitle": "List of the longest operational tunnels worldwide, including type, location, length and year opened.",
+  "updated_at": "December 11, 2025 11:00 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Delaware Aqueduct",
+      "location": "New York State, United States",
+      "length_km": "137,000 m (85.128 mi)",
+      "year_opened": "1945",
+      "notes": "4.1 m in diameter (13.2 m2). New York City's main water supply tunnel."
+    },
+    {
+      "rank": 2,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Päijänne Water Tunnel",
+      "location": "Southern Finland, Finland",
+      "length_km": "120,000 m (74.565 mi)",
+      "year_opened": "1982",
+      "notes": "16 m2 cross section. Main water supply tunnel for the Helsinki metropolitan area in southern Finland, drilled through solid rock."
+    },
+    {
+      "rank": 3,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Suzhou Metro Line 3-11",
+      "location": "Suzhou, China",
+      "length_km": "86,542 m (53.775 mi)",
+      "year_opened": "2019–2023",
+      "notes": "Suzhou Metro Line 11 and Line 3 are connected at Weiting station with through trains operating. Longest metro tunnel"
+    },
+    {
+      "rank": 4,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Dahuofang Water Tunnel",
+      "location": "Liaoning, China",
+      "length_km": "85,320 m (53.015 mi)",
+      "year_opened": "2009",
+      "notes": "8 m in diameter (50 m2 cross section)"
+    },
+    {
+      "rank": 5,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Orange–Fish River Tunnel",
+      "location": "South Africa",
+      "length_km": "82,800 m (51.450 mi)",
+      "year_opened": "1972",
+      "notes": "Longest continuous enclosed aqueduct in the Southern Hemisphere (22.5 m2 cross section). Built to divert water from the Orange River to the Great Fish River."
+    },
+    {
+      "rank": 6,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Bolmen Water Tunnel",
+      "location": "Kronoberg/Scania, Sweden",
+      "length_km": "82,000 m (50.952 mi)",
+      "year_opened": "1987",
+      "notes": "8 m2 cross section"
+    },
+    {
+      "rank": 7,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Istanbul Metro (Line M11)",
+      "location": "Istanbul, Turkey",
+      "length_km": "69,000 m (42.875 mi)",
+      "year_opened": "2023–2025",
+      "notes": "Longest metro tunnel in Europe and longest tunnel in Turkey"
+    },
+    {
+      "rank": 8,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Chengdu Metro Line 6",
+      "location": "Chengdu, China",
+      "length_km": "68,223 m (42.392 mi)",
+      "year_opened": "2020",
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Neelum–Jhelum Hydropower Tunnel",
+      "location": "Muzaffar­abad, Azad Kashmir, Pakistan",
+      "length_km": "68,000 m (42.253 mi)",
+      "year_opened": "2017",
+      "notes": "Part of the 969 MW Neelum–Jhelum Hydropower Plant"
+    },
+    {
+      "rank": 10,
+      "tunnel_type": "Waste­water",
+      "tunnel_name": "Tunel Emisor Oriente",
+      "location": "Mexico City, Mexico",
+      "length_km": "62,500 m (38.836 mi)",
+      "year_opened": "2019",
+      "notes": "7 m in diameter. Longest wastewater tunnel."
+    },
+    {
+      "rank": 11,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Qingdao Metro Line 1",
+      "location": "Qingdao, China",
+      "length_km": "59,818 m (37.169 mi)",
+      "year_opened": "2020–2021",
+      "notes": ""
+    },
+    {
+      "rank": 12,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Guangzhou Metro Line 18",
+      "location": "Guangzhou, China",
+      "length_km": "58,300 m (36.226 mi)",
+      "year_opened": "2021",
+      "notes": ""
+    },
+    {
+      "rank": 13,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Guangzhou Metro Line 3",
+      "location": "Guangzhou, China",
+      "length_km": "57,930 m (35.996 mi)(Excl. branch)",
+      "year_opened": "2005–2018",
+      "notes": ""
+    },
+    {
+      "rank": 14,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Moscow Metro Bolshaya Koltsevaya line",
+      "location": "Moscow, Russia",
+      "length_km": "57,538 m (35.752 mi)(Excl. branch)",
+      "year_opened": "2018–2023",
+      "notes": "Longest metro/rapid transit circular line"
+    },
+    {
+      "rank": 15,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Gotthard Base Tunnel",
+      "location": "Central Swiss Alps, Switzerland",
+      "length_km": "57,104 m (35.483 mi) and 57,017 m (35.429 mi)",
+      "year_opened": "2016",
+      "notes": "Longest conventional railway tunnel. It is also the world's longest transit tunnel by geodetic distance; 55.782 km (34.661 mi) between the two portals. Total 151.84 km (94.35 mi) of broken out tunnels through solid rocks. Part of the NRLA."
+    },
+    {
+      "rank": 16,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Beijing Subway Line 10",
+      "location": "Beijing, China",
+      "length_km": "57,100 m (35.480 mi)",
+      "year_opened": "2008–2013",
+      "notes": ""
+    },
+    {
+      "rank": 17,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Seikan Tunnel",
+      "location": "Tsugaru Strait, Japan",
+      "length_km": "53,850 m (33.461 mi)",
+      "year_opened": "1988",
+      "notes": "74 m2; longest railway tunnel until 2016. Longest tunnel with an undersea section, running between Honshu and Hokkaido. Undersea section measures 23.3 kilometres (14.5 mi)."
+    },
+    {
+      "rank": 18,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Beijing Subway Line 6",
+      "location": "Beijing, China",
+      "length_km": "53,400 m (33.181 mi)",
+      "year_opened": "2012–2018",
+      "notes": ""
+    },
+    {
+      "rank": 19,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Želivka Water Tunnel",
+      "location": "Central Bohemian Region, Czech Republic",
+      "length_km": "51,970 m (32.293 mi)",
+      "year_opened": "1972",
+      "notes": "9–12 m2"
+    },
+    {
+      "rank": 20,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 5",
+      "location": "Seoul, South Korea",
+      "length_km": "51,700 m (32.125 mi)(longest branch)",
+      "year_opened": "1995–2021",
+      "notes": "Longest metro/rapid transit tunnel until Guangzhou Metro Line 3 extension opened in 2010, crosses west to east under the Seoul Capital Area."
+    },
+    {
+      "rank": 21,
+      "tunnel_type": "Waste­water",
+      "tunnel_name": "Rothschön­berger Stolln",
+      "location": "Freiberg Mining Field, Germany",
+      "length_km": "50,900 m (31.628 mi)",
+      "year_opened": "1844–1882",
+      "notes": "6 m2 cross section, longest tunnel until 1945. Part of a UNESCO World Heritage Site."
+    },
+    {
+      "rank": 22,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Channel Tunnel",
+      "location": "English Channel, United Kingdom/France",
+      "length_km": "50,450 m (31.348 mi)",
+      "year_opened": "1994",
+      "notes": "Second longest railway tunnel until 2016. Longest underwater section, longest international tunnel (2×45 m2 + 1×18 m2), running between Folkestone, Kent, and Coquelles, Pas-de-Calais."
+    },
+    {
+      "rank": 23,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Yulhyeon Tunnel",
+      "location": "Seoul Capital Area, South Korea",
+      "length_km": "50,300 m (31.255 mi)",
+      "year_opened": "2016",
+      "notes": "107 m2, part of the Suseo high-speed railway."
+    },
+    {
+      "rank": 24,
+      "tunnel_type": "Waste­water",
+      "tunnel_name": "Tunel Emisor Central",
+      "location": "Mexico City, Mexico",
+      "length_km": "49,742 m (30.908 mi)",
+      "year_opened": "1975",
+      "notes": "6.5 m in diameter"
+    },
+    {
+      "rank": 25,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "River Arpa – Lake Sevan tunnel",
+      "location": "Armenia (at the time of construction Soviet Union)",
+      "length_km": "48,358 m (30.048 mi)",
+      "year_opened": "1981",
+      "notes": "Longest tunnel built to restore ecological balance. Transfers water from the Arpa to Lake Sevan to recover its level."
+    },
+    {
+      "rank": 26,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Pahang – Selangor Raw Water Transfer Project",
+      "location": "Pahang & Selangor, Malaysia",
+      "length_km": "44,600 m (27.713 mi)",
+      "year_opened": "2014",
+      "notes": "5.2 m in diameter"
+    },
+    {
+      "rank": 27,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Lyublinsko-Dmitrovskaya Line (Zyablikovo – Fiztekh)",
+      "location": "Moscow Metro, Russia (construction started at the time of Soviet Union)",
+      "length_km": "44,300 m (27.527 mi)",
+      "year_opened": "1995–2023",
+      "notes": ""
+    },
+    {
+      "rank": 28,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Subway: Line 7",
+      "location": "Shanghai, China",
+      "length_km": "44,200 m (27.465 mi)",
+      "year_opened": "2009–2010",
+      "notes": ""
+    },
+    {
+      "rank": 29,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "#1 Tunnel, Yellow River Diversion to Shanxi North Line",
+      "location": "Shanxi, China",
+      "length_km": "43,670 m (27.135 mi)",
+      "year_opened": "2011",
+      "notes": "See South–North Water Transfer Project"
+    },
+    {
+      "rank": 30,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "#7 Tunnel, Yellow River Diversion to Shanxi South Line",
+      "location": "Shanxi, China",
+      "length_km": "43,500 m (27.030 mi)",
+      "year_opened": "2002",
+      "notes": "See South–North Water Transfer Project"
+    },
+    {
+      "rank": 31,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Beijing Subway Line 8",
+      "location": "Beijing, China",
+      "length_km": "42,600 m (26.470 mi)",
+      "year_opened": "2012–2021",
+      "notes": ""
+    },
+    {
+      "rank": 32,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Metro Line 15",
+      "location": "Shanghai, China",
+      "length_km": "42,300 m (26.284 mi)",
+      "year_opened": "2021",
+      "notes": ""
+    },
+    {
+      "rank": 33,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Chengdu Metro Line 5",
+      "location": "Chengdu, China",
+      "length_km": "42,300 m (26.284 mi)",
+      "year_opened": "2019",
+      "notes": ""
+    },
+    {
+      "rank": 34,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Beijing Subway Line 14",
+      "location": "Beijing, China",
+      "length_km": "42,000 m (26.098 mi)",
+      "year_opened": "2015–2021",
+      "notes": ""
+    },
+    {
+      "rank": 35,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Tianjin Metro Line 6",
+      "location": "Tianjin, China",
+      "length_km": "42,000 m (26.098 mi)",
+      "year_opened": "2016–2021",
+      "notes": ""
+    },
+    {
+      "rank": 36,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Downtown line",
+      "location": "MRT, Singapore",
+      "length_km": "41,900 m (26.035 mi)",
+      "year_opened": "2013–2017",
+      "notes": "Longest rapid transit line in South East Asia"
+    },
+    {
+      "rank": 37,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Nanjing Metro Line 3",
+      "location": "Nanjing, China",
+      "length_km": "41,567 m (25.829 mi)",
+      "year_opened": "2011–2015",
+      "notes": "From Xinghuolu station to Mozhoudonglu station."
+    },
+    {
+      "rank": 38,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Suzhou Metro: Line 4",
+      "location": "Suzhou, China",
+      "length_km": "41,500 m (25.787 mi)",
+      "year_opened": "2017",
+      "notes": ""
+    },
+    {
+      "rank": 39,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Serpukhovsko-Timiryazev­skaya Line (Altufyevo – Bulvar Dmitriya Donskogo)",
+      "location": "Moscow Metro, Russia (construction started at the time of Soviet Union)",
+      "length_km": "41,470 m (25.768 mi)",
+      "year_opened": "1983–2002",
+      "notes": ""
+    },
+    {
+      "rank": 40,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Madrid Metro: Line 12 (MetroSur)",
+      "location": "Madrid, Spain",
+      "length_km": "40,900 m (25.414 mi)",
+      "year_opened": "1999–2003",
+      "notes": ""
+    },
+    {
+      "rank": 41,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Tocho-mae – Shiodome – Hikarigaoka (Toei Oedo Line)",
+      "location": "Tokyo, Japan",
+      "length_km": "40,700 m (25.290 mi)",
+      "year_opened": "1991–2000",
+      "notes": "Tokyo Metropolitan Bureau of Transportation"
+    },
+    {
+      "rank": 42,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Kárahnjúkar Hydropower Plant",
+      "location": "Fljótsdals­hreppur, Iceland",
+      "length_km": "39,700 m (24.668 mi)",
+      "year_opened": "2003–2007",
+      "notes": "7.2–7.6 meters in diameter (45 m2 cross section). Part of a wider complex of tunnels that are 72 kilometers in length combined."
+    },
+    {
+      "rank": 43,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Quabbin Aqueduct",
+      "location": "Massachu­setts, United States",
+      "length_km": "39,600 m (24.606 mi)",
+      "year_opened": "1933",
+      "notes": ""
+    },
+    {
+      "rank": 44,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Chengdu Metro Line 4",
+      "location": "Chengdu, China",
+      "length_km": "39,300 m (24.420 mi)",
+      "year_opened": "2015–2017",
+      "notes": ""
+    },
+    {
+      "rank": 45,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Chengdu Metro Line 7",
+      "location": "Chengdu, China",
+      "length_km": "38,600 m (23.985 mi)",
+      "year_opened": "2017",
+      "notes": ""
+    },
+    {
+      "rank": 46,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 3 (Apgujeong–Ogeum)",
+      "location": "Seoul, South Korea",
+      "length_km": "38,200 m (23.736 mi)",
+      "year_opened": "1985–2010",
+      "notes": ""
+    },
+    {
+      "rank": 47,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Kaluzhsko-Rizhskaya Line (Novoya­senevskaya – Medvedkovo)",
+      "location": "Moscow Metro, Russia (at the time of construction Soviet Union)",
+      "length_km": "37,800 m (23.488 mi)",
+      "year_opened": "1958–1990",
+      "notes": "Longest railway tunnel 1978–1984 and from November 1987 till March 1988; longest metro/rapid transit tunnel 1990–1995"
+    },
+    {
+      "rank": 48,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shenzhen Subway: Luobao Line",
+      "location": "Shenzhen, China",
+      "length_km": "37,497 m (23.300 mi)",
+      "year_opened": "2009–2011",
+      "notes": ""
+    },
+    {
+      "rank": 49,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Chengdu Metro Line 1",
+      "location": "Chengdu, China",
+      "length_km": "37,470 m (23.283 mi)(Excl. branch)",
+      "year_opened": "2010–2018",
+      "notes": ""
+    },
+    {
+      "rank": 50,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Harold D. Roberts Tunnel",
+      "location": "Colorado, United States",
+      "length_km": "37,464 m (23.279 mi)",
+      "year_opened": "1962",
+      "notes": "Diverts water from the Colorado River watershed to the South Platte River watershed for use in the Denver metropolitan area. Flows across Continental Divide. 4,465 feet (1,361 m) below the surface at its deepest point."
+    },
+    {
+      "rank": 51,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shenzhen Subway: Shekou Line",
+      "location": "Shenzhen, China",
+      "length_km": "36,146 m (22.460 mi)",
+      "year_opened": "2010–2011",
+      "notes": ""
+    },
+    {
+      "rank": 52,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Dawushan Tunnel, Niulan River Diversion to Dianchi",
+      "location": "Yunnan, China",
+      "length_km": "36,137 m (22.454 mi)",
+      "year_opened": "2013",
+      "notes": ""
+    },
+    {
+      "rank": 53,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Circle line",
+      "location": "MRT, Singapore",
+      "length_km": "35,700 m (22.183 mi)",
+      "year_opened": "2009–2012",
+      "notes": ""
+    },
+    {
+      "rank": 54,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Busan Metro: Line 2 (Dongwon–Jangsan)",
+      "location": "Busan, South Korea",
+      "length_km": "35,500 m (22.059 mi)",
+      "year_opened": "1999–2009",
+      "notes": ""
+    },
+    {
+      "rank": 55,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Songshan Lake Tunnel",
+      "location": "Dongguan, China",
+      "length_km": "35,391 m (21.991 mi)",
+      "year_opened": "2016",
+      "notes": "Dongguan–Huizhou intercity railway, longest railway tunnel in China"
+    },
+    {
+      "rank": 56,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 6",
+      "location": "Seoul, South Korea",
+      "length_km": "35,100 m (21.810 mi)",
+      "year_opened": "2001",
+      "notes": ""
+    },
+    {
+      "rank": 57,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 7 (Cheongdam–Bupyeong-gu Office)",
+      "location": "Seoul, Incheon, Bucheon and Gwang­myeong in South Korea",
+      "length_km": "35,100 m (21.810 mi)",
+      "year_opened": "2000–2012",
+      "notes": ""
+    },
+    {
+      "rank": 58,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Tianjin Metro: Line 5",
+      "location": "Tianjin, China",
+      "length_km": "34,800 m (21.624 mi)",
+      "year_opened": "2018–2021",
+      "notes": ""
+    },
+    {
+      "rank": 59,
+      "tunnel_type": "Railway Single Track",
+      "tunnel_name": "Lötschberg Base Tunnel",
+      "location": "Bernese Alps, Switzerland",
+      "length_km": "34,577 m (21.485 mi)",
+      "year_opened": "2007",
+      "notes": "Longest land railway tunnel until Gotthard Base Tunnel was opened; two single track tubes along 12 km, only single track along 22 km. Part of the NRLA."
+    },
+    {
+      "rank": 60,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Istanbul Metro (Line M4)",
+      "location": "Istanbul, Turkey",
+      "length_km": "34,050 m (21.158 mi)",
+      "year_opened": "2012",
+      "notes": ""
+    },
+    {
+      "rank": 61,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Tyne-Tees Tunnel",
+      "location": "England, United Kingdom",
+      "length_km": "34,000 m (21.127 mi)",
+      "year_opened": "1983 (and earlier)",
+      "notes": "Northumbrian water supply tunnel."
+    },
+    {
+      "rank": 62,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Guangzhou Metro: Line 8",
+      "location": "Guangzhou, China",
+      "length_km": "33,900 m (21.064 mi)",
+      "year_opened": "2010–2020",
+      "notes": ""
+    },
+    {
+      "rank": 63,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Mumbai Metro: Line 3 (Aqua Line)",
+      "location": "Mumbai, India",
+      "length_km": "33,500 m (20.816 mi)",
+      "year_opened": "2021",
+      "notes": ""
+    },
+    {
+      "rank": 64,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Madrid Metro: Line 7",
+      "location": "Madrid, Spain",
+      "length_km": "32,919 m (20.455 mi)",
+      "year_opened": "1974–2007",
+      "notes": ""
+    },
+    {
+      "rank": 65,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "New Guanjiao Tunnel",
+      "location": "Qinghai, China",
+      "length_km": "32,645 m (20.285 mi)",
+      "year_opened": "2014",
+      "notes": "Longest tunnel on the upgraded dual-track Xining–Golmud section of Qinghai–Tibet Railway, longest railway tunnel in China until 2016, 3323.58–3380.97 meters above sea level"
+    },
+    {
+      "rank": 66,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Meijo Line – Meikō Line",
+      "location": "Nagoya Municipal Subway, Japan",
+      "length_km": "32,400 m (20.132 mi)",
+      "year_opened": "1965–2004",
+      "notes": ""
+    },
+    {
+      "rank": 67,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Guangzhou Metro: Line 2",
+      "location": "Guangzhou, China",
+      "length_km": "32,000 m (19.884 mi)",
+      "year_opened": "2010",
+      "notes": ""
+    },
+    {
+      "rank": 68,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Rathaus Spandau–Rudow (U7)",
+      "location": "Berlin U-Bahn, Germany",
+      "length_km": "31,800 m (19.760 mi)",
+      "year_opened": "1924–1984",
+      "notes": ""
+    },
+    {
+      "rank": 69,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Gerede Water Transmission Tunnel",
+      "location": "Ankara, Turkey",
+      "length_km": "31,592 m (19.630 mi)",
+      "year_opened": "2019",
+      "notes": "5.2 m in diameter"
+    },
+    {
+      "rank": 70,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Bundang Line (Seoul Forest–Jukjeon)",
+      "location": "Seoul, Seongnam and Yongin in South Korea",
+      "length_km": "31,400 m (19.511 mi)",
+      "year_opened": "1994–2012",
+      "notes": ""
+    },
+    {
+      "rank": 71,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Daegu Metro: Line 2",
+      "location": "Daegu and Gyeongsan in South Korea",
+      "length_km": "31,400 m (19.511 mi)",
+      "year_opened": "2005–2012",
+      "notes": ""
+    },
+    {
+      "rank": 72,
+      "tunnel_type": "Waste­water",
+      "tunnel_name": "Milwaukee Metropolitan Sewerage District Deep Tunnel Phase 1",
+      "location": "Milwaukee County, Wisconsin, United States",
+      "length_km": "31,221 m (19.400 mi)",
+      "year_opened": "1993",
+      "notes": "405 million gallons of combined sewage storage designed to prevent sewage overflow into Lake Michigan. The largest of three phases, totalling 521 million gallons of storage."
+    },
+    {
+      "rank": 73,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Beijing Subway: Line 1",
+      "location": "Beijing, China",
+      "length_km": "31,040 m (19.287 mi)",
+      "year_opened": "1971–2000",
+      "notes": ""
+    },
+    {
+      "rank": 74,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Bucharest Metro: Line M1",
+      "location": "Bucharest, Romania",
+      "length_km": "31,010 m (19.269 mi)",
+      "year_opened": "1979–1992",
+      "notes": "8,670 m, shared with M3 line. Nether less one continuous tunnel."
+    },
+    {
+      "rank": 75,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Côte-Vertu – Montmorency (Line 2 Orange)",
+      "location": "Montreal Metro, Canada",
+      "length_km": "30,798 m (19.137 mi)",
+      "year_opened": "1966–2007",
+      "notes": ""
+    },
+    {
+      "rank": 76,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Subway: Line 2",
+      "location": "Shanghai, China",
+      "length_km": "30,187 m (18.757 mi)",
+      "year_opened": "2000",
+      "notes": ""
+    },
+    {
+      "rank": 77,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Parnas – Kupchino (line 2)",
+      "location": "Saint Petersburg Metro, Russia (construction started at the time of Soviet Union)",
+      "length_km": "30,100 m (18.703 mi)",
+      "year_opened": "1961–2006",
+      "notes": ""
+    },
+    {
+      "rank": 78,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Guangzhou Metro: Line 5",
+      "location": "Guangzhou, China",
+      "length_km": "29,900 m (18.579 mi)",
+      "year_opened": "2009",
+      "notes": ""
+    },
+    {
+      "rank": 79,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Shandaken Tunnel",
+      "location": "Catskill Mountains, New York, United States",
+      "length_km": "29,780 m (18.504 mi)",
+      "year_opened": "1924",
+      "notes": ""
+    },
+    {
+      "rank": 80,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Subway: Line 8",
+      "location": "Shanghai, China",
+      "length_km": "29,650 m (18.424 mi)",
+      "year_opened": "2007–2009",
+      "notes": ""
+    },
+    {
+      "rank": 81,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Prospekt Veteranov – Devyatkino (line 1)",
+      "location": "Saint Petersburg Metro, Russia (at the time of construction Soviet Union)",
+      "length_km": "29,600 m (18.393 mi)",
+      "year_opened": "1955–1978",
+      "notes": ""
+    },
+    {
+      "rank": 82,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Subway: Line 10",
+      "location": "Shanghai, China",
+      "length_km": "29,600 m (18.393 mi)",
+      "year_opened": "2010",
+      "notes": ""
+    },
+    {
+      "rank": 83,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Evinos – Mornos Tunnel",
+      "location": "Aetolia-Acarnania, Greece",
+      "length_km": "29,400 m (18.268 mi)",
+      "year_opened": "1995",
+      "notes": ""
+    },
+    {
+      "rank": 84,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Chengdu Metro Line 2",
+      "location": "Chengdu, China",
+      "length_km": "29,000 m (18.020 mi)",
+      "year_opened": "2012–2013",
+      "notes": "Only includes phases 1 and 2"
+    },
+    {
+      "rank": 85,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Hultman Aqueduct",
+      "location": "Eastern Massachu­setts, United States",
+      "length_km": "28,640 m (17.796 mi)",
+      "year_opened": "1939",
+      "notes": "11.5 ft (3.5 m) to 14 ft (4.3 m) diameter (15m2 cross section); offline for rehabilitation"
+    },
+    {
+      "rank": 86,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Sydney Metro City",
+      "location": "Sydney, New South Wales, Australia",
+      "length_km": "28,500 m (17.709 mi)",
+      "year_opened": "2019-2024",
+      "notes": "The line runs from Sydenham to Chatswood and extends to the 13 km Epping to Chatswood rail link. It forms part of the wider Sydney Metro project."
+    },
+    {
+      "rank": 87,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Guadarrama Tunnel",
+      "location": "Sierra de Guadarrama, Spain",
+      "length_km": "28,377 m (17.633 mi)",
+      "year_opened": "2007",
+      "notes": ""
+    },
+    {
+      "rank": 88,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "MetroWest Water Supply Tunnel",
+      "location": "Eastern Massachu­setts, United States",
+      "length_km": "28,300 m (17.585 mi)",
+      "year_opened": "2003",
+      "notes": "14 ft (4.3 m) diameter (15m2 cross section)"
+    },
+    {
+      "rank": 89,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "West Qinling Tunnel",
+      "location": "Gansu, China",
+      "length_km": "28,236 m (17.545 mi)",
+      "year_opened": "2016",
+      "notes": "Chongqing–Lanzhou railway"
+    },
+    {
+      "rank": 90,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Taipei Metro: Blue Line",
+      "location": "Taipei, Taiwan",
+      "length_km": "28,200 m (17.523 mi)",
+      "year_opened": "1999–2015",
+      "notes": ""
+    },
+    {
+      "rank": 91,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Beijing Subway: Line 4",
+      "location": "Beijing, China",
+      "length_km": "28,165 m (17.501 mi)",
+      "year_opened": "2009–2010",
+      "notes": ""
+    },
+    {
+      "rank": 92,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 9 (Gimpo Airport–Sports Complex)",
+      "location": "Seoul, South Korea",
+      "length_km": "28,100 m (17.461 mi)",
+      "year_opened": "2009–2015",
+      "notes": ""
+    },
+    {
+      "rank": 93,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Taihang Tunnel",
+      "location": "Taihang Mountains, China",
+      "length_km": "27,848 m (17.304 mi)",
+      "year_opened": "2007",
+      "notes": "On Shijiazhuang–Taiyuan high-speed railway"
+    },
+    {
+      "rank": 94,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Morden–East Finchley (Northern line)",
+      "location": "London Under­ground, England, United Kingdom",
+      "length_km": "27,800 m (17.274 mi)",
+      "year_opened": "1890–1940",
+      "notes": "Longest railway tunnel in UK"
+    },
+    {
+      "rank": 95,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shenyang Subway: Line 1",
+      "location": "Shenyang, China",
+      "length_km": "27,800 m (17.274 mi)",
+      "year_opened": "2010",
+      "notes": ""
+    },
+    {
+      "rank": 96,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Melamchi Water Tunnel",
+      "location": "Melamchi to Kathmandu, Nepal",
+      "length_km": "27,000 m (16.777 mi)",
+      "year_opened": "2021",
+      "notes": "See Melamchi Water Supply Project"
+    },
+    {
+      "rank": 97,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Incheon Line 1 (Bakchon–International Business District)",
+      "location": "Incheon, South Korea",
+      "length_km": "27,000 m (16.777 mi)",
+      "year_opened": "1999–2009",
+      "notes": ""
+    },
+    {
+      "rank": 98,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Dainichi–Nagahara (Tanimachi Line)",
+      "location": "Osaka Metro, Japan",
+      "length_km": "26,900 m (16.715 mi)",
+      "year_opened": "1967–1983",
+      "notes": ""
+    },
+    {
+      "rank": 99,
+      "tunnel_type": "Particle accel­er­ator",
+      "tunnel_name": "LEP Tunnel",
+      "location": "CERN, Switzerland/France",
+      "length_km": "26,659 m (16.565 mi)",
+      "year_opened": "1988 (break­through)",
+      "notes": "11.3–15.9 m2 circular ring, now used by Large Hadron Collider"
+    },
+    {
+      "rank": 100,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Hakkōda Tunnel (Tōhoku Shinkansen)",
+      "location": "Hakkōda Mountains, Japan",
+      "length_km": "26,455 m (16.438 mi)",
+      "year_opened": "2010",
+      "notes": "64–74 m2"
+    },
+    {
+      "rank": 101,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Şanlıurfa Irrigation Tunnels",
+      "location": "Turkey",
+      "length_km": "26,400 m (16.404 mi)",
+      "year_opened": "2005",
+      "notes": ""
+    },
+    {
+      "rank": 102,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Subway: Line 9",
+      "location": "Shanghai, China",
+      "length_km": "26,263 m (16.319 mi)",
+      "year_opened": "2007–2010",
+      "notes": ""
+    },
+    {
+      "rank": 103,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Gilgel Gibe II Power Station headrace tunnel",
+      "location": "Ethiopia",
+      "length_km": "26,000 m (16.156 mi)",
+      "year_opened": "2005–2009",
+      "notes": "Tunnel partially collapsed, was repaired in 2010."
+    },
+    {
+      "rank": 104,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "#5 Tunnel, Yellow River Diversion to Shanxi South Line",
+      "location": "Shanxi, China",
+      "length_km": "26,000 m (16.156 mi)",
+      "year_opened": "2002",
+      "notes": "See South–North Water Transfer Project"
+    },
+    {
+      "rank": 105,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Daegu Metro: Line 1",
+      "location": "Daegu, South Korea",
+      "length_km": "25,900 m (16.094 mi)",
+      "year_opened": "1997–2002",
+      "notes": ""
+    },
+    {
+      "rank": 106,
+      "tunnel_type": "Metro",
+      "tunnel_name": "MRT Blue Line",
+      "location": "Bangkok, Thailand",
+      "length_km": "25,800 m (16.031 mi)",
+      "year_opened": "2004",
+      "notes": "Second phase opened in September 2019"
+    },
+    {
+      "rank": 107,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Iwate-Ichinohe Tunnel",
+      "location": "Ōu Mountains, Japan",
+      "length_km": "25,810 m (16.038 mi)",
+      "year_opened": "2002",
+      "notes": "Part of the Tōhoku Shinkansen"
+    },
+    {
+      "rank": 108,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Sudbury Aqueduct",
+      "location": "Eastern Massachu­setts, United States",
+      "length_km": "25,750 m (16.000 mi)",
+      "year_opened": "1878",
+      "notes": "Emergency backup use"
+    },
+    {
+      "rank": 109,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Suzhou Metro: Line 1",
+      "location": "Suzhou, China",
+      "length_km": "25,739 m (15.993 mi)",
+      "year_opened": "2007–2011",
+      "notes": ""
+    },
+    {
+      "rank": 110,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Line 3 (Athens Metro)",
+      "location": "Athens, Greece",
+      "length_km": "25,200 m (15.659 mi)",
+      "year_opened": "1992–2022",
+      "notes": "Line 3 is actually 46.5 km long, but only 25.2 km of it are underground."
+    },
+    {
+      "rank": 111,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Helsinki metro (Kivenlahti–Sörnäinen)",
+      "location": "Espoo and Helsinki, Finland",
+      "length_km": "25,200 m (15.659 mi)",
+      "year_opened": "1982–2022",
+      "notes": ""
+    },
+    {
+      "rank": 112,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Taipei Metro: Orange Line (Huilong – Nanshijiao)",
+      "location": "Taipei, Taiwan",
+      "length_km": "25,100 m (15.596 mi)(Excl. branch)",
+      "year_opened": "1998–2013",
+      "notes": ""
+    },
+    {
+      "rank": 113,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Musil Tunnel",
+      "location": "Wonju–Jecheon (Jungang Line), South Korea",
+      "length_km": "25,080 m (15.584 mi)",
+      "year_opened": "2021",
+      "notes": ""
+    },
+    {
+      "rank": 114,
+      "tunnel_type": "Waste-water",
+      "tunnel_name": "Thames Tideway Tunnel",
+      "location": "London, England, United Kingdom",
+      "length_km": "25,000 m (15.534 mi)",
+      "year_opened": "2025",
+      "notes": "7.2 m in diameter"
+    },
+    {
+      "rank": 115,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Pajares Base Tunnel",
+      "location": "Asturias/León, Spain",
+      "length_km": "24,667 m (15.327 mi)",
+      "year_opened": "2023",
+      "notes": ""
+    },
+    {
+      "rank": 116,
+      "tunnel_type": "Road",
+      "tunnel_name": "Lærdal Tunnel",
+      "location": "Lærdal–Aurland, Norway",
+      "length_km": "24,510 m (15.230 mi)",
+      "year_opened": "2000",
+      "notes": "World's longest road tunnel"
+    },
+    {
+      "rank": 117,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Yellow Line (Delhi Metro): GTB Nagar – Qutub Minar",
+      "location": "Delhi, India",
+      "length_km": "24,000 m (14.913 mi)",
+      "year_opened": "2004–2010",
+      "notes": "Longest tunnel in India"
+    },
+    {
+      "rank": 118,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Madrid Metro: Line 1",
+      "location": "Madrid, Spain",
+      "length_km": "23,876 m (14.836 mi)",
+      "year_opened": "1919–2007",
+      "notes": ""
+    },
+    {
+      "rank": 119,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Lainzer/Wienerwald­tunnel",
+      "location": "west of Vienna, Austria",
+      "length_km": "23,844 m (14.816 mi)",
+      "year_opened": "2012",
+      "notes": "Break­through 2007"
+    },
+    {
+      "rank": 120,
+      "tunnel_type": "Waste­water",
+      "tunnel_name": "Harbour Area Treatment Scheme (HATS) Stage 1",
+      "location": "Hong Kong, China (construction started in British Hong Kong)",
+      "length_km": "23,600 m (14.664 mi)",
+      "year_opened": "2001",
+      "notes": ""
+    },
+    {
+      "rank": 121,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Eucumbene-Snowy Tunnel",
+      "location": "New South Wales, Australia",
+      "length_km": "23,500 m (14.602 mi)",
+      "year_opened": "1965",
+      "notes": "Part of the 145 km tunnel network of the Snowy Mountains Scheme"
+    },
+    {
+      "rank": 122,
+      "tunnel_type": "Railway",
+      "tunnel_name": "South Lüliangshan Tunnel",
+      "location": "Shanxi, China",
+      "length_km": "23,473 m (14.585 mi)",
+      "year_opened": "2014",
+      "notes": "2 tubes, part of Shanxi–Henan–Shandong railway"
+    },
+    {
+      "rank": 123,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Madrid Metro: Line 6",
+      "location": "Madrid, Spain",
+      "length_km": "23,472 m (14.585 mi)",
+      "year_opened": "1979–2007",
+      "notes": ""
+    },
+    {
+      "rank": 124,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Angrignon – Honoré-Beaugrand (Line 1 Green)",
+      "location": "Montreal Metro, Canada",
+      "length_km": "23,262 m (14.454 mi)",
+      "year_opened": "1966–2007",
+      "notes": ""
+    },
+    {
+      "rank": 125,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Warsaw Metro Line 1: Kabaty – Młociny",
+      "location": "Warsaw, Poland",
+      "length_km": "23,100 m (14.354 mi)",
+      "year_opened": "1983–2008",
+      "notes": ""
+    },
+    {
+      "rank": 126,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Beijing Subway: Line 2",
+      "location": "Beijing, China",
+      "length_km": "23,100 m (14.354 mi)",
+      "year_opened": "1969–1987",
+      "notes": ""
+    },
+    {
+      "rank": 127,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Xinma Hydroelectric Power Station Water Tunnel",
+      "location": "Sichuan, China",
+      "length_km": "22,975 m (14.276 mi)",
+      "year_opened": "2009",
+      "notes": ""
+    },
+    {
+      "rank": 128,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Iiyama Tunnel",
+      "location": "Iiyama, Japan",
+      "length_km": "22,225 m (13.810 mi)",
+      "year_opened": "2015",
+      "notes": "Part of the Hokuriku Shinkansen"
+    },
+    {
+      "rank": 129,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Daishimizu Tunnel",
+      "location": "Mount Tanigawa, Japan",
+      "length_km": "22,221 m (13.807 mi)",
+      "year_opened": "1982",
+      "notes": "Longest railway tunnel until Seikan Tunnel was opened."
+    },
+    {
+      "rank": 130,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Eucumbene-Tumut Tunnel",
+      "location": "New South Wales, Australia",
+      "length_km": "22,200 m (13.794 mi)",
+      "year_opened": "1959",
+      "notes": "Part of the 145 km tunnel network of the Snowy Mountains Scheme"
+    },
+    {
+      "rank": 131,
+      "tunnel_type": "Road",
+      "tunnel_name": "WestConnex",
+      "location": "Sydney, New South Wales, Australia",
+      "length_km": "22,000 m (13.670 mi)",
+      "year_opened": "2023(2019–2020 partial comple­tion)",
+      "notes": ""
+    },
+    {
+      "rank": 132,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Daegwallyeong Tunnel",
+      "location": "Pyeong­chang–Gangneung (Gyeong­gang Line), South Korea",
+      "length_km": "21,755 m (13.518 mi)",
+      "year_opened": "2017",
+      "notes": ""
+    },
+    {
+      "rank": 133,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Vorotan–Arpa Tunnel",
+      "location": "Armenia (construction started at the time of Soviet Union)",
+      "length_km": "21,652 m (13.454 mi)",
+      "year_opened": "2004",
+      "notes": ""
+    },
+    {
+      "rank": 134,
+      "tunnel_type": "Particle accel­er­ator (incom­plete)",
+      "tunnel_name": "UNK proton accelerator",
+      "location": "Protvino, Russia (construction started at the time of Soviet Union)",
+      "length_km": "21,000 m (13.049 mi)",
+      "year_opened": "1994 (break­through)",
+      "notes": "Construction stopped after finishing of main circle tunnel, future is unclear"
+    },
+    {
+      "rank": 135,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Guangfo Metro",
+      "location": "Foshan, China",
+      "length_km": "20,900 m (12.987 mi)",
+      "year_opened": "2010",
+      "notes": ""
+    },
+    {
+      "rank": 136,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Luliangshan Tunnel",
+      "location": "Shanxi, China",
+      "length_km": "20,785 m (12.915 mi)",
+      "year_opened": "2011",
+      "notes": "2 tubes: left tube is 20785 meters, right tube is 20738 meters"
+    },
+    {
+      "rank": 137,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Subway: Line 4",
+      "location": "Shanghai, China",
+      "length_km": "20,740 m (12.887 mi)",
+      "year_opened": "2005–2007",
+      "notes": ""
+    },
+    {
+      "rank": 138,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Barcelona Metro: Line 1",
+      "location": "Barcelona, Spain",
+      "length_km": "20,700 m (12.862 mi)",
+      "year_opened": "1926–1992",
+      "notes": ""
+    },
+    {
+      "rank": 139,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Ward Tunnel",
+      "location": "California, United States",
+      "length_km": "20,610 m (12.806 mi)",
+      "year_opened": "1920–1925",
+      "notes": "Part of the Big Creek Hydroelectric Project of the Southern California Edison Company. Excavated through solid granite."
+    },
+    {
+      "rank": 140,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Busan Metro: Line 1 (Hadan-Busan Nat'l Univ. of Education)",
+      "location": "Busan, South Korea",
+      "length_km": "20,600 m (12.800 mi)",
+      "year_opened": "1985–1994",
+      "notes": ""
+    },
+    {
+      "rank": 141,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Xian Subway: Line 2",
+      "location": "Xi'an, China",
+      "length_km": "20,500 m (12.738 mi)",
+      "year_opened": "2011",
+      "notes": ""
+    },
+    {
+      "rank": 142,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Daejeon Metro: Line 1",
+      "location": "Daejeon, South Korea",
+      "length_km": "20,470 m (12.719 mi)",
+      "year_opened": "2006–2007",
+      "notes": ""
+    },
+    {
+      "rank": 143,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Nanjing Metro Line 2",
+      "location": "Nanjing, China",
+      "length_km": "20,380 m (12.664 mi)",
+      "year_opened": "2010",
+      "notes": ""
+    },
+    {
+      "rank": 144,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Subway: Line 6",
+      "location": "Shanghai, China",
+      "length_km": "20,336 m (12.636 mi)",
+      "year_opened": "2007",
+      "notes": ""
+    },
+    {
+      "rank": 145,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Geumjeong Tunnel",
+      "location": "Busan, South Korea",
+      "length_km": "20,323 m (12.628 mi)",
+      "year_opened": "2010",
+      "notes": "Gyeongbu high-speed railway"
+    },
+    {
+      "rank": 146,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Baku Metro (Red Line)",
+      "location": "Baku, Azerbaijan",
+      "length_km": "20,100 m (12.490 mi)",
+      "year_opened": "1967–2002",
+      "notes": ""
+    },
+    {
+      "rank": 147,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Wushaoling Tunnel",
+      "location": "Wuwei, China",
+      "length_km": "20,060 m (12.465 mi)",
+      "year_opened": "2006–2007",
+      "notes": "2 tubes: left tube is 20060 meters, right tube is 20050 meters"
+    },
+    {
+      "rank": 148,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Olmos Transandino Project",
+      "location": "Guabal, Peru",
+      "length_km": "20,000 m (12.427 mi)",
+      "year_opened": "2011",
+      "notes": ""
+    },
+    {
+      "rank": 149,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Istanbul Metro (Line M5)",
+      "location": "Istanbul, Turkey",
+      "length_km": "20,000 m (12.427 mi)",
+      "year_opened": "2017–2018",
+      "notes": "M5 line (Üsküdar-Çekmeköy) is 20 km with depot line. Line is 30.9 km with Çekmeköy-Sultanbeyli Phase."
+    },
+    {
+      "rank": 150,
+      "tunnel_type": "Electric power trans­mis­sion tunnel",
+      "tunnel_name": "The London Connection",
+      "location": "London, England, United Kingdom",
+      "length_km": "20,000 m (12.427 mi)",
+      "year_opened": "2005",
+      "notes": "National Grid plc, 3-metre diameter, 400 kilovolt circuit"
+    },
+    {
+      "rank": 151,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Simplon Tunnel",
+      "location": "Lepontine Alps, Switzerland/Italy",
+      "length_km": "19,803 m (12.305 mi)",
+      "year_opened": "1906",
+      "notes": "Parallel tunnel was opened in 1922 (19,824 m long); longest transit tunnel until Daishimizu Tunnel was opened. Part of the NRLA."
+    },
+    {
+      "rank": 152,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Mantaro Hydroelectricity Project Tunnel",
+      "location": "Colcabamba, Peru",
+      "length_km": "19,800 m (12.303 mi)",
+      "year_opened": "1973",
+      "notes": ""
+    },
+    {
+      "rank": 153,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Shin Hokuriku Tunnel",
+      "location": "Fukui Prefecture, Japan",
+      "length_km": "19,760 m (12.278 mi)",
+      "year_opened": "2024",
+      "notes": "Part of the Hokuriku Shinkansen"
+    },
+    {
+      "rank": 154,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Follo Line",
+      "location": "Oslo, Norway",
+      "length_km": "19,500 m (12.117 mi)",
+      "year_opened": "2022",
+      "notes": "Groundbreaking 2014"
+    },
+    {
+      "rank": 155,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Koltsevaya Line (Circle Line)",
+      "location": "Moscow Metro, Russia (at the time of construction Soviet Union)",
+      "length_km": "19,400 m (12.055 mi)",
+      "year_opened": "1950–1954",
+      "notes": ""
+    },
+    {
+      "rank": 156,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Futang Hydroelectric Power Station Water Tunnel",
+      "location": "Sichuan, China",
+      "length_km": "19,319 m (12.004 mi)",
+      "year_opened": "2004",
+      "notes": ""
+    },
+    {
+      "rank": 157,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Bundang Line (Suwon station–Jukjeon station)",
+      "location": "Yongin and Suwon in South Korea",
+      "length_km": "19,300 m (11.992 mi)",
+      "year_opened": "2007–2013",
+      "notes": ""
+    },
+    {
+      "rank": 158,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Qamchiq Tunnel",
+      "location": "Angren–Pap railway, Uzbekistan",
+      "length_km": "19,200 m (11.930 mi)",
+      "year_opened": "2016",
+      "notes": "Longest non-metro railway tunnel in ex-USSR"
+    },
+    {
+      "rank": 159,
+      "tunnel_type": "Metro",
+      "tunnel_name": "North East line",
+      "location": "MRT, Singapore",
+      "length_km": "19,200 m (11.930 mi)",
+      "year_opened": "2003–2011",
+      "notes": "World's first fully automated and driverless underground rapid transit line"
+    },
+    {
+      "rank": 160,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Suzhou Metro: Line 2",
+      "location": "Suzhou, China",
+      "length_km": "19,146 m (11.897 mi)",
+      "year_opened": "2009–2012",
+      "notes": ""
+    },
+    {
+      "rank": 161,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Maskoŭskaja Line",
+      "location": "Minsk Metro, Belarus (construction started at the time of Soviet Union)",
+      "length_km": "19,100 m (11.868 mi)",
+      "year_opened": "1984–2014",
+      "notes": ""
+    },
+    {
+      "rank": 162,
+      "tunnel_type": "Railway Single Track",
+      "tunnel_name": "Vereina",
+      "location": "Silvretta, Switzerland",
+      "length_km": "19,058 m (11.842 mi)",
+      "year_opened": "1999",
+      "notes": "Single track with passing loops, metre gauge"
+    },
+    {
+      "rank": 163,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 4 (Ssangmun–Ichon)",
+      "location": "Seoul, South Korea",
+      "length_km": "19,000 m (11.806 mi)",
+      "year_opened": "1980",
+      "notes": ""
+    },
+    {
+      "rank": 164,
+      "tunnel_type": "Waste­water",
+      "tunnel_name": "Harbour Area Treatment Scheme (HATS) Stage 2",
+      "location": "Hong Kong, China",
+      "length_km": "18,800 m (11.682 mi)",
+      "year_opened": "2015",
+      "notes": ""
+    },
+    {
+      "rank": 165,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Shin-Kanmon Tunnel",
+      "location": "Kanmon Straits, Japan",
+      "length_km": "18,713 m (11.628 mi)",
+      "year_opened": "1975",
+      "notes": "Part of the San'yō Shinkansen"
+    },
+    {
+      "rank": 166,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Shiziping Hydroelectric Power Station Water Tunnel",
+      "location": "Sichuan, China",
+      "length_km": "18,712 m (11.627 mi)",
+      "year_opened": "2010",
+      "notes": ""
+    },
+    {
+      "rank": 167,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Vaglia",
+      "location": "Bologna – Firenze, Italy",
+      "length_km": "18,711 m (11.626 mi)",
+      "year_opened": "2009",
+      "notes": "Bologna–Florence high-speed railway"
+    },
+    {
+      "rank": 168,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Baoxing Hydroelectric Power Station Water Tunnel",
+      "location": "Sichuan, China",
+      "length_km": "18,676 m (11.605 mi)",
+      "year_opened": "2007",
+      "notes": ""
+    },
+    {
+      "rank": 169,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Apennine Base Tunnel",
+      "location": "Tuscan-Emilian Apennines, Italy",
+      "length_km": "18,507 m (11.500 mi)",
+      "year_opened": "1934",
+      "notes": ""
+    },
+    {
+      "rank": 170,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Obolonsko–Teremkivska line",
+      "location": "Kyiv Metro, Ukraine (construction started at the time of Soviet Union)",
+      "length_km": "18,480 m (11.483 mi)",
+      "year_opened": "1976–2013",
+      "notes": ""
+    },
+    {
+      "rank": 171,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Istanbul Metro (Line M3)",
+      "location": "Istanbul, Turkey",
+      "length_km": "18,460 m (11.471 mi)",
+      "year_opened": "2013–2022",
+      "notes": ""
+    },
+    {
+      "rank": 172,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Qinling Tunnel I-II",
+      "location": "Qin Mountains, China",
+      "length_km": "18,460 m (11.471 mi)",
+      "year_opened": "2000",
+      "notes": "2 tubes: left tube is 18460 meters, right tube is 18456 meters"
+    },
+    {
+      "rank": 173,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Tatev Hydroelectric Power Station Water Tunnel",
+      "location": "Armenia (at the time of construction Soviet Union)",
+      "length_km": "18,400 m (11.433 mi)",
+      "year_opened": "1970",
+      "notes": ""
+    },
+    {
+      "rank": 174,
+      "tunnel_type": "Road Twin Tube",
+      "tunnel_name": "Yamate Tunnel",
+      "location": "Tokyo, Japan",
+      "length_km": "18,200 m (11.309 mi)",
+      "year_opened": "2015",
+      "notes": ""
+    },
+    {
+      "rank": 175,
+      "tunnel_type": "Railway",
+      "tunnel_name": "South Taihangshan Tunnel",
+      "location": "Shanxi, China",
+      "length_km": "18,125 m (11.262 mi)",
+      "year_opened": "2014",
+      "notes": "2 tubes, part of Shanxi–Henan–Shandong railway"
+    },
+    {
+      "rank": 176,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Subway: Line 1",
+      "location": "Shanghai, China",
+      "length_km": "18,110 m (11.253 mi)",
+      "year_opened": "1995",
+      "notes": ""
+    },
+    {
+      "rank": 177,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Avtozavod­skaya Line",
+      "location": "Minsk Metro, Belarus (construction started at the time of Soviet Union)",
+      "length_km": "18,100 m (11.247 mi)",
+      "year_opened": "1990–2005",
+      "notes": ""
+    },
+    {
+      "rank": 178,
+      "tunnel_type": "Road Twin Tube",
+      "tunnel_name": "Zhongnanshan Tunnel",
+      "location": "Shaanxi, China",
+      "length_km": "18,040 m (11.210 mi)",
+      "year_opened": "2007",
+      "notes": "The longest road tunnel in China"
+    },
+    {
+      "rank": 179,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Line 2 (Athens Metro)",
+      "location": "Athens, Greece",
+      "length_km": "17,900 m (11.123 mi)",
+      "year_opened": "1991–2013",
+      "notes": ""
+    },
+    {
+      "rank": 180,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Beijing Subway: Line 5",
+      "location": "Beijing, China",
+      "length_km": "17,825 m (11.076 mi)",
+      "year_opened": "2007",
+      "notes": ""
+    },
+    {
+      "rank": 181,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Shuakhevi headrace and pressure tunnel",
+      "location": "Shuakhevi, Adjara, Georgia",
+      "length_km": "17,800 m (11.060 mi)",
+      "year_opened": "2013–2017",
+      "notes": ""
+    },
+    {
+      "rank": 182,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Ankara Metro (AKM-Koru)",
+      "location": "Ankara, Turkey",
+      "length_km": "19,660 m (12.216 mi)",
+      "year_opened": "1997–2014",
+      "notes": "M1 line is tunnel in Kızılay between AKM, M2 line is completely underground."
+    },
+    {
+      "rank": 183,
+      "tunnel_type": "Road",
+      "tunnel_name": "Jingpingshan",
+      "location": "Sichuan, China",
+      "length_km": "17,500 m (10.874 mi)",
+      "year_opened": "2008",
+      "notes": "The deepest transportation tunnel in China"
+    },
+    {
+      "rank": 184,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shenzhen Subway: Longgang Line",
+      "location": "Shenzhen, China",
+      "length_km": "17,333 m (10.770 mi)",
+      "year_opened": "2010–2011",
+      "notes": ""
+    },
+    {
+      "rank": 185,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Kholodno­hir­sko–Zavodska Line",
+      "location": "Kharkiv Metro, Ukraine (at the time of construction Soviet Union)",
+      "length_km": "17,300 m (10.750 mi)",
+      "year_opened": "1975–1978",
+      "notes": ""
+    },
+    {
+      "rank": 186,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Shinbundang Line",
+      "location": "Seoul and Seongnam in South Korea",
+      "length_km": "17,300 m (10.750 mi)",
+      "year_opened": "2011",
+      "notes": ""
+    },
+    {
+      "rank": 187,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Mavi Tünel (Blue Tunnel)",
+      "location": "Konya, Turkey",
+      "length_km": "17,034 m (10.584 mi)",
+      "year_opened": "2012",
+      "notes": "Break­through 2007"
+    },
+    {
+      "rank": 188,
+      "tunnel_type": "Road",
+      "tunnel_name": "Gotthard Road Tunnel",
+      "location": "Lepontine Alps, Switzerland",
+      "length_km": "16,918 m (10.512 mi)",
+      "year_opened": "1980",
+      "notes": ""
+    },
+    {
+      "rank": 189,
+      "tunnel_type": "Metro",
+      "tunnel_name": "İzmir Metro Line M1",
+      "location": "İzmir, Turkey",
+      "length_km": "16,900 m (10.501 mi)",
+      "year_opened": "2000–2023",
+      "notes": "M1 Line is 27 km long, but only 19.8 km of it is underground in two noncontinuous sections. The shorter underground section is 2.9 km long."
+    },
+    {
+      "rank": 190,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Guangzhou Metro: Line 4",
+      "location": "Guangzhou, China",
+      "length_km": "16,790 m (10.433 mi)",
+      "year_opened": "2005",
+      "notes": ""
+    },
+    {
+      "rank": 191,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Barcelona Metro: Line 4",
+      "location": "Barcelona, Spain",
+      "length_km": "16,700 m (10.377 mi)",
+      "year_opened": "1929–1999",
+      "notes": ""
+    },
+    {
+      "rank": 192,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 2 (Jamsil–Sillim)",
+      "location": "Seoul, South Korea",
+      "length_km": "16,700 m (10.377 mi)",
+      "year_opened": "1980–1984",
+      "notes": ""
+    },
+    {
+      "rank": 193,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Barcelona Metro: Line 3",
+      "location": "Barcelona, Spain",
+      "length_km": "16,600 m (10.315 mi)",
+      "year_opened": "1924–2001",
+      "notes": ""
+    },
+    {
+      "rank": 194,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Barcelona Metro: Line 5",
+      "location": "Barcelona, Spain",
+      "length_km": "16,600 m (10.315 mi)",
+      "year_opened": "1959–1983",
+      "notes": ""
+    },
+    {
+      "rank": 195,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Murrumbidgee-Eucumbene Tunnel",
+      "location": "New South Wales, Australia",
+      "length_km": "16,600 m (10.315 mi)",
+      "year_opened": "1961",
+      "notes": "Part of the 145 km tunnel network of the Snowy Mountains Scheme"
+    },
+    {
+      "rank": 196,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Istanbul Metro (Line M2)",
+      "location": "Istanbul, Turkey",
+      "length_km": "16,500 m (10.253 mi)",
+      "year_opened": "2000–2009",
+      "notes": ""
+    },
+    {
+      "rank": 197,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Beijing Subway: Line 9",
+      "location": "Beijing, China",
+      "length_km": "16,500 m (10.253 mi)",
+      "year_opened": "2011–2012",
+      "notes": ""
+    },
+    {
+      "rank": 198,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Jinkang Hydroelectric Power Station Water Tunnel",
+      "location": "Sichuan, China",
+      "length_km": "16,490 m (10.246 mi)",
+      "year_opened": "2006",
+      "notes": ""
+    },
+    {
+      "rank": 199,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Madrid Metro: Line 8",
+      "location": "Madrid, Spain",
+      "length_km": "16,467 m (10.232 mi)",
+      "year_opened": "1998–2007",
+      "notes": ""
+    },
+    {
+      "rank": 200,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Guangzhou Metro: Line 1",
+      "location": "Guangzhou, China",
+      "length_km": "16,449 m (10.221 mi)",
+      "year_opened": "1997",
+      "notes": ""
+    },
+    {
+      "rank": 201,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Madrid Metro: Line 3",
+      "location": "Madrid, Spain",
+      "length_km": "16,424 m (10.205 mi)",
+      "year_opened": "1939–2007",
+      "notes": ""
+    },
+    {
+      "rank": 202,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Rokkō Tunnel",
+      "location": "Mount Rokkō, Japan",
+      "length_km": "16,250 m (10.097 mi)",
+      "year_opened": "1972",
+      "notes": "Part of the San'yō Shinkansen"
+    },
+    {
+      "rank": 203,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Solan Tunnel",
+      "location": "Taebaek, Gangwon-do, South Korea",
+      "length_km": "16,240 m (10.091 mi)",
+      "year_opened": "2012",
+      "notes": "Taebaek Line, includes a spiral"
+    },
+    {
+      "rank": 204,
+      "tunnel_type": "Hydro­electric Twin Tube",
+      "tunnel_name": "Kemano T1 and T2",
+      "location": "Kemano, Canada",
+      "length_km": "16,000 m (9.942 mi)",
+      "year_opened": "1954; 2022",
+      "notes": "T1 was completed in 1954 and T2 was completed in May, 2022, both are in operation."
+    },
+    {
+      "rank": 205,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 7 (Suraksan–Konkuk University)",
+      "location": "Seoul, South Korea",
+      "length_km": "16,000 m (9.942 mi)",
+      "year_opened": "1996",
+      "notes": ""
+    },
+    {
+      "rank": 206,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Münsterer­tunnel",
+      "location": "Tyrol, Austria",
+      "length_km": "15,990 m (9.936 mi)",
+      "year_opened": "2012",
+      "notes": ""
+    },
+    {
+      "rank": 207,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Xiangshan Tunnel 象山隧道",
+      "location": "Fujian, China",
+      "length_km": "15,917 m (9.890 mi)",
+      "year_opened": "2012",
+      "notes": "2 tubes, part of Longyan–Xiamen Railway"
+    },
+    {
+      "rank": 208,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Terfener­tunnel",
+      "location": "Tyrol, Austria",
+      "length_km": "15,840 m (9.843 mi)",
+      "year_opened": "2012",
+      "notes": ""
+    },
+    {
+      "rank": 209,
+      "tunnel_type": "Former railway",
+      "tunnel_name": "Henderson Tunnel",
+      "location": "Front Range, United States",
+      "length_km": "15,800 m (9.818 mi)",
+      "year_opened": "1976",
+      "notes": "Narrow gauge railway, replaced by a conveyor belt in 1999. Only one portal (served an underground mine)"
+    },
+    {
+      "rank": 210,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Istanbul Metro (Line M9)",
+      "location": "Istanbul, Turkey",
+      "length_km": "15,800 m (9.818 mi)",
+      "year_opened": "2013–2024",
+      "notes": ""
+    },
+    {
+      "rank": 211,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Pandaoling Tunnel, Datong River Diversion to Shaanxi Project",
+      "location": "Shaanxi, China",
+      "length_km": "15,723 m (9.770 mi)",
+      "year_opened": "1994",
+      "notes": ""
+    },
+    {
+      "rank": 212,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Copenhagen Metro: City Circle Line",
+      "location": "Denmark",
+      "length_km": "15,500 m (9.631 mi)",
+      "year_opened": "2019",
+      "notes": "Longest railway tunnel in Denmark and Scandinavia"
+    },
+    {
+      "rank": 213,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Budapest Metro: Line 3",
+      "location": "Hungary",
+      "length_km": "15,500 m (9.631 mi)",
+      "year_opened": "1976–1990",
+      "notes": "Line 3 is actually 17.39 km long, but only 15.5 km of it is underground."
+    },
+    {
+      "rank": 214,
+      "tunnel_type": "Railway Single Track",
+      "tunnel_name": "Furka Base",
+      "location": "Urner Alps, Switzerland",
+      "length_km": "15,442 m (9.595 mi)",
+      "year_opened": "1982",
+      "notes": "Single track with passing loops, metre gauge"
+    },
+    {
+      "rank": 215,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Ceneri Base Tunnel",
+      "location": "Lepontine Alps, Switzerland",
+      "length_km": "15,400 m (9.569 mi)",
+      "year_opened": "2020",
+      "notes": "Part of the NRLA"
+    },
+    {
+      "rank": 216,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 3 (Gupabal–Geumho)",
+      "location": "Seoul, South Korea",
+      "length_km": "15,400 m (9.569 mi)",
+      "year_opened": "1985",
+      "notes": ""
+    },
+    {
+      "rank": 217,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Tianjin Subway: Line 1",
+      "location": "Tianjin, China",
+      "length_km": "15,378 m (9.555 mi)",
+      "year_opened": "1976–2006",
+      "notes": ""
+    },
+    {
+      "rank": 218,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Haruna Tunnel",
+      "location": "Gunma Prefecture, Japan",
+      "length_km": "15,350 m (9.538 mi)",
+      "year_opened": "1982",
+      "notes": "Part of the Jōetsu Shinkansen"
+    },
+    {
+      "rank": 219,
+      "tunnel_type": "Railway Single Track",
+      "tunnel_name": "Severomuysky Tunnel",
+      "location": "Severo­muysky Range, Russia (construction started at the time of Soviet Union)",
+      "length_km": "15,343 m (9.534 mi)",
+      "year_opened": "2003",
+      "notes": ""
+    },
+    {
+      "rank": 220,
+      "tunnel_type": "Waste­water",
+      "tunnel_name": "Deer Island Outfall Tunnel",
+      "location": "Deer Island, Boston, Massachu­setts, United States",
+      "length_km": "15,290 m (9.501 mi)",
+      "year_opened": "2000",
+      "notes": "24 ft (7.3 m) diameter (42m2 cross section); discharges treated effluent into Atlantic Ocean"
+    },
+    {
+      "rank": 221,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Firenzuola",
+      "location": "Bologna – Firenze, Italy",
+      "length_km": "15,285 m (9.498 mi)",
+      "year_opened": "2009",
+      "notes": "Bologna–Florence high-speed railway"
+    },
+    {
+      "rank": 222,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Inguri Hydroelectric Power Station Water Tunnel",
+      "location": "Georgia (at the time of construction Soviet Union)",
+      "length_km": "15,279 m (9.494 mi)",
+      "year_opened": "1978",
+      "notes": ""
+    },
+    {
+      "rank": 223,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Shanghai Subway: Line 2",
+      "location": "Shanghai, China",
+      "length_km": "15,274 m (9.491 mi)",
+      "year_opened": "2000",
+      "notes": "Between Zhanjianggaoke station and Lingkong Station"
+    },
+    {
+      "rank": 224,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Jinquidi Tunnel, Niulan River Diversion to Dianchi",
+      "location": "Yunnan, China",
+      "length_km": "15,257 m (9.480 mi)",
+      "year_opened": "2013",
+      "notes": ""
+    },
+    {
+      "rank": 225,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Baotan Hydroelectric Power Station Water Tunnel",
+      "location": "Guangxi, China",
+      "length_km": "15,200 m (9.445 mi)",
+      "year_opened": "2010",
+      "notes": ""
+    },
+    {
+      "rank": 226,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Gorigamine Tunnel",
+      "location": "Nagano Prefecture, Japan",
+      "length_km": "15,175 m (9.429 mi)",
+      "year_opened": "1997",
+      "notes": "Part of the Hokuriku Shinkansen"
+    },
+    {
+      "rank": 227,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Xuecheng Hydroelectric Power Station Water Tunnel",
+      "location": "Sichuan, China",
+      "length_km": "15,174 m (9.429 mi)",
+      "year_opened": "2007",
+      "notes": ""
+    },
+    {
+      "rank": 228,
+      "tunnel_type": "Railway Single Track",
+      "tunnel_name": "Monte Santomarco",
+      "location": "Paola – Cosenza, Italy",
+      "length_km": "15,040 m (9.345 mi)",
+      "year_opened": "1987",
+      "notes": ""
+    },
+    {
+      "rank": 229,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Gotthard Rail Tunnel",
+      "location": "Lepontine Alps, Switzerland",
+      "length_km": "15,003 m (9.322 mi)",
+      "year_opened": "1882",
+      "notes": "Longest transit tunnel until Simplon Tunnel was opened."
+    },
+    {
+      "rank": 230,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Gwangju Metro: Line 1 (Sotae station–Dosan station)",
+      "location": "Gwangju, South Korea",
+      "length_km": "15,000 m (9.321 mi)",
+      "year_opened": "2004",
+      "notes": ""
+    },
+    {
+      "rank": 231,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Nakayama Tunnel",
+      "location": "Gunma Prefecture, Japan",
+      "length_km": "14,857 m (9.232 mi)",
+      "year_opened": "1982",
+      "notes": "Part of the Jōetsu Shinkansen"
+    },
+    {
+      "rank": 232,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Dangara Irrigation Tunnel",
+      "location": "Nurek, Tajikistan (at the time of construction Soviet Union)",
+      "length_km": "14,800 m (9.196 mi)",
+      "year_opened": "1987",
+      "notes": ""
+    },
+    {
+      "rank": 233,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Cuajone-El Sargento",
+      "location": "Ilo-Toquepala / Cuajone Industrial Railroad – Southern Peru Copper Corporation, Peru",
+      "length_km": "14,724 m (9.149 mi)",
+      "year_opened": "1975",
+      "notes": ""
+    },
+    {
+      "rank": 234,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Mount Macdonald Tunnel",
+      "location": "Rogers Pass, Glacier National Park, Canada",
+      "length_km": "14,723 m (9.148 mi)",
+      "year_opened": "1989",
+      "notes": ""
+    },
+    {
+      "rank": 235,
+      "tunnel_type": "Railway (Maglev)",
+      "tunnel_name": "Misaka Sasago Tunnel",
+      "location": "Yamanashi, Japan",
+      "length_km": "14,613 m (9.080 mi)",
+      "year_opened": "1996",
+      "notes": "Part of the Chuo Shinkansen (Maglev). Already used as Yamanashi Test Track since 1996."
+    },
+    {
+      "rank": 236,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Lötschberg Tunnel",
+      "location": "Bernese Alps, Switzerland",
+      "length_km": "14,612 m (9.079 mi)",
+      "year_opened": "1913",
+      "notes": ""
+    },
+    {
+      "rank": 237,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Caoe River Diversion Project",
+      "location": "Zhejiang, China",
+      "length_km": "14,600 m (9.072 mi)",
+      "year_opened": "2011",
+      "notes": ""
+    },
+    {
+      "rank": 238,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Romerike Tunnel",
+      "location": "Oslo – Lillestrøm, Norway",
+      "length_km": "14,580 m (9.060 mi)",
+      "year_opened": "1999",
+      "notes": ""
+    },
+    {
+      "rank": 239,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Fajiushan Tunnel",
+      "location": "Shanxi, China",
+      "length_km": "14,573 m (9.055 mi)",
+      "year_opened": "2014",
+      "notes": "Part of Shanxi–Henan–Shandong railway."
+    },
+    {
+      "rank": 240,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Snowy-Geehi Tunnel",
+      "location": "New South Wales, Australia",
+      "length_km": "14,500 m (9.010 mi)",
+      "year_opened": "1966",
+      "notes": "Part of the 145 km tunnel network of the Snowy Mountains Scheme"
+    },
+    {
+      "rank": 241,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Baku Metro (Green Line)",
+      "location": "Baku Azerbaijan",
+      "length_km": "14,500 m (9.010 mi)",
+      "year_opened": "1976–2011",
+      "notes": ""
+    },
+    {
+      "rank": 242,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Seoul Subway: Line 4 (Isu–Beomgye)",
+      "location": "Seoul, Gwacheon and Anyang in South Korea",
+      "length_km": "14,500 m (9.010 mi)",
+      "year_opened": "1980–1994",
+      "notes": ""
+    },
+    {
+      "rank": 243,
+      "tunnel_type": "Road Twin Tube",
+      "tunnel_name": "Zigana Tunnel",
+      "location": "Torul–Maçka, Turkey",
+      "length_km": "14,481 m (8.998 mi)",
+      "year_opened": "2023",
+      "notes": "Longest road tunnel in Turkey"
+    },
+    {
+      "rank": 244,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Jisha Hydroelectric Power Station Water Tunnel",
+      "location": "Yunnan, China",
+      "length_km": "14,467 m (8.989 mi)",
+      "year_opened": "2007",
+      "notes": ""
+    },
+    {
+      "rank": 245,
+      "tunnel_type": "Road Twin Tube",
+      "tunnel_name": "Ryfylke Tunnel",
+      "location": "Stavanger–Strand, Norway",
+      "length_km": "14,400 m (8.948 mi)",
+      "year_opened": "2019",
+      "notes": "Longest underwater road tunnel in the world"
+    },
+    {
+      "rank": 246,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "#6 Tunnel, Yellow River Diversion to Shanxi South Line",
+      "location": "Shanxi, China",
+      "length_km": "14,400 m (8.948 mi)",
+      "year_opened": "2002",
+      "notes": "See South–North Water Transfer Project"
+    },
+    {
+      "rank": 247,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Ala Mountain Pass Water Supply Project",
+      "location": "Xinjiang, China",
+      "length_km": "14,346 m (8.914 mi)",
+      "year_opened": "2010",
+      "notes": ""
+    },
+    {
+      "rank": 248,
+      "tunnel_type": "Road Twin Tube",
+      "tunnel_name": "Ovit Tunnel",
+      "location": "Erzurum Province–Rize Province, Turkey",
+      "length_km": "14,346 m (8.914 mi)",
+      "year_opened": "2018",
+      "notes": ""
+    },
+    {
+      "rank": 249,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Stockholm Metro: Tunnelbana 3 (Blue Line) Kungsträd­gården–Hjulsta",
+      "location": "Stockholm, Sweden",
+      "length_km": "14,300 m (8.886 mi)",
+      "year_opened": "1975–1977",
+      "notes": ""
+    },
+    {
+      "rank": 250,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Dayaoshan Tunnel",
+      "location": "Nanling Mountains, China",
+      "length_km": "14,294 m (8.882 mi)",
+      "year_opened": "1987",
+      "notes": ""
+    },
+    {
+      "rank": 251,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Istanbul Metro (Line M8)",
+      "location": "Istanbul, Turkey",
+      "length_km": "14,270 m (8.867 mi)",
+      "year_opened": "2023",
+      "notes": ""
+    },
+    {
+      "rank": 252,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Zaramag Hydroelectric Power Station Water Tunnel",
+      "location": "Ardon River, North Ossetia, Russia",
+      "length_km": "14,226 m (8.840 mi)",
+      "year_opened": "2015",
+      "notes": ""
+    },
+    {
+      "rank": 253,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Tooma-Tumut Tunnel",
+      "location": "New South Wales, Australia",
+      "length_km": "14,200 m (8.823 mi)",
+      "year_opened": "1961",
+      "notes": "Part of the 145 km tunnel network of the Snowy Mountains Scheme"
+    },
+    {
+      "rank": 254,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Metro Lisbon – Blue (Seagull) Line",
+      "location": "Lisbon, Portugal",
+      "length_km": "14,000 m (8.699 mi)",
+      "year_opened": "1959–2007",
+      "notes": ""
+    },
+    {
+      "rank": 255,
+      "tunnel_type": "Metro",
+      "tunnel_name": "MTR – Island line (West of Heng Fa Chuen)",
+      "location": "Hong Kong, China (construction started at the time of British Hong Kong)",
+      "length_km": "14,000 m (8.699 mi)",
+      "year_opened": "1985–2014",
+      "notes": ""
+    },
+    {
+      "rank": 256,
+      "tunnel_type": "Road",
+      "tunnel_name": "Arlberg Road Tunnel",
+      "location": "Arlberg, Austria",
+      "length_km": "13,972 m (8.682 mi)",
+      "year_opened": "1978",
+      "notes": ""
+    },
+    {
+      "rank": 257,
+      "tunnel_type": "Water supply",
+      "tunnel_name": "Shanggong­shan Tunnel, Zhangjiuhe Water Supply Project",
+      "location": "Yunnan, China",
+      "length_km": "13,941 m (8.663 mi)",
+      "year_opened": "2007",
+      "notes": ""
+    },
+    {
+      "rank": 258,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Dayingshan #4 Hydroelectric Power Station Water Tunnel",
+      "location": "Yunnan, China",
+      "length_km": "13,932 m (8.657 mi)",
+      "year_opened": "2009",
+      "notes": "8.5 m in diameter (57m2 cross section)"
+    },
+    {
+      "rank": 259,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Hokuriku Tunnel",
+      "location": "Fukui Prefecture, Japan",
+      "length_km": "13,870 m (8.618 mi)",
+      "year_opened": "1962",
+      "notes": "Part of the Hokuriku Main Line"
+    },
+    {
+      "rank": 260,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Xiapu Tunnel",
+      "location": "Fujian, China",
+      "length_km": "13,838 m (8.599 mi)",
+      "year_opened": "2009",
+      "notes": ""
+    },
+    {
+      "rank": 261,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Yesanguan Tunnel",
+      "location": "Hubei, China",
+      "length_km": "13,838 m (8.599 mi)",
+      "year_opened": "2010",
+      "notes": "Tube I: 13838 meters, tube II: 13796 meters"
+    },
+    {
+      "rank": 262,
+      "tunnel_type": "Hydro­electric",
+      "tunnel_name": "Centrala Hidroelectrică Lotru-Ciunget",
+      "location": "Ciungetu, Romania",
+      "length_km": "13,719 m (8.525 mi)",
+      "year_opened": "1972",
+      "notes": "5 m in diameter"
+    },
+    {
+      "rank": 263,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Fréjus (Mont Cenis)",
+      "location": "Alps, France/Italy (construction started in the Kingdom of Sardinia)",
+      "length_km": "13,657 m (8.486 mi)",
+      "year_opened": "1871",
+      "notes": "Longest transit tunnel until Gotthard Tunnel was opened."
+    },
+    {
+      "rank": 264,
+      "tunnel_type": "Road Twin Tube",
+      "tunnel_name": "Xishan Tunnel",
+      "location": "Shanxi, China",
+      "length_km": "13,654 m (8.484 mi)",
+      "year_opened": "2012",
+      "notes": "Left tube: 13654 meters, right tube: 13570 meters"
+    },
+    {
+      "rank": 265,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "North Tianshan Tunnel",
+      "location": "Xinjiang, China",
+      "length_km": "13,610 m (8.457 mi)",
+      "year_opened": "2009",
+      "notes": ""
+    },
+    {
+      "rank": 266,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Marmaray",
+      "location": "Istanbul, Turkey",
+      "length_km": "13,600 m (8.451 mi)",
+      "year_opened": "2013",
+      "notes": "Built next to a fault zone, between two continents"
+    },
+    {
+      "rank": 267,
+      "tunnel_type": "Railway Single Track",
+      "tunnel_name": "Savio Rail Tunnel",
+      "location": "Helsinki – Kerava, Finland",
+      "length_km": "13,575 m (8.435 mi)",
+      "year_opened": "2008",
+      "notes": ""
+    },
+    {
+      "rank": 268,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Busan Metro: Line 3 (Suyeong–Deokcheon)",
+      "location": "Busan, South Korea",
+      "length_km": "13,500 m (8.389 mi)",
+      "year_opened": "2005",
+      "notes": ""
+    },
+    {
+      "rank": 269,
+      "tunnel_type": "Railway Twin Tube",
+      "tunnel_name": "Shin Shimizu Tunnel",
+      "location": "Mount Tanigawa, Japan",
+      "length_km": "13,500 m (8.389 mi)",
+      "year_opened": "1967",
+      "notes": "Part of the Jōetsu Line"
+    },
+    {
+      "rank": 270,
+      "tunnel_type": "Road",
+      "tunnel_name": "Mount Erlang Tunnel",
+      "location": "Sichuan, China",
+      "length_km": "13,433 m (8.347 mi)",
+      "year_opened": "2018",
+      "notes": "Erlangshan extra-long tunnel part of Yakang Expressway"
+    },
+    {
+      "rank": 271,
+      "tunnel_type": "Railway Single Track",
+      "tunnel_name": "Hex River Tunnel",
+      "location": "Hex River Pass, South Africa",
+      "length_km": "13,400 m (8.326 mi)",
+      "year_opened": "1989",
+      "notes": ""
+    },
+    {
+      "rank": 272,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Wonhyo Tunnel",
+      "location": "Ulsan, South Korea",
+      "length_km": "13,270 m (8.246 mi)",
+      "year_opened": "2010",
+      "notes": "Gyeongbu high-speed railway"
+    },
+    {
+      "rank": 273,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Dabieshan Tunnel",
+      "location": "Hubei, China",
+      "length_km": "13,256 m (8.237 mi)",
+      "year_opened": "2008",
+      "notes": ""
+    },
+    {
+      "rank": 274,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Schlern Tunnel",
+      "location": "South Tyrol, Italy",
+      "length_km": "13,159 m (8.177 mi)",
+      "year_opened": "1993",
+      "notes": ""
+    },
+    {
+      "rank": 275,
+      "tunnel_type": "Railway Single Tube",
+      "tunnel_name": "Caponero-Capoverde",
+      "location": "Genova – Ventimiglia, Italy",
+      "length_km": "13,135 m (8.162 mi)",
+      "year_opened": "2001",
+      "notes": "Includes an underground station (\"San Remo\")"
+    },
+    {
+      "rank": 276,
+      "tunnel_type": "Road Twin Tube",
+      "tunnel_name": "Hongtiguan Tunnel",
+      "location": "Shanxi, China",
+      "length_km": "13,122 m (8.154 mi)",
+      "year_opened": "2013",
+      "notes": "Left tube: 13122 meters, right tube: 13098 meters"
+    },
+    {
+      "rank": 277,
+      "tunnel_type": "Metro",
+      "tunnel_name": "Barcelona Metro line 2",
+      "location": "Barcelona, Spain",
+      "length_km": "13,100 m (8.140 mi)",
+      "year_opened": "1985–1997",
+      "notes": ""
+    },
+    {
+      "rank": 278,
+      "tunnel_type": "Railway",
+      "tunnel_name": "Aki Tunnel",
+      "location": "Hiroshima Prefecture, Japan",
+      "length_km": "13,030 m (8.096 mi)",
+      "year_opened": "1975",
+      "notes": "Part of the San'yō Shinkansen"
+    }
+  ]
+}
