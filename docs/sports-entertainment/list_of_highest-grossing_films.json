@@ -1,0 +1,357 @@
+{
+  "title": "Highest-Grossing Films of All Time",
+  "subtitle": "Films ranked by worldwide box office revenue, with peak rank and release year.",
+  "updated_at": "December 15, 2025 08:50 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "peak_rank": "1",
+      "film_title": "Avatar",
+      "worldwide_box_office_usd": "$2,923,710,708",
+      "release_year": "2009"
+    },
+    {
+      "rank": "2",
+      "peak_rank": "1",
+      "film_title": "Avengers: Endgame",
+      "worldwide_box_office_usd": "$2,797,501,328",
+      "release_year": "2019"
+    },
+    {
+      "rank": "3",
+      "peak_rank": "3",
+      "film_title": "Avatar: The Way of Water",
+      "worldwide_box_office_usd": "$2,343,477,301",
+      "release_year": "2022"
+    },
+    {
+      "rank": "4",
+      "peak_rank": "1",
+      "film_title": "Titanic",
+      "worldwide_box_office_usd": "$2,257,906,828",
+      "release_year": "1997"
+    },
+    {
+      "rank": "5",
+      "peak_rank": "5",
+      "film_title": "Ne Zha 2",
+      "worldwide_box_office_usd": "$2,215,690,000",
+      "release_year": "2025"
+    },
+    {
+      "rank": "6",
+      "peak_rank": "3",
+      "film_title": "Star Wars: The Force Awakens",
+      "worldwide_box_office_usd": "$2,068,223,624",
+      "release_year": "2015"
+    },
+    {
+      "rank": "7",
+      "peak_rank": "4",
+      "film_title": "Avengers: Infinity War",
+      "worldwide_box_office_usd": "$2,048,359,754",
+      "release_year": "2018"
+    },
+    {
+      "rank": "8",
+      "peak_rank": "6",
+      "film_title": "Spider-Man: No Way Home",
+      "worldwide_box_office_usd": "$1,922,598,800",
+      "release_year": "2021"
+    },
+    {
+      "rank": "9",
+      "peak_rank": "8",
+      "film_title": "Inside Out 2",
+      "worldwide_box_office_usd": "$1,698,863,816",
+      "release_year": "2024"
+    },
+    {
+      "rank": "10",
+      "peak_rank": "3",
+      "film_title": "Jurassic World",
+      "worldwide_box_office_usd": "$1,671,537,444",
+      "release_year": "2015"
+    },
+    {
+      "rank": "11",
+      "peak_rank": "7",
+      "film_title": "The Lion King",
+      "worldwide_box_office_usd": "$1,656,943,394",
+      "release_year": "2019"
+    },
+    {
+      "rank": "12",
+      "peak_rank": "3",
+      "film_title": "The Avengers",
+      "worldwide_box_office_usd": "$1,518,815,515",
+      "release_year": "2012"
+    },
+    {
+      "rank": "13",
+      "peak_rank": "4",
+      "film_title": "Furious 7",
+      "worldwide_box_office_usd": "$1,515,341,399",
+      "release_year": "2015"
+    },
+    {
+      "rank": "14",
+      "peak_rank": "11",
+      "film_title": "Top Gun: Maverick",
+      "worldwide_box_office_usd": "$1,495,696,292",
+      "release_year": "2022"
+    },
+    {
+      "rank": "15",
+      "peak_rank": "10",
+      "film_title": "Frozen 2",
+      "worldwide_box_office_usd": "$1,450,026,933",
+      "release_year": "2019"
+    },
+    {
+      "rank": "16",
+      "peak_rank": "14",
+      "film_title": "Barbie",
+      "worldwide_box_office_usd": "$1,447,138,421",
+      "release_year": "2023"
+    },
+    {
+      "rank": "17",
+      "peak_rank": "5",
+      "film_title": "Avengers: Age of Ultron",
+      "worldwide_box_office_usd": "$1,402,809,540",
+      "release_year": "2015"
+    },
+    {
+      "rank": "18",
+      "peak_rank": "15",
+      "film_title": "The Super Mario Bros. Movie",
+      "worldwide_box_office_usd": "$1,360,879,735",
+      "release_year": "2023"
+    },
+    {
+      "rank": "19",
+      "peak_rank": "9",
+      "film_title": "Black Panther",
+      "worldwide_box_office_usd": "$1,347,280,838",
+      "release_year": "2018"
+    },
+    {
+      "rank": "20",
+      "peak_rank": "3",
+      "film_title": "Harry Potter and the Deathly Hallows – Part 2",
+      "worldwide_box_office_usd": "$1,342,139,727",
+      "release_year": "2011"
+    },
+    {
+      "rank": "21",
+      "peak_rank": "20",
+      "film_title": "Deadpool & Wolverine",
+      "worldwide_box_office_usd": "$1,338,073,645",
+      "release_year": "2024"
+    },
+    {
+      "rank": "22",
+      "peak_rank": "9",
+      "film_title": "Star Wars: The Last Jedi",
+      "worldwide_box_office_usd": "$1,332,539,889",
+      "release_year": "2017"
+    },
+    {
+      "rank": "23",
+      "peak_rank": "12",
+      "film_title": "Jurassic World: Fallen Kingdom",
+      "worldwide_box_office_usd": "$1,308,473,425",
+      "release_year": "2018"
+    },
+    {
+      "rank": "24",
+      "peak_rank": "5",
+      "film_title": "Frozen",
+      "worldwide_box_office_usd": "$1,290,000,000",
+      "release_year": "2013"
+    },
+    {
+      "rank": "25",
+      "peak_rank": "10",
+      "film_title": "Beauty and the Beast",
+      "worldwide_box_office_usd": "$1,263,521,126",
+      "release_year": "2017"
+    },
+    {
+      "rank": "26",
+      "peak_rank": "15",
+      "film_title": "Incredibles 2",
+      "worldwide_box_office_usd": "$1,242,805,359",
+      "release_year": "2018"
+    },
+    {
+      "rank": "27",
+      "peak_rank": "11",
+      "film_title": "The Fate of the Furious",
+      "worldwide_box_office_usd": "$1,238,764,765",
+      "release_year": "2017"
+    },
+    {
+      "rank": "28",
+      "peak_rank": "5",
+      "film_title": "Iron Man 3",
+      "worldwide_box_office_usd": "$1,214,811,252",
+      "release_year": "2013"
+    },
+    {
+      "rank": "29",
+      "peak_rank": "10",
+      "film_title": "Minions",
+      "worldwide_box_office_usd": "$1,159,444,662",
+      "release_year": "2015"
+    },
+    {
+      "rank": "30",
+      "peak_rank": "12",
+      "film_title": "Captain America: Civil War",
+      "worldwide_box_office_usd": "$1,153,337,496",
+      "release_year": "2016"
+    },
+    {
+      "rank": "31",
+      "peak_rank": "20",
+      "film_title": "Aquaman",
+      "worldwide_box_office_usd": "$1,148,528,393",
+      "release_year": "2018"
+    },
+    {
+      "rank": "32",
+      "peak_rank": "2",
+      "film_title": "The Lord of the Rings: The Return of the King",
+      "worldwide_box_office_usd": "$1,147,997,407",
+      "release_year": "2003"
+    },
+    {
+      "rank": "33",
+      "peak_rank": "33",
+      "film_title": "Zootopia 2 †",
+      "worldwide_box_office_usd": "$1,136,670,004",
+      "release_year": "2025"
+    },
+    {
+      "rank": "34",
+      "peak_rank": "24",
+      "film_title": "Spider-Man: Far From Home",
+      "worldwide_box_office_usd": "$1,132,679,685",
+      "release_year": "2019"
+    },
+    {
+      "rank": "35",
+      "peak_rank": "23",
+      "film_title": "Captain Marvel",
+      "worldwide_box_office_usd": "$1,128,274,794",
+      "release_year": "2019"
+    },
+    {
+      "rank": "36",
+      "peak_rank": "5",
+      "film_title": "Transformers: Dark of the Moon",
+      "worldwide_box_office_usd": "$1,123,794,079",
+      "release_year": "2011"
+    },
+    {
+      "rank": "37",
+      "peak_rank": "7",
+      "film_title": "Skyfall",
+      "worldwide_box_office_usd": "$1,108,594,137",
+      "release_year": "2012"
+    },
+    {
+      "rank": "38",
+      "peak_rank": "10",
+      "film_title": "Transformers: Age of Extinction",
+      "worldwide_box_office_usd": "$1,104,054,072",
+      "release_year": "2014"
+    },
+    {
+      "rank": "39",
+      "peak_rank": "7",
+      "film_title": "The Dark Knight Rises",
+      "worldwide_box_office_usd": "$1,081,169,825",
+      "release_year": "2012"
+    },
+    {
+      "rank": "40",
+      "peak_rank": "31",
+      "film_title": "Joker",
+      "worldwide_box_office_usd": "$1,074,458,282",
+      "release_year": "2019"
+    },
+    {
+      "rank": "41",
+      "peak_rank": "32",
+      "film_title": "Star Wars: The Rise of Skywalker",
+      "worldwide_box_office_usd": "$1,074,144,248",
+      "release_year": "2019"
+    },
+    {
+      "rank": "42",
+      "peak_rank": "30",
+      "film_title": "Toy Story 4",
+      "worldwide_box_office_usd": "$1,073,394,593",
+      "release_year": "2019"
+    },
+    {
+      "rank": "43",
+      "peak_rank": "4",
+      "film_title": "Toy Story 3",
+      "worldwide_box_office_usd": "$1,066,970,811",
+      "release_year": "2010"
+    },
+    {
+      "rank": "44",
+      "peak_rank": "3",
+      "film_title": "Pirates of the Caribbean: Dead Man's Chest",
+      "worldwide_box_office_usd": "$1,066,179,747",
+      "release_year": "2006"
+    },
+    {
+      "rank": "45",
+      "peak_rank": "44",
+      "film_title": "Moana 2",
+      "worldwide_box_office_usd": "$1,059,242,164",
+      "release_year": "2024"
+    },
+    {
+      "rank": "46",
+      "peak_rank": "20",
+      "film_title": "Rogue One: A Star Wars Story",
+      "worldwide_box_office_usd": "$1,057,420,387",
+      "release_year": "2016"
+    },
+    {
+      "rank": "47",
+      "peak_rank": "34",
+      "film_title": "Aladdin",
+      "worldwide_box_office_usd": "$1,050,693,953",
+      "release_year": "2019"
+    },
+    {
+      "rank": "48",
+      "peak_rank": "2",
+      "film_title": "Star Wars: Episode I – The Phantom Menace",
+      "worldwide_box_office_usd": "$1,046,515,409",
+      "release_year": "1999"
+    },
+    {
+      "rank": "49",
+      "peak_rank": "6",
+      "film_title": "Pirates of the Caribbean: On Stranger Tides",
+      "worldwide_box_office_usd": "$1,045,713,802",
+      "release_year": "2011"
+    },
+    {
+      "rank": "50",
+      "peak_rank": "49",
+      "film_title": "Lilo & Stitch †",
+      "worldwide_box_office_usd": "$1,038,017,312",
+      "release_year": "2025"
+    }
+  ]
+}

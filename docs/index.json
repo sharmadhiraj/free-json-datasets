@@ -438,6 +438,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/imdb_top_movies.json"
       },
       {
+        "title": "Highest-Grossing Films of All Time",
+        "subtitle": "Films ranked by worldwide box office revenue, with peak rank and release year.",
+        "updated_at": "December 15, 2025 08:50 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/list_of_highest-grossing_films.json"
+      },
+      {
         "title": "Most Watched TV Shows of All Time",
         "subtitle": "IMDB List of the 100 Most Popular and Viewed Series",
         "updated_at": "December 05, 2025 07:27 AM UTC",
