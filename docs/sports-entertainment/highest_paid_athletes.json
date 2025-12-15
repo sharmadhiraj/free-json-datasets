@@ -1,0 +1,457 @@
+{
+  "title": "World’s Highest-Paid Athletes (2025)",
+  "subtitle": "Top athletes ranked by total earnings, salary, and endorsements in 2025.",
+  "updated_at": "December 15, 2025 09:59 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "name": "Cristiano Ronaldo",
+      "sport": "Soccer",
+      "nationality": "Portugal",
+      "total_earnings_usd": "$275 M",
+      "salary_usd": "$225 M",
+      "endorsements_usd": "$50 M"
+    },
+    {
+      "rank": "2",
+      "name": "Stephen Curry",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$156 M",
+      "salary_usd": "$56 M",
+      "endorsements_usd": "$100 M"
+    },
+    {
+      "rank": "3",
+      "name": "Tyson Fury",
+      "sport": "Boxing",
+      "nationality": "United Kingdom",
+      "total_earnings_usd": "$146 M",
+      "salary_usd": "$140 M",
+      "endorsements_usd": "$6 M"
+    },
+    {
+      "rank": "4",
+      "name": "Dak Prescott",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$137 M",
+      "salary_usd": "$127 M",
+      "endorsements_usd": "$10 M"
+    },
+    {
+      "rank": "5",
+      "name": "Lionel Messi",
+      "sport": "Soccer",
+      "nationality": "Argentina",
+      "total_earnings_usd": "$135 M",
+      "salary_usd": "$60 M",
+      "endorsements_usd": "$75 M"
+    },
+    {
+      "rank": "6",
+      "name": "LeBron James",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$133.8 M",
+      "salary_usd": "$48.8 M",
+      "endorsements_usd": "$85 M"
+    },
+    {
+      "rank": "7",
+      "name": "Juan Soto",
+      "sport": "Baseball",
+      "nationality": "Dominican Republic",
+      "total_earnings_usd": "$114 M",
+      "salary_usd": "$109 M",
+      "endorsements_usd": "$5 M"
+    },
+    {
+      "rank": "8",
+      "name": "Karim Benzema",
+      "sport": "Soccer",
+      "nationality": "France",
+      "total_earnings_usd": "$104 M",
+      "salary_usd": "$100 M",
+      "endorsements_usd": "$4 M"
+    },
+    {
+      "rank": "9",
+      "name": "Shohei Ohtani",
+      "sport": "Baseball",
+      "nationality": "Japan",
+      "total_earnings_usd": "$102.5 M",
+      "salary_usd": "$2.5 M",
+      "endorsements_usd": "$100 M"
+    },
+    {
+      "rank": "10",
+      "name": "Kevin Durant",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$101.4 M",
+      "salary_usd": "$51.4 M",
+      "endorsements_usd": "$50 M"
+    },
+    {
+      "rank": "11",
+      "name": "Oleksandr Usyk",
+      "sport": "Boxing",
+      "nationality": "Ukraine",
+      "total_earnings_usd": "$101 M",
+      "salary_usd": "$100 M",
+      "endorsements_usd": "$1 M"
+    },
+    {
+      "rank": "12",
+      "name": "Jon Rahm",
+      "sport": "Golf",
+      "nationality": "Spain",
+      "total_earnings_usd": "$100 M",
+      "salary_usd": "$90 M",
+      "endorsements_usd": "$10 M"
+    },
+    {
+      "rank": "13",
+      "name": "Giannis Antetokounmpo",
+      "sport": "Basketball",
+      "nationality": "Greece",
+      "total_earnings_usd": "$94.4 M",
+      "salary_usd": "$49.4 M",
+      "endorsements_usd": "$45 M"
+    },
+    {
+      "rank": "14",
+      "name": "Scottie Scheffler",
+      "sport": "Golf",
+      "nationality": "United States",
+      "total_earnings_usd": "$92.5 M",
+      "salary_usd": "$62.5 M",
+      "endorsements_usd": "$30 M"
+    },
+    {
+      "rank": "15",
+      "name": "Deshaun Watson",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$91.8 M",
+      "salary_usd": "$90.8 M",
+      "endorsements_usd": "$1 M"
+    },
+    {
+      "rank": "16",
+      "name": "Kylian Mbappé",
+      "sport": "Soccer",
+      "nationality": "France",
+      "total_earnings_usd": "$90 M",
+      "salary_usd": "$70 M",
+      "endorsements_usd": "$20 M"
+    },
+    {
+      "rank": "17",
+      "name": "Rory McIlroy",
+      "sport": "Golf",
+      "nationality": "United Kingdom",
+      "total_earnings_usd": "$87.9 M",
+      "salary_usd": "$42.9 M",
+      "endorsements_usd": "$45 M"
+    },
+    {
+      "rank": "18",
+      "name": "Patrick Mahomes",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$86.8 M",
+      "salary_usd": "$58.8 M",
+      "endorsements_usd": "$28 M"
+    },
+    {
+      "rank": "19",
+      "name": "Jordan Love",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$83 M",
+      "salary_usd": "$79 M",
+      "endorsements_usd": "$4 M"
+    },
+    {
+      "rank": "20",
+      "name": "Jared Goff",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$80.8 M",
+      "salary_usd": "$75.8 M",
+      "endorsements_usd": "$5 M"
+    },
+    {
+      "rank": "21",
+      "name": "Trevor Lawrence",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$80.5 M",
+      "salary_usd": "$74.5 M",
+      "endorsements_usd": "$6 M"
+    },
+    {
+      "rank": "22",
+      "name": "Canelo Alvarez",
+      "sport": "Boxing",
+      "nationality": "Mexico",
+      "total_earnings_usd": "$80 M",
+      "salary_usd": "$70 M",
+      "endorsements_usd": "$10 M"
+    },
+    {
+      "rank": "22",
+      "name": "Lewis Hamilton",
+      "sport": "Auto Racing",
+      "nationality": "United Kingdom",
+      "total_earnings_usd": "$80 M",
+      "salary_usd": "$60 M",
+      "endorsements_usd": "$20 M"
+    },
+    {
+      "rank": "24",
+      "name": "Max Verstappen",
+      "sport": "Auto Racing",
+      "nationality": "Netherlands",
+      "total_earnings_usd": "$78 M",
+      "salary_usd": "$72 M",
+      "endorsements_usd": "$6 M"
+    },
+    {
+      "rank": "25",
+      "name": "Neymar",
+      "sport": "Soccer",
+      "nationality": "Brazil",
+      "total_earnings_usd": "$76 M",
+      "salary_usd": "$46 M",
+      "endorsements_usd": "$30 M"
+    },
+    {
+      "rank": "26",
+      "name": "Justin Herbert",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$73.6 M",
+      "salary_usd": "$63.6 M",
+      "endorsements_usd": "$10 M"
+    },
+    {
+      "rank": "27",
+      "name": "Tua Tagovailoa",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$72.4 M",
+      "salary_usd": "$68.4 M",
+      "endorsements_usd": "$4 M"
+    },
+    {
+      "rank": "28",
+      "name": "Justin Jefferson",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$72.2 M",
+      "salary_usd": "$68.2 M",
+      "endorsements_usd": "$4 M"
+    },
+    {
+      "rank": "29",
+      "name": "Damian Lillard",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$67.5 M",
+      "salary_usd": "$49.5 M",
+      "endorsements_usd": "$18 M"
+    },
+    {
+      "rank": "30",
+      "name": "Blake Snell",
+      "sport": "Baseball",
+      "nationality": "United States",
+      "total_earnings_usd": "$67.4 M",
+      "salary_usd": "$66.6 M",
+      "endorsements_usd": "$0.8 M"
+    },
+    {
+      "rank": "31",
+      "name": "CeeDee Lamb",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$66.7 M",
+      "salary_usd": "$64.2 M",
+      "endorsements_usd": "$2.5 M"
+    },
+    {
+      "rank": "32",
+      "name": "Josh Allen",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$66.1 M",
+      "salary_usd": "$60.1 M",
+      "endorsements_usd": "$6 M"
+    },
+    {
+      "rank": "33",
+      "name": "Anthony Edwards",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$62.1 M",
+      "salary_usd": "$42.1 M",
+      "endorsements_usd": "$20 M"
+    },
+    {
+      "rank": "34",
+      "name": "Erling Haaland",
+      "sport": "Soccer",
+      "nationality": "Norway",
+      "total_earnings_usd": "$62 M",
+      "salary_usd": "$48 M",
+      "endorsements_usd": "$14 M"
+    },
+    {
+      "rank": "35",
+      "name": "Shai Gilgeous-Alexander",
+      "sport": "Basketball",
+      "nationality": "Canada",
+      "total_earnings_usd": "$61.2 M",
+      "salary_usd": "$36.2 M",
+      "endorsements_usd": "$25 M"
+    },
+    {
+      "rank": "36",
+      "name": "Joel Embiid",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$60.4 M",
+      "salary_usd": "$50.4 M",
+      "endorsements_usd": "$10 M"
+    },
+    {
+      "rank": "37",
+      "name": "Jimmy Butler",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$59.8 M",
+      "salary_usd": "$48.8 M",
+      "endorsements_usd": "$11 M"
+    },
+    {
+      "rank": "38",
+      "name": "Luka Doncic",
+      "sport": "Basketball",
+      "nationality": "Slovenia",
+      "total_earnings_usd": "$58.5 M",
+      "salary_usd": "$43.5 M",
+      "endorsements_usd": "$15 M"
+    },
+    {
+      "rank": "39",
+      "name": "Devin Booker",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$58.3 M",
+      "salary_usd": "$49.3 M",
+      "endorsements_usd": "$9 M"
+    },
+    {
+      "rank": "40",
+      "name": "Bradley Beal",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$58.2 M",
+      "salary_usd": "$50.2 M",
+      "endorsements_usd": "$8 M"
+    },
+    {
+      "rank": "41",
+      "name": "Nikola Jokic",
+      "sport": "Basketball",
+      "nationality": "Serbia",
+      "total_earnings_usd": "$57.6 M",
+      "salary_usd": "$51.6 M",
+      "endorsements_usd": "$6 M"
+    },
+    {
+      "rank": "42",
+      "name": "Kawhi Leonard",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$57.3 M",
+      "salary_usd": "$49.3 M",
+      "endorsements_usd": "$8 M"
+    },
+    {
+      "rank": "43",
+      "name": "Paul George",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$56.3 M",
+      "salary_usd": "$49.3 M",
+      "endorsements_usd": "$7 M"
+    },
+    {
+      "rank": "44",
+      "name": "Jayson Tatum",
+      "sport": "Basketball",
+      "nationality": "United States",
+      "total_earnings_usd": "$55.8 M",
+      "salary_usd": "$35.8 M",
+      "endorsements_usd": "$20 M"
+    },
+    {
+      "rank": "45",
+      "name": "Tiger Woods",
+      "sport": "Golf",
+      "nationality": "United States",
+      "total_earnings_usd": "$55.4 M",
+      "salary_usd": "$10.4 M",
+      "endorsements_usd": "$45 M"
+    },
+    {
+      "rank": "46",
+      "name": "Vinicius Junior",
+      "sport": "Soccer",
+      "nationality": "Brazil",
+      "total_earnings_usd": "$55 M",
+      "salary_usd": "$40 M",
+      "endorsements_usd": "$15 M"
+    },
+    {
+      "rank": "47",
+      "name": "Kyler Murray",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$54.6 M",
+      "salary_usd": "$51.6 M",
+      "endorsements_usd": "$3 M"
+    },
+    {
+      "rank": "48",
+      "name": "Sadio Mané",
+      "sport": "Soccer",
+      "nationality": "Senegal",
+      "total_earnings_usd": "$54 M",
+      "salary_usd": "$50 M",
+      "endorsements_usd": "$4 M"
+    },
+    {
+      "rank": "49",
+      "name": "Xander Schauffele",
+      "sport": "Golf",
+      "nationality": "United States",
+      "total_earnings_usd": "$53.6 M",
+      "salary_usd": "$33.6 M",
+      "endorsements_usd": "$20 M"
+    },
+    {
+      "rank": "49",
+      "name": "Russell Wilson",
+      "sport": "Football",
+      "nationality": "United States",
+      "total_earnings_usd": "$53.6 M",
+      "salary_usd": "$47.6 M",
+      "endorsements_usd": "$6 M"
+    }
+  ]
+}

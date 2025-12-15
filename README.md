@@ -195,6 +195,8 @@ Each dataset follows this JSON format:
   Updated Medal Tally up to 2025 (Summer Olympics)
 - [**FIFA World Cup Finals (1930 - 2026)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/fifa_world_cup_finals.json)  
   Complete list of FIFA World Cup finals from 1930 - 2026
+- [**World’s Highest-Paid Athletes (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/highest_paid_athletes.json)  
+  Top athletes ranked by total earnings, salary, and endorsements in 2025.
 - [**IMDb Top 250 Movies**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/imdb_top_movies.json)  
   A curated list of the highest-rated films from IMDb's Top 250
 - [**Highest-Grossing Films of All Time**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/sports-entertainment/list_of_highest-grossing_films.json)  

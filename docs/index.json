@@ -432,6 +432,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/fifa_world_cup_finals.json"
       },
       {
+        "title": "World’s Highest-Paid Athletes (2025)",
+        "subtitle": "Top athletes ranked by total earnings, salary, and endorsements in 2025.",
+        "updated_at": "December 15, 2025 09:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/highest_paid_athletes.json"
+      },
+      {
         "title": "IMDb Top 250 Movies",
         "subtitle": "A curated list of the highest-rated films from IMDb's Top 250",
         "updated_at": "August 20, 2025 09:42 AM UTC",
