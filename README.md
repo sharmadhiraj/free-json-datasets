@@ -188,6 +188,8 @@ Each dataset follows this JSON format:
   Country-wise happiness rankings and factors for 2024
 - [**Press Freedom Index (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/press_freedom_index_by_country.json)  
   Global press freedom rankings and scores for the year 2025
+- [**World Giving Index by Country**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/world_giving_index.json)  
+  Country rankings in the World Giving Index across multiple years.
 
 ### Sports & Entertainment
 

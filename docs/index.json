@@ -413,6 +413,12 @@
         "subtitle": "Global press freedom rankings and scores for the year 2025",
         "updated_at": "September 22, 2025 07:54 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/press_freedom_index_by_country.json"
+      },
+      {
+        "title": "World Giving Index by Country",
+        "subtitle": "Country rankings in the World Giving Index across multiple years.",
+        "updated_at": "December 15, 2025 10:20 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/world_giving_index.json"
       }
     ]
   },
