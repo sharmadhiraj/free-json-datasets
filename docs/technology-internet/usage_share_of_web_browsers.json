@@ -1,0 +1,56 @@
+{
+  "title": "Global Web Browser Market Share",
+  "subtitle": "Usage share of major web browsers across multiple data sources",
+  "updated_at": "December 15, 2025 08:31 AM UTC",
+  "data": [
+    {
+      "browser": "Chrome",
+      "net_market_share_october_2024": "66.64%",
+      "stat_counter_august_2025": "69.26%",
+      "wikimedia_may_2025": "56.2%",
+      "cloudflare_may_2025": "68%"
+    },
+    {
+      "browser": "Safari",
+      "net_market_share_october_2024": "13.92%",
+      "stat_counter_august_2025": "14.98%",
+      "wikimedia_may_2025": "24.1%",
+      "cloudflare_may_2025": "20%"
+    },
+    {
+      "browser": "Edge",
+      "net_market_share_october_2024": "4.55%",
+      "stat_counter_august_2025": "4.99%",
+      "wikimedia_may_2025": "5.11%",
+      "cloudflare_may_2025": "5.7%"
+    },
+    {
+      "browser": "Firefox",
+      "net_market_share_october_2024": "2.18%",
+      "stat_counter_august_2025": "2.26%",
+      "wikimedia_may_2025": "5.83%",
+      "cloudflare_may_2025": "3.6%"
+    },
+    {
+      "browser": "Samsung Internet",
+      "net_market_share_october_2024": "3.04%",
+      "stat_counter_august_2025": "1.97%",
+      "wikimedia_may_2025": "1.9%",
+      "cloudflare_may_2025": "1.8%"
+    },
+    {
+      "browser": "Opera",
+      "net_market_share_october_2024": "3.02%",
+      "stat_counter_august_2025": "1.85%",
+      "wikimedia_may_2025": "0.92%",
+      "cloudflare_may_2025": "1.5%"
+    },
+    {
+      "browser": "Others",
+      "net_market_share_october_2024": "—",
+      "stat_counter_august_2025": "4.69%",
+      "wikimedia_may_2025": "—",
+      "cloudflare_may_2025": "—"
+    }
+  ]
+}

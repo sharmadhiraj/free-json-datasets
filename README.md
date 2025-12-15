@@ -216,6 +216,8 @@ Each dataset follows this JSON format:
   Major platforms, their companies, origins, launch years, and active user statistics (2025)
 - [**TIOBE Index - Top Programming Languages (August 2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/popular_programming_languages.json)  
   Popularity rankings of programming languages as of August 2025
+- [**Global Web Browser Market Share**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/technology-internet/usage_share_of_web_browsers.json)  
+  Usage share of major web browsers across multiple data sources
 
 ### Transportation & Infrastructure
 
