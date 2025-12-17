@@ -182,6 +182,8 @@ Each dataset follows this JSON format:
 
 ### Society & Social Issues
 
+- [**Crime Index by Country (Numbeo, 2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/crime_rate_by_country.json)  
+  Countries ranked by Crime Index and Safety Index based on Numbeo data, 2025
 - [**Global Gender Gap Index by Country – 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/global_gender_gap_by_country.json)  
   Overall Gender Equality Scores and Key Dimension Breakdown for 2024
 - [**World Happiness Report 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/society-social/happiness_index_by_country.json)  

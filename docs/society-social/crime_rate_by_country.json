@@ -1,0 +1,727 @@
+{
+  "title": "Crime Index by Country (Numbeo, 2025)",
+  "subtitle": "Countries ranked by Crime Index and Safety Index based on Numbeo data, 2025",
+  "updated_at": "December 17, 2025 05:05 AM UTC",
+  "data": [
+    {
+      "country": "Venezuela",
+      "crime_index": "80.7",
+      "safety_index": "19.3"
+    },
+    {
+      "country": "Papua New Guinea",
+      "crime_index": "80.3",
+      "safety_index": "19.7"
+    },
+    {
+      "country": "Haiti",
+      "crime_index": "78.9",
+      "safety_index": "21.1"
+    },
+    {
+      "country": "Afghanistan",
+      "crime_index": "75.1",
+      "safety_index": "24.9"
+    },
+    {
+      "country": "South Africa",
+      "crime_index": "74.7",
+      "safety_index": "25.3"
+    },
+    {
+      "country": "Honduras",
+      "crime_index": "72.0",
+      "safety_index": "28.0"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "crime_index": "70.9",
+      "safety_index": "29.1"
+    },
+    {
+      "country": "Syria",
+      "crime_index": "68.1",
+      "safety_index": "31.9"
+    },
+    {
+      "country": "Jamaica",
+      "crime_index": "67.4",
+      "safety_index": "32.6"
+    },
+    {
+      "country": "Peru",
+      "crime_index": "67.1",
+      "safety_index": "32.9"
+    },
+    {
+      "country": "Nigeria",
+      "crime_index": "66.6",
+      "safety_index": "33.4"
+    },
+    {
+      "country": "Angola",
+      "crime_index": "66.3",
+      "safety_index": "33.7"
+    },
+    {
+      "country": "Guyana",
+      "crime_index": "66.3",
+      "safety_index": "33.7"
+    },
+    {
+      "country": "Cameroon",
+      "crime_index": "65.5",
+      "safety_index": "34.5"
+    },
+    {
+      "country": "Bolivia",
+      "crime_index": "65.0",
+      "safety_index": "35.0"
+    },
+    {
+      "country": "Brazil",
+      "crime_index": "64.5",
+      "safety_index": "35.5"
+    },
+    {
+      "country": "Somalia",
+      "crime_index": "63.9",
+      "safety_index": "36.1"
+    },
+    {
+      "country": "Yemen",
+      "crime_index": "63.7",
+      "safety_index": "36.3"
+    },
+    {
+      "country": "Namibia",
+      "crime_index": "63.5",
+      "safety_index": "36.5"
+    },
+    {
+      "country": "Argentina",
+      "crime_index": "63.4",
+      "safety_index": "36.6"
+    },
+    {
+      "country": "Ecuador",
+      "crime_index": "62.5",
+      "safety_index": "37.5"
+    },
+    {
+      "country": "Bangladesh",
+      "crime_index": "61.6",
+      "safety_index": "38.4"
+    },
+    {
+      "country": "Puerto Rico",
+      "crime_index": "61.5",
+      "safety_index": "38.5"
+    },
+    {
+      "country": "Colombia",
+      "crime_index": "60.9",
+      "safety_index": "39.1"
+    },
+    {
+      "country": "Zimbabwe",
+      "crime_index": "60.7",
+      "safety_index": "39.3"
+    },
+    {
+      "country": "Chile",
+      "crime_index": "60.5",
+      "safety_index": "39.5"
+    },
+    {
+      "country": "Dominican Republic",
+      "crime_index": "60.5",
+      "safety_index": "39.5"
+    },
+    {
+      "country": "Mozambique",
+      "crime_index": "60.1",
+      "safety_index": "39.9"
+    },
+    {
+      "country": "United States Virgin Islands",
+      "crime_index": "59.9",
+      "safety_index": "40.1"
+    },
+    {
+      "country": "Paraguay",
+      "crime_index": "59.8",
+      "safety_index": "40.2"
+    },
+    {
+      "country": "El Salvador",
+      "crime_index": "58.6",
+      "safety_index": "41.4"
+    },
+    {
+      "country": "Guatemala",
+      "crime_index": "57.7",
+      "safety_index": "42.3"
+    },
+    {
+      "country": "Bahamas",
+      "crime_index": "56.9",
+      "safety_index": "43.1"
+    },
+    {
+      "country": "Fiji",
+      "crime_index": "56.6",
+      "safety_index": "43.4"
+    },
+    {
+      "country": "Libya",
+      "crime_index": "56.4",
+      "safety_index": "43.6"
+    },
+    {
+      "country": "Kenya",
+      "crime_index": "56.0",
+      "safety_index": "44.0"
+    },
+    {
+      "country": "France",
+      "crime_index": "55.4",
+      "safety_index": "44.6"
+    },
+    {
+      "country": "Ivory Coast",
+      "crime_index": "54.4",
+      "safety_index": "43.6"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "crime_index": "54.3",
+      "safety_index": "45.7"
+    },
+    {
+      "country": "Uganda",
+      "crime_index": "54.1",
+      "safety_index": "45.9"
+    },
+    {
+      "country": "North Korea",
+      "crime_index": "54.1",
+      "safety_index": "45.9"
+    },
+    {
+      "country": "Costa Rica",
+      "crime_index": "54.1",
+      "safety_index": "45.9"
+    },
+    {
+      "country": "Maldives",
+      "crime_index": "54.1",
+      "safety_index": "45.9"
+    },
+    {
+      "country": "Tanzania",
+      "crime_index": "53.5",
+      "safety_index": "46.5"
+    },
+    {
+      "country": "Mexico",
+      "crime_index": "53.4",
+      "safety_index": "46.6"
+    },
+    {
+      "country": "Botswana",
+      "crime_index": "52.7",
+      "safety_index": "47.3"
+    },
+    {
+      "country": "Belize",
+      "crime_index": "52.7",
+      "safety_index": "47.3"
+    },
+    {
+      "country": "Algeria",
+      "crime_index": "52.6",
+      "safety_index": "47.4"
+    },
+    {
+      "country": "Mongolia",
+      "crime_index": "52.1",
+      "safety_index": "47.9"
+    },
+    {
+      "country": "Uruguay",
+      "crime_index": "52.0",
+      "safety_index": "48.0"
+    },
+    {
+      "country": "Cambodia",
+      "crime_index": "51.3",
+      "safety_index": "48.7"
+    },
+    {
+      "country": "Myanmar",
+      "crime_index": "50.9",
+      "safety_index": "49.1"
+    },
+    {
+      "country": "Nicaragua",
+      "crime_index": "50.8",
+      "safety_index": "49.2"
+    },
+    {
+      "country": "Ethiopia",
+      "crime_index": "50.7",
+      "safety_index": "49.3"
+    },
+    {
+      "country": "Iran",
+      "crime_index": "50.5",
+      "safety_index": "49.5"
+    },
+    {
+      "country": "Mauritius",
+      "crime_index": "50.0",
+      "safety_index": "50.0"
+    },
+    {
+      "country": "Belarus",
+      "crime_index": "49.8",
+      "safety_index": "50.2"
+    },
+    {
+      "country": "Belgium",
+      "crime_index": "49.4",
+      "safety_index": "50.6"
+    },
+    {
+      "country": "United States",
+      "crime_index": "49.2",
+      "safety_index": "50.8"
+    },
+    {
+      "country": "Malaysia",
+      "crime_index": "48.9",
+      "safety_index": "51.1"
+    },
+    {
+      "country": "United Kingdom",
+      "crime_index": "48.3",
+      "safety_index": "51.7"
+    },
+    {
+      "country": "New Zealand",
+      "crime_index": "48.2",
+      "safety_index": "51.8"
+    },
+    {
+      "country": "Sweden",
+      "crime_index": "48.0",
+      "safety_index": "52.0"
+    },
+    {
+      "country": "Morocco",
+      "crime_index": "47.8",
+      "safety_index": "52.2"
+    },
+    {
+      "country": "Ireland",
+      "crime_index": "47.6",
+      "safety_index": "52.4"
+    },
+    {
+      "country": "Egypt",
+      "crime_index": "47.3",
+      "safety_index": "52.7"
+    },
+    {
+      "country": "Australia",
+      "crime_index": "47.3",
+      "safety_index": "52.7"
+    },
+    {
+      "country": "Ukraine",
+      "crime_index": "47.0",
+      "safety_index": "53.0"
+    },
+    {
+      "country": "Italy",
+      "crime_index": "46.9",
+      "safety_index": "53.1"
+    },
+    {
+      "country": "Lebanon",
+      "crime_index": "46.8",
+      "safety_index": "53.2"
+    },
+    {
+      "country": "Greece",
+      "crime_index": "46.4",
+      "safety_index": "53.6"
+    },
+    {
+      "country": "Indonesia",
+      "crime_index": "46.0",
+      "safety_index": "54.0"
+    },
+    {
+      "country": "Canada",
+      "crime_index": "45.7",
+      "safety_index": "54.3"
+    },
+    {
+      "country": "Zambia",
+      "crime_index": "45.6",
+      "safety_index": "54.4"
+    },
+    {
+      "country": "Sudan",
+      "crime_index": "45.5",
+      "safety_index": "54.5"
+    },
+    {
+      "country": "Ghana",
+      "crime_index": "45.4",
+      "safety_index": "54.6"
+    },
+    {
+      "country": "Kazakhstan",
+      "crime_index": "45.2",
+      "safety_index": "54.8"
+    },
+    {
+      "country": "Tunisia",
+      "crime_index": "45.1",
+      "safety_index": "54.9"
+    },
+    {
+      "country": "Barbados",
+      "crime_index": "44.9",
+      "safety_index": "55.1"
+    },
+    {
+      "country": "Albania",
+      "crime_index": "44.7",
+      "safety_index": "55.3"
+    },
+    {
+      "country": "India",
+      "crime_index": "44.3",
+      "safety_index": "55.7"
+    },
+    {
+      "country": "Moldova",
+      "crime_index": "44.3",
+      "safety_index": "55.7"
+    },
+    {
+      "country": "Pakistan",
+      "crime_index": "43.7",
+      "safety_index": "56.3"
+    },
+    {
+      "country": "Philippines",
+      "crime_index": "43.1",
+      "safety_index": "56.9"
+    },
+    {
+      "country": "Iraq",
+      "crime_index": "43.1",
+      "safety_index": "56.9"
+    },
+    {
+      "country": "Malta",
+      "crime_index": "43.0",
+      "safety_index": "57.0"
+    },
+    {
+      "country": "Palestine",
+      "crime_index": "42.8",
+      "safety_index": "57.2"
+    },
+    {
+      "country": "Panama",
+      "crime_index": "42.7",
+      "safety_index": "57.3"
+    },
+    {
+      "country": "Sri Lanka",
+      "crime_index": "42.1",
+      "safety_index": "57.9"
+    },
+    {
+      "country": "Turkey",
+      "crime_index": "41.2",
+      "safety_index": "58.8"
+    },
+    {
+      "country": "North Macedonia",
+      "crime_index": "41.1",
+      "safety_index": "58.9"
+    },
+    {
+      "country": "Vietnam",
+      "crime_index": "40.8",
+      "safety_index": "59.2"
+    },
+    {
+      "country": "Jordan",
+      "crime_index": "40.0",
+      "safety_index": "60.0"
+    },
+    {
+      "country": "Germany",
+      "crime_index": "39.4",
+      "safety_index": "60.6"
+    },
+    {
+      "country": "Russia",
+      "crime_index": "38.7",
+      "safety_index": "61.3"
+    },
+    {
+      "country": "Thailand",
+      "crime_index": "37.3",
+      "safety_index": "62.7"
+    },
+    {
+      "country": "Serbia",
+      "crime_index": "37.2",
+      "safety_index": "62.8"
+    },
+    {
+      "country": "Latvia",
+      "crime_index": "37.1",
+      "safety_index": "62.9"
+    },
+    {
+      "country": "Nepal",
+      "crime_index": "36.7",
+      "safety_index": "63.3"
+    },
+    {
+      "country": "Spain",
+      "crime_index": "36.6",
+      "safety_index": "63.4"
+    },
+    {
+      "country": "Bulgaria",
+      "crime_index": "36.1",
+      "safety_index": "63.9"
+    },
+    {
+      "country": "Montenegro",
+      "crime_index": "35.4",
+      "safety_index": "64.6"
+    },
+    {
+      "country": "Cuba",
+      "crime_index": "34.4",
+      "safety_index": "65.6"
+    },
+    {
+      "country": "Luxembourg",
+      "crime_index": "34.2",
+      "safety_index": "65.8"
+    },
+    {
+      "country": "Hungary",
+      "crime_index": "33.7",
+      "safety_index": "66.3"
+    },
+    {
+      "country": "Cyprus",
+      "crime_index": "33.1",
+      "safety_index": "66.9"
+    },
+    {
+      "country": "Norway",
+      "crime_index": "33.0",
+      "safety_index": "67.0"
+    },
+    {
+      "country": "Kuwait",
+      "crime_index": "32.8",
+      "safety_index": "67.2"
+    },
+    {
+      "country": "Lithuania",
+      "crime_index": "32.4",
+      "safety_index": "67.6"
+    },
+    {
+      "country": "Portugal",
+      "crime_index": "32.1",
+      "safety_index": "67.9"
+    },
+    {
+      "country": "Azerbaijan",
+      "crime_index": "31.8",
+      "safety_index": "68.2"
+    },
+    {
+      "country": "Israel",
+      "crime_index": "31.8",
+      "safety_index": "68.2"
+    },
+    {
+      "country": "Slovakia",
+      "crime_index": "31.0",
+      "safety_index": "69.0"
+    },
+    {
+      "country": "Cayman Islands",
+      "crime_index": "30.8",
+      "safety_index": "69.2"
+    },
+    {
+      "country": "Austria",
+      "crime_index": "29.5",
+      "safety_index": "70.5"
+    },
+    {
+      "country": "Brunei",
+      "crime_index": "29.3",
+      "safety_index": "70.7"
+    },
+    {
+      "country": "Poland",
+      "crime_index": "29.0",
+      "safety_index": "71.0"
+    },
+    {
+      "country": "Uzbekistan",
+      "crime_index": "27.9",
+      "safety_index": "72.1"
+    },
+    {
+      "country": "Romania",
+      "crime_index": "26.9",
+      "safety_index": "67.7"
+    },
+    {
+      "country": "Netherlands",
+      "crime_index": "26.9",
+      "safety_index": "73.1"
+    },
+    {
+      "country": "Rwanda",
+      "crime_index": "26.9",
+      "safety_index": "73.1"
+    },
+    {
+      "country": "Finland",
+      "crime_index": "26.8",
+      "safety_index": "73.2"
+    },
+    {
+      "country": "Czechia",
+      "crime_index": "26.5",
+      "safety_index": "73.5"
+    },
+    {
+      "country": "Switzerland",
+      "crime_index": "26.5",
+      "safety_index": "73.5"
+    },
+    {
+      "country": "Georgia",
+      "crime_index": "26.3",
+      "safety_index": "73.7"
+    },
+    {
+      "country": "Denmark",
+      "crime_index": "26.0",
+      "safety_index": "74.0"
+    },
+    {
+      "country": "Iceland",
+      "crime_index": "25.7",
+      "safety_index": "74.3"
+    },
+    {
+      "country": "Croatia",
+      "crime_index": "25.5",
+      "safety_index": "74.5"
+    },
+    {
+      "country": "South Korea",
+      "crime_index": "24.9",
+      "safety_index": "75.1"
+    },
+    {
+      "country": "Bahrain",
+      "crime_index": "24.5",
+      "safety_index": "75.5"
+    },
+    {
+      "country": "China",
+      "crime_index": "24.0",
+      "safety_index": "76.0"
+    },
+    {
+      "country": "Saudi Arabia",
+      "crime_index": "23.9",
+      "safety_index": "76.1"
+    },
+    {
+      "country": "Slovenia",
+      "crime_index": "23.8",
+      "safety_index": "76.2"
+    },
+    {
+      "country": "Estonia",
+      "crime_index": "23.7",
+      "safety_index": "76.3"
+    },
+    {
+      "country": "Monaco",
+      "crime_index": "23.3",
+      "safety_index": "76.7"
+    },
+    {
+      "country": "Japan",
+      "crime_index": "22.9",
+      "safety_index": "77.1"
+    },
+    {
+      "country": "Singapore",
+      "crime_index": "22.6",
+      "safety_index": "77.4"
+    },
+    {
+      "country": "Armenia",
+      "crime_index": "22.1",
+      "safety_index": "77.9"
+    },
+    {
+      "country": "Hong Kong",
+      "crime_index": "21.5",
+      "safety_index": "78.5"
+    },
+    {
+      "country": "Oman",
+      "crime_index": "18.3",
+      "safety_index": "81.7"
+    },
+    {
+      "country": "Taiwan",
+      "crime_index": "17.1",
+      "safety_index": "82.9"
+    },
+    {
+      "country": "Qatar",
+      "crime_index": "15.8",
+      "safety_index": "84.2"
+    },
+    {
+      "country": "United Arab Emirates",
+      "crime_index": "15.5",
+      "safety_index": "84.5"
+    },
+    {
+      "country": "Andorra",
+      "crime_index": "15.3",
+      "safety_index": "84.7"
+    }
+  ]
+}

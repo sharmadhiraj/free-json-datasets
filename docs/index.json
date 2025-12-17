@@ -397,6 +397,12 @@
     "category": "Society & Social Issues",
     "datasets": [
       {
+        "title": "Crime Index by Country (Numbeo, 2025)",
+        "subtitle": "Countries ranked by Crime Index and Safety Index based on Numbeo data, 2025",
+        "updated_at": "December 17, 2025 05:05 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/crime_rate_by_country.json"
+      },
+      {
         "title": "Global Gender Gap Index by Country – 2024",
         "subtitle": "Overall Gender Equality Scores and Key Dimension Breakdown for 2024",
         "updated_at": "October 08, 2025 09:36 AM UTC",
