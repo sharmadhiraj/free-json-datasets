@@ -1,0 +1,3007 @@
+{
+  "title": "Research & Innovation Rankings",
+  "subtitle": "Global universities and institutions ranked by research output, innovation, and impact [SCImago]",
+  "updated_at": "December 17, 2025 09:50 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "name": "Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 2,
+      "name": "Ministry of Education of the People's Republic of China",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 3,
+      "name": "Centre National de la Recherche Scientifique",
+      "country": "FRA",
+      "category": "Government"
+    },
+    {
+      "rank": 4,
+      "name": "Harvard University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 5,
+      "name": "University of Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 6,
+      "name": "Tsinghua University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 7,
+      "name": "Harvard Medical School",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 8,
+      "name": "Zhejiang University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 9,
+      "name": "Shanghai Jiao Tong University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 10,
+      "name": "Helmholtz Gemeinschaft",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 11,
+      "name": "Peking University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 12,
+      "name": "Meta Platforms Inc",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 13,
+      "name": "State Grid Corporation of China",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 14,
+      "name": "U.S. Department of Health & Human Services",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 15,
+      "name": "Stanford University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 16,
+      "name": "Mass General Brigham",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 17,
+      "name": "Google International LLC",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 18,
+      "name": "Russian Academy of Sciences",
+      "country": "RUS",
+      "category": "Government"
+    },
+    {
+      "rank": 19,
+      "name": "American Cancer Society",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 20,
+      "name": "University of Oxford",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 21,
+      "name": "Google Inc, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 22,
+      "name": "Institut National de la Sante et de la Recherche Medicale",
+      "country": "FRA",
+      "category": "Health"
+    },
+    {
+      "rank": 23,
+      "name": "Johns Hopkins University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 24,
+      "name": "University College London",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 25,
+      "name": "Microsoft Research Asia, China",
+      "country": "CHN",
+      "category": "Company"
+    },
+    {
+      "rank": 26,
+      "name": "Parker Institute for Cancer Immunotherapy",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 27,
+      "name": "Alphabet Inc",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 28,
+      "name": "Huazhong University of Science and Technology",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 29,
+      "name": "Microsoft, China",
+      "country": "CHN",
+      "category": "Company"
+    },
+    {
+      "rank": 30,
+      "name": "Meta Platforms Inc, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 31,
+      "name": "University of Toronto",
+      "country": "CAN",
+      "category": "University"
+    },
+    {
+      "rank": 32,
+      "name": "Massachusetts Institute of Technology",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 33,
+      "name": "National Institutes of Health",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 34,
+      "name": "DeepMind Technologies Ltd, UK",
+      "country": "GBR",
+      "category": "Company"
+    },
+    {
+      "rank": 35,
+      "name": "Consejo Superior de Investigaciones Cientificas",
+      "country": "ESP",
+      "category": "Government"
+    },
+    {
+      "rank": 36,
+      "name": "University of Michigan, Ann Arbor",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 37,
+      "name": "University of Washington",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 38,
+      "name": "Microsoft Corp",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 39,
+      "name": "SenseTime Group",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 40,
+      "name": "European Bioinformatics Institute EMBL",
+      "country": "GBR",
+      "category": "Government"
+    },
+    {
+      "rank": 41,
+      "name": "Sichuan University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 42,
+      "name": "University of Pennsylvania",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 43,
+      "name": "Microsoft, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 44,
+      "name": "The New York Genome Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 45,
+      "name": "DeepMind",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 46,
+      "name": "Sun Yat-Sen University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 47,
+      "name": "Samsung Corp",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 48,
+      "name": "Central South University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 49,
+      "name": "Veterans Affairs Medical Centers",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 50,
+      "name": "Fudan University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 51,
+      "name": "Max Planck Gesellschaft",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 52,
+      "name": "Cornell University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 53,
+      "name": "Columbia University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 54,
+      "name": "University of Cambridge",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 55,
+      "name": "University of California, Los Angeles",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 56,
+      "name": "National University of Singapore",
+      "country": "SGP",
+      "category": "University"
+    },
+    {
+      "rank": 57,
+      "name": "Imperial College London",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 58,
+      "name": "Baidu Inc",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 59,
+      "name": "University of Melbourne",
+      "country": "AUS",
+      "category": "University"
+    },
+    {
+      "rank": 60,
+      "name": "Generalitat de Catalunya",
+      "country": "ESP",
+      "category": "Government"
+    },
+    {
+      "rank": 61,
+      "name": "Universidade de Sao Paulo",
+      "country": "BRA",
+      "category": "University"
+    },
+    {
+      "rank": 62,
+      "name": "University of Amsterdam",
+      "country": "NLD",
+      "category": "University"
+    },
+    {
+      "rank": 63,
+      "name": "Xi'an Jiaotong University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 64,
+      "name": "Harbin Institute of Technology",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 65,
+      "name": "NVIDIA Corp",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 66,
+      "name": "Yale University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 67,
+      "name": "Allen Institute for Artificial Intelligence",
+      "country": "USA",
+      "category": "Non-Profit"
+    },
+    {
+      "rank": 68,
+      "name": "Generalitat de Catalunya Barcelona",
+      "country": "ESP",
+      "category": "Government"
+    },
+    {
+      "rank": 69,
+      "name": "Microsoft Research Redmond, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 70,
+      "name": "Hubrecht Institute",
+      "country": "NLD",
+      "category": "Government"
+    },
+    {
+      "rank": 71,
+      "name": "Instituto de Salud Carlos III",
+      "country": "ESP",
+      "category": "Health"
+    },
+    {
+      "rank": 72,
+      "name": "Huawei Technologies Co Ltd",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 73,
+      "name": "Massachusetts General Hospital",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 74,
+      "name": "UK Research and Innovation",
+      "country": "GBR",
+      "category": "Government"
+    },
+    {
+      "rank": 75,
+      "name": "University of California, San Francisco",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 76,
+      "name": "Mayo Clinic",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 77,
+      "name": "University of Sydney",
+      "country": "AUS",
+      "category": "University"
+    },
+    {
+      "rank": 78,
+      "name": "University of California, Berkeley",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 79,
+      "name": "Samsung Electronics, South Korea",
+      "country": "KOR",
+      "category": "Company"
+    },
+    {
+      "rank": 80,
+      "name": "Tencent America Llc",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 81,
+      "name": "Wuhan University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 82,
+      "name": "NVIDIA Corp, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 83,
+      "name": "Ragon Institute of MGH, MIT and Harvard",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 84,
+      "name": "Howard Hughes Medical Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 85,
+      "name": "Assistance Publique Hopitaux de Paris",
+      "country": "FRA",
+      "category": "Health"
+    },
+    {
+      "rank": 86,
+      "name": "University of California, San Diego",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 87,
+      "name": "Monash University, Melbourne",
+      "country": "AUS",
+      "category": "University"
+    },
+    {
+      "rank": 88,
+      "name": "IBM Research",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 89,
+      "name": "Adobe Inc",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 89,
+      "name": "Tianjin University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 91,
+      "name": "Baidu Inc, China",
+      "country": "CHN",
+      "category": "Company"
+    },
+    {
+      "rank": 92,
+      "name": "International Agency for Research on Cancer, France",
+      "country": "FRA",
+      "category": "Health"
+    },
+    {
+      "rank": 93,
+      "name": "Duke University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 94,
+      "name": "Vrije Universiteit Amsterdam",
+      "country": "NLD",
+      "category": "University"
+    },
+    {
+      "rank": 95,
+      "name": "University of New South Wales",
+      "country": "AUS",
+      "category": "University"
+    },
+    {
+      "rank": 96,
+      "name": "IBM United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 97,
+      "name": "Tencent Holdings Ltd",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 98,
+      "name": "University of Chicago",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 99,
+      "name": "Adobe Research, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 100,
+      "name": "Johns Hopkins Medicine",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 101,
+      "name": "Universitat de Barcelona",
+      "country": "ESP",
+      "category": "University"
+    },
+    {
+      "rank": 102,
+      "name": "University of Science and Technology of China",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 103,
+      "name": "Shandong University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 104,
+      "name": "Brigham and Women's Hospital",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 105,
+      "name": "Tongji University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 106,
+      "name": "Centres de Recerca de Catalunya",
+      "country": "ESP",
+      "category": "Non-Profit"
+    },
+    {
+      "rank": 107,
+      "name": "Sorbonne Universite",
+      "country": "FRA",
+      "category": "University"
+    },
+    {
+      "rank": 108,
+      "name": "Broad Institute of MIT and Harvard",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 109,
+      "name": "South China University of Technology",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 110,
+      "name": "Southeast University, Nanjing",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 111,
+      "name": "The University of Queensland",
+      "country": "AUS",
+      "category": "University"
+    },
+    {
+      "rank": 112,
+      "name": "New York University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 113,
+      "name": "Northwestern University, Evanston",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 114,
+      "name": "Jilin University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 115,
+      "name": "University of North Carolina, Chapel Hill",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 116,
+      "name": "University of Tokyo",
+      "country": "JPN",
+      "category": "University"
+    },
+    {
+      "rank": 117,
+      "name": "Ludwig Institute for Cancer Research",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 118,
+      "name": "National Center for Biotechnology Information",
+      "country": "USA",
+      "category": "Government"
+    },
+    {
+      "rank": 119,
+      "name": "The University of British Columbia",
+      "country": "CAN",
+      "category": "University"
+    },
+    {
+      "rank": 120,
+      "name": "Seoul National University",
+      "country": "KOR",
+      "category": "University"
+    },
+    {
+      "rank": 121,
+      "name": "Consiglio Nazionale delle Ricerche",
+      "country": "ITA",
+      "category": "Government"
+    },
+    {
+      "rank": 122,
+      "name": "Huawei Technologies Co Ltd, China",
+      "country": "CHN",
+      "category": "Company"
+    },
+    {
+      "rank": 123,
+      "name": "Zhengzhou University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 124,
+      "name": "Adobe Inc, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 125,
+      "name": "Singapore Immunology Network",
+      "country": "SGP",
+      "category": "Government"
+    },
+    {
+      "rank": 126,
+      "name": "Swiss Federal Institute of Technology",
+      "country": "CHE",
+      "category": "University"
+    },
+    {
+      "rank": 127,
+      "name": "Ohio State University, Columbus",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 128,
+      "name": "Kings College London",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 129,
+      "name": "Mitsubishi Electric Research Laboratories",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 130,
+      "name": "Nanyang Technological University",
+      "country": "SGP",
+      "category": "University"
+    },
+    {
+      "rank": 131,
+      "name": "University of Minnesota, Twin Cities",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 131,
+      "name": "Gladstone Institutes",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 133,
+      "name": "Stanford Medicine",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 134,
+      "name": "European Molecular Biology Laboratory Heidelberg",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 135,
+      "name": "University of Electronic Science and Technology of China",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 136,
+      "name": "University of Florida",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 137,
+      "name": "Utrecht University",
+      "country": "NLD",
+      "category": "University"
+    },
+    {
+      "rank": 138,
+      "name": "University of Wisconsin, Madison",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 139,
+      "name": "National Institute of Allergy and Infectious Diseases",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 140,
+      "name": "Leibniz Gemeinschaft",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 141,
+      "name": "BeiHang University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 142,
+      "name": "Regeneron Pharmaceuticals Inc",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 143,
+      "name": "McGill University",
+      "country": "CAN",
+      "category": "University"
+    },
+    {
+      "rank": 144,
+      "name": "National Center for Advancing Translational Sciences",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 145,
+      "name": "Apple Inc",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 146,
+      "name": "Mount Sinai Health System",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 147,
+      "name": "University of Copenhagen",
+      "country": "DNK",
+      "category": "University"
+    },
+    {
+      "rank": 148,
+      "name": "Tencent Holdings Ltd, China",
+      "country": "CHN",
+      "category": "Company"
+    },
+    {
+      "rank": 149,
+      "name": "Ministry of Agriculture and Rural Affairs",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 149,
+      "name": "University of Southern California",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 151,
+      "name": "Apple Inc, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 152,
+      "name": "Catholic University of Leuven",
+      "country": "BEL",
+      "category": "University"
+    },
+    {
+      "rank": 153,
+      "name": "Karolinska Institute",
+      "country": "SWE",
+      "category": "University"
+    },
+    {
+      "rank": 154,
+      "name": "Medical Research Council",
+      "country": "GBR",
+      "category": "Health"
+    },
+    {
+      "rank": 155,
+      "name": "University of California, Davis",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 155,
+      "name": "Hoffmann-La Roche Ltd, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 157,
+      "name": "The University of Edinburgh",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 158,
+      "name": "Mitsubishi Electric Corp, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 159,
+      "name": "European Molecular Biology Organization",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 160,
+      "name": "IBM Switzerland",
+      "country": "CHE",
+      "category": "Company"
+    },
+    {
+      "rank": 161,
+      "name": "Chan Zuckerberg Biohub",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 162,
+      "name": "Harvard-MIT Division of Health Sciences and Tecnology",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 163,
+      "name": "University of Pennsylvania Health System",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 164,
+      "name": "Amsterdam Universitair Medische Centra",
+      "country": "NLD",
+      "category": "Health"
+    },
+    {
+      "rank": 165,
+      "name": "Qualcomm Inc, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 166,
+      "name": "Universitat Autonoma de Barcelona",
+      "country": "ESP",
+      "category": "University"
+    },
+    {
+      "rank": 166,
+      "name": "Yale University Health & Medicine",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 168,
+      "name": "Pennsylvania State University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 169,
+      "name": "Ericsson Sweden",
+      "country": "SWE",
+      "category": "Company"
+    },
+    {
+      "rank": 170,
+      "name": "ByteDance Network Technology Co",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 171,
+      "name": "Washington University in Saint Louis",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 172,
+      "name": "Technische Universitat Munchen",
+      "country": "DEU",
+      "category": "University"
+    },
+    {
+      "rank": 173,
+      "name": "The University of Manchester",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 174,
+      "name": "The Chinese University of Hong Kong",
+      "country": "HKG",
+      "category": "University"
+    },
+    {
+      "rank": 175,
+      "name": "University of Pittsburgh",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 176,
+      "name": "Sarah Cannon Research Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 177,
+      "name": "Genentech Inc",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 178,
+      "name": "Dana Farber Cancer Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 179,
+      "name": "SenseTime Group, China",
+      "country": "CHN",
+      "category": "Company"
+    },
+    {
+      "rank": 180,
+      "name": "Beijing Institute of Technology",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 181,
+      "name": "Nanjing University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 182,
+      "name": "Memorial Sloan-Kettering Cancer Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 183,
+      "name": "University of Illinois at Urbana-Champaign",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 184,
+      "name": "Novartis Institutes for Biomedical Research, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 184,
+      "name": "Scripps Research Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 186,
+      "name": "F Hoffmann-La Roche",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 187,
+      "name": "Universite de Paris Cite",
+      "country": "FRA",
+      "category": "University"
+    },
+    {
+      "rank": 188,
+      "name": "Qualcomm Inc",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 189,
+      "name": "University of Texas M.D. Anderson Cancer Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 190,
+      "name": "National Cancer Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 191,
+      "name": "Emory University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 192,
+      "name": "Institute for Health Metrics and Evaluation",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 193,
+      "name": "Wuhan Institute of Virology, Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 194,
+      "name": "Microsoft, United Kingdom",
+      "country": "GBR",
+      "category": "Company"
+    },
+    {
+      "rank": 195,
+      "name": "Columbia University Irving Medical Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 196,
+      "name": "Wellcome Trust",
+      "country": "GBR",
+      "category": "Health"
+    },
+    {
+      "rank": 197,
+      "name": "Weill Cornell Medicine",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 198,
+      "name": "University of Texas, Austin",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 199,
+      "name": "Amazon.com, Inc",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 200,
+      "name": "Universite Paris-Saclay",
+      "country": "FRA",
+      "category": "University"
+    },
+    {
+      "rank": 201,
+      "name": "Sandra and Edward Meyer Cancer Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 202,
+      "name": "Chongqing University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 203,
+      "name": "World Health Organization",
+      "country": "MUL",
+      "category": "Health"
+    },
+    {
+      "rank": 204,
+      "name": "Ericsson",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 205,
+      "name": "Northwestern Polytechnical University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 206,
+      "name": "Frederick National Laboratory for Cancer Research",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 207,
+      "name": "Universita degli Studi di Roma La Sapienza",
+      "country": "ITA",
+      "category": "University"
+    },
+    {
+      "rank": 208,
+      "name": "University of Groningen",
+      "country": "NLD",
+      "category": "University"
+    },
+    {
+      "rank": 209,
+      "name": "Chinese Academy of Medical Sciences and Peking Union Medical College",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 210,
+      "name": "Universita degli Studi di Milano",
+      "country": "ITA",
+      "category": "University"
+    },
+    {
+      "rank": 211,
+      "name": "Nokia Corp",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 212,
+      "name": "Cold Spring Harbor Laboratory",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 213,
+      "name": "Max Planck Institut fur Informatik",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 214,
+      "name": "Vanderbilt University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 215,
+      "name": "Huawei Noah's Ark Lab, China",
+      "country": "CHN",
+      "category": "Company"
+    },
+    {
+      "rank": 216,
+      "name": "Wellcome Trust Sanger Institute",
+      "country": "GBR",
+      "category": "Health"
+    },
+    {
+      "rank": 217,
+      "name": "Centers for Disease Control and Prevention",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 218,
+      "name": "Chinese Academy of Agricultural Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 219,
+      "name": "Oncode Institute",
+      "country": "NLD",
+      "category": "Non-Profit"
+    },
+    {
+      "rank": 220,
+      "name": "Erasmus University Rotterdam",
+      "country": "NLD",
+      "category": "University"
+    },
+    {
+      "rank": 221,
+      "name": "National Library of Medicine",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 222,
+      "name": "Toyota Group",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 223,
+      "name": "Microsoft Research Cambridge, UK",
+      "country": "GBR",
+      "category": "Company"
+    },
+    {
+      "rank": 224,
+      "name": "The University of Hong Kong",
+      "country": "HKG",
+      "category": "University"
+    },
+    {
+      "rank": 225,
+      "name": "Yonsei University",
+      "country": "KOR",
+      "category": "University"
+    },
+    {
+      "rank": 226,
+      "name": "Purdue University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 227,
+      "name": "Leiden University",
+      "country": "NLD",
+      "category": "University"
+    },
+    {
+      "rank": 228,
+      "name": "Cancer Research UK",
+      "country": "GBR",
+      "category": "Health"
+    },
+    {
+      "rank": 229,
+      "name": "AstraZeneca",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 230,
+      "name": "Intel Corp",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 231,
+      "name": "Georgia Institute of Technology",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 231,
+      "name": "Boston University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 233,
+      "name": "NEC Corp",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 234,
+      "name": "LG Corporation",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 235,
+      "name": "Sanford Burnham Prebys Medical Discovery Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 236,
+      "name": "Amazon.com Inc, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 237,
+      "name": "Dalian University of Technology",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 238,
+      "name": "Samsung Research, South Korea",
+      "country": "KOR",
+      "category": "Company"
+    },
+    {
+      "rank": 239,
+      "name": "Carnegie Mellon University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 240,
+      "name": "Soochow University, Suzhou",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 241,
+      "name": "Huawei Technologies Ltd, Germany",
+      "country": "DEU",
+      "category": "Company"
+    },
+    {
+      "rank": 242,
+      "name": "University of Alberta",
+      "country": "CAN",
+      "category": "University"
+    },
+    {
+      "rank": 243,
+      "name": "Peking University Health Science Center",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 244,
+      "name": "Institut Catala de la Salut Barcelona",
+      "country": "ESP",
+      "category": "Health"
+    },
+    {
+      "rank": 245,
+      "name": "Rutgers, The State University of New Jersey",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 246,
+      "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+      "country": "FRA",
+      "category": "Government"
+    },
+    {
+      "rank": 247,
+      "name": "Universita degli Studi di Padova",
+      "country": "ITA",
+      "category": "University"
+    },
+    {
+      "rank": 248,
+      "name": "Biogen Inc, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 249,
+      "name": "United States Department of Agriculture",
+      "country": "USA",
+      "category": "Government"
+    },
+    {
+      "rank": 249,
+      "name": "Aarhus University",
+      "country": "DNK",
+      "category": "University"
+    },
+    {
+      "rank": 251,
+      "name": "Icahn School of Medicine at Mount Sinai",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 252,
+      "name": "Consejo Nacional de Investigaciones Cientificas y Tecnicas",
+      "country": "ARG",
+      "category": "Government"
+    },
+    {
+      "rank": 253,
+      "name": "Universita degli Studi di Napoli Federico II",
+      "country": "ITA",
+      "category": "University"
+    },
+    {
+      "rank": 254,
+      "name": "Bristol-Myers Squibb Company, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 255,
+      "name": "Washington University Medical Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 255,
+      "name": "Texas A&M University, College Station",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 257,
+      "name": "Universidad Nacional Autonoma de Mexico",
+      "country": "MEX",
+      "category": "University"
+    },
+    {
+      "rank": 258,
+      "name": "Shenzhen University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 259,
+      "name": "Novartis Institutes for Biomedical Research, Switzerland",
+      "country": "CHE",
+      "category": "Company"
+    },
+    {
+      "rank": 260,
+      "name": "Wistar Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 261,
+      "name": "Banco Bilbao Vizcaya Argentaria",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 262,
+      "name": "Gilead Sciences Inc, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 263,
+      "name": "Ghent University",
+      "country": "BEL",
+      "category": "University"
+    },
+    {
+      "rank": 264,
+      "name": "Bristol-Myers Squibb Company",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 265,
+      "name": "Beijing University of Posts and Telecommunications",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 266,
+      "name": "Charite - Universitatsmedizin Berlin",
+      "country": "DEU",
+      "category": "Health"
+    },
+    {
+      "rank": 267,
+      "name": "Guangzhou Institute of Biomedicine and Health, Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 268,
+      "name": "University of Utah",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 269,
+      "name": "Max Planck Institut fur Molekulare Genetik",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 270,
+      "name": "Gilead Sciences",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 271,
+      "name": "King Saud University",
+      "country": "SAU",
+      "category": "University"
+    },
+    {
+      "rank": 272,
+      "name": "UCLA Health System",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 273,
+      "name": "Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 274,
+      "name": "Duke Health",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 275,
+      "name": "Biogen Inc",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 276,
+      "name": "L'Alma Mater Studiorum - Universita di Bologna",
+      "country": "ITA",
+      "category": "University"
+    },
+    {
+      "rank": 277,
+      "name": "Universitat Zurich",
+      "country": "CHE",
+      "category": "University"
+    },
+    {
+      "rank": 278,
+      "name": "Centre de Visio per Computador",
+      "country": "ESP",
+      "category": "Government"
+    },
+    {
+      "rank": 279,
+      "name": "Banco Bilbao Vizcaya Argentaria, Spain",
+      "country": "ESP",
+      "category": "Company"
+    },
+    {
+      "rank": 280,
+      "name": "Hong Kong Polytechnic University",
+      "country": "HKG",
+      "category": "University"
+    },
+    {
+      "rank": 281,
+      "name": "Intel Corp, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 282,
+      "name": "Cleveland Clinic",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 283,
+      "name": "University of California, Irvine",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 284,
+      "name": "Korea University",
+      "country": "KOR",
+      "category": "University"
+    },
+    {
+      "rank": 285,
+      "name": "Sanofi, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 286,
+      "name": "Guangzhou International Bio Island",
+      "country": "CHN",
+      "category": "Non-Profit"
+    },
+    {
+      "rank": 287,
+      "name": "University of Maryland, College Park",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 288,
+      "name": "Salk Institute for Biological Studies",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 289,
+      "name": "University of Helsinki",
+      "country": "FIN",
+      "category": "University"
+    },
+    {
+      "rank": 290,
+      "name": "University of Nottingham",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 291,
+      "name": "Hewlett Packard Enterprise",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 291,
+      "name": "Hewlett Packard Enterprise,  United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 293,
+      "name": "Erasmus Medical Center",
+      "country": "NLD",
+      "category": "Health"
+    },
+    {
+      "rank": 294,
+      "name": "UCSF Helen Diller Family Comprehensive Cancer Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 295,
+      "name": "Intel Labs, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 296,
+      "name": "Hoffmann-La Roche, GmbH., Germany",
+      "country": "DEU",
+      "category": "Company"
+    },
+    {
+      "rank": 297,
+      "name": "Fundacion BBVA",
+      "country": "ESP",
+      "category": "Non-Profit"
+    },
+    {
+      "rank": 298,
+      "name": "Nokia, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 299,
+      "name": "Woodruff Health Sciences Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 300,
+      "name": "Nankai University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 301,
+      "name": "Arizona State University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 302,
+      "name": "Fred Hutchinson Cancer Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 303,
+      "name": "Doe Joint Genome Institute",
+      "country": "USA",
+      "category": "Government"
+    },
+    {
+      "rank": 304,
+      "name": "University of Birmingham",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 304,
+      "name": "Pfizer Inc, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 306,
+      "name": "Max Planck Institut fur Intelligente Systeme",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 307,
+      "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 307,
+      "name": "Toyota Motor Corp, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 309,
+      "name": "Xidian University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 310,
+      "name": "NYU Langone Health",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 311,
+      "name": "Lenovo Group Ltd",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 312,
+      "name": "Robert H. Lurie Comprehensive Cancer Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 313,
+      "name": "Kyoto University",
+      "country": "JPN",
+      "category": "University"
+    },
+    {
+      "rank": 314,
+      "name": "Kavli Institute of Nanoscience Delft",
+      "country": "NLD",
+      "category": "Government"
+    },
+    {
+      "rank": 315,
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "country": "TWN",
+      "category": "Company"
+    },
+    {
+      "rank": 316,
+      "name": "Deutsches Krebsforschungszentrum",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 317,
+      "name": "ByteDance Network Technology Co, China",
+      "country": "CHN",
+      "category": "Company"
+    },
+    {
+      "rank": 318,
+      "name": "Sanofi",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 319,
+      "name": "Universidade de Lisboa",
+      "country": "PRT",
+      "category": "University"
+    },
+    {
+      "rank": 320,
+      "name": "National Institute of Dental and Craniofacial Research",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 321,
+      "name": "Singapore-MIT Alliance",
+      "country": "SGP",
+      "category": "Government"
+    },
+    {
+      "rank": 322,
+      "name": "Uppsala University",
+      "country": "SWE",
+      "category": "University"
+    },
+    {
+      "rank": 323,
+      "name": "AstraZeneca, United Kingdom",
+      "country": "GBR",
+      "category": "Company"
+    },
+    {
+      "rank": 324,
+      "name": "Eli Lilly and Company, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 325,
+      "name": "Xiamen University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 326,
+      "name": "Universidad Complutense de Madrid",
+      "country": "ESP",
+      "category": "University"
+    },
+    {
+      "rank": 327,
+      "name": "Vector Institute for Artificial Intelligence",
+      "country": "CAN",
+      "category": "Non-Profit"
+    },
+    {
+      "rank": 327,
+      "name": "Hunan University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 329,
+      "name": "Genome Institute of Singapore",
+      "country": "SGP",
+      "category": "Government"
+    },
+    {
+      "rank": 330,
+      "name": "Universidade do Porto",
+      "country": "PRT",
+      "category": "University"
+    },
+    {
+      "rank": 331,
+      "name": "Center for Biologics Evaluation and Research",
+      "country": "USA",
+      "category": "Government"
+    },
+    {
+      "rank": 332,
+      "name": "Delft University of Technology",
+      "country": "NLD",
+      "category": "University"
+    },
+    {
+      "rank": 333,
+      "name": "University of Glasgow",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 334,
+      "name": "Lunds University",
+      "country": "SWE",
+      "category": "University"
+    },
+    {
+      "rank": 335,
+      "name": "Ludwig-Maximilians Universitat Munchen",
+      "country": "DEU",
+      "category": "University"
+    },
+    {
+      "rank": 336,
+      "name": "Capital Medical University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 337,
+      "name": "University of Liverpool",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 338,
+      "name": "University of Calgary",
+      "country": "CAN",
+      "category": "University"
+    },
+    {
+      "rank": 339,
+      "name": "The Buck Institute for Research on Aging",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 340,
+      "name": "Polish Academy of Sciences",
+      "country": "POL",
+      "category": "Government"
+    },
+    {
+      "rank": 341,
+      "name": "Jiangnan University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 342,
+      "name": "Microsoft, India",
+      "country": "IND",
+      "category": "Company"
+    },
+    {
+      "rank": 343,
+      "name": "UC San Diego Health System",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 344,
+      "name": "Universite PSL",
+      "country": "FRA",
+      "category": "University"
+    },
+    {
+      "rank": 345,
+      "name": "Commonwealth Scientific and Industrial Research Organization",
+      "country": "AUS",
+      "category": "Government"
+    },
+    {
+      "rank": 346,
+      "name": "Korea Advanced Institute of Science and Technology",
+      "country": "KOR",
+      "category": "University"
+    },
+    {
+      "rank": 347,
+      "name": "Ecole Polytechnique Federale de Lausanne",
+      "country": "CHE",
+      "category": "University"
+    },
+    {
+      "rank": 348,
+      "name": "Institute of Automation, Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 349,
+      "name": "University of Arizona",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 350,
+      "name": "National Institute on Aging",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 351,
+      "name": "Children's Hospital Boston",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 352,
+      "name": "Michigan State University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 353,
+      "name": "Princeton University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 354,
+      "name": "Vall d’Hebron Instituto de Oncologia",
+      "country": "ESP",
+      "category": "Health"
+    },
+    {
+      "rank": 355,
+      "name": "University of Leeds",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 356,
+      "name": "Institute of Biophysics, Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 357,
+      "name": "APC Microbiome Ireland",
+      "country": "IRL",
+      "category": "Government"
+    },
+    {
+      "rank": 358,
+      "name": "Nanjing University of Aeronautics and Astronautics",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 359,
+      "name": "Nokia Bell Labs, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 360,
+      "name": "Agency for Science, Technology and Research Singapore",
+      "country": "SGP",
+      "category": "Government"
+    },
+    {
+      "rank": 361,
+      "name": "IBM India",
+      "country": "IND",
+      "category": "Company"
+    },
+    {
+      "rank": 362,
+      "name": "Pfizer",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 363,
+      "name": "University of Oslo",
+      "country": "NOR",
+      "category": "University"
+    },
+    {
+      "rank": 364,
+      "name": "University Medical Center Utrecht",
+      "country": "NLD",
+      "category": "Health"
+    },
+    {
+      "rank": 365,
+      "name": "National Aeronautics and Space Administration",
+      "country": "USA",
+      "category": "Government"
+    },
+    {
+      "rank": 366,
+      "name": "University of Colorado, Denver",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 367,
+      "name": "Jackson Laboratory",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 368,
+      "name": "IBM Thomas J Watson Research Center",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 369,
+      "name": "Orange SA, France",
+      "country": "FRA",
+      "category": "Company"
+    },
+    {
+      "rank": 370,
+      "name": "Institute for Systems Biology",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 371,
+      "name": "Leiden University Medical Center",
+      "country": "NLD",
+      "category": "Health"
+    },
+    {
+      "rank": 372,
+      "name": "Eli Lilly",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 373,
+      "name": "Technical University of Denmark",
+      "country": "DNK",
+      "category": "University"
+    },
+    {
+      "rank": 374,
+      "name": "National Heart Lung and Blood Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 375,
+      "name": "Kavli Institute at Cornell for Nanoscale Science",
+      "country": "USA",
+      "category": "Government"
+    },
+    {
+      "rank": 376,
+      "name": "Fujitsu",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 377,
+      "name": "Novo Nordisk",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 377,
+      "name": "GlaxoSmithKline",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 379,
+      "name": "Queen Mary, University of London",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 380,
+      "name": "California Institute of Technology",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 381,
+      "name": "University of Virginia",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 382,
+      "name": "Instituto IMDEA Networks",
+      "country": "ESP",
+      "category": "Government"
+    },
+    {
+      "rank": 383,
+      "name": "Fraunhofer Gesellschaft",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 384,
+      "name": "Amgen, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 385,
+      "name": "The Rockefeller University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 386,
+      "name": "University of Bristol",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 387,
+      "name": "Nordic Bioscience A/S",
+      "country": "DNK",
+      "category": "Company"
+    },
+    {
+      "rank": 388,
+      "name": "Newcastle University, Newcastle upon Tyne",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 389,
+      "name": "City University of Hong Kong",
+      "country": "HKG",
+      "category": "University"
+    },
+    {
+      "rank": 390,
+      "name": "Universite Montpellier",
+      "country": "FRA",
+      "category": "University"
+    },
+    {
+      "rank": 390,
+      "name": "Novartis",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 392,
+      "name": "National Centre for Infectious Diseases",
+      "country": "SGP",
+      "category": "Health"
+    },
+    {
+      "rank": 393,
+      "name": "AstraZeneca, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 394,
+      "name": "UK Health Security Agency",
+      "country": "GBR",
+      "category": "Health"
+    },
+    {
+      "rank": 395,
+      "name": "Fraunhofer Institut fur Nachrichtentechnik Heinrich Hertz Institut",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 396,
+      "name": "Sanofi, France",
+      "country": "FRA",
+      "category": "Company"
+    },
+    {
+      "rank": 397,
+      "name": "Johnson & Johnson",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 398,
+      "name": "Universitat Heidelberg",
+      "country": "DEU",
+      "category": "University"
+    },
+    {
+      "rank": 399,
+      "name": "McMaster University",
+      "country": "CAN",
+      "category": "University"
+    },
+    {
+      "rank": 400,
+      "name": "GlaxoSmithKline, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 401,
+      "name": "Tel Aviv University",
+      "country": "ISR",
+      "category": "University"
+    },
+    {
+      "rank": 402,
+      "name": "Universitat de Valencia",
+      "country": "ESP",
+      "category": "University"
+    },
+    {
+      "rank": 403,
+      "name": "UCB Pharma SA, UK",
+      "country": "GBR",
+      "category": "Company"
+    },
+    {
+      "rank": 404,
+      "name": "Universitat Hamburg",
+      "country": "DEU",
+      "category": "University"
+    },
+    {
+      "rank": 405,
+      "name": "Flanders Interuniversity Institute for Biotechnology",
+      "country": "BEL",
+      "category": "Government"
+    },
+    {
+      "rank": 406,
+      "name": "Jiangsu University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 407,
+      "name": "University of Technology, Sydney",
+      "country": "AUS",
+      "category": "University"
+    },
+    {
+      "rank": 408,
+      "name": "North Carolina State University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 408,
+      "name": "The University of Sheffield",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 410,
+      "name": "Universidad Autonoma de Madrid",
+      "country": "ESP",
+      "category": "University"
+    },
+    {
+      "rank": 411,
+      "name": "University Medical Center Groningen",
+      "country": "NLD",
+      "category": "Health"
+    },
+    {
+      "rank": 412,
+      "name": "National Taiwan University",
+      "country": "TWN",
+      "category": "University"
+    },
+    {
+      "rank": 413,
+      "name": "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 414,
+      "name": "Mitsubishi Electric Corp",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 415,
+      "name": "University of Miami",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 416,
+      "name": "Toyota Research Institute, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 417,
+      "name": "The Francis Crick Institute",
+      "country": "GBR",
+      "category": "Health"
+    },
+    {
+      "rank": 418,
+      "name": "Nokia, France",
+      "country": "FRA",
+      "category": "Company"
+    },
+    {
+      "rank": 419,
+      "name": "University of Waterloo",
+      "country": "CAN",
+      "category": "University"
+    },
+    {
+      "rank": 420,
+      "name": "China Agricultural University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 420,
+      "name": "Institut Pasteur de Paris",
+      "country": "FRA",
+      "category": "Health"
+    },
+    {
+      "rank": 422,
+      "name": "Alibaba Group",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 422,
+      "name": "Wageningen University and Research Centre",
+      "country": "NLD",
+      "category": "University"
+    },
+    {
+      "rank": 424,
+      "name": "Zhejiang University of Technology",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 425,
+      "name": "Jinan University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 426,
+      "name": "Deutsches Zentrum fur Infektionsforschung",
+      "country": "DEU",
+      "category": "Health"
+    },
+    {
+      "rank": 427,
+      "name": "Kavli Energy NanoScience Institute",
+      "country": "USA",
+      "category": "Government"
+    },
+    {
+      "rank": 428,
+      "name": "Baylor College of Medicine",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 429,
+      "name": "Mitsubishi Corp",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 429,
+      "name": "Amgen",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 431,
+      "name": "Institute of Computing Technology, Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 432,
+      "name": "China University of Geosciences",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 433,
+      "name": "Bayer AG, Germany",
+      "country": "DEU",
+      "category": "Company"
+    },
+    {
+      "rank": 434,
+      "name": "World Health Organization, Switzerland",
+      "country": "CHE",
+      "category": "Health"
+    },
+    {
+      "rank": 435,
+      "name": "Samsung Advanced Institute Technology",
+      "country": "KOR",
+      "category": "Non-Profit"
+    },
+    {
+      "rank": 436,
+      "name": "Philips Research, Eindhoven",
+      "country": "NLD",
+      "category": "Company"
+    },
+    {
+      "rank": 436,
+      "name": "Swiss Institute of Bioinformatics",
+      "country": "CHE",
+      "category": "Non-Profit"
+    },
+    {
+      "rank": 438,
+      "name": "Universita degli Studi di Torino",
+      "country": "ITA",
+      "category": "University"
+    },
+    {
+      "rank": 439,
+      "name": "Radboud University Nijmegen Medical Centre",
+      "country": "NLD",
+      "category": "Health"
+    },
+    {
+      "rank": 440,
+      "name": "Wuhan University of Technology",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 441,
+      "name": "Translational Genomics Research Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 442,
+      "name": "Norwegian University of Science and Technology",
+      "country": "NOR",
+      "category": "University"
+    },
+    {
+      "rank": 442,
+      "name": "University of Rochester",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 444,
+      "name": "Vanderbilt University Medical Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 445,
+      "name": "Thermo Fisher Scientific, USA",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 446,
+      "name": "Benaroya Research Institute",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 447,
+      "name": "University of Southampton",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 448,
+      "name": "Joint BioEnergy Institute",
+      "country": "USA",
+      "category": "Government"
+    },
+    {
+      "rank": 449,
+      "name": "Institute of Cancer Research",
+      "country": "GBR",
+      "category": "Health"
+    },
+    {
+      "rank": 449,
+      "name": "Nanjing Medical University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 451,
+      "name": "Fondazione Telethon",
+      "country": "ITA",
+      "category": "Non-Profit"
+    },
+    {
+      "rank": 452,
+      "name": "Institute of Microbiology, Chinese Academy of Sciences",
+      "country": "CHN",
+      "category": "Government"
+    },
+    {
+      "rank": 453,
+      "name": "China University of Mining and Technology",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 454,
+      "name": "University of Colorado, Anschutz Medical Campus",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 454,
+      "name": "Lawrence Berkeley National Laboratory",
+      "country": "USA",
+      "category": "Government"
+    },
+    {
+      "rank": 454,
+      "name": "University of Colorado, Boulder",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 457,
+      "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 458,
+      "name": "Virginia Polytechnic Institute and State University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 459,
+      "name": "University of Pittsburgh Medical Center",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 460,
+      "name": "Royal Institute of Technology",
+      "country": "SWE",
+      "category": "University"
+    },
+    {
+      "rank": 461,
+      "name": "Fujitsu, Japan",
+      "country": "JPN",
+      "category": "Company"
+    },
+    {
+      "rank": 462,
+      "name": "Institute for Molecular Medicine",
+      "country": "FIN",
+      "category": "Health"
+    },
+    {
+      "rank": 463,
+      "name": "Janssen",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 464,
+      "name": "Sungkyunkwan University",
+      "country": "KOR",
+      "category": "University"
+    },
+    {
+      "rank": 465,
+      "name": "Nokia Bell Labs, France",
+      "country": "FRA",
+      "category": "Company"
+    },
+    {
+      "rank": 466,
+      "name": "Novo Nordisk A/S",
+      "country": "DNK",
+      "category": "Company"
+    },
+    {
+      "rank": 467,
+      "name": "Sony Japan",
+      "country": "JPN",
+      "category": "Company"
+    },
+    {
+      "rank": 468,
+      "name": "Cisco Systems",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 469,
+      "name": "Sony Corp",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 470,
+      "name": "Centro Nacional de Investigaciones Oncologicas",
+      "country": "ESP",
+      "category": "Health"
+    },
+    {
+      "rank": 471,
+      "name": "University Health Network",
+      "country": "CAN",
+      "category": "Health"
+    },
+    {
+      "rank": 472,
+      "name": "Michigan Medicine",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 473,
+      "name": "Robert Bosch",
+      "country": "MUL",
+      "category": "Company"
+    },
+    {
+      "rank": 474,
+      "name": "Copenhagen University Hospital",
+      "country": "DNK",
+      "category": "Health"
+    },
+    {
+      "rank": 475,
+      "name": "Osaka University",
+      "country": "JPN",
+      "category": "University"
+    },
+    {
+      "rank": 476,
+      "name": "German Cancer Consortium",
+      "country": "DEU",
+      "category": "Health"
+    },
+    {
+      "rank": 477,
+      "name": "University of Illinois, Chicago",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 478,
+      "name": "Max-Delbruck-Centrum fur Molekulare Medizin",
+      "country": "DEU",
+      "category": "Government"
+    },
+    {
+      "rank": 479,
+      "name": "Cancer Research Institute Ghent",
+      "country": "BEL",
+      "category": "Health"
+    },
+    {
+      "rank": 480,
+      "name": "University of Ottawa",
+      "country": "CAN",
+      "category": "University"
+    },
+    {
+      "rank": 481,
+      "name": "Southern Medical University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 482,
+      "name": "National Center for Immunization and Respiratory Diseases",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 483,
+      "name": "National Institute of Neurological Disorders and Stroke",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 484,
+      "name": "Universita degli Studi di Firenze",
+      "country": "ITA",
+      "category": "University"
+    },
+    {
+      "rank": 485,
+      "name": "Brown University",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 486,
+      "name": "University of Southern California Health Sciences Campus",
+      "country": "USA",
+      "category": "Health"
+    },
+    {
+      "rank": 487,
+      "name": "Commissariat a l'Energie Atomique et aux Energies Alternatives",
+      "country": "FRA",
+      "category": "Government"
+    },
+    {
+      "rank": 487,
+      "name": "National University of Defense Technology",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 489,
+      "name": "University of Texas Southwestern Medical Center",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 490,
+      "name": "Janssen Biotech Inc",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 491,
+      "name": "AstraZeneca, Sweden",
+      "country": "SWE",
+      "category": "Company"
+    },
+    {
+      "rank": 492,
+      "name": "Beijing Normal University",
+      "country": "CHN",
+      "category": "University"
+    },
+    {
+      "rank": 493,
+      "name": "Frontiers Media SA",
+      "country": "CHE",
+      "category": "Company"
+    },
+    {
+      "rank": 494,
+      "name": "University of Alabama, Birmingham",
+      "country": "USA",
+      "category": "University"
+    },
+    {
+      "rank": 495,
+      "name": "Friedrich-Alexander-Universitat Erlangen-Nurnberg",
+      "country": "DEU",
+      "category": "University"
+    },
+    {
+      "rank": 496,
+      "name": "University of Warwick",
+      "country": "GBR",
+      "category": "University"
+    },
+    {
+      "rank": 497,
+      "name": "Merck & Co Inc, United States",
+      "country": "USA",
+      "category": "Company"
+    },
+    {
+      "rank": 498,
+      "name": "Hospital Clinic de Barcelona",
+      "country": "ESP",
+      "category": "Health"
+    },
+    {
+      "rank": 499,
+      "name": "Nestle Switzerland",
+      "country": "CHE",
+      "category": "Company"
+    },
+    {
+      "rank": 500,
+      "name": "Max Planck Institut fur Medizinische Forschung",
+      "country": "DEU",
+      "category": "Government"
+    }
+  ]
+}

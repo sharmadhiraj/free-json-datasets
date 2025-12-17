@@ -177,6 +177,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/oldest_universities_in_the_world.json"
       },
       {
+        "title": "Research & Innovation Rankings",
+        "subtitle": "Global universities and institutions ranked by research output, innovation, and impact [SCImago]",
+        "updated_at": "December 17, 2025 09:50 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/research_and_innovation_rankings.json"
+      },
+      {
         "title": "Global University Rankings 2025",
         "subtitle": "Comprehensive list of top universities worldwide in 2025",
         "updated_at": "September 04, 2025 05:23 AM UTC",
