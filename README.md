@@ -179,6 +179,8 @@ Each dataset follows this JSON format:
   Chronological overview of significant inventions throughout history, organized by era.
 - [**Timeline of Space Exploration (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/timeline_of_space_exploration.json)  
   A historical record of space missions and events up to 2025
+- [**Top 10 positions of the 66th TOP500 in November 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/science-technology/top_supercomputers_from_top500.json)  
+  TOP500 ranking of the world’s most powerful supercomputers based on LINPACK performance, hardware, and system architecture.
 
 ### Society & Social Issues
 

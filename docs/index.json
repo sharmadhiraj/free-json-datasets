@@ -390,6 +390,12 @@
         "subtitle": "A historical record of space missions and events up to 2025",
         "updated_at": "September 15, 2025 08:30 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/timeline_of_space_exploration.json"
+      },
+      {
+        "title": "Top 10 positions of the 66th TOP500 in November 2025",
+        "subtitle": "TOP500 ranking of the world’s most powerful supercomputers based on LINPACK performance, hardware, and system architecture.",
+        "updated_at": "December 17, 2025 05:35 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/top_supercomputers_from_top500.json"
       }
     ]
   },
