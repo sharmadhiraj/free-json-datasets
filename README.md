@@ -162,6 +162,8 @@ Each dataset follows this JSON format:
 
 - [**Corruption Perceptions Index by Country (2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/corruption_perceptions_index.json)  
   Country rankings based on perceived public sector corruption (CPI 2024).
+- [**Democracy Index Rankings by Country (2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/democracy_index_by_country.json)  
+  Country-wise democracy index scores and year-over-year changes
 - [**Global Military Expenditure Rankings**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/list_of_countries_with_highest_military_expenditures.json)  
   Top countries by military spending based on the 2024 SIPRI Military Expenditure Database.
 - [**Global Passport Power Rankings (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/official_passport_index_ranking.json)  

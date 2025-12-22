@@ -1,0 +1,1343 @@
+{
+  "title": "Democracy Index Rankings by Country (2024)",
+  "subtitle": "Country-wise democracy index scores and year-over-year changes",
+  "updated_at": "December 22, 2025 11:59 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Norway",
+      "democracy_index_score": "9.81",
+      "rank_change": "",
+      "absolute_score_change": "0.26",
+      "relative_score_change": "3"
+    },
+    {
+      "rank": 2,
+      "country": "New Zealand",
+      "democracy_index_score": "9.61",
+      "rank_change": "",
+      "absolute_score_change": "0.6",
+      "relative_score_change": "7"
+    },
+    {
+      "rank": 3,
+      "country": "Sweden",
+      "democracy_index_score": "9.39",
+      "rank_change": "1",
+      "absolute_score_change": "-0.49",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 4,
+      "country": "Iceland",
+      "democracy_index_score": "9.38",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.26",
+      "relative_score_change": "-3"
+    },
+    {
+      "rank": 5,
+      "country": "Switzerland",
+      "democracy_index_score": "9.32",
+      "rank_change": "3",
+      "absolute_score_change": "0.12",
+      "relative_score_change": "1"
+    },
+    {
+      "rank": 6,
+      "country": "Finland",
+      "democracy_index_score": "9.3",
+      "rank_change": "-1",
+      "absolute_score_change": "0.05",
+      "relative_score_change": "1"
+    },
+    {
+      "rank": 7,
+      "country": "Denmark",
+      "democracy_index_score": "9.28",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.24",
+      "relative_score_change": "-3"
+    },
+    {
+      "rank": 8,
+      "country": "Ireland",
+      "democracy_index_score": "9.19",
+      "rank_change": "-1",
+      "absolute_score_change": "0.18",
+      "relative_score_change": "2"
+    },
+    {
+      "rank": 9,
+      "country": "Netherlands",
+      "democracy_index_score": "9",
+      "rank_change": "",
+      "absolute_score_change": "-0.66",
+      "relative_score_change": "-7"
+    },
+    {
+      "rank": 10,
+      "country": "Luxembourg",
+      "democracy_index_score": "8.88",
+      "rank_change": "1",
+      "absolute_score_change": "-0.29",
+      "relative_score_change": "-3"
+    },
+    {
+      "rank": 11,
+      "country": "Australia",
+      "democracy_index_score": "8.85",
+      "rank_change": "3",
+      "absolute_score_change": "-0.43",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 12,
+      "country": "Taiwan",
+      "democracy_index_score": "8.78",
+      "rank_change": "-2",
+      "absolute_score_change": "1.1",
+      "relative_score_change": "14"
+    },
+    {
+      "rank": 13,
+      "country": "Germany",
+      "democracy_index_score": "8.73",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.02",
+      "relative_score_change": ""
+    },
+    {
+      "rank": 14,
+      "country": "Canada",
+      "democracy_index_score": "8.69",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.38",
+      "relative_score_change": "-4"
+    },
+    {
+      "rank": 15,
+      "country": "Uruguay",
+      "democracy_index_score": "8.67",
+      "rank_change": "-1",
+      "absolute_score_change": "0.7",
+      "relative_score_change": "9"
+    },
+    {
+      "rank": 16,
+      "country": "Japan",
+      "democracy_index_score": "8.48",
+      "rank_change": "",
+      "absolute_score_change": "0.25",
+      "relative_score_change": "3"
+    },
+    {
+      "rank": 17,
+      "country": "United Kingdom",
+      "democracy_index_score": "8.34",
+      "rank_change": "1",
+      "absolute_score_change": "0.2",
+      "relative_score_change": "2"
+    },
+    {
+      "rank": 18,
+      "country": "Costa Rica",
+      "democracy_index_score": "8.29",
+      "rank_change": "-1",
+      "absolute_score_change": "0.25",
+      "relative_score_change": "3"
+    },
+    {
+      "rank": 19,
+      "country": "Austria",
+      "democracy_index_score": "8.28",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.41",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 20,
+      "country": "Mauritius",
+      "democracy_index_score": "8.23",
+      "rank_change": "",
+      "absolute_score_change": "0.1",
+      "relative_score_change": "1"
+    },
+    {
+      "rank": 21,
+      "country": "Spain",
+      "democracy_index_score": "8.13",
+      "rank_change": "2",
+      "absolute_score_change": "-0.27",
+      "relative_score_change": "-3"
+    },
+    {
+      "rank": 22,
+      "country": "Estonia",
+      "democracy_index_score": "8.13",
+      "rank_change": "6",
+      "absolute_score_change": "0.22",
+      "relative_score_change": "3"
+    },
+    {
+      "rank": 23,
+      "country": "Czechia",
+      "democracy_index_score": "8.08",
+      "rank_change": "3",
+      "absolute_score_change": "-0.2",
+      "relative_score_change": "-2"
+    },
+    {
+      "rank": 24,
+      "country": "Portugal",
+      "democracy_index_score": "8.08",
+      "rank_change": "8",
+      "absolute_score_change": "-0.41",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 25,
+      "country": "Greece",
+      "democracy_index_score": "8.07",
+      "rank_change": "-5",
+      "absolute_score_change": "0.01",
+      "relative_score_change": ""
+    },
+    {
+      "rank": 26,
+      "country": "France",
+      "democracy_index_score": "7.99",
+      "rank_change": "-3",
+      "absolute_score_change": "",
+      "relative_score_change": ""
+    },
+    {
+      "rank": 27,
+      "country": "Malta",
+      "democracy_index_score": "7.93",
+      "rank_change": "1",
+      "absolute_score_change": "-0.46",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 28,
+      "country": "United States",
+      "democracy_index_score": "7.85",
+      "rank_change": "1",
+      "absolute_score_change": "-0.37",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 29,
+      "country": "Chile",
+      "democracy_index_score": "7.83",
+      "rank_change": "-4",
+      "absolute_score_change": "0.09",
+      "relative_score_change": "1"
+    },
+    {
+      "rank": 30,
+      "country": "Slovenia",
+      "democracy_index_score": "7.82",
+      "rank_change": "1",
+      "absolute_score_change": "-0.21",
+      "relative_score_change": "-3"
+    },
+    {
+      "rank": 31,
+      "country": "Israel",
+      "democracy_index_score": "7.8",
+      "rank_change": "-1",
+      "absolute_score_change": "0.52",
+      "relative_score_change": "7"
+    },
+    {
+      "rank": 32,
+      "country": "South Korea",
+      "democracy_index_score": "7.75",
+      "rank_change": "-10",
+      "absolute_score_change": "0.21",
+      "relative_score_change": "3"
+    },
+    {
+      "rank": 33,
+      "country": "Latvia",
+      "democracy_index_score": "7.66",
+      "rank_change": "4",
+      "absolute_score_change": "0.01",
+      "relative_score_change": ""
+    },
+    {
+      "rank": 34,
+      "country": "Belgium",
+      "democracy_index_score": "7.64",
+      "rank_change": "2",
+      "absolute_score_change": "-0.51",
+      "relative_score_change": "-6"
+    },
+    {
+      "rank": 35,
+      "country": "Botswana",
+      "democracy_index_score": "7.63",
+      "rank_change": "-2",
+      "absolute_score_change": "0.13",
+      "relative_score_change": "2"
+    },
+    {
+      "rank": 36,
+      "country": "Lithuania",
+      "democracy_index_score": "7.59",
+      "rank_change": "3",
+      "absolute_score_change": "-0.12",
+      "relative_score_change": "-2"
+    },
+    {
+      "rank": 37,
+      "country": "Italy",
+      "democracy_index_score": "7.58",
+      "rank_change": "-3",
+      "absolute_score_change": "-0.04",
+      "relative_score_change": "-1"
+    },
+    {
+      "rank": 38,
+      "country": "Cape Verde",
+      "democracy_index_score": "7.58",
+      "rank_change": "-2",
+      "absolute_score_change": "0.22",
+      "relative_score_change": "3"
+    },
+    {
+      "rank": 39,
+      "country": "Poland",
+      "democracy_index_score": "7.4",
+      "rank_change": "2",
+      "absolute_score_change": "-0.12",
+      "relative_score_change": "-2"
+    },
+    {
+      "rank": 40,
+      "country": "Cyprus",
+      "democracy_index_score": "7.38",
+      "rank_change": "-3",
+      "absolute_score_change": "-0.22",
+      "relative_score_change": "-3"
+    },
+    {
+      "rank": 41,
+      "country": "India",
+      "democracy_index_score": "7.29",
+      "rank_change": "",
+      "absolute_score_change": "-0.5",
+      "relative_score_change": "-7"
+    },
+    {
+      "rank": 42,
+      "country": "Slovakia",
+      "democracy_index_score": "7.21",
+      "rank_change": "2",
+      "absolute_score_change": "-0.33",
+      "relative_score_change": "-4"
+    },
+    {
+      "rank": 43,
+      "country": "South Africa",
+      "democracy_index_score": "7.16",
+      "rank_change": "4",
+      "absolute_score_change": "-0.86",
+      "relative_score_change": "-11"
+    },
+    {
+      "rank": 44,
+      "country": "Malaysia",
+      "democracy_index_score": "7.11",
+      "rank_change": "-4",
+      "absolute_score_change": "1.31",
+      "relative_score_change": "22"
+    },
+    {
+      "rank": 45,
+      "country": "Trinidad and Tobago",
+      "democracy_index_score": "7.09",
+      "rank_change": "-2",
+      "absolute_score_change": "-0.02",
+      "relative_score_change": ""
+    },
+    {
+      "rank": 46,
+      "country": "Timor-Leste",
+      "democracy_index_score": "7.03",
+      "rank_change": "-1",
+      "absolute_score_change": "0.65",
+      "relative_score_change": "10"
+    },
+    {
+      "rank": 47,
+      "country": "Panama",
+      "democracy_index_score": "6.84",
+      "rank_change": "1",
+      "absolute_score_change": "-0.44",
+      "relative_score_change": "-6"
+    },
+    {
+      "rank": 48,
+      "country": "Suriname",
+      "democracy_index_score": "6.79",
+      "rank_change": "1",
+      "absolute_score_change": "0.36",
+      "relative_score_change": "6"
+    },
+    {
+      "rank": 49,
+      "country": "Jamaica",
+      "democracy_index_score": "6.74",
+      "rank_change": "-4",
+      "absolute_score_change": "-0.28",
+      "relative_score_change": "-4"
+    },
+    {
+      "rank": 50,
+      "country": "Montenegro",
+      "democracy_index_score": "6.73",
+      "rank_change": "2",
+      "absolute_score_change": "0.1",
+      "relative_score_change": "2"
+    },
+    {
+      "rank": 51,
+      "country": "Philippines",
+      "democracy_index_score": "6.63",
+      "rank_change": "2",
+      "absolute_score_change": "0.18",
+      "relative_score_change": "3"
+    },
+    {
+      "rank": 52,
+      "country": "Dominican Republic",
+      "democracy_index_score": "6.62",
+      "rank_change": "9",
+      "absolute_score_change": "0.31",
+      "relative_score_change": "5"
+    },
+    {
+      "rank": 53,
+      "country": "Mongolia",
+      "democracy_index_score": "6.53",
+      "rank_change": "6",
+      "absolute_score_change": "-0.12",
+      "relative_score_change": "-2"
+    },
+    {
+      "rank": 54,
+      "country": "Argentina",
+      "democracy_index_score": "6.51",
+      "rank_change": "",
+      "absolute_score_change": "-0.01",
+      "relative_score_change": ""
+    },
+    {
+      "rank": 55,
+      "country": "Hungary",
+      "democracy_index_score": "6.51",
+      "rank_change": "-4",
+      "absolute_score_change": "-0.81",
+      "relative_score_change": "-11"
+    },
+    {
+      "rank": 56,
+      "country": "Croatia",
+      "democracy_index_score": "6.5",
+      "rank_change": "2",
+      "absolute_score_change": "-0.54",
+      "relative_score_change": "-8"
+    },
+    {
+      "rank": 57,
+      "country": "Brazil",
+      "democracy_index_score": "6.49",
+      "rank_change": "-6",
+      "absolute_score_change": "-0.7",
+      "relative_score_change": "-9"
+    },
+    {
+      "rank": 58,
+      "country": "Namibia",
+      "democracy_index_score": "6.48",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.02",
+      "relative_score_change": ""
+    },
+    {
+      "rank": 59,
+      "country": "Indonesia",
+      "democracy_index_score": "6.44",
+      "rank_change": "-3",
+      "absolute_score_change": "0.12",
+      "relative_score_change": "2"
+    },
+    {
+      "rank": 60,
+      "country": "Colombia",
+      "democracy_index_score": "6.35",
+      "rank_change": "-5",
+      "absolute_score_change": "0.15",
+      "relative_score_change": "2"
+    },
+    {
+      "rank": 61,
+      "country": "Bulgaria",
+      "democracy_index_score": "6.34",
+      "rank_change": "1",
+      "absolute_score_change": "-0.69",
+      "relative_score_change": "-10"
+    },
+    {
+      "rank": 62,
+      "country": "North Macedonia",
+      "democracy_index_score": "6.28",
+      "rank_change": "10",
+      "absolute_score_change": "-0.3",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 63,
+      "country": "Thailand",
+      "democracy_index_score": "6.27",
+      "rank_change": "",
+      "absolute_score_change": "0.68",
+      "relative_score_change": "12"
+    },
+    {
+      "rank": 64,
+      "country": "Serbia",
+      "democracy_index_score": "6.26",
+      "rank_change": "",
+      "absolute_score_change": "-0.29",
+      "relative_score_change": "-4"
+    },
+    {
+      "rank": 65,
+      "country": "Ghana",
+      "democracy_index_score": "6.24",
+      "rank_change": "",
+      "absolute_score_change": "0.95",
+      "relative_score_change": "18"
+    },
+    {
+      "rank": 66,
+      "country": "Albania",
+      "democracy_index_score": "6.2",
+      "rank_change": "",
+      "absolute_score_change": "0.37",
+      "relative_score_change": "6"
+    },
+    {
+      "rank": 67,
+      "country": "Sri Lanka",
+      "democracy_index_score": "6.19",
+      "rank_change": "3",
+      "absolute_score_change": "-0.41",
+      "relative_score_change": "-6"
+    },
+    {
+      "rank": 68,
+      "country": "Singapore",
+      "democracy_index_score": "6.18",
+      "rank_change": "1",
+      "absolute_score_change": "0.29",
+      "relative_score_change": "5"
+    },
+    {
+      "rank": 69,
+      "country": "Guyana",
+      "democracy_index_score": "6.11",
+      "rank_change": "-2",
+      "absolute_score_change": "0.11",
+      "relative_score_change": "2"
+    },
+    {
+      "rank": 70,
+      "country": "Lesotho",
+      "democracy_index_score": "6.06",
+      "rank_change": "1",
+      "absolute_score_change": "-0.42",
+      "relative_score_change": "-6"
+    },
+    {
+      "rank": 71,
+      "country": "Moldova",
+      "democracy_index_score": "6.04",
+      "rank_change": "-3",
+      "absolute_score_change": "-0.27",
+      "relative_score_change": "-4"
+    },
+    {
+      "rank": 72,
+      "country": "Romania",
+      "democracy_index_score": "5.99",
+      "rank_change": "-12",
+      "absolute_score_change": "-0.61",
+      "relative_score_change": "-9"
+    },
+    {
+      "rank": 73,
+      "country": "Papua New Guinea",
+      "democracy_index_score": "5.97",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.51",
+      "relative_score_change": "-8"
+    },
+    {
+      "rank": 74,
+      "country": "Senegal",
+      "democracy_index_score": "5.93",
+      "rank_change": "9",
+      "absolute_score_change": "0.11",
+      "relative_score_change": "2"
+    },
+    {
+      "rank": 75,
+      "country": "Paraguay",
+      "democracy_index_score": "5.92",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.16",
+      "relative_score_change": "-3"
+    },
+    {
+      "rank": 76,
+      "country": "Malawi",
+      "democracy_index_score": "5.85",
+      "rank_change": "",
+      "absolute_score_change": "0.88",
+      "relative_score_change": "18"
+    },
+    {
+      "rank": 77,
+      "country": "Zambia",
+      "democracy_index_score": "5.73",
+      "rank_change": "1",
+      "absolute_score_change": "0.55",
+      "relative_score_change": "10"
+    },
+    {
+      "rank": 78,
+      "country": "Peru",
+      "democracy_index_score": "5.69",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.3",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 79,
+      "country": "Bhutan",
+      "democracy_index_score": "5.65",
+      "rank_change": "2",
+      "absolute_score_change": "2.92",
+      "relative_score_change": "111"
+    },
+    {
+      "rank": 80,
+      "country": "Liberia",
+      "democracy_index_score": "5.57",
+      "rank_change": "-1",
+      "absolute_score_change": "0.35",
+      "relative_score_change": "7"
+    },
+    {
+      "rank": 81,
+      "country": "Fiji",
+      "democracy_index_score": "5.39",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.11",
+      "relative_score_change": "-2"
+    },
+    {
+      "rank": 82,
+      "country": "Armenia",
+      "democracy_index_score": "5.35",
+      "rank_change": "2",
+      "absolute_score_change": "1.27",
+      "relative_score_change": "31"
+    },
+    {
+      "rank": 83,
+      "country": "Madagascar",
+      "democracy_index_score": "5.33",
+      "rank_change": "4",
+      "absolute_score_change": "-0.56",
+      "relative_score_change": "-10"
+    },
+    {
+      "rank": 84,
+      "country": "Mexico",
+      "democracy_index_score": "5.32",
+      "rank_change": "6",
+      "absolute_score_change": "-1.53",
+      "relative_score_change": "-23"
+    },
+    {
+      "rank": 85,
+      "country": "Ecuador",
+      "democracy_index_score": "5.24",
+      "rank_change": "",
+      "absolute_score_change": "-0.23",
+      "relative_score_change": "-4"
+    },
+    {
+      "rank": 86,
+      "country": "Tanzania",
+      "democracy_index_score": "5.2",
+      "rank_change": "",
+      "absolute_score_change": "0.17",
+      "relative_score_change": "3"
+    },
+    {
+      "rank": 87,
+      "country": "Hong Kong",
+      "democracy_index_score": "5.09",
+      "rank_change": "1",
+      "absolute_score_change": "-0.79",
+      "relative_score_change": "-13"
+    },
+    {
+      "rank": 88,
+      "country": "Bosnia and Herzegovina",
+      "democracy_index_score": "5.06",
+      "rank_change": "6",
+      "absolute_score_change": "-0.78",
+      "relative_score_change": "-13"
+    },
+    {
+      "rank": 89,
+      "country": "Kenya",
+      "democracy_index_score": "5.05",
+      "rank_change": "3",
+      "absolute_score_change": "-0.03",
+      "relative_score_change": "-1"
+    },
+    {
+      "rank": 90,
+      "country": "Honduras",
+      "democracy_index_score": "4.98",
+      "rank_change": "5",
+      "absolute_score_change": "-1.27",
+      "relative_score_change": "-20"
+    },
+    {
+      "rank": 91,
+      "country": "Morocco",
+      "democracy_index_score": "4.97",
+      "rank_change": "2",
+      "absolute_score_change": "1.14",
+      "relative_score_change": "29"
+    },
+    {
+      "rank": 92,
+      "country": "Ukraine",
+      "democracy_index_score": "4.9",
+      "rank_change": "-1",
+      "absolute_score_change": "-1.88",
+      "relative_score_change": "-27"
+    },
+    {
+      "rank": 93,
+      "country": "Tunisia",
+      "democracy_index_score": "4.71",
+      "rank_change": "-11",
+      "absolute_score_change": "2.45",
+      "relative_score_change": "80"
+    },
+    {
+      "rank": 94,
+      "country": "Georgia",
+      "democracy_index_score": "4.7",
+      "rank_change": "-5",
+      "absolute_score_change": "0.3",
+      "relative_score_change": "6"
+    },
+    {
+      "rank": 95,
+      "country": "El Salvador",
+      "democracy_index_score": "4.61",
+      "rank_change": "1",
+      "absolute_score_change": "-1.51",
+      "relative_score_change": "-24"
+    },
+    {
+      "rank": 96,
+      "country": "Nepal",
+      "democracy_index_score": "4.6",
+      "rank_change": "2",
+      "absolute_score_change": "1.18",
+      "relative_score_change": "35"
+    },
+    {
+      "rank": 97,
+      "country": "Guatemala",
+      "democracy_index_score": "4.55",
+      "rank_change": "3",
+      "absolute_score_change": "-1.6",
+      "relative_score_change": "-26"
+    },
+    {
+      "rank": 98,
+      "country": "Uganda",
+      "democracy_index_score": "4.49",
+      "rank_change": "1",
+      "absolute_score_change": "-0.65",
+      "relative_score_change": "-13"
+    },
+    {
+      "rank": 99,
+      "country": "Gambia",
+      "democracy_index_score": "4.47",
+      "rank_change": "1",
+      "absolute_score_change": "0.08",
+      "relative_score_change": "2"
+    },
+    {
+      "rank": 100,
+      "country": "Bangladesh",
+      "democracy_index_score": "4.44",
+      "rank_change": "-25",
+      "absolute_score_change": "-0.24",
+      "relative_score_change": "-4"
+    },
+    {
+      "rank": 101,
+      "country": "Benin",
+      "democracy_index_score": "4.44",
+      "rank_change": "-3",
+      "absolute_score_change": "-1.48",
+      "relative_score_change": "-24"
+    },
+    {
+      "rank": 102,
+      "country": "Sierra Leone",
+      "democracy_index_score": "4.32",
+      "rank_change": "1",
+      "absolute_score_change": "0.75",
+      "relative_score_change": "21"
+    },
+    {
+      "rank": 103,
+      "country": "Turkey",
+      "democracy_index_score": "4.26",
+      "rank_change": "-1",
+      "absolute_score_change": "-1.37",
+      "relative_score_change": "-24"
+    },
+    {
+      "rank": 104,
+      "country": "Bolivia",
+      "democracy_index_score": "4.26",
+      "rank_change": "3",
+      "absolute_score_change": "-1.78",
+      "relative_score_change": "-30"
+    },
+    {
+      "rank": 105,
+      "country": "Ivory Coast",
+      "democracy_index_score": "4.22",
+      "rank_change": "",
+      "absolute_score_change": "0.84",
+      "relative_score_change": "25"
+    },
+    {
+      "rank": 106,
+      "country": "Nigeria",
+      "democracy_index_score": "4.16",
+      "rank_change": "-2",
+      "absolute_score_change": "0.71",
+      "relative_score_change": "20"
+    },
+    {
+      "rank": 107,
+      "country": "Angola",
+      "democracy_index_score": "4.05",
+      "rank_change": "",
+      "absolute_score_change": "1.77",
+      "relative_score_change": "73"
+    },
+    {
+      "rank": 108,
+      "country": "Mauritania",
+      "democracy_index_score": "3.96",
+      "rank_change": "",
+      "absolute_score_change": "1.02",
+      "relative_score_change": "33"
+    },
+    {
+      "rank": 109,
+      "country": "Lebanon",
+      "democracy_index_score": "3.56",
+      "rank_change": "3",
+      "absolute_score_change": "-2.26",
+      "relative_score_change": "-39"
+    },
+    {
+      "rank": 110,
+      "country": "Algeria",
+      "democracy_index_score": "3.55",
+      "rank_change": "",
+      "absolute_score_change": "0.49",
+      "relative_score_change": "15"
+    },
+    {
+      "rank": 111,
+      "country": "Kyrgyzstan",
+      "democracy_index_score": "3.52",
+      "rank_change": "-2",
+      "absolute_score_change": "-0.38",
+      "relative_score_change": "-9"
+    },
+    {
+      "rank": 112,
+      "country": "Palestine",
+      "democracy_index_score": "3.44",
+      "rank_change": "3",
+      "absolute_score_change": "-2.54",
+      "relative_score_change": "-42"
+    },
+    {
+      "rank": 113,
+      "country": "Mozambique",
+      "democracy_index_score": "3.38",
+      "rank_change": "",
+      "absolute_score_change": "-1.77",
+      "relative_score_change": "-34"
+    },
+    {
+      "rank": 114,
+      "country": "Rwanda",
+      "democracy_index_score": "3.34",
+      "rank_change": "3",
+      "absolute_score_change": "-0.52",
+      "relative_score_change": "-14"
+    },
+    {
+      "rank": 115,
+      "country": "Jordan",
+      "democracy_index_score": "3.28",
+      "rank_change": "7",
+      "absolute_score_change": "-0.88",
+      "relative_score_change": "-22"
+    },
+    {
+      "rank": 116,
+      "country": "Ethiopia",
+      "democracy_index_score": "3.24",
+      "rank_change": "",
+      "absolute_score_change": "-1.35",
+      "relative_score_change": "-29"
+    },
+    {
+      "rank": 117,
+      "country": "Qatar",
+      "democracy_index_score": "3.17",
+      "rank_change": "-6",
+      "absolute_score_change": "0.87",
+      "relative_score_change": "31"
+    },
+    {
+      "rank": 118,
+      "country": "Kazakhstan",
+      "democracy_index_score": "3.08",
+      "rank_change": "2",
+      "absolute_score_change": "-0.54",
+      "relative_score_change": "-15"
+    },
+    {
+      "rank": 119,
+      "country": "United Arab Emirates",
+      "democracy_index_score": "3.07",
+      "rank_change": "6",
+      "absolute_score_change": "0.59",
+      "relative_score_change": "24"
+    },
+    {
+      "rank": 120,
+      "country": "Oman",
+      "democracy_index_score": "3.05",
+      "rank_change": "-1",
+      "absolute_score_change": "0.35",
+      "relative_score_change": "13"
+    },
+    {
+      "rank": 121,
+      "country": "Togo",
+      "democracy_index_score": "2.99",
+      "rank_change": "5",
+      "absolute_score_change": "1.24",
+      "relative_score_change": "71"
+    },
+    {
+      "rank": 122,
+      "country": "Zimbabwe",
+      "democracy_index_score": "2.98",
+      "rank_change": "",
+      "absolute_score_change": "0.42",
+      "relative_score_change": "16"
+    },
+    {
+      "rank": 123,
+      "country": "Cambodia",
+      "democracy_index_score": "2.94",
+      "rank_change": "-2",
+      "absolute_score_change": "-1.72",
+      "relative_score_change": "-36"
+    },
+    {
+      "rank": 124,
+      "country": "Pakistan",
+      "democracy_index_score": "2.84",
+      "rank_change": "-6",
+      "absolute_score_change": "-0.67",
+      "relative_score_change": "-17"
+    },
+    {
+      "rank": 125,
+      "country": "Comoros",
+      "democracy_index_score": "2.84",
+      "rank_change": "-2",
+      "absolute_score_change": "-0.86",
+      "relative_score_change": "-22"
+    },
+    {
+      "rank": 126,
+      "country": "Iraq",
+      "democracy_index_score": "2.8",
+      "rank_change": "2",
+      "absolute_score_change": "-1.13",
+      "relative_score_change": "-28"
+    },
+    {
+      "rank": 127,
+      "country": "Azerbaijan",
+      "democracy_index_score": "2.8",
+      "rank_change": "4",
+      "absolute_score_change": "-0.51",
+      "relative_score_change": "-15"
+    },
+    {
+      "rank": 128,
+      "country": "Egypt",
+      "democracy_index_score": "2.79",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.97",
+      "relative_score_change": "-25"
+    },
+    {
+      "rank": 129,
+      "country": "Republic of the Congo",
+      "democracy_index_score": "2.79",
+      "rank_change": "3",
+      "absolute_score_change": "-0.4",
+      "relative_score_change": "-13"
+    },
+    {
+      "rank": 130,
+      "country": "Kuwait",
+      "democracy_index_score": "2.78",
+      "rank_change": "-16",
+      "absolute_score_change": "0.41",
+      "relative_score_change": "13"
+    },
+    {
+      "rank": 131,
+      "country": "Haiti",
+      "democracy_index_score": "2.74",
+      "rank_change": "-2",
+      "absolute_score_change": "-1.38",
+      "relative_score_change": "-33"
+    },
+    {
+      "rank": 132,
+      "country": "Djibouti",
+      "democracy_index_score": "2.7",
+      "rank_change": "2",
+      "absolute_score_change": "0.33",
+      "relative_score_change": "14"
+    },
+    {
+      "rank": 133,
+      "country": "Vietnam",
+      "democracy_index_score": "2.62",
+      "rank_change": "3",
+      "absolute_score_change": "-0.13",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 134,
+      "country": "Eswatini",
+      "democracy_index_score": "2.6",
+      "rank_change": "-2",
+      "absolute_score_change": "-0.15",
+      "relative_score_change": "-5"
+    },
+    {
+      "rank": 135,
+      "country": "Cuba",
+      "democracy_index_score": "2.58",
+      "rank_change": "",
+      "absolute_score_change": "-0.87",
+      "relative_score_change": "-25"
+    },
+    {
+      "rank": 136,
+      "country": "Cameroon",
+      "democracy_index_score": "2.56",
+      "rank_change": "2",
+      "absolute_score_change": "-0.71",
+      "relative_score_change": "-22"
+    },
+    {
+      "rank": 137,
+      "country": "Burkina Faso",
+      "democracy_index_score": "2.55",
+      "rank_change": "-4",
+      "absolute_score_change": "-0.99",
+      "relative_score_change": "-27"
+    },
+    {
+      "rank": 138,
+      "country": "Bahrain",
+      "democracy_index_score": "2.45",
+      "rank_change": "1",
+      "absolute_score_change": "-1.01",
+      "relative_score_change": "-29"
+    },
+    {
+      "rank": 139,
+      "country": "Mali",
+      "democracy_index_score": "2.4",
+      "rank_change": "-2",
+      "absolute_score_change": "-3.41",
+      "relative_score_change": "-57"
+    },
+    {
+      "rank": 140,
+      "country": "Libya",
+      "democracy_index_score": "2.31",
+      "rank_change": "17",
+      "absolute_score_change": "-0.06",
+      "relative_score_change": "-3"
+    },
+    {
+      "rank": 141,
+      "country": "Niger",
+      "democracy_index_score": "2.26",
+      "rank_change": "",
+      "absolute_score_change": "0.69",
+      "relative_score_change": "19"
+    },
+    {
+      "rank": 142,
+      "country": "Venezuela",
+      "democracy_index_score": "2.25",
+      "rank_change": "",
+      "absolute_score_change": "-3.11",
+      "relative_score_change": "-57"
+    },
+    {
+      "rank": 143,
+      "country": "Gabon",
+      "democracy_index_score": "2.18",
+      "rank_change": "3",
+      "absolute_score_change": "-0.54",
+      "relative_score_change": "-20"
+    },
+    {
+      "rank": 144,
+      "country": "Burundi",
+      "democracy_index_score": "2.13",
+      "rank_change": "3",
+      "absolute_score_change": "-2.38",
+      "relative_score_change": "-53"
+    },
+    {
+      "rank": 145,
+      "country": "China",
+      "democracy_index_score": "2.11",
+      "rank_change": "3",
+      "absolute_score_change": "-0.85",
+      "relative_score_change": "-29"
+    },
+    {
+      "rank": 146,
+      "country": "Uzbekistan",
+      "democracy_index_score": "2.1",
+      "rank_change": "2",
+      "absolute_score_change": "0.27",
+      "relative_score_change": "15"
+    },
+    {
+      "rank": 147,
+      "country": "Nicaragua",
+      "democracy_index_score": "2.09",
+      "rank_change": "-4",
+      "absolute_score_change": "-3.42",
+      "relative_score_change": "-60"
+    },
+    {
+      "rank": 148,
+      "country": "Saudi Arabia",
+      "democracy_index_score": "2.08",
+      "rank_change": "2",
+      "absolute_score_change": "0.16",
+      "relative_score_change": "8"
+    },
+    {
+      "rank": 149,
+      "country": "Guinea",
+      "democracy_index_score": "2.04",
+      "rank_change": "-4",
+      "absolute_score_change": "0.19",
+      "relative_score_change": "9"
+    },
+    {
+      "rank": 150,
+      "country": "Russia",
+      "democracy_index_score": "2.03",
+      "rank_change": "-6",
+      "absolute_score_change": "-2.8",
+      "relative_score_change": "-56"
+    },
+    {
+      "rank": 151,
+      "country": "Guinea-Bissau",
+      "democracy_index_score": "2.03",
+      "rank_change": "-10",
+      "absolute_score_change": "0.45",
+      "relative_score_change": "23"
+    },
+    {
+      "rank": 152,
+      "country": "Belarus",
+      "democracy_index_score": "1.99",
+      "rank_change": "-1",
+      "absolute_score_change": "-1.35",
+      "relative_score_change": "-40"
+    },
+    {
+      "rank": 153,
+      "country": "Eritrea",
+      "democracy_index_score": "1.97",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.34",
+      "relative_score_change": "-15"
+    },
+    {
+      "rank": 154,
+      "country": "Iran",
+      "democracy_index_score": "1.96",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.97",
+      "relative_score_change": "-33"
+    },
+    {
+      "rank": 155,
+      "country": "Yemen",
+      "democracy_index_score": "1.95",
+      "rank_change": "-1",
+      "absolute_score_change": "-1.03",
+      "relative_score_change": "-35"
+    },
+    {
+      "rank": 156,
+      "country": "DR Congo",
+      "democracy_index_score": "1.92",
+      "rank_change": "4",
+      "absolute_score_change": "-1.08",
+      "relative_score_change": "-39"
+    },
+    {
+      "rank": 157,
+      "country": "Equatorial Guinea",
+      "democracy_index_score": "1.92",
+      "rank_change": "",
+      "absolute_score_change": "-0.17",
+      "relative_score_change": "-8"
+    },
+    {
+      "rank": 158,
+      "country": "Chad",
+      "democracy_index_score": "1.89",
+      "rank_change": "3",
+      "absolute_score_change": "0.02",
+      "relative_score_change": "1"
+    },
+    {
+      "rank": 159,
+      "country": "Tajikistan",
+      "democracy_index_score": "1.83",
+      "rank_change": "-4",
+      "absolute_score_change": "-0.51",
+      "relative_score_change": "-21"
+    },
+    {
+      "rank": 160,
+      "country": "Laos",
+      "democracy_index_score": "1.71",
+      "rank_change": "-1",
+      "absolute_score_change": "-0.39",
+      "relative_score_change": "-19"
+    },
+    {
+      "rank": 161,
+      "country": "Turkmenistan",
+      "democracy_index_score": "1.66",
+      "rank_change": "1",
+      "absolute_score_change": "-0.17",
+      "relative_score_change": "-9"
+    },
+    {
+      "rank": 162,
+      "country": "Sudan",
+      "democracy_index_score": "1.46",
+      "rank_change": "-4",
+      "absolute_score_change": "-1.14",
+      "relative_score_change": "-39"
+    },
+    {
+      "rank": 163,
+      "country": "Syria",
+      "democracy_index_score": "1.32",
+      "rank_change": "",
+      "absolute_score_change": "-0.93",
+      "relative_score_change": "-39"
+    },
+    {
+      "rank": 164,
+      "country": "Central African Republic",
+      "democracy_index_score": "1.18",
+      "rank_change": "",
+      "absolute_score_change": "-0.43",
+      "relative_score_change": "-27"
+    },
+    {
+      "rank": 165,
+      "country": "North Korea",
+      "democracy_index_score": "1.08",
+      "rank_change": "",
+      "absolute_score_change": "0.05",
+      "relative_score_change": "5"
+    },
+    {
+      "rank": 166,
+      "country": "Myanmar",
+      "democracy_index_score": "0.96",
+      "rank_change": "",
+      "absolute_score_change": "-0.92",
+      "relative_score_change": "-52"
+    },
+    {
+      "rank": 167,
+      "country": "Afghanistan",
+      "democracy_index_score": "0.25",
+      "rank_change": "",
+      "absolute_score_change": "-2.8",
+      "relative_score_change": "-92"
+    }
+  ]
+}

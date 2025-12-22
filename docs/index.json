@@ -345,6 +345,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/corruption_perceptions_index.json"
       },
       {
+        "title": "Democracy Index Rankings by Country (2024)",
+        "subtitle": "Country-wise democracy index scores and year-over-year changes",
+        "updated_at": "December 22, 2025 11:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/democracy_index_by_country.json"
+      },
+      {
         "title": "Global Military Expenditure Rankings",
         "subtitle": "Top countries by military spending based on the 2024 SIPRI Military Expenditure Database.",
         "updated_at": "December 08, 2025 04:49 AM UTC",
