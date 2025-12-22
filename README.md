@@ -164,6 +164,8 @@ Each dataset follows this JSON format:
   Country rankings based on perceived public sector corruption (CPI 2024).
 - [**Global Military Expenditure Rankings**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/list_of_countries_with_highest_military_expenditures.json)  
   Top countries by military spending based on the 2024 SIPRI Military Expenditure Database.
+- [**Global Passport Power Rankings (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/official_passport_index_ranking.json)  
+  Countries ranked by passport strength, visa-free access, and openness score in 2025
 - [**Religious Freedom Index (2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/religious_freedom_index.json)  
   Global ranking of countries based on their level of religious freedom in 2024
 - [**Current Heads of State and Government (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/politics-governance/world_leaders_in_office.json)  

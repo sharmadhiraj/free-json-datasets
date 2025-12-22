@@ -1,0 +1,1599 @@
+{
+  "title": "Global Passport Power Rankings (2025)",
+  "subtitle": "Countries ranked by passport strength, visa-free access, and openness score in 2025",
+  "updated_at": "December 22, 2025 11:16 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Singapore",
+      "year": 2025,
+      "visa_free_count": 193,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 2,
+      "country": "South Korea",
+      "year": 2025,
+      "visa_free_count": 190,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 3,
+      "country": "Japan",
+      "year": 2025,
+      "visa_free_count": 189,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 4,
+      "country": "Belgium",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "Denmark",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "Finland",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "France",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "Germany",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "Ireland",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "Italy",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "Luxembourg",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "Netherlands",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "Spain",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 4,
+      "country": "Switzerland",
+      "year": 2025,
+      "visa_free_count": 187,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 5,
+      "country": "Austria",
+      "year": 2025,
+      "visa_free_count": 186,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 5,
+      "country": "Greece",
+      "year": 2025,
+      "visa_free_count": 186,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 5,
+      "country": "Norway",
+      "year": 2025,
+      "visa_free_count": 186,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 5,
+      "country": "Portugal",
+      "year": 2025,
+      "visa_free_count": 186,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 5,
+      "country": "Sweden",
+      "year": 2025,
+      "visa_free_count": 186,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 6,
+      "country": "Hungary",
+      "year": 2025,
+      "visa_free_count": 185,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 6,
+      "country": "Malta",
+      "year": 2025,
+      "visa_free_count": 185,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 6,
+      "country": "New Zealand",
+      "year": 2025,
+      "visa_free_count": 185,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 6,
+      "country": "Poland",
+      "year": 2025,
+      "visa_free_count": 185,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 6,
+      "country": "Slovakia",
+      "year": 2025,
+      "visa_free_count": 185,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 6,
+      "country": "Slovenia",
+      "year": 2025,
+      "visa_free_count": 185,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 7,
+      "country": "Australia",
+      "year": 2025,
+      "visa_free_count": 184,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 7,
+      "country": "Croatia",
+      "year": 2025,
+      "visa_free_count": 184,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 7,
+      "country": "Czechia",
+      "year": 2025,
+      "visa_free_count": 184,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 7,
+      "country": "Estonia",
+      "year": 2025,
+      "visa_free_count": 184,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 7,
+      "country": "United Arab Emirates",
+      "year": 2025,
+      "visa_free_count": 184,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 7,
+      "country": "United Kingdom",
+      "year": 2025,
+      "visa_free_count": 184,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 8,
+      "country": "Canada",
+      "year": 2025,
+      "visa_free_count": 183,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 8,
+      "country": "Latvia",
+      "year": 2025,
+      "visa_free_count": 183,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 9,
+      "country": "Lithuania",
+      "year": 2025,
+      "visa_free_count": 182,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 9,
+      "country": "Liechtenstein",
+      "year": 2025,
+      "visa_free_count": 182,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 10,
+      "country": "Iceland",
+      "year": 2025,
+      "visa_free_count": 181,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 10,
+      "country": "Malaysia",
+      "year": 2025,
+      "visa_free_count": 181,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 11,
+      "country": "United States",
+      "year": 2025,
+      "visa_free_count": 180,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 12,
+      "country": "Bulgaria",
+      "year": 2025,
+      "visa_free_count": 179,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 12,
+      "country": "Romania",
+      "year": 2025,
+      "visa_free_count": 179,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 13,
+      "country": "Cyprus",
+      "year": 2025,
+      "visa_free_count": 178,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 14,
+      "country": "Monaco",
+      "year": 2025,
+      "visa_free_count": 177,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 15,
+      "country": "Chile",
+      "year": 2025,
+      "visa_free_count": 175,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 16,
+      "country": "Andorra",
+      "year": 2025,
+      "visa_free_count": 171,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 17,
+      "country": "Hong Kong (SAR China)",
+      "year": 2025,
+      "visa_free_count": 170,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 18,
+      "country": "Argentina",
+      "year": 2025,
+      "visa_free_count": 169,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 18,
+      "country": "Brazil",
+      "year": 2025,
+      "visa_free_count": 169,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 18,
+      "country": "San Marino",
+      "year": 2025,
+      "visa_free_count": 169,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 19,
+      "country": "Israel",
+      "year": 2025,
+      "visa_free_count": 165,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 20,
+      "country": "Brunei",
+      "year": 2025,
+      "visa_free_count": 164,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 21,
+      "country": "Barbados",
+      "year": 2025,
+      "visa_free_count": 163,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 22,
+      "country": "The Bahamas",
+      "year": 2025,
+      "visa_free_count": 159,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 23,
+      "country": "Mexico",
+      "year": 2025,
+      "visa_free_count": 157,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 24,
+      "country": "St. Vincent and the Grenadines",
+      "year": 2025,
+      "visa_free_count": 156,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 24,
+      "country": "Uruguay",
+      "year": 2025,
+      "visa_free_count": 156,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 25,
+      "country": "Seychelles",
+      "year": 2025,
+      "visa_free_count": 155,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 26,
+      "country": "St. Kitts and Nevis",
+      "year": 2025,
+      "visa_free_count": 154,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 27,
+      "country": "Antigua and Barbuda",
+      "year": 2025,
+      "visa_free_count": 153,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 27,
+      "country": "Vatican City",
+      "year": 2025,
+      "visa_free_count": 153,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 28,
+      "country": "Costa Rica",
+      "year": 2025,
+      "visa_free_count": 148,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 28,
+      "country": "Mauritius",
+      "year": 2025,
+      "visa_free_count": 148,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 28,
+      "country": "Panama",
+      "year": 2025,
+      "visa_free_count": 148,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 29,
+      "country": "Grenada",
+      "year": 2025,
+      "visa_free_count": 147,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 29,
+      "country": "Trinidad and Tobago",
+      "year": 2025,
+      "visa_free_count": 147,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 30,
+      "country": "St. Lucia",
+      "year": 2025,
+      "visa_free_count": 146,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 31,
+      "country": "Paraguay",
+      "year": 2025,
+      "visa_free_count": 145,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 32,
+      "country": "Ukraine",
+      "year": 2025,
+      "visa_free_count": 144,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 33,
+      "country": "Dominica",
+      "year": 2025,
+      "visa_free_count": 143,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 34,
+      "country": "Macao (SAR China)",
+      "year": 2025,
+      "visa_free_count": 142,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 34,
+      "country": "Peru",
+      "year": 2025,
+      "visa_free_count": 142,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 35,
+      "country": "Serbia",
+      "year": 2025,
+      "visa_free_count": 137,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 36,
+      "country": "Taiwan (Chinese Taipei)",
+      "year": 2025,
+      "visa_free_count": 136,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 37,
+      "country": "El Salvador",
+      "year": 2025,
+      "visa_free_count": 134,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 38,
+      "country": "Guatemala",
+      "year": 2025,
+      "visa_free_count": 133,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 38,
+      "country": "Solomon Islands",
+      "year": 2025,
+      "visa_free_count": 133,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 39,
+      "country": "Colombia",
+      "year": 2025,
+      "visa_free_count": 131,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 40,
+      "country": "Honduras",
+      "year": 2025,
+      "visa_free_count": 130,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 41,
+      "country": "North Macedonia",
+      "year": 2025,
+      "visa_free_count": 129,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 41,
+      "country": "Samoa",
+      "year": 2025,
+      "visa_free_count": 129,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 41,
+      "country": "Tonga",
+      "year": 2025,
+      "visa_free_count": 129,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 42,
+      "country": "Montenegro",
+      "year": 2025,
+      "visa_free_count": 128,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 43,
+      "country": "Marshall Islands",
+      "year": 2025,
+      "visa_free_count": 127,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 44,
+      "country": "Nicaragua",
+      "year": 2025,
+      "visa_free_count": 126,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 44,
+      "country": "Tuvalu",
+      "year": 2025,
+      "visa_free_count": 126,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 45,
+      "country": "Bosnia and Herzegovina",
+      "year": 2025,
+      "visa_free_count": 123,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 45,
+      "country": "Georgia",
+      "year": 2025,
+      "visa_free_count": 123,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 45,
+      "country": "Kiribati",
+      "year": 2025,
+      "visa_free_count": 123,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 46,
+      "country": "Albania",
+      "year": 2025,
+      "visa_free_count": 122,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 46,
+      "country": "Micronesia",
+      "year": 2025,
+      "visa_free_count": 122,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 46,
+      "country": "Palau Islands",
+      "year": 2025,
+      "visa_free_count": 122,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 47,
+      "country": "Moldova",
+      "year": 2025,
+      "visa_free_count": 121,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 48,
+      "country": "Venezuela",
+      "year": 2025,
+      "visa_free_count": 118,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 49,
+      "country": "Russian Federation",
+      "year": 2025,
+      "visa_free_count": 114,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 50,
+      "country": "Qatar",
+      "year": 2025,
+      "visa_free_count": 112,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 50,
+      "country": "Türkiye",
+      "year": 2025,
+      "visa_free_count": 112,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 51,
+      "country": "South Africa",
+      "year": 2025,
+      "visa_free_count": 101,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 52,
+      "country": "Belize",
+      "year": 2025,
+      "visa_free_count": 100,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 53,
+      "country": "Kuwait",
+      "year": 2025,
+      "visa_free_count": 98,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 54,
+      "country": "Ecuador",
+      "year": 2025,
+      "visa_free_count": 94,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 54,
+      "country": "Maldives",
+      "year": 2025,
+      "visa_free_count": 94,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 54,
+      "country": "Timor-Leste",
+      "year": 2025,
+      "visa_free_count": 94,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 55,
+      "country": "Guyana",
+      "year": 2025,
+      "visa_free_count": 90,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 55,
+      "country": "Saudi Arabia",
+      "year": 2025,
+      "visa_free_count": 90,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 55,
+      "country": "Vanuatu",
+      "year": 2025,
+      "visa_free_count": 90,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 56,
+      "country": "Fiji",
+      "year": 2025,
+      "visa_free_count": 89,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 57,
+      "country": "Bahrain",
+      "year": 2025,
+      "visa_free_count": 88,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 58,
+      "country": "Jamaica",
+      "year": 2025,
+      "visa_free_count": 87,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 58,
+      "country": "Oman",
+      "year": 2025,
+      "visa_free_count": 87,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 59,
+      "country": "Nauru",
+      "year": 2025,
+      "visa_free_count": 86,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 60,
+      "country": "Papua New Guinea",
+      "year": 2025,
+      "visa_free_count": 85,
+      "openness_score": 22.61,
+      "region": "OCEANIA"
+    },
+    {
+      "rank": 61,
+      "country": "Botswana",
+      "year": 2025,
+      "visa_free_count": 82,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 61,
+      "country": "China",
+      "year": 2025,
+      "visa_free_count": 82,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 62,
+      "country": "Kosovo",
+      "year": 2025,
+      "visa_free_count": 81,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 63,
+      "country": "Belarus",
+      "year": 2025,
+      "visa_free_count": 80,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 63,
+      "country": "Thailand",
+      "year": 2025,
+      "visa_free_count": 80,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 64,
+      "country": "Kazakhstan",
+      "year": 2025,
+      "visa_free_count": 79,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 65,
+      "country": "Bolivia",
+      "year": 2025,
+      "visa_free_count": 78,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 65,
+      "country": "Suriname",
+      "year": 2025,
+      "visa_free_count": 78,
+      "openness_score": 22.61,
+      "region": "AMERICAS"
+    },
+    {
+      "rank": 66,
+      "country": "Namibia",
+      "year": 2025,
+      "visa_free_count": 77,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 67,
+      "country": "Lesotho",
+      "year": 2025,
+      "visa_free_count": 75,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 68,
+      "country": "Indonesia",
+      "year": 2025,
+      "visa_free_count": 73,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 68,
+      "country": "Morocco",
+      "year": 2025,
+      "visa_free_count": 73,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 68,
+      "country": "eSwatini",
+      "year": 2025,
+      "visa_free_count": 73,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 69,
+      "country": "Dominican Republic",
+      "year": 2025,
+      "visa_free_count": 72,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 69,
+      "country": "Malawi",
+      "year": 2025,
+      "visa_free_count": 72,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 70,
+      "country": "Azerbaijan",
+      "year": 2025,
+      "visa_free_count": 71,
+      "openness_score": 22.61,
+      "region": "EUROPE"
+    },
+    {
+      "rank": 71,
+      "country": "The Gambia",
+      "year": 2025,
+      "visa_free_count": 70,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 71,
+      "country": "Kenya",
+      "year": 2025,
+      "visa_free_count": 70,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 71,
+      "country": "Tanzania",
+      "year": 2025,
+      "visa_free_count": 70,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 72,
+      "country": "Ghana",
+      "year": 2025,
+      "visa_free_count": 69,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 73,
+      "country": "Tunisia",
+      "year": 2025,
+      "visa_free_count": 68,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 74,
+      "country": "Armenia",
+      "year": 2025,
+      "visa_free_count": 67,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 74,
+      "country": "Uganda",
+      "year": 2025,
+      "visa_free_count": 67,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 75,
+      "country": "Benin",
+      "year": 2025,
+      "visa_free_count": 66,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 75,
+      "country": "Cape Verde Islands",
+      "year": 2025,
+      "visa_free_count": 66,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 75,
+      "country": "Rwanda",
+      "year": 2025,
+      "visa_free_count": 66,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 75,
+      "country": "Zambia",
+      "year": 2025,
+      "visa_free_count": 66,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 76,
+      "country": "Mongolia",
+      "year": 2025,
+      "visa_free_count": 65,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 77,
+      "country": "Philippines",
+      "year": 2025,
+      "visa_free_count": 64,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 77,
+      "country": "Sierra Leone",
+      "year": 2025,
+      "visa_free_count": 64,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 78,
+      "country": "Zimbabwe",
+      "year": 2025,
+      "visa_free_count": 63,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 79,
+      "country": "Kyrgyzstan",
+      "year": 2025,
+      "visa_free_count": 62,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 79,
+      "country": "Uzbekistan",
+      "year": 2025,
+      "visa_free_count": 62,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 80,
+      "country": "Mozambique",
+      "year": 2025,
+      "visa_free_count": 61,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 80,
+      "country": "São Tomé and Príncipe",
+      "year": 2025,
+      "visa_free_count": 61,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 81,
+      "country": "Cuba",
+      "year": 2025,
+      "visa_free_count": 59,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 81,
+      "country": "Togo",
+      "year": 2025,
+      "visa_free_count": 59,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 82,
+      "country": "Burkina Faso",
+      "year": 2025,
+      "visa_free_count": 58,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 82,
+      "country": "Côte d'Ivoire",
+      "year": 2025,
+      "visa_free_count": 58,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 82,
+      "country": "Gabon",
+      "year": 2025,
+      "visa_free_count": 58,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 82,
+      "country": "Madagascar",
+      "year": 2025,
+      "visa_free_count": 58,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 82,
+      "country": "Senegal",
+      "year": 2025,
+      "visa_free_count": 58,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 83,
+      "country": "India",
+      "year": 2025,
+      "visa_free_count": 57,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 83,
+      "country": "Mauritania",
+      "year": 2025,
+      "visa_free_count": 57,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 84,
+      "country": "Algeria",
+      "year": 2025,
+      "visa_free_count": 56,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 84,
+      "country": "Niger",
+      "year": 2025,
+      "visa_free_count": 56,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 85,
+      "country": "Equatorial Guinea",
+      "year": 2025,
+      "visa_free_count": 55,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 85,
+      "country": "Guinea",
+      "year": 2025,
+      "visa_free_count": 55,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 85,
+      "country": "Tajikistan",
+      "year": 2025,
+      "visa_free_count": 55,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 86,
+      "country": "Mali",
+      "year": 2025,
+      "visa_free_count": 54,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 87,
+      "country": "Comoro Islands",
+      "year": 2025,
+      "visa_free_count": 53,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 87,
+      "country": "Guinea-Bissau",
+      "year": 2025,
+      "visa_free_count": 53,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 88,
+      "country": "Chad",
+      "year": 2025,
+      "visa_free_count": 52,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 88,
+      "country": "Haiti",
+      "year": 2025,
+      "visa_free_count": 52,
+      "openness_score": 22.61,
+      "region": "CARIBBEAN"
+    },
+    {
+      "rank": 88,
+      "country": "Jordan",
+      "year": 2025,
+      "visa_free_count": 52,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 89,
+      "country": "Central African Republic",
+      "year": 2025,
+      "visa_free_count": 51,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 89,
+      "country": "Egypt",
+      "year": 2025,
+      "visa_free_count": 51,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 90,
+      "country": "Bhutan",
+      "year": 2025,
+      "visa_free_count": 50,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 90,
+      "country": "Burundi",
+      "year": 2025,
+      "visa_free_count": 50,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 90,
+      "country": "Cambodia",
+      "year": 2025,
+      "visa_free_count": 50,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 90,
+      "country": "Liberia",
+      "year": 2025,
+      "visa_free_count": 50,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 90,
+      "country": "Vietnam",
+      "year": 2025,
+      "visa_free_count": 50,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 91,
+      "country": "Angola",
+      "year": 2025,
+      "visa_free_count": 48,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 91,
+      "country": "Cameroon",
+      "year": 2025,
+      "visa_free_count": 48,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 91,
+      "country": "Congo (Rep.)",
+      "year": 2025,
+      "visa_free_count": 48,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 91,
+      "country": "Turkmenistan",
+      "year": 2025,
+      "visa_free_count": 48,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 92,
+      "country": "Djibouti",
+      "year": 2025,
+      "visa_free_count": 47,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 93,
+      "country": "Laos",
+      "year": 2025,
+      "visa_free_count": 46,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 94,
+      "country": "Myanmar",
+      "year": 2025,
+      "visa_free_count": 45,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 95,
+      "country": "Ethiopia",
+      "year": 2025,
+      "visa_free_count": 44,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 95,
+      "country": "Lebanon",
+      "year": 2025,
+      "visa_free_count": 44,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 95,
+      "country": "Nigeria",
+      "year": 2025,
+      "visa_free_count": 44,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 96,
+      "country": "Congo (Dem. Rep.)",
+      "year": 2025,
+      "visa_free_count": 43,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 96,
+      "country": "South Sudan",
+      "year": 2025,
+      "visa_free_count": 43,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 97,
+      "country": "Iran",
+      "year": 2025,
+      "visa_free_count": 41,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 97,
+      "country": "Sri Lanka",
+      "year": 2025,
+      "visa_free_count": 41,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 97,
+      "country": "Sudan",
+      "year": 2025,
+      "visa_free_count": 41,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 98,
+      "country": "Eritrea",
+      "year": 2025,
+      "visa_free_count": 39,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 98,
+      "country": "Libya",
+      "year": 2025,
+      "visa_free_count": 39,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 98,
+      "country": "Palestinian Territory",
+      "year": 2025,
+      "visa_free_count": 39,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 99,
+      "country": "Bangladesh",
+      "year": 2025,
+      "visa_free_count": 38,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 99,
+      "country": "North Korea",
+      "year": 2025,
+      "visa_free_count": 38,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 100,
+      "country": "Nepal",
+      "year": 2025,
+      "visa_free_count": 36,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 101,
+      "country": "Somalia",
+      "year": 2025,
+      "visa_free_count": 33,
+      "openness_score": 22.61,
+      "region": "AFRICA"
+    },
+    {
+      "rank": 102,
+      "country": "Pakistan",
+      "year": 2025,
+      "visa_free_count": 31,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    },
+    {
+      "rank": 102,
+      "country": "Yemen",
+      "year": 2025,
+      "visa_free_count": 31,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 103,
+      "country": "Iraq",
+      "year": 2025,
+      "visa_free_count": 29,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 104,
+      "country": "Syria",
+      "year": 2025,
+      "visa_free_count": 26,
+      "openness_score": 22.61,
+      "region": "MIDDLE EAST"
+    },
+    {
+      "rank": 105,
+      "country": "Afghanistan",
+      "year": 2025,
+      "visa_free_count": 24,
+      "openness_score": 22.61,
+      "region": "ASIA"
+    }
+  ]
+}

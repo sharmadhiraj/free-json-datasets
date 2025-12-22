@@ -351,6 +351,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/list_of_countries_with_highest_military_expenditures.json"
       },
       {
+        "title": "Global Passport Power Rankings (2025)",
+        "subtitle": "Countries ranked by passport strength, visa-free access, and openness score in 2025",
+        "updated_at": "December 22, 2025 11:16 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/official_passport_index_ranking.json"
+      },
+      {
         "title": "Religious Freedom Index (2024)",
         "subtitle": "Global ranking of countries based on their level of religious freedom in 2024",
         "updated_at": "November 05, 2025 10:31 AM UTC",
