@@ -1,0 +1,775 @@
+{
+  "title": "Most Common last names by Country",
+  "subtitle": "The most frequently occurring family names in each country",
+  "updated_at": "December 23, 2025 10:00 AM UTC",
+  "data": [
+    {
+      "country": "Afghanistan",
+      "last_name": "Muhammadi"
+    },
+    {
+      "country": "Albania",
+      "last_name": "Hoxha"
+    },
+    {
+      "country": "Algeria",
+      "last_name": "Saidi"
+    },
+    {
+      "country": "Andorra",
+      "last_name": "Garcia"
+    },
+    {
+      "country": "Angola",
+      "last_name": "Manuel"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "last_name": "Joseph"
+    },
+    {
+      "country": "Argentina",
+      "last_name": "Gonzalez"
+    },
+    {
+      "country": "Armenia",
+      "last_name": "Grigoryan"
+    },
+    {
+      "country": "Australia",
+      "last_name": "Smith"
+    },
+    {
+      "country": "Austria",
+      "last_name": "Gruber"
+    },
+    {
+      "country": "Azerbaijan",
+      "last_name": "Mammadova"
+    },
+    {
+      "country": "Bahamas",
+      "last_name": "Rolle"
+    },
+    {
+      "country": "Bahrain",
+      "last_name": "Ali"
+    },
+    {
+      "country": "Bangladesh",
+      "last_name": "Akter"
+    },
+    {
+      "country": "Barbados",
+      "last_name": "Clarke"
+    },
+    {
+      "country": "Belarus",
+      "last_name": "Ivanov"
+    },
+    {
+      "country": "Belgium",
+      "last_name": "Peeters"
+    },
+    {
+      "country": "Belize",
+      "last_name": "Martinez"
+    },
+    {
+      "country": "Benin",
+      "last_name": "Bio"
+    },
+    {
+      "country": "Bhutan",
+      "last_name": "Dorji"
+    },
+    {
+      "country": "Bolivia",
+      "last_name": "Mamani"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "last_name": "Hodzic"
+    },
+    {
+      "country": "Botswana",
+      "last_name": "Molefe"
+    },
+    {
+      "country": "Brazil",
+      "last_name": "Da Silva"
+    },
+    {
+      "country": "Brunei",
+      "last_name": "Haji"
+    },
+    {
+      "country": "Bulgaria",
+      "last_name": "Ivanov"
+    },
+    {
+      "country": "Burundi",
+      "last_name": "Nkurunziza"
+    },
+    {
+      "country": "Cambodia",
+      "last_name": "Sok"
+    },
+    {
+      "country": "Cameroon",
+      "last_name": "Ngo"
+    },
+    {
+      "country": "Canada",
+      "last_name": "Smith"
+    },
+    {
+      "country": "Cape Verde",
+      "last_name": "Lopes"
+    },
+    {
+      "country": "Central African Republic",
+      "last_name": "Moussa"
+    },
+    {
+      "country": "Chad",
+      "last_name": "Mahamat"
+    },
+    {
+      "country": "Chile",
+      "last_name": "Gonzalez"
+    },
+    {
+      "country": "China",
+      "last_name": "Wang"
+    },
+    {
+      "country": "Colombia",
+      "last_name": "Rodriguez"
+    },
+    {
+      "country": "Costa Rica",
+      "last_name": "Rodriguez"
+    },
+    {
+      "country": "Croatia",
+      "last_name": "Horvat"
+    },
+    {
+      "country": "Cuba",
+      "last_name": "Rodriguez"
+    },
+    {
+      "country": "Cyprus",
+      "last_name": "Georgiou"
+    },
+    {
+      "country": "Czechia",
+      "last_name": "Novakova"
+    },
+    {
+      "country": "DR Congo",
+      "last_name": "Ilunga"
+    },
+    {
+      "country": "Denmark",
+      "last_name": "Jensen"
+    },
+    {
+      "country": "Djibouti",
+      "last_name": "Muhamed"
+    },
+    {
+      "country": "Dominica",
+      "last_name": "Joseph"
+    },
+    {
+      "country": "Dominican Republic",
+      "last_name": "Rodriguez"
+    },
+    {
+      "country": "Ecuador",
+      "last_name": "Garcia"
+    },
+    {
+      "country": "Egypt",
+      "last_name": "Mohamed"
+    },
+    {
+      "country": "El Salvador",
+      "last_name": "Hernandez"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "last_name": "Nguema"
+    },
+    {
+      "country": "Eritrea",
+      "last_name": "Ali"
+    },
+    {
+      "country": "Estonia",
+      "last_name": "Tamm"
+    },
+    {
+      "country": "Eswatini",
+      "last_name": "Dlamini"
+    },
+    {
+      "country": "Ethiopia",
+      "last_name": "Tesfaye"
+    },
+    {
+      "country": "Fiji",
+      "last_name": "Kumar"
+    },
+    {
+      "country": "Finland",
+      "last_name": "Korhonen"
+    },
+    {
+      "country": "France",
+      "last_name": "Martin"
+    },
+    {
+      "country": "Gabon",
+      "last_name": "Ndong"
+    },
+    {
+      "country": "Gambia",
+      "last_name": "Jallow"
+    },
+    {
+      "country": "Georgia",
+      "last_name": "Beridze"
+    },
+    {
+      "country": "Germany",
+      "last_name": "Muller"
+    },
+    {
+      "country": "Ghana",
+      "last_name": "Mensah"
+    },
+    {
+      "country": "Greece",
+      "last_name": "Papadopolous"
+    },
+    {
+      "country": "Grenada",
+      "last_name": "Charles"
+    },
+    {
+      "country": "Guatemala",
+      "last_name": "Lopez"
+    },
+    {
+      "country": "Guinea",
+      "last_name": "Diallo"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "last_name": "Gomes"
+    },
+    {
+      "country": "Guyana",
+      "last_name": "Persaud"
+    },
+    {
+      "country": "Haiti",
+      "last_name": "Jean"
+    },
+    {
+      "country": "Honduras",
+      "last_name": "Hernandez"
+    },
+    {
+      "country": "Hungary",
+      "last_name": "Nagy"
+    },
+    {
+      "country": "Iceland",
+      "last_name": "Jonsdottir"
+    },
+    {
+      "country": "India",
+      "last_name": "Devi"
+    },
+    {
+      "country": "Indonesia",
+      "last_name": "Sari"
+    },
+    {
+      "country": "Iran",
+      "last_name": "Mohammadi"
+    },
+    {
+      "country": "Iraq",
+      "last_name": "Mohamed"
+    },
+    {
+      "country": "Ireland",
+      "last_name": "Murphy"
+    },
+    {
+      "country": "Israel",
+      "last_name": "Cohen"
+    },
+    {
+      "country": "Italy",
+      "last_name": "Rossi"
+    },
+    {
+      "country": "Ivory Coast",
+      "last_name": "Kone"
+    },
+    {
+      "country": "Jamaica",
+      "last_name": "Brown"
+    },
+    {
+      "country": "Japan",
+      "last_name": "Sato"
+    },
+    {
+      "country": "Jordan",
+      "last_name": "Allah"
+    },
+    {
+      "country": "Kazakhstan",
+      "last_name": "Kim"
+    },
+    {
+      "country": "Kenya",
+      "last_name": "Mwangi"
+    },
+    {
+      "country": "Kiribati",
+      "last_name": "Ioane"
+    },
+    {
+      "country": "Kuwait",
+      "last_name": "Ali"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "last_name": "Ismailova"
+    },
+    {
+      "country": "Laos",
+      "last_name": "Inthavong"
+    },
+    {
+      "country": "Latvia",
+      "last_name": "Berzins"
+    },
+    {
+      "country": "Lebanon",
+      "last_name": "El Din"
+    },
+    {
+      "country": "Lesotho",
+      "last_name": "Mohapi"
+    },
+    {
+      "country": "Liberia",
+      "last_name": "Kollie"
+    },
+    {
+      "country": "Libya",
+      "last_name": "Ali"
+    },
+    {
+      "country": "Liechtenstein",
+      "last_name": "Buchel"
+    },
+    {
+      "country": "Lithuania",
+      "last_name": "Kazlauskas"
+    },
+    {
+      "country": "Luxembourg",
+      "last_name": "Schmit"
+    },
+    {
+      "country": "Madagascar",
+      "last_name": "Rakotomalala"
+    },
+    {
+      "country": "Malawi",
+      "last_name": "Banda"
+    },
+    {
+      "country": "Malaysia",
+      "last_name": "Tan"
+    },
+    {
+      "country": "Maldives",
+      "last_name": "Mohamed"
+    },
+    {
+      "country": "Mali",
+      "last_name": "Traore"
+    },
+    {
+      "country": "Malta",
+      "last_name": "Borg"
+    },
+    {
+      "country": "Marshall Islands",
+      "last_name": "John"
+    },
+    {
+      "country": "Mauritania",
+      "last_name": "Ba"
+    },
+    {
+      "country": "Mauritius",
+      "last_name": "Beeharry"
+    },
+    {
+      "country": "Mexico",
+      "last_name": "Hernandez"
+    },
+    {
+      "country": "Micronesia",
+      "last_name": "Mori"
+    },
+    {
+      "country": "Moldova",
+      "last_name": "Rusu"
+    },
+    {
+      "country": "Monaco",
+      "last_name": "Rossi"
+    },
+    {
+      "country": "Mongolia",
+      "last_name": "Ganbold"
+    },
+    {
+      "country": "Montenegro",
+      "last_name": "Popovic"
+    },
+    {
+      "country": "Morocco",
+      "last_name": "Alaoui"
+    },
+    {
+      "country": "Mozambique",
+      "last_name": "Langa"
+    },
+    {
+      "country": "Myanmar",
+      "last_name": "Maung"
+    },
+    {
+      "country": "Namibia",
+      "last_name": "Johannes"
+    },
+    {
+      "country": "Nauru",
+      "last_name": "Harris"
+    },
+    {
+      "country": "Nepal",
+      "last_name": "Caudhari"
+    },
+    {
+      "country": "Netherlands",
+      "last_name": "De Jong"
+    },
+    {
+      "country": "New Zealand",
+      "last_name": "Smith"
+    },
+    {
+      "country": "Nicaragua",
+      "last_name": "Lopez"
+    },
+    {
+      "country": "Niger",
+      "last_name": "Abdou"
+    },
+    {
+      "country": "Nigeria",
+      "last_name": "Ibrahim"
+    },
+    {
+      "country": "North Korea",
+      "last_name": "Kim"
+    },
+    {
+      "country": "North Macedonia",
+      "last_name": "Stojanovski"
+    },
+    {
+      "country": "Norway",
+      "last_name": "Hansen"
+    },
+    {
+      "country": "Oman",
+      "last_name": "Al Balushi"
+    },
+    {
+      "country": "Pakistan",
+      "last_name": "Khan"
+    },
+    {
+      "country": "Palau",
+      "last_name": "Tellei"
+    },
+    {
+      "country": "Palestine",
+      "last_name": "Awad"
+    },
+    {
+      "country": "Panama",
+      "last_name": "Rodriguez"
+    },
+    {
+      "country": "Papua New Guinea",
+      "last_name": "John"
+    },
+    {
+      "country": "Paraguay",
+      "last_name": "Gonzalez"
+    },
+    {
+      "country": "Peru",
+      "last_name": "Quispe"
+    },
+    {
+      "country": "Philippines",
+      "last_name": "Dela Cruz"
+    },
+    {
+      "country": "Poland",
+      "last_name": "Nowak"
+    },
+    {
+      "country": "Portugal",
+      "last_name": "Silva"
+    },
+    {
+      "country": "Qatar",
+      "last_name": "Khan"
+    },
+    {
+      "country": "Republic of the Congo",
+      "last_name": "Ngoma"
+    },
+    {
+      "country": "Romania",
+      "last_name": "Popa"
+    },
+    {
+      "country": "Russia",
+      "last_name": "Ivanova"
+    },
+    {
+      "country": "Rwanda",
+      "last_name": "Uwimana"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "last_name": "Williams"
+    },
+    {
+      "country": "Saint Lucia",
+      "last_name": "Joseph"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "last_name": "Williams"
+    },
+    {
+      "country": "San Marino",
+      "last_name": "Gasperoni"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "last_name": "Fernandes"
+    },
+    {
+      "country": "Saudi Arabia",
+      "last_name": "Khan"
+    },
+    {
+      "country": "Senegal",
+      "last_name": "Ndiaye"
+    },
+    {
+      "country": "Serbia",
+      "last_name": "Jovanovic"
+    },
+    {
+      "country": "Seychelles",
+      "last_name": "Hoareau"
+    },
+    {
+      "country": "Sierra Leone",
+      "last_name": "Kamara"
+    },
+    {
+      "country": "Singapore",
+      "last_name": "Tan"
+    },
+    {
+      "country": "Slovakia",
+      "last_name": "Varga"
+    },
+    {
+      "country": "Slovenia",
+      "last_name": "Novak"
+    },
+    {
+      "country": "Solomon Islands",
+      "last_name": "Mae"
+    },
+    {
+      "country": "Somalia",
+      "last_name": "Ali"
+    },
+    {
+      "country": "South Africa",
+      "last_name": "Nkosi"
+    },
+    {
+      "country": "South Sudan",
+      "last_name": "Deng"
+    },
+    {
+      "country": "Spain",
+      "last_name": "Garcia"
+    },
+    {
+      "country": "Sri Lanka",
+      "last_name": "Perara"
+    },
+    {
+      "country": "Sudan",
+      "last_name": "Ahmed"
+    },
+    {
+      "country": "Suriname",
+      "last_name": "Lin"
+    },
+    {
+      "country": "Sweden",
+      "last_name": "Andersson"
+    },
+    {
+      "country": "Switzerland",
+      "last_name": "Muller"
+    },
+    {
+      "country": "Syria",
+      "last_name": "Khaled"
+    },
+    {
+      "country": "Taiwan",
+      "last_name": "Chen"
+    },
+    {
+      "country": "Tajikistan",
+      "last_name": "Sharipov"
+    },
+    {
+      "country": "Tanzania",
+      "last_name": "Juma"
+    },
+    {
+      "country": "Thailand",
+      "last_name": "Saetang"
+    },
+    {
+      "country": "Timor-Leste",
+      "last_name": "Soares"
+    },
+    {
+      "country": "Togo",
+      "last_name": "Lawson"
+    },
+    {
+      "country": "Tonga",
+      "last_name": "Latu"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "last_name": "Mohammed"
+    },
+    {
+      "country": "Tunisia",
+      "last_name": "Trabelsi"
+    },
+    {
+      "country": "Turkey",
+      "last_name": "Yilmaz"
+    },
+    {
+      "country": "Turkmenistan",
+      "last_name": "Mamedova"
+    },
+    {
+      "country": "Tuvalu",
+      "last_name": "Apinelu"
+    },
+    {
+      "country": "Uganda",
+      "last_name": "Akello"
+    },
+    {
+      "country": "Ukraine",
+      "last_name": "Melnik"
+    },
+    {
+      "country": "United Arab Emirates",
+      "last_name": "Ali"
+    },
+    {
+      "country": "United Kingdom",
+      "last_name": "Smith"
+    },
+    {
+      "country": "United States",
+      "last_name": "Smith"
+    },
+    {
+      "country": "Uruguay",
+      "last_name": "Rodriguez"
+    },
+    {
+      "country": "Uzbekistan",
+      "last_name": "Kim"
+    },
+    {
+      "country": "Vanuatu",
+      "last_name": "Tari"
+    },
+    {
+      "country": "Vatican City",
+      "last_name": "Bachmann"
+    },
+    {
+      "country": "Venezuela",
+      "last_name": "Gonzalez"
+    },
+    {
+      "country": "Vietnam",
+      "last_name": "Nguyen"
+    },
+    {
+      "country": "Yemen",
+      "last_name": "Mohamed"
+    },
+    {
+      "country": "Zambia",
+      "last_name": "Phiri"
+    },
+    {
+      "country": "Zimbabwe",
+      "last_name": "Moyo"
+    }
+  ]
+}
