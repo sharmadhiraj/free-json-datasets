@@ -1,0 +1,231 @@
+{
+  "title": "Largest Protected Areas in the World",
+  "subtitle": "Protected areas worldwide with a surface area exceeding 250,000 square kilometres",
+  "updated_at": "December 23, 2025 11:26 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "protected_area": "Marae Moana",
+      "country": "Cook Islands",
+      "location": "Cook Islands",
+      "area_km2": "1,976,000",
+      "year_established": "2017"
+    },
+    {
+      "rank": "2",
+      "protected_area": "French Southern Territories National Nature Reserve",
+      "country": "France",
+      "location": "French Southern and Antarctic Lands",
+      "area_km2": "1,600,000",
+      "year_established": "2016"
+    },
+    {
+      "rank": "3",
+      "protected_area": "Ross Sea Region Marine Protected Area",
+      "country": "Antarctica",
+      "location": "Ross Sea",
+      "area_km2": "1,550,000",
+      "year_established": "2016"
+    },
+    {
+      "rank": "4",
+      "protected_area": "Papahānaumokuākea Marine National Monument",
+      "country": "United States",
+      "location": "Hawaii and Midway Atoll",
+      "area_km2": "1,508,846",
+      "year_established": "2006"
+    },
+    {
+      "rank": "5",
+      "protected_area": "Natural Park of the Coral Sea",
+      "country": "France",
+      "location": "New Caledonia",
+      "area_km2": "1,292,967",
+      "year_established": "2014"
+    },
+    {
+      "rank": "6",
+      "protected_area": "Pacific Islands Heritage Marine National Monument",
+      "country": "United States",
+      "location": "Central Pacific Ocean",
+      "area_km2": "1,270,480",
+      "year_established": "2009"
+    },
+    {
+      "rank": "7",
+      "protected_area": "South Georgia Marine Protected Area",
+      "country": "United Kingdom",
+      "location": "South Georgia and the South Sandwich Islands",
+      "area_km2": "1,240,000",
+      "year_established": "2012"
+    },
+    {
+      "rank": "8",
+      "protected_area": "Coral Sea Marine Park",
+      "country": "Australia",
+      "location": "Coral Sea",
+      "area_km2": "989,836",
+      "year_established": "2018"
+    },
+    {
+      "rank": "9",
+      "protected_area": "Protection zone around the French Southern Territories National Nature Reserve",
+      "country": "France",
+      "location": "French Southern and Antarctic Lands",
+      "area_km2": "989,787",
+      "year_established": "2017"
+    },
+    {
+      "rank": "10",
+      "protected_area": "Northeast Greenland National Park",
+      "country": "Greenland",
+      "location": "Northeast Greenland",
+      "area_km2": "972,000",
+      "year_established": "1974"
+    },
+    {
+      "rank": "11",
+      "protected_area": "Steller Sea Lion Protection Areas",
+      "country": "United States",
+      "location": "Alaska",
+      "area_km2": "869,206",
+      "year_established": "2002"
+    },
+    {
+      "rank": "12",
+      "protected_area": "Pitcairn Islands Marine Reserve",
+      "country": "United Kingdom",
+      "location": "Pitcairn Islands",
+      "area_km2": "834,334",
+      "year_established": "2016"
+    },
+    {
+      "rank": "13",
+      "protected_area": "British Indian Ocean Territory Marine Protected Area",
+      "country": "United Kingdom",
+      "location": "British Indian Ocean Territory (disputed by Mauritius)",
+      "area_km2": "640,000",
+      "year_established": "2010"
+    },
+    {
+      "rank": "14",
+      "protected_area": "Rapa Nui Marine and Coastal Protected Area",
+      "country": "Chile",
+      "location": "Rapa Nui",
+      "area_km2": "579,368",
+      "year_established": "2018"
+    },
+    {
+      "rank": "15",
+      "protected_area": "Palau National Marine Sanctuary",
+      "country": "Palau",
+      "location": "Palau",
+      "area_km2": "502,538",
+      "year_established": "2015"
+    },
+    {
+      "rank": "16",
+      "protected_area": "Kermadec Benthic Protection Area",
+      "country": "New Zealand",
+      "location": "Kermadec Islands",
+      "area_km2": "469,276",
+      "year_established": "2007"
+    },
+    {
+      "rank": "17",
+      "protected_area": "Ascension Exclusive Economic Zone",
+      "country": "United Kingdom",
+      "location": "Ascension Island",
+      "area_km2": "440,000",
+      "year_established": "2019"
+    },
+    {
+      "rank": "18",
+      "protected_area": "Phoenix Islands Protected Area",
+      "country": "Kiribati",
+      "location": "Phoenix Islands",
+      "area_km2": "408,250",
+      "year_established": "2006"
+    },
+    {
+      "rank": "19",
+      "protected_area": "Trindade and Martin Vaz Archipelago Environmental Protection Area",
+      "country": "Brazil",
+      "location": "Trindade and Martin Vaz",
+      "area_km2": "403,848",
+      "year_established": "2018"
+    },
+    {
+      "rank": "20",
+      "protected_area": "Pacific Biosphere Reserve",
+      "country": "Mexico",
+      "location": "Eastern Pacific Ocean",
+      "area_km2": "390,091",
+      "year_established": "2016"
+    },
+    {
+      "rank": "21",
+      "protected_area": "Saint Peter and Saint Paul Archipelago Environmental Protection Area",
+      "country": "Brazil",
+      "location": "Saint Peter and Saint Paul Archipelago",
+      "area_km2": "384,565",
+      "year_established": "2018"
+    },
+    {
+      "rank": "22",
+      "protected_area": "Great Barrier Reef Marine Park",
+      "country": "Australia",
+      "location": "Great Barrier Reef",
+      "area_km2": "348,700",
+      "year_established": "1981"
+    },
+    {
+      "rank": "23",
+      "protected_area": "Offshore Trap/Pot Waters Area",
+      "country": "United States",
+      "location": "Western Atlantic Ocean",
+      "area_km2": "336,101",
+      "year_established": "1997"
+    },
+    {
+      "rank": "24",
+      "protected_area": "Tuvaijuittuq Marine Protected Area",
+      "country": "Canada",
+      "location": "Ellesmere Island",
+      "area_km2": "319,411",
+      "year_established": "2019"
+    },
+    {
+      "rank": "25",
+      "protected_area": "Nazca-Desventuradas Marine Park",
+      "country": "Chile",
+      "location": "Desventuradas Islands",
+      "area_km2": "300,035",
+      "year_established": "2016"
+    },
+    {
+      "rank": "26",
+      "protected_area": "Cerrado Biosphere Reserve",
+      "country": "Brazil",
+      "location": "Goiás, Maranhão, Piauí, Tocantins, and Federal District",
+      "area_km2": "296,525",
+      "year_established": "1994"
+    },
+    {
+      "rank": "27",
+      "protected_area": "Atlantic Forest Biosphere Reserve",
+      "country": "Brazil",
+      "location": "Atlantic Forest (15 states)",
+      "area_km2": "294,734",
+      "year_established": "1993"
+    },
+    {
+      "rank": "28",
+      "protected_area": "Pantanal Biosphere Reserve",
+      "country": "Brazil",
+      "location": "Goiás, Mato Grosso, and Mato Grosso do Sul",
+      "area_km2": "251,569",
+      "year_established": "2000"
+    }
+  ]
+}

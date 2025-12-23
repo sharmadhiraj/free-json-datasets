@@ -229,6 +229,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/largest_deserts_in_the_world.json"
       },
       {
+        "title": "Largest Protected Areas in the World",
+        "subtitle": "Protected areas worldwide with a surface area exceeding 250,000 square kilometres",
+        "updated_at": "December 23, 2025 11:26 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/largest_protected_areas.json"
+      },
+      {
         "title": "Countries by Forest Area",
         "subtitle": "Forest area by country, measured in thousand hectares across selected years.",
         "updated_at": "November 26, 2025 10:48 AM UTC",

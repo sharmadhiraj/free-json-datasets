@@ -118,6 +118,8 @@ Each dataset follows this JSON format:
   Tonnes, per capita, per GDP, and share of world emissions
 - [**World’s Major Deserts by Area (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/largest_deserts_in_the_world.json)  
   List of the largest deserts and their sizes in 2025
+- [**Largest Protected Areas in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/largest_protected_areas.json)  
+  Protected areas worldwide with a surface area exceeding 250,000 square kilometres
 - [**Countries by Forest Area**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_countries_by_forest_area.json)  
   Forest area by country, measured in thousand hectares across selected years.
 - [**Countries by Length of Coastline**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/geography-environment/list_of_countries_by_length_of_coastline.json)  
