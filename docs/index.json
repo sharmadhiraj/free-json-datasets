@@ -305,6 +305,12 @@
     "category": "History & Culture",
     "datasets": [
       {
+        "title": "Timeline of Ancient History",
+        "subtitle": "Key historical eras and notable events from the beginning of recorded history to the Early Middle Ages",
+        "updated_at": "December 23, 2025 10:29 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/history-culture/timeline_of_ancient_history.json"
+      },
+      {
         "title": "UNESCO World Heritage Sites by Country",
         "subtitle": "Country-wise count of cultural, natural, and mixed UNESCO World Heritage Sites",
         "updated_at": "December 09, 2025 12:51 PM UTC",

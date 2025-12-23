@@ -146,6 +146,8 @@ Each dataset follows this JSON format:
 
 ### History & Culture
 
+- [**Timeline of Ancient History**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/history-culture/timeline_of_ancient_history.json)  
+  Key historical eras and notable events from the beginning of recorded history to the Early Middle Ages
 - [**UNESCO World Heritage Sites by Country**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/history-culture/world_heritage_sites_by_country.json)  
   Country-wise count of cultural, natural, and mixed UNESCO World Heritage Sites
 
