@@ -253,6 +253,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_highest_mountains_on_earth.json"
       },
       {
+        "title": "Largest Islands in the World by Area",
+        "subtitle": "Ranked list of the world's islands larger than 1,000 square kilometers, including area and political divisions.",
+        "updated_at": "December 23, 2025 11:46 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_islands_by_area.json"
+      },
+      {
         "title": "Largest Lakes by Surface Area",
         "subtitle": "Major terrestrial lakes over 3,000 km², ranked by area.",
         "updated_at": "December 08, 2025 05:09 AM UTC",

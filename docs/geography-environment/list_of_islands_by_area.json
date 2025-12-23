@@ -1,0 +1,2977 @@
+{
+  "title": "Largest Islands in the World by Area",
+  "subtitle": "Ranked list of the world's islands larger than 1,000 square kilometers, including area and political divisions.",
+  "updated_at": "December 23, 2025 11:46 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "island_name": "Greenland(Kalaallit Nunaat)(main island)",
+      "area_km2": "2,130,800",
+      "area_sq_miles": "822,700",
+      "sovereign_states": "Denmark",
+      "subnational_divisions": "Greenland",
+      "notes": "The largest island in the world."
+    },
+    {
+      "rank": "2",
+      "island_name": "New Guinea",
+      "area_km2": "785,753",
+      "area_sq_miles": "303,381",
+      "sovereign_states": "IndonesiaPapua New Guinea",
+      "subnational_divisions": "Papua and Central, Highland, South, West, and Southwest PapuaHighlands, Momase, and Southern regions",
+      "notes": ""
+    },
+    {
+      "rank": "3",
+      "island_name": "Borneo",
+      "area_km2": "748,168",
+      "area_sq_miles": "288,869",
+      "sovereign_states": "BruneiIndonesiaMalaysia",
+      "subnational_divisions": "—Central, East, North, South, and West KalimantanSabah and Sarawak",
+      "notes": ""
+    },
+    {
+      "rank": "4",
+      "island_name": "Madagascar(main island)",
+      "area_km2": "587,041",
+      "area_sq_miles": "226,658",
+      "sovereign_states": "Madagascar",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "5",
+      "island_name": "Baffin Island",
+      "area_km2": "507,451",
+      "area_sq_miles": "195,928",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": "The largest island in Canada and the Arctic Archipelago."
+    },
+    {
+      "rank": "6",
+      "island_name": "Sumatra",
+      "area_km2": "443,065",
+      "area_sq_miles": "171,068",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Aceh, Bengkulu, Jambi, Lampung, Riau, North, South, and West Sumatra",
+      "notes": ""
+    },
+    {
+      "rank": "7",
+      "island_name": "Honshu",
+      "area_km2": "227,938",
+      "area_sq_miles": "88,007",
+      "sovereign_states": "Japan",
+      "subnational_divisions": "Chūbu, Chūgoku, Kansai, Kantō, and Tōhoku regions",
+      "notes": ""
+    },
+    {
+      "rank": "8",
+      "island_name": "Victoria Island",
+      "area_km2": "217,291",
+      "area_sq_miles": "83,897",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Northwest Territories and Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "9",
+      "island_name": "Great Britain",
+      "area_km2": "209,331",
+      "area_sq_miles": "80,823",
+      "sovereign_states": "United Kingdom",
+      "subnational_divisions": "England, Scotland, and Wales",
+      "notes": ""
+    },
+    {
+      "rank": "10",
+      "island_name": "Ellesmere Island",
+      "area_km2": "196,236",
+      "area_sq_miles": "75,767",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "11",
+      "island_name": "Sulawesi",
+      "area_km2": "180,681",
+      "area_sq_miles": "69,761",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Gorontalo, Central, North, South, Southeast, and West Sulawesi",
+      "notes": ""
+    },
+    {
+      "rank": "12",
+      "island_name": "South Island(Te Waipounamu)",
+      "area_km2": "145,836",
+      "area_sq_miles": "56,308",
+      "sovereign_states": "New Zealand",
+      "subnational_divisions": "Nelson, Tasman, Marlborough, West Coast, Canterbury, Otago, and Southland",
+      "notes": ""
+    },
+    {
+      "rank": "13",
+      "island_name": "Java",
+      "area_km2": "138,794",
+      "area_sq_miles": "53,589",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Banten, Jakarta, Yogyakarta, Central, East, and West Java",
+      "notes": ""
+    },
+    {
+      "rank": "14",
+      "island_name": "North Island(Te Ika-a-Māui)",
+      "area_km2": "111,583",
+      "area_sq_miles": "43,082",
+      "sovereign_states": "New Zealand",
+      "subnational_divisions": "Auckland, Bay of Plenty, Gisborne, Hawke's Bay, Manawatū–Whanganui, Northland, Taranaki, Waikato, and Wellington regions",
+      "notes": ""
+    },
+    {
+      "rank": "15",
+      "island_name": "Luzon(main island)",
+      "area_km2": "109,965",
+      "area_sq_miles": "42,458",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Bicol, Cagayan Valley, Calabarzon, Central Luzon, Cordillera, Ilocos, and Metro Manila",
+      "notes": ""
+    },
+    {
+      "rank": "16",
+      "island_name": "Newfoundland",
+      "area_km2": "108,860",
+      "area_sq_miles": "42,030",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Newfoundland and Labrador",
+      "notes": ""
+    },
+    {
+      "rank": "17",
+      "island_name": "Cuba(main island)",
+      "area_km2": "105,806",
+      "area_sq_miles": "40,852",
+      "sovereign_states": "Cuba",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "18",
+      "island_name": "Iceland(main island)",
+      "area_km2": "101,826",
+      "area_sq_miles": "39,315",
+      "sovereign_states": "Iceland",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "19",
+      "island_name": "Mindanao(main island)",
+      "area_km2": "97,530",
+      "area_sq_miles": "37,660",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Caraga, Davao, Bangsamoro, Northern Mindanao, Soccsksargen, and Zamboanga Peninsula",
+      "notes": ""
+    },
+    {
+      "rank": "20",
+      "island_name": "Ireland",
+      "area_km2": "84,421",
+      "area_sq_miles": "32,595",
+      "sovereign_states": "Republic of IrelandUnited Kingdom",
+      "subnational_divisions": "Northern Ireland",
+      "notes": ""
+    },
+    {
+      "rank": "21",
+      "island_name": "Hokkaido",
+      "area_km2": "77,982",
+      "area_sq_miles": "30,109",
+      "sovereign_states": "Japan",
+      "subnational_divisions": "Hokkaido",
+      "notes": ""
+    },
+    {
+      "rank": "22",
+      "island_name": "Hispaniola",
+      "area_km2": "73,929",
+      "area_sq_miles": "28,544",
+      "sovereign_states": "Dominican RepublicHaiti",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "23",
+      "island_name": "Sakhalin",
+      "area_km2": "72,493",
+      "area_sq_miles": "27,990",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakhalin Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "24",
+      "island_name": "Banks Island",
+      "area_km2": "70,028",
+      "area_sq_miles": "27,038",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Northwest Territories",
+      "notes": ""
+    },
+    {
+      "rank": "25",
+      "island_name": "Sri Lanka(main island)",
+      "area_km2": "65,268",
+      "area_sq_miles": "25,200",
+      "sovereign_states": "Sri Lanka",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "26",
+      "island_name": "Tasmania(main island)",
+      "area_km2": "65,022",
+      "area_sq_miles": "25,105",
+      "sovereign_states": "Australia",
+      "subnational_divisions": "Tasmania",
+      "notes": ""
+    },
+    {
+      "rank": "27",
+      "island_name": "Devon Island",
+      "area_km2": "55,247",
+      "area_sq_miles": "21,331",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": "The largest uninhabited island in the world."
+    },
+    {
+      "rank": "28",
+      "island_name": "Alexander Island",
+      "area_km2": "49,070",
+      "area_sq_miles": "18,950",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": ""
+    },
+    {
+      "rank": "29",
+      "island_name": "Isla Grande de Tierra del Fuego",
+      "area_km2": "47,992",
+      "area_sq_miles": "18,530",
+      "sovereign_states": "ArgentinaChile",
+      "subnational_divisions": "Tierra del Fuego ProvinceMagallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "30",
+      "island_name": "Severny Island(northern Novaya Zemlya)",
+      "area_km2": "47,079",
+      "area_sq_miles": "18,177",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Arkhangelsk Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "31",
+      "island_name": "Berkner Island",
+      "area_km2": "43,873",
+      "area_sq_miles": "16,939",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Argentina (partial), Chile, and the United Kingdom."
+    },
+    {
+      "rank": "32",
+      "island_name": "Axel Heiberg Island",
+      "area_km2": "43,178",
+      "area_sq_miles": "16,671",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "33",
+      "island_name": "Melville Island",
+      "area_km2": "42,149",
+      "area_sq_miles": "16,274",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Northwest Territories and Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "34",
+      "island_name": "Southampton Island",
+      "area_km2": "41,214",
+      "area_sq_miles": "15,913",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "35",
+      "island_name": "Marajó",
+      "area_km2": "40,100",
+      "area_sq_miles": "15,500",
+      "sovereign_states": "Brazil",
+      "subnational_divisions": "Pará",
+      "notes": ""
+    },
+    {
+      "rank": "36",
+      "island_name": "Spitsbergen",
+      "area_km2": "38,981",
+      "area_sq_miles": "15,051",
+      "sovereign_states": "Norway",
+      "subnational_divisions": "Svalbard",
+      "notes": ""
+    },
+    {
+      "rank": "37",
+      "island_name": "Kyushu",
+      "area_km2": "36,782",
+      "area_sq_miles": "14,202",
+      "sovereign_states": "Japan",
+      "subnational_divisions": "Kyūshū",
+      "notes": ""
+    },
+    {
+      "rank": "38",
+      "island_name": "New Britain",
+      "area_km2": "35,145",
+      "area_sq_miles": "13,570",
+      "sovereign_states": "Papua New Guinea",
+      "subnational_divisions": "East and West New Britain Provinces",
+      "notes": ""
+    },
+    {
+      "rank": "39",
+      "island_name": "Taiwan(main island)",
+      "area_km2": "34,507",
+      "area_sq_miles": "13,323",
+      "sovereign_states": "Disputed, see Political status of Taiwan",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "40",
+      "island_name": "Prince of Wales Island",
+      "area_km2": "33,339",
+      "area_sq_miles": "12,872",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "41",
+      "island_name": "Yuzhny Island(southern Novaya Zemlya)",
+      "area_km2": "33,246",
+      "area_sq_miles": "12,836",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Arkhangelsk",
+      "notes": ""
+    },
+    {
+      "rank": "42",
+      "island_name": "Hainan(main island)",
+      "area_km2": "33,210",
+      "area_sq_miles": "12,820",
+      "sovereign_states": "China",
+      "subnational_divisions": "Hainan",
+      "notes": ""
+    },
+    {
+      "rank": "43",
+      "island_name": "Vancouver Island",
+      "area_km2": "31,285",
+      "area_sq_miles": "12,079",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "British Columbia",
+      "notes": ""
+    },
+    {
+      "rank": "44",
+      "island_name": "Timor",
+      "area_km2": "28,418",
+      "area_sq_miles": "10,972",
+      "sovereign_states": "East TimorIndonesia",
+      "subnational_divisions": "East Nusa Tenggara",
+      "notes": ""
+    },
+    {
+      "rank": "45",
+      "island_name": "Sicily",
+      "area_km2": "25,711",
+      "area_sq_miles": "9,927",
+      "sovereign_states": "Italy",
+      "subnational_divisions": "Sicily",
+      "notes": ""
+    },
+    {
+      "rank": "46",
+      "island_name": "Somerset Island",
+      "area_km2": "24,786",
+      "area_sq_miles": "9,570",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "47",
+      "island_name": "Kotelny Island",
+      "area_km2": "24,000",
+      "area_sq_miles": "9,300",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakha Republic",
+      "notes": ""
+    },
+    {
+      "rank": "48",
+      "island_name": "Sardinia",
+      "area_km2": "23,949",
+      "area_sq_miles": "9,247",
+      "sovereign_states": "Italy",
+      "subnational_divisions": "Sardinia",
+      "notes": ""
+    },
+    {
+      "rank": "49",
+      "island_name": "Bananal Island",
+      "area_km2": "20,000",
+      "area_sq_miles": "7,398",
+      "sovereign_states": "Brazil",
+      "subnational_divisions": "Tocantins",
+      "notes": ""
+    },
+    {
+      "rank": "50",
+      "island_name": "Shikoku",
+      "area_km2": "18,296",
+      "area_sq_miles": "7,064",
+      "sovereign_states": "Japan",
+      "subnational_divisions": "Shikoku",
+      "notes": ""
+    },
+    {
+      "rank": "51",
+      "island_name": "Halmahera",
+      "area_km2": "18,040",
+      "area_sq_miles": "6,970",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "North Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "52",
+      "island_name": "Seram Island",
+      "area_km2": "17,454",
+      "area_sq_miles": "6,739",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "53",
+      "island_name": "Grande Terre",
+      "area_km2": "16,648",
+      "area_sq_miles": "6,428",
+      "sovereign_states": "France",
+      "subnational_divisions": "New Caledonia",
+      "notes": "Sui generis collectivity."
+    },
+    {
+      "rank": "54",
+      "island_name": "Bathurst Island",
+      "area_km2": "16,042",
+      "area_sq_miles": "6,194",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "55",
+      "island_name": "Prince Patrick Island",
+      "area_km2": "15,848",
+      "area_sq_miles": "6,119",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Northwest Territories",
+      "notes": ""
+    },
+    {
+      "rank": "56",
+      "island_name": "Thurston Island",
+      "area_km2": "15,700",
+      "area_sq_miles": "6,100",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Unclaimed island."
+    },
+    {
+      "rank": "57",
+      "island_name": "Nordaustlandet",
+      "area_km2": "14,467",
+      "area_sq_miles": "5,586",
+      "sovereign_states": "Norway",
+      "subnational_divisions": "Svalbard",
+      "notes": ""
+    },
+    {
+      "rank": "58",
+      "island_name": "Sumbawa",
+      "area_km2": "14,386",
+      "area_sq_miles": "5,554",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "West Nusa Tenggara",
+      "notes": ""
+    },
+    {
+      "rank": "59",
+      "island_name": "October Revolution Island",
+      "area_km2": "14,204",
+      "area_sq_miles": "5,484",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Krasnoyarsk Krai",
+      "notes": ""
+    },
+    {
+      "rank": "60",
+      "island_name": "Flores",
+      "area_km2": "14,154",
+      "area_sq_miles": "5,465",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "East Nusa Tenggara",
+      "notes": ""
+    },
+    {
+      "rank": "61",
+      "island_name": "Delmarva",
+      "area_km2": "13,884",
+      "area_sq_miles": "5,361",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Maryland, Delaware, Virginia",
+      "notes": "Peninsula separated from continent by channel; USGS counts it as island."
+    },
+    {
+      "rank": "62",
+      "island_name": "King William Island",
+      "area_km2": "13,111",
+      "area_sq_miles": "5,062",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "63",
+      "island_name": "Negros",
+      "area_km2": "13,075",
+      "area_sq_miles": "5,048",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Negros Island Region",
+      "notes": ""
+    },
+    {
+      "rank": "64",
+      "island_name": "Samar",
+      "area_km2": "12,849",
+      "area_sq_miles": "4,961",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Eastern Visayas",
+      "notes": ""
+    },
+    {
+      "rank": "65",
+      "island_name": "Palawan",
+      "area_km2": "12,189",
+      "area_sq_miles": "4,706",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Mimaropa",
+      "notes": ""
+    },
+    {
+      "rank": "66",
+      "island_name": "Panay",
+      "area_km2": "12,011",
+      "area_sq_miles": "4,637",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Western Visayas",
+      "notes": ""
+    },
+    {
+      "rank": "67",
+      "island_name": "Yos Sudarso Island(Dolok)",
+      "area_km2": "11,742",
+      "area_sq_miles": "4,534",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Papua",
+      "notes": ""
+    },
+    {
+      "rank": "68",
+      "island_name": "Bangka Island",
+      "area_km2": "11,413",
+      "area_sq_miles": "4,407",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Bangka Belitung Islands",
+      "notes": ""
+    },
+    {
+      "rank": "69",
+      "island_name": "Ellef Ringnes Island",
+      "area_km2": "11,295",
+      "area_sq_miles": "4,361",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "70",
+      "island_name": "Bolshevik Island",
+      "area_km2": "11,206",
+      "area_sq_miles": "4,327",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Krasnoyarsk Krai",
+      "notes": ""
+    },
+    {
+      "rank": "71",
+      "island_name": "Jamaica(main island)",
+      "area_km2": "11,190",
+      "area_sq_miles": "4,320",
+      "sovereign_states": "Jamaica",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "72",
+      "island_name": "Bylot Island",
+      "area_km2": "11,067",
+      "area_sq_miles": "4,273",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "73",
+      "island_name": "Sumba",
+      "area_km2": "10,711",
+      "area_sq_miles": "4,136",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "East Nusa Tenggara",
+      "notes": ""
+    },
+    {
+      "rank": "74",
+      "island_name": "Mindoro",
+      "area_km2": "10,572",
+      "area_sq_miles": "4,082",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Mimaropa",
+      "notes": ""
+    },
+    {
+      "rank": "75",
+      "island_name": "Viti Levu",
+      "area_km2": "10,531",
+      "area_sq_miles": "4,066",
+      "sovereign_states": "Fiji",
+      "subnational_divisions": "Central and Western Divisions",
+      "notes": ""
+    },
+    {
+      "rank": "76",
+      "island_name": "Hawaiʻi(Big Island)",
+      "area_km2": "10,434",
+      "area_sq_miles": "4,029",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Hawaii",
+      "notes": ""
+    },
+    {
+      "rank": "77",
+      "island_name": "Cape Breton Island",
+      "area_km2": "10,311",
+      "area_sq_miles": "3,981",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nova Scotia",
+      "notes": ""
+    },
+    {
+      "rank": "78",
+      "island_name": "Prince Charles Island",
+      "area_km2": "9,521",
+      "area_sq_miles": "3,676",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "79",
+      "island_name": "Bougainville Island",
+      "area_km2": "9,318",
+      "area_sq_miles": "3,598",
+      "sovereign_states": "Papua New Guinea",
+      "subnational_divisions": "Autonomous Region of Bougainville",
+      "notes": ""
+    },
+    {
+      "rank": "80",
+      "island_name": "Kodiak Island",
+      "area_km2": "9,310",
+      "area_sq_miles": "3,595",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "81",
+      "island_name": "Cyprus(main island)",
+      "area_km2": "9,234",
+      "area_sq_miles": "3,565",
+      "sovereign_states": "Cyprus",
+      "subnational_divisions": "Akrotiri and Dhekelia",
+      "notes": "Sovereign Base Areas of the United Kingdom and Northern Cyprus. The Turkish Republic of Northern Cyprus claims and controls one third of the island of Cyprus although this is not recognised by any country except Turkey."
+    },
+    {
+      "rank": "82",
+      "island_name": "Puerto Rico(main island)",
+      "area_km2": "8,868",
+      "area_sq_miles": "3,424",
+      "sovereign_states": "Puerto Rico",
+      "subnational_divisions": "",
+      "notes": "Insular area of the United States."
+    },
+    {
+      "rank": "83",
+      "island_name": "Komsomolets Island",
+      "area_km2": "8,812",
+      "area_sq_miles": "3,402",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Krasnoyarsk Krai",
+      "notes": ""
+    },
+    {
+      "rank": "84",
+      "island_name": "Corsica",
+      "area_km2": "8,741",
+      "area_sq_miles": "3,375",
+      "sovereign_states": "France",
+      "subnational_divisions": "Corsica",
+      "notes": ""
+    },
+    {
+      "rank": "85",
+      "island_name": "Disko Island",
+      "area_km2": "8,612",
+      "area_sq_miles": "3,325",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Greenland",
+      "notes": ""
+    },
+    {
+      "rank": "86",
+      "island_name": "Carney Island",
+      "area_km2": "8,500",
+      "area_sq_miles": "3,300",
+      "sovereign_states": "",
+      "subnational_divisions": "",
+      "notes": "Unclaimed island of Antarctica."
+    },
+    {
+      "rank": "87",
+      "island_name": "Nile Delta",
+      "area_km2": "8,500",
+      "area_sq_miles": "3,300",
+      "sovereign_states": "Egypt",
+      "subnational_divisions": "several",
+      "notes": "Island in Nile Delta formed by Rosetta and Damietta distributaries of Nile River."
+    },
+    {
+      "rank": "88",
+      "island_name": "Chiloé Island",
+      "area_km2": "8,478",
+      "area_sq_miles": "3,273",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Los Lagos Region",
+      "notes": ""
+    },
+    {
+      "rank": "89",
+      "island_name": "Buru",
+      "area_km2": "8,473",
+      "area_sq_miles": "3,271",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "90",
+      "island_name": "Crete",
+      "area_km2": "8,350",
+      "area_sq_miles": "3,220",
+      "sovereign_states": "Greece",
+      "subnational_divisions": "Crete",
+      "notes": ""
+    },
+    {
+      "rank": "91",
+      "island_name": "Zeraf",
+      "area_km2": "8,000",
+      "area_sq_miles": "3,100",
+      "sovereign_states": "South Sudan",
+      "subnational_divisions": "Jonglei State",
+      "notes": "River island formed by Bahr el Jebel (White Nile) and its anabranch Bahr el Zeraf."
+    },
+    {
+      "rank": "92",
+      "island_name": "Anticosti Island",
+      "area_km2": "7,941",
+      "area_sq_miles": "3,066",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Quebec",
+      "notes": ""
+    },
+    {
+      "rank": "93",
+      "island_name": "Roosevelt Island",
+      "area_km2": "7,910",
+      "area_sq_miles": "3,050",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claim by New Zealand. Status as an island is disputed."
+    },
+    {
+      "rank": "94",
+      "island_name": "Wrangel Island(Vrangelya)",
+      "area_km2": "7,866",
+      "area_sq_miles": "3,037",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Chukotka Autonomous Okrug",
+      "notes": ""
+    },
+    {
+      "rank": "95",
+      "island_name": "Tupinambarana(western part)",
+      "area_km2": "7,700",
+      "area_sq_miles": "3,000",
+      "sovereign_states": "Brazil",
+      "subnational_divisions": "Amazonas",
+      "notes": "If taken as a fluvial or river island."
+    },
+    {
+      "rank": "96",
+      "island_name": "New Ireland",
+      "area_km2": "7,405",
+      "area_sq_miles": "2,859",
+      "sovereign_states": "Papua New Guinea",
+      "subnational_divisions": "New Ireland Province",
+      "notes": ""
+    },
+    {
+      "rank": "97",
+      "island_name": "Leyte",
+      "area_km2": "7,368",
+      "area_sq_miles": "2,845",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Eastern Visayas",
+      "notes": ""
+    },
+    {
+      "rank": "98",
+      "island_name": "East Falkland",
+      "area_km2": "7,040",
+      "area_sq_miles": "2,720",
+      "sovereign_states": "Falkland Islands",
+      "subnational_divisions": "",
+      "notes": "A British Overseas Territory administered by the United Kingdom and disputed by Argentina."
+    },
+    {
+      "rank": "99",
+      "island_name": "Zealand",
+      "area_km2": "7,031",
+      "area_sq_miles": "2,715",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Denmark, Zealand and Capital regions",
+      "notes": ""
+    },
+    {
+      "rank": "100",
+      "island_name": "Cornwallis Island",
+      "area_km2": "6,995",
+      "area_sq_miles": "2,701",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "101",
+      "island_name": "Prince of Wales Island",
+      "area_km2": "6,675",
+      "area_sq_miles": "2,577",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "102",
+      "island_name": "Grande Terre(Kerguelen)",
+      "area_km2": "6,617",
+      "area_sq_miles": "2,555",
+      "sovereign_states": "France",
+      "subnational_divisions": "French Southern and Antarctic Lands overseas territory",
+      "notes": ""
+    },
+    {
+      "rank": "103",
+      "island_name": "Siple Island",
+      "area_km2": "6,390",
+      "area_sq_miles": "2,470",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Unclaimed island."
+    },
+    {
+      "rank": "104",
+      "island_name": "Graham Island",
+      "area_km2": "6,361",
+      "area_sq_miles": "2,456",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "British Columbia",
+      "notes": ""
+    },
+    {
+      "rank": "105",
+      "island_name": "New Siberia(Novaya Sibir)",
+      "area_km2": "6,201",
+      "area_sq_miles": "2,394",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakha Republic",
+      "notes": ""
+    },
+    {
+      "rank": "106",
+      "island_name": "Melville Island",
+      "area_km2": "5,765",
+      "area_sq_miles": "2,226",
+      "sovereign_states": "Australia",
+      "subnational_divisions": "Northern Territory",
+      "notes": ""
+    },
+    {
+      "rank": "107",
+      "island_name": "Prince Edward Island",
+      "area_km2": "5,620",
+      "area_sq_miles": "2,170",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Prince Edward Island",
+      "notes": ""
+    },
+    {
+      "rank": "108",
+      "island_name": "Vanua Levu",
+      "area_km2": "5,587",
+      "area_sq_miles": "2,157",
+      "sovereign_states": "Fiji",
+      "subnational_divisions": "Northern Division",
+      "notes": ""
+    },
+    {
+      "rank": "109",
+      "island_name": "Wellington Island",
+      "area_km2": "5,556",
+      "area_sq_miles": "2,145",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "110",
+      "island_name": "Coats Island",
+      "area_km2": "5,498",
+      "area_sq_miles": "2,123",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "111",
+      "island_name": "Bali",
+      "area_km2": "5,416",
+      "area_sq_miles": "2,091",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Bali",
+      "notes": ""
+    },
+    {
+      "rank": "112",
+      "island_name": "Chichagof Island",
+      "area_km2": "5,388",
+      "area_sq_miles": "2,080",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "113",
+      "island_name": "Guadalcanal",
+      "area_km2": "5,353",
+      "area_sq_miles": "2,067",
+      "sovereign_states": "Solomon Islands",
+      "subnational_divisions": "Guadalcanal Province and Capital Territory",
+      "notes": ""
+    },
+    {
+      "rank": "114",
+      "island_name": "Arga Muora Sise",
+      "area_km2": "5,296",
+      "area_sq_miles": "2,045",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakha Republic",
+      "notes": "Largest island in Lena Delta"
+    },
+    {
+      "rank": "115",
+      "island_name": "Amund Ringnes Island",
+      "area_km2": "5,255",
+      "area_sq_miles": "2,029",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "116",
+      "island_name": "Bolshoy Lyakhovsky Island",
+      "area_km2": "5,157",
+      "area_sq_miles": "1,991",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakha Republic",
+      "notes": ""
+    },
+    {
+      "rank": "117",
+      "island_name": "St. Lawrence Island",
+      "area_km2": "5,135",
+      "area_sq_miles": "1,983",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "118",
+      "island_name": "Riesco Island",
+      "area_km2": "5,110",
+      "area_sq_miles": "1,970",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "119",
+      "island_name": "Edgeøya",
+      "area_km2": "5,073",
+      "area_sq_miles": "1,959",
+      "sovereign_states": "Norway",
+      "subnational_divisions": "Svalbard",
+      "notes": ""
+    },
+    {
+      "rank": "120",
+      "island_name": "Mackenzie King Island",
+      "area_km2": "5,048",
+      "area_sq_miles": "1,949",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Northwest Territories and Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "121",
+      "island_name": "Trinidad",
+      "area_km2": "5,009",
+      "area_sq_miles": "1,934",
+      "sovereign_states": "Trinidad and Tobago",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "122",
+      "island_name": "Kolguyev Island",
+      "area_km2": "4,968",
+      "area_sq_miles": "1,918",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Nenets Autonomous Okrug",
+      "notes": ""
+    },
+    {
+      "rank": "123",
+      "island_name": "Gurupá",
+      "area_km2": "4,864",
+      "area_sq_miles": "1,878",
+      "sovereign_states": "Brazil",
+      "subnational_divisions": "Pará",
+      "notes": ""
+    },
+    {
+      "rank": "124",
+      "island_name": "Isabela Island",
+      "area_km2": "4,711",
+      "area_sq_miles": "1,819",
+      "sovereign_states": "Ecuador",
+      "subnational_divisions": "Galápagos Province",
+      "notes": ""
+    },
+    {
+      "rank": "125",
+      "island_name": "North Jutlandic Island(Vendsyssel-Thy)",
+      "area_km2": "4,685",
+      "area_sq_miles": "1,809",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Denmark, North Jutland Region",
+      "notes": "Physically part of the Jutland peninsula until 1825."
+    },
+    {
+      "rank": "126",
+      "island_name": "Lombok",
+      "area_km2": "4,625",
+      "area_sq_miles": "1,786",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "West Nusa Tenggara",
+      "notes": ""
+    },
+    {
+      "rank": "127",
+      "island_name": "West Falkland",
+      "area_km2": "4,531",
+      "area_sq_miles": "1,749",
+      "sovereign_states": "Falkland Islands",
+      "subnational_divisions": "",
+      "notes": "A British Overseas Territory administered by the United Kingdom and disputed by Argentina."
+    },
+    {
+      "rank": "128",
+      "island_name": "Belitung",
+      "area_km2": "4,478",
+      "area_sq_miles": "1,729",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Bangka Belitung Islands",
+      "notes": ""
+    },
+    {
+      "rank": "129",
+      "island_name": "Cebu",
+      "area_km2": "4,468",
+      "area_sq_miles": "1,725",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Central Visayas",
+      "notes": ""
+    },
+    {
+      "rank": "130",
+      "island_name": "Adelaide Island",
+      "area_km2": "4,463",
+      "area_sq_miles": "1,723",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Argentina Chile and United Kingdom."
+    },
+    {
+      "rank": "131",
+      "island_name": "Stefansson Island",
+      "area_km2": "4,463",
+      "area_sq_miles": "1,723",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "132",
+      "island_name": "Madura Island",
+      "area_km2": "4,429",
+      "area_sq_miles": "1,710",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "East Java",
+      "notes": ""
+    },
+    {
+      "rank": "133",
+      "island_name": "Buton",
+      "area_km2": "4,408",
+      "area_sq_miles": "1,702",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Southeast Sulawesi",
+      "notes": ""
+    },
+    {
+      "rank": "134",
+      "island_name": "Kangaroo Island",
+      "area_km2": "4,374",
+      "area_sq_miles": "1,689",
+      "sovereign_states": "Australia",
+      "subnational_divisions": "South Australia",
+      "notes": ""
+    },
+    {
+      "rank": "135",
+      "island_name": "Admiralty Island",
+      "area_km2": "4,362",
+      "area_sq_miles": "1,684",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "136",
+      "island_name": "Nunivak Island",
+      "area_km2": "4,209",
+      "area_sq_miles": "1,625",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "137",
+      "island_name": "Unimak Island",
+      "area_km2": "4,119",
+      "area_sq_miles": "1,590",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "138",
+      "island_name": "Hoste Island",
+      "area_km2": "4,117",
+      "area_sq_miles": "1,590",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "139",
+      "island_name": "Spaatz Island",
+      "area_km2": "4,100",
+      "area_sq_miles": "1,600",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Chile and United Kingdom."
+    },
+    {
+      "rank": "140",
+      "island_name": "Baranof Island",
+      "area_km2": "4,065",
+      "area_sq_miles": "1,570",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "141",
+      "island_name": "Nias",
+      "area_km2": "4,048",
+      "area_sq_miles": "1,563",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "North Sumatra",
+      "notes": ""
+    },
+    {
+      "rank": "142",
+      "island_name": "Espiritu Santo",
+      "area_km2": "3,956",
+      "area_sq_miles": "1,527",
+      "sovereign_states": "Vanuatu",
+      "subnational_divisions": "Sanma Province",
+      "notes": ""
+    },
+    {
+      "rank": "143",
+      "island_name": "Milne Land",
+      "area_km2": "3,913",
+      "area_sq_miles": "1,511",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Greenland",
+      "notes": ""
+    },
+    {
+      "rank": "144",
+      "island_name": "Malaita",
+      "area_km2": "3,836",
+      "area_sq_miles": "1,481",
+      "sovereign_states": "Solomon Islands",
+      "subnational_divisions": "Malaita Province",
+      "notes": ""
+    },
+    {
+      "rank": "145",
+      "island_name": "Siberut",
+      "area_km2": "3,829",
+      "area_sq_miles": "1,478",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "West Sumatra",
+      "notes": ""
+    },
+    {
+      "rank": "146",
+      "island_name": "Bohol",
+      "area_km2": "3,821",
+      "area_sq_miles": "1,475",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Central Visayas",
+      "notes": ""
+    },
+    {
+      "rank": "147",
+      "island_name": "South Georgia",
+      "area_km2": "3,718",
+      "area_sq_miles": "1,436",
+      "sovereign_states": "South Georgia and the South Sandwich Islands",
+      "subnational_divisions": "",
+      "notes": "Part of the British Overseas Territories under sovereignty of the United Kingdom."
+    },
+    {
+      "rank": "148",
+      "island_name": "Euboea",
+      "area_km2": "3,707",
+      "area_sq_miles": "1,431",
+      "sovereign_states": "Greece",
+      "subnational_divisions": "Central Greece",
+      "notes": ""
+    },
+    {
+      "rank": "149",
+      "island_name": "Santa Inés Island",
+      "area_km2": "3,688",
+      "area_sq_miles": "1,424",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "150",
+      "island_name": "Mallorca",
+      "area_km2": "3,667",
+      "area_sq_miles": "1,416",
+      "sovereign_states": "Spain",
+      "subnational_divisions": "Balearic Islands",
+      "notes": ""
+    },
+    {
+      "rank": "151",
+      "island_name": "Santa Isabel Island",
+      "area_km2": "3,665",
+      "area_sq_miles": "1,415",
+      "sovereign_states": "Solomon Islands",
+      "subnational_divisions": "Isabel Province",
+      "notes": ""
+    },
+    {
+      "rank": "152",
+      "island_name": "Long Island",
+      "area_km2": "3,629",
+      "area_sq_miles": "1,401",
+      "sovereign_states": "United States",
+      "subnational_divisions": "New York",
+      "notes": ""
+    },
+    {
+      "rank": "153",
+      "island_name": "Socotra",
+      "area_km2": "3,607",
+      "area_sq_miles": "1,393",
+      "sovereign_states": "Yemen",
+      "subnational_divisions": "Socotra Governorate",
+      "notes": ""
+    },
+    {
+      "rank": "154",
+      "island_name": "Wetar",
+      "area_km2": "3,600",
+      "area_sq_miles": "1,400",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "155",
+      "island_name": "Tupinambarana(northern part)",
+      "area_km2": "3,600",
+      "area_sq_miles": "1,400",
+      "sovereign_states": "Brazil",
+      "subnational_divisions": "Amazonas",
+      "notes": ""
+    },
+    {
+      "rank": "156",
+      "island_name": "Traill Island",
+      "area_km2": "3,542",
+      "area_sq_miles": "1,368",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Greenland",
+      "notes": ""
+    },
+    {
+      "rank": "157",
+      "island_name": "Bear Island",
+      "area_km2": "3,500",
+      "area_sq_miles": "1,400",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Unclaimed island."
+    },
+    {
+      "rank": "158",
+      "island_name": "North Andros Island",
+      "area_km2": "3,439",
+      "area_sq_miles": "1,328",
+      "sovereign_states": "The Bahamas",
+      "subnational_divisions": "North and Central Andros",
+      "notes": ""
+    },
+    {
+      "rank": "159",
+      "island_name": "Vaygach Island",
+      "area_km2": "3,329",
+      "area_sq_miles": "1,285",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Arkhangelsk Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "160",
+      "island_name": "Latady Island",
+      "area_km2": "3,300",
+      "area_sq_miles": "1,300",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Chile and United Kingdom."
+    },
+    {
+      "rank": "161",
+      "island_name": "Masbate Island",
+      "area_km2": "3,268",
+      "area_sq_miles": "1,262",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Bicol Region",
+      "notes": ""
+    },
+    {
+      "rank": "162",
+      "island_name": "Makira(San Cristóbal)",
+      "area_km2": "3,190",
+      "area_sq_miles": "1,230",
+      "sovereign_states": "Solomon Islands",
+      "subnational_divisions": "Makira-Ulawa Province",
+      "notes": ""
+    },
+    {
+      "rank": "163",
+      "island_name": "Mansel Island",
+      "area_km2": "3,180",
+      "area_sq_miles": "1,230",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "164",
+      "island_name": "Iturup(Etorofu)",
+      "area_km2": "3,167",
+      "area_sq_miles": "1,223",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakhalin Oblast",
+      "notes": "Territorial dispute initially part of Japan (Hokkaidō region and prefecture then claimed by Russia"
+    },
+    {
+      "rank": "165",
+      "island_name": "Yamdena",
+      "area_km2": "3,100",
+      "area_sq_miles": "1,200",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "166",
+      "island_name": "Waigeo",
+      "area_km2": "3,060",
+      "area_sq_miles": "1,180",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "West Papua",
+      "notes": ""
+    },
+    {
+      "rank": "167",
+      "island_name": "Akimiski Island",
+      "area_km2": "3,001",
+      "area_sq_miles": "1,159",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "168",
+      "island_name": "Gotland",
+      "area_km2": "2,994",
+      "area_sq_miles": "1,156",
+      "sovereign_states": "Sweden",
+      "subnational_divisions": "Gotland County",
+      "notes": ""
+    },
+    {
+      "rank": "169",
+      "island_name": "Funen",
+      "area_km2": "2,985",
+      "area_sq_miles": "1,153",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Denmark, Southern Denmark Region",
+      "notes": ""
+    },
+    {
+      "rank": "170",
+      "island_name": "Choiseul Island",
+      "area_km2": "2,971",
+      "area_sq_miles": "1,147",
+      "sovereign_states": "Solomon Islands",
+      "subnational_divisions": "Choiseul Province",
+      "notes": ""
+    },
+    {
+      "rank": "171",
+      "island_name": "Revillagigedo Island",
+      "area_km2": "2,965",
+      "area_sq_miles": "1,145",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "172",
+      "island_name": "Taliabu Island Regency",
+      "area_km2": "2,913",
+      "area_sq_miles": "1,125",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "North Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "173",
+      "island_name": "Muna Island",
+      "area_km2": "2,889",
+      "area_sq_miles": "1,115",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Southeast Sulawesi",
+      "notes": ""
+    },
+    {
+      "rank": "174",
+      "island_name": "Zemlya Georga",
+      "area_km2": "2,821",
+      "area_sq_miles": "1,089",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Arkhangelsk Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "175",
+      "island_name": "Kupreanof Island",
+      "area_km2": "2,813",
+      "area_sq_miles": "1,086",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "176",
+      "island_name": "Borden Island",
+      "area_km2": "2,794",
+      "area_sq_miles": "1,079",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Northwest Territories and Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "177",
+      "island_name": "Manitoulin Island",
+      "area_km2": "2,766",
+      "area_sq_miles": "1,068",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Ontario",
+      "notes": "Largest lake island (including both freshwater and saltwater lakes)."
+    },
+    {
+      "rank": "178",
+      "island_name": "Unalaska Island",
+      "area_km2": "2,722",
+      "area_sq_miles": "1,051",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "179",
+      "island_name": "Saaremaa",
+      "area_km2": "2,672",
+      "area_sq_miles": "1,032",
+      "sovereign_states": "Estonia",
+      "subnational_divisions": "Saare County (Saaremaa)",
+      "notes": ""
+    },
+    {
+      "rank": "180",
+      "island_name": "Moresby Island",
+      "area_km2": "2,608",
+      "area_sq_miles": "1,007",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "British Columbia",
+      "notes": ""
+    },
+    {
+      "rank": "181",
+      "island_name": "James Ross Island",
+      "area_km2": "2,598",
+      "area_sq_miles": "1,003",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Argentina Chile and United Kingdom."
+    },
+    {
+      "rank": "182",
+      "island_name": "Obi",
+      "area_km2": "2,542",
+      "area_sq_miles": "981",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "North Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "183",
+      "island_name": "Réunion(main island)",
+      "area_km2": "2,535",
+      "area_sq_miles": "979",
+      "sovereign_states": "France",
+      "subnational_divisions": "Réunion",
+      "notes": "Overseas department."
+    },
+    {
+      "rank": "184",
+      "island_name": "Navarino Island",
+      "area_km2": "2,514",
+      "area_sq_miles": "971",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "185",
+      "island_name": "Paramushir",
+      "area_km2": "2,471",
+      "area_sq_miles": "954",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakhalin Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "186",
+      "island_name": "Ross Island",
+      "area_km2": "2,460",
+      "area_sq_miles": "950",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claim by New Zealand."
+    },
+    {
+      "rank": "187",
+      "island_name": "Ymer Island",
+      "area_km2": "2,437",
+      "area_sq_miles": "941",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Greenland",
+      "notes": ""
+    },
+    {
+      "rank": "188",
+      "island_name": "Anvers Island",
+      "area_km2": "2,432",
+      "area_sq_miles": "939",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Argentina Chile and United Kingdom."
+    },
+    {
+      "rank": "189",
+      "island_name": "Cornwall Island",
+      "area_km2": "2,358",
+      "area_sq_miles": "910",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "190",
+      "island_name": "Peleng",
+      "area_km2": "2,346",
+      "area_sq_miles": "906",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Central Sulawesi",
+      "notes": ""
+    },
+    {
+      "rank": "191",
+      "island_name": "Groote Eylandt",
+      "area_km2": "2,285",
+      "area_sq_miles": "882",
+      "sovereign_states": "Australia",
+      "subnational_divisions": "Northern Territory",
+      "notes": ""
+    },
+    {
+      "rank": "192",
+      "island_name": "Yapen",
+      "area_km2": "2,278",
+      "area_sq_miles": "880",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Papua",
+      "notes": ""
+    },
+    {
+      "rank": "193",
+      "island_name": "Morotai",
+      "area_km2": "2,266",
+      "area_sq_miles": "875",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "North Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "195",
+      "island_name": "Princess Royal Island",
+      "area_km2": "2,251",
+      "area_sq_miles": "869",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "British Columbia",
+      "notes": ""
+    },
+    {
+      "rank": "196",
+      "island_name": "Isla de la Juventud",
+      "area_km2": "2,237",
+      "area_sq_miles": "864",
+      "sovereign_states": "Cuba",
+      "subnational_divisions": "Isla de la Juventud",
+      "notes": ""
+    },
+    {
+      "rank": "197",
+      "island_name": "Hinnøya",
+      "area_km2": "2,198",
+      "area_sq_miles": "849",
+      "sovereign_states": "Norway",
+      "subnational_divisions": "Nordland and Troms",
+      "notes": ""
+    },
+    {
+      "rank": "198",
+      "island_name": "Nelson Island",
+      "area_km2": "2,183",
+      "area_sq_miles": "843",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "199",
+      "island_name": "Richards Island",
+      "area_km2": "2,165",
+      "area_sq_miles": "836",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Northwest Territories",
+      "notes": ""
+    },
+    {
+      "rank": "200",
+      "island_name": "Ayon Island",
+      "area_km2": "2,156",
+      "area_sq_miles": "832",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Chukotka Autonomous Okrug",
+      "notes": ""
+    },
+    {
+      "rank": "201",
+      "island_name": "Trangan",
+      "area_km2": "2,149",
+      "area_sq_miles": "830",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "202",
+      "island_name": "Alor Island",
+      "area_km2": "2,120",
+      "area_sq_miles": "820",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "East Nusa Tenggara",
+      "notes": ""
+    },
+    {
+      "rank": "203",
+      "island_name": "Margarita Island",
+      "area_km2": "2,100",
+      "area_sq_miles": "810",
+      "sovereign_states": "Colombia",
+      "subnational_divisions": "",
+      "notes": "An inland fluvial or river island in the Magdalena River not to be confused with the Margarita Island a Caribbean Venezuelan island."
+    },
+    {
+      "rank": "204",
+      "island_name": "Lewis and Harris",
+      "area_km2": "2,086",
+      "area_sq_miles": "805",
+      "sovereign_states": "United Kingdom",
+      "subnational_divisions": "Scotland",
+      "notes": ""
+    },
+    {
+      "rank": "205",
+      "island_name": "Laut Island",
+      "area_km2": "2,057",
+      "area_sq_miles": "794",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "South Kalimantan",
+      "notes": ""
+    },
+    {
+      "rank": "206",
+      "island_name": "Malakula",
+      "area_km2": "2,041",
+      "area_sq_miles": "788",
+      "sovereign_states": "Vanuatu",
+      "subnational_divisions": "(Malampa Province)",
+      "notes": ""
+    },
+    {
+      "rank": "207",
+      "island_name": "New Georgia",
+      "area_km2": "2,037",
+      "area_sq_miles": "786",
+      "sovereign_states": "Solomon Islands",
+      "subnational_divisions": "Western Province",
+      "notes": ""
+    },
+    {
+      "rank": "208",
+      "island_name": "Misool",
+      "area_km2": "2,034",
+      "area_sq_miles": "785",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "West Papua",
+      "notes": ""
+    },
+    {
+      "rank": "209",
+      "island_name": "Magdalena Island",
+      "area_km2": "2,025",
+      "area_sq_miles": "782",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Aysén Region",
+      "notes": ""
+    },
+    {
+      "rank": "210",
+      "island_name": "René-Levasseur Island",
+      "area_km2": "2,020",
+      "area_sq_miles": "780",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Quebec",
+      "notes": "Largest artificial island."
+    },
+    {
+      "rank": "211",
+      "island_name": "Tenerife",
+      "area_km2": "2,008",
+      "area_sq_miles": "775",
+      "sovereign_states": "Spain",
+      "subnational_divisions": "Canary Islands",
+      "notes": ""
+    },
+    {
+      "rank": "212",
+      "island_name": "Wilczek Land",
+      "area_km2": "2,000",
+      "area_sq_miles": "770",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Arkhangelsk Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "213",
+      "island_name": "Kuiu Island",
+      "area_km2": "1,962",
+      "area_sq_miles": "758",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "214",
+      "island_name": "Manus Island",
+      "area_km2": "1,940",
+      "area_sq_miles": "750",
+      "sovereign_states": "Papua New Guinea",
+      "subnational_divisions": "Manus Province",
+      "notes": ""
+    },
+    {
+      "rank": "215",
+      "island_name": "Karaginsky Island",
+      "area_km2": "1,936",
+      "area_sq_miles": "747",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Kamchatka Krai",
+      "notes": ""
+    },
+    {
+      "rank": "216",
+      "island_name": "Bioko",
+      "area_km2": "1,935",
+      "area_sq_miles": "747",
+      "sovereign_states": "Equatorial Guinea",
+      "subnational_divisions": "Bioko Norte and Bioko Sur",
+      "notes": ""
+    },
+    {
+      "rank": "217",
+      "island_name": "Biak",
+      "area_km2": "1,904",
+      "area_sq_miles": "735",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Papua",
+      "notes": ""
+    },
+    {
+      "rank": "218",
+      "island_name": "Maui",
+      "area_km2": "1,903",
+      "area_sq_miles": "735",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Hawaii",
+      "notes": ""
+    },
+    {
+      "rank": "219",
+      "island_name": "Bacan Island",
+      "area_km2": "1,900",
+      "area_sq_miles": "730",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "North Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "220",
+      "island_name": "Žitný ostrov(Rye Island)",
+      "area_km2": "1,900",
+      "area_sq_miles": "730",
+      "sovereign_states": "Slovakia",
+      "subnational_divisions": "Bratislava, Trnava, and Nitra regions",
+      "notes": ""
+    },
+    {
+      "rank": "221",
+      "island_name": "Mauritius(main island)",
+      "area_km2": "1,874",
+      "area_sq_miles": "724",
+      "sovereign_states": "Mauritius",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "222",
+      "island_name": "K'gari",
+      "area_km2": "1,840",
+      "area_sq_miles": "710",
+      "sovereign_states": "Australia",
+      "subnational_divisions": "Queensland",
+      "notes": ""
+    },
+    {
+      "rank": "223",
+      "island_name": "Jeju Island",
+      "area_km2": "1,826",
+      "area_sq_miles": "705",
+      "sovereign_states": "South Korea",
+      "subnational_divisions": "Jeju Province",
+      "notes": ""
+    },
+    {
+      "rank": "224",
+      "island_name": "Stewart Island(Rakiura)",
+      "area_km2": "1,815",
+      "area_sq_miles": "701",
+      "sovereign_states": "New Zealand",
+      "subnational_divisions": "Southland Region",
+      "notes": ""
+    },
+    {
+      "rank": "225",
+      "island_name": "Bely Island",
+      "area_km2": "1,810",
+      "area_sq_miles": "700",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Yamalo-Nenets Autonomous Okrug",
+      "notes": ""
+    },
+    {
+      "rank": "226",
+      "island_name": "Afognak",
+      "area_km2": "1,809",
+      "area_sq_miles": "698",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "227",
+      "island_name": "Charcot Island",
+      "area_km2": "1,800",
+      "area_sq_miles": "690",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Chile and United Kingdom. Island is 48 by 40 km (30 by 25 mi)."
+    },
+    {
+      "rank": "228",
+      "island_name": "Umnak",
+      "area_km2": "1,793",
+      "area_sq_miles": "692",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "229",
+      "island_name": "Bolshoy Shantar Island",
+      "area_km2": "1,766",
+      "area_sq_miles": "682",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Khabarovsk Krai",
+      "notes": ""
+    },
+    {
+      "rank": "230",
+      "island_name": "Bolshoy Begichev Island",
+      "area_km2": "1,764",
+      "area_sq_miles": "681",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakha Republic",
+      "notes": ""
+    },
+    {
+      "rank": "231",
+      "island_name": "Simeulue",
+      "area_km2": "1,754",
+      "area_sq_miles": "677",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Aceh",
+      "notes": ""
+    },
+    {
+      "rank": "232",
+      "island_name": "Kobroor",
+      "area_km2": "1,723",
+      "area_sq_miles": "665",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "233",
+      "island_name": "Air Force Island",
+      "area_km2": "1,720",
+      "area_sq_miles": "660",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "234",
+      "island_name": "Savaiʻi",
+      "area_km2": "1,718",
+      "area_sq_miles": "663",
+      "sovereign_states": "Samoa",
+      "subnational_divisions": "Faʻasaleleaga, Gagaʻemauga, Gagaʻifomauga, Vaisigano, Satupaʻitea, and Palauli",
+      "notes": ""
+    },
+    {
+      "rank": "235",
+      "island_name": "Geographical Society Island",
+      "area_km2": "1,717",
+      "area_sq_miles": "663",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Greenland",
+      "notes": ""
+    },
+    {
+      "rank": "236",
+      "island_name": "Bathurst Island",
+      "area_km2": "1,692",
+      "area_sq_miles": "653",
+      "sovereign_states": "Australia",
+      "subnational_divisions": "Northern Territory",
+      "notes": ""
+    },
+    {
+      "rank": "237",
+      "island_name": "Bering Island",
+      "area_km2": "1,667",
+      "area_sq_miles": "644",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Kamchatka Krai",
+      "notes": ""
+    },
+    {
+      "rank": "238",
+      "island_name": "Isle of Skye",
+      "area_km2": "1,659",
+      "area_sq_miles": "641",
+      "sovereign_states": "United Kingdom",
+      "subnational_divisions": "Scotland",
+      "notes": ""
+    },
+    {
+      "rank": "239",
+      "island_name": "Lesbos",
+      "area_km2": "1,641",
+      "area_sq_miles": "634",
+      "sovereign_states": "Greece",
+      "subnational_divisions": "North Aegean",
+      "notes": ""
+    },
+    {
+      "rank": "240",
+      "island_name": "Soisalo",
+      "area_km2": "1,635",
+      "area_sq_miles": "631",
+      "sovereign_states": "Finland",
+      "subnational_divisions": "North and South Savo",
+      "notes": ""
+    },
+    {
+      "rank": "241",
+      "island_name": "Fuerteventura",
+      "area_km2": "1,633",
+      "area_sq_miles": "631",
+      "sovereign_states": "Spain",
+      "subnational_divisions": "Canary Islands",
+      "notes": ""
+    },
+    {
+      "rank": "242",
+      "island_name": "Natuna Besar",
+      "area_km2": "1,633",
+      "area_sq_miles": "631",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Riau Islands",
+      "notes": ""
+    },
+    {
+      "rank": "243",
+      "island_name": "Salawati",
+      "area_km2": "1,623",
+      "area_sq_miles": "627",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "West Papua",
+      "notes": ""
+    },
+    {
+      "rank": "244",
+      "island_name": "Great Inagua",
+      "area_km2": "1,615",
+      "area_sq_miles": "624",
+      "sovereign_states": "The Bahamas",
+      "subnational_divisions": "Inagua",
+      "notes": ""
+    },
+    {
+      "rank": "245",
+      "island_name": "Joinville Island",
+      "area_km2": "1,607",
+      "area_sq_miles": "620",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Argentina Chile and United Kingdom."
+    },
+    {
+      "rank": "246",
+      "island_name": "Tanahbesar(Wokam)",
+      "area_km2": "1,604",
+      "area_sq_miles": "619",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "247",
+      "island_name": "Tebing Tinggi Island(Rantau)",
+      "area_km2": "1,598",
+      "area_sq_miles": "617",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Riau",
+      "notes": ""
+    },
+    {
+      "rank": "248",
+      "island_name": "Senja",
+      "area_km2": "1,590",
+      "area_sq_miles": "610",
+      "sovereign_states": "Norway",
+      "subnational_divisions": "Troms",
+      "notes": ""
+    },
+    {
+      "rank": "249",
+      "island_name": "Flaherty Island",
+      "area_km2": "1,585",
+      "area_sq_miles": "612",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "250",
+      "island_name": "Oahu",
+      "area_km2": "1,583",
+      "area_sq_miles": "611",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Hawaii",
+      "notes": ""
+    },
+    {
+      "rank": "251",
+      "island_name": "Unguja(Zanzibar)",
+      "area_km2": "1,575",
+      "area_sq_miles": "608",
+      "sovereign_states": "Tanzania",
+      "subnational_divisions": "Unguja North, Unguja South, and Mjini Magharibi regions",
+      "notes": ""
+    },
+    {
+      "rank": "252",
+      "island_name": "Graham Bell Island",
+      "area_km2": "1,557",
+      "area_sq_miles": "601",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Arkhangelsk Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "253",
+      "island_name": "Eglinton Island",
+      "area_km2": "1,541",
+      "area_sq_miles": "595",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Northwest Territories",
+      "notes": ""
+    },
+    {
+      "rank": "254",
+      "island_name": "Middle Andaman Island",
+      "area_km2": "1,536",
+      "area_sq_miles": "593",
+      "sovereign_states": "India",
+      "subnational_divisions": "Andaman and Nicobar Islands",
+      "notes": ""
+    },
+    {
+      "rank": "255",
+      "island_name": "Clavering Island",
+      "area_km2": "1,535",
+      "area_sq_miles": "593",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Greenland",
+      "notes": ""
+    },
+    {
+      "rank": "256",
+      "island_name": "Gran Canaria",
+      "area_km2": "1,530",
+      "area_sq_miles": "590",
+      "sovereign_states": "Spain",
+      "subnational_divisions": "Canary Islands",
+      "notes": ""
+    },
+    {
+      "rank": "257",
+      "island_name": "Pioneer Island",
+      "area_km2": "1,527",
+      "area_sq_miles": "590",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Krasnoyarsk Krai",
+      "notes": ""
+    },
+    {
+      "rank": "258",
+      "island_name": "Catanduanes",
+      "area_km2": "1,523",
+      "area_sq_miles": "588",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Bicol Region",
+      "notes": ""
+    },
+    {
+      "rank": "259",
+      "island_name": "Copper Island",
+      "area_km2": "1,500",
+      "area_sq_miles": "260",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Michigan",
+      "notes": ""
+    },
+    {
+      "rank": "261",
+      "island_name": "Rupat",
+      "area_km2": "1,490",
+      "area_sq_miles": "580",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Riau",
+      "notes": ""
+    },
+    {
+      "rank": "262",
+      "island_name": "Kunashir(Kunashiri)",
+      "area_km2": "1,489",
+      "area_sq_miles": "575",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakhalin Oblast",
+      "notes": "Territorial dispute initially part of Japan (Hokkaidō region and prefecture then claimed by Russia."
+    },
+    {
+      "rank": "263",
+      "island_name": "Qeshm Island",
+      "area_km2": "1,488",
+      "area_sq_miles": "575",
+      "sovereign_states": "Iran",
+      "subnational_divisions": "Hormozgan province",
+      "notes": ""
+    },
+    {
+      "rank": "264",
+      "island_name": "Nares Land",
+      "area_km2": "1,466",
+      "area_sq_miles": "566",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Greenland",
+      "notes": ""
+    },
+    {
+      "rank": "265",
+      "island_name": "Camargue",
+      "area_km2": "1,453",
+      "area_sq_miles": "561",
+      "sovereign_states": "France",
+      "subnational_divisions": "Provence-Alpes-Côte d'Azur",
+      "notes": ""
+    },
+    {
+      "rank": "266",
+      "island_name": "South Andros Island",
+      "area_km2": "1,448",
+      "area_sq_miles": "559",
+      "sovereign_states": "The Bahamas",
+      "subnational_divisions": "South Andros",
+      "notes": ""
+    },
+    {
+      "rank": "267",
+      "island_name": "Fergusson Island",
+      "area_km2": "1,437",
+      "area_sq_miles": "555",
+      "sovereign_states": "Papua New Guinea",
+      "subnational_divisions": "Milne Bay Province",
+      "notes": ""
+    },
+    {
+      "rank": "268",
+      "island_name": "Urup",
+      "area_km2": "1,437",
+      "area_sq_miles": "555",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Sakhalin Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "269",
+      "island_name": "Kauai",
+      "area_km2": "1,435",
+      "area_sq_miles": "554",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Hawaii",
+      "notes": ""
+    },
+    {
+      "rank": "270",
+      "island_name": "São Luís Island",
+      "area_km2": "1,410",
+      "area_sq_miles": "540",
+      "sovereign_states": "Brazil",
+      "subnational_divisions": "Maranhão",
+      "notes": ""
+    },
+    {
+      "rank": "271",
+      "island_name": "Rhodes",
+      "area_km2": "1,410",
+      "area_sq_miles": "540",
+      "sovereign_states": "Greece",
+      "subnational_divisions": "South Aegean",
+      "notes": ""
+    },
+    {
+      "rank": "272",
+      "island_name": "North Andaman Island",
+      "area_km2": "1,407",
+      "area_sq_miles": "543",
+      "sovereign_states": "India",
+      "subnational_divisions": "Andaman and Nicobar Islands",
+      "notes": ""
+    },
+    {
+      "rank": "273",
+      "island_name": "King George Island",
+      "area_km2": "1,384",
+      "area_sq_miles": "534",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Argentina Chile and United Kingdom."
+    },
+    {
+      "rank": "274",
+      "island_name": "Graham Island",
+      "area_km2": "1,378",
+      "area_sq_miles": "532",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "275",
+      "island_name": "Pitt Island",
+      "area_km2": "1,375",
+      "area_sq_miles": "531",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "British Columbia",
+      "notes": ""
+    },
+    {
+      "rank": "276",
+      "island_name": "Nottingham Island",
+      "area_km2": "1,372",
+      "area_sq_miles": "530",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "277",
+      "island_name": "Chongming Island",
+      "area_km2": "1,370",
+      "area_sq_miles": "530",
+      "sovereign_states": "China",
+      "subnational_divisions": "Shanghai",
+      "notes": ""
+    },
+    {
+      "rank": "278",
+      "island_name": "Desolación Island",
+      "area_km2": "1,352",
+      "area_sq_miles": "522",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "279",
+      "island_name": "Ramree Island",
+      "area_km2": "1,350",
+      "area_sq_miles": "520",
+      "sovereign_states": "Myanmar",
+      "subnational_divisions": "Rakhine State",
+      "notes": ""
+    },
+    {
+      "rank": "280",
+      "island_name": "Öland",
+      "area_km2": "1,347",
+      "area_sq_miles": "520",
+      "sovereign_states": "Sweden",
+      "subnational_divisions": "Kalmar County",
+      "notes": ""
+    },
+    {
+      "rank": "281",
+      "island_name": "Flinders Island",
+      "area_km2": "1,330",
+      "area_sq_miles": "510",
+      "sovereign_states": "Australia",
+      "subnational_divisions": "Tasmania",
+      "notes": ""
+    },
+    {
+      "rank": "282",
+      "island_name": "Lougheed Island",
+      "area_km2": "1,308",
+      "area_sq_miles": "505",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "283",
+      "island_name": "Bhola Island",
+      "area_km2": "1,295",
+      "area_sq_miles": "500",
+      "sovereign_states": "Bangladesh",
+      "subnational_divisions": "Barisal Division",
+      "notes": ""
+    },
+    {
+      "rank": "284",
+      "island_name": "Dawson Island",
+      "area_km2": "1,290",
+      "area_sq_miles": "500",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "285",
+      "island_name": "Barentsøya(Barents)",
+      "area_km2": "1,288",
+      "area_sq_miles": "497",
+      "sovereign_states": "Norway",
+      "subnational_divisions": "Svalbard",
+      "notes": ""
+    },
+    {
+      "rank": "286",
+      "island_name": "Lembata(Lomblen)",
+      "area_km2": "1,270",
+      "area_sq_miles": "490",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "East Nusa Tenggara",
+      "notes": ""
+    },
+    {
+      "rank": "287",
+      "island_name": "Basilan",
+      "area_km2": "1,266",
+      "area_sq_miles": "489",
+      "sovereign_states": "Philippines",
+      "subnational_divisions": "Autonomous Region in Muslim Mindanao and Zamboanga Peninsula",
+      "notes": ""
+    },
+    {
+      "rank": "288",
+      "island_name": "Shannon Island",
+      "area_km2": "1,259",
+      "area_sq_miles": "486",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Greenland",
+      "notes": ""
+    },
+    {
+      "rank": "289",
+      "island_name": "Mill Island",
+      "area_km2": "1,258",
+      "area_sq_miles": "486",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claim by Australia."
+    },
+    {
+      "rank": "290",
+      "island_name": "Morfil Island",
+      "area_km2": "1,250",
+      "area_sq_miles": "480",
+      "sovereign_states": "Senegal",
+      "subnational_divisions": "Saint-Louis Region",
+      "notes": ""
+    },
+    {
+      "rank": "291",
+      "island_name": "Lolland",
+      "area_km2": "1,243",
+      "area_sq_miles": "480",
+      "sovereign_states": "Danish Realm(Kingdom of Denmark)",
+      "subnational_divisions": "Denmark, Region Zealand",
+      "notes": ""
+    },
+    {
+      "rank": "292",
+      "island_name": "Mangole Island",
+      "area_km2": "1,229",
+      "area_sq_miles": "475",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "North Maluku",
+      "notes": ""
+    },
+    {
+      "rank": "293",
+      "island_name": "New Hanover Island(Lavongai)",
+      "area_km2": "1,227",
+      "area_sq_miles": "474",
+      "sovereign_states": "Papua New Guinea",
+      "subnational_divisions": "New Ireland Province",
+      "notes": ""
+    },
+    {
+      "rank": "294",
+      "island_name": "Rote Island",
+      "area_km2": "1,227",
+      "area_sq_miles": "474",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "East Nusa Tenggara",
+      "notes": ""
+    },
+    {
+      "rank": "295",
+      "island_name": "South Andaman Island",
+      "area_km2": "1,211",
+      "area_sq_miles": "468",
+      "sovereign_states": "India",
+      "subnational_divisions": "Andaman and Nicobar Islands",
+      "notes": ""
+    },
+    {
+      "rank": "296",
+      "island_name": "Okinawa Island",
+      "area_km2": "1,208",
+      "area_sq_miles": "466",
+      "sovereign_states": "Japan",
+      "subnational_divisions": "Ryukyu Islands, Okinawa Prefecture and Kyushu",
+      "notes": ""
+    },
+    {
+      "rank": "297",
+      "island_name": "Södertörn",
+      "area_km2": "1,207",
+      "area_sq_miles": "466",
+      "sovereign_states": "Sweden",
+      "subnational_divisions": "Stockholm County",
+      "notes": ""
+    },
+    {
+      "rank": "298",
+      "island_name": "Oleny Island(Oleniy Island)",
+      "area_km2": "1,197",
+      "area_sq_miles": "462",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Yamalo-Nenets Autonomous Okrug",
+      "notes": ""
+    },
+    {
+      "rank": "299",
+      "island_name": "Tiburón Island",
+      "area_km2": "1,190",
+      "area_sq_miles": "460",
+      "sovereign_states": "Mexico",
+      "subnational_divisions": "Sonora",
+      "notes": ""
+    },
+    {
+      "rank": "300",
+      "island_name": "Campana Island",
+      "area_km2": "1,188",
+      "area_sq_miles": "459",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Aysén Region",
+      "notes": ""
+    },
+    {
+      "rank": "301",
+      "island_name": "Bintan Island",
+      "area_km2": "1,173",
+      "area_sq_miles": "453",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Riau Islands",
+      "notes": ""
+    },
+    {
+      "rank": "302",
+      "island_name": "Martinique",
+      "area_km2": "1,167",
+      "area_sq_miles": "451",
+      "sovereign_states": "France",
+      "subnational_divisions": "Martinique",
+      "notes": "Overseas department."
+    },
+    {
+      "rank": "303",
+      "island_name": "Aracena Island",
+      "area_km2": "1,164",
+      "area_sq_miles": "449",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "304",
+      "island_name": "Sherman Island",
+      "area_km2": "1,159",
+      "area_sq_miles": "447",
+      "sovereign_states": "",
+      "subnational_divisions": "",
+      "notes": ""
+    },
+    {
+      "rank": "305",
+      "island_name": "Byam Martin Island",
+      "area_km2": "1,150",
+      "area_sq_miles": "440",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "306",
+      "island_name": "Great Abaco",
+      "area_km2": "1,146",
+      "area_sq_miles": "442",
+      "sovereign_states": "The Bahamas",
+      "subnational_divisions": "North Central and South Abaco",
+      "notes": ""
+    },
+    {
+      "rank": "307",
+      "island_name": "Lifou Island",
+      "area_km2": "1,146",
+      "area_sq_miles": "442",
+      "sovereign_states": "France",
+      "subnational_divisions": "New Caledonia",
+      "notes": "Sui generis collectivity."
+    },
+    {
+      "rank": "308",
+      "island_name": "Wales Island",
+      "area_km2": "1,137",
+      "area_sq_miles": "439",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "309",
+      "island_name": "Île Vanier",
+      "area_km2": "1,126",
+      "area_sq_miles": "435",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "310",
+      "island_name": "Upolu",
+      "area_km2": "1,125",
+      "area_sq_miles": "434",
+      "sovereign_states": "Samoa",
+      "subnational_divisions": "Tuamasaga, Aʻana, Aiga-i-le-Tai, Atua, Vaʻa-o-Fonoti, and Gagaʻemauga",
+      "notes": ""
+    },
+    {
+      "rank": "311",
+      "island_name": "King Island",
+      "area_km2": "1,121",
+      "area_sq_miles": "433",
+      "sovereign_states": "Australia",
+      "subnational_divisions": "Tasmania",
+      "notes": ""
+    },
+    {
+      "rank": "312",
+      "island_name": "Clarence Island",
+      "area_km2": "1,111",
+      "area_sq_miles": "429",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "313",
+      "island_name": "Padang Island",
+      "area_km2": "1,109",
+      "area_sq_miles": "428",
+      "sovereign_states": "Indonesia",
+      "subnational_divisions": "Riau",
+      "notes": ""
+    },
+    {
+      "rank": "314",
+      "island_name": "Grand Bahama",
+      "area_km2": "1,096",
+      "area_sq_miles": "423",
+      "sovereign_states": "The Bahamas",
+      "subnational_divisions": "East Grand, West Grand Bahama, and Freeport",
+      "notes": ""
+    },
+    {
+      "rank": "315",
+      "island_name": "Alexandra Land(Zemlya Aleksandry)",
+      "area_km2": "1,095",
+      "area_sq_miles": "423",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Arkhangelsk Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "316",
+      "island_name": "Rowley Island",
+      "area_km2": "1,090",
+      "area_sq_miles": "420",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "317",
+      "island_name": "Tahiti",
+      "area_km2": "1,069",
+      "area_sq_miles": "413",
+      "sovereign_states": "France",
+      "subnational_divisions": "French Polynesia",
+      "notes": "Overseas collectivity."
+    },
+    {
+      "rank": "318",
+      "island_name": "Sääminginsalo",
+      "area_km2": "1,069",
+      "area_sq_miles": "413",
+      "sovereign_states": "Finland",
+      "subnational_divisions": "South Savo",
+      "notes": ""
+    },
+    {
+      "rank": "319",
+      "island_name": "Serrano Island",
+      "area_km2": "1,063",
+      "area_sq_miles": "410",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Aysén Region",
+      "notes": ""
+    },
+    {
+      "rank": "320",
+      "island_name": "Atka Island",
+      "area_km2": "1,061",
+      "area_sq_miles": "410",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Alaska",
+      "notes": ""
+    },
+    {
+      "rank": "321",
+      "island_name": "Cameron Island",
+      "area_km2": "1,059",
+      "area_sq_miles": "409",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "322",
+      "island_name": "Zhongshan Island",
+      "area_km2": "1,055",
+      "area_sq_miles": "407",
+      "sovereign_states": "China",
+      "subnational_divisions": "Guangdong",
+      "notes": ""
+    },
+    {
+      "rank": "323",
+      "island_name": "Hall Island(Gallya)",
+      "area_km2": "1,049",
+      "area_sq_miles": "405",
+      "sovereign_states": "Russia",
+      "subnational_divisions": "Arkhangelsk Oblast",
+      "notes": ""
+    },
+    {
+      "rank": "324",
+      "island_name": "Cape Cod",
+      "area_km2": "1,047",
+      "area_sq_miles": "404",
+      "sovereign_states": "United States",
+      "subnational_divisions": "Massachusetts",
+      "notes": "peninsula separated from continent by channel; USGS counts it as island"
+    },
+    {
+      "rank": "325",
+      "island_name": "Madre de Dios Island",
+      "area_km2": "1,043",
+      "area_sq_miles": "403",
+      "sovereign_states": "Chile",
+      "subnational_divisions": "Magallanes Region",
+      "notes": ""
+    },
+    {
+      "rank": "326",
+      "island_name": "Normanby Island",
+      "area_km2": "1,040",
+      "area_sq_miles": "400",
+      "sovereign_states": "Papua New Guinea",
+      "subnational_divisions": "Milne Bay Province",
+      "notes": ""
+    },
+    {
+      "rank": "327",
+      "island_name": "Hiiumaa",
+      "area_km2": "1,031",
+      "area_sq_miles": "398",
+      "sovereign_states": "Estonia",
+      "subnational_divisions": "Hiiu County (Hiiumaa)",
+      "notes": ""
+    },
+    {
+      "rank": "328",
+      "island_name": "Margarita Island",
+      "area_km2": "1,020",
+      "area_sq_miles": "390",
+      "sovereign_states": "Venezuela",
+      "subnational_divisions": "Nueva Esparta",
+      "notes": ""
+    },
+    {
+      "rank": "329",
+      "island_name": "Mornington Island",
+      "area_km2": "1,018",
+      "area_sq_miles": "393",
+      "sovereign_states": "Australia",
+      "subnational_divisions": "Queensland",
+      "notes": ""
+    },
+    {
+      "rank": "330",
+      "island_name": "Resolution Island",
+      "area_km2": "1,015",
+      "area_sq_miles": "392",
+      "sovereign_states": "Canada",
+      "subnational_divisions": "Nunavut",
+      "notes": ""
+    },
+    {
+      "rank": "331",
+      "island_name": "Grande Comore",
+      "area_km2": "1,013",
+      "area_sq_miles": "391",
+      "sovereign_states": "Comoros",
+      "subnational_divisions": "Grande Comore",
+      "notes": ""
+    },
+    {
+      "rank": "332",
+      "island_name": "Smyley Island",
+      "area_km2": "1,000",
+      "area_sq_miles": "390",
+      "sovereign_states": "",
+      "subnational_divisions": "Antarctica",
+      "notes": "Antarctic territorial claims by Chile and United Kingdom. It is 61 km (38 mi) long and between 13 and 34 km (8.1 and 21.1 mi) wide."
+    }
+  ]
+}
