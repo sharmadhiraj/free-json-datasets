@@ -1,0 +1,1386 @@
+{
+  "title": "Obesity Rates by Country (WHO, 2022)",
+  "subtitle": "Percentage of adults classified as obese (BMI ≥ 30 kg/m²), based on WHO data, including total, male, and female obesity rates.",
+  "updated_at": "December 23, 2025 10:46 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "American Samoa",
+      "obesity_rate_total": "75.6%",
+      "obesity_rate_male": "70.2%",
+      "obesity_rate_female": "80.6%"
+    },
+    {
+      "rank": 2,
+      "country": "Tonga",
+      "obesity_rate_total": "70.5%",
+      "obesity_rate_male": "61.3%",
+      "obesity_rate_female": "79.1%"
+    },
+    {
+      "rank": 3,
+      "country": "Nauru",
+      "obesity_rate_total": "70.2%",
+      "obesity_rate_male": "69.4%",
+      "obesity_rate_female": "71%"
+    },
+    {
+      "rank": 4,
+      "country": "Tokelau",
+      "obesity_rate_total": "69.2%",
+      "obesity_rate_male": "65.8%",
+      "obesity_rate_female": "72.5%"
+    },
+    {
+      "rank": 5,
+      "country": "Cook Islands",
+      "obesity_rate_total": "68.4%",
+      "obesity_rate_male": "64.8%",
+      "obesity_rate_female": "71.5%"
+    },
+    {
+      "rank": 6,
+      "country": "Niue",
+      "obesity_rate_total": "66.5%",
+      "obesity_rate_male": "63.7%",
+      "obesity_rate_female": "68.8%"
+    },
+    {
+      "rank": 7,
+      "country": "Tuvalu",
+      "obesity_rate_total": "63.9%",
+      "obesity_rate_male": "57.1%",
+      "obesity_rate_female": "22.9%"
+    },
+    {
+      "rank": 8,
+      "country": "Samoa",
+      "obesity_rate_total": "61.2%",
+      "obesity_rate_male": "50%",
+      "obesity_rate_female": "72.6%"
+    },
+    {
+      "rank": 9,
+      "country": "French Polynesia",
+      "obesity_rate_total": "48.4%",
+      "obesity_rate_male": "46.7%",
+      "obesity_rate_female": "50.2%"
+    },
+    {
+      "rank": 10,
+      "country": "Bahamas",
+      "obesity_rate_total": "47.6%",
+      "obesity_rate_male": "39.1%",
+      "obesity_rate_female": "55.1%"
+    },
+    {
+      "rank": 11,
+      "country": "Marshall Islands",
+      "obesity_rate_total": "47.3%",
+      "obesity_rate_male": "38.4%",
+      "obesity_rate_female": "56.4%"
+    },
+    {
+      "rank": 12,
+      "country": "Saint Kitts and Nevis",
+      "obesity_rate_total": "46.6%",
+      "obesity_rate_male": "37.4%",
+      "obesity_rate_female": "55%"
+    },
+    {
+      "rank": 13,
+      "country": "Kiribati",
+      "obesity_rate_total": "46.2%",
+      "obesity_rate_male": "35.8%",
+      "obesity_rate_female": "55.5%"
+    },
+    {
+      "rank": 14,
+      "country": "Micronesia",
+      "obesity_rate_total": "45.6%",
+      "obesity_rate_male": "37%",
+      "obesity_rate_female": "54.1%"
+    },
+    {
+      "rank": 15,
+      "country": "Kuwait",
+      "obesity_rate_total": "45.4%",
+      "obesity_rate_male": "41.6%",
+      "obesity_rate_female": "51.7%"
+    },
+    {
+      "rank": 16,
+      "country": "Qatar",
+      "obesity_rate_total": "43.8%",
+      "obesity_rate_male": "41.7%",
+      "obesity_rate_female": "50.6%"
+    },
+    {
+      "rank": 17,
+      "country": "Egypt",
+      "obesity_rate_total": "43%",
+      "obesity_rate_male": "30.1%",
+      "obesity_rate_female": "56%"
+    },
+    {
+      "rank": 18,
+      "country": "United States",
+      "obesity_rate_total": "42.9%",
+      "obesity_rate_male": "41.9%",
+      "obesity_rate_female": "43.8%"
+    },
+    {
+      "rank": 19,
+      "country": "Palau",
+      "obesity_rate_total": "42.2%",
+      "obesity_rate_male": "39.6%",
+      "obesity_rate_female": "45.1%"
+    },
+    {
+      "rank": 20,
+      "country": "Belize",
+      "obesity_rate_total": "41.9%",
+      "obesity_rate_male": "32.3%",
+      "obesity_rate_female": "51.5%"
+    },
+    {
+      "rank": 21,
+      "country": "Saudi Arabia",
+      "obesity_rate_total": "41.1%",
+      "obesity_rate_male": "38.9%",
+      "obesity_rate_female": "44.5%"
+    },
+    {
+      "rank": 22,
+      "country": "Chile",
+      "obesity_rate_total": "39.5%",
+      "obesity_rate_male": "33.9%",
+      "obesity_rate_female": "45%"
+    },
+    {
+      "rank": 23,
+      "country": "Georgia",
+      "obesity_rate_total": "38.9%",
+      "obesity_rate_male": "35.1%",
+      "obesity_rate_female": "42.2%"
+    },
+    {
+      "rank": 24,
+      "country": "Romania",
+      "obesity_rate_total": "38.2%",
+      "obesity_rate_male": "40.1%",
+      "obesity_rate_female": "36.5%"
+    },
+    {
+      "rank": 25,
+      "country": "Barbados",
+      "obesity_rate_total": "38.2%",
+      "obesity_rate_male": "27.1%",
+      "obesity_rate_female": "48.2%"
+    },
+    {
+      "rank": 26,
+      "country": "Iraq",
+      "obesity_rate_total": "37.4%",
+      "obesity_rate_male": "29.3%",
+      "obesity_rate_female": "45.1%"
+    },
+    {
+      "rank": 27,
+      "country": "Bahrain",
+      "obesity_rate_total": "37.2%",
+      "obesity_rate_male": "33.8%",
+      "obesity_rate_female": "43.7%"
+    },
+    {
+      "rank": 28,
+      "country": "Hungary",
+      "obesity_rate_total": "36.4%",
+      "obesity_rate_male": "38.5%",
+      "obesity_rate_female": "34.5%"
+    },
+    {
+      "rank": 29,
+      "country": "Libya",
+      "obesity_rate_total": "36.2%",
+      "obesity_rate_male": "26.9%",
+      "obesity_rate_female": "45.5%"
+    },
+    {
+      "rank": 30,
+      "country": "Mexico",
+      "obesity_rate_total": "36.1%",
+      "obesity_rate_male": "31.5%",
+      "obesity_rate_female": "40.3%"
+    },
+    {
+      "rank": 31,
+      "country": "Panama",
+      "obesity_rate_total": "36.1%",
+      "obesity_rate_male": "29%",
+      "obesity_rate_female": "43%"
+    },
+    {
+      "rank": 32,
+      "country": "Argentina",
+      "obesity_rate_total": "36%",
+      "obesity_rate_male": "34.8%",
+      "obesity_rate_female": "37.2%"
+    },
+    {
+      "rank": 33,
+      "country": "Croatia",
+      "obesity_rate_total": "35.7%",
+      "obesity_rate_male": "36.7%",
+      "obesity_rate_female": "34.6%"
+    },
+    {
+      "rank": 34,
+      "country": "Jordan",
+      "obesity_rate_total": "35.6%",
+      "obesity_rate_male": "31.4%",
+      "obesity_rate_female": "40.2%"
+    },
+    {
+      "rank": 35,
+      "country": "Uruguay",
+      "obesity_rate_total": "34.7%",
+      "obesity_rate_male": "31.2%",
+      "obesity_rate_female": "37.8%"
+    },
+    {
+      "rank": 36,
+      "country": "Malta",
+      "obesity_rate_total": "34.6%",
+      "obesity_rate_male": "36.8%",
+      "obesity_rate_female": "32.2%"
+    },
+    {
+      "rank": 37,
+      "country": "Turkey",
+      "obesity_rate_total": "34.3%",
+      "obesity_rate_male": "25.6%",
+      "obesity_rate_female": "42.7%"
+    },
+    {
+      "rank": 38,
+      "country": "New Zealand",
+      "obesity_rate_total": "34.2%",
+      "obesity_rate_male": "33.1%",
+      "obesity_rate_female": "35.4%"
+    },
+    {
+      "rank": 39,
+      "country": "Jamaica",
+      "obesity_rate_total": "34.2%",
+      "obesity_rate_male": "19%",
+      "obesity_rate_female": "48.8%"
+    },
+    {
+      "rank": 40,
+      "country": "Antigua and Barbuda",
+      "obesity_rate_total": "34.1%",
+      "obesity_rate_male": "24.2%",
+      "obesity_rate_female": "42.8%"
+    },
+    {
+      "rank": 41,
+      "country": "Bermuda",
+      "obesity_rate_total": "34%",
+      "obesity_rate_male": "24.4%",
+      "obesity_rate_female": "42.7%"
+    },
+    {
+      "rank": 42,
+      "country": "Saint Lucia",
+      "obesity_rate_total": "33.9%",
+      "obesity_rate_male": "20.7%",
+      "obesity_rate_female": "46.7%"
+    },
+    {
+      "rank": 43,
+      "country": "Fiji",
+      "obesity_rate_total": "33.8%",
+      "obesity_rate_male": "25.8%",
+      "obesity_rate_female": "41.8%"
+    },
+    {
+      "rank": 44,
+      "country": "Greece",
+      "obesity_rate_total": "33.7%",
+      "obesity_rate_male": "33.1%",
+      "obesity_rate_female": "34.2%"
+    },
+    {
+      "rank": 45,
+      "country": "Saint Vincent and the Grenadines",
+      "obesity_rate_total": "33.6%",
+      "obesity_rate_male": "18.9%",
+      "obesity_rate_female": "48.8%"
+    },
+    {
+      "rank": 46,
+      "country": "Palestine",
+      "obesity_rate_total": "32.8%",
+      "obesity_rate_male": "26.2%",
+      "obesity_rate_female": "39.2%"
+    },
+    {
+      "rank": 47,
+      "country": "Nicaragua",
+      "obesity_rate_total": "32.4%",
+      "obesity_rate_male": "27.1%",
+      "obesity_rate_female": "37.4%"
+    },
+    {
+      "rank": 48,
+      "country": "Brunei",
+      "obesity_rate_total": "32.4%",
+      "obesity_rate_male": "30.6%",
+      "obesity_rate_female": "34.3%"
+    },
+    {
+      "rank": 49,
+      "country": "Paraguay",
+      "obesity_rate_total": "32.1%",
+      "obesity_rate_male": "29.1%",
+      "obesity_rate_female": "35%"
+    },
+    {
+      "rank": 50,
+      "country": "Costa Rica",
+      "obesity_rate_total": "32%",
+      "obesity_rate_male": "25.1%",
+      "obesity_rate_female": "38.7%"
+    },
+    {
+      "rank": 51,
+      "country": "Australia",
+      "obesity_rate_total": "31.8%",
+      "obesity_rate_male": "32.7%",
+      "obesity_rate_female": "31%"
+    },
+    {
+      "rank": 52,
+      "country": "United Arab Emirates",
+      "obesity_rate_total": "31.5%",
+      "obesity_rate_male": "29.2%",
+      "obesity_rate_female": "37.8%"
+    },
+    {
+      "rank": 53,
+      "country": "Dominica",
+      "obesity_rate_total": "31.5%",
+      "obesity_rate_male": "18%",
+      "obesity_rate_female": "44.7%"
+    },
+    {
+      "rank": 54,
+      "country": "Poland",
+      "obesity_rate_total": "31.4%",
+      "obesity_rate_male": "33.8%",
+      "obesity_rate_female": "29.2%"
+    },
+    {
+      "rank": 55,
+      "country": "Czechia",
+      "obesity_rate_total": "31.3%",
+      "obesity_rate_male": "34.4%",
+      "obesity_rate_female": "28.3%"
+    },
+    {
+      "rank": 56,
+      "country": "Syria",
+      "obesity_rate_total": "31.2%",
+      "obesity_rate_male": "24.2%",
+      "obesity_rate_female": "38%"
+    },
+    {
+      "rank": 57,
+      "country": "Lebanon",
+      "obesity_rate_total": "31.1%",
+      "obesity_rate_male": "28.9%",
+      "obesity_rate_female": "33%"
+    },
+    {
+      "rank": 58,
+      "country": "Lithuania",
+      "obesity_rate_total": "31.1%",
+      "obesity_rate_male": "29.9%",
+      "obesity_rate_female": "32.2%"
+    },
+    {
+      "rank": 59,
+      "country": "Ireland",
+      "obesity_rate_total": "30.8%",
+      "obesity_rate_male": "32.4%",
+      "obesity_rate_female": "29.3%"
+    },
+    {
+      "rank": 60,
+      "country": "North Macedonia",
+      "obesity_rate_total": "30.6%",
+      "obesity_rate_male": "30.4%",
+      "obesity_rate_female": "30.9%"
+    },
+    {
+      "rank": 61,
+      "country": "Grenada",
+      "obesity_rate_total": "30.5%",
+      "obesity_rate_male": "18.7%",
+      "obesity_rate_female": "42.1%"
+    },
+    {
+      "rank": 62,
+      "country": "Slovakia",
+      "obesity_rate_total": "30.3%",
+      "obesity_rate_male": "33.1%",
+      "obesity_rate_female": "27.6%"
+    },
+    {
+      "rank": 63,
+      "country": "Seychelles",
+      "obesity_rate_total": "30.3%",
+      "obesity_rate_male": "20.7%",
+      "obesity_rate_female": "41.1%"
+    },
+    {
+      "rank": 64,
+      "country": "Oman",
+      "obesity_rate_total": "30.2%",
+      "obesity_rate_male": "25.6%",
+      "obesity_rate_female": "38.7%"
+    },
+    {
+      "rank": 65,
+      "country": "South Africa",
+      "obesity_rate_total": "30%",
+      "obesity_rate_male": "12.8%",
+      "obesity_rate_female": "45.7%"
+    },
+    {
+      "rank": 66,
+      "country": "El Salvador",
+      "obesity_rate_total": "29.9%",
+      "obesity_rate_male": "22%",
+      "obesity_rate_female": "36.6%"
+    },
+    {
+      "rank": 67,
+      "country": "Latvia",
+      "obesity_rate_total": "29.8%",
+      "obesity_rate_male": "27.8%",
+      "obesity_rate_female": "31.6%"
+    },
+    {
+      "rank": 68,
+      "country": "Ukraine",
+      "obesity_rate_total": "29.2%",
+      "obesity_rate_male": "23.3%",
+      "obesity_rate_female": "33.9%"
+    },
+    {
+      "rank": 69,
+      "country": "Trinidad and Tobago",
+      "obesity_rate_total": "29.2%",
+      "obesity_rate_male": "23.1%",
+      "obesity_rate_female": "34.9%"
+    },
+    {
+      "rank": 70,
+      "country": "Dominican Republic",
+      "obesity_rate_total": "29.1%",
+      "obesity_rate_male": "23.1%",
+      "obesity_rate_female": "35.1%"
+    },
+    {
+      "rank": 71,
+      "country": "Suriname",
+      "obesity_rate_total": "29%",
+      "obesity_rate_male": "19.2%",
+      "obesity_rate_female": "38.5%"
+    },
+    {
+      "rank": 72,
+      "country": "Brazil",
+      "obesity_rate_total": "28.8%",
+      "obesity_rate_male": "24.8%",
+      "obesity_rate_female": "32.5%"
+    },
+    {
+      "rank": 73,
+      "country": "United Kingdom",
+      "obesity_rate_total": "28.7%",
+      "obesity_rate_male": "28.2%",
+      "obesity_rate_female": "29.2%"
+    },
+    {
+      "rank": 74,
+      "country": "Uzbekistan",
+      "obesity_rate_total": "28.5%",
+      "obesity_rate_male": "25.4%",
+      "obesity_rate_female": "31.6%"
+    },
+    {
+      "rank": 75,
+      "country": "Honduras",
+      "obesity_rate_total": "28.5%",
+      "obesity_rate_male": "22.3%",
+      "obesity_rate_female": "34.8%"
+    },
+    {
+      "rank": 76,
+      "country": "Tunisia",
+      "obesity_rate_total": "28.3%",
+      "obesity_rate_male": "19.9%",
+      "obesity_rate_female": "36.1%"
+    },
+    {
+      "rank": 77,
+      "country": "Greenland",
+      "obesity_rate_total": "28.2%",
+      "obesity_rate_male": "25.3%",
+      "obesity_rate_female": "31.4%"
+    },
+    {
+      "rank": 78,
+      "country": "Russia",
+      "obesity_rate_total": "28%",
+      "obesity_rate_male": "25.5%",
+      "obesity_rate_female": "30.2%"
+    },
+    {
+      "rank": 79,
+      "country": "Guyana",
+      "obesity_rate_total": "28%",
+      "obesity_rate_male": "17.4%",
+      "obesity_rate_female": "37.8%"
+    },
+    {
+      "rank": 80,
+      "country": "Armenia",
+      "obesity_rate_total": "27.9%",
+      "obesity_rate_male": "20%",
+      "obesity_rate_female": "33.7%"
+    },
+    {
+      "rank": 81,
+      "country": "Bolivia",
+      "obesity_rate_total": "27.8%",
+      "obesity_rate_male": "22.4%",
+      "obesity_rate_female": "33.1%"
+    },
+    {
+      "rank": 82,
+      "country": "Azerbaijan",
+      "obesity_rate_total": "27.5%",
+      "obesity_rate_male": "19.5%",
+      "obesity_rate_female": "34.9%"
+    },
+    {
+      "rank": 83,
+      "country": "Canada",
+      "obesity_rate_total": "27.3%",
+      "obesity_rate_male": "28.7%",
+      "obesity_rate_female": "25.9%"
+    },
+    {
+      "rank": 84,
+      "country": "Eswatini",
+      "obesity_rate_total": "27.3%",
+      "obesity_rate_male": "13.1%",
+      "obesity_rate_female": "41%"
+    },
+    {
+      "rank": 85,
+      "country": "Peru",
+      "obesity_rate_total": "27.2%",
+      "obesity_rate_male": "22.9%",
+      "obesity_rate_female": "31.3%"
+    },
+    {
+      "rank": 86,
+      "country": "Portugal",
+      "obesity_rate_total": "27.1%",
+      "obesity_rate_male": "25%",
+      "obesity_rate_female": "28.8%"
+    },
+    {
+      "rank": 87,
+      "country": "Ecuador",
+      "obesity_rate_total": "27%",
+      "obesity_rate_male": "21.9%",
+      "obesity_rate_female": "31.9%"
+    },
+    {
+      "rank": 88,
+      "country": "Estonia",
+      "obesity_rate_total": "26.7%",
+      "obesity_rate_male": "25.2%",
+      "obesity_rate_female": "28%"
+    },
+    {
+      "rank": 89,
+      "country": "Belarus",
+      "obesity_rate_total": "26.6%",
+      "obesity_rate_male": "22.2%",
+      "obesity_rate_female": "30.1%"
+    },
+    {
+      "rank": 90,
+      "country": "Albania",
+      "obesity_rate_total": "26.6%",
+      "obesity_rate_male": "23.3%",
+      "obesity_rate_female": "29.8%"
+    },
+    {
+      "rank": 91,
+      "country": "Serbia",
+      "obesity_rate_total": "26.1%",
+      "obesity_rate_male": "28%",
+      "obesity_rate_female": "24.3%"
+    },
+    {
+      "rank": 92,
+      "country": "Moldova",
+      "obesity_rate_total": "25.6%",
+      "obesity_rate_male": "22.4%",
+      "obesity_rate_female": "28.5%"
+    },
+    {
+      "rank": 93,
+      "country": "Bosnia and Herzegovina",
+      "obesity_rate_total": "25.5%",
+      "obesity_rate_male": "24.6%",
+      "obesity_rate_female": "26.3%"
+    },
+    {
+      "rank": 94,
+      "country": "Iran",
+      "obesity_rate_total": "25.3%",
+      "obesity_rate_male": "18.4%",
+      "obesity_rate_female": "32.2%"
+    },
+    {
+      "rank": 95,
+      "country": "Guatemala",
+      "obesity_rate_total": "25.2%",
+      "obesity_rate_male": "20.7%",
+      "obesity_rate_female": "29.5%"
+    },
+    {
+      "rank": 96,
+      "country": "Cyprus",
+      "obesity_rate_total": "25.1%",
+      "obesity_rate_male": "27.1%",
+      "obesity_rate_female": "23.2%"
+    },
+    {
+      "rank": 97,
+      "country": "Kyrgyzstan",
+      "obesity_rate_total": "24.4%",
+      "obesity_rate_male": "22.1%",
+      "obesity_rate_female": "26.5%"
+    },
+    {
+      "rank": 98,
+      "country": "Germany",
+      "obesity_rate_total": "24.2%",
+      "obesity_rate_male": "25.7%",
+      "obesity_rate_female": "22.7%"
+    },
+    {
+      "rank": 99,
+      "country": "Algeria",
+      "obesity_rate_total": "24.2%",
+      "obesity_rate_male": "15.8%",
+      "obesity_rate_female": "32.9%"
+    },
+    {
+      "rank": 100,
+      "country": "Bulgaria",
+      "obesity_rate_total": "24.2%",
+      "obesity_rate_male": "26.4%",
+      "obesity_rate_female": "22.3%"
+    },
+    {
+      "rank": 101,
+      "country": "Mongolia",
+      "obesity_rate_total": "24%",
+      "obesity_rate_male": "21.4%",
+      "obesity_rate_female": "26.4%"
+    },
+    {
+      "rank": 102,
+      "country": "Colombia",
+      "obesity_rate_total": "23.9%",
+      "obesity_rate_male": "18%",
+      "obesity_rate_female": "20.4%"
+    },
+    {
+      "rank": 103,
+      "country": "Finland",
+      "obesity_rate_total": "23.7%",
+      "obesity_rate_male": "22.8%",
+      "obesity_rate_female": "24.6%"
+    },
+    {
+      "rank": 104,
+      "country": "Cuba",
+      "obesity_rate_total": "23.5%",
+      "obesity_rate_male": "19.7%",
+      "obesity_rate_female": "27.3%"
+    },
+    {
+      "rank": 105,
+      "country": "Israel",
+      "obesity_rate_total": "23.4%",
+      "obesity_rate_male": "23.5%",
+      "obesity_rate_female": "23.2%"
+    },
+    {
+      "rank": 106,
+      "country": "Venezuela",
+      "obesity_rate_total": "22.8%",
+      "obesity_rate_male": "20.2%",
+      "obesity_rate_female": "25.3%"
+    },
+    {
+      "rank": 107,
+      "country": "Iceland",
+      "obesity_rate_total": "22.6%",
+      "obesity_rate_male": "24.5%",
+      "obesity_rate_female": "20.6%"
+    },
+    {
+      "rank": 108,
+      "country": "Malaysia",
+      "obesity_rate_total": "22.4%",
+      "obesity_rate_male": "17.9%",
+      "obesity_rate_female": "27.1%"
+    },
+    {
+      "rank": 109,
+      "country": "Slovenia",
+      "obesity_rate_total": "22.2%",
+      "obesity_rate_male": "27.5%",
+      "obesity_rate_female": "16.9%"
+    },
+    {
+      "rank": 110,
+      "country": "Morocco",
+      "obesity_rate_total": "22.1%",
+      "obesity_rate_male": "13.4%",
+      "obesity_rate_female": "30.8%"
+    },
+    {
+      "rank": 111,
+      "country": "Belgium",
+      "obesity_rate_total": "22%",
+      "obesity_rate_male": "21.3%",
+      "obesity_rate_female": "22.7%"
+    },
+    {
+      "rank": 112,
+      "country": "Pakistan",
+      "obesity_rate_total": "21.8%",
+      "obesity_rate_male": "19.1%",
+      "obesity_rate_female": "24.5%"
+    },
+    {
+      "rank": 113,
+      "country": "Italy",
+      "obesity_rate_total": "21.6%",
+      "obesity_rate_male": "20.1%",
+      "obesity_rate_female": "22.9%"
+    },
+    {
+      "rank": 114,
+      "country": "Solomon Islands",
+      "obesity_rate_total": "21.6%",
+      "obesity_rate_male": "16.5%",
+      "obesity_rate_female": "26.9%"
+    },
+    {
+      "rank": 115,
+      "country": "Montenegro",
+      "obesity_rate_total": "21.1%",
+      "obesity_rate_male": "22.7%",
+      "obesity_rate_female": "19.5%"
+    },
+    {
+      "rank": 116,
+      "country": "Tajikistan",
+      "obesity_rate_total": "20.8%",
+      "obesity_rate_male": "17.9%",
+      "obesity_rate_female": "23.6%"
+    },
+    {
+      "rank": 117,
+      "country": "Mauritania",
+      "obesity_rate_total": "20.8%",
+      "obesity_rate_male": "7.8%",
+      "obesity_rate_female": "32.7%"
+    },
+    {
+      "rank": 118,
+      "country": "Andorra",
+      "obesity_rate_total": "20.5%",
+      "obesity_rate_male": "22.7%",
+      "obesity_rate_female": "18.2%"
+    },
+    {
+      "rank": 119,
+      "country": "Turkmenistan",
+      "obesity_rate_total": "20.2%",
+      "obesity_rate_male": "17.3%",
+      "obesity_rate_female": "22.9%"
+    },
+    {
+      "rank": 120,
+      "country": "Luxembourg",
+      "obesity_rate_total": "20.2%",
+      "obesity_rate_male": "22.3%",
+      "obesity_rate_female": "18.1%"
+    },
+    {
+      "rank": 121,
+      "country": "Papua New Guinea",
+      "obesity_rate_total": "20.1%",
+      "obesity_rate_male": "15.4%",
+      "obesity_rate_female": "25.1%"
+    },
+    {
+      "rank": 122,
+      "country": "Gabon",
+      "obesity_rate_total": "20%",
+      "obesity_rate_male": "10.3%",
+      "obesity_rate_female": "30.2%"
+    },
+    {
+      "rank": 123,
+      "country": "Vanuatu",
+      "obesity_rate_total": "19.9%",
+      "obesity_rate_male": "15.1%",
+      "obesity_rate_female": "24.7%"
+    },
+    {
+      "rank": 124,
+      "country": "Norway",
+      "obesity_rate_total": "19.8%",
+      "obesity_rate_male": "21.1%",
+      "obesity_rate_female": "18.5%"
+    },
+    {
+      "rank": 125,
+      "country": "Mauritius",
+      "obesity_rate_total": "19.5%",
+      "obesity_rate_male": "13%",
+      "obesity_rate_female": "25.6%"
+    },
+    {
+      "rank": 126,
+      "country": "Kazakhstan",
+      "obesity_rate_total": "19.3%",
+      "obesity_rate_male": "18.5%",
+      "obesity_rate_female": "20.1%"
+    },
+    {
+      "rank": 127,
+      "country": "Lesotho",
+      "obesity_rate_total": "19.3%",
+      "obesity_rate_male": "7.4%",
+      "obesity_rate_female": "30.7%"
+    },
+    {
+      "rank": 128,
+      "country": "Spain",
+      "obesity_rate_total": "19.2%",
+      "obesity_rate_male": "21.7%",
+      "obesity_rate_female": "16.8%"
+    },
+    {
+      "rank": 129,
+      "country": "Afghanistan",
+      "obesity_rate_total": "17.6%",
+      "obesity_rate_male": "13.4%",
+      "obesity_rate_female": "21.8%"
+    },
+    {
+      "rank": 130,
+      "country": "Maldives",
+      "obesity_rate_total": "17.6%",
+      "obesity_rate_male": "13.2%",
+      "obesity_rate_female": "23.9%"
+    },
+    {
+      "rank": 131,
+      "country": "Botswana",
+      "obesity_rate_total": "17.5%",
+      "obesity_rate_male": "7.9%",
+      "obesity_rate_female": "26.5%"
+    },
+    {
+      "rank": 132,
+      "country": "Equatorial Guinea",
+      "obesity_rate_total": "17.2%",
+      "obesity_rate_male": "7.3%",
+      "obesity_rate_female": "29%"
+    },
+    {
+      "rank": 133,
+      "country": "Austria",
+      "obesity_rate_total": "17%",
+      "obesity_rate_male": "20%",
+      "obesity_rate_female": "14.3%"
+    },
+    {
+      "rank": 134,
+      "country": "Netherlands",
+      "obesity_rate_total": "16.9%",
+      "obesity_rate_male": "16.8%",
+      "obesity_rate_female": "17.1%"
+    },
+    {
+      "rank": 135,
+      "country": "Sweden",
+      "obesity_rate_total": "16.4%",
+      "obesity_rate_male": "17.6%",
+      "obesity_rate_female": "15.2%"
+    },
+    {
+      "rank": 136,
+      "country": "Liberia",
+      "obesity_rate_total": "16.2%",
+      "obesity_rate_male": "12.5%",
+      "obesity_rate_female": "19.8%"
+    },
+    {
+      "rank": 137,
+      "country": "Sudan",
+      "obesity_rate_total": "15.5%",
+      "obesity_rate_male": "10.4%",
+      "obesity_rate_female": "20.4%"
+    },
+    {
+      "rank": 138,
+      "country": "Comoros",
+      "obesity_rate_total": "15.5%",
+      "obesity_rate_male": "7.5%",
+      "obesity_rate_female": "23.5%"
+    },
+    {
+      "rank": 139,
+      "country": "Namibia",
+      "obesity_rate_total": "15.3%",
+      "obesity_rate_male": "8.7%",
+      "obesity_rate_female": "21.2%"
+    },
+    {
+      "rank": 140,
+      "country": "Cape Verde",
+      "obesity_rate_total": "15.1%",
+      "obesity_rate_male": "7.8%",
+      "obesity_rate_female": "22.2%"
+    },
+    {
+      "rank": 141,
+      "country": "Sao Tome and Principe",
+      "obesity_rate_total": "15%",
+      "obesity_rate_male": "8.7%",
+      "obesity_rate_female": "21.3%"
+    },
+    {
+      "rank": 142,
+      "country": "Thailand",
+      "obesity_rate_total": "14.5%",
+      "obesity_rate_male": "11.2%",
+      "obesity_rate_female": "17.5%"
+    },
+    {
+      "rank": 143,
+      "country": "Denmark",
+      "obesity_rate_total": "14.3%",
+      "obesity_rate_male": "16.7%",
+      "obesity_rate_female": "12%"
+    },
+    {
+      "rank": 144,
+      "country": "Switzerland",
+      "obesity_rate_total": "13.7%",
+      "obesity_rate_male": "16.6%",
+      "obesity_rate_female": "10.9%"
+    },
+    {
+      "rank": 145,
+      "country": "Singapore",
+      "obesity_rate_total": "13.5%",
+      "obesity_rate_male": "15.2%",
+      "obesity_rate_female": "11.7%"
+    },
+    {
+      "rank": 146,
+      "country": "Cameroon",
+      "obesity_rate_total": "13.4%",
+      "obesity_rate_male": "7.7%",
+      "obesity_rate_female": "18.9%"
+    },
+    {
+      "rank": 147,
+      "country": "Gambia",
+      "obesity_rate_total": "13.2%",
+      "obesity_rate_male": "8.5%",
+      "obesity_rate_female": "17.8%"
+    },
+    {
+      "rank": 148,
+      "country": "Somalia",
+      "obesity_rate_total": "12.7%",
+      "obesity_rate_male": "4.9%",
+      "obesity_rate_female": "20.3%"
+    },
+    {
+      "rank": 149,
+      "country": "Zimbabwe",
+      "obesity_rate_total": "12.4%",
+      "obesity_rate_male": "4.5%",
+      "obesity_rate_female": "18.9%"
+    },
+    {
+      "rank": 150,
+      "country": "Ghana",
+      "obesity_rate_total": "12.1%",
+      "obesity_rate_male": "4.7%",
+      "obesity_rate_female": "19.3%"
+    },
+    {
+      "rank": 151,
+      "country": "Bhutan",
+      "obesity_rate_total": "12%",
+      "obesity_rate_male": "9%",
+      "obesity_rate_female": "15.4%"
+    },
+    {
+      "rank": 152,
+      "country": "Yemen",
+      "obesity_rate_total": "11.6%",
+      "obesity_rate_male": "8.9%",
+      "obesity_rate_female": "14.2%"
+    },
+    {
+      "rank": 153,
+      "country": "Indonesia",
+      "obesity_rate_total": "11.5%",
+      "obesity_rate_male": "6.6%",
+      "obesity_rate_female": "16.4%"
+    },
+    {
+      "rank": 154,
+      "country": "Tanzania",
+      "obesity_rate_total": "11.4%",
+      "obesity_rate_male": "5.6%",
+      "obesity_rate_female": "16.8%"
+    },
+    {
+      "rank": 155,
+      "country": "Kenya",
+      "obesity_rate_total": "11%",
+      "obesity_rate_male": "5%",
+      "obesity_rate_female": "16.9%"
+    },
+    {
+      "rank": 156,
+      "country": "France",
+      "obesity_rate_total": "10.9%",
+      "obesity_rate_male": "11.4%",
+      "obesity_rate_female": "10.5%"
+    },
+    {
+      "rank": 157,
+      "country": "North Korea",
+      "obesity_rate_total": "10.9%",
+      "obesity_rate_male": "8.5%",
+      "obesity_rate_female": "13.1%"
+    },
+    {
+      "rank": 158,
+      "country": "Djibouti",
+      "obesity_rate_total": "10.9%",
+      "obesity_rate_male": "5.7%",
+      "obesity_rate_female": "15.8%"
+    },
+    {
+      "rank": 159,
+      "country": "Nigeria",
+      "obesity_rate_total": "10.8%",
+      "obesity_rate_male": "7.1%",
+      "obesity_rate_female": "14.6%"
+    },
+    {
+      "rank": 160,
+      "country": "Sri Lanka",
+      "obesity_rate_total": "10.8%",
+      "obesity_rate_male": "6.6%",
+      "obesity_rate_female": "14.2%"
+    },
+    {
+      "rank": 161,
+      "country": "Ivory Coast",
+      "obesity_rate_total": "10.6%",
+      "obesity_rate_male": "7%",
+      "obesity_rate_female": "14.3%"
+    },
+    {
+      "rank": 162,
+      "country": "Angola",
+      "obesity_rate_total": "10.5%",
+      "obesity_rate_male": "5.4%",
+      "obesity_rate_female": "15.4%"
+    },
+    {
+      "rank": 163,
+      "country": "Togo",
+      "obesity_rate_total": "10.4%",
+      "obesity_rate_male": "5%",
+      "obesity_rate_female": "15.9%"
+    },
+    {
+      "rank": 164,
+      "country": "Haiti",
+      "obesity_rate_total": "10.2%",
+      "obesity_rate_male": "6.2%",
+      "obesity_rate_female": "14.1%"
+    },
+    {
+      "rank": 165,
+      "country": "Guinea-Bissau",
+      "obesity_rate_total": "10.1%",
+      "obesity_rate_male": "6.6%",
+      "obesity_rate_female": "13.3%"
+    },
+    {
+      "rank": 166,
+      "country": "Mali",
+      "obesity_rate_total": "10%",
+      "obesity_rate_male": "8.6%",
+      "obesity_rate_female": "11.4%"
+    },
+    {
+      "rank": 167,
+      "country": "Benin",
+      "obesity_rate_total": "9.9%",
+      "obesity_rate_male": "6.3%",
+      "obesity_rate_female": "13.4%"
+    },
+    {
+      "rank": 168,
+      "country": "Zambia",
+      "obesity_rate_total": "9.4%",
+      "obesity_rate_male": "4.1%",
+      "obesity_rate_female": "14.4%"
+    },
+    {
+      "rank": 169,
+      "country": "Mozambique",
+      "obesity_rate_total": "8.8%",
+      "obesity_rate_male": "5.3%",
+      "obesity_rate_female": "12%"
+    },
+    {
+      "rank": 170,
+      "country": "Philippines",
+      "obesity_rate_total": "8.7%",
+      "obesity_rate_male": "7.3%",
+      "obesity_rate_female": "10.2%"
+    },
+    {
+      "rank": 171,
+      "country": "Senegal",
+      "obesity_rate_total": "8.7%",
+      "obesity_rate_male": "3.4%",
+      "obesity_rate_female": "13.5%"
+    },
+    {
+      "rank": 172,
+      "country": "Guinea",
+      "obesity_rate_total": "8.3%",
+      "obesity_rate_male": "4.8%",
+      "obesity_rate_female": "11.5%"
+    },
+    {
+      "rank": 173,
+      "country": "China",
+      "obesity_rate_total": "8.2%",
+      "obesity_rate_male": "8.5%",
+      "obesity_rate_female": "7.9%"
+    },
+    {
+      "rank": 174,
+      "country": "Republic of the Congo",
+      "obesity_rate_total": "8%",
+      "obesity_rate_male": "3.7%",
+      "obesity_rate_female": "12.1%"
+    },
+    {
+      "rank": 175,
+      "country": "Laos",
+      "obesity_rate_total": "7.8%",
+      "obesity_rate_male": "5.7%",
+      "obesity_rate_female": "9.8%"
+    },
+    {
+      "rank": 176,
+      "country": "Central African Republic",
+      "obesity_rate_total": "7.7%",
+      "obesity_rate_male": "4.9%",
+      "obesity_rate_female": "10.3%"
+    },
+    {
+      "rank": 177,
+      "country": "Myanmar",
+      "obesity_rate_total": "7.5%",
+      "obesity_rate_male": "5.5%",
+      "obesity_rate_female": "9.6%"
+    },
+    {
+      "rank": 178,
+      "country": "India",
+      "obesity_rate_total": "7.2%",
+      "obesity_rate_male": "5.2%",
+      "obesity_rate_female": "9.3%"
+    },
+    {
+      "rank": 179,
+      "country": "Uganda",
+      "obesity_rate_total": "6.9%",
+      "obesity_rate_male": "3.6%",
+      "obesity_rate_female": "10%"
+    },
+    {
+      "rank": 180,
+      "country": "South Korea",
+      "obesity_rate_total": "6.7%",
+      "obesity_rate_male": "7.7%",
+      "obesity_rate_female": "5.7%"
+    },
+    {
+      "rank": 181,
+      "country": "Nepal",
+      "obesity_rate_total": "6.6%",
+      "obesity_rate_male": "4.5%",
+      "obesity_rate_female": "8.4%"
+    },
+    {
+      "rank": 182,
+      "country": "Sierra Leone",
+      "obesity_rate_total": "6.5%",
+      "obesity_rate_male": "2.3%",
+      "obesity_rate_female": "10.6%"
+    },
+    {
+      "rank": 183,
+      "country": "Malawi",
+      "obesity_rate_total": "6.4%",
+      "obesity_rate_male": "2.3%",
+      "obesity_rate_female": "10%"
+    },
+    {
+      "rank": 184,
+      "country": "Burkina Faso",
+      "obesity_rate_total": "6.1%",
+      "obesity_rate_male": "3.5%",
+      "obesity_rate_female": "8.6%"
+    },
+    {
+      "rank": 185,
+      "country": "DR Congo",
+      "obesity_rate_total": "5.8%",
+      "obesity_rate_male": "3.5%",
+      "obesity_rate_female": "7.9%"
+    },
+    {
+      "rank": 186,
+      "country": "Chad",
+      "obesity_rate_total": "5.7%",
+      "obesity_rate_male": "6.2%",
+      "obesity_rate_female": "5.3%"
+    },
+    {
+      "rank": 187,
+      "country": "Bangladesh",
+      "obesity_rate_total": "5.3%",
+      "obesity_rate_male": "2.9%",
+      "obesity_rate_female": "7.6%"
+    },
+    {
+      "rank": 188,
+      "country": "Niger",
+      "obesity_rate_total": "5.3%",
+      "obesity_rate_male": "4%",
+      "obesity_rate_female": "6.7%"
+    },
+    {
+      "rank": 189,
+      "country": "Japan",
+      "obesity_rate_total": "4.9%",
+      "obesity_rate_male": "6.3%",
+      "obesity_rate_female": "3.7%"
+    },
+    {
+      "rank": 190,
+      "country": "Rwanda",
+      "obesity_rate_total": "4.6%",
+      "obesity_rate_male": "1.4%",
+      "obesity_rate_female": "7.5%"
+    },
+    {
+      "rank": 191,
+      "country": "Burundi",
+      "obesity_rate_total": "4.5%",
+      "obesity_rate_male": "5.3%",
+      "obesity_rate_female": "3.8%"
+    },
+    {
+      "rank": 192,
+      "country": "Cambodia",
+      "obesity_rate_total": "4.4%",
+      "obesity_rate_male": "3.1%",
+      "obesity_rate_female": "5.6%"
+    },
+    {
+      "rank": 193,
+      "country": "Eritrea",
+      "obesity_rate_total": "4.2%",
+      "obesity_rate_male": "2.5%",
+      "obesity_rate_female": "5.8%"
+    },
+    {
+      "rank": 194,
+      "country": "Madagascar",
+      "obesity_rate_total": "3.8%",
+      "obesity_rate_male": "4%",
+      "obesity_rate_female": "3.7%"
+    },
+    {
+      "rank": 195,
+      "country": "Ethiopia",
+      "obesity_rate_total": "2.4%",
+      "obesity_rate_male": "0.9%",
+      "obesity_rate_female": "3.9%"
+    },
+    {
+      "rank": 196,
+      "country": "Timor-Leste",
+      "obesity_rate_total": "2.2%",
+      "obesity_rate_male": "1.6%",
+      "obesity_rate_female": "2.9%"
+    },
+    {
+      "rank": 197,
+      "country": "Vietnam",
+      "obesity_rate_total": "2.1%",
+      "obesity_rate_male": "2%",
+      "obesity_rate_female": "2.2%"
+    }
+  ]
+}

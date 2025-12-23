@@ -294,6 +294,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/major_epidemics_and_pandemics.json"
       },
       {
+        "title": "Obesity Rates by Country (WHO, 2022)",
+        "subtitle": "Percentage of adults classified as obese (BMI ≥ 30 kg/m²), based on WHO data, including total, male, and female obesity rates.",
+        "updated_at": "December 23, 2025 10:46 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/obesity_rates_by_country.json"
+      },
+      {
         "title": "Global Vaccination Rates by Country (2025)",
         "subtitle": "BCG, DTP3, HIB3, MCV1, POL3, and YFV vaccination coverage by country in 2025.",
         "updated_at": "November 07, 2025 03:17 AM UTC",
