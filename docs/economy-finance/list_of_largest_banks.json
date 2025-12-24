@@ -1,0 +1,607 @@
+{
+  "title": "Largest Banks in the World by Assets",
+  "subtitle": "Top global banks ranked by total assets (USD), based on S&P Global data (2025).",
+  "updated_at": "December 24, 2025 10:58 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "bank": "Industrial and Commercial Bank of China",
+      "country": "China",
+      "assets_usd_billions": "6,688.74"
+    },
+    {
+      "rank": 2,
+      "bank": "Agricultural Bank of China",
+      "country": "China",
+      "assets_usd_billions": "5,923.76"
+    },
+    {
+      "rank": 3,
+      "bank": "China Construction Bank",
+      "country": "China",
+      "assets_usd_billions": "5,558.38"
+    },
+    {
+      "rank": 4,
+      "bank": "Bank of China",
+      "country": "China",
+      "assets_usd_billions": "4,803.51"
+    },
+    {
+      "rank": 5,
+      "bank": "JPMorgan Chase",
+      "country": "United States",
+      "assets_usd_billions": "4,002.81"
+    },
+    {
+      "rank": 6,
+      "bank": "Bank of America",
+      "country": "United States",
+      "assets_usd_billions": "3,261.52"
+    },
+    {
+      "rank": 7,
+      "bank": "HSBC",
+      "country": "United Kingdom",
+      "assets_usd_billions": "2,989.81"
+    },
+    {
+      "rank": 8,
+      "bank": "BNP Paribas",
+      "country": "France",
+      "assets_usd_billions": "2,809.83"
+    },
+    {
+      "rank": 9,
+      "bank": "Crédit Agricole",
+      "country": "France",
+      "assets_usd_billions": "2,693.58"
+    },
+    {
+      "rank": 10,
+      "bank": "Mitsubishi UFJ Financial Group",
+      "country": "Japan",
+      "assets_usd_billions": "2,628.12"
+    },
+    {
+      "rank": 11,
+      "bank": "Postal Savings Bank of China",
+      "country": "China",
+      "assets_usd_billions": "2,340.69"
+    },
+    {
+      "rank": 12,
+      "bank": "Citigroup",
+      "country": "United States",
+      "assets_usd_billions": "2,151.95"
+    },
+    {
+      "rank": 13,
+      "bank": "Bank of Communications",
+      "country": "China",
+      "assets_usd_billions": "2,041.45"
+    },
+    {
+      "rank": 14,
+      "bank": "SMBC Group",
+      "country": "Japan",
+      "assets_usd_billions": "1,977.18"
+    },
+    {
+      "rank": 15,
+      "bank": "Wells Fargo",
+      "country": "United States",
+      "assets_usd_billions": "1,929.85"
+    },
+    {
+      "rank": 16,
+      "bank": "Banco Santander",
+      "country": "Spain",
+      "assets_usd_billions": "1,901.94"
+    },
+    {
+      "rank": 17,
+      "bank": "Barclays",
+      "country": "United Kingdom",
+      "assets_usd_billions": "1,900.67"
+    },
+    {
+      "rank": 18,
+      "bank": "Mizuho Financial Group",
+      "country": "Japan",
+      "assets_usd_billions": "1,805.52"
+    },
+    {
+      "rank": 19,
+      "bank": "Goldman Sachs",
+      "country": "United States",
+      "assets_usd_billions": "1,675.97"
+    },
+    {
+      "rank": 20,
+      "bank": "China Merchants Bank",
+      "country": "China",
+      "assets_usd_billions": "1,664.87"
+    },
+    {
+      "rank": 21,
+      "bank": "Groupe BPCE",
+      "country": "France",
+      "assets_usd_billions": "1,646.53"
+    },
+    {
+      "rank": 22,
+      "bank": "Société Générale",
+      "country": "France",
+      "assets_usd_billions": "1,601.74"
+    },
+    {
+      "rank": 23,
+      "bank": "UBS",
+      "country": "Switzerland",
+      "assets_usd_billions": "1,563.32"
+    },
+    {
+      "rank": 24,
+      "bank": "Japan Post Bank",
+      "country": "Japan",
+      "assets_usd_billions": "1,546.95"
+    },
+    {
+      "rank": 25,
+      "bank": "Royal Bank of Canada",
+      "country": "Canada",
+      "assets_usd_billions": "1,513.86"
+    },
+    {
+      "rank": 26,
+      "bank": "Toronto-Dominion Bank",
+      "country": "Canada",
+      "assets_usd_billions": "1,446.51"
+    },
+    {
+      "rank": 27,
+      "bank": "Industrial Bank",
+      "country": "China",
+      "assets_usd_billions": "1,439.62"
+    },
+    {
+      "rank": 28,
+      "bank": "Deutsche Bank",
+      "country": "Germany",
+      "assets_usd_billions": "1,436.15"
+    },
+    {
+      "rank": 29,
+      "bank": "China CITIC Bank",
+      "country": "China",
+      "assets_usd_billions": "1,306.01"
+    },
+    {
+      "rank": 30,
+      "bank": "Shanghai Pudong Development Bank",
+      "country": "China",
+      "assets_usd_billions": "1,296.31"
+    },
+    {
+      "rank": 31,
+      "bank": "Crédit Mutuel",
+      "country": "France",
+      "assets_usd_billions": "1,252.10"
+    },
+    {
+      "rank": 32,
+      "bank": "Morgan Stanley",
+      "country": "United States",
+      "assets_usd_billions": "1,215.07"
+    },
+    {
+      "rank": 33,
+      "bank": "Lloyds Banking Group",
+      "country": "United Kingdom",
+      "assets_usd_billions": "1,135.12"
+    },
+    {
+      "rank": 34,
+      "bank": "China Minsheng Bank",
+      "country": "China",
+      "assets_usd_billions": "1,070.68"
+    },
+    {
+      "rank": 35,
+      "bank": "ING Group",
+      "country": "Netherlands",
+      "assets_usd_billions": "1,056.57"
+    },
+    {
+      "rank": 36,
+      "bank": "Bank of Montreal",
+      "country": "Canada",
+      "assets_usd_billions": "1,014.36"
+    },
+    {
+      "rank": 37,
+      "bank": "Scotiabank",
+      "country": "Canada",
+      "assets_usd_billions": "978.47"
+    },
+    {
+      "rank": 38,
+      "bank": "Intesa Sanpaolo",
+      "country": "Italy",
+      "assets_usd_billions": "966.23"
+    },
+    {
+      "rank": 39,
+      "bank": "China Everbright Bank",
+      "country": "China",
+      "assets_usd_billions": "953.41"
+    },
+    {
+      "rank": 40,
+      "bank": "NatWest Group",
+      "country": "United Kingdom",
+      "assets_usd_billions": "886.34"
+    },
+    {
+      "rank": 41,
+      "bank": "ANZ Group",
+      "country": "Australia",
+      "assets_usd_billions": "852.19"
+    },
+    {
+      "rank": 42,
+      "bank": "Standard Chartered",
+      "country": "United Kingdom",
+      "assets_usd_billions": "849.69"
+    },
+    {
+      "rank": 43,
+      "bank": "State Bank of India",
+      "country": "India",
+      "assets_usd_billions": "846.64"
+    },
+    {
+      "rank": 44,
+      "bank": "UniCredit",
+      "country": "Italy",
+      "assets_usd_billions": "811.68"
+    },
+    {
+      "rank": 45,
+      "bank": "Commonwealth Bank",
+      "country": "Australia",
+      "assets_usd_billions": "809.81"
+    },
+    {
+      "rank": 46,
+      "bank": "Banco Bilbao Vizcaya Argentaria",
+      "country": "Spain",
+      "assets_usd_billions": "799.67"
+    },
+    {
+      "rank": 47,
+      "bank": "Ping An Bank",
+      "country": "China",
+      "assets_usd_billions": "790.41"
+    },
+    {
+      "rank": 48,
+      "bank": "La Banque postale",
+      "country": "France",
+      "assets_usd_billions": "766.91"
+    },
+    {
+      "rank": 49,
+      "bank": "National Australia Bank",
+      "country": "Australia",
+      "assets_usd_billions": "748.98"
+    },
+    {
+      "rank": 50,
+      "bank": "Canadian Imperial Bank of Commerce",
+      "country": "Canada",
+      "assets_usd_billions": "747.91"
+    },
+    {
+      "rank": 51,
+      "bank": "Westpac",
+      "country": "Australia",
+      "assets_usd_billions": "747.10"
+    },
+    {
+      "rank": 52,
+      "bank": "DZ Bank",
+      "country": "Germany",
+      "assets_usd_billions": "682.93"
+    },
+    {
+      "rank": 53,
+      "bank": "U.S. Bancorp",
+      "country": "United States",
+      "assets_usd_billions": "678.32"
+    },
+    {
+      "rank": 54,
+      "bank": "CaixaBank",
+      "country": "Spain",
+      "assets_usd_billions": "653.28"
+    },
+    {
+      "rank": 55,
+      "bank": "Rabobank",
+      "country": "Netherlands",
+      "assets_usd_billions": "651.47"
+    },
+    {
+      "rank": 56,
+      "bank": "Nordea",
+      "country": "Finland",
+      "assets_usd_billions": "645.36"
+    },
+    {
+      "rank": 57,
+      "bank": "Capital One",
+      "country": "United States",
+      "assets_usd_billions": "637.78"
+    },
+    {
+      "rank": 58,
+      "bank": "DBS Group",
+      "country": "Singapore",
+      "assets_usd_billions": "606.13"
+    },
+    {
+      "rank": 59,
+      "bank": "Huaxia Bank",
+      "country": "China",
+      "assets_usd_billions": "599.59"
+    },
+    {
+      "rank": 60,
+      "bank": "Commerzbank",
+      "country": "Germany",
+      "assets_usd_billions": "574.23"
+    },
+    {
+      "rank": 61,
+      "bank": "Bank of Beijing",
+      "country": "China",
+      "assets_usd_billions": "574.14"
+    },
+    {
+      "rank": 62,
+      "bank": "Norinchukin Bank",
+      "country": "Japan",
+      "assets_usd_billions": "560.75"
+    },
+    {
+      "rank": 63,
+      "bank": "PNC Financial Services",
+      "country": "United States",
+      "assets_usd_billions": "560.04"
+    },
+    {
+      "rank": 64,
+      "bank": "Sberbank of Russia",
+      "country": "Russia",
+      "assets_usd_billions": "557.48"
+    },
+    {
+      "rank": 65,
+      "bank": "Bank of Jiangsu",
+      "country": "China",
+      "assets_usd_billions": "541.41"
+    },
+    {
+      "rank": 66,
+      "bank": "Truist Financial Corp",
+      "country": "United States",
+      "assets_usd_billions": "531.18"
+    },
+    {
+      "rank": 67,
+      "bank": "Danske Bank",
+      "country": "Denmark",
+      "assets_usd_billions": "515.87"
+    },
+    {
+      "rank": 68,
+      "bank": "KB Financial Group",
+      "country": "South Korea",
+      "assets_usd_billions": "513.01"
+    },
+    {
+      "rank": 69,
+      "bank": "Shinhan Financial Group",
+      "country": "South Korea",
+      "assets_usd_billions": "500.77"
+    },
+    {
+      "rank": 70,
+      "bank": "Nationwide Building Society",
+      "country": "United Kingdom",
+      "assets_usd_billions": "498.77"
+    },
+    {
+      "rank": 71,
+      "bank": "Sumitomo Mitsui Trust Holdings",
+      "country": "Japan",
+      "assets_usd_billions": "498.16"
+    },
+    {
+      "rank": 72,
+      "bank": "China Guangfa Bank",
+      "country": "China",
+      "assets_usd_billions": "494.93"
+    },
+    {
+      "rank": 73,
+      "bank": "HDFC Bank",
+      "country": "India",
+      "assets_usd_billions": "494.06"
+    },
+    {
+      "rank": 74,
+      "bank": "Itaú Unibanco",
+      "country": "Brazil",
+      "assets_usd_billions": "492.90"
+    },
+    {
+      "rank": 75,
+      "bank": "Resona Holdings",
+      "country": "Japan",
+      "assets_usd_billions": "491.13"
+    },
+    {
+      "rank": 76,
+      "bank": "Charles Schwab Corporation",
+      "country": "United States",
+      "assets_usd_billions": "479.84"
+    },
+    {
+      "rank": 77,
+      "bank": "Oversea-Chinese Banking Corporation",
+      "country": "Singapore",
+      "assets_usd_billions": "458.00"
+    },
+    {
+      "rank": 78,
+      "bank": "China Zheshang Bank",
+      "country": "China",
+      "assets_usd_billions": "455.61"
+    },
+    {
+      "rank": 79,
+      "bank": "Bank of Shanghai",
+      "country": "China",
+      "assets_usd_billions": "442.06"
+    },
+    {
+      "rank": 80,
+      "bank": "Hana Financial Group",
+      "country": "South Korea",
+      "assets_usd_billions": "431.78"
+    },
+    {
+      "rank": 81,
+      "bank": "Bank of Ningbo",
+      "country": "China",
+      "assets_usd_billions": "428.16"
+    },
+    {
+      "rank": 82,
+      "bank": "Nonghyup Bank",
+      "country": "South Korea",
+      "assets_usd_billions": "419.37"
+    },
+    {
+      "rank": 83,
+      "bank": "BNY Mellon",
+      "country": "United States",
+      "assets_usd_billions": "416.06"
+    },
+    {
+      "rank": 84,
+      "bank": "ABN AMRO",
+      "country": "Netherlands",
+      "assets_usd_billions": "411.66"
+    },
+    {
+      "rank": 85,
+      "bank": "United Overseas Bank",
+      "country": "Singapore",
+      "assets_usd_billions": "393.97"
+    },
+    {
+      "rank": 86,
+      "bank": "Banco do Brasil",
+      "country": "Brazil",
+      "assets_usd_billions": "393.52"
+    },
+    {
+      "rank": 87,
+      "bank": "Woori Financial Group",
+      "country": "South Korea",
+      "assets_usd_billions": "393.34"
+    },
+    {
+      "rank": 88,
+      "bank": "KBC Group",
+      "country": "Belgium",
+      "assets_usd_billions": "386.22"
+    },
+    {
+      "rank": 89,
+      "bank": "Nomura Holdings",
+      "country": "Japan",
+      "assets_usd_billions": "385.00"
+    },
+    {
+      "rank": 90,
+      "bank": "Landesbank Baden-Württemberg",
+      "country": "Germany",
+      "assets_usd_billions": "368.98"
+    },
+    {
+      "rank": 91,
+      "bank": "Erste Group",
+      "country": "Austria",
+      "assets_usd_billions": "366.22"
+    },
+    {
+      "rank": 92,
+      "bank": "National Bank of Canada",
+      "country": "Canada",
+      "assets_usd_billions": "365.25"
+    },
+    {
+      "rank": 93,
+      "bank": "State Street Corporation",
+      "country": "United States",
+      "assets_usd_billions": "362.95"
+    },
+    {
+      "rank": 94,
+      "bank": "Qatar National Bank",
+      "country": "Qatar",
+      "assets_usd_billions": "356.52"
+    },
+    {
+      "rank": 95,
+      "bank": "Bank of Nanjing",
+      "country": "China",
+      "assets_usd_billions": "355.03"
+    },
+    {
+      "rank": 96,
+      "bank": "SEB Group",
+      "country": "Sweden",
+      "assets_usd_billions": "339.65"
+    },
+    {
+      "rank": 97,
+      "bank": "Raiffeisen Group",
+      "country": "Switzerland",
+      "assets_usd_billions": "337.25"
+    },
+    {
+      "rank": 98,
+      "bank": "Banco Bradesco",
+      "country": "Brazil",
+      "assets_usd_billions": "331.96"
+    },
+    {
+      "rank": 99,
+      "bank": "VTB Bank",
+      "country": "Russia",
+      "assets_usd_billions": "330.43"
+    },
+    {
+      "rank": 100,
+      "bank": "First Abu Dhabi Bank",
+      "country": "United Arab Emirates",
+      "assets_usd_billions": "330.32"
+    }
+  ]
+}

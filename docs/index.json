@@ -148,6 +148,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_inflation_rate.json"
       },
       {
+        "title": "Largest Banks in the World by Assets",
+        "subtitle": "Top global banks ranked by total assets (USD), based on S&P Global data (2025).",
+        "updated_at": "December 24, 2025 10:58 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_largest_banks.json"
+      },
+      {
         "title": "NEPSE Listed Companies",
         "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
         "updated_at": "August 20, 2025 09:42 AM UTC",
