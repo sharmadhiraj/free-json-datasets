@@ -1,0 +1,1437 @@
+{
+  "title": "Major Oil Fields of the World",
+  "subtitle": "Oil fields with estimated ultimate recoverable reserves exceeding 1 billion barrels",
+  "updated_at": "December 24, 2025 09:54 AM UTC",
+  "data": [
+    {
+      "oil_field": "Ghawar Field",
+      "location": "Saudi Arabia",
+      "year_discovered": "1948",
+      "production_start_year": "1951",
+      "peak_year": "2005, disputed",
+      "recoverable_reserves_billion_barrels": "88-104",
+      "current_production_mbd": "3.8 (2019)",
+      "status": "Declining, unofficial estimates (from GlobalData) peg the production at 3.06 MBPD in 2023"
+    },
+    {
+      "oil_field": "Burgan Field",
+      "location": "Kuwait",
+      "year_discovered": "1937",
+      "production_start_year": "1948",
+      "peak_year": "2005",
+      "recoverable_reserves_billion_barrels": "66-72",
+      "current_production_mbd": "1.7",
+      "status": "Declining, rate of decline not publicly available"
+    },
+    {
+      "oil_field": "Bohai Field",
+      "location": "China",
+      "year_discovered": "1960s (Pilot Output) 2002 (Full Commercial Production)",
+      "production_start_year": "1968",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "0.73-1",
+      "current_production_mbd": "0.72 (2024)",
+      "status": "Production is stable and gradually increasing, supported by continuous new developments"
+    },
+    {
+      "oil_field": "Ahvaz Field",
+      "location": "Iran",
+      "year_discovered": "1953",
+      "production_start_year": "1954",
+      "peak_year": "1970s",
+      "recoverable_reserves_billion_barrels": "25",
+      "current_production_mbd": "0.75",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Upper Zakum oil field",
+      "location": "Abu Dhabi, UAE",
+      "year_discovered": "1963",
+      "production_start_year": "1982 (1967)",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "21",
+      "current_production_mbd": "0.75",
+      "status": "Extension planned to 1 MMb/d"
+    },
+    {
+      "oil_field": "Lower Zakum Field",
+      "location": "United Arab Emirates",
+      "year_discovered": "1963",
+      "production_start_year": "1967",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "17.2",
+      "current_production_mbd": "0.43",
+      "status": "Expected to peak in 2028 at 0.45 MBPD"
+    },
+    {
+      "oil_field": "Gachsaran Field",
+      "location": "Iran",
+      "year_discovered": "1927",
+      "production_start_year": "1930",
+      "peak_year": "1974",
+      "recoverable_reserves_billion_barrels": "66",
+      "current_production_mbd": "0.48",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Cantarell Field",
+      "location": "Mexico",
+      "year_discovered": "1976",
+      "production_start_year": "1981",
+      "peak_year": "2004",
+      "recoverable_reserves_billion_barrels": "18–35",
+      "current_production_mbd": "0.14",
+      "status": "Declining,peaked in 2004 at 2.14 million barrels per day (340,000 m3/d)"
+    },
+    {
+      "oil_field": "Ku-Maloob-Zaap",
+      "location": "Mexico",
+      "year_discovered": "1979",
+      "production_start_year": "1981",
+      "peak_year": "2015",
+      "recoverable_reserves_billion_barrels": "4.9",
+      "current_production_mbd": "0.59",
+      "status": "Declining, production peaked at 853,000 bpd in 2018"
+    },
+    {
+      "oil_field": "Bolivar Coastal Field",
+      "location": "Venezuela",
+      "year_discovered": "1917",
+      "production_start_year": "1922",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "30–32",
+      "current_production_mbd": "0.85",
+      "status": "Production declined sharply in the 2010s and 2020s due to sanctions, under investment, and infrastructure degradation. Production stabilized by PDVSA and international partners"
+    },
+    {
+      "oil_field": "Aghajari Field",
+      "location": "Iran",
+      "year_discovered": "1938",
+      "production_start_year": "1940",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "28",
+      "current_production_mbd": "0.18",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Tupi Field",
+      "location": "Brazil, Santos Basin",
+      "year_discovered": "2007",
+      "production_start_year": "2009",
+      "peak_year": "2021",
+      "recoverable_reserves_billion_barrels": "5–8",
+      "current_production_mbd": "0.79",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Roncador Field",
+      "location": "Brazil, Campos Basin",
+      "year_discovered": "1996",
+      "production_start_year": "1999",
+      "peak_year": "2006",
+      "recoverable_reserves_billion_barrels": "1.7",
+      "current_production_mbd": "0.10",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Ahdeb Oil Field",
+      "location": "Iraq",
+      "year_discovered": "1979",
+      "production_start_year": "2011",
+      "peak_year": "2015",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "0.07",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Safaniya Oil Field",
+      "location": "Kuwait/Saudi Arabia",
+      "year_discovered": "1951",
+      "production_start_year": "1957",
+      "peak_year": "1981",
+      "recoverable_reserves_billion_barrels": "30",
+      "current_production_mbd": "1.2",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Esfandiar Field",
+      "location": "Iran",
+      "year_discovered": "1969",
+      "production_start_year": "2023",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "30",
+      "current_production_mbd": "0.01",
+      "status": "Increasing"
+    },
+    {
+      "oil_field": "Rumaila Field",
+      "location": "Iraq",
+      "year_discovered": "1953",
+      "production_start_year": "1954",
+      "peak_year": "1979",
+      "recoverable_reserves_billion_barrels": "17",
+      "current_production_mbd": "1.4",
+      "status": "Post peak, production stabilized with ongoing investments"
+    },
+    {
+      "oil_field": "Tengiz Field",
+      "location": "Kazakhstan",
+      "year_discovered": "1979",
+      "production_start_year": "1993",
+      "peak_year": "2010",
+      "recoverable_reserves_billion_barrels": "26–40",
+      "current_production_mbd": "0.93",
+      "status": "Peak production stage"
+    },
+    {
+      "oil_field": "Kirkuk Field",
+      "location": "Iraq",
+      "year_discovered": "1927",
+      "production_start_year": "1934",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "8.5",
+      "current_production_mbd": "0.29",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Shaybah Field",
+      "location": "Saudi Arabia",
+      "year_discovered": "1998",
+      "production_start_year": "1998",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "15",
+      "current_production_mbd": "1.0",
+      "status": "Peak production stage"
+    },
+    {
+      "oil_field": "Majnoon Field",
+      "location": "Iraq",
+      "year_discovered": "1975",
+      "production_start_year": "2013",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "11–20",
+      "current_production_mbd": "0.50",
+      "status": "Production is stable, active plans and projects to increase production"
+    },
+    {
+      "oil_field": "Buzios Field",
+      "location": "Brazil",
+      "year_discovered": "2010",
+      "production_start_year": "2018",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3",
+      "current_production_mbd": "0.90",
+      "status": "Production expanding, with target of 1 M BPD"
+    },
+    {
+      "oil_field": "Samotlor Field",
+      "location": "Russia, West Siberia",
+      "year_discovered": "1965",
+      "production_start_year": "1969",
+      "peak_year": "1980",
+      "recoverable_reserves_billion_barrels": "14–16",
+      "current_production_mbd": "0.33",
+      "status": "Declining, 90 % of reserves recovered 5% decline per year (2008–2014)"
+    },
+    {
+      "oil_field": "Shaikan Sheikh Adi Field",
+      "location": "Iraqi Kurdistan",
+      "year_discovered": "2009",
+      "production_start_year": "2013",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "4–6",
+      "current_production_mbd": "0.04",
+      "status": "Production is stable with some fluctuation due to external incidents, but generally showing resilience and modest growth"
+    },
+    {
+      "oil_field": "Romashkino Field",
+      "location": "Russia, Volga-Ural",
+      "year_discovered": "1948",
+      "production_start_year": "1949",
+      "peak_year": "1965",
+      "recoverable_reserves_billion_barrels": "16–17",
+      "current_production_mbd": "0.30 (2006)",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Mero Oil field",
+      "location": "Brazil, Santos Basin",
+      "year_discovered": "2010",
+      "production_start_year": "2022",
+      "peak_year": "2025",
+      "recoverable_reserves_billion_barrels": "3.3",
+      "current_production_mbd": "0.77",
+      "status": "Peak production stage"
+    },
+    {
+      "oil_field": "Prudhoe Bay",
+      "location": "United States, Alaska",
+      "year_discovered": "1967–68",
+      "production_start_year": "1977",
+      "peak_year": "1988",
+      "recoverable_reserves_billion_barrels": "13",
+      "current_production_mbd": "0.32 (2023)",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Sarir Field",
+      "location": "Libya",
+      "year_discovered": "1961",
+      "production_start_year": "1961",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "6.5",
+      "current_production_mbd": "0.21",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Priobskoye field",
+      "location": "Russia, West Siberia",
+      "year_discovered": "1982",
+      "production_start_year": "2000",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "13",
+      "current_production_mbd": "0.50 (2019)",
+      "status": "Post peak, gradual managed tapering supported by advanced recovery methods and active drilling"
+    },
+    {
+      "oil_field": "Lyantorskoye field",
+      "location": "Russia, West Siberia",
+      "year_discovered": "1966",
+      "production_start_year": "1979",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "13",
+      "current_production_mbd": "0.17",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Abqaiq Field",
+      "location": "Saudi Arabia",
+      "year_discovered": "1940",
+      "production_start_year": "1940s",
+      "peak_year": "1973",
+      "recoverable_reserves_billion_barrels": "12",
+      "current_production_mbd": "0.43",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Chicontepec Field",
+      "location": "Mexico",
+      "year_discovered": "1926",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "6.5 (19 certified)",
+      "current_production_mbd": "0.07",
+      "status": "Production is stable and has remained relatively low due to complex reservoir characteristics and high development costs, despite Pemex's ambitious target to attain 1 million bpd"
+    },
+    {
+      "oil_field": "Zuluf Field",
+      "location": "Saudi Arabia",
+      "year_discovered": "1965",
+      "production_start_year": "1973",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "20",
+      "current_production_mbd": "0.80",
+      "status": "Increasing, planned capacity 1.4 million bpd"
+    },
+    {
+      "oil_field": "Berri Field",
+      "location": "Saudi Arabia",
+      "year_discovered": "1964",
+      "production_start_year": "1970",
+      "peak_year": "1976",
+      "recoverable_reserves_billion_barrels": "12",
+      "current_production_mbd": "0.25",
+      "status": "Post peak, production increased planned to 0.5 million bpd with additional investments"
+    },
+    {
+      "oil_field": "West Qurna Field",
+      "location": "Iraq",
+      "year_discovered": "1973",
+      "production_start_year": "1976",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "33",
+      "current_production_mbd": "1.0",
+      "status": "Increasing, includes production from West Qurna 1 and West Qurna 2"
+    },
+    {
+      "oil_field": "Manifa Field",
+      "location": "Saudi Arabia",
+      "year_discovered": "1957",
+      "production_start_year": "1964",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "11",
+      "current_production_mbd": "0.90",
+      "status": "Peak production stage"
+    },
+    {
+      "oil_field": "Khurais Field",
+      "location": "Saudi Arabia",
+      "year_discovered": "1957",
+      "production_start_year": "2009",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "25",
+      "current_production_mbd": "1.5",
+      "status": "Peak production stage"
+    },
+    {
+      "oil_field": "Fyodorovskoye Field",
+      "location": "Russia, West Siberia",
+      "year_discovered": "1971",
+      "production_start_year": "1974",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "11",
+      "current_production_mbd": "0.69",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "East Baghdad Field",
+      "location": "Iraq",
+      "year_discovered": "1976",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "8",
+      "current_production_mbd": "0.05",
+      "status": "Production is stable, active plans to increase production"
+    },
+    {
+      "oil_field": "Foroozan-Marjan (Iran) Field",
+      "location": "Saudi Arabia/Iran",
+      "year_discovered": "1966",
+      "production_start_year": "1975",
+      "peak_year": "1987",
+      "recoverable_reserves_billion_barrels": "10",
+      "current_production_mbd": "0.51",
+      "status": "Declining, the Iranian side (Foroozan) procuces 0.04 MBPD, the Saudi side (Marjan) was estimated to produce 0.47 MBPD in 2023 by GlobalData"
+    },
+    {
+      "oil_field": "Marlim Field",
+      "location": "Brazil, Campos Basin",
+      "year_discovered": "1985",
+      "production_start_year": "",
+      "peak_year": "2002",
+      "recoverable_reserves_billion_barrels": "10–14",
+      "current_production_mbd": "0.01",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Awali",
+      "location": "Bahrain",
+      "year_discovered": "1932",
+      "production_start_year": "1932",
+      "peak_year": "1971",
+      "recoverable_reserves_billion_barrels": "2.1",
+      "current_production_mbd": "0.04",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Azadegan Field",
+      "location": "Iran",
+      "year_discovered": "1999",
+      "production_start_year": "2003",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "5.2",
+      "current_production_mbd": "0.19",
+      "status": "Increasing"
+    },
+    {
+      "oil_field": "Marun Field",
+      "location": "Iran",
+      "year_discovered": "1963",
+      "production_start_year": "1966",
+      "peak_year": "1976",
+      "recoverable_reserves_billion_barrels": "16",
+      "current_production_mbd": "0.52",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Minagish",
+      "location": "Kuwait",
+      "year_discovered": "1959",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "2",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Raudhatain",
+      "location": "Kuwait",
+      "year_discovered": "1955",
+      "production_start_year": "1959",
+      "peak_year": "1960s-1970s",
+      "recoverable_reserves_billion_barrels": "11",
+      "current_production_mbd": "0.35",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Sabriya",
+      "location": "Kuwait",
+      "year_discovered": "1955",
+      "production_start_year": "2018",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3.8–4",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Yibal",
+      "location": "Oman",
+      "year_discovered": "1962",
+      "production_start_year": "1968",
+      "peak_year": "1997",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "0.02",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Mukhaizna Oil Field",
+      "location": "Oman",
+      "year_discovered": "1975",
+      "production_start_year": "2000",
+      "peak_year": "2016",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "0.08",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Dukhan Field",
+      "location": "Qatar",
+      "year_discovered": "1939",
+      "production_start_year": "1988",
+      "peak_year": "2007",
+      "recoverable_reserves_billion_barrels": "2.2",
+      "current_production_mbd": "0.34",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Halfaya Field",
+      "location": "Iraq",
+      "year_discovered": "1976",
+      "production_start_year": "2012",
+      "peak_year": "2025 (expected)",
+      "recoverable_reserves_billion_barrels": "4.1",
+      "current_production_mbd": "0.37 (2019)",
+      "status": "Plateau production target of 400,000 bpd"
+    },
+    {
+      "oil_field": "Az Zubayr Field",
+      "location": "Iraq",
+      "year_discovered": "1949",
+      "production_start_year": "1951",
+      "peak_year": "2019",
+      "recoverable_reserves_billion_barrels": "6",
+      "current_production_mbd": "0.40 (2023)",
+      "status": "Production enhancement project by an Eni-led consortium began in 2010 to expand production to 1.2 million bpd, production fluctuated in the range of 300,000 to 400,000 bpd in 2023 - 2024"
+    },
+    {
+      "oil_field": "Nahr Umr Field",
+      "location": "Iraq",
+      "year_discovered": "1948",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "6",
+      "current_production_mbd": "0.05",
+      "status": "Production has fluctuated over its history, recent efforts ongoing to expand capacity. Agreement with Haliburton aims to increase capacity to 300,000 bpd"
+    },
+    {
+      "oil_field": "Abu-Sa'fah field",
+      "location": "Saudi Arabia",
+      "year_discovered": "1963",
+      "production_start_year": "1966",
+      "peak_year": "2004",
+      "recoverable_reserves_billion_barrels": "6.1",
+      "current_production_mbd": "0.30",
+      "status": ""
+    },
+    {
+      "oil_field": "Hassi Messaoud",
+      "location": "Algeria",
+      "year_discovered": "1956",
+      "production_start_year": "1958",
+      "peak_year": "1977",
+      "recoverable_reserves_billion_barrels": "6.4-8",
+      "current_production_mbd": "0.35",
+      "status": "Declining, peak production occurred in 1977 at about 717,000 bpd, though most references cite a plateau era of 500,000 bpd during the 1970s"
+    },
+    {
+      "oil_field": "Bouri Field",
+      "location": "Libya",
+      "year_discovered": "1976",
+      "production_start_year": "1988",
+      "peak_year": "1995",
+      "recoverable_reserves_billion_barrels": "4.5",
+      "current_production_mbd": "0.06",
+      "status": "Post peak, production stabilized with ongoing investments"
+    },
+    {
+      "oil_field": "Kizomba Complex",
+      "location": "Angola",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "2",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Dalia (oil field)",
+      "location": "Angola",
+      "year_discovered": "1997",
+      "production_start_year": "2006",
+      "peak_year": "2010",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "0.20",
+      "status": "Post peak, production stabilized with ongoing investments"
+    },
+    {
+      "oil_field": "Belayim",
+      "location": "Angola",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": ">1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Zafiro",
+      "location": "Angola",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Zelten oil field",
+      "location": "Libya",
+      "year_discovered": "1959",
+      "production_start_year": "1961",
+      "peak_year": "1979",
+      "recoverable_reserves_billion_barrels": "2.5",
+      "current_production_mbd": "0.002",
+      "status": "Accumulated production reached 2.426 billion barrels by 2006; initial estimates in 1959 suggested 2.5 billion barrels of reserves"
+    },
+    {
+      "oil_field": "Agbami Field",
+      "location": "Nigeria",
+      "year_discovered": "1998",
+      "production_start_year": "2008",
+      "peak_year": "2009",
+      "recoverable_reserves_billion_barrels": "0.8–1.2",
+      "current_production_mbd": "0.09 (2019)",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Bonga Field",
+      "location": "Nigeria",
+      "year_discovered": "1996",
+      "production_start_year": "2005",
+      "peak_year": "2006",
+      "recoverable_reserves_billion_barrels": "1.4",
+      "current_production_mbd": "0.13",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Azeri-Chirag-Guneshli",
+      "location": "Azerbaijan",
+      "year_discovered": "1985",
+      "production_start_year": "1997",
+      "peak_year": "2010",
+      "recoverable_reserves_billion_barrels": "5.4",
+      "current_production_mbd": "0.33",
+      "status": "Post peak, production stabilized with ongoing investments"
+    },
+    {
+      "oil_field": "Bahar oilfields",
+      "location": "Azerbaijan, Bibiheybət",
+      "year_discovered": "1846",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Karachaganak Field",
+      "location": "Kazakhstan",
+      "year_discovered": "1979",
+      "production_start_year": "1984",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "2.4",
+      "current_production_mbd": "0.26",
+      "status": "Production reached around 100,000 bpd of oil and condensate before declining in the early 1990s, followed by redevelopment and expansions in the 2000s"
+    },
+    {
+      "oil_field": "Kashagan Field",
+      "location": "Kazakhstan",
+      "year_discovered": "2000",
+      "production_start_year": "2016",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "30",
+      "current_production_mbd": "0.40",
+      "status": "Increasing"
+    },
+    {
+      "oil_field": "Darkhan Field",
+      "location": "Kazakhstan",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "9.5",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Zhanazhol Field",
+      "location": "Kazakhstan",
+      "year_discovered": "1978",
+      "production_start_year": "1987",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3",
+      "current_production_mbd": "0.02",
+      "status": "Primarily a gas condensate field, the cumulative production of oil and condensate reached 652.65 million barrels by the end of 2020"
+    },
+    {
+      "oil_field": "Uzen Field",
+      "location": "Kazakhstan",
+      "year_discovered": "1962",
+      "production_start_year": "1965",
+      "peak_year": "1982",
+      "recoverable_reserves_billion_barrels": "12.6",
+      "current_production_mbd": "0.10",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Kalamkas Field",
+      "location": "Kazakhstan",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3.2",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Zhetybay Field",
+      "location": "Kazakhstan",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "2.1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Nursultan Field",
+      "location": "Kazakhstan",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "4.5",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Jubilee oil field",
+      "location": "Ghana",
+      "year_discovered": "2007",
+      "production_start_year": "2010",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3",
+      "current_production_mbd": "0.15",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Ekofisk oil field",
+      "location": "Norway",
+      "year_discovered": "1969",
+      "production_start_year": "1971",
+      "peak_year": "2006",
+      "recoverable_reserves_billion_barrels": "3.3",
+      "current_production_mbd": "0.13",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Troll Vest",
+      "location": "Norway",
+      "year_discovered": "1979",
+      "production_start_year": "1990",
+      "peak_year": "2003",
+      "recoverable_reserves_billion_barrels": "1.4",
+      "current_production_mbd": "0.03",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Statfjord",
+      "location": "Norway",
+      "year_discovered": "1974",
+      "production_start_year": "1979",
+      "peak_year": "1987",
+      "recoverable_reserves_billion_barrels": "5",
+      "current_production_mbd": "0.01",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Gullfaks",
+      "location": "Norway",
+      "year_discovered": "1978",
+      "production_start_year": "1986",
+      "peak_year": "1994",
+      "recoverable_reserves_billion_barrels": "2.1",
+      "current_production_mbd": "0.02",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Oseberg",
+      "location": "Norway",
+      "year_discovered": "1979",
+      "production_start_year": "1988",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "2.2",
+      "current_production_mbd": "0.09",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Snorre",
+      "location": "Norway",
+      "year_discovered": "1979",
+      "production_start_year": "1992",
+      "peak_year": "2003",
+      "recoverable_reserves_billion_barrels": "1.5",
+      "current_production_mbd": "0.09",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Johan Sverdrup oil field",
+      "location": "Norway",
+      "year_discovered": "2010",
+      "production_start_year": "2019",
+      "peak_year": "2023",
+      "recoverable_reserves_billion_barrels": "2.8",
+      "current_production_mbd": "0.70",
+      "status": "Declining from 2025"
+    },
+    {
+      "oil_field": "Mamontovskoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "8",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Russkoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "2.5",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Kamennoe Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.9",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Vankor Field",
+      "location": "Russia",
+      "year_discovered": "1983",
+      "production_start_year": "2009",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3.8",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Vatyeganskoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.4",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Tevlinsko-Russkinskoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.3",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Sutorminskoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.3",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Urengoy group",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Ust-Balykskoe Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": ">1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Tuymazinskoe Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Arlanskoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": ">2",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "South-Hilchuy Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3.1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "North-Dolginskoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "2.2",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Nizhne-Chutinskoe Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.7",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "South-Dolginskoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.6",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Prirazlomnoye Field",
+      "location": "Russia",
+      "year_discovered": "1989",
+      "production_start_year": "2011",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.4",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "West-Matveevskoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Sakhalin Islands",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "14",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Odoptu",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Arukutun-Dagi",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Piltun-Astokhskoye Field",
+      "location": "Russia",
+      "year_discovered": "1986",
+      "production_start_year": "1999",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Ayash Field East-Odoptu Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "4.5",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Verhne-Chonskoye Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.3",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Talakan Field",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.3",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "North-Caucasus Basin",
+      "location": "Russia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.7",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Vaca Muerta",
+      "location": "Argentina, Patagonia",
+      "year_discovered": "2010",
+      "production_start_year": "2010",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "16",
+      "current_production_mbd": "0.58",
+      "status": "Increasing, expected to peak at 1.3 MBPD in early 2030s"
+    },
+    {
+      "oil_field": "Clair oilfield",
+      "location": "United Kingdom",
+      "year_discovered": "1977",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Forties oilfield",
+      "location": "United Kingdom",
+      "year_discovered": "1970",
+      "production_start_year": "1975",
+      "peak_year": "1979",
+      "recoverable_reserves_billion_barrels": "5",
+      "current_production_mbd": "0.01",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Jupiter field",
+      "location": "Brazil",
+      "year_discovered": "2008",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.6",
+      "current_production_mbd": "",
+      "status": "Production expected to start in 2028"
+    },
+    {
+      "oil_field": "Cupiagua/Cusiana",
+      "location": "Colombia",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Boscán Field, Venezuela",
+      "location": "Venezuela",
+      "year_discovered": "1946",
+      "production_start_year": "1947",
+      "peak_year": "1990s",
+      "recoverable_reserves_billion_barrels": "1.6",
+      "current_production_mbd": "0.05-0.1",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Mumbai High Field",
+      "location": "India, Arabian Sea",
+      "year_discovered": "1965",
+      "production_start_year": "1974",
+      "peak_year": "1989",
+      "recoverable_reserves_billion_barrels": "2.4",
+      "current_production_mbd": "0.13 (2024)",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Pembina",
+      "location": "Canada",
+      "year_discovered": "1953",
+      "production_start_year": "1953",
+      "peak_year": "Late1950s",
+      "recoverable_reserves_billion_barrels": "1.81",
+      "current_production_mbd": "",
+      "status": "Declining, production peaked at 0.1 M BPD in 1950s, field is still producing at much smaller quanrity"
+    },
+    {
+      "oil_field": "Swan Hills",
+      "location": "Canada",
+      "year_discovered": "1957",
+      "production_start_year": "Late 1950s",
+      "peak_year": "1960s-1970s",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "0.01",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Rainbow Lake",
+      "location": "Canada",
+      "year_discovered": "1956",
+      "production_start_year": "1950s",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.5",
+      "current_production_mbd": "0.002",
+      "status": "Declining, tail end of production"
+    },
+    {
+      "oil_field": "Hibernia",
+      "location": "Canada",
+      "year_discovered": "1979",
+      "production_start_year": "1997",
+      "peak_year": "2004",
+      "recoverable_reserves_billion_barrels": "3",
+      "current_production_mbd": "0.07",
+      "status": "Declining, 85% of reserves recovered"
+    },
+    {
+      "oil_field": "Terra Nova Field",
+      "location": "Canada",
+      "year_discovered": "1984",
+      "production_start_year": "2002",
+      "peak_year": "Early 2000s (shortly after start)",
+      "recoverable_reserves_billion_barrels": "1.0",
+      "current_production_mbd": "0.18",
+      "status": "Post peak, production stabilized investments"
+    },
+    {
+      "oil_field": "Kelly-Snyder",
+      "location": "United States, Texas",
+      "year_discovered": "1948",
+      "production_start_year": "1948",
+      "peak_year": "1951",
+      "recoverable_reserves_billion_barrels": "1.5",
+      "current_production_mbd": "0.02",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Bakken Formation",
+      "location": "United States, North Dakota",
+      "year_discovered": "1951",
+      "production_start_year": "2005",
+      "peak_year": "2019",
+      "recoverable_reserves_billion_barrels": "7.3",
+      "current_production_mbd": "1.3",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Permian Formation",
+      "location": "United States, Texas",
+      "year_discovered": "1921",
+      "production_start_year": "2005",
+      "peak_year": "2006",
+      "recoverable_reserves_billion_barrels": "95.6",
+      "current_production_mbd": "6.6",
+      "status": "Increasing, rate of increase slowing down, expected to peak in 2026"
+    },
+    {
+      "oil_field": "Eagle Ford Formation",
+      "location": "United States, Texas",
+      "year_discovered": "2008",
+      "production_start_year": "2008",
+      "peak_year": "2015",
+      "recoverable_reserves_billion_barrels": "3.8",
+      "current_production_mbd": "1.0",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Yates Oil Field",
+      "location": "United States, Texas",
+      "year_discovered": "1926",
+      "production_start_year": "1926",
+      "peak_year": "1929",
+      "recoverable_reserves_billion_barrels": "3.0 (2.0 billion recovered; 1.0 reserve remaining)",
+      "current_production_mbd": "0.01",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Kuparuk oil field",
+      "location": "United States, Alaska",
+      "year_discovered": "1969",
+      "production_start_year": "1981",
+      "peak_year": "1992",
+      "recoverable_reserves_billion_barrels": "1-1.5",
+      "current_production_mbd": "0.06",
+      "status": "Post peak, production stabilized using new investments"
+    },
+    {
+      "oil_field": "Alpine, Alaska",
+      "location": "United States, Alaska",
+      "year_discovered": "1994",
+      "production_start_year": "2000",
+      "peak_year": "2005",
+      "recoverable_reserves_billion_barrels": "0.4–1",
+      "current_production_mbd": "0.01",
+      "status": "Post peak, production is currently stable and showing a modest increasing trend due to active development of satellite fields and ongoing drilling"
+    },
+    {
+      "oil_field": "East Texas Oil Field",
+      "location": "United States, Texas",
+      "year_discovered": "1930",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "6",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Spraberry Trend",
+      "location": "United States, Texas",
+      "year_discovered": "1943",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "10",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Wilmington Oil Field",
+      "location": "United States, California",
+      "year_discovered": "1932",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "South Belridge Oil Field",
+      "location": "United States, California",
+      "year_discovered": "1911",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "2",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Coalinga Oil Field",
+      "location": "United States, California",
+      "year_discovered": "1887",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Elk Hills",
+      "location": "United States, California",
+      "year_discovered": "1911",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1.5",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Kern River",
+      "location": "United States, California",
+      "year_discovered": "1899",
+      "production_start_year": "1899",
+      "peak_year": "1904",
+      "recoverable_reserves_billion_barrels": "2",
+      "current_production_mbd": "0.002",
+      "status": "Declining"
+    },
+    {
+      "oil_field": "Midway-Sunset Field",
+      "location": "United States, California",
+      "year_discovered": "1894",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "3.4",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Thunder Horse Oil Field",
+      "location": "United States, Gulf of Mexico",
+      "year_discovered": "1999",
+      "production_start_year": "2007",
+      "peak_year": "2009",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "0.20",
+      "status": "Post peak, production stabilized with ongoing investments"
+    },
+    {
+      "oil_field": "Kingfish",
+      "location": "Australia",
+      "year_discovered": "1967",
+      "production_start_year": "1971",
+      "peak_year": "1980s",
+      "recoverable_reserves_billion_barrels": "1.2",
+      "current_production_mbd": "0.01",
+      "status": "Declining, the field has produced over one billion barrels of oil in total since production started."
+    },
+    {
+      "oil_field": "Halibut",
+      "location": "Australia",
+      "year_discovered": "1967",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Daqing Field",
+      "location": "China",
+      "year_discovered": "1959",
+      "production_start_year": "1960",
+      "peak_year": "2003",
+      "recoverable_reserves_billion_barrels": "16",
+      "current_production_mbd": "0.60 (2021)",
+      "status": "Post peak, production stabilized using advanced recovery methods and new investments"
+    },
+    {
+      "oil_field": "Tahe Field",
+      "location": "China",
+      "year_discovered": "",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "8",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Jidong Nanpu Oil Field",
+      "location": "China",
+      "year_discovered": "2005",
+      "production_start_year": "2006",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "7.35",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "SL10-SL13 Genel/CPC Field",
+      "location": "Somaliland",
+      "year_discovered": "2014",
+      "production_start_year": "",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "4.2",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Wushi Oil Field",
+      "location": "China",
+      "year_discovered": "2005",
+      "production_start_year": "2016",
+      "peak_year": "",
+      "recoverable_reserves_billion_barrels": "",
+      "current_production_mbd": "",
+      "status": ""
+    },
+    {
+      "oil_field": "Tarim Oil Fields",
+      "location": "China",
+      "year_discovered": "early 1980s",
+      "production_start_year": "1984",
+      "peak_year": "2024",
+      "recoverable_reserves_billion_barrels": "7.3",
+      "current_production_mbd": "0.40",
+      "status": "Peak Production"
+    },
+    {
+      "oil_field": "Zafiro Field",
+      "location": "Equatorial Guinea",
+      "year_discovered": "1995",
+      "production_start_year": "",
+      "peak_year": "2004",
+      "recoverable_reserves_billion_barrels": "1",
+      "current_production_mbd": "",
+      "status": ""
+    }
+  ]
+}
