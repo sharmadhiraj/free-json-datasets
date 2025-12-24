@@ -107,6 +107,8 @@ Each dataset follows this JSON format:
 
 - [**World's Largest Automakers by Market Capitalization – October 2025**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/energy-industry/largest_automakers_by_market_capitalization.json)  
   A ranking of leading automobile manufacturers worldwide based on their total market capitalization as of October 2025.
+- [**Lithium Production, Reserves, and Resources by Country**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/energy-industry/list_of_countries_by_lithium_production.json)  
+  Annual lithium production, proved reserves, and estimated resources by country (in tonnes), based on Wikipedia data.
 - [**Oil Production by Country (Barrels per Day)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/energy-industry/oil_production_by_country.json)  
   List of countries ranked by average daily crude oil production, including continent-wise distribution.
 - [**Renewable Electricity Production by Country (TWh)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/energy-industry/renewable_electricity_production_by_country.json)  

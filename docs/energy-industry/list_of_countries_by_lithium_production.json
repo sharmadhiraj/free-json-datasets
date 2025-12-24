@@ -1,0 +1,189 @@
+{
+  "title": "Lithium Production, Reserves, and Resources by Country",
+  "subtitle": "Annual lithium production, proved reserves, and estimated resources by country (in tonnes), based on Wikipedia data.",
+  "updated_at": "December 24, 2025 06:47 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Australia",
+      "annual_production_tonnes": "88,000",
+      "proved_reserves_tonnes": "7,000,000",
+      "estimated_resources_tonnes": "8,900,000"
+    },
+    {
+      "rank": 2,
+      "country": "Chile",
+      "annual_production_tonnes": "49,000",
+      "proved_reserves_tonnes": "9,300,000",
+      "estimated_resources_tonnes": "11,000,000"
+    },
+    {
+      "rank": 3,
+      "country": "China",
+      "annual_production_tonnes": "41,000",
+      "proved_reserves_tonnes": "3,000,000",
+      "estimated_resources_tonnes": "6,800,000"
+    },
+    {
+      "rank": 4,
+      "country": "Zimbabwe",
+      "annual_production_tonnes": "22,000",
+      "proved_reserves_tonnes": "480,000",
+      "estimated_resources_tonnes": "860,000"
+    },
+    {
+      "rank": 5,
+      "country": "Argentina",
+      "annual_production_tonnes": "18,000",
+      "proved_reserves_tonnes": "4,000,000",
+      "estimated_resources_tonnes": "23,000,000"
+    },
+    {
+      "rank": 6,
+      "country": "Brazil",
+      "annual_production_tonnes": "10,000",
+      "proved_reserves_tonnes": "390,000",
+      "estimated_resources_tonnes": "1,300,000"
+    },
+    {
+      "rank": 7,
+      "country": "Canada",
+      "annual_production_tonnes": "4,300",
+      "proved_reserves_tonnes": "1,200,000",
+      "estimated_resources_tonnes": "5,700,000"
+    },
+    {
+      "rank": 8,
+      "country": "Namibia",
+      "annual_production_tonnes": "2,700",
+      "proved_reserves_tonnes": "14,000",
+      "estimated_resources_tonnes": "230,000"
+    },
+    {
+      "rank": 9,
+      "country": "United States",
+      "annual_production_tonnes": "2,440",
+      "proved_reserves_tonnes": "1,800,000",
+      "estimated_resources_tonnes": "19,000,000"
+    },
+    {
+      "rank": 10,
+      "country": "Bolivia",
+      "annual_production_tonnes": "733",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "23,000,000"
+    },
+    {
+      "rank": 11,
+      "country": "Portugal",
+      "annual_production_tonnes": "380",
+      "proved_reserves_tonnes": "60,000",
+      "estimated_resources_tonnes": "270,000"
+    },
+    {
+      "rank": 12,
+      "country": "Nigeria",
+      "annual_production_tonnes": "132",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "–"
+    },
+    {
+      "rank": 13,
+      "country": "Other countries",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "2,800,000",
+      "estimated_resources_tonnes": "–"
+    },
+    {
+      "rank": 14,
+      "country": "Germany",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "4,000,000"
+    },
+    {
+      "rank": 15,
+      "country": "DR Congo",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "3,000,000"
+    },
+    {
+      "rank": 16,
+      "country": "Mexico",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "1,700,000"
+    },
+    {
+      "rank": 17,
+      "country": "Czech Republic",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "1,300,000"
+    },
+    {
+      "rank": 18,
+      "country": "Mali",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "1,200,000"
+    },
+    {
+      "rank": 19,
+      "country": "Serbia",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "1,200,000"
+    },
+    {
+      "rank": 20,
+      "country": "Peru",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "1,000,000"
+    },
+    {
+      "rank": 21,
+      "country": "Russia",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "1,000,000"
+    },
+    {
+      "rank": 22,
+      "country": "Spain",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "320,000"
+    },
+    {
+      "rank": 23,
+      "country": "Ghana",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "200,000"
+    },
+    {
+      "rank": 24,
+      "country": "Austria",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "60,000"
+    },
+    {
+      "rank": 25,
+      "country": "Finland",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "55,000"
+    },
+    {
+      "rank": 26,
+      "country": "Kazakhstan",
+      "annual_production_tonnes": "–",
+      "proved_reserves_tonnes": "–",
+      "estimated_resources_tonnes": "45,000"
+    }
+  ]
+}
