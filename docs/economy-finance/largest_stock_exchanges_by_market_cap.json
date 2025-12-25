@@ -1,0 +1,182 @@
+{
+  "title": "Top Stock Exchange Companies by Market Cap",
+  "subtitle": "Ranking of major global stock exchange operators by market capitalization.",
+  "updated_at": "December 25, 2025 08:00 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "name": "CME Group",
+      "code": "CME",
+      "market_cap": "£73.68 B",
+      "country": "USA"
+    },
+    {
+      "rank": "2",
+      "name": "Intercontinental Exchange",
+      "code": "ICE",
+      "market_cap": "£68.82 B",
+      "country": "USA"
+    },
+    {
+      "rank": "3",
+      "name": "Hong Kong Exchanges & Clearing",
+      "code": "0388.HK",
+      "market_cap": "£49.27 B",
+      "country": "Hong Kong"
+    },
+    {
+      "rank": "4",
+      "name": "London Stock Exchange",
+      "code": "LSEG.L",
+      "market_cap": "£45.17 B",
+      "country": "UK"
+    },
+    {
+      "rank": "5",
+      "name": "Nasdaq",
+      "code": "NDAQ",
+      "market_cap": "£41.84 B",
+      "country": "USA"
+    },
+    {
+      "rank": "6",
+      "name": "Deutsche Börse",
+      "code": "DB1.DE",
+      "market_cap": "£35.83 B",
+      "country": "Germany"
+    },
+    {
+      "rank": "7",
+      "name": "Cboe Global Markets",
+      "code": "CBOE",
+      "market_cap": "£19.80 B",
+      "country": "USA"
+    },
+    {
+      "rank": "8",
+      "name": "Euronext",
+      "code": "ENX.PA",
+      "market_cap": "£11.43 B",
+      "country": "Netherlands"
+    },
+    {
+      "rank": "9",
+      "name": "Singapore Exchange",
+      "code": "S68.SI",
+      "market_cap": "£10.64 B",
+      "country": "Singapore"
+    },
+    {
+      "rank": "10",
+      "name": "B3",
+      "code": "B3SA3.SA",
+      "market_cap": "£9.17 B",
+      "country": "Brazil"
+    },
+    {
+      "rank": "11",
+      "name": "BSE",
+      "code": "BSE.NS",
+      "market_cap": "£8.94 B",
+      "country": "India"
+    },
+    {
+      "rank": "12",
+      "name": "Japan Exchange Group",
+      "code": "8697.T",
+      "market_cap": "£8.25 B",
+      "country": "Japan"
+    },
+    {
+      "rank": "13",
+      "name": "TMX Group",
+      "code": "X.TO",
+      "market_cap": "£7.82 B",
+      "country": "Canada"
+    },
+    {
+      "rank": "14",
+      "name": "ASX",
+      "code": "ASX.AX",
+      "market_cap": "£5.03 B",
+      "country": "Australia"
+    },
+    {
+      "rank": "15",
+      "name": "Multi Commodity Exchange",
+      "code": "MCX.NS",
+      "market_cap": "£4.54 B",
+      "country": "India"
+    },
+    {
+      "rank": "16",
+      "name": "Saudi Tadawul Group Holding Company",
+      "code": "1111.SR",
+      "market_cap": "£3.47 B",
+      "country": "S. Arabia"
+    },
+    {
+      "rank": "17",
+      "name": "Miami International Holdings",
+      "code": "MIAX",
+      "market_cap": "£2.98 B",
+      "country": "USA"
+    },
+    {
+      "rank": "18",
+      "name": "Dubai Financial Market (DFM)",
+      "code": "DFM.AE",
+      "market_cap": "£2.67 B",
+      "country": "UAE"
+    },
+    {
+      "rank": "19",
+      "name": "The Tel-Aviv Stock Exchange",
+      "code": "TASE.TA",
+      "market_cap": "£2.04 B",
+      "country": "Israel"
+    },
+    {
+      "rank": "20",
+      "name": "Tradegate Exchange",
+      "code": "T2G.F",
+      "market_cap": "£1.84 B",
+      "country": "Germany"
+    },
+    {
+      "rank": "21",
+      "name": "Boursa Kuwait Securities Company",
+      "code": "BOURSA.KW",
+      "market_cap": "£1.81 B",
+      "country": "Kuwait"
+    },
+    {
+      "rank": "22",
+      "name": "BMV (Bolsa Mexicana de Valores)",
+      "code": "BOLSAA.MX",
+      "market_cap": "£0.88 B",
+      "country": "Mexico"
+    },
+    {
+      "rank": "23",
+      "name": "Gielda Papierów Wartosciowych w Warszawie",
+      "code": "GPW.WA",
+      "market_cap": "£0.55 B",
+      "country": "Poland"
+    },
+    {
+      "rank": "24",
+      "name": "OTC Markets Group",
+      "code": "OTCM",
+      "market_cap": "£0.47 B",
+      "country": "USA"
+    },
+    {
+      "rank": "25",
+      "name": "ATHEX  (Athens Stock Exchange)",
+      "code": "EXAE.AT",
+      "market_cap": "£0.31 B",
+      "country": "Greece"
+    }
+  ]
+}
