@@ -70,6 +70,8 @@ Each dataset follows this JSON format:
   Total immigrants, gender split and population share in 2025.
 - [**Largest Cities by Population (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/largest_cities_by_population.json)  
   City-wise population data for the year 2025
+- [**Most Urbanized Countries by Population (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/most_urbanized_countries.json)  
+  Countries ranked by share of population living in urban areas and urbanization growth rate.
 - [**World Population by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/world_population_by_country.json)  
   Latest country-wise population data as of 2025
 

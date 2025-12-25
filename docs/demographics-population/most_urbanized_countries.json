@@ -1,0 +1,1345 @@
+{
+  "title": "Most Urbanized Countries by Population (2023)",
+  "subtitle": "Countries ranked by share of population living in urban areas and urbanization growth rate.",
+  "updated_at": "December 25, 2025 09:42 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Hong Kong",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "0.58%"
+    },
+    {
+      "rank": 2,
+      "country": "Singapore",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "0.74%"
+    },
+    {
+      "rank": 3,
+      "country": "Kuwait",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "1.35%"
+    },
+    {
+      "rank": 4,
+      "country": "Macau",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "1.46%"
+    },
+    {
+      "rank": 5,
+      "country": "Cayman Islands",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "1.13%"
+    },
+    {
+      "rank": 6,
+      "country": "Bermuda",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "-0.2%"
+    },
+    {
+      "rank": 7,
+      "country": "Sint Maarten",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "1.16%"
+    },
+    {
+      "rank": 8,
+      "country": "Gibraltar",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "0.45%"
+    },
+    {
+      "rank": 9,
+      "country": "Monaco",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "0.5%"
+    },
+    {
+      "rank": 10,
+      "country": "Anguilla",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "0.47%"
+    },
+    {
+      "rank": 11,
+      "country": "Nauru",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": "0.18%"
+    },
+    {
+      "rank": 12,
+      "country": "Vatican City",
+      "urban_population_percentage": "100%",
+      "annual_urbanization_rate": ""
+    },
+    {
+      "rank": 13,
+      "country": "Qatar",
+      "urban_population_percentage": "99.4%",
+      "annual_urbanization_rate": "1.66%"
+    },
+    {
+      "rank": 14,
+      "country": "Belgium",
+      "urban_population_percentage": "98.2%",
+      "annual_urbanization_rate": "0.38%"
+    },
+    {
+      "rank": 15,
+      "country": "San Marino",
+      "urban_population_percentage": "97.8%",
+      "annual_urbanization_rate": "0.41%"
+    },
+    {
+      "rank": 16,
+      "country": "United States Virgin Islands",
+      "urban_population_percentage": "96.2%",
+      "annual_urbanization_rate": "-0.11%"
+    },
+    {
+      "rank": 17,
+      "country": "Uruguay",
+      "urban_population_percentage": "95.8%",
+      "annual_urbanization_rate": "0.4%"
+    },
+    {
+      "rank": 18,
+      "country": "Guam",
+      "urban_population_percentage": "95.2%",
+      "annual_urbanization_rate": "0.84%"
+    },
+    {
+      "rank": 19,
+      "country": "Malta",
+      "urban_population_percentage": "94.9%",
+      "annual_urbanization_rate": "0.28%"
+    },
+    {
+      "rank": 20,
+      "country": "Turks and Caicos Islands",
+      "urban_population_percentage": "94.2%",
+      "annual_urbanization_rate": "1.46%"
+    },
+    {
+      "rank": 21,
+      "country": "Iceland",
+      "urban_population_percentage": "94%",
+      "annual_urbanization_rate": "0.74%"
+    },
+    {
+      "rank": 22,
+      "country": "Puerto Rico",
+      "urban_population_percentage": "93.6%",
+      "annual_urbanization_rate": "-0.12%"
+    },
+    {
+      "rank": 23,
+      "country": "Netherlands",
+      "urban_population_percentage": "93.2%",
+      "annual_urbanization_rate": "0.59%"
+    },
+    {
+      "rank": 24,
+      "country": "Israel",
+      "urban_population_percentage": "92.9%",
+      "annual_urbanization_rate": "1.51%"
+    },
+    {
+      "rank": 25,
+      "country": "Argentina",
+      "urban_population_percentage": "92.5%",
+      "annual_urbanization_rate": "0.97%"
+    },
+    {
+      "rank": 26,
+      "country": "Luxembourg",
+      "urban_population_percentage": "92.1%",
+      "annual_urbanization_rate": "1.43%"
+    },
+    {
+      "rank": 27,
+      "country": "Northern Mariana Islands",
+      "urban_population_percentage": "92.1%",
+      "annual_urbanization_rate": "0.36%"
+    },
+    {
+      "rank": 28,
+      "country": "Japan",
+      "urban_population_percentage": "92%",
+      "annual_urbanization_rate": "-0.25%"
+    },
+    {
+      "rank": 29,
+      "country": "Jordan",
+      "urban_population_percentage": "92%",
+      "annual_urbanization_rate": "0.98%"
+    },
+    {
+      "rank": 30,
+      "country": "Gabon",
+      "urban_population_percentage": "91%",
+      "annual_urbanization_rate": "2.27%"
+    },
+    {
+      "rank": 31,
+      "country": "Saint Pierre and Miquelon",
+      "urban_population_percentage": "90.1%",
+      "annual_urbanization_rate": "0.75%"
+    },
+    {
+      "rank": 32,
+      "country": "Bahrain",
+      "urban_population_percentage": "89.9%",
+      "annual_urbanization_rate": "1.99%"
+    },
+    {
+      "rank": 33,
+      "country": "Lebanon",
+      "urban_population_percentage": "89.4%",
+      "annual_urbanization_rate": "-1.23%"
+    },
+    {
+      "rank": 34,
+      "country": "Curacao",
+      "urban_population_percentage": "89%",
+      "annual_urbanization_rate": "0.57%"
+    },
+    {
+      "rank": 35,
+      "country": "Sweden",
+      "urban_population_percentage": "88.7%",
+      "annual_urbanization_rate": "0.89%"
+    },
+    {
+      "rank": 36,
+      "country": "Denmark",
+      "urban_population_percentage": "88.5%",
+      "annual_urbanization_rate": "0.54%"
+    },
+    {
+      "rank": 37,
+      "country": "Venezuela",
+      "urban_population_percentage": "88.4%",
+      "annual_urbanization_rate": "1.16%"
+    },
+    {
+      "rank": 38,
+      "country": "Oman",
+      "urban_population_percentage": "88.4%",
+      "annual_urbanization_rate": "2.32%"
+    },
+    {
+      "rank": 39,
+      "country": "Chile",
+      "urban_population_percentage": "88%",
+      "annual_urbanization_rate": "0.78%"
+    },
+    {
+      "rank": 40,
+      "country": "Greenland",
+      "urban_population_percentage": "87.9%",
+      "annual_urbanization_rate": "0.41%"
+    },
+    {
+      "rank": 41,
+      "country": "Brazil",
+      "urban_population_percentage": "87.8%",
+      "annual_urbanization_rate": "0.87%"
+    },
+    {
+      "rank": 42,
+      "country": "United Arab Emirates",
+      "urban_population_percentage": "87.8%",
+      "annual_urbanization_rate": "1.5%"
+    },
+    {
+      "rank": 43,
+      "country": "Andorra",
+      "urban_population_percentage": "87.8%",
+      "annual_urbanization_rate": "0.11%"
+    },
+    {
+      "rank": 44,
+      "country": "American Samoa",
+      "urban_population_percentage": "87.2%",
+      "annual_urbanization_rate": "0.26%"
+    },
+    {
+      "rank": 45,
+      "country": "New Zealand",
+      "urban_population_percentage": "87%",
+      "annual_urbanization_rate": "0.92%"
+    },
+    {
+      "rank": 46,
+      "country": "Australia",
+      "urban_population_percentage": "86.6%",
+      "annual_urbanization_rate": "1.27%"
+    },
+    {
+      "rank": 47,
+      "country": "Finland",
+      "urban_population_percentage": "85.8%",
+      "annual_urbanization_rate": "0.42%"
+    },
+    {
+      "rank": 48,
+      "country": "Saudi Arabia",
+      "urban_population_percentage": "85%",
+      "annual_urbanization_rate": "1.69%"
+    },
+    {
+      "rank": 49,
+      "country": "United Kingdom",
+      "urban_population_percentage": "84.6%",
+      "annual_urbanization_rate": "0.8%"
+    },
+    {
+      "rank": 50,
+      "country": "Dominican Republic",
+      "urban_population_percentage": "84.4%",
+      "annual_urbanization_rate": "1.64%"
+    },
+    {
+      "rank": 51,
+      "country": "Norway",
+      "urban_population_percentage": "84%",
+      "annual_urbanization_rate": "1.32%"
+    },
+    {
+      "rank": 52,
+      "country": "Bahamas",
+      "urban_population_percentage": "83.6%",
+      "annual_urbanization_rate": "1.02%"
+    },
+    {
+      "rank": 53,
+      "country": "United States",
+      "urban_population_percentage": "83.3%",
+      "annual_urbanization_rate": "0.96%"
+    },
+    {
+      "rank": 54,
+      "country": "Costa Rica",
+      "urban_population_percentage": "82.6%",
+      "annual_urbanization_rate": "1.5%"
+    },
+    {
+      "rank": 55,
+      "country": "Colombia",
+      "urban_population_percentage": "82.4%",
+      "annual_urbanization_rate": "1.01%"
+    },
+    {
+      "rank": 56,
+      "country": "Palau",
+      "urban_population_percentage": "82.4%",
+      "annual_urbanization_rate": "1.59%"
+    },
+    {
+      "rank": 57,
+      "country": "Canada",
+      "urban_population_percentage": "81.9%",
+      "annual_urbanization_rate": "0.95%"
+    },
+    {
+      "rank": 58,
+      "country": "France",
+      "urban_population_percentage": "81.8%",
+      "annual_urbanization_rate": "0.67%"
+    },
+    {
+      "rank": 59,
+      "country": "Mexico",
+      "urban_population_percentage": "81.6%",
+      "annual_urbanization_rate": "1.4%"
+    },
+    {
+      "rank": 60,
+      "country": "Spain",
+      "urban_population_percentage": "81.6%",
+      "annual_urbanization_rate": "0.24%"
+    },
+    {
+      "rank": 61,
+      "country": "Libya",
+      "urban_population_percentage": "81.6%",
+      "annual_urbanization_rate": "1.45%"
+    },
+    {
+      "rank": 62,
+      "country": "South Korea",
+      "urban_population_percentage": "81.5%",
+      "annual_urbanization_rate": "0.31%"
+    },
+    {
+      "rank": 63,
+      "country": "Greece",
+      "urban_population_percentage": "80.7%",
+      "annual_urbanization_rate": "0.11%"
+    },
+    {
+      "rank": 64,
+      "country": "Belarus",
+      "urban_population_percentage": "80.7%",
+      "annual_urbanization_rate": "0.28%"
+    },
+    {
+      "rank": 65,
+      "country": "Taiwan",
+      "urban_population_percentage": "80.1%",
+      "annual_urbanization_rate": "0.65%"
+    },
+    {
+      "rank": 66,
+      "country": "Falkland Islands",
+      "urban_population_percentage": "79.7%",
+      "annual_urbanization_rate": "0.53%"
+    },
+    {
+      "rank": 67,
+      "country": "Brunei",
+      "urban_population_percentage": "79.1%",
+      "annual_urbanization_rate": "1.44%"
+    },
+    {
+      "rank": 68,
+      "country": "Peru",
+      "urban_population_percentage": "78.9%",
+      "annual_urbanization_rate": "1.33%"
+    },
+    {
+      "rank": 69,
+      "country": "Marshall Islands",
+      "urban_population_percentage": "78.9%",
+      "annual_urbanization_rate": "0.61%"
+    },
+    {
+      "rank": 70,
+      "country": "Malaysia",
+      "urban_population_percentage": "78.7%",
+      "annual_urbanization_rate": "1.87%"
+    },
+    {
+      "rank": 71,
+      "country": "Djibouti",
+      "urban_population_percentage": "78.6%",
+      "annual_urbanization_rate": "1.56%"
+    },
+    {
+      "rank": 72,
+      "country": "Germany",
+      "urban_population_percentage": "77.8%",
+      "annual_urbanization_rate": "0.13%"
+    },
+    {
+      "rank": 73,
+      "country": "Palestine",
+      "urban_population_percentage": "77.6%",
+      "annual_urbanization_rate": "2.85%"
+    },
+    {
+      "rank": 74,
+      "country": "Turkey",
+      "urban_population_percentage": "77.5%",
+      "annual_urbanization_rate": "1.11%"
+    },
+    {
+      "rank": 75,
+      "country": "Cuba",
+      "urban_population_percentage": "77.5%",
+      "annual_urbanization_rate": "0.19%"
+    },
+    {
+      "rank": 76,
+      "country": "Iran",
+      "urban_population_percentage": "77.3%",
+      "annual_urbanization_rate": "1.32%"
+    },
+    {
+      "rank": 77,
+      "country": "Bulgaria",
+      "urban_population_percentage": "76.7%",
+      "annual_urbanization_rate": "-0.28%"
+    },
+    {
+      "rank": 78,
+      "country": "Sao Tome and Principe",
+      "urban_population_percentage": "76.4%",
+      "annual_urbanization_rate": "2.96%"
+    },
+    {
+      "rank": 79,
+      "country": "Cook Islands",
+      "urban_population_percentage": "76.2%",
+      "annual_urbanization_rate": "0.52%"
+    },
+    {
+      "rank": 80,
+      "country": "El Salvador",
+      "urban_population_percentage": "75.4%",
+      "annual_urbanization_rate": "1.33%"
+    },
+    {
+      "rank": 81,
+      "country": "Russia",
+      "urban_population_percentage": "75.3%",
+      "annual_urbanization_rate": "0.11%"
+    },
+    {
+      "rank": 82,
+      "country": "Algeria",
+      "urban_population_percentage": "75.3%",
+      "annual_urbanization_rate": "1.99%"
+    },
+    {
+      "rank": 83,
+      "country": "Czechia",
+      "urban_population_percentage": "74.6%",
+      "annual_urbanization_rate": "0.2%"
+    },
+    {
+      "rank": 84,
+      "country": "Equatorial Guinea",
+      "urban_population_percentage": "74.4%",
+      "annual_urbanization_rate": "3.62%"
+    },
+    {
+      "rank": 85,
+      "country": "Switzerland",
+      "urban_population_percentage": "74.2%",
+      "annual_urbanization_rate": "0.79%"
+    },
+    {
+      "rank": 86,
+      "country": "Hungary",
+      "urban_population_percentage": "72.9%",
+      "annual_urbanization_rate": "0.05%"
+    },
+    {
+      "rank": 87,
+      "country": "Botswana",
+      "urban_population_percentage": "72.9%",
+      "annual_urbanization_rate": "2.47%"
+    },
+    {
+      "rank": 88,
+      "country": "New Caledonia",
+      "urban_population_percentage": "72.7%",
+      "annual_urbanization_rate": "1.72%"
+    },
+    {
+      "rank": 89,
+      "country": "Italy",
+      "urban_population_percentage": "72%",
+      "annual_urbanization_rate": "0.27%"
+    },
+    {
+      "rank": 90,
+      "country": "Dominica",
+      "urban_population_percentage": "72%",
+      "annual_urbanization_rate": "0.84%"
+    },
+    {
+      "rank": 91,
+      "country": "Iraq",
+      "urban_population_percentage": "71.6%",
+      "annual_urbanization_rate": "2.91%"
+    },
+    {
+      "rank": 92,
+      "country": "Bolivia",
+      "urban_population_percentage": "71.2%",
+      "annual_urbanization_rate": "1.87%"
+    },
+    {
+      "rank": 93,
+      "country": "Tunisia",
+      "urban_population_percentage": "70.5%",
+      "annual_urbanization_rate": "1.34%"
+    },
+    {
+      "rank": 94,
+      "country": "Ukraine",
+      "urban_population_percentage": "70.1%",
+      "annual_urbanization_rate": "-0.27%"
+    },
+    {
+      "rank": 95,
+      "country": "Estonia",
+      "urban_population_percentage": "69.8%",
+      "annual_urbanization_rate": "-0.03%"
+    },
+    {
+      "rank": 96,
+      "country": "Panama",
+      "urban_population_percentage": "69.5%",
+      "annual_urbanization_rate": "1.92%"
+    },
+    {
+      "rank": 97,
+      "country": "Republic of the Congo",
+      "urban_population_percentage": "69.2%",
+      "annual_urbanization_rate": "3.19%"
+    },
+    {
+      "rank": 98,
+      "country": "Mongolia",
+      "urban_population_percentage": "69.1%",
+      "annual_urbanization_rate": "1.4%"
+    },
+    {
+      "rank": 99,
+      "country": "South Africa",
+      "urban_population_percentage": "68.8%",
+      "annual_urbanization_rate": "1.72%"
+    },
+    {
+      "rank": 100,
+      "country": "Angola",
+      "urban_population_percentage": "68.7%",
+      "annual_urbanization_rate": "4.04%"
+    },
+    {
+      "rank": 101,
+      "country": "Lithuania",
+      "urban_population_percentage": "68.7%",
+      "annual_urbanization_rate": "-0.12%"
+    },
+    {
+      "rank": 102,
+      "country": "Latvia",
+      "urban_population_percentage": "68.7%",
+      "annual_urbanization_rate": "-0.68%"
+    },
+    {
+      "rank": 103,
+      "country": "Montenegro",
+      "urban_population_percentage": "68.5%",
+      "annual_urbanization_rate": "0.45%"
+    },
+    {
+      "rank": 104,
+      "country": "Cape Verde",
+      "urban_population_percentage": "68%",
+      "annual_urbanization_rate": "1.83%"
+    },
+    {
+      "rank": 105,
+      "country": "Portugal",
+      "urban_population_percentage": "67.9%",
+      "annual_urbanization_rate": "0.44%"
+    },
+    {
+      "rank": 106,
+      "country": "Cyprus",
+      "urban_population_percentage": "67%",
+      "annual_urbanization_rate": "0.76%"
+    },
+    {
+      "rank": 107,
+      "country": "Suriname",
+      "urban_population_percentage": "66.4%",
+      "annual_urbanization_rate": "0.88%"
+    },
+    {
+      "rank": 108,
+      "country": "Tuvalu",
+      "urban_population_percentage": "66.2%",
+      "annual_urbanization_rate": "2.08%"
+    },
+    {
+      "rank": 109,
+      "country": "Morocco",
+      "urban_population_percentage": "65.1%",
+      "annual_urbanization_rate": "1.88%"
+    },
+    {
+      "rank": 110,
+      "country": "Ecuador",
+      "urban_population_percentage": "64.8%",
+      "annual_urbanization_rate": "1.62%"
+    },
+    {
+      "rank": 111,
+      "country": "China",
+      "urban_population_percentage": "64.6%",
+      "annual_urbanization_rate": "1.78%"
+    },
+    {
+      "rank": 112,
+      "country": "Albania",
+      "urban_population_percentage": "64.6%",
+      "annual_urbanization_rate": "1.29%"
+    },
+    {
+      "rank": 113,
+      "country": "Ireland",
+      "urban_population_percentage": "64.5%",
+      "annual_urbanization_rate": "1.15%"
+    },
+    {
+      "rank": 114,
+      "country": "Gambia",
+      "urban_population_percentage": "64.5%",
+      "annual_urbanization_rate": "3.75%"
+    },
+    {
+      "rank": 115,
+      "country": "Armenia",
+      "urban_population_percentage": "63.7%",
+      "annual_urbanization_rate": "0.23%"
+    },
+    {
+      "rank": 116,
+      "country": "North Korea",
+      "urban_population_percentage": "63.2%",
+      "annual_urbanization_rate": "0.85%"
+    },
+    {
+      "rank": 117,
+      "country": "Paraguay",
+      "urban_population_percentage": "63.1%",
+      "annual_urbanization_rate": "1.64%"
+    },
+    {
+      "rank": 118,
+      "country": "French Polynesia",
+      "urban_population_percentage": "62.3%",
+      "annual_urbanization_rate": "0.65%"
+    },
+    {
+      "rank": 119,
+      "country": "Georgia",
+      "urban_population_percentage": "60.7%",
+      "annual_urbanization_rate": "0.35%"
+    },
+    {
+      "rank": 120,
+      "country": "Poland",
+      "urban_population_percentage": "60.2%",
+      "annual_urbanization_rate": "-0.16%"
+    },
+    {
+      "rank": 121,
+      "country": "Honduras",
+      "urban_population_percentage": "60.2%",
+      "annual_urbanization_rate": "2.48%"
+    },
+    {
+      "rank": 122,
+      "country": "Nicaragua",
+      "urban_population_percentage": "59.8%",
+      "annual_urbanization_rate": "1.45%"
+    },
+    {
+      "rank": 123,
+      "country": "Haiti",
+      "urban_population_percentage": "59.7%",
+      "annual_urbanization_rate": "2.47%"
+    },
+    {
+      "rank": 124,
+      "country": "Austria",
+      "urban_population_percentage": "59.5%",
+      "annual_urbanization_rate": "0.68%"
+    },
+    {
+      "rank": 125,
+      "country": "North Macedonia",
+      "urban_population_percentage": "59.5%",
+      "annual_urbanization_rate": "0.61%"
+    },
+    {
+      "rank": 126,
+      "country": "Cameroon",
+      "urban_population_percentage": "59.3%",
+      "annual_urbanization_rate": "3.43%"
+    },
+    {
+      "rank": 127,
+      "country": "Ghana",
+      "urban_population_percentage": "59.2%",
+      "annual_urbanization_rate": "3.06%"
+    },
+    {
+      "rank": 128,
+      "country": "Seychelles",
+      "urban_population_percentage": "58.8%",
+      "annual_urbanization_rate": "0.99%"
+    },
+    {
+      "rank": 129,
+      "country": "Fiji",
+      "urban_population_percentage": "58.7%",
+      "annual_urbanization_rate": "1.37%"
+    },
+    {
+      "rank": 130,
+      "country": "Indonesia",
+      "urban_population_percentage": "58.6%",
+      "annual_urbanization_rate": "1.99%"
+    },
+    {
+      "rank": 131,
+      "country": "Croatia",
+      "urban_population_percentage": "58.6%",
+      "annual_urbanization_rate": "0.05%"
+    },
+    {
+      "rank": 132,
+      "country": "Kazakhstan",
+      "urban_population_percentage": "58.2%",
+      "annual_urbanization_rate": "1.19%"
+    },
+    {
+      "rank": 133,
+      "country": "Kiribati",
+      "urban_population_percentage": "57.8%",
+      "annual_urbanization_rate": "2.77%"
+    },
+    {
+      "rank": 134,
+      "country": "Mauritania",
+      "urban_population_percentage": "57.7%",
+      "annual_urbanization_rate": "3.84%"
+    },
+    {
+      "rank": 135,
+      "country": "Azerbaijan",
+      "urban_population_percentage": "57.6%",
+      "annual_urbanization_rate": "1.38%"
+    },
+    {
+      "rank": 136,
+      "country": "Syria",
+      "urban_population_percentage": "57.4%",
+      "annual_urbanization_rate": "5.38%"
+    },
+    {
+      "rank": 137,
+      "country": "Jamaica",
+      "urban_population_percentage": "57.4%",
+      "annual_urbanization_rate": "0.79%"
+    },
+    {
+      "rank": 138,
+      "country": "Serbia",
+      "urban_population_percentage": "57.1%",
+      "annual_urbanization_rate": "0.04%"
+    },
+    {
+      "rank": 139,
+      "country": "Slovenia",
+      "urban_population_percentage": "56.1%",
+      "annual_urbanization_rate": "0.54%"
+    },
+    {
+      "rank": 140,
+      "country": "Namibia",
+      "urban_population_percentage": "54.9%",
+      "annual_urbanization_rate": "3.64%"
+    },
+    {
+      "rank": 141,
+      "country": "Romania",
+      "urban_population_percentage": "54.7%",
+      "annual_urbanization_rate": "-0.15%"
+    },
+    {
+      "rank": 142,
+      "country": "Nigeria",
+      "urban_population_percentage": "54.3%",
+      "annual_urbanization_rate": "3.92%"
+    },
+    {
+      "rank": 143,
+      "country": "Saint Vincent and the Grenadines",
+      "urban_population_percentage": "54.3%",
+      "annual_urbanization_rate": "0.94%"
+    },
+    {
+      "rank": 144,
+      "country": "Turkmenistan",
+      "urban_population_percentage": "54%",
+      "annual_urbanization_rate": "2.23%"
+    },
+    {
+      "rank": 145,
+      "country": "Slovakia",
+      "urban_population_percentage": "54%",
+      "annual_urbanization_rate": "0.17%"
+    },
+    {
+      "rank": 146,
+      "country": "Thailand",
+      "urban_population_percentage": "53.6%",
+      "annual_urbanization_rate": "1.43%"
+    },
+    {
+      "rank": 147,
+      "country": "Liberia",
+      "urban_population_percentage": "53.6%",
+      "annual_urbanization_rate": "3.41%"
+    },
+    {
+      "rank": 148,
+      "country": "Isle of Man",
+      "urban_population_percentage": "53.5%",
+      "annual_urbanization_rate": "0.97%"
+    },
+    {
+      "rank": 149,
+      "country": "Trinidad and Tobago",
+      "urban_population_percentage": "53.4%",
+      "annual_urbanization_rate": "0.23%"
+    },
+    {
+      "rank": 150,
+      "country": "Ivory Coast",
+      "urban_population_percentage": "53.1%",
+      "annual_urbanization_rate": "3.38%"
+    },
+    {
+      "rank": 151,
+      "country": "Guatemala",
+      "urban_population_percentage": "53.1%",
+      "annual_urbanization_rate": "2.59%"
+    },
+    {
+      "rank": 152,
+      "country": "Uzbekistan",
+      "urban_population_percentage": "50.5%",
+      "annual_urbanization_rate": "1.25%"
+    },
+    {
+      "rank": 153,
+      "country": "Bosnia and Herzegovina",
+      "urban_population_percentage": "50.3%",
+      "annual_urbanization_rate": "0.61%"
+    },
+    {
+      "rank": 154,
+      "country": "Benin",
+      "urban_population_percentage": "50.1%",
+      "annual_urbanization_rate": "3.74%"
+    },
+    {
+      "rank": 155,
+      "country": "British Virgin Islands",
+      "urban_population_percentage": "49.7%",
+      "annual_urbanization_rate": "0.87%"
+    },
+    {
+      "rank": 156,
+      "country": "Senegal",
+      "urban_population_percentage": "49.6%",
+      "annual_urbanization_rate": "3.59%"
+    },
+    {
+      "rank": 157,
+      "country": "Philippines",
+      "urban_population_percentage": "48.3%",
+      "annual_urbanization_rate": "2.04%"
+    },
+    {
+      "rank": 158,
+      "country": "Niue",
+      "urban_population_percentage": "48.2%",
+      "annual_urbanization_rate": "1.43%"
+    },
+    {
+      "rank": 159,
+      "country": "Somalia",
+      "urban_population_percentage": "47.9%",
+      "annual_urbanization_rate": "4.2%"
+    },
+    {
+      "rank": 160,
+      "country": "DR Congo",
+      "urban_population_percentage": "47.4%",
+      "annual_urbanization_rate": "4.33%"
+    },
+    {
+      "rank": 161,
+      "country": "Belize",
+      "urban_population_percentage": "46.6%",
+      "annual_urbanization_rate": "2.3%"
+    },
+    {
+      "rank": 162,
+      "country": "Zambia",
+      "urban_population_percentage": "46.3%",
+      "annual_urbanization_rate": "4.15%"
+    },
+    {
+      "rank": 163,
+      "country": "Mali",
+      "urban_population_percentage": "46.2%",
+      "annual_urbanization_rate": "4.57%"
+    },
+    {
+      "rank": 164,
+      "country": "Guinea-Bissau",
+      "urban_population_percentage": "45.5%",
+      "annual_urbanization_rate": "3.22%"
+    },
+    {
+      "rank": 165,
+      "country": "Togo",
+      "urban_population_percentage": "44.5%",
+      "annual_urbanization_rate": "3.6%"
+    },
+    {
+      "rank": 166,
+      "country": "Bhutan",
+      "urban_population_percentage": "44.4%",
+      "annual_urbanization_rate": "2.52%"
+    },
+    {
+      "rank": 167,
+      "country": "Sierra Leone",
+      "urban_population_percentage": "44.3%",
+      "annual_urbanization_rate": "3.02%"
+    },
+    {
+      "rank": 168,
+      "country": "Aruba",
+      "urban_population_percentage": "44.3%",
+      "annual_urbanization_rate": "0.77%"
+    },
+    {
+      "rank": 169,
+      "country": "Central African Republic",
+      "urban_population_percentage": "43.6%",
+      "annual_urbanization_rate": "3.32%"
+    },
+    {
+      "rank": 170,
+      "country": "Moldova",
+      "urban_population_percentage": "43.4%",
+      "annual_urbanization_rate": "0.09%"
+    },
+    {
+      "rank": 171,
+      "country": "Eritrea",
+      "urban_population_percentage": "43.3%",
+      "annual_urbanization_rate": "3.67%"
+    },
+    {
+      "rank": 172,
+      "country": "Egypt",
+      "urban_population_percentage": "43.1%",
+      "annual_urbanization_rate": "1.9%"
+    },
+    {
+      "rank": 173,
+      "country": "Faroe Islands",
+      "urban_population_percentage": "43%",
+      "annual_urbanization_rate": "0.89%"
+    },
+    {
+      "rank": 174,
+      "country": "Maldives",
+      "urban_population_percentage": "42%",
+      "annual_urbanization_rate": "2.34%"
+    },
+    {
+      "rank": 175,
+      "country": "Liechtenstein",
+      "urban_population_percentage": "41.6%",
+      "annual_urbanization_rate": "1.15%"
+    },
+    {
+      "rank": 176,
+      "country": "Mauritius",
+      "urban_population_percentage": "40.9%",
+      "annual_urbanization_rate": "0.28%"
+    },
+    {
+      "rank": 177,
+      "country": "Madagascar",
+      "urban_population_percentage": "40.6%",
+      "annual_urbanization_rate": "4.26%"
+    },
+    {
+      "rank": 178,
+      "country": "Bangladesh",
+      "urban_population_percentage": "40.5%",
+      "annual_urbanization_rate": "2.88%"
+    },
+    {
+      "rank": 179,
+      "country": "Yemen",
+      "urban_population_percentage": "39.8%",
+      "annual_urbanization_rate": "3.71%"
+    },
+    {
+      "rank": 180,
+      "country": "Vietnam",
+      "urban_population_percentage": "39.5%",
+      "annual_urbanization_rate": "2.7%"
+    },
+    {
+      "rank": 181,
+      "country": "Mozambique",
+      "urban_population_percentage": "38.8%",
+      "annual_urbanization_rate": "4.24%"
+    },
+    {
+      "rank": 182,
+      "country": "Laos",
+      "urban_population_percentage": "38.2%",
+      "annual_urbanization_rate": "2.99%"
+    },
+    {
+      "rank": 183,
+      "country": "Guinea",
+      "urban_population_percentage": "38.1%",
+      "annual_urbanization_rate": "3.64%"
+    },
+    {
+      "rank": 184,
+      "country": "Pakistan",
+      "urban_population_percentage": "38%",
+      "annual_urbanization_rate": "2.1%"
+    },
+    {
+      "rank": 185,
+      "country": "Kyrgyzstan",
+      "urban_population_percentage": "37.8%",
+      "annual_urbanization_rate": "2.05%"
+    },
+    {
+      "rank": 186,
+      "country": "Tanzania",
+      "urban_population_percentage": "37.4%",
+      "annual_urbanization_rate": "4.89%"
+    },
+    {
+      "rank": 187,
+      "country": "Grenada",
+      "urban_population_percentage": "37.1%",
+      "annual_urbanization_rate": "0.86%"
+    },
+    {
+      "rank": 188,
+      "country": "India",
+      "urban_population_percentage": "36.4%",
+      "annual_urbanization_rate": "2.33%"
+    },
+    {
+      "rank": 189,
+      "country": "Sudan",
+      "urban_population_percentage": "36.3%",
+      "annual_urbanization_rate": "3.43%"
+    },
+    {
+      "rank": 190,
+      "country": "Burkina Faso",
+      "urban_population_percentage": "32.5%",
+      "annual_urbanization_rate": "4.75%"
+    },
+    {
+      "rank": 191,
+      "country": "Zimbabwe",
+      "urban_population_percentage": "32.5%",
+      "annual_urbanization_rate": "2.41%"
+    },
+    {
+      "rank": 192,
+      "country": "Timor-Leste",
+      "urban_population_percentage": "32.5%",
+      "annual_urbanization_rate": "3.31%"
+    },
+    {
+      "rank": 193,
+      "country": "Myanmar",
+      "urban_population_percentage": "32.1%",
+      "annual_urbanization_rate": "1.85%"
+    },
+    {
+      "rank": 194,
+      "country": "Barbados",
+      "urban_population_percentage": "31.4%",
+      "annual_urbanization_rate": "0.46%"
+    },
+    {
+      "rank": 195,
+      "country": "Jersey",
+      "urban_population_percentage": "31.2%",
+      "annual_urbanization_rate": "0.68%"
+    },
+    {
+      "rank": 196,
+      "country": "Guernsey",
+      "urban_population_percentage": "31.2%",
+      "annual_urbanization_rate": "0.68%"
+    },
+    {
+      "rank": 197,
+      "country": "Saint Kitts and Nevis",
+      "urban_population_percentage": "31.1%",
+      "annual_urbanization_rate": "1.06%"
+    },
+    {
+      "rank": 198,
+      "country": "Comoros",
+      "urban_population_percentage": "30.1%",
+      "annual_urbanization_rate": "2.97%"
+    },
+    {
+      "rank": 199,
+      "country": "Kenya",
+      "urban_population_percentage": "29.5%",
+      "annual_urbanization_rate": "4.09%"
+    },
+    {
+      "rank": 200,
+      "country": "Tajikistan",
+      "urban_population_percentage": "28.2%",
+      "annual_urbanization_rate": "2.73%"
+    },
+    {
+      "rank": 201,
+      "country": "Guyana",
+      "urban_population_percentage": "27.2%",
+      "annual_urbanization_rate": "1.01%"
+    },
+    {
+      "rank": 202,
+      "country": "Afghanistan",
+      "urban_population_percentage": "26.9%",
+      "annual_urbanization_rate": "3.34%"
+    },
+    {
+      "rank": 203,
+      "country": "Uganda",
+      "urban_population_percentage": "26.8%",
+      "annual_urbanization_rate": "5.41%"
+    },
+    {
+      "rank": 204,
+      "country": "Solomon Islands",
+      "urban_population_percentage": "26%",
+      "annual_urbanization_rate": "3.57%"
+    },
+    {
+      "rank": 205,
+      "country": "Vanuatu",
+      "urban_population_percentage": "26%",
+      "annual_urbanization_rate": "2.55%"
+    },
+    {
+      "rank": 206,
+      "country": "Cambodia",
+      "urban_population_percentage": "25.6%",
+      "annual_urbanization_rate": "3.06%"
+    },
+    {
+      "rank": 207,
+      "country": "Eswatini",
+      "urban_population_percentage": "24.8%",
+      "annual_urbanization_rate": "2.42%"
+    },
+    {
+      "rank": 208,
+      "country": "Chad",
+      "urban_population_percentage": "24.4%",
+      "annual_urbanization_rate": "4.1%"
+    },
+    {
+      "rank": 209,
+      "country": "Antigua and Barbuda",
+      "urban_population_percentage": "24.3%",
+      "annual_urbanization_rate": "0.87%"
+    },
+    {
+      "rank": 210,
+      "country": "Micronesia",
+      "urban_population_percentage": "23.4%",
+      "annual_urbanization_rate": "1.52%"
+    },
+    {
+      "rank": 211,
+      "country": "Ethiopia",
+      "urban_population_percentage": "23.2%",
+      "annual_urbanization_rate": "4.4%"
+    },
+    {
+      "rank": 212,
+      "country": "Tonga",
+      "urban_population_percentage": "23.2%",
+      "annual_urbanization_rate": "0.99%"
+    },
+    {
+      "rank": 213,
+      "country": "Nepal",
+      "urban_population_percentage": "21.9%",
+      "annual_urbanization_rate": "3.09%"
+    },
+    {
+      "rank": 214,
+      "country": "South Sudan",
+      "urban_population_percentage": "21.2%",
+      "annual_urbanization_rate": "4.12%"
+    },
+    {
+      "rank": 215,
+      "country": "Sri Lanka",
+      "urban_population_percentage": "19.2%",
+      "annual_urbanization_rate": "1.22%"
+    },
+    {
+      "rank": 216,
+      "country": "Saint Lucia",
+      "urban_population_percentage": "19.2%",
+      "annual_urbanization_rate": "0.98%"
+    },
+    {
+      "rank": 217,
+      "country": "Malawi",
+      "urban_population_percentage": "18.3%",
+      "annual_urbanization_rate": "4.41%"
+    },
+    {
+      "rank": 218,
+      "country": "Rwanda",
+      "urban_population_percentage": "17.9%",
+      "annual_urbanization_rate": "3.07%"
+    },
+    {
+      "rank": 219,
+      "country": "Samoa",
+      "urban_population_percentage": "17.5%",
+      "annual_urbanization_rate": "-0.03%"
+    },
+    {
+      "rank": 220,
+      "country": "Niger",
+      "urban_population_percentage": "17.1%",
+      "annual_urbanization_rate": "4.72%"
+    },
+    {
+      "rank": 221,
+      "country": "Burundi",
+      "urban_population_percentage": "14.8%",
+      "annual_urbanization_rate": "5.43%"
+    },
+    {
+      "rank": 222,
+      "country": "Papua New Guinea",
+      "urban_population_percentage": "13.7%",
+      "annual_urbanization_rate": "2.91%"
+    },
+    {
+      "rank": 223,
+      "country": "Montserrat",
+      "urban_population_percentage": "9.3%",
+      "annual_urbanization_rate": "0.94%"
+    }
+  ]
+}

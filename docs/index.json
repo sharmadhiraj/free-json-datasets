@@ -101,6 +101,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/largest_cities_by_population.json"
       },
       {
+        "title": "Most Urbanized Countries by Population (2023)",
+        "subtitle": "Countries ranked by share of population living in urban areas and urbanization growth rate.",
+        "updated_at": "December 25, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/most_urbanized_countries.json"
+      },
+      {
         "title": "World Population by Country (2025)",
         "subtitle": "Latest country-wise population data as of 2025",
         "updated_at": "August 20, 2025 09:42 AM UTC",
