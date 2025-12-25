@@ -1,0 +1,307 @@
+{
+  "title": "Gold Reserves by Country",
+  "subtitle": "Top countries ranked by gold holdings and share of foreign exchange reserves.",
+  "updated_at": "December 25, 2025 06:07 AM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "country": "United States",
+      "gold_holdings_metric_tons": "8,133.5",
+      "gold_share_of_forex_reserves": "77.8%"
+    },
+    {
+      "rank": "2",
+      "country": "Germany",
+      "gold_holdings_metric_tons": "3,350.2",
+      "gold_share_of_forex_reserves": "77.5%"
+    },
+    {
+      "rank": "3",
+      "country": "Italy",
+      "gold_holdings_metric_tons": "2,451.8",
+      "gold_share_of_forex_reserves": "74.2%"
+    },
+    {
+      "rank": "4",
+      "country": "France",
+      "gold_holdings_metric_tons": "2,437.0",
+      "gold_share_of_forex_reserves": "74.9%"
+    },
+    {
+      "rank": "5",
+      "country": "Russia",
+      "gold_holdings_metric_tons": "2,332.7",
+      "gold_share_of_forex_reserves": "29.5%"
+    },
+    {
+      "rank": "6",
+      "country": "China",
+      "gold_holdings_metric_tons": "2,298.5",
+      "gold_share_of_forex_reserves": "6.7%"
+    },
+    {
+      "rank": "7",
+      "country": "Switzerland",
+      "gold_holdings_metric_tons": "1,039.9",
+      "gold_share_of_forex_reserves": "9.6%"
+    },
+    {
+      "rank": "8",
+      "country": "India",
+      "gold_holdings_metric_tons": "900.0",
+      "gold_share_of_forex_reserves": "13.0%"
+    },
+    {
+      "rank": "9",
+      "country": "Japan",
+      "gold_holdings_metric_tons": "845.9",
+      "gold_share_of_forex_reserves": "6.8%"
+    },
+    {
+      "rank": "10",
+      "country": "Turkey",
+      "gold_holdings_metric_tons": "634.7",
+      "gold_share_of_forex_reserves": "50.1%"
+    },
+    {
+      "rank": "11",
+      "country": "Netherlands",
+      "gold_holdings_metric_tons": "612.4",
+      "gold_share_of_forex_reserves": "68.0%"
+    },
+    {
+      "rank": "12",
+      "country": "Poland",
+      "gold_holdings_metric_tons": "544.2",
+      "gold_share_of_forex_reserves": "27.4%"
+    },
+    {
+      "rank": "13",
+      "country": "Taiwan",
+      "gold_holdings_metric_tons": "422.4",
+      "gold_share_of_forex_reserves": "4.7%"
+    },
+    {
+      "rank": "14",
+      "country": "Portugal",
+      "gold_holdings_metric_tons": "382.6",
+      "gold_share_of_forex_reserves": "84.2%"
+    },
+    {
+      "rank": "15",
+      "country": "Uzbekistan",
+      "gold_holdings_metric_tons": "364.5",
+      "gold_share_of_forex_reserves": "79.1%"
+    },
+    {
+      "rank": "16",
+      "country": "Saudi Arabia",
+      "gold_holdings_metric_tons": "323.1",
+      "gold_share_of_forex_reserves": "4.7%"
+    },
+    {
+      "rank": "17",
+      "country": "United Kingdom",
+      "gold_holdings_metric_tons": "310.2",
+      "gold_share_of_forex_reserves": "16.5%"
+    },
+    {
+      "rank": "18",
+      "country": "Kazakhstan",
+      "gold_holdings_metric_tons": "306.1",
+      "gold_share_of_forex_reserves": "62.0%"
+    },
+    {
+      "rank": "19",
+      "country": "Lebanon",
+      "gold_holdings_metric_tons": "286",
+      "gold_share_of_forex_reserves": "-"
+    },
+    {
+      "rank": "20",
+      "country": "Spain",
+      "gold_holdings_metric_tons": "281.5",
+      "gold_share_of_forex_reserves": "25.4%"
+    },
+    {
+      "rank": "21",
+      "country": "Austria",
+      "gold_holdings_metric_tons": "279.9",
+      "gold_share_of_forex_reserves": "68.6%"
+    },
+    {
+      "rank": "22",
+      "country": "Thailand",
+      "gold_holdings_metric_tons": "234.5",
+      "gold_share_of_forex_reserves": "9.4%"
+    },
+    {
+      "rank": "23",
+      "country": "Belgium",
+      "gold_holdings_metric_tons": "227.4",
+      "gold_share_of_forex_reserves": "49.2%"
+    },
+    {
+      "rank": "24",
+      "country": "Singapore",
+      "gold_holdings_metric_tons": "204.1",
+      "gold_share_of_forex_reserves": "5.1%"
+    },
+    {
+      "rank": "25",
+      "country": "Algeria",
+      "gold_holdings_metric_tons": "173.5",
+      "gold_share_of_forex_reserves": "23.0%"
+    },
+    {
+      "rank": "26",
+      "country": "Venezuela",
+      "gold_holdings_metric_tons": "161.2",
+      "gold_share_of_forex_reserves": "83.0%"
+    },
+    {
+      "rank": "27",
+      "country": "Libya",
+      "gold_holdings_metric_tons": "146.6",
+      "gold_share_of_forex_reserves": "15.5%"
+    },
+    {
+      "rank": "28",
+      "country": "Philippines",
+      "gold_holdings_metric_tons": "129.7",
+      "gold_share_of_forex_reserves": "12.9%"
+    },
+    {
+      "rank": "29",
+      "country": "Brazil",
+      "gold_holdings_metric_tons": "129.6",
+      "gold_share_of_forex_reserves": "3.9%"
+    },
+    {
+      "rank": "30",
+      "country": "Egypt",
+      "gold_holdings_metric_tons": "128.5",
+      "gold_share_of_forex_reserves": "23.7%"
+    },
+    {
+      "rank": "31",
+      "country": "Sweden",
+      "gold_holdings_metric_tons": "125.7",
+      "gold_share_of_forex_reserves": "19.2%"
+    },
+    {
+      "rank": "32",
+      "country": "South Africa",
+      "gold_holdings_metric_tons": "125.4",
+      "gold_share_of_forex_reserves": "19.3%"
+    },
+    {
+      "rank": "33",
+      "country": "Mexico",
+      "gold_holdings_metric_tons": "120.1",
+      "gold_share_of_forex_reserves": "5.0%"
+    },
+    {
+      "rank": "34",
+      "country": "Qatar",
+      "gold_holdings_metric_tons": "116.1",
+      "gold_share_of_forex_reserves": "22.2%"
+    },
+    {
+      "rank": "35",
+      "country": "Greece",
+      "gold_holdings_metric_tons": "114.5",
+      "gold_share_of_forex_reserves": "61.3%"
+    },
+    {
+      "rank": "36",
+      "country": "Hungary",
+      "gold_holdings_metric_tons": "110.0",
+      "gold_share_of_forex_reserves": "21.0%"
+    },
+    {
+      "rank": "37",
+      "country": "South Korea",
+      "gold_holdings_metric_tons": "104.4",
+      "gold_share_of_forex_reserves": "2.1%"
+    },
+    {
+      "rank": "38",
+      "country": "Romania",
+      "gold_holdings_metric_tons": "103.6",
+      "gold_share_of_forex_reserves": "13.8%"
+    },
+    {
+      "rank": "39",
+      "country": "Australia",
+      "gold_holdings_metric_tons": "79.8",
+      "gold_share_of_forex_reserves": "13.1%"
+    },
+    {
+      "rank": "40",
+      "country": "Kuwait",
+      "gold_holdings_metric_tons": "79.0",
+      "gold_share_of_forex_reserves": "10.0%"
+    },
+    {
+      "rank": "41",
+      "country": "Indonesia",
+      "gold_holdings_metric_tons": "78.6",
+      "gold_share_of_forex_reserves": "3.6%"
+    },
+    {
+      "rank": "42",
+      "country": "United Arab Emirates",
+      "gold_holdings_metric_tons": "74.5",
+      "gold_share_of_forex_reserves": "2.6%"
+    },
+    {
+      "rank": "43",
+      "country": "Jordan",
+      "gold_holdings_metric_tons": "72.8",
+      "gold_share_of_forex_reserves": "33.6%"
+    },
+    {
+      "rank": "44",
+      "country": "Denmark",
+      "gold_holdings_metric_tons": "66.5",
+      "gold_share_of_forex_reserves": "4.1%"
+    },
+    {
+      "rank": "45",
+      "country": "Pakistan",
+      "gold_holdings_metric_tons": "64.7",
+      "gold_share_of_forex_reserves": "30.1%"
+    },
+    {
+      "rank": "47",
+      "country": "Argentina",
+      "gold_holdings_metric_tons": "61.7",
+      "gold_share_of_forex_reserves": "16.3%"
+    },
+    {
+      "rank": "48",
+      "country": "Belarus",
+      "gold_holdings_metric_tons": "53.8",
+      "gold_share_of_forex_reserves": "49.3%"
+    },
+    {
+      "rank": "49",
+      "country": "Serbia",
+      "gold_holdings_metric_tons": "52.2",
+      "gold_share_of_forex_reserves": "16.4%"
+    },
+    {
+      "rank": "50",
+      "country": "Finland",
+      "gold_holdings_metric_tons": "43.7",
+      "gold_share_of_forex_reserves": "22.5%"
+    },
+    {
+      "rank": "51",
+      "country": "Bulgaria",
+      "gold_holdings_metric_tons": "40.8",
+      "gold_share_of_forex_reserves": "9.0%"
+    }
+  ]
+}

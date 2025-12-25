@@ -79,6 +79,8 @@ Each dataset follows this JSON format:
   Up-to-date ranking of the world's wealthiest individuals as of August 20, 2025
 - [**Global GDP by Country (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/gdp_by_country.json)  
   Nominal GDP (in USD) for all countries in 2023
+- [**Gold Reserves by Country**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/gold_reserve_by_country.json)  
+  Top countries ranked by gold holdings and share of foreign exchange reserves.
 - [**Countries by Total Exports**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/list_of_countries_by_exports.json)  
   Exports of goods and services by country, including total values (USD millions) and major export categories.
 - [**Countries by Foreign Direct Investment (FDI) Inflows**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/list_of_countries_by_foreign_direct_investment_inflows.json)  
