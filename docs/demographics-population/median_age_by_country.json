@@ -1,0 +1,1067 @@
+{
+  "title": "Median Age by Country (2024)",
+  "subtitle": "Median age is the age at which half the population is older and half is younger, roughly representing the midpoint of a population’s lifespan.",
+  "updated_at": "December 26, 2025 04:00 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Monaco",
+      "median_age": "56.9"
+    },
+    {
+      "rank": 2,
+      "country": "Japan",
+      "median_age": "49.9"
+    },
+    {
+      "rank": 3,
+      "country": "Andorra",
+      "median_age": "48.8"
+    },
+    {
+      "rank": 4,
+      "country": "Italy",
+      "median_age": "48.4"
+    },
+    {
+      "rank": 5,
+      "country": "Hong Kong",
+      "median_age": "47.2"
+    },
+    {
+      "rank": 6,
+      "country": "Germany",
+      "median_age": "46.8"
+    },
+    {
+      "rank": 7,
+      "country": "Spain",
+      "median_age": "46.8"
+    },
+    {
+      "rank": 8,
+      "country": "Greece",
+      "median_age": "46.5"
+    },
+    {
+      "rank": 9,
+      "country": "Portugal",
+      "median_age": "46.4"
+    },
+    {
+      "rank": 10,
+      "country": "Slovenia",
+      "median_age": "46.3"
+    },
+    {
+      "rank": 11,
+      "country": "Puerto Rico",
+      "median_age": "46.1"
+    },
+    {
+      "rank": 12,
+      "country": "San Marino",
+      "median_age": "46.1"
+    },
+    {
+      "rank": 13,
+      "country": "South Korea",
+      "median_age": "45.5"
+    },
+    {
+      "rank": 14,
+      "country": "Romania",
+      "median_age": "45.5"
+    },
+    {
+      "rank": 15,
+      "country": "Latvia",
+      "median_age": "45.5"
+    },
+    {
+      "rank": 16,
+      "country": "Bulgaria",
+      "median_age": "45.1"
+    },
+    {
+      "rank": 17,
+      "country": "Croatia",
+      "median_age": "45.1"
+    },
+    {
+      "rank": 18,
+      "country": "Lithuania",
+      "median_age": "45.1"
+    },
+    {
+      "rank": 19,
+      "country": "Estonia",
+      "median_age": "45.0"
+    },
+    {
+      "rank": 20,
+      "country": "Guernsey",
+      "median_age": "45.0"
+    },
+    {
+      "rank": 21,
+      "country": "Ukraine",
+      "median_age": "44.9"
+    },
+    {
+      "rank": 22,
+      "country": "Austria",
+      "median_age": "44.9"
+    },
+    {
+      "rank": 23,
+      "country": "Isle of Man",
+      "median_age": "44.9"
+    },
+    {
+      "rank": 24,
+      "country": "Hungary",
+      "median_age": "44.8"
+    },
+    {
+      "rank": 25,
+      "country": "Bosnia and Herzegovina",
+      "median_age": "44.8"
+    },
+    {
+      "rank": 26,
+      "country": "Taiwan",
+      "median_age": "44.6"
+    },
+    {
+      "rank": 27,
+      "country": "Czechia",
+      "median_age": "44.2"
+    },
+    {
+      "rank": 28,
+      "country": "Switzerland",
+      "median_age": "44.2"
+    },
+    {
+      "rank": 29,
+      "country": "Liechtenstein",
+      "median_age": "44.2"
+    },
+    {
+      "rank": 30,
+      "country": "Serbia",
+      "median_age": "43.9"
+    },
+    {
+      "rank": 31,
+      "country": "Bermuda",
+      "median_age": "43.8"
+    },
+    {
+      "rank": 32,
+      "country": "Malta",
+      "median_age": "43.5"
+    },
+    {
+      "rank": 33,
+      "country": "Finland",
+      "median_age": "43.3"
+    },
+    {
+      "rank": 34,
+      "country": "Poland",
+      "median_age": "42.9"
+    },
+    {
+      "rank": 35,
+      "country": "Slovakia",
+      "median_age": "42.8"
+    },
+    {
+      "rank": 36,
+      "country": "France",
+      "median_age": "42.6"
+    },
+    {
+      "rank": 37,
+      "country": "Canada",
+      "median_age": "42.6"
+    },
+    {
+      "rank": 38,
+      "country": "Cuba",
+      "median_age": "42.6"
+    },
+    {
+      "rank": 39,
+      "country": "Macau",
+      "median_age": "42.5"
+    },
+    {
+      "rank": 40,
+      "country": "Netherlands",
+      "median_age": "42.2"
+    },
+    {
+      "rank": 41,
+      "country": "Denmark",
+      "median_age": "42.2"
+    },
+    {
+      "rank": 42,
+      "country": "Belarus",
+      "median_age": "42.1"
+    },
+    {
+      "rank": 43,
+      "country": "Belgium",
+      "median_age": "42.0"
+    },
+    {
+      "rank": 44,
+      "country": "Russia",
+      "median_age": "41.9"
+    },
+    {
+      "rank": 45,
+      "country": "Thailand",
+      "median_age": "41.5"
+    },
+    {
+      "rank": 46,
+      "country": "Barbados",
+      "median_age": "41.4"
+    },
+    {
+      "rank": 47,
+      "country": "Cayman Islands",
+      "median_age": "41.2"
+    },
+    {
+      "rank": 48,
+      "country": "Sweden",
+      "median_age": "41.1"
+    },
+    {
+      "rank": 49,
+      "country": "Montenegro",
+      "median_age": "41.1"
+    },
+    {
+      "rank": 50,
+      "country": "Cook Islands",
+      "median_age": "41.1"
+    },
+    {
+      "rank": 51,
+      "country": "Aruba",
+      "median_age": "40.9"
+    },
+    {
+      "rank": 52,
+      "country": "United Kingdom",
+      "median_age": "40.8"
+    },
+    {
+      "rank": 53,
+      "country": "Norway",
+      "median_age": "40.8"
+    },
+    {
+      "rank": 54,
+      "country": "North Macedonia",
+      "median_age": "40.5"
+    },
+    {
+      "rank": 55,
+      "country": "China",
+      "median_age": "40.2"
+    },
+    {
+      "rank": 56,
+      "country": "Ireland",
+      "median_age": "40.2"
+    },
+    {
+      "rank": 57,
+      "country": "Moldova",
+      "median_age": "39.9"
+    },
+    {
+      "rank": 58,
+      "country": "Luxembourg",
+      "median_age": "39.9"
+    },
+    {
+      "rank": 59,
+      "country": "Saint Lucia",
+      "median_age": "39.7"
+    },
+    {
+      "rank": 60,
+      "country": "Mauritius",
+      "median_age": "39.6"
+    },
+    {
+      "rank": 61,
+      "country": "Cyprus",
+      "median_age": "39.5"
+    },
+    {
+      "rank": 62,
+      "country": "Singapore",
+      "median_age": "39.4"
+    },
+    {
+      "rank": 63,
+      "country": "United States",
+      "median_age": "38.9"
+    },
+    {
+      "rank": 64,
+      "country": "Armenia",
+      "median_age": "38.9"
+    },
+    {
+      "rank": 65,
+      "country": "Seychelles",
+      "median_age": "38.7"
+    },
+    {
+      "rank": 66,
+      "country": "Saint Kitts and Nevis",
+      "median_age": "38.6"
+    },
+    {
+      "rank": 67,
+      "country": "Trinidad and Tobago",
+      "median_age": "38.5"
+    },
+    {
+      "rank": 68,
+      "country": "British Virgin Islands",
+      "median_age": "38.5"
+    },
+    {
+      "rank": 69,
+      "country": "Georgia",
+      "median_age": "38.3"
+    },
+    {
+      "rank": 70,
+      "country": "Jersey",
+      "median_age": "38.2"
+    },
+    {
+      "rank": 71,
+      "country": "Australia",
+      "median_age": "38.1"
+    },
+    {
+      "rank": 72,
+      "country": "Iceland",
+      "median_age": "38.0"
+    },
+    {
+      "rank": 73,
+      "country": "New Zealand",
+      "median_age": "37.9"
+    },
+    {
+      "rank": 74,
+      "country": "Saint Vincent and the Grenadines",
+      "median_age": "37.6"
+    },
+    {
+      "rank": 75,
+      "country": "Dominica",
+      "median_age": "37.0"
+    },
+    {
+      "rank": 76,
+      "country": "Chile",
+      "median_age": "36.9"
+    },
+    {
+      "rank": 77,
+      "country": "Gibraltar",
+      "median_age": "36.8"
+    },
+    {
+      "rank": 78,
+      "country": "Uruguay",
+      "median_age": "36.5"
+    },
+    {
+      "rank": 79,
+      "country": "Lebanon",
+      "median_age": "36.3"
+    },
+    {
+      "rank": 80,
+      "country": "Albania",
+      "median_age": "36.3"
+    },
+    {
+      "rank": 81,
+      "country": "North Korea",
+      "median_age": "35.9"
+    },
+    {
+      "rank": 82,
+      "country": "United Arab Emirates",
+      "median_age": "35.8"
+    },
+    {
+      "rank": 83,
+      "country": "Costa Rica",
+      "median_age": "35.5"
+    },
+    {
+      "rank": 84,
+      "country": "Grenada",
+      "median_age": "35.4"
+    },
+    {
+      "rank": 85,
+      "country": "French Polynesia",
+      "median_age": "35.3"
+    },
+    {
+      "rank": 86,
+      "country": "Greenland",
+      "median_age": "35.3"
+    },
+    {
+      "rank": 87,
+      "country": "Palau",
+      "median_age": "35.3"
+    },
+    {
+      "rank": 88,
+      "country": "Brazil",
+      "median_age": "35.1"
+    },
+    {
+      "rank": 89,
+      "country": "Tunisia",
+      "median_age": "34.4"
+    },
+    {
+      "rank": 90,
+      "country": "Azerbaijan",
+      "median_age": "34.3"
+    },
+    {
+      "rank": 91,
+      "country": "Qatar",
+      "median_age": "34.3"
+    },
+    {
+      "rank": 92,
+      "country": "New Caledonia",
+      "median_age": "34.3"
+    },
+    {
+      "rank": 93,
+      "country": "Saint Martin",
+      "median_age": "34.2"
+    },
+    {
+      "rank": 94,
+      "country": "Sri Lanka",
+      "median_age": "34.1"
+    },
+    {
+      "rank": 95,
+      "country": "Turkey",
+      "median_age": "34.0"
+    },
+    {
+      "rank": 96,
+      "country": "Antigua and Barbuda",
+      "median_age": "33.9"
+    },
+    {
+      "rank": 97,
+      "country": "Iran",
+      "median_age": "33.8"
+    },
+    {
+      "rank": 98,
+      "country": "Bahrain",
+      "median_age": "33.4"
+    },
+    {
+      "rank": 99,
+      "country": "Argentina",
+      "median_age": "33.3"
+    },
+    {
+      "rank": 100,
+      "country": "Vietnam",
+      "median_age": "33.1"
+    },
+    {
+      "rank": 101,
+      "country": "Colombia",
+      "median_age": "32.7"
+    },
+    {
+      "rank": 102,
+      "country": "Saudi Arabia",
+      "median_age": "32.4"
+    },
+    {
+      "rank": 103,
+      "country": "Brunei",
+      "median_age": "32.3"
+    },
+    {
+      "rank": 104,
+      "country": "Suriname",
+      "median_age": "32.0"
+    },
+    {
+      "rank": 105,
+      "country": "Kazakhstan",
+      "median_age": "31.9"
+    },
+    {
+      "rank": 106,
+      "country": "Maldives",
+      "median_age": "31.9"
+    },
+    {
+      "rank": 107,
+      "country": "Malaysia",
+      "median_age": "31.8"
+    },
+    {
+      "rank": 108,
+      "country": "Paraguay",
+      "median_age": "31.8"
+    },
+    {
+      "rank": 109,
+      "country": "Fiji",
+      "median_age": "31.6"
+    },
+    {
+      "rank": 110,
+      "country": "Indonesia",
+      "median_age": "31.5"
+    },
+    {
+      "rank": 111,
+      "country": "Panama",
+      "median_age": "31.5"
+    },
+    {
+      "rank": 112,
+      "country": "Mongolia",
+      "median_age": "31.5"
+    },
+    {
+      "rank": 113,
+      "country": "Turkmenistan",
+      "median_age": "31.2"
+    },
+    {
+      "rank": 114,
+      "country": "Venezuela",
+      "median_age": "31.0"
+    },
+    {
+      "rank": 115,
+      "country": "Jamaica",
+      "median_age": "30.9"
+    },
+    {
+      "rank": 116,
+      "country": "Mexico",
+      "median_age": "30.8"
+    },
+    {
+      "rank": 117,
+      "country": "Myanmar",
+      "median_age": "30.8"
+    },
+    {
+      "rank": 118,
+      "country": "Bhutan",
+      "median_age": "30.7"
+    },
+    {
+      "rank": 119,
+      "country": "Bahamas",
+      "median_age": "30.7"
+    },
+    {
+      "rank": 120,
+      "country": "Morocco",
+      "median_age": "30.6"
+    },
+    {
+      "rank": 121,
+      "country": "South Africa",
+      "median_age": "30.4"
+    },
+    {
+      "rank": 122,
+      "country": "Kuwait",
+      "median_age": "30.3"
+    },
+    {
+      "rank": 123,
+      "country": "Guam",
+      "median_age": "30.3"
+    },
+    {
+      "rank": 124,
+      "country": "Peru",
+      "median_age": "30.2"
+    },
+    {
+      "rank": 125,
+      "country": "Israel",
+      "median_age": "30.1"
+    },
+    {
+      "rank": 126,
+      "country": "American Samoa",
+      "median_age": "30.0"
+    },
+    {
+      "rank": 127,
+      "country": "India",
+      "median_age": "29.8"
+    },
+    {
+      "rank": 128,
+      "country": "El Salvador",
+      "median_age": "29.7"
+    },
+    {
+      "rank": 129,
+      "country": "Bangladesh",
+      "median_age": "29.6"
+    },
+    {
+      "rank": 130,
+      "country": "Dominican Republic",
+      "median_age": "29.2"
+    },
+    {
+      "rank": 131,
+      "country": "Algeria",
+      "median_age": "29.1"
+    },
+    {
+      "rank": 132,
+      "country": "Nicaragua",
+      "median_age": "29.0"
+    },
+    {
+      "rank": 133,
+      "country": "Uzbekistan",
+      "median_age": "28.9"
+    },
+    {
+      "rank": 134,
+      "country": "Cape Verde",
+      "median_age": "28.8"
+    },
+    {
+      "rank": 135,
+      "country": "Kyrgyzstan",
+      "median_age": "28.3"
+    },
+    {
+      "rank": 136,
+      "country": "Guyana",
+      "median_age": "28.3"
+    },
+    {
+      "rank": 137,
+      "country": "Micronesia",
+      "median_age": "28.2"
+    },
+    {
+      "rank": 138,
+      "country": "Ecuador",
+      "median_age": "28.0"
+    },
+    {
+      "rank": 139,
+      "country": "Cambodia",
+      "median_age": "27.9"
+    },
+    {
+      "rank": 140,
+      "country": "Nauru",
+      "median_age": "27.8"
+    },
+    {
+      "rank": 141,
+      "country": "Tuvalu",
+      "median_age": "27.8"
+    },
+    {
+      "rank": 142,
+      "country": "Nepal",
+      "median_age": "27.6"
+    },
+    {
+      "rank": 143,
+      "country": "Samoa",
+      "median_age": "27.4"
+    },
+    {
+      "rank": 144,
+      "country": "Oman",
+      "median_age": "27.3"
+    },
+    {
+      "rank": 145,
+      "country": "Kiribati",
+      "median_age": "27.3"
+    },
+    {
+      "rank": 146,
+      "country": "Botswana",
+      "median_age": "27.1"
+    },
+    {
+      "rank": 147,
+      "country": "Belize",
+      "median_age": "26.8"
+    },
+    {
+      "rank": 148,
+      "country": "Bolivia",
+      "median_age": "26.6"
+    },
+    {
+      "rank": 149,
+      "country": "Djibouti",
+      "median_age": "26.3"
+    },
+    {
+      "rank": 150,
+      "country": "Libya",
+      "median_age": "26.2"
+    },
+    {
+      "rank": 151,
+      "country": "Tonga",
+      "median_age": "25.9"
+    },
+    {
+      "rank": 152,
+      "country": "Philippines",
+      "median_age": "25.7"
+    },
+    {
+      "rank": 153,
+      "country": "Honduras",
+      "median_age": "25.7"
+    },
+    {
+      "rank": 154,
+      "country": "Marshall Islands",
+      "median_age": "25.5"
+    },
+    {
+      "rank": 155,
+      "country": "Laos",
+      "median_age": "25.4"
+    },
+    {
+      "rank": 156,
+      "country": "Solomon Islands",
+      "median_age": "25.2"
+    },
+    {
+      "rank": 157,
+      "country": "Haiti",
+      "median_age": "25.0"
+    },
+    {
+      "rank": 158,
+      "country": "Jordan",
+      "median_age": "25.0"
+    },
+    {
+      "rank": 159,
+      "country": "Guatemala",
+      "median_age": "24.8"
+    },
+    {
+      "rank": 160,
+      "country": "Eswatini",
+      "median_age": "24.6"
+    },
+    {
+      "rank": 161,
+      "country": "Vanuatu",
+      "median_age": "24.6"
+    },
+    {
+      "rank": 162,
+      "country": "Egypt",
+      "median_age": "24.4"
+    },
+    {
+      "rank": 163,
+      "country": "Syria",
+      "median_age": "24.1"
+    },
+    {
+      "rank": 164,
+      "country": "Lesotho",
+      "median_age": "23.9"
+    },
+    {
+      "rank": 165,
+      "country": "Pakistan",
+      "median_age": "22.9"
+    },
+    {
+      "rank": 166,
+      "country": "Tajikistan",
+      "median_age": "22.8"
+    },
+    {
+      "rank": 167,
+      "country": "Namibia",
+      "median_age": "22.8"
+    },
+    {
+      "rank": 168,
+      "country": "Comoros",
+      "median_age": "22.7"
+    },
+    {
+      "rank": 169,
+      "country": "Iraq",
+      "median_age": "22.4"
+    },
+    {
+      "rank": 170,
+      "country": "Mauritania",
+      "median_age": "22.1"
+    },
+    {
+      "rank": 171,
+      "country": "Equatorial Guinea",
+      "median_age": "22.1"
+    },
+    {
+      "rank": 172,
+      "country": "Yemen",
+      "median_age": "22.0"
+    },
+    {
+      "rank": 173,
+      "country": "Gabon",
+      "median_age": "22.0"
+    },
+    {
+      "rank": 174,
+      "country": "Papua New Guinea",
+      "median_age": "21.7"
+    },
+    {
+      "rank": 175,
+      "country": "Ghana",
+      "median_age": "21.4"
+    },
+    {
+      "rank": 176,
+      "country": "Madagascar",
+      "median_age": "21.3"
+    },
+    {
+      "rank": 177,
+      "country": "Eritrea",
+      "median_age": "21.3"
+    },
+    {
+      "rank": 178,
+      "country": "Kenya",
+      "median_age": "21.2"
+    },
+    {
+      "rank": 179,
+      "country": "Ivory Coast",
+      "median_age": "21.2"
+    },
+    {
+      "rank": 180,
+      "country": "Zimbabwe",
+      "median_age": "21.2"
+    },
+    {
+      "rank": 181,
+      "country": "Rwanda",
+      "median_age": "20.8"
+    },
+    {
+      "rank": 182,
+      "country": "Sao Tome and Principe",
+      "median_age": "20.8"
+    },
+    {
+      "rank": 183,
+      "country": "Togo",
+      "median_age": "20.7"
+    },
+    {
+      "rank": 184,
+      "country": "Republic of the Congo",
+      "median_age": "20.7"
+    },
+    {
+      "rank": 185,
+      "country": "Timor-Leste",
+      "median_age": "20.6"
+    },
+    {
+      "rank": 186,
+      "country": "Ethiopia",
+      "median_age": "20.4"
+    },
+    {
+      "rank": 187,
+      "country": "Central African Republic",
+      "median_age": "20.4"
+    },
+    {
+      "rank": 188,
+      "country": "Malawi",
+      "median_age": "20.3"
+    },
+    {
+      "rank": 189,
+      "country": "Gambia",
+      "median_age": "20.2"
+    },
+    {
+      "rank": 190,
+      "country": "Afghanistan",
+      "median_age": "20.0"
+    },
+    {
+      "rank": 191,
+      "country": "Liberia",
+      "median_age": "19.9"
+    },
+    {
+      "rank": 192,
+      "country": "Guinea",
+      "median_age": "19.4"
+    },
+    {
+      "rank": 193,
+      "country": "Sierra Leone",
+      "median_age": "19.4"
+    },
+    {
+      "rank": 194,
+      "country": "Nigeria",
+      "median_age": "19.3"
+    },
+    {
+      "rank": 195,
+      "country": "Sudan",
+      "median_age": "19.3"
+    },
+    {
+      "rank": 196,
+      "country": "Senegal",
+      "median_age": "19.2"
+    },
+    {
+      "rank": 197,
+      "country": "Tanzania",
+      "median_age": "19.1"
+    },
+    {
+      "rank": 198,
+      "country": "Somalia",
+      "median_age": "19.1"
+    },
+    {
+      "rank": 199,
+      "country": "Cameroon",
+      "median_age": "18.9"
+    },
+    {
+      "rank": 200,
+      "country": "Burkina Faso",
+      "median_age": "18.7"
+    },
+    {
+      "rank": 201,
+      "country": "South Sudan",
+      "median_age": "18.7"
+    },
+    {
+      "rank": 202,
+      "country": "Zambia",
+      "median_age": "18.4"
+    },
+    {
+      "rank": 203,
+      "country": "Burundi",
+      "median_age": "18.4"
+    },
+    {
+      "rank": 204,
+      "country": "Guinea-Bissau",
+      "median_age": "18.4"
+    },
+    {
+      "rank": 205,
+      "country": "Mozambique",
+      "median_age": "17.3"
+    },
+    {
+      "rank": 206,
+      "country": "Benin",
+      "median_age": "17.2"
+    },
+    {
+      "rank": 207,
+      "country": "DR Congo",
+      "median_age": "16.9"
+    },
+    {
+      "rank": 208,
+      "country": "Chad",
+      "median_age": "16.7"
+    },
+    {
+      "rank": 209,
+      "country": "Mali",
+      "median_age": "16.4"
+    },
+    {
+      "rank": 210,
+      "country": "Angola",
+      "median_age": "16.3"
+    },
+    {
+      "rank": 211,
+      "country": "Uganda",
+      "median_age": "16.2"
+    },
+    {
+      "rank": 212,
+      "country": "Niger",
+      "median_age": "15.2"
+    }
+  ]
+}

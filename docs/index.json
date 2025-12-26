@@ -101,6 +101,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/largest_cities_by_population.json"
       },
       {
+        "title": "Median Age by Country (2024)",
+        "subtitle": "Median age is the age at which half the population is older and half is younger, roughly representing the midpoint of a population’s lifespan.",
+        "updated_at": "December 26, 2025 04:00 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/median_age_by_country.json"
+      },
+      {
         "title": "Most Urbanized Countries by Population (2023)",
         "subtitle": "Countries ranked by share of population living in urban areas and urbanization growth rate.",
         "updated_at": "December 25, 2025 09:42 AM UTC",
