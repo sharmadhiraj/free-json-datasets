@@ -1,0 +1,595 @@
+{
+  "title": "Academy Award Winners for Best Picture",
+  "subtitle": "Best Picture winners from 1927 to 2024",
+  "updated_at": "December 30, 2025 01:57 PM UTC",
+  "data": [
+    {
+      "name": "Anora",
+      "year": 2024,
+      "starring": "Mikey Madison, Mark Eydelshteyn, Yura Borisov, Karren Karagulian",
+      "directed_by": "Sean Baker"
+    },
+    {
+      "name": "Oppenheimer",
+      "year": 2023,
+      "starring": "Cillian Murphy, Emily Blunt, Robert Downey Jr., Matt Damon",
+      "directed_by": "Christopher Nolan"
+    },
+    {
+      "name": "Everything Everywhere All at Once",
+      "year": 2022,
+      "starring": "Michelle Yeoh, Stephanie Hsu, Ke Huy Quan, James Hong",
+      "directed_by": "Daniel Kwan, Daniel Scheinert"
+    },
+    {
+      "name": "CODA",
+      "year": 2021,
+      "starring": "Emilia Jones, Troy Kotsur, Marlee Matlin, Eugenio Derbez",
+      "directed_by": "Sian Heder"
+    },
+    {
+      "name": "Nomadland",
+      "year": 2020,
+      "starring": "Frances McDormand, David Strathairn, Linda May, Swankie",
+      "directed_by": "Chloé Zhao"
+    },
+    {
+      "name": "Parasite",
+      "year": 2019,
+      "starring": "Song Kang-ho, Lee Sun-kyun, Jo Yeo-jeong, Choi Woo-sik",
+      "directed_by": "Bong Joon Ho"
+    },
+    {
+      "name": "Green Book",
+      "year": 2018,
+      "starring": "Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco",
+      "directed_by": "Peter Farrelly"
+    },
+    {
+      "name": "The Shape of Water",
+      "year": 2017,
+      "starring": "Sally Hawkins, Michael Shannon, Richard Jenkins, Octavia Spencer",
+      "directed_by": "Guillermo del Toro"
+    },
+    {
+      "name": "Moonlight",
+      "year": 2016,
+      "starring": "Mahershala Ali, Alex R. Hibbert, Ashton Sanders, Trevante Rhodes",
+      "directed_by": "Barry Jenkins"
+    },
+    {
+      "name": "Spotlight",
+      "year": 2015,
+      "starring": "Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",
+      "directed_by": "Tom McCarthy"
+    },
+    {
+      "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014,
+      "starring": "Michael Keaton, Zach Galifianakis, Edward Norton, Andrea Riseborough",
+      "directed_by": "Alejandro González Iñárritu"
+    },
+    {
+      "name": "12 Years a Slave",
+      "year": 2013,
+      "starring": "Chiwetel Ejiofor, Michael Fassbender, Benedict Cumberbatch, Paul Dano",
+      "directed_by": "Steve McQueen"
+    },
+    {
+      "name": "Argo",
+      "year": 2012,
+      "starring": "Ben Affleck, Bryan Cranston, Alan Arkin, John Goodman",
+      "directed_by": "Ben Affleck"
+    },
+    {
+      "name": "The Artist",
+      "year": 2011,
+      "starring": "Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell",
+      "directed_by": "Michel Hazanavicius"
+    },
+    {
+      "name": "The King's Speech",
+      "year": 2010,
+      "starring": "Colin Firth, Geoffrey Rush, Helena Bonham Carter, Guy Pearce",
+      "directed_by": "Tom Hooper"
+    },
+    {
+      "name": "The Hurt Locker",
+      "year": 2008,
+      "starring": "Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce",
+      "directed_by": "Kathryn Bigelow"
+    },
+    {
+      "name": "Slumdog Millionaire",
+      "year": 2008,
+      "starring": "Dev Patel, Freida Pinto, Madhur Mittal, Anil Kapoor",
+      "directed_by": "Danny Boyle"
+    },
+    {
+      "name": "No Country for Old Men",
+      "year": 2007,
+      "starring": "Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson",
+      "directed_by": "Joel Coen, Ethan Coen"
+    },
+    {
+      "name": "The Departed",
+      "year": 2006,
+      "starring": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",
+      "directed_by": "Martin Scorsese"
+    },
+    {
+      "name": "Million Dollar Baby",
+      "year": 2004,
+      "starring": "Clint Eastwood, Hilary Swank, Morgan Freeman, Anthony Mackie",
+      "directed_by": "Clint Eastwood"
+    },
+    {
+      "name": "Crash",
+      "year": 2004,
+      "starring": "Sandra Bullock, Don Cheadle, Matt Dillon, Jennifer Esposito",
+      "directed_by": "Paul Haggis"
+    },
+    {
+      "name": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "starring": "Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen",
+      "directed_by": "Peter Jackson"
+    },
+    {
+      "name": "Chicago",
+      "year": 2002,
+      "starring": "Catherine Zeta-Jones, Renée Zellweger, Richard Gere, Queen Latifah",
+      "directed_by": "Rob Marshall"
+    },
+    {
+      "name": "A Beautiful Mind",
+      "year": 2001,
+      "starring": "Russell Crowe, Ed Harris, Jennifer Connelly, Paul Bettany",
+      "directed_by": "Ron Howard"
+    },
+    {
+      "name": "Gladiator",
+      "year": 2000,
+      "starring": "Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",
+      "directed_by": "Ridley Scott"
+    },
+    {
+      "name": "American Beauty",
+      "year": 1999,
+      "starring": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
+      "directed_by": "Sam Mendes"
+    },
+    {
+      "name": "Shakespeare in Love",
+      "year": 1998,
+      "starring": "Joseph Fiennes, Gwyneth Paltrow, Geoffrey Rush, Judi Dench",
+      "directed_by": "John Madden"
+    },
+    {
+      "name": "Titanic",
+      "year": 1997,
+      "starring": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+      "directed_by": "James Cameron"
+    },
+    {
+      "name": "The English Patient",
+      "year": 1996,
+      "starring": "Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas",
+      "directed_by": "Anthony Minghella"
+    },
+    {
+      "name": "Braveheart",
+      "year": 1995,
+      "starring": "Mel Gibson, Sophie Marceau, Patrick McGoohan, Catherine McCormack",
+      "directed_by": "Mel Gibson"
+    },
+    {
+      "name": "Forrest Gump",
+      "year": 1994,
+      "starring": "Tom Hanks, Robin Wright, Gary Sinise, Mykelti Williamson",
+      "directed_by": "Robert Zemeckis"
+    },
+    {
+      "name": "Schindler's List",
+      "year": 1993,
+      "starring": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall",
+      "directed_by": "Steven Spielberg"
+    },
+    {
+      "name": "Unforgiven",
+      "year": 1992,
+      "starring": "Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris",
+      "directed_by": "Clint Eastwood"
+    },
+    {
+      "name": "The Silence of the Lambs",
+      "year": 1991,
+      "starring": "Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine",
+      "directed_by": "Jonathan Demme"
+    },
+    {
+      "name": "Dances With Wolves",
+      "year": 1990,
+      "starring": "Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant",
+      "directed_by": "Kevin Costner"
+    },
+    {
+      "name": "Driving Miss Daisy",
+      "year": 1989,
+      "starring": "Morgan Freeman, Jessica Tandy, Dan Aykroyd, Patti LuPone",
+      "directed_by": "Bruce Beresford"
+    },
+    {
+      "name": "Rain Man",
+      "year": 1988,
+      "starring": "Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen",
+      "directed_by": "Barry Levinson"
+    },
+    {
+      "name": "The Last Emperor",
+      "year": 1987,
+      "starring": "John Lone, Joan Chen, Peter O'Toole, Ying Ruocheng",
+      "directed_by": "Bernardo Bertolucci"
+    },
+    {
+      "name": "Platoon",
+      "year": 1986,
+      "starring": "Tom Berenger, Willem Dafoe, Charlie Sheen, Forest Whitaker",
+      "directed_by": "Oliver Stone"
+    },
+    {
+      "name": "Out of Africa",
+      "year": 1985,
+      "starring": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+      "directed_by": "Sydney Pollack"
+    },
+    {
+      "name": "Amadeus",
+      "year": 1984,
+      "starring": "F. Murray Abraham, Tom Hulce, Jeffrey Jones, Elizabeth Berridge",
+      "directed_by": "Milos Forman"
+    },
+    {
+      "name": "Terms of Endearment",
+      "year": 1983,
+      "starring": "Shirley MacLaine, Debra Winger, Jack Nicholson, Jeff Daniels",
+      "directed_by": "James L. Brooks"
+    },
+    {
+      "name": "Gandhi",
+      "year": 1982,
+      "starring": "Ben Kingsley, Candice Bergen, Edward Fox, John Gielgud",
+      "directed_by": "Richard Attenborough"
+    },
+    {
+      "name": "Chariots of Fire",
+      "year": 1981,
+      "starring": "Ben Cross, Ian Charleson, John Gielgud, Nigel Havers",
+      "directed_by": "Hugh Hudson"
+    },
+    {
+      "name": "Ordinary People",
+      "year": 1980,
+      "starring": "Donald Sutherland, Timothy Hutton, Mary Tyler Moore, Judd Hirsch",
+      "directed_by": "Robert Redford"
+    },
+    {
+      "name": "Kramer vs. Kramer",
+      "year": 1979,
+      "starring": "Dustin Hoffman, Meryl Streep, Justin Henry, Jane Alexander",
+      "directed_by": "Robert Benton"
+    },
+    {
+      "name": "The Deer Hunter",
+      "year": 1978,
+      "starring": "Robert De Niro, Christopher Walken, John Savage, John Cazale",
+      "directed_by": "Michael Cimino"
+    },
+    {
+      "name": "Annie Hall",
+      "year": 1977,
+      "starring": "Woody Allen, Diane Keaton, Tony Roberts, Carol Kane",
+      "directed_by": "Woody Allen"
+    },
+    {
+      "name": "Rocky",
+      "year": 1976,
+      "starring": "Sylvester Stallone, Talia Shire, Burgess Meredith, Burt Young",
+      "directed_by": "John G. Avildsen"
+    },
+    {
+      "name": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "starring": "Jack Nicholson, Louise Fletcher, Brad Dourif, William Redfield",
+      "directed_by": "Milos Forman"
+    },
+    {
+      "name": "The Godfather, Part II",
+      "year": 1974,
+      "starring": "Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro",
+      "directed_by": "Francis Ford Coppola"
+    },
+    {
+      "name": "The Sting",
+      "year": 1973,
+      "starring": "Paul Newman, Robert Redford, Robert Shaw, Charles Durning",
+      "directed_by": "George Roy Hill"
+    },
+    {
+      "name": "The Godfather",
+      "year": 1972,
+      "starring": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+      "directed_by": "Francis Ford Coppola"
+    },
+    {
+      "name": "The French Connection",
+      "year": 1971,
+      "starring": "Gene Hackman, Fernando Rey, Roy Scheider, Tony Lo Bianco",
+      "directed_by": "William Friedkin"
+    },
+    {
+      "name": "Patton",
+      "year": 1970,
+      "starring": "George C. Scott, Karl Malden, David Bauer, Edward Binns",
+      "directed_by": "Franklin J. Schaffner"
+    },
+    {
+      "name": "Midnight Cowboy",
+      "year": 1969,
+      "starring": "Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver",
+      "directed_by": "John Schlesinger"
+    },
+    {
+      "name": "Oliver!",
+      "year": 1968,
+      "starring": "Ron Moody, Oliver Reed, Mark Lester, Shani Wallis",
+      "directed_by": "Carol Reed"
+    },
+    {
+      "name": "In the Heat of the Night",
+      "year": 1967,
+      "starring": "Sidney Poitier, Rod Steiger, Warren Oates, Quentin Dean",
+      "directed_by": "Norman Jewison"
+    },
+    {
+      "name": "A Man for All Seasons",
+      "year": 1966,
+      "starring": "Paul Scofield, Robert Shaw, Orson Welles, Wendy Hiller",
+      "directed_by": "Fred Zinnemann"
+    },
+    {
+      "name": "The Sound of Music",
+      "year": 1965,
+      "starring": "Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn",
+      "directed_by": "Robert Wise"
+    },
+    {
+      "name": "My Fair Lady",
+      "year": 1964,
+      "starring": "Audrey Hepburn, Rex Harrison, Stanley Holloway, Wilfrid Hyde-White",
+      "directed_by": "George Cukor"
+    },
+    {
+      "name": "Tom Jones",
+      "year": 1963,
+      "starring": "Albert Finney, Susannah York, Hugh Griffith, Edith Evans",
+      "directed_by": "Tony Richardson"
+    },
+    {
+      "name": "Lawrence of Arabia",
+      "year": 1962,
+      "starring": "Peter O'Toole, Alec Guinness, Anthony Quinn, Omar Sharif",
+      "directed_by": "David Lean"
+    },
+    {
+      "name": "West Side Story",
+      "year": 1961,
+      "starring": "Natalie Wood, Richard Beymer, Russ Tamblyn, George Chakiris",
+      "directed_by": "Jerome Robbins, Robert Wise"
+    },
+    {
+      "name": "The Apartment",
+      "year": 1960,
+      "starring": "Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston",
+      "directed_by": "Billy Wilder"
+    },
+    {
+      "name": "Ben-Hur",
+      "year": 1959,
+      "starring": "Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet",
+      "directed_by": "William Wyler"
+    },
+    {
+      "name": "Gigi",
+      "year": 1958,
+      "starring": "Leslie Caron, Maurice Chevalier, Louis Jourdan, Hermione Gingold",
+      "directed_by": "Vincente Minnelli"
+    },
+    {
+      "name": "The Bridge on the River Kwai",
+      "year": 1957,
+      "starring": "William Holden, Alec Guinness, Sessue Hayakawa, Jack Hawkins",
+      "directed_by": "David Lean"
+    },
+    {
+      "name": "Around the World in 80 Days",
+      "year": 1956,
+      "starring": "David Niven, Mario Moreno 'Cantinflas', Shirley MacLaine, Robert Newton",
+      "directed_by": "Michael Anderson"
+    },
+    {
+      "name": "Marty",
+      "year": 1955,
+      "starring": "Ernest Borgnine, Betsy Blair, Joe Mantell, Esther Minciotti",
+      "directed_by": "Delbert Mann"
+    },
+    {
+      "name": "On the Waterfront",
+      "year": 1954,
+      "starring": "Marlon Brando, Eva Marie Saint, Karl Malden, Lee J. Cobb",
+      "directed_by": "Elia Kazan"
+    },
+    {
+      "name": "From Here to Eternity",
+      "year": 1953,
+      "starring": "Burt Lancaster, Montgomery Clift, Deborah Kerr, Frank Sinatra",
+      "directed_by": "Fred Zinnemann"
+    },
+    {
+      "name": "The Greatest Show on Earth",
+      "year": 1952,
+      "starring": "Betty Hutton, Charlton Heston, Cornel Wilde, Dorothy Lamour",
+      "directed_by": "Cecil B. DeMille"
+    },
+    {
+      "name": "An American in Paris",
+      "year": 1951,
+      "starring": "Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary",
+      "directed_by": "Vincente Minnelli"
+    },
+    {
+      "name": "All About Eve",
+      "year": 1950,
+      "starring": "Bette Davis, Anne Baxter, Celeste Holm, George Sanders",
+      "directed_by": "Joseph L. Mankiewicz"
+    },
+    {
+      "name": "All the King's Men",
+      "year": 1949,
+      "starring": "Broderick Crawford, Joanne Dru, Mercedes McCambridge, John Ireland",
+      "directed_by": "Robert Rossen"
+    },
+    {
+      "name": "Hamlet",
+      "year": 1948,
+      "starring": "Laurence Olivier, Jean Simmons, Basil Sydney, Eileen Herlie",
+      "directed_by": "Laurence Olivier"
+    },
+    {
+      "name": "Gentleman's Agreement",
+      "year": 1947,
+      "starring": "Gregory Peck, Dorothy McGuire, John Garfield, Celeste Holm",
+      "directed_by": "Elia Kazan"
+    },
+    {
+      "name": "The Best Years of Our Lives",
+      "year": 1946,
+      "starring": "Fredric March, Myrna Loy, Dana Andrews, Teresa Wright",
+      "directed_by": "William Wyler"
+    },
+    {
+      "name": "The Lost Weekend",
+      "year": 1945,
+      "starring": "Ray Milland, Jane Wyman, Howard Da Silva, Phillip Terry",
+      "directed_by": "Billy Wilder"
+    },
+    {
+      "name": "Going My Way",
+      "year": 1944,
+      "starring": "Bing Crosby, Barry Fitzgerald, Rise Stevens, Gene Lockhart",
+      "directed_by": "Leo McCarey"
+    },
+    {
+      "name": "Casablanca",
+      "year": 1942,
+      "starring": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",
+      "directed_by": "Michael Curtiz"
+    },
+    {
+      "name": "Mrs. Miniver",
+      "year": 1942,
+      "starring": "Greer Garson, Walter Pidgeon, Dame May Whitty, Teresa Wright",
+      "directed_by": "William Wyler"
+    },
+    {
+      "name": "How Green Was My Valley",
+      "year": 1941,
+      "starring": "Walter Pidgeon, Maureen O'Hara, Roddy McDowall, Donald Crisp",
+      "directed_by": "John Ford"
+    },
+    {
+      "name": "Rebecca",
+      "year": 1940,
+      "starring": "Laurence Olivier, Joan Fontaine, Judith Anderson, George Sanders",
+      "directed_by": "Alfred Hitchcock"
+    },
+    {
+      "name": "Gone With the Wind",
+      "year": 1939,
+      "starring": "Clark Gable, Vivien Leigh, Leslie Howard, Olivia de Havilland",
+      "directed_by": "Victor Fleming"
+    },
+    {
+      "name": "You Can't Take It With You",
+      "year": 1938,
+      "starring": "Jean Arthur, Lionel Barrymore, James Stewart, Edward Arnold",
+      "directed_by": "Frank Capra"
+    },
+    {
+      "name": "The Life of Emile Zola",
+      "year": 1937,
+      "starring": "Paul Muni, Joseph Schildkraut, Gale Sondergaard, Gloria Holden",
+      "directed_by": "William Dieterle"
+    },
+    {
+      "name": "The Great Ziegfeld",
+      "year": 1936,
+      "starring": "William Powell, Luise Rainer, Myrna Loy, Frank Morgan",
+      "directed_by": "Robert Z. Leonard"
+    },
+    {
+      "name": "Mutiny on the Bounty",
+      "year": 1935,
+      "starring": "Charles Laughton, Clark Gable, Franchot Tone, Herbert Mundin",
+      "directed_by": "Frank Lloyd"
+    },
+    {
+      "name": "It Happened One Night",
+      "year": 1934,
+      "starring": "Claudette Colbert, Clark Gable, Walter Connolly, Roscoe Karns",
+      "directed_by": "Frank Capra"
+    },
+    {
+      "name": "Cavalcade",
+      "year": 1933,
+      "starring": "Diana Wynyard, Clive Brook, Una O'Connor, Herbert Mundin",
+      "directed_by": "Frank Lloyd"
+    },
+    {
+      "name": "Grand Hotel",
+      "year": 1932,
+      "starring": "Greta Garbo, Joan Crawford, John Barrymore, Wallace Beery",
+      "directed_by": "Edmund Goulding"
+    },
+    {
+      "name": "Cimarron",
+      "year": 1931,
+      "starring": "Richard Dix, Irene Dunne, Estelle Taylor, Nance O'Neil",
+      "directed_by": "Wesley Ruggles"
+    },
+    {
+      "name": "All Quiet on the Western Front",
+      "year": 1930,
+      "starring": "Lew Ayres, Louis Wolheim, John Wray, Raymond Griffith",
+      "directed_by": "Lewis Milestone"
+    },
+    {
+      "name": "The Broadway Melody",
+      "year": 1929,
+      "starring": "Bessie Love, Anita Page, Charles King, Jed Prouty",
+      "directed_by": "Harry Beaumont"
+    },
+    {
+      "name": "Sunrise",
+      "year": 1927,
+      "starring": "George O'Brien, Janet Gaynor, Margaret Livingston, Bodil Rosing",
+      "directed_by": "F.W. Murnau"
+    },
+    {
+      "name": "Wings",
+      "year": 1927,
+      "starring": "Clara Bow, Charles \"Buddy\" Rogers, Richard Arlen, Jobyna Ralston",
+      "directed_by": "William A. Wellman, Harry D'Abbadie D'Arrast"
+    }
+  ]
+}

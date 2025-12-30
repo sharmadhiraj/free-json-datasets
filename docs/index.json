@@ -49,6 +49,12 @@
     "category": "Awards & Achievements",
     "datasets": [
       {
+        "title": "Academy Award Winners for Best Picture",
+        "subtitle": "Best Picture winners from 1927 to 2024",
+        "updated_at": "December 30, 2025 01:57 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/academy_award_winners_for_best_picture.json"
+      },
+      {
         "title": "Grammy Winners (2025-1958)",
         "subtitle": "Award categories and nominations from 2025 to 1958",
         "updated_at": "December 26, 2025 10:29 AM UTC",
