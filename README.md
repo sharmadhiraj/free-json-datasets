@@ -41,6 +41,8 @@ Each dataset follows this JSON format:
 
 ### Arts & Literature
 
+- [**Annual Book Publishing by Country**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/arts-literature/books_published_per_country_per_year.json)  
+  Number of books published per country per year
 - [**List of Best-Selling Books Worldwide**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/arts-literature/list_of_best_selling_books.json)  
   Books, authors, languages, publication years, sales estimates, and genres
 - [**Most Visited Museums in the World**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/arts-literature/most_visited_museums.json)  
@@ -71,7 +73,7 @@ Each dataset follows this JSON format:
 ### Demographics & Population
 
 - [**Immigration by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/immigration_by_country.json)  
-  Total immigrants, gender split and population share in 2025.
+  Total immigrants, gender split, and population share in 2025.
 - [**Largest Cities by Population (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/largest_cities_by_population.json)  
   City-wise population data for the year 2025
 - [**Median Age by Country (2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/median_age_by_country.json)  
@@ -278,7 +280,7 @@ Each dataset follows this JSON format:
 - [**World’s Longest Bridges**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/list_of_longest_bridges.json)  
   List of the longest bridges worldwide with their lengths, completion year, traffic type, and country
 - [**World’s Longest Tunnels (Operational)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/list_of_longest_tunnels.json)  
-  List of the longest operational tunnels worldwide, including type, location, length and year opened.
+  List of the longest operational tunnels worldwide, including type, location, length, and year opened.
 - [**World’s Busiest Container Ports by Annual Throughput**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/transportation-infrastructure/worlds_busiest_container_ports.json)  
   Ranking of major global container ports based on container traffic (in thousand TEUs) handled per year.
 

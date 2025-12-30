@@ -1,0 +1,917 @@
+{
+  "title": "Annual Book Publishing by Country",
+  "subtitle": "Number of books published per country per year",
+  "updated_at": "December 30, 2025 02:17 PM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "country": "United States",
+      "year": "2013",
+      "titles": "275,232",
+      "notes": "New titles and re-editions"
+    },
+    {
+      "rank": "2",
+      "country": "China",
+      "year": "2013",
+      "titles": "208,418",
+      "notes": "New titles and re-editions"
+    },
+    {
+      "rank": "3",
+      "country": "United Kingdom",
+      "year": "2018",
+      "titles": "188,000",
+      "notes": ""
+    },
+    {
+      "rank": "4",
+      "country": "Japan",
+      "year": "2017",
+      "titles": "139,078",
+      "notes": "New titles and re-editions"
+    },
+    {
+      "rank": "5",
+      "country": "Indonesia",
+      "year": "2020",
+      "titles": "135,081",
+      "notes": ""
+    },
+    {
+      "rank": "6",
+      "country": "Russia",
+      "year": "2019",
+      "titles": "115,171",
+      "notes": ""
+    },
+    {
+      "rank": "7",
+      "country": "Iran",
+      "year": "2018",
+      "titles": "102,691",
+      "notes": "New and revised"
+    },
+    {
+      "rank": "8",
+      "country": "France",
+      "year": "2018",
+      "titles": "106,799",
+      "notes": ""
+    },
+    {
+      "rank": "9",
+      "country": "India",
+      "year": "2013",
+      "titles": "90,000",
+      "notes": "Total; revised editions not included; 26% in Hindi, 24% in English, and the rest in other Indian languages"
+    },
+    {
+      "rank": "10",
+      "country": "Spain",
+      "year": "2017",
+      "titles": "89,962",
+      "notes": "New titles and re-editions (ediciones y reimpresiones)"
+    },
+    {
+      "rank": "10",
+      "country": "Germany",
+      "year": "2022",
+      "titles": "71,524",
+      "notes": ""
+    },
+    {
+      "rank": "11",
+      "country": "Turkey",
+      "year": "2019",
+      "titles": "75,667",
+      "notes": "New titles and re-editions (\"Derlenen Kitap Sayısı\")"
+    },
+    {
+      "rank": "12",
+      "country": "South Korea",
+      "year": "2018",
+      "titles": "63,476",
+      "notes": "New"
+    },
+    {
+      "rank": "13",
+      "country": "Italy",
+      "year": "2013",
+      "titles": "61,966",
+      "notes": "New"
+    },
+    {
+      "rank": "14",
+      "country": "Brazil",
+      "year": "2018",
+      "titles": "46,829",
+      "notes": ""
+    },
+    {
+      "rank": "15",
+      "country": "Australia",
+      "year": "2014",
+      "titles": "28,234",
+      "notes": ""
+    },
+    {
+      "rank": "16",
+      "country": "Taiwan",
+      "year": "2010",
+      "titles": "28,084",
+      "notes": "43,258 total"
+    },
+    {
+      "rank": "17",
+      "country": "Argentina",
+      "year": "2014",
+      "titles": "28,010",
+      "notes": "New"
+    },
+    {
+      "rank": "18",
+      "country": "Vietnam",
+      "year": "2009",
+      "titles": "24,589",
+      "notes": ""
+    },
+    {
+      "rank": "19",
+      "country": "Ukraine",
+      "year": "2019",
+      "titles": "24,416",
+      "notes": ""
+    },
+    {
+      "rank": "20",
+      "country": "Poland",
+      "year": "2015",
+      "titles": "21,130",
+      "notes": "34,920 total"
+    },
+    {
+      "rank": "21",
+      "country": "Czech Republic",
+      "year": "2019",
+      "titles": "17,330",
+      "notes": ""
+    },
+    {
+      "rank": "22",
+      "country": "Colombia",
+      "year": "2017",
+      "titles": "17,066",
+      "notes": "18,508 total"
+    },
+    {
+      "rank": "23",
+      "country": "Netherlands",
+      "year": "2014",
+      "titles": "16,502",
+      "notes": "Only physical Dutch new titles"
+    },
+    {
+      "rank": "24",
+      "country": "Malaysia",
+      "year": "2015",
+      "titles": "15,354",
+      "notes": "Declined since 2013 at 19,987"
+    },
+    {
+      "rank": "25",
+      "country": "Romania",
+      "year": "2008",
+      "titles": "14,984",
+      "notes": ""
+    },
+    {
+      "rank": "26",
+      "country": "Canada",
+      "year": "2018",
+      "titles": "14,625",
+      "notes": ""
+    },
+    {
+      "rank": "27",
+      "country": "Hong Kong",
+      "year": "2005",
+      "titles": "14,603",
+      "notes": ""
+    },
+    {
+      "rank": "28",
+      "country": "Belgium",
+      "year": "1991",
+      "titles": "13,913",
+      "notes": ""
+    },
+    {
+      "rank": "29",
+      "country": "Finland",
+      "year": "2018",
+      "titles": "9,368",
+      "notes": ""
+    },
+    {
+      "rank": "30",
+      "country": "Thailand",
+      "year": "2018",
+      "titles": "6,750",
+      "notes": "Only trade sector data; educational sector data not available"
+    },
+    {
+      "rank": "31",
+      "country": "Belarus",
+      "year": "2020",
+      "titles": "8,205",
+      "notes": ""
+    },
+    {
+      "rank": "32",
+      "country": "Denmark",
+      "year": "2020",
+      "titles": "13,096",
+      "notes": ""
+    },
+    {
+      "rank": "33",
+      "country": "Switzerland",
+      "year": "2001",
+      "titles": "12,156",
+      "notes": ""
+    },
+    {
+      "rank": "34",
+      "country": "Singapore",
+      "year": "2007",
+      "titles": "12,000+",
+      "notes": ""
+    },
+    {
+      "rank": "35",
+      "country": "Egypt",
+      "year": "2010",
+      "titles": "12,000",
+      "notes": ""
+    },
+    {
+      "rank": "36",
+      "country": "Serbia",
+      "year": "2019",
+      "titles": "11,897",
+      "notes": ""
+    },
+    {
+      "rank": "37",
+      "country": "Hungary",
+      "year": "2012",
+      "titles": "11,645",
+      "notes": ""
+    },
+    {
+      "rank": "38",
+      "country": "Norway",
+      "year": "2015",
+      "titles": "10,204",
+      "notes": ""
+    },
+    {
+      "rank": "39",
+      "country": "Bulgaria",
+      "year": "2017",
+      "titles": "10,068",
+      "notes": ""
+    },
+    {
+      "rank": "40",
+      "country": "Slovakia",
+      "year": "2006",
+      "titles": "9,400",
+      "notes": ""
+    },
+    {
+      "rank": "41",
+      "country": "Israel",
+      "year": "2013",
+      "titles": "8,411",
+      "notes": ""
+    },
+    {
+      "rank": "42",
+      "country": "Austria",
+      "year": "1996",
+      "titles": "8,056",
+      "notes": ""
+    },
+    {
+      "rank": "43",
+      "country": "Portugal",
+      "year": "1996",
+      "titles": "7,868",
+      "notes": ""
+    },
+    {
+      "rank": "44",
+      "country": "Mexico",
+      "year": "2012",
+      "titles": "7,521",
+      "notes": "23,948 total"
+    },
+    {
+      "rank": "45",
+      "country": "Greece",
+      "year": "2002",
+      "titles": "6,826",
+      "notes": ""
+    },
+    {
+      "rank": "46",
+      "country": "Chile",
+      "year": "2012",
+      "titles": "5,641",
+      "notes": "6,045 total"
+    },
+    {
+      "rank": "47",
+      "country": "South Africa",
+      "year": "1995",
+      "titles": "5,418",
+      "notes": ""
+    },
+    {
+      "rank": "48",
+      "country": "Sri Lanka",
+      "year": "1996",
+      "titles": "4,115",
+      "notes": ""
+    },
+    {
+      "rank": "49",
+      "country": "Peru",
+      "year": "2006",
+      "titles": "4,101",
+      "notes": ""
+    },
+    {
+      "rank": "50",
+      "country": "Sweden",
+      "year": "2010",
+      "titles": "4,074",
+      "notes": "30,857 total"
+    },
+    {
+      "rank": "51",
+      "country": "Algeria",
+      "year": "2008",
+      "titles": "3,955",
+      "notes": ""
+    },
+    {
+      "rank": "52",
+      "country": "Estonia",
+      "year": "2017",
+      "titles": "3,916",
+      "notes": ""
+    },
+    {
+      "rank": "53",
+      "country": "Saudi Arabia",
+      "year": "2014",
+      "titles": "2,387",
+      "notes": ""
+    },
+    {
+      "rank": "54",
+      "country": "Pakistan",
+      "year": "2012",
+      "titles": "3,811",
+      "notes": "Total; 2,943 in Urdu and 868 in English"
+    },
+    {
+      "rank": "55",
+      "country": "Lebanon",
+      "year": "2005",
+      "titles": "3,686",
+      "notes": ""
+    },
+    {
+      "rank": "56",
+      "country": "Morocco",
+      "year": "2018/2019",
+      "titles": "3,677",
+      "notes": ""
+    },
+    {
+      "rank": "57",
+      "country": "Myanmar",
+      "year": "1993",
+      "titles": "3,660",
+      "notes": ""
+    },
+    {
+      "rank": "58",
+      "country": "New Zealand",
+      "year": "2003",
+      "titles": "3,600",
+      "notes": ""
+    },
+    {
+      "rank": "59",
+      "country": "Ecuador",
+      "year": "2010",
+      "titles": "2,854",
+      "notes": "4,164 total"
+    },
+    {
+      "rank": "60",
+      "country": "Afghanistan",
+      "year": "1990",
+      "titles": "2,795",
+      "notes": ""
+    },
+    {
+      "rank": "61",
+      "country": "Venezuela",
+      "year": "2018",
+      "titles": "2,275",
+      "notes": ""
+    },
+    {
+      "rank": "62",
+      "country": "Luxembourg",
+      "year": "2001",
+      "titles": "2,000",
+      "notes": ""
+    },
+    {
+      "rank": "63",
+      "country": "Lithuania",
+      "year": "2018",
+      "titles": "3,075",
+      "notes": ""
+    },
+    {
+      "rank": "63",
+      "country": "Latvia",
+      "year": "2018",
+      "titles": "2,910",
+      "notes": ""
+    },
+    {
+      "rank": "64",
+      "country": "Philippines",
+      "year": "1996",
+      "titles": "1,507",
+      "notes": ""
+    },
+    {
+      "rank": "65",
+      "country": "Cuba",
+      "year": "2018",
+      "titles": "992",
+      "notes": ""
+    },
+    {
+      "rank": "66",
+      "country": "Iceland",
+      "year": "2019",
+      "titles": "1,767",
+      "notes": ""
+    },
+    {
+      "rank": "67",
+      "country": "Costa Rica",
+      "year": "2018",
+      "titles": "2,158",
+      "notes": ""
+    },
+    {
+      "rank": "68",
+      "country": "Nigeria",
+      "year": "1991",
+      "titles": "1,314",
+      "notes": ""
+    },
+    {
+      "rank": "69",
+      "country": "Kazakhstan",
+      "year": "1996",
+      "titles": "1,226",
+      "notes": ""
+    },
+    {
+      "rank": "70",
+      "country": "Syria",
+      "year": "2004",
+      "titles": "1,138",
+      "notes": ""
+    },
+    {
+      "rank": "71",
+      "country": "Uzbekistan",
+      "year": "1996",
+      "titles": "1,003",
+      "notes": ""
+    },
+    {
+      "rank": "72",
+      "country": "Eritrea",
+      "year": "2015",
+      "titles": "970",
+      "notes": ""
+    },
+    {
+      "rank": "73",
+      "country": "Cyprus",
+      "year": "1996",
+      "titles": "930",
+      "notes": ""
+    },
+    {
+      "rank": "74",
+      "country": "Tunisia",
+      "year": "1996",
+      "titles": "720",
+      "notes": ""
+    },
+    {
+      "rank": "75",
+      "country": "Dominican Republic",
+      "year": "2018",
+      "titles": "1,866",
+      "notes": ""
+    },
+    {
+      "rank": "76",
+      "country": "Uruguay",
+      "year": "2018",
+      "titles": "3,231",
+      "notes": ""
+    },
+    {
+      "rank": "77",
+      "country": "Bolivia",
+      "year": "2018",
+      "titles": "1,578",
+      "notes": ""
+    },
+    {
+      "rank": "78",
+      "country": "Georgia",
+      "year": "1996",
+      "titles": "581",
+      "notes": ""
+    },
+    {
+      "rank": "79",
+      "country": "Azerbaijan",
+      "year": "1996",
+      "titles": "542",
+      "notes": ""
+    },
+    {
+      "rank": "80",
+      "country": "Jordan",
+      "year": "1996",
+      "titles": "511",
+      "notes": ""
+    },
+    {
+      "rank": "81",
+      "country": "Panama",
+      "year": "2018",
+      "titles": "940",
+      "notes": ""
+    },
+    {
+      "rank": "82",
+      "country": "Turkmenistan",
+      "year": "1994",
+      "titles": "450",
+      "notes": ""
+    },
+    {
+      "rank": "83",
+      "country": "Guatemala",
+      "year": "2018",
+      "titles": "1,042",
+      "notes": ""
+    },
+    {
+      "rank": "84",
+      "country": "Kyrgyzstan",
+      "year": "2018",
+      "titles": "1,455",
+      "notes": ""
+    },
+    {
+      "rank": "85",
+      "country": "Malta",
+      "year": "1995",
+      "titles": "404",
+      "notes": ""
+    },
+    {
+      "rank": "86",
+      "country": "Fiji",
+      "year": "1994",
+      "titles": "401",
+      "notes": ""
+    },
+    {
+      "rank": "87",
+      "country": "Armenia",
+      "year": "1996",
+      "titles": "396",
+      "notes": ""
+    },
+    {
+      "rank": "88",
+      "country": "Paraguay",
+      "year": "2018",
+      "titles": "1,007",
+      "notes": ""
+    },
+    {
+      "rank": "89",
+      "country": "Albania",
+      "year": "1991",
+      "titles": "390",
+      "notes": ""
+    },
+    {
+      "rank": "90",
+      "country": "Nicaragua",
+      "year": "2018",
+      "titles": "27",
+      "notes": ""
+    },
+    {
+      "rank": "91",
+      "country": "Kenya",
+      "year": "1994",
+      "titles": "300",
+      "notes": ""
+    },
+    {
+      "rank": "92",
+      "country": "United Arab Emirates",
+      "year": "1993",
+      "titles": "293",
+      "notes": ""
+    },
+    {
+      "rank": "93",
+      "country": "Honduras",
+      "year": "2018",
+      "titles": "102",
+      "notes": ""
+    },
+    {
+      "rank": "94",
+      "country": "Uganda",
+      "year": "1996",
+      "titles": "288",
+      "notes": ""
+    },
+    {
+      "rank": "95",
+      "country": "Mongolia",
+      "year": "1992",
+      "titles": "285",
+      "notes": ""
+    },
+    {
+      "rank": "96",
+      "country": "El Salvador",
+      "year": "2018",
+      "titles": "661",
+      "notes": ""
+    },
+    {
+      "rank": "97",
+      "country": "Ethiopia",
+      "year": "1991",
+      "titles": "240",
+      "notes": ""
+    },
+    {
+      "rank": "98",
+      "country": "Zimbabwe",
+      "year": "1992",
+      "titles": "232",
+      "notes": ""
+    },
+    {
+      "rank": "99",
+      "country": "Vatican City",
+      "year": "1996",
+      "titles": "228",
+      "notes": ""
+    },
+    {
+      "rank": "100",
+      "country": "Qatar",
+      "year": "1996",
+      "titles": "209",
+      "notes": ""
+    },
+    {
+      "rank": "101",
+      "country": "Kuwait",
+      "year": "1992",
+      "titles": "196",
+      "notes": ""
+    },
+    {
+      "rank": "102",
+      "country": "Tanzania",
+      "year": "1990",
+      "titles": "172",
+      "notes": ""
+    },
+    {
+      "rank": "103",
+      "country": "Botswana",
+      "year": "1991",
+      "titles": "158",
+      "notes": ""
+    },
+    {
+      "rank": "104",
+      "country": "Tajikistan",
+      "year": "1996",
+      "titles": "132",
+      "notes": ""
+    },
+    {
+      "rank": "105",
+      "country": "Papua New Guinea",
+      "year": "1991",
+      "titles": "122",
+      "notes": ""
+    },
+    {
+      "rank": "106",
+      "country": "Madagascar",
+      "year": "1996",
+      "titles": "119",
+      "notes": ""
+    },
+    {
+      "rank": "107",
+      "country": "Malawi",
+      "year": "1996",
+      "titles": "117",
+      "notes": ""
+    },
+    {
+      "rank": "108",
+      "country": "Palestine",
+      "year": "1996",
+      "titles": "114",
+      "notes": ""
+    },
+    {
+      "rank": "109",
+      "country": "Namibia",
+      "year": "1990",
+      "titles": "106",
+      "notes": ""
+    },
+    {
+      "rank": "110",
+      "country": "Brunei",
+      "year": "2009",
+      "titles": "91",
+      "notes": ""
+    },
+    {
+      "rank": "111",
+      "country": "Laos",
+      "year": "1995",
+      "titles": "88",
+      "notes": ""
+    },
+    {
+      "rank": "112",
+      "country": "Benin",
+      "year": "1994",
+      "titles": "84",
+      "notes": ""
+    },
+    {
+      "rank": "113",
+      "country": "Mauritius",
+      "year": "1996",
+      "titles": "80",
+      "notes": ""
+    },
+    {
+      "rank": "114",
+      "country": "Réunion",
+      "year": "1992",
+      "titles": "69",
+      "notes": ""
+    },
+    {
+      "rank": "115",
+      "country": "Democratic Republic of the Congo",
+      "year": "1992",
+      "titles": "64",
+      "notes": ""
+    },
+    {
+      "rank": "116",
+      "country": "Andorra",
+      "year": "1994",
+      "titles": "57",
+      "notes": ""
+    },
+    {
+      "rank": "117",
+      "country": "Suriname",
+      "year": "1996",
+      "titles": "47",
+      "notes": ""
+    },
+    {
+      "rank": "117",
+      "country": "American Samoa",
+      "year": "1980",
+      "titles": "46",
+      "notes": ""
+    },
+    {
+      "rank": "118",
+      "country": "Guyana",
+      "year": "1996",
+      "titles": "42",
+      "notes": ""
+    },
+    {
+      "rank": "119",
+      "country": "Monaco",
+      "year": "1990",
+      "titles": "41",
+      "notes": ""
+    },
+    {
+      "rank": "120",
+      "country": "Bahrain",
+      "year": "1996",
+      "titles": "40",
+      "notes": ""
+    },
+    {
+      "rank": "121",
+      "country": "Ghana",
+      "year": "1992",
+      "titles": "28",
+      "notes": ""
+    },
+    {
+      "rank": "122",
+      "country": "Libya",
+      "year": "1994",
+      "titles": "26",
+      "notes": ""
+    },
+    {
+      "rank": "123",
+      "country": "Angola",
+      "year": "1995",
+      "titles": "22",
+      "notes": ""
+    },
+    {
+      "rank": "124",
+      "country": "Mali",
+      "year": "1995",
+      "titles": "14",
+      "notes": ""
+    },
+    {
+      "rank": "125",
+      "country": "Gambia",
+      "year": "1996",
+      "titles": "14",
+      "notes": ""
+    },
+    {
+      "rank": "126",
+      "country": "Burkina Faso",
+      "year": "1996",
+      "titles": "12",
+      "notes": ""
+    },
+    {
+      "rank": "127",
+      "country": "Oman",
+      "year": "1996",
+      "titles": "7",
+      "notes": ""
+    }
+  ]
+}
