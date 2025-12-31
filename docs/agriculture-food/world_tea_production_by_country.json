@@ -1,0 +1,343 @@
+{
+  "title": "Global Tea Production by Country",
+  "subtitle": "Tea production statistics by country, including total output, per-capita production, cultivated area, and yield.",
+  "updated_at": "December 31, 2025 01:37 PM UTC",
+  "data": [
+    {
+      "country": "China",
+      "production_tonnes": "13,768,883",
+      "per_capita_kg": "9.878",
+      "cultivated_area_hectares": "3,390,951",
+      "yield_kg_per_hectare": "4,060.5"
+    },
+    {
+      "country": "India",
+      "production_tonnes": "5,482,186.38",
+      "per_capita_kg": "4.102",
+      "cultivated_area_hectares": "547,847",
+      "yield_kg_per_hectare": "10,006.8"
+    },
+    {
+      "country": "Kenya",
+      "production_tonnes": "2,338,000",
+      "per_capita_kg": "45.887",
+      "cultivated_area_hectares": "249,760",
+      "yield_kg_per_hectare": "9,361"
+    },
+    {
+      "country": "Turkey",
+      "production_tonnes": "1,450,000",
+      "per_capita_kg": "17.943",
+      "cultivated_area_hectares": "82,247",
+      "yield_kg_per_hectare": "17,629.8"
+    },
+    {
+      "country": "Sri Lanka",
+      "production_tonnes": "1,302,000",
+      "per_capita_kg": "60.716",
+      "cultivated_area_hectares": "266,509",
+      "yield_kg_per_hectare": "4,885.4"
+    },
+    {
+      "country": "Vietnam",
+      "production_tonnes": "1,073,000",
+      "per_capita_kg": "11.335",
+      "cultivated_area_hectares": "110,000",
+      "yield_kg_per_hectare": "9,754.5"
+    },
+    {
+      "country": "Indonesia",
+      "production_tonnes": "563,000",
+      "per_capita_kg": "2.124",
+      "cultivated_area_hectares": "112,053",
+      "yield_kg_per_hectare": "5,024.4"
+    },
+    {
+      "country": "Bangladesh",
+      "production_tonnes": "393,000",
+      "per_capita_kg": "2.38",
+      "cultivated_area_hectares": "54,936",
+      "yield_kg_per_hectare": "7,153.8"
+    },
+    {
+      "country": "Argentina",
+      "production_tonnes": "339,288.41",
+      "per_capita_kg": "7.625",
+      "cultivated_area_hectares": "34,867",
+      "yield_kg_per_hectare": "9,730.8"
+    },
+    {
+      "country": "Uganda",
+      "production_tonnes": "320,736.89",
+      "per_capita_kg": "8.261",
+      "cultivated_area_hectares": "34,691",
+      "yield_kg_per_hectare": "9,245.6"
+    },
+    {
+      "country": "Malawi",
+      "production_tonnes": "205,351.45",
+      "per_capita_kg": "11.452",
+      "cultivated_area_hectares": "17,253",
+      "yield_kg_per_hectare": "11,902.2"
+    },
+    {
+      "country": "Rwanda",
+      "production_tonnes": "149,627.41",
+      "per_capita_kg": "12.468",
+      "cultivated_area_hectares": "26,309",
+      "yield_kg_per_hectare": "5,687.3"
+    },
+    {
+      "country": "Tanzania",
+      "production_tonnes": "120,000",
+      "per_capita_kg": "2.214",
+      "cultivated_area_hectares": "16,998",
+      "yield_kg_per_hectare": "7,059.6"
+    },
+    {
+      "country": "Myanmar",
+      "production_tonnes": "115,848.27",
+      "per_capita_kg": "2.151",
+      "cultivated_area_hectares": "95,921",
+      "yield_kg_per_hectare": "1,207.7"
+    },
+    {
+      "country": "Nepal",
+      "production_tonnes": "103,000",
+      "per_capita_kg": "3.525",
+      "cultivated_area_hectares": "16,017",
+      "yield_kg_per_hectare": "6,430.7"
+    },
+    {
+      "country": "Thailand",
+      "production_tonnes": "98,715.11",
+      "per_capita_kg": "1.427",
+      "cultivated_area_hectares": "19,136",
+      "yield_kg_per_hectare": "5,158.6"
+    },
+    {
+      "country": "Iran",
+      "production_tonnes": "83,473.47",
+      "per_capita_kg": "1.021",
+      "cultivated_area_hectares": "13,966",
+      "yield_kg_per_hectare": "5,976.9"
+    },
+    {
+      "country": "Japan",
+      "production_tonnes": "78,100",
+      "per_capita_kg": "0.617",
+      "cultivated_area_hectares": "38,000",
+      "yield_kg_per_hectare": "2,055.3"
+    },
+    {
+      "country": "Zimbabwe",
+      "production_tonnes": "65,384.53",
+      "per_capita_kg": "4.403",
+      "cultivated_area_hectares": "4,585",
+      "yield_kg_per_hectare": "14,261.8"
+    },
+    {
+      "country": "Burundi",
+      "production_tonnes": "50,357.49",
+      "per_capita_kg": "4.715",
+      "cultivated_area_hectares": "8,830",
+      "yield_kg_per_hectare": "5,703"
+    },
+    {
+      "country": "Mozambique",
+      "production_tonnes": "30,657.15",
+      "per_capita_kg": "1.062",
+      "cultivated_area_hectares": "36,656",
+      "yield_kg_per_hectare": "836.3"
+    },
+    {
+      "country": "Taiwan",
+      "production_tonnes": "11,883",
+      "per_capita_kg": "0.504",
+      "cultivated_area_hectares": "11,890",
+      "yield_kg_per_hectare": "999.4"
+    },
+    {
+      "country": "Laos",
+      "production_tonnes": "10,718.92",
+      "per_capita_kg": "1.54",
+      "cultivated_area_hectares": "5,100",
+      "yield_kg_per_hectare": "2,101.9"
+    },
+    {
+      "country": "Ethiopia",
+      "production_tonnes": "10,489.82",
+      "per_capita_kg": "0.098",
+      "cultivated_area_hectares": "9,980",
+      "yield_kg_per_hectare": "1,051.1"
+    },
+    {
+      "country": "Malaysia",
+      "production_tonnes": "7,077.62",
+      "per_capita_kg": "0.217",
+      "cultivated_area_hectares": "1,970",
+      "yield_kg_per_hectare": "3,593"
+    },
+    {
+      "country": "Cameroon",
+      "production_tonnes": "5,559.16",
+      "per_capita_kg": "0.234",
+      "cultivated_area_hectares": "2,101",
+      "yield_kg_per_hectare": "2,645.6"
+    },
+    {
+      "country": "Papua New Guinea",
+      "production_tonnes": "5,551.37",
+      "per_capita_kg": "0.649",
+      "cultivated_area_hectares": "3,797",
+      "yield_kg_per_hectare": "1,462"
+    },
+    {
+      "country": "Congo-Kinshasa",
+      "production_tonnes": "4,055.32",
+      "per_capita_kg": "0.05",
+      "cultivated_area_hectares": "30,425",
+      "yield_kg_per_hectare": "133.3"
+    },
+    {
+      "country": "Georgia",
+      "production_tonnes": "2,900",
+      "per_capita_kg": "0.778",
+      "cultivated_area_hectares": "2,674",
+      "yield_kg_per_hectare": "1,084.6"
+    },
+    {
+      "country": "South Korea",
+      "production_tonnes": "2,334.14",
+      "per_capita_kg": "0.045",
+      "cultivated_area_hectares": "2,184",
+      "yield_kg_per_hectare": "1,069"
+    },
+    {
+      "country": "South Africa",
+      "production_tonnes": "1,807.16",
+      "per_capita_kg": "0.031",
+      "cultivated_area_hectares": "877",
+      "yield_kg_per_hectare": "2,061.6"
+    },
+    {
+      "country": "Peru",
+      "production_tonnes": "1,707.14",
+      "per_capita_kg": "0.055",
+      "cultivated_area_hectares": "2,030",
+      "yield_kg_per_hectare": "841"
+    },
+    {
+      "country": "Ecuador",
+      "production_tonnes": "1,621.68",
+      "per_capita_kg": "0.095",
+      "cultivated_area_hectares": "861",
+      "yield_kg_per_hectare": "1,883.9"
+    },
+    {
+      "country": "Bolivia",
+      "production_tonnes": "1,208.91",
+      "per_capita_kg": "0.107",
+      "cultivated_area_hectares": "279",
+      "yield_kg_per_hectare": "4,330.2"
+    },
+    {
+      "country": "Azerbaijan",
+      "production_tonnes": "1,177.7",
+      "per_capita_kg": "0.119",
+      "cultivated_area_hectares": "696",
+      "yield_kg_per_hectare": "1,691.4"
+    },
+    {
+      "country": "Mauritius",
+      "production_tonnes": "1,097",
+      "per_capita_kg": "0.867",
+      "cultivated_area_hectares": "685",
+      "yield_kg_per_hectare": "1,601.5"
+    },
+    {
+      "country": "Zambia",
+      "production_tonnes": "932.2",
+      "per_capita_kg": "0.055",
+      "cultivated_area_hectares": "680",
+      "yield_kg_per_hectare": "1,370.1"
+    },
+    {
+      "country": "El Salvador",
+      "production_tonnes": "631.87",
+      "per_capita_kg": "0.095",
+      "cultivated_area_hectares": "342",
+      "yield_kg_per_hectare": "1,846.5"
+    },
+    {
+      "country": "Guatemala",
+      "production_tonnes": "551.5",
+      "per_capita_kg": "0.032",
+      "cultivated_area_hectares": "1,168",
+      "yield_kg_per_hectare": "472"
+    },
+    {
+      "country": "Brazil",
+      "production_tonnes": "469",
+      "per_capita_kg": "0.002",
+      "cultivated_area_hectares": "207",
+      "yield_kg_per_hectare": "2,265.7"
+    },
+    {
+      "country": "Madagascar",
+      "production_tonnes": "403.44",
+      "per_capita_kg": "0.015",
+      "cultivated_area_hectares": "1,052",
+      "yield_kg_per_hectare": "383.4"
+    },
+    {
+      "country": "Russian Federation",
+      "production_tonnes": "229.3",
+      "per_capita_kg": "0.002",
+      "cultivated_area_hectares": "360",
+      "yield_kg_per_hectare": "636.9"
+    },
+    {
+      "country": "Colombia",
+      "production_tonnes": "223.25",
+      "per_capita_kg": "0.004",
+      "cultivated_area_hectares": "89",
+      "yield_kg_per_hectare": "2,500"
+    },
+    {
+      "country": "Panama",
+      "production_tonnes": "196",
+      "per_capita_kg": "0.047",
+      "cultivated_area_hectares": "210",
+      "yield_kg_per_hectare": "933.3"
+    },
+    {
+      "country": "Montenegro",
+      "production_tonnes": "100",
+      "per_capita_kg": "0.161",
+      "cultivated_area_hectares": "124",
+      "yield_kg_per_hectare": "804.6"
+    },
+    {
+      "country": "Mali",
+      "production_tonnes": "92.42",
+      "per_capita_kg": "0.005",
+      "cultivated_area_hectares": "89",
+      "yield_kg_per_hectare": "1,038.7"
+    },
+    {
+      "country": "Portugal",
+      "production_tonnes": "78.27",
+      "per_capita_kg": "0.008",
+      "cultivated_area_hectares": "18",
+      "yield_kg_per_hectare": "4,424.4"
+    },
+    {
+      "country": "Seychelles",
+      "production_tonnes": "7.73",
+      "per_capita_kg": "0.082",
+      "cultivated_area_hectares": "17",
+      "yield_kg_per_hectare": "462.9"
+    }
+  ]
+}

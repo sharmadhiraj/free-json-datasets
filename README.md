@@ -40,6 +40,8 @@ Each dataset follows this JSON format:
   A global ranking of major fast-food restaurant chains based on their total number of locations and revenue.
 - [**Top Coffee-Producing Countries and Their Global Share**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/agriculture-food/top_coffee_producing_countries.json)  
   List of the leading coffee-producing nations, their major growing regions, and their percentage contribution to global coffee production.
+- [**Global Tea Production by Country**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/agriculture-food/world_tea_production_by_country.json)  
+  Tea production statistics by country, including total output, per-capita production, cultivated area, and yield.
 
 ### Arts & Literature
 

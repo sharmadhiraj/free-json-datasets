@@ -25,6 +25,12 @@
         "subtitle": "List of the leading coffee-producing nations, their major growing regions, and their percentage contribution to global coffee production.",
         "updated_at": "October 14, 2025 02:34 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/top_coffee_producing_countries.json"
+      },
+      {
+        "title": "Global Tea Production by Country",
+        "subtitle": "Tea production statistics by country, including total output, per-capita production, cultivated area, and yield.",
+        "updated_at": "December 31, 2025 01:37 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/world_tea_production_by_country.json"
       }
     ]
   },
