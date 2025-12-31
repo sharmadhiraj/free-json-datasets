@@ -32,6 +32,8 @@ Each dataset follows this JSON format:
 
 ### Agriculture & Food
 
+- [**Global Fishing Industry by Country**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/agriculture-food/fishing_industry_by_country.json)  
+  World fisheries production by country, showing capture fisheries and aquaculture output (in tonnes), including fish, crustaceans, and molluscs.
 - [**Most Valuable Crops and Livestock Products Worldwide**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/agriculture-food/global_gross_production_of_crops_livestock.json)  
   A global ranking of top agricultural and livestock products by total production value, quantity, and leading producing countries.
 - [**Largest Fast-Food Restaurant Chains by Number of Locations Worldwide**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/agriculture-food/largest_fast_food_restaurant_chains.json)  

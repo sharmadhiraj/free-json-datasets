@@ -3,6 +3,12 @@
     "category": "Agriculture & Food",
     "datasets": [
       {
+        "title": "Global Fishing Industry by Country",
+        "subtitle": "World fisheries production by country, showing capture fisheries and aquaculture output (in tonnes), including fish, crustaceans, and molluscs.",
+        "updated_at": "December 31, 2025 01:07 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/fishing_industry_by_country.json"
+      },
+      {
         "title": "Most Valuable Crops and Livestock Products Worldwide",
         "subtitle": "A global ranking of top agricultural and livestock products by total production value, quantity, and leading producing countries.",
         "updated_at": "October 13, 2025 03:18 AM UTC",

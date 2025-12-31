@@ -1,0 +1,1526 @@
+{
+  "title": "Global Fishing Industry by Country",
+  "subtitle": "World fisheries production by country, showing capture fisheries and aquaculture output (in tonnes), including fish, crustaceans, and molluscs.",
+  "updated_at": "December 31, 2025 01:07 PM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "China",
+      "capture": "13,179,077",
+      "aquaculture": "75,388,639",
+      "total": "88,567,716"
+    },
+    {
+      "rank": 2,
+      "country": "Indonesia",
+      "capture": "7,398,555",
+      "aquaculture": "14,633,869",
+      "total": "22,032,425"
+    },
+    {
+      "rank": 3,
+      "country": "India",
+      "capture": "5,539,025",
+      "aquaculture": "10,235,300",
+      "total": "15,774,325"
+    },
+    {
+      "rank": 4,
+      "country": "Vietnam",
+      "capture": "3,590,003",
+      "aquaculture": "5,170,375",
+      "total": "8,760,378"
+    },
+    {
+      "rank": 5,
+      "country": "Peru",
+      "capture": "5,368,101",
+      "aquaculture": "140,931",
+      "total": "5,509,031"
+    },
+    {
+      "rank": 6,
+      "country": "Russia",
+      "capture": "4,991,530",
+      "aquaculture": "348,187",
+      "total": "5,339,717"
+    },
+    {
+      "rank": 7,
+      "country": "Bangladesh",
+      "capture": "2,027,661",
+      "aquaculture": "2,731,070",
+      "total": "4,758,731"
+    },
+    {
+      "rank": 8,
+      "country": "United States",
+      "capture": "4,262,836",
+      "aquaculture": "478,824",
+      "total": "4,741,660"
+    },
+    {
+      "rank": 9,
+      "country": "Norway",
+      "capture": "2,613,634",
+      "aquaculture": "1,648,469",
+      "total": "4,262,103"
+    },
+    {
+      "rank": 10,
+      "country": "Chile",
+      "capture": "2,690,091",
+      "aquaculture": "1,524,149",
+      "total": "4,214,240"
+    },
+    {
+      "rank": 11,
+      "country": "Philippines",
+      "capture": "1,771,247",
+      "aquaculture": "2,349,252",
+      "total": "4,120,499"
+    },
+    {
+      "rank": 12,
+      "country": "Japan",
+      "capture": "2,967,756",
+      "aquaculture": "942,560",
+      "total": "3,910,316"
+    },
+    {
+      "rank": 13,
+      "country": "South Korea",
+      "capture": "1,314,889",
+      "aquaculture": "2,427,677",
+      "total": "3,742,566"
+    },
+    {
+      "rank": 14,
+      "country": "Myanmar",
+      "capture": "1,864,730",
+      "aquaculture": "1,197,078",
+      "total": "3,061,808"
+    },
+    {
+      "rank": 15,
+      "country": "Thailand",
+      "capture": "1,385,491",
+      "aquaculture": "1,001,181",
+      "total": "2,386,672"
+    },
+    {
+      "rank": 16,
+      "country": "Egypt",
+      "capture": "440,197",
+      "aquaculture": "1,552,430",
+      "total": "1,992,627"
+    },
+    {
+      "rank": 17,
+      "country": "Mexico",
+      "capture": "1,683,376",
+      "aquaculture": "289,619",
+      "total": "1,972,994"
+    },
+    {
+      "rank": 18,
+      "country": "Malaysia",
+      "capture": "1,318,359",
+      "aquaculture": "574,182",
+      "total": "1,892,541"
+    },
+    {
+      "rank": 19,
+      "country": "Ecuador",
+      "capture": "688,326",
+      "aquaculture": "1,123,048",
+      "total": "1,811,374"
+    },
+    {
+      "rank": 20,
+      "country": "Morocco",
+      "capture": "1,590,644",
+      "aquaculture": "2,310",
+      "total": "1,592,954"
+    },
+    {
+      "rank": 21,
+      "country": "Brazil",
+      "capture": "758,512",
+      "aquaculture": "738,881",
+      "total": "1,497,393"
+    },
+    {
+      "rank": 22,
+      "country": "Iceland",
+      "capture": "1,434,724",
+      "aquaculture": "51,362",
+      "total": "1,486,086"
+    },
+    {
+      "rank": 23,
+      "country": "Iran",
+      "capture": "779,466",
+      "aquaculture": "478,737",
+      "total": "1,258,203"
+    },
+    {
+      "rank": 24,
+      "country": "Spain",
+      "capture": "809,094",
+      "aquaculture": "276,071",
+      "total": "1,085,165"
+    },
+    {
+      "rank": 25,
+      "country": "Nigeria",
+      "capture": "784,124",
+      "aquaculture": "259,106",
+      "total": "1,043,230"
+    },
+    {
+      "rank": 26,
+      "country": "North Korea",
+      "capture": "208,070",
+      "aquaculture": "680,560",
+      "total": "888,630"
+    },
+    {
+      "rank": 27,
+      "country": "Canada",
+      "capture": "704,177",
+      "aquaculture": "166,463",
+      "total": "870,640"
+    },
+    {
+      "rank": 28,
+      "country": "United Kingdom",
+      "capture": "634,419",
+      "aquaculture": "230,280",
+      "total": "864,698"
+    },
+    {
+      "rank": 29,
+      "country": "Cambodia",
+      "capture": "533,450",
+      "aquaculture": "330,600",
+      "total": "864,050"
+    },
+    {
+      "rank": 30,
+      "country": "Argentina",
+      "capture": "847,753",
+      "aquaculture": "6,022",
+      "total": "853,775"
+    },
+    {
+      "rank": 31,
+      "country": "Turkey",
+      "capture": "335,003",
+      "aquaculture": "514,823",
+      "total": "849,826"
+    },
+    {
+      "rank": 32,
+      "country": "Mauritania",
+      "capture": "780,383",
+      "aquaculture": "",
+      "total": "780,383"
+    },
+    {
+      "rank": 33,
+      "country": "Oman",
+      "capture": "748,355",
+      "aquaculture": "3,468",
+      "total": "751,823"
+    },
+    {
+      "rank": 34,
+      "country": "France",
+      "capture": "534,876",
+      "aquaculture": "200,490",
+      "total": "735,366"
+    },
+    {
+      "rank": 35,
+      "country": "Faroe Islands",
+      "capture": "605,910",
+      "aquaculture": "108,745",
+      "total": "714,655"
+    },
+    {
+      "rank": 36,
+      "country": "Pakistan",
+      "capture": "500,045",
+      "aquaculture": "165,475",
+      "total": "665,520"
+    },
+    {
+      "rank": 37,
+      "country": "Ghana",
+      "capture": "519,627",
+      "aquaculture": "132,682",
+      "total": "652,309"
+    },
+    {
+      "rank": 38,
+      "country": "Uganda",
+      "capture": "444,935",
+      "aquaculture": "101,377",
+      "total": "546,312"
+    },
+    {
+      "rank": 39,
+      "country": "Senegal",
+      "capture": "533,771",
+      "aquaculture": "1,585",
+      "total": "535,356"
+    },
+    {
+      "rank": 40,
+      "country": "Denmark",
+      "capture": "458,193",
+      "aquaculture": "37,921",
+      "total": "496,114"
+    },
+    {
+      "rank": 41,
+      "country": "South Africa",
+      "capture": "473,451",
+      "aquaculture": "11,355",
+      "total": "484,806"
+    },
+    {
+      "rank": 42,
+      "country": "Angola",
+      "capture": "469,336",
+      "aquaculture": "2,336",
+      "total": "471,672"
+    },
+    {
+      "rank": 43,
+      "country": "Mozambique",
+      "capture": "456,375",
+      "aquaculture": "5,539",
+      "total": "461,914"
+    },
+    {
+      "rank": 44,
+      "country": "New Zealand",
+      "capture": "346,318",
+      "aquaculture": "106,152",
+      "total": "452,470"
+    },
+    {
+      "rank": 45,
+      "country": "Namibia",
+      "capture": "415,669",
+      "aquaculture": "340",
+      "total": "416,009"
+    },
+    {
+      "rank": 46,
+      "country": "Sri Lanka",
+      "capture": "332,623",
+      "aquaculture": "59,080",
+      "total": "391,703"
+    },
+    {
+      "rank": 47,
+      "country": "Netherlands",
+      "capture": "298,622",
+      "aquaculture": "39,430",
+      "total": "338,052"
+    },
+    {
+      "rank": 48,
+      "country": "Guinea",
+      "capture": "334,870",
+      "aquaculture": "1,180",
+      "total": "336,050"
+    },
+    {
+      "rank": 49,
+      "country": "Colombia",
+      "capture": "107,570",
+      "aquaculture": "204,942",
+      "total": "312,512"
+    },
+    {
+      "rank": 50,
+      "country": "Cameroon",
+      "capture": "299,035",
+      "aquaculture": "10,118",
+      "total": "309,153"
+    },
+    {
+      "rank": 51,
+      "country": "Greenland",
+      "capture": "307,055",
+      "aquaculture": "",
+      "total": "307,055"
+    },
+    {
+      "rank": 52,
+      "country": "Australia",
+      "capture": "165,059",
+      "aquaculture": "125,231",
+      "total": "290,290"
+    },
+    {
+      "rank": 53,
+      "country": "Venezuela",
+      "capture": "223,100",
+      "aquaculture": "53,601",
+      "total": "276,701"
+    },
+    {
+      "rank": 54,
+      "country": "Italy",
+      "capture": "143,646",
+      "aquaculture": "132,661",
+      "total": "276,306"
+    },
+    {
+      "rank": 55,
+      "country": "Ireland",
+      "capture": "203,539",
+      "aquaculture": "44,014",
+      "total": "247,553"
+    },
+    {
+      "rank": 56,
+      "country": "Papua New Guinea",
+      "capture": "237,730",
+      "aquaculture": "2,462",
+      "total": "240,192"
+    },
+    {
+      "rank": 57,
+      "country": "Democratic Republic of the Congo",
+      "capture": "228,665",
+      "aquaculture": "5,195",
+      "total": "233,860"
+    },
+    {
+      "rank": 58,
+      "country": "Poland",
+      "capture": "178,523",
+      "aquaculture": "46,110",
+      "total": "224,633"
+    },
+    {
+      "rank": 59,
+      "country": "Sierra Leone",
+      "capture": "215,140",
+      "aquaculture": "145",
+      "total": "215,285"
+    },
+    {
+      "rank": 60,
+      "country": "Greece",
+      "capture": "65,495",
+      "aquaculture": "142,008",
+      "total": "207,502"
+    },
+    {
+      "rank": 61,
+      "country": "Germany",
+      "capture": "179,721",
+      "aquaculture": "26,545",
+      "total": "206,266"
+    },
+    {
+      "rank": 62,
+      "country": "Laos",
+      "capture": "71,000",
+      "aquaculture": "135,008",
+      "total": "206,008"
+    },
+    {
+      "rank": 63,
+      "country": "Belize",
+      "capture": "204,764",
+      "aquaculture": "1,130",
+      "total": "205,894"
+    },
+    {
+      "rank": 64,
+      "country": "Kiribati",
+      "capture": "203,294",
+      "aquaculture": "2",
+      "total": "203,296"
+    },
+    {
+      "rank": 65,
+      "country": "Georgia",
+      "capture": "197,788",
+      "aquaculture": "2,743",
+      "total": "200,532"
+    },
+    {
+      "rank": 66,
+      "country": "Panama",
+      "capture": "186,645",
+      "aquaculture": "11,847",
+      "total": "198,492"
+    },
+    {
+      "rank": 67,
+      "country": "Malawi",
+      "capture": "186,865",
+      "aquaculture": "7,148",
+      "total": "194,013"
+    },
+    {
+      "rank": 68,
+      "country": "Uzbekistan",
+      "capture": "55,000",
+      "aquaculture": "130,274",
+      "total": "185,274"
+    },
+    {
+      "rank": 69,
+      "country": "Zambia",
+      "capture": "109,428",
+      "aquaculture": "75,648",
+      "total": "185,076"
+    },
+    {
+      "rank": 70,
+      "country": "Saudi Arabia",
+      "capture": "64,263",
+      "aquaculture": "119,845",
+      "total": "184,108"
+    },
+    {
+      "rank": 71,
+      "country": "Portugal",
+      "capture": "159,891",
+      "aquaculture": "20,968",
+      "total": "180,859"
+    },
+    {
+      "rank": 72,
+      "country": "Yemen",
+      "capture": "178,190",
+      "aquaculture": "10",
+      "total": "178,200"
+    },
+    {
+      "rank": 73,
+      "country": "Kenya",
+      "capture": "145,801",
+      "aquaculture": "28,898",
+      "total": "174,699"
+    },
+    {
+      "rank": 74,
+      "country": "Federated States of Micronesia",
+      "capture": "166,334",
+      "aquaculture": "0",
+      "total": "166,334"
+    },
+    {
+      "rank": 75,
+      "country": "Sweden",
+      "capture": "152,028",
+      "aquaculture": "11,327",
+      "total": "163,355"
+    },
+    {
+      "rank": 76,
+      "country": "Tanzania",
+      "capture": "38,650",
+      "aquaculture": "120,621",
+      "total": "159,271"
+    },
+    {
+      "rank": 77,
+      "country": "Maldives",
+      "capture": "155,205",
+      "aquaculture": "",
+      "total": "155,205"
+    },
+    {
+      "rank": 78,
+      "country": "Madagascar",
+      "capture": "127,190",
+      "aquaculture": "25,128",
+      "total": "152,318"
+    },
+    {
+      "rank": 79,
+      "country": "Tunisia",
+      "capture": "128,705",
+      "aquaculture": "20,926",
+      "total": "149,631"
+    },
+    {
+      "rank": 80,
+      "country": "Finland",
+      "capture": "122,684",
+      "aquaculture": "16,281",
+      "total": "138,965"
+    },
+    {
+      "rank": 81,
+      "country": "Seychelles",
+      "capture": "137,838",
+      "aquaculture": "0",
+      "total": "137,838"
+    },
+    {
+      "rank": 82,
+      "country": "Mali",
+      "capture": "110,366",
+      "aquaculture": "8,830",
+      "total": "119,196"
+    },
+    {
+      "rank": 83,
+      "country": "Lithuania",
+      "capture": "106,922",
+      "aquaculture": "4,859",
+      "total": "111,781"
+    },
+    {
+      "rank": 84,
+      "country": "Nepal",
+      "capture": "21,000",
+      "aquaculture": "87,385",
+      "total": "108,385"
+    },
+    {
+      "rank": 85,
+      "country": "Chad",
+      "capture": "107,000",
+      "aquaculture": "120",
+      "total": "107,120"
+    },
+    {
+      "rank": 86,
+      "country": "Nauru",
+      "capture": "106,750",
+      "aquaculture": "1",
+      "total": "106,751"
+    },
+    {
+      "rank": 87,
+      "country": "Ivory Coast",
+      "capture": "99,943",
+      "aquaculture": "6,200",
+      "total": "106,143"
+    },
+    {
+      "rank": 88,
+      "country": "Ethiopia",
+      "capture": "101,400",
+      "aquaculture": "1,070",
+      "total": "102,470"
+    },
+    {
+      "rank": 89,
+      "country": "Honduras",
+      "capture": "20,193",
+      "aquaculture": "73,193",
+      "total": "93,386"
+    },
+    {
+      "rank": 90,
+      "country": "Marshall Islands",
+      "capture": "91,636",
+      "aquaculture": "6",
+      "total": "91,643"
+    },
+    {
+      "rank": 91,
+      "country": "Croatia",
+      "capture": "63,683",
+      "aquaculture": "27,156",
+      "total": "90,839"
+    },
+    {
+      "rank": 92,
+      "country": "Vanuatu",
+      "capture": "88,117",
+      "aquaculture": "4",
+      "total": "88,121"
+    },
+    {
+      "rank": 93,
+      "country": "Algeria",
+      "capture": "80,790",
+      "aquaculture": "5,208",
+      "total": "85,998"
+    },
+    {
+      "rank": 94,
+      "country": "Nicaragua",
+      "capture": "53,732",
+      "aquaculture": "31,569",
+      "total": "85,301"
+    },
+    {
+      "rank": 95,
+      "country": "Benin",
+      "capture": "76,105",
+      "aquaculture": "4,550",
+      "total": "80,655"
+    },
+    {
+      "rank": 96,
+      "country": "Hong Kong",
+      "capture": "77,200",
+      "aquaculture": "3,361",
+      "total": "80,561"
+    },
+    {
+      "rank": 97,
+      "country": "Estonia",
+      "capture": "73,939",
+      "aquaculture": "801",
+      "total": "74,740"
+    },
+    {
+      "rank": 98,
+      "country": "El Salvador",
+      "capture": "60,115",
+      "aquaculture": "12,919",
+      "total": "73,034"
+    },
+    {
+      "rank": 99,
+      "country": "United Arab Emirates",
+      "capture": "65,510",
+      "aquaculture": "3,525",
+      "total": "69,035"
+    },
+    {
+      "rank": 100,
+      "country": "Uruguay",
+      "capture": "68,782",
+      "aquaculture": "91",
+      "total": "68,873"
+    },
+    {
+      "rank": 101,
+      "country": "Iraq",
+      "capture": "44,550",
+      "aquaculture": "23,000",
+      "total": "67,550"
+    },
+    {
+      "rank": 102,
+      "country": "Republic of the Congo",
+      "capture": "64,134",
+      "aquaculture": "977",
+      "total": "65,111"
+    },
+    {
+      "rank": 103,
+      "country": "Guinea-Bissau",
+      "capture": "63,835",
+      "aquaculture": "15",
+      "total": "63,850"
+    },
+    {
+      "rank": 104,
+      "country": "Latvia",
+      "capture": "61,508",
+      "aquaculture": "870",
+      "total": "62,378"
+    },
+    {
+      "rank": 105,
+      "country": "Solomon Islands",
+      "capture": "47,838",
+      "aquaculture": "11,879",
+      "total": "59,717"
+    },
+    {
+      "rank": 106,
+      "country": "Guatemala",
+      "capture": "11,082",
+      "aquaculture": "42,313",
+      "total": "58,570"
+    },
+    {
+      "rank": 107,
+      "country": "Gambia",
+      "capture": "53,947",
+      "aquaculture": "42",
+      "total": "53,989"
+    },
+    {
+      "rank": 108,
+      "country": "Sudan",
+      "capture": "44,250",
+      "aquaculture": "9,000",
+      "total": "53,250"
+    },
+    {
+      "rank": 109,
+      "country": "Kazakhstan",
+      "capture": "42,692",
+      "aquaculture": "9,438",
+      "total": "52,130"
+    },
+    {
+      "rank": 110,
+      "country": "Costa Rica",
+      "capture": "33,669",
+      "aquaculture": "16,772",
+      "total": "50,441"
+    },
+    {
+      "rank": 111,
+      "country": "Niger",
+      "capture": "47,670",
+      "aquaculture": "500",
+      "total": "48,170"
+    },
+    {
+      "rank": 112,
+      "country": "South Sudan",
+      "capture": "47,000",
+      "aquaculture": "47",
+      "total": "47,047"
+    },
+    {
+      "rank": 113,
+      "country": "Rwanda",
+      "capture": "32,735",
+      "aquaculture": "12,202",
+      "total": "44,937"
+    },
+    {
+      "rank": 114,
+      "country": "Tuvalu",
+      "capture": "42,781",
+      "aquaculture": "1",
+      "total": "42,782"
+    },
+    {
+      "rank": 115,
+      "country": "Paraguay",
+      "capture": "17,905",
+      "aquaculture": "20,000",
+      "total": "37,905"
+    },
+    {
+      "rank": 116,
+      "country": "Ukraine",
+      "capture": "22,721",
+      "aquaculture": "14,630",
+      "total": "37,351"
+    },
+    {
+      "rank": 117,
+      "country": "Guyana",
+      "capture": "36,253",
+      "aquaculture": "953",
+      "total": "37,207"
+    },
+    {
+      "rank": 118,
+      "country": "Mauritius",
+      "capture": "33,284",
+      "aquaculture": "1,545",
+      "total": "34,829"
+    },
+    {
+      "rank": 119,
+      "country": "Zimbabwe",
+      "capture": "26,161",
+      "aquaculture": "8,353",
+      "total": "34,514"
+    },
+    {
+      "rank": 120,
+      "country": "Suriname",
+      "capture": "33,695",
+      "aquaculture": "45",
+      "total": "33,740"
+    },
+    {
+      "rank": 121,
+      "country": "Fiji",
+      "capture": "32,626",
+      "aquaculture": "211",
+      "total": "32,837"
+    },
+    {
+      "rank": 122,
+      "country": "Libya",
+      "capture": "32,585",
+      "aquaculture": "10",
+      "total": "32,595"
+    },
+    {
+      "rank": 123,
+      "country": "Gabon",
+      "capture": "31,010",
+      "aquaculture": "87",
+      "total": "31,097"
+    },
+    {
+      "rank": 124,
+      "country": "Burkina Faso",
+      "capture": "30,044",
+      "aquaculture": "894",
+      "total": "30,938"
+    },
+    {
+      "rank": 125,
+      "country": "Liberia",
+      "capture": "29,338",
+      "aquaculture": "1,375",
+      "total": "30,713"
+    },
+    {
+      "rank": 126,
+      "country": "Somalia",
+      "capture": "30,000",
+      "aquaculture": "",
+      "total": "30,000"
+    },
+    {
+      "rank": 127,
+      "country": "Cuba",
+      "capture": "14,535",
+      "aquaculture": "15,389",
+      "total": "29,924"
+    },
+    {
+      "rank": 128,
+      "country": "Central African Republic",
+      "capture": "29,000",
+      "aquaculture": "215",
+      "total": "29,215"
+    },
+    {
+      "rank": 129,
+      "country": "Armenia",
+      "capture": "1,000",
+      "aquaculture": "24,000",
+      "total": "25,000"
+    },
+    {
+      "rank": 130,
+      "country": "Hungary",
+      "capture": "4,597",
+      "aquaculture": "18,948",
+      "total": "23,545"
+    },
+    {
+      "rank": 131,
+      "country": "Togo",
+      "capture": "21,505",
+      "aquaculture": "1,151",
+      "total": "22,656"
+    },
+    {
+      "rank": 132,
+      "country": "Czech Republic",
+      "capture": "3,381",
+      "aquaculture": "19,259",
+      "total": "22,640"
+    },
+    {
+      "rank": 133,
+      "country": "Dominican Republic",
+      "capture": "18,010",
+      "aquaculture": "3,750",
+      "total": "21,760"
+    },
+    {
+      "rank": 134,
+      "country": "Brunei",
+      "capture": "16,060",
+      "aquaculture": "5,020",
+      "total": "21,080"
+    },
+    {
+      "rank": 135,
+      "country": "Malta",
+      "capture": "2,809",
+      "aquaculture": "18,051",
+      "total": "20,860"
+    },
+    {
+      "rank": 136,
+      "country": "Kyrgyzstan",
+      "capture": "31",
+      "aquaculture": "20,698",
+      "total": "20,729"
+    },
+    {
+      "rank": 137,
+      "country": "Burundi",
+      "capture": "19,935",
+      "aquaculture": "540",
+      "total": "20,475"
+    },
+    {
+      "rank": 138,
+      "country": "Bahrain",
+      "capture": "19,837",
+      "aquaculture": "56",
+      "total": "19,893"
+    },
+    {
+      "rank": 139,
+      "country": "Belgium",
+      "capture": "18,710",
+      "aquaculture": "243",
+      "total": "18,953"
+    },
+    {
+      "rank": 140,
+      "country": "Comoros",
+      "capture": "18,933",
+      "aquaculture": "",
+      "total": "18,933"
+    },
+    {
+      "rank": 141,
+      "country": "Qatar",
+      "capture": "18,439",
+      "aquaculture": "98",
+      "total": "18,537"
+    },
+    {
+      "rank": 142,
+      "country": "Haiti",
+      "capture": "16,257",
+      "aquaculture": "1,685",
+      "total": "18,395"
+    },
+    {
+      "rank": 143,
+      "country": "Albania",
+      "capture": "8,740",
+      "aquaculture": "8,812",
+      "total": "17,552"
+    },
+    {
+      "rank": 144,
+      "country": "Romania",
+      "capture": "6,256",
+      "aquaculture": "11,211",
+      "total": "17,467"
+    },
+    {
+      "rank": 145,
+      "country": "Israel",
+      "capture": "2,055",
+      "aquaculture": "13,840",
+      "total": "15,895"
+    },
+    {
+      "rank": 146,
+      "country": "Turkmenistan",
+      "capture": "15,097",
+      "aquaculture": "175",
+      "total": "15,272"
+    },
+    {
+      "rank": 147,
+      "country": "Bulgaria",
+      "capture": "5,594",
+      "aquaculture": "9,511",
+      "total": "15,105"
+    },
+    {
+      "rank": 148,
+      "country": "Jamaica",
+      "capture": "12,529",
+      "aquaculture": "945",
+      "total": "13,474"
+    },
+    {
+      "rank": 149,
+      "country": "French Polynesia",
+      "capture": "11,583",
+      "aquaculture": "1,752",
+      "total": "13,335"
+    },
+    {
+      "rank": 150,
+      "country": "Afghanistan",
+      "capture": "2,000",
+      "aquaculture": "11,150",
+      "total": "13,150"
+    },
+    {
+      "rank": 151,
+      "country": "Trinidad and Tobago",
+      "capture": "13,069",
+      "aquaculture": "7",
+      "total": "13,076"
+    },
+    {
+      "rank": 152,
+      "country": "Moldova",
+      "capture": "0",
+      "aquaculture": "12,905",
+      "total": "12,905"
+    },
+    {
+      "rank": 153,
+      "country": "Bolivia",
+      "capture": "7,600",
+      "aquaculture": "3,853",
+      "total": "11,453"
+    },
+    {
+      "rank": 154,
+      "country": "Samoa",
+      "capture": "9,589",
+      "aquaculture": "14",
+      "total": "9,603"
+    },
+    {
+      "rank": 155,
+      "country": "Bahamas",
+      "capture": "9,345",
+      "aquaculture": "1",
+      "total": "9,346"
+    },
+    {
+      "rank": 156,
+      "country": "Cyprus",
+      "capture": "1,301",
+      "aquaculture": "7,594",
+      "total": "8,895"
+    },
+    {
+      "rank": 157,
+      "country": "Curaçao",
+      "capture": "8,827",
+      "aquaculture": "0",
+      "total": "8,827"
+    },
+    {
+      "rank": 158,
+      "country": "Serbia",
+      "capture": "2,379",
+      "aquaculture": "5,776",
+      "total": "8,155"
+    },
+    {
+      "rank": 159,
+      "country": "Timor-Leste",
+      "capture": "6,707",
+      "aquaculture": "1,125",
+      "total": "7,832"
+    },
+    {
+      "rank": 160,
+      "country": "Cape Verde",
+      "capture": "7,759",
+      "aquaculture": "35",
+      "total": "7,794"
+    },
+    {
+      "rank": 161,
+      "country": "Belarus",
+      "capture": "356",
+      "aquaculture": "7,164",
+      "total": "7,520"
+    },
+    {
+      "rank": 162,
+      "country": "Equatorial Guinea",
+      "capture": "6,610",
+      "aquaculture": "15",
+      "total": "6,625"
+    },
+    {
+      "rank": 163,
+      "country": "Syria",
+      "capture": "4,430",
+      "aquaculture": "1,755",
+      "total": "6,185"
+    },
+    {
+      "rank": 164,
+      "country": "São Tomé and Príncipe",
+      "capture": "5,703",
+      "aquaculture": "",
+      "total": "5,703"
+    },
+    {
+      "rank": 165,
+      "country": "New Caledonia",
+      "capture": "4,208",
+      "aquaculture": "1,456",
+      "total": "5,664"
+    },
+    {
+      "rank": 166,
+      "country": "Austria",
+      "capture": "350",
+      "aquaculture": "4,719",
+      "total": "5,069"
+    },
+    {
+      "rank": 167,
+      "country": "Singapore",
+      "capture": "207",
+      "aquaculture": "4,745",
+      "total": "4,953"
+    },
+    {
+      "rank": 168,
+      "country": "Palestine",
+      "capture": "4,195",
+      "aquaculture": "727",
+      "total": "4,922"
+    },
+    {
+      "rank": 169,
+      "country": "Tajikistan",
+      "capture": "2,425",
+      "aquaculture": "2,248",
+      "total": "4,673"
+    },
+    {
+      "rank": 170,
+      "country": "Slovakia",
+      "capture": "1,895",
+      "aquaculture": "2,614",
+      "total": "4,509"
+    },
+    {
+      "rank": 171,
+      "country": "Bosnia and Herzegovina",
+      "capture": "305",
+      "aquaculture": "3,960",
+      "total": "4,265"
+    },
+    {
+      "rank": 172,
+      "country": "Switzerland",
+      "capture": "1,486",
+      "aquaculture": "2,500",
+      "total": "3,986"
+    },
+    {
+      "rank": 173,
+      "country": "Lebanon",
+      "capture": "2,620",
+      "aquaculture": "938",
+      "total": "3,558"
+    },
+    {
+      "rank": 174,
+      "country": "Channel Islands",
+      "capture": "2,290",
+      "aquaculture": "1,190",
+      "total": "3,480"
+    },
+    {
+      "rank": 175,
+      "country": "Jordan",
+      "capture": "675",
+      "aquaculture": "2,582",
+      "total": "3,257"
+    },
+    {
+      "rank": 176,
+      "country": "Antigua and Barbuda",
+      "capture": "3,230",
+      "aquaculture": "20",
+      "total": "3,250"
+    },
+    {
+      "rank": 177,
+      "country": "Djibouti",
+      "capture": "3,121",
+      "aquaculture": "",
+      "total": "3,121"
+    },
+    {
+      "rank": 178,
+      "country": "Isle of Man",
+      "capture": "3,041",
+      "aquaculture": "",
+      "total": "3,041"
+    },
+    {
+      "rank": 179,
+      "country": "Kuwait",
+      "capture": "1,886",
+      "aquaculture": "464",
+      "total": "2,350"
+    },
+    {
+      "rank": 180,
+      "country": "Turks and Caicos Islands",
+      "capture": "2,277",
+      "aquaculture": "0",
+      "total": "2,277"
+    },
+    {
+      "rank": 181,
+      "country": "North Macedonia",
+      "capture": "447",
+      "aquaculture": "1,814",
+      "total": "2,261"
+    },
+    {
+      "rank": 182,
+      "country": "Azerbaijan",
+      "capture": "1,790",
+      "aquaculture": "466",
+      "total": "2,256"
+    },
+    {
+      "rank": 183,
+      "country": "Montenegro",
+      "capture": "855",
+      "aquaculture": "1,087",
+      "total": "1,942"
+    },
+    {
+      "rank": 184,
+      "country": "Slovenia",
+      "capture": "272",
+      "aquaculture": "1,644",
+      "total": "1,916"
+    },
+    {
+      "rank": 185,
+      "country": "Lesotho",
+      "capture": "79",
+      "aquaculture": "1,836",
+      "total": "1,915"
+    },
+    {
+      "rank": 186,
+      "country": "Grenada",
+      "capture": "1,856",
+      "aquaculture": "26",
+      "total": "1,882"
+    },
+    {
+      "rank": 187,
+      "country": "Saint Lucia",
+      "capture": "1,443",
+      "aquaculture": "209",
+      "total": "1,652"
+    },
+    {
+      "rank": 188,
+      "country": "Saint Vincent and the Grenadines",
+      "capture": "1,586",
+      "aquaculture": "13",
+      "total": "1,599"
+    },
+    {
+      "rank": 189,
+      "country": "Eritrea",
+      "capture": "1,591",
+      "aquaculture": "4",
+      "total": "1,595"
+    },
+    {
+      "rank": 190,
+      "country": "Puerto Rico",
+      "capture": "1,581",
+      "aquaculture": "11",
+      "total": "1,592"
+    },
+    {
+      "rank": 191,
+      "country": "Macao",
+      "capture": "1,500",
+      "aquaculture": "",
+      "total": "1,500"
+    },
+    {
+      "rank": 192,
+      "country": "Tonga",
+      "capture": "1,326",
+      "aquaculture": "100",
+      "total": "1,426"
+    },
+    {
+      "rank": 193,
+      "country": "American Samoa",
+      "capture": "1,311",
+      "aquaculture": "18",
+      "total": "1,329"
+    },
+    {
+      "rank": 194,
+      "country": "British Virgin Islands",
+      "capture": "1,134",
+      "aquaculture": "1",
+      "total": "1,135"
+    },
+    {
+      "rank": 195,
+      "country": "Barbados",
+      "capture": "852",
+      "aquaculture": "6",
+      "total": "857"
+    },
+    {
+      "rank": 196,
+      "country": "Palau",
+      "capture": "813",
+      "aquaculture": "10",
+      "total": "823"
+    },
+    {
+      "rank": 197,
+      "country": "Saint Kitts and Nevis",
+      "capture": "670",
+      "aquaculture": "4",
+      "total": "674"
+    },
+    {
+      "rank": 198,
+      "country": "Guam",
+      "capture": "352",
+      "aquaculture": "108",
+      "total": "460"
+    },
+    {
+      "rank": 199,
+      "country": "US Virgin Islands",
+      "capture": "420",
+      "aquaculture": "8",
+      "total": "428"
+    },
+    {
+      "rank": 200,
+      "country": "Bermuda",
+      "capture": "392",
+      "aquaculture": "",
+      "total": "392"
+    },
+    {
+      "rank": 201,
+      "country": "Dominica",
+      "capture": "290",
+      "aquaculture": "3",
+      "total": "293"
+    },
+    {
+      "rank": 202,
+      "country": "Sint Maarten",
+      "capture": "253",
+      "aquaculture": "",
+      "total": "253"
+    },
+    {
+      "rank": 203,
+      "country": "Northern Mariana Islands",
+      "capture": "189",
+      "aquaculture": "41",
+      "total": "230"
+    },
+    {
+      "rank": 204,
+      "country": "Cayman Islands",
+      "capture": "125",
+      "aquaculture": "88",
+      "total": "213"
+    },
+    {
+      "rank": 205,
+      "country": "Botswana",
+      "capture": "38",
+      "aquaculture": "171",
+      "total": "209"
+    },
+    {
+      "rank": 206,
+      "country": "Bhutan",
+      "capture": "9",
+      "aquaculture": "191",
+      "total": "200"
+    },
+    {
+      "rank": 207,
+      "country": "Aruba",
+      "capture": "172",
+      "aquaculture": "2",
+      "total": "174"
+    },
+    {
+      "rank": 208,
+      "country": "Eswatini",
+      "capture": "65",
+      "aquaculture": "100",
+      "total": "165"
+    },
+    {
+      "rank": 209,
+      "country": "Saint-Martin",
+      "capture": "90",
+      "aquaculture": "",
+      "total": "90"
+    },
+    {
+      "rank": 210,
+      "country": "Monaco",
+      "capture": "1",
+      "aquaculture": "",
+      "total": "1"
+    },
+    {
+      "rank": 211,
+      "country": "Gibraltar",
+      "capture": "1",
+      "aquaculture": "",
+      "total": "1"
+    },
+    {
+      "rank": 212,
+      "country": "Andorra",
+      "capture": "0",
+      "aquaculture": "",
+      "total": "0"
+    },
+    {
+      "rank": 213,
+      "country": "Liechtenstein",
+      "capture": "0",
+      "aquaculture": "",
+      "total": "0"
+    },
+    {
+      "rank": 214,
+      "country": "Luxembourg",
+      "capture": "0",
+      "aquaculture": "",
+      "total": "0"
+    },
+    {
+      "rank": 215,
+      "country": "Mongolia",
+      "capture": "0",
+      "aquaculture": "",
+      "total": "0"
+    },
+    {
+      "rank": 216,
+      "country": "San Marino",
+      "capture": "0",
+      "aquaculture": "",
+      "total": "0"
+    },
+    {
+      "rank": 217,
+      "country": "World total (2022)",
+      "capture": "87,988,166",
+      "aquaculture": "126,935,293",
+      "total": "213,618,123"
+    }
+  ]
+}
