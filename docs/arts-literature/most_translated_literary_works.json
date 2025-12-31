@@ -1,0 +1,975 @@
+{
+  "title": "Most Translated Literary Works Worldwide",
+  "subtitle": "Literary works ranked by number of languages translated into",
+  "updated_at": "December 31, 2025 12:31 PM UTC",
+  "data": [
+    {
+      "rank": "1",
+      "title": "The Bible",
+      "author": "See Authorship of the Bible",
+      "date": "See Dating the Bible",
+      "languages_translated_into": "3,384 (at least one book), 2,191 (at least New Testament), 698 (Old and New Testaments, including, the Protocanonical books)",
+      "original_language": "Biblical Hebrew,, Biblical Aramaic,, Koine Greek"
+    },
+    {
+      "rank": "2",
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "date": "1943",
+      "languages_translated_into": "610",
+      "original_language": "French"
+    },
+    {
+      "rank": "3",
+      "title": "The Adventures of Pinocchio",
+      "author": "Carlo Collodi",
+      "date": "1883",
+      "languages_translated_into": "240–260",
+      "original_language": "Italian"
+    },
+    {
+      "rank": "4",
+      "title": "Dao De Jing",
+      "author": "Laozi",
+      "date": "400 BCE",
+      "languages_translated_into": ">250",
+      "original_language": "Classical Chinese"
+    },
+    {
+      "rank": "5",
+      "title": "The Pilgrim's Progress",
+      "author": "John Bunyan",
+      "date": "1678",
+      "languages_translated_into": ">200",
+      "original_language": "English"
+    },
+    {
+      "rank": "6",
+      "title": "The Communist Manifesto",
+      "author": "Karl Marx and Friedrich Engels",
+      "date": "1848",
+      "languages_translated_into": ">200",
+      "original_language": "German"
+    },
+    {
+      "rank": "7",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "date": "1865",
+      "languages_translated_into": "174",
+      "original_language": "English"
+    },
+    {
+      "rank": "8",
+      "title": "Grimm's Fairy Tales",
+      "author": "Jacob and Wilhelm Grimm",
+      "date": "1812–1858",
+      "languages_translated_into": "170",
+      "original_language": "German"
+    },
+    {
+      "rank": "9",
+      "title": "Steps to Christ",
+      "author": "Ellen G. White",
+      "date": "1892",
+      "languages_translated_into": ">160",
+      "original_language": "English"
+    },
+    {
+      "rank": "10",
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes Saavedra",
+      "date": "1615",
+      "languages_translated_into": ">140 (complete and portions)",
+      "original_language": "Early Modern Spanish"
+    },
+    {
+      "rank": "11",
+      "title": "Andersen's Fairy Tales",
+      "author": "Hans Christian Andersen",
+      "date": "1835–1852",
+      "languages_translated_into": "129",
+      "original_language": "Danish"
+    },
+    {
+      "rank": "12",
+      "title": "The Book of Mormon",
+      "author": "See Origin of the Book of Mormon",
+      "date": "1830",
+      "languages_translated_into": "115",
+      "original_language": "English"
+    },
+    {
+      "rank": "13",
+      "title": "Asterix",
+      "author": "René Goscinny & Albert Uderzo",
+      "date": "1959–present",
+      "languages_translated_into": "115 (not all volumes are available in all languages)",
+      "original_language": "French"
+    },
+    {
+      "rank": "14",
+      "title": "The Quran",
+      "author": "See History of the Quran",
+      "date": "650",
+      "languages_translated_into": ">114",
+      "original_language": "Classical Arabic"
+    },
+    {
+      "rank": "15",
+      "title": "The Way to Happiness",
+      "author": "L. Ron Hubbard",
+      "date": "1980",
+      "languages_translated_into": "114",
+      "original_language": "English"
+    },
+    {
+      "rank": "16",
+      "title": "The Prophet",
+      "author": "Kahlil Gibran",
+      "date": "1923",
+      "languages_translated_into": "108",
+      "original_language": "English"
+    },
+    {
+      "rank": "17",
+      "title": "The Upright Revolution: Or Why Humans Walk Upright",
+      "author": "Ngũgĩ wa Thiong'o",
+      "date": "2016",
+      "languages_translated_into": "100",
+      "original_language": "Gikuyu"
+    },
+    {
+      "rank": "18",
+      "title": "The Adventures of Tintin",
+      "author": "Hergé",
+      "date": "1929–1976",
+      "languages_translated_into": "96 (not all volumes are available in all languages)",
+      "original_language": "French"
+    },
+    {
+      "rank": "19",
+      "title": "Luther's Small Catechism",
+      "author": "Martin Luther",
+      "date": "1529",
+      "languages_translated_into": "90+",
+      "original_language": "German"
+    },
+    {
+      "rank": "20",
+      "title": "The Imitation of Christ",
+      "author": "Thomas à Kempis",
+      "date": "1418",
+      "languages_translated_into": "95",
+      "original_language": "Latin"
+    },
+    {
+      "rank": "21",
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "date": "1997–2007",
+      "languages_translated_into": "85",
+      "original_language": "English"
+    },
+    {
+      "rank": "22",
+      "title": "Winnie-the-Pooh",
+      "author": "A. A. Milne",
+      "date": "1926",
+      "languages_translated_into": "74",
+      "original_language": "English"
+    },
+    {
+      "rank": "23",
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "date": "1947",
+      "languages_translated_into": "73",
+      "original_language": "Dutch"
+    },
+    {
+      "rank": "24",
+      "title": "Das Kapital",
+      "author": "Karl Marx",
+      "date": "1867",
+      "languages_translated_into": "72",
+      "original_language": "German"
+    },
+    {
+      "rank": "25",
+      "title": "The Kon-Tiki Expedition: By Raft Across the South Seas",
+      "author": "Thor Heyerdahl",
+      "date": "1948",
+      "languages_translated_into": ">70",
+      "original_language": "Norwegian"
+    },
+    {
+      "rank": "26",
+      "title": "Pippi Longstocking",
+      "author": "Astrid Lindgren",
+      "date": "1945",
+      "languages_translated_into": "70",
+      "original_language": "Swedish"
+    },
+    {
+      "rank": "27",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "date": "1988",
+      "languages_translated_into": "70",
+      "original_language": "Portuguese"
+    },
+    {
+      "rank": "28",
+      "title": "Diary of a Wimpy Kid",
+      "author": "Jeff Kinney",
+      "date": "1991",
+      "languages_translated_into": "69+",
+      "original_language": "English"
+    },
+    {
+      "rank": "29",
+      "title": "Sophie's World",
+      "author": "Jostein Gaarder",
+      "date": "1991",
+      "languages_translated_into": "65",
+      "original_language": "Norwegian"
+    },
+    {
+      "rank": "30",
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "date": "1885",
+      "languages_translated_into": "65",
+      "original_language": "English"
+    },
+    {
+      "rank": "31",
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "date": "1949",
+      "languages_translated_into": "65",
+      "original_language": "English"
+    },
+    {
+      "rank": "32",
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "date": "1871",
+      "languages_translated_into": "65",
+      "original_language": "English"
+    },
+    {
+      "rank": "33",
+      "title": "The Isha Upanishad",
+      "author": "Various",
+      "date": "500 BCE",
+      "languages_translated_into": "64",
+      "original_language": "Sanskrit"
+    },
+    {
+      "rank": "34",
+      "title": "The Tirukkural",
+      "author": "Valluvar",
+      "date": "c. 300 BCE – c. 450 CE, See Dating the Tirukkural",
+      "languages_translated_into": "63 languages, with 350 translations in total",
+      "original_language": "Old Tamil"
+    },
+    {
+      "rank": "35",
+      "title": "Kalevala",
+      "author": "Elias Lönnrot (compiler)",
+      "date": "1835/1849",
+      "languages_translated_into": "61",
+      "original_language": "Finnish"
+    },
+    {
+      "rank": "36",
+      "title": "Quo Vadis: A Narrative of the Time of Nero",
+      "author": "Henryk Sienkiewicz",
+      "date": "1895",
+      "languages_translated_into": "61",
+      "original_language": "Polish"
+    },
+    {
+      "rank": "37",
+      "title": "Uncle Tom's Cabin",
+      "author": "Harriet Beecher Stowe",
+      "date": "1852",
+      "languages_translated_into": "60+",
+      "original_language": "English"
+    },
+    {
+      "rank": "38",
+      "title": "The Wonderful Adventures of Nils",
+      "author": "Selma Lagerlöf",
+      "date": "1906",
+      "languages_translated_into": "60",
+      "original_language": "Swedish"
+    },
+    {
+      "rank": "39",
+      "title": "The Bhagavad Gita",
+      "author": "Vyasa",
+      "date": "400 BCE",
+      "languages_translated_into": "59",
+      "original_language": "Sanskrit"
+    },
+    {
+      "rank": "40",
+      "title": "The Hobbit",
+      "author": "J. R. R. Tolkien",
+      "date": "1937",
+      "languages_translated_into": "59",
+      "original_language": "English"
+    },
+    {
+      "rank": "41",
+      "title": "The Good Soldier Švejk",
+      "author": "Jaroslav Hašek",
+      "date": "1923",
+      "languages_translated_into": "58",
+      "original_language": "Czech"
+    },
+    {
+      "rank": "42",
+      "title": "The Lord of the Rings",
+      "author": "J. R. R. Tolkien",
+      "date": "1954–1955",
+      "languages_translated_into": "57 languages, with 87 translations in total",
+      "original_language": "English"
+    },
+    {
+      "rank": "43",
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "date": "1958",
+      "languages_translated_into": "57",
+      "original_language": "English"
+    },
+    {
+      "rank": "44",
+      "title": "A Doll's House",
+      "author": "Henrik Ibsen",
+      "date": "1879",
+      "languages_translated_into": "56",
+      "original_language": "Norwegian"
+    },
+    {
+      "rank": "45",
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "date": "c. 1308-1321",
+      "languages_translated_into": "52",
+      "original_language": "Italian"
+    },
+    {
+      "rank": "46",
+      "title": "Seven Brief Lessons on Physics",
+      "author": "Carlo Rovelli",
+      "date": "2014",
+      "languages_translated_into": "52",
+      "original_language": "Italian"
+    },
+    {
+      "rank": "47",
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "date": "2005",
+      "languages_translated_into": "52",
+      "original_language": "English"
+    },
+    {
+      "rank": "48",
+      "title": "The Boy in the Striped Pyjamas",
+      "author": "John Boyne",
+      "date": "2006",
+      "languages_translated_into": "52",
+      "original_language": "English"
+    },
+    {
+      "rank": "49",
+      "title": "The House at Pooh Corner",
+      "author": "A. A. Milne",
+      "date": "1928",
+      "languages_translated_into": "52 languages, with 97 translations in total",
+      "original_language": "English"
+    },
+    {
+      "rank": "50",
+      "title": "Autobiography of a Yogi",
+      "author": "Paramahansa Yogananda",
+      "date": "1946",
+      "languages_translated_into": "50",
+      "original_language": "English"
+    },
+    {
+      "rank": "51",
+      "title": "Heidi",
+      "author": "Johanna Spyri",
+      "date": "1880",
+      "languages_translated_into": "50",
+      "original_language": "German"
+    },
+    {
+      "rank": "52",
+      "title": "Little Red Book",
+      "author": "Mao Zedong",
+      "date": "1964",
+      "languages_translated_into": "50+",
+      "original_language": "Chinese"
+    },
+    {
+      "rank": "53",
+      "title": "Out Stealing Horses",
+      "author": "Per Petterson",
+      "date": "2003",
+      "languages_translated_into": "50",
+      "original_language": "Norwegian"
+    },
+    {
+      "rank": "54",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "date": "1967",
+      "languages_translated_into": "47",
+      "original_language": "Spanish"
+    },
+    {
+      "rank": "55",
+      "title": "The Chronicles of Narnia",
+      "author": "C. S. Lewis",
+      "date": "1950–1957",
+      "languages_translated_into": "47",
+      "original_language": "English"
+    },
+    {
+      "rank": "56",
+      "title": "The Bridge on the Drina",
+      "author": "Ivo Andrić",
+      "date": "1945",
+      "languages_translated_into": "47",
+      "original_language": "Serbo-Croatian"
+    },
+    {
+      "rank": "57",
+      "title": "The Little Witch",
+      "author": "Otfried Preußler",
+      "date": "1957",
+      "languages_translated_into": "47",
+      "original_language": "German"
+    },
+    {
+      "rank": "58",
+      "title": "The Story of San Michele",
+      "author": "Axel Munthe",
+      "date": "1929",
+      "languages_translated_into": ">45",
+      "original_language": "English"
+    },
+    {
+      "rank": "59",
+      "title": "12 Rules for Life",
+      "author": "Jordan Peterson",
+      "date": "2018",
+      "languages_translated_into": "45+",
+      "original_language": "English"
+    },
+    {
+      "rank": "60",
+      "title": "The General of the Dead Army",
+      "author": "Ismail Kadare",
+      "date": "1963",
+      "languages_translated_into": "45",
+      "original_language": "Albanian"
+    },
+    {
+      "rank": "61",
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "date": "1942",
+      "languages_translated_into": "45",
+      "original_language": "French"
+    },
+    {
+      "rank": "62",
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "date": "1969",
+      "languages_translated_into": "45",
+      "original_language": "English"
+    },
+    {
+      "rank": "63",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "date": "2003",
+      "languages_translated_into": "44",
+      "original_language": "English"
+    },
+    {
+      "rank": "64",
+      "title": "The Moomins",
+      "author": "Tove Jansson",
+      "date": "1945",
+      "languages_translated_into": "43",
+      "original_language": "Swedish"
+    },
+    {
+      "rank": "65",
+      "title": "The Robber Hotzenplotz",
+      "author": "Otfried Preußler",
+      "date": "1962",
+      "languages_translated_into": "43",
+      "original_language": "German"
+    },
+    {
+      "rank": "66",
+      "title": "Invisible Cities",
+      "author": "Italo Calvino",
+      "date": "1972",
+      "languages_translated_into": "42",
+      "original_language": "Italian"
+    },
+    {
+      "rank": "67",
+      "title": "The English Roses",
+      "author": "Madonna",
+      "date": "2003",
+      "languages_translated_into": "42",
+      "original_language": "English"
+    },
+    {
+      "rank": "68",
+      "title": "Atonement",
+      "author": "Ian McEwan",
+      "date": "2001",
+      "languages_translated_into": "42",
+      "original_language": "English"
+    },
+    {
+      "rank": "69",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "date": "1925",
+      "languages_translated_into": "42",
+      "original_language": "English"
+    },
+    {
+      "rank": "70",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "date": "2003",
+      "languages_translated_into": "42",
+      "original_language": "English"
+    },
+    {
+      "rank": "71",
+      "title": "Solaris",
+      "author": "Stanisław Lem",
+      "date": "1961",
+      "languages_translated_into": "42",
+      "original_language": "Polish"
+    },
+    {
+      "rank": "72",
+      "title": "A Series of Unfortunate Events",
+      "author": "Lemony Snicket",
+      "date": "1999–2006",
+      "languages_translated_into": "41",
+      "original_language": "English"
+    },
+    {
+      "rank": "73",
+      "title": "The Egyptian",
+      "author": "Mika Waltari",
+      "date": "1945",
+      "languages_translated_into": "41",
+      "original_language": "Finnish"
+    },
+    {
+      "rank": "74",
+      "title": "The Leopard",
+      "author": "Jo Nesbø",
+      "date": "2009",
+      "languages_translated_into": "40",
+      "original_language": "Norwegian"
+    },
+    {
+      "rank": "75",
+      "title": "Before I Go to Sleep",
+      "author": "S. J. Watson",
+      "date": "2011",
+      "languages_translated_into": "40",
+      "original_language": "English"
+    },
+    {
+      "rank": "76",
+      "title": "Hunger",
+      "author": "Knut Hamsun",
+      "date": "1890",
+      "languages_translated_into": "40+",
+      "original_language": "Norwegian"
+    },
+    {
+      "rank": "77",
+      "title": "Miffy",
+      "author": "Dick Bruna",
+      "date": "1955",
+      "languages_translated_into": "40",
+      "original_language": "Dutch"
+    },
+    {
+      "rank": "78",
+      "title": "Paddington Bear",
+      "author": "Michael Bond",
+      "date": "1958",
+      "languages_translated_into": "40",
+      "original_language": "English"
+    },
+    {
+      "rank": "79",
+      "title": "The Tragedy of Man",
+      "author": "Imre Madách",
+      "date": "1861",
+      "languages_translated_into": "40",
+      "original_language": "Hungarian"
+    },
+    {
+      "rank": "80",
+      "title": "Amsterdam",
+      "author": "Ian McEwan",
+      "date": "1998",
+      "languages_translated_into": "39",
+      "original_language": "English"
+    },
+    {
+      "rank": "81",
+      "title": "The Family of Pascual Duarte",
+      "author": "Camilo José Cela",
+      "date": "1942",
+      "languages_translated_into": "39",
+      "original_language": "Spanish"
+    },
+    {
+      "rank": "82",
+      "title": "A Song of Ice and Fire",
+      "author": "George R. R. Martin",
+      "date": "1996–present",
+      "languages_translated_into": "39",
+      "original_language": "English"
+    },
+    {
+      "rank": "83",
+      "title": "Dictionary of the Khazars",
+      "author": "Milorad Pavić",
+      "date": "1984",
+      "languages_translated_into": "39",
+      "original_language": "Serbian"
+    },
+    {
+      "rank": "84",
+      "title": "The Time of the Doves",
+      "author": "Mercè Rodoreda",
+      "date": "1962",
+      "languages_translated_into": "38",
+      "original_language": "Catalan"
+    },
+    {
+      "rank": "85",
+      "title": "Silence in the Age of Noise",
+      "author": "Erling Kagge",
+      "date": "2016",
+      "languages_translated_into": "38",
+      "original_language": "Norwegian"
+    },
+    {
+      "rank": "86",
+      "title": "The Bookseller of Kabul",
+      "author": "Åsne Seierstad",
+      "date": "2002",
+      "languages_translated_into": "38",
+      "original_language": "Norwegian"
+    },
+    {
+      "rank": "87",
+      "title": "Mr. Peabody's Apples",
+      "author": "Madonna",
+      "date": "2003",
+      "languages_translated_into": "38",
+      "original_language": "English"
+    },
+    {
+      "rank": "88",
+      "title": "Discworld",
+      "author": "Terry Pratchett",
+      "date": "1983–2015",
+      "languages_translated_into": "37 or 38",
+      "original_language": "English"
+    },
+    {
+      "rank": "89",
+      "title": "Cold Skin",
+      "author": "Albert Sánchez Piñol",
+      "date": "2002",
+      "languages_translated_into": "37",
+      "original_language": "Catalan"
+    },
+    {
+      "rank": "90",
+      "title": "The Book of Mirrors",
+      "author": "Eugen Chirovici",
+      "date": "2017",
+      "languages_translated_into": "37",
+      "original_language": "English"
+    },
+    {
+      "rank": "91",
+      "title": "Krabat",
+      "author": "Otfried Preußler",
+      "date": "1962",
+      "languages_translated_into": "37",
+      "original_language": "German"
+    },
+    {
+      "rank": "92",
+      "title": "Perfume",
+      "author": "Patrick Süskind",
+      "date": "1985",
+      "languages_translated_into": "37",
+      "original_language": "German"
+    },
+    {
+      "rank": "93",
+      "title": "Anne of Green Gables",
+      "author": "Lucy Maud Montgomery",
+      "date": "1908",
+      "languages_translated_into": "36",
+      "original_language": "English"
+    },
+    {
+      "rank": "94",
+      "title": "Norwegian Wood",
+      "author": "Haruki Murakami",
+      "date": "1987",
+      "languages_translated_into": "36",
+      "original_language": "Japanese"
+    },
+    {
+      "rank": "95",
+      "title": "White Teeth",
+      "author": "Zadie Smith",
+      "date": "1999",
+      "languages_translated_into": "36",
+      "original_language": "English"
+    },
+    {
+      "rank": "96",
+      "title": "Dead Until Dark",
+      "author": "Charlaine Harris",
+      "date": "2001",
+      "languages_translated_into": "35",
+      "original_language": "English"
+    },
+    {
+      "rank": "97",
+      "title": "The Tale of Peter Rabbit",
+      "author": "Helen Beatrix Potter",
+      "date": "1902",
+      "languages_translated_into": "35",
+      "original_language": "English"
+    },
+    {
+      "rank": "98",
+      "title": "Totto-Chan: The Little Girl at the Window",
+      "author": "Tetsuko Kuroyanagi",
+      "date": "1981",
+      "languages_translated_into": "35",
+      "original_language": "Japanese"
+    },
+    {
+      "rank": "99",
+      "title": "Pan Tadeusz",
+      "author": "Adam Mickiewicz",
+      "date": "1834",
+      "languages_translated_into": "34",
+      "original_language": "Polish"
+    },
+    {
+      "rank": "100",
+      "title": "The Paul Street Boys",
+      "author": "Ferenc Molnár",
+      "date": "1907",
+      "languages_translated_into": "33",
+      "original_language": "Hungarian"
+    },
+    {
+      "rank": "101",
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "date": "1985",
+      "languages_translated_into": "33",
+      "original_language": "English"
+    },
+    {
+      "rank": "102",
+      "title": "Gone With the Wind",
+      "author": "Margaret Mitchell",
+      "date": "1936",
+      "languages_translated_into": "32",
+      "original_language": "English"
+    },
+    {
+      "rank": "103",
+      "title": "Bambi: A Life in the Woods",
+      "author": "Felix Salten",
+      "date": "1923",
+      "languages_translated_into": "32",
+      "original_language": "German"
+    },
+    {
+      "rank": "104",
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand",
+      "date": "1957",
+      "languages_translated_into": "31",
+      "original_language": "English"
+    },
+    {
+      "rank": "105",
+      "title": "Captain Underpants",
+      "author": "Dav Pilkey",
+      "date": "1997–2015",
+      "languages_translated_into": "31",
+      "original_language": "English"
+    },
+    {
+      "rank": "106",
+      "title": "'Art'",
+      "author": "Yasmina Reza",
+      "date": "1994",
+      "languages_translated_into": "30",
+      "original_language": "French"
+    },
+    {
+      "rank": "107",
+      "title": "Buddenbrooks",
+      "author": "Thomas Mann",
+      "date": "1901",
+      "languages_translated_into": "30",
+      "original_language": "German"
+    },
+    {
+      "rank": "108",
+      "title": "Chasing Vermeer",
+      "author": "Blue Balliett",
+      "date": "2003",
+      "languages_translated_into": "30",
+      "original_language": "English"
+    },
+    {
+      "rank": "109",
+      "title": "Isadora Moon",
+      "author": "Harriet Muncaster",
+      "date": "2016",
+      "languages_translated_into": "30",
+      "original_language": "English"
+    },
+    {
+      "rank": "110",
+      "title": "The Spiderwick Chronicles",
+      "author": "Tony DiTerlizzi and Holly Black",
+      "date": "2003",
+      "languages_translated_into": "30",
+      "original_language": "English"
+    },
+    {
+      "rank": "111",
+      "title": "The No. 1 Ladies' Detective Agency",
+      "author": "Alexander McCall Smith",
+      "date": "1998",
+      "languages_translated_into": "30",
+      "original_language": "English"
+    },
+    {
+      "rank": "112",
+      "title": "The Pillars of the Earth",
+      "author": "Ken Follett",
+      "date": "1989",
+      "languages_translated_into": "30",
+      "original_language": "English"
+    },
+    {
+      "rank": "113",
+      "title": "The Tale of Genji",
+      "author": "Murasaki Shikibu",
+      "date": "1001",
+      "languages_translated_into": "30",
+      "original_language": "Early Middle Japanese"
+    },
+    {
+      "rank": "114",
+      "title": "Under the Yoke",
+      "author": "Ivan Vazov",
+      "date": "1893",
+      "languages_translated_into": "30",
+      "original_language": "Bulgarian"
+    },
+    {
+      "rank": "115",
+      "title": "The Fountainhead",
+      "author": "Ayn Rand",
+      "date": "1943",
+      "languages_translated_into": "30+",
+      "original_language": "English"
+    },
+    {
+      "rank": "116",
+      "title": "The Doll",
+      "author": "Bolesław Prus",
+      "date": "1890",
+      "languages_translated_into": "28",
+      "original_language": "Polish"
+    },
+    {
+      "rank": "117",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "date": "1862",
+      "languages_translated_into": "20+",
+      "original_language": "French"
+    },
+    {
+      "rank": "118",
+      "title": "The Road to Serfdom",
+      "author": "Friedrich Hayek",
+      "date": "1944",
+      "languages_translated_into": "20+",
+      "original_language": "English"
+    },
+    {
+      "rank": "119",
+      "title": "The Wealth of Nations",
+      "author": "Adam Smith",
+      "date": "1776",
+      "languages_translated_into": "19",
+      "original_language": "English"
+    },
+    {
+      "rank": "120",
+      "title": "Mein Kampf",
+      "author": "Adolf Hitler",
+      "date": "1925",
+      "languages_translated_into": "18",
+      "original_language": "German"
+    },
+    {
+      "rank": "121",
+      "title": "Progress and Poverty",
+      "author": "Henry George",
+      "date": "1879",
+      "languages_translated_into": "14+",
+      "original_language": "English"
+    }
+  ]
+}
