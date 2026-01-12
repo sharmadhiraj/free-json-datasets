@@ -208,6 +208,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_inflation_rate.json"
       },
       {
+        "title": "Remittances Received by Country",
+        "subtitle": "Annual remittances received by each country in USD millions and percentage of GDP",
+        "updated_at": "January 12, 2026 09:37 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_remittances_received.json"
+      },
+      {
         "title": "Largest Banks in the World by Assets",
         "subtitle": "Top global banks ranked by total assets (USD), based on S&P Global data (2025).",
         "updated_at": "December 24, 2025 10:58 AM UTC",

@@ -1,0 +1,1147 @@
+{
+  "title": "Remittances Received by Country",
+  "subtitle": "Annual remittances received by each country in USD millions and percentage of GDP",
+  "updated_at": "January 12, 2026 09:37 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "India",
+      "remittances_received_usd_millions": "197,675",
+      "percentage_of_gdp": "3.5"
+    },
+    {
+      "rank": 2,
+      "country": "Mexico",
+      "remittances_received_usd_millions": "67,638",
+      "percentage_of_gdp": "3.7"
+    },
+    {
+      "rank": 3,
+      "country": "Philippines",
+      "remittances_received_usd_millions": "40,279",
+      "percentage_of_gdp": "8.7"
+    },
+    {
+      "rank": 4,
+      "country": "France",
+      "remittances_received_usd_millions": "36,861",
+      "percentage_of_gdp": "1.2"
+    },
+    {
+      "rank": 5,
+      "country": "Pakistan",
+      "remittances_received_usd_millions": "34,914",
+      "percentage_of_gdp": "9.4"
+    },
+    {
+      "rank": 6,
+      "country": "China",
+      "remittances_received_usd_millions": "31,411",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 7,
+      "country": "Bangladesh",
+      "remittances_received_usd_millions": "30,000",
+      "percentage_of_gdp": "6.3"
+    },
+    {
+      "rank": 8,
+      "country": "Guatemala",
+      "remittances_received_usd_millions": "21,649",
+      "percentage_of_gdp": "19.1"
+    },
+    {
+      "rank": 9,
+      "country": "Nigeria",
+      "remittances_received_usd_millions": "21,293",
+      "percentage_of_gdp": "11.3"
+    },
+    {
+      "rank": 10,
+      "country": "Germany",
+      "remittances_received_usd_millions": "21,225",
+      "percentage_of_gdp": "0.5"
+    },
+    {
+      "rank": 11,
+      "country": "Egypt",
+      "remittances_received_usd_millions": "19,532",
+      "percentage_of_gdp": "4.9"
+    },
+    {
+      "rank": 12,
+      "country": "Uzbekistan",
+      "remittances_received_usd_millions": "16,579",
+      "percentage_of_gdp": "14.4"
+    },
+    {
+      "rank": 13,
+      "country": "Indonesia",
+      "remittances_received_usd_millions": "16,038",
+      "percentage_of_gdp": "1.1"
+    },
+    {
+      "rank": 14,
+      "country": "Belgium",
+      "remittances_received_usd_millions": "15,208",
+      "percentage_of_gdp": "2.3"
+    },
+    {
+      "rank": 15,
+      "country": "Nepal",
+      "remittances_received_usd_millions": "14,185",
+      "percentage_of_gdp": "33.1"
+    },
+    {
+      "rank": 16,
+      "country": "Vietnam",
+      "remittances_received_usd_millions": "14,000",
+      "percentage_of_gdp": "3.2"
+    },
+    {
+      "rank": 17,
+      "country": "Ukraine",
+      "remittances_received_usd_millions": "11,969",
+      "percentage_of_gdp": "6.3"
+    },
+    {
+      "rank": 18,
+      "country": "Colombia",
+      "remittances_received_usd_millions": "11,873",
+      "percentage_of_gdp": "2.8"
+    },
+    {
+      "rank": 19,
+      "country": "Morocco",
+      "remittances_received_usd_millions": "11,755",
+      "percentage_of_gdp": "8.1"
+    },
+    {
+      "rank": 20,
+      "country": "Dominican Republic",
+      "remittances_received_usd_millions": "11,247",
+      "percentage_of_gdp": "9.0"
+    },
+    {
+      "rank": 21,
+      "country": "Italy",
+      "remittances_received_usd_millions": "11,152",
+      "percentage_of_gdp": "0.5"
+    },
+    {
+      "rank": 22,
+      "country": "Thailand",
+      "remittances_received_usd_millions": "9,584",
+      "percentage_of_gdp": "1.8"
+    },
+    {
+      "rank": 23,
+      "country": "Honduras",
+      "remittances_received_usd_millions": "9,533",
+      "percentage_of_gdp": "25.7"
+    },
+    {
+      "rank": 24,
+      "country": "Romania",
+      "remittances_received_usd_millions": "9,524",
+      "percentage_of_gdp": "2.5"
+    },
+    {
+      "rank": 25,
+      "country": "Poland",
+      "remittances_received_usd_millions": "8,688",
+      "percentage_of_gdp": "0.9"
+    },
+    {
+      "rank": 26,
+      "country": "El Salvador",
+      "remittances_received_usd_millions": "8,488",
+      "percentage_of_gdp": "24.0"
+    },
+    {
+      "rank": 27,
+      "country": "United States",
+      "remittances_received_usd_millions": "7,870",
+      "percentage_of_gdp": "0.0"
+    },
+    {
+      "rank": 28,
+      "country": "South Korea",
+      "remittances_received_usd_millions": "7,449",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 29,
+      "country": "Tajikistan",
+      "remittances_received_usd_millions": "6,802",
+      "percentage_of_gdp": "47.9"
+    },
+    {
+      "rank": 30,
+      "country": "Croatia",
+      "remittances_received_usd_millions": "6,739",
+      "percentage_of_gdp": "7.3"
+    },
+    {
+      "rank": 31,
+      "country": "Lebanon",
+      "remittances_received_usd_millions": "6,696",
+      "percentage_of_gdp": "33.3"
+    },
+    {
+      "rank": 32,
+      "country": "Ecuador",
+      "remittances_received_usd_millions": "6,544",
+      "percentage_of_gdp": "5.2"
+    },
+    {
+      "rank": 33,
+      "country": "Spain",
+      "remittances_received_usd_millions": "6,265",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 34,
+      "country": "Sri Lanka",
+      "remittances_received_usd_millions": "6,023",
+      "percentage_of_gdp": "7.2"
+    },
+    {
+      "rank": 35,
+      "country": "Serbia",
+      "remittances_received_usd_millions": "5,772",
+      "percentage_of_gdp": "7.1"
+    },
+    {
+      "rank": 36,
+      "country": "Nicaragua",
+      "remittances_received_usd_millions": "5,246",
+      "percentage_of_gdp": "26.6"
+    },
+    {
+      "rank": 37,
+      "country": "Hungary",
+      "remittances_received_usd_millions": "5,237",
+      "percentage_of_gdp": "2.3"
+    },
+    {
+      "rank": 38,
+      "country": "Brazil",
+      "remittances_received_usd_millions": "4,902",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 39,
+      "country": "United Kingdom",
+      "remittances_received_usd_millions": "4,834",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 40,
+      "country": "Sweden",
+      "remittances_received_usd_millions": "4,702",
+      "percentage_of_gdp": "0.8"
+    },
+    {
+      "rank": 41,
+      "country": "Japan",
+      "remittances_received_usd_millions": "4,644",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 42,
+      "country": "Jordan",
+      "remittances_received_usd_millions": "4,480",
+      "percentage_of_gdp": "8.8"
+    },
+    {
+      "rank": 43,
+      "country": "Peru",
+      "remittances_received_usd_millions": "4,446",
+      "percentage_of_gdp": "1.7"
+    },
+    {
+      "rank": 44,
+      "country": "Netherlands",
+      "remittances_received_usd_millions": "4,358",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 45,
+      "country": "Czech Republic",
+      "remittances_received_usd_millions": "4,248",
+      "percentage_of_gdp": "1.2"
+    },
+    {
+      "rank": 46,
+      "country": "Kenya",
+      "remittances_received_usd_millions": "4,228",
+      "percentage_of_gdp": "3.9"
+    },
+    {
+      "rank": 47,
+      "country": "Georgia",
+      "remittances_received_usd_millions": "3,999",
+      "percentage_of_gdp": "11.8"
+    },
+    {
+      "rank": 48,
+      "country": "Yemen",
+      "remittances_received_usd_millions": "3,771",
+      "percentage_of_gdp": "17.5 (2018)"
+    },
+    {
+      "rank": 49,
+      "country": "Haiti",
+      "remittances_received_usd_millions": "3,753",
+      "percentage_of_gdp": "18.9"
+    },
+    {
+      "rank": 50,
+      "country": "Austria",
+      "remittances_received_usd_millions": "3,592",
+      "percentage_of_gdp": "0.7"
+    },
+    {
+      "rank": 51,
+      "country": "Jamaica",
+      "remittances_received_usd_millions": "3,564",
+      "percentage_of_gdp": "17.9"
+    },
+    {
+      "rank": 52,
+      "country": "Switzerland",
+      "remittances_received_usd_millions": "3,502",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 53,
+      "country": "Zimbabwe",
+      "remittances_received_usd_millions": "3,301",
+      "percentage_of_gdp": "9.4"
+    },
+    {
+      "rank": 54,
+      "country": "Democratic Republic of the Congo",
+      "remittances_received_usd_millions": "3,298",
+      "percentage_of_gdp": "4.9"
+    },
+    {
+      "rank": 55,
+      "country": "Senegal",
+      "remittances_received_usd_millions": "3,267",
+      "percentage_of_gdp": "10.6"
+    },
+    {
+      "rank": 56,
+      "country": "Bosnia and Herzegovina",
+      "remittances_received_usd_millions": "3,124",
+      "percentage_of_gdp": "11.0"
+    },
+    {
+      "rank": 57,
+      "country": "Tunisia",
+      "remittances_received_usd_millions": "2,872",
+      "percentage_of_gdp": "6.0"
+    },
+    {
+      "rank": 58,
+      "country": "Kyrgyzstan",
+      "remittances_received_usd_millions": "2,850",
+      "percentage_of_gdp": "18.8"
+    },
+    {
+      "rank": 59,
+      "country": "Cambodia",
+      "remittances_received_usd_millions": "2,828",
+      "percentage_of_gdp": "6.1"
+    },
+    {
+      "rank": 60,
+      "country": "Slovakia",
+      "remittances_received_usd_millions": "2,741",
+      "percentage_of_gdp": "1.9"
+    },
+    {
+      "rank": 61,
+      "country": "Bulgaria",
+      "remittances_received_usd_millions": "2,672",
+      "percentage_of_gdp": "2.4"
+    },
+    {
+      "rank": 62,
+      "country": "Ghana",
+      "remittances_received_usd_millions": "2,431",
+      "percentage_of_gdp": "3.0"
+    },
+    {
+      "rank": 63,
+      "country": "Luxembourg",
+      "remittances_received_usd_millions": "2,430",
+      "percentage_of_gdp": "2.6"
+    },
+    {
+      "rank": 64,
+      "country": "Albania",
+      "remittances_received_usd_millions": "2,274",
+      "percentage_of_gdp": "8.4"
+    },
+    {
+      "rank": 65,
+      "country": "Bermuda",
+      "remittances_received_usd_millions": "2,035",
+      "percentage_of_gdp": "23.7"
+    },
+    {
+      "rank": 66,
+      "country": "Moldova",
+      "remittances_received_usd_millions": "1,918",
+      "percentage_of_gdp": "10.5"
+    },
+    {
+      "rank": 67,
+      "country": "Russia",
+      "remittances_received_usd_millions": "1,908",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 68,
+      "country": "Australia",
+      "remittances_received_usd_millions": "1,884",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 69,
+      "country": "Algeria",
+      "remittances_received_usd_millions": "1,868",
+      "percentage_of_gdp": "0.8"
+    },
+    {
+      "rank": 70,
+      "country": "Kosovo",
+      "remittances_received_usd_millions": "1,833",
+      "percentage_of_gdp": "17.5"
+    },
+    {
+      "rank": 71,
+      "country": "Portugal",
+      "remittances_received_usd_millions": "1,805",
+      "percentage_of_gdp": "0.6"
+    },
+    {
+      "rank": 72,
+      "country": "Somalia",
+      "remittances_received_usd_millions": "1,735",
+      "percentage_of_gdp": "15.8"
+    },
+    {
+      "rank": 73,
+      "country": "Malaysia",
+      "remittances_received_usd_millions": "1,605",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 74,
+      "country": "Denmark",
+      "remittances_received_usd_millions": "1,526",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 75,
+      "country": "Bolivia",
+      "remittances_received_usd_millions": "1,449",
+      "percentage_of_gdp": "3.2"
+    },
+    {
+      "rank": 76,
+      "country": "Qatar",
+      "remittances_received_usd_millions": "1,443",
+      "percentage_of_gdp": "0.7"
+    },
+    {
+      "rank": 77,
+      "country": "Uganda",
+      "remittances_received_usd_millions": "1,431",
+      "percentage_of_gdp": "2.9"
+    },
+    {
+      "rank": 78,
+      "country": "Belarus",
+      "remittances_received_usd_millions": "1,383",
+      "percentage_of_gdp": "1.8"
+    },
+    {
+      "rank": 79,
+      "country": "Azerbaijan",
+      "remittances_received_usd_millions": "1,352",
+      "percentage_of_gdp": "1.8"
+    },
+    {
+      "rank": 80,
+      "country": "Latvia",
+      "remittances_received_usd_millions": "1,336",
+      "percentage_of_gdp": "3.1"
+    },
+    {
+      "rank": 81,
+      "country": "Armenia",
+      "remittances_received_usd_millions": "1,182",
+      "percentage_of_gdp": "4.6"
+    },
+    {
+      "rank": 82,
+      "country": "South Sudan",
+      "remittances_received_usd_millions": "1,175",
+      "percentage_of_gdp": "9.5 (2015)"
+    },
+    {
+      "rank": 83,
+      "country": "Iraq",
+      "remittances_received_usd_millions": "1,162",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 84,
+      "country": "Myanmar",
+      "remittances_received_usd_millions": "1,100",
+      "percentage_of_gdp": "1.6"
+    },
+    {
+      "rank": 85,
+      "country": "Lithuania",
+      "remittances_received_usd_millions": "1,053",
+      "percentage_of_gdp": "1.2"
+    },
+    {
+      "rank": 86,
+      "country": "Mali",
+      "remittances_received_usd_millions": "1,045",
+      "percentage_of_gdp": "4.2"
+    },
+    {
+      "rank": 87,
+      "country": "Argentina",
+      "remittances_received_usd_millions": "1,045",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 88,
+      "country": "Ivory Coast",
+      "remittances_received_usd_millions": "1,042",
+      "percentage_of_gdp": "1.3"
+    },
+    {
+      "rank": 89,
+      "country": "Sudan",
+      "remittances_received_usd_millions": "1,000",
+      "percentage_of_gdp": "2.5"
+    },
+    {
+      "rank": 90,
+      "country": "Turkey",
+      "remittances_received_usd_millions": "982",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 91,
+      "country": "Israel",
+      "remittances_received_usd_millions": "952",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 92,
+      "country": "Paraguay",
+      "remittances_received_usd_millions": "878",
+      "percentage_of_gdp": "2.0"
+    },
+    {
+      "rank": 93,
+      "country": "South Africa",
+      "remittances_received_usd_millions": "855",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 94,
+      "country": "Montenegro",
+      "remittances_received_usd_millions": "855",
+      "percentage_of_gdp": "10.6"
+    },
+    {
+      "rank": 95,
+      "country": "Slovenia",
+      "remittances_received_usd_millions": "852",
+      "percentage_of_gdp": "1.2"
+    },
+    {
+      "rank": 96,
+      "country": "Canada",
+      "remittances_received_usd_millions": "851",
+      "percentage_of_gdp": "0.0"
+    },
+    {
+      "rank": 97,
+      "country": "New Zealand",
+      "remittances_received_usd_millions": "816",
+      "percentage_of_gdp": "0.3"
+    },
+    {
+      "rank": 98,
+      "country": "Liberia",
+      "remittances_received_usd_millions": "800",
+      "percentage_of_gdp": "18.2"
+    },
+    {
+      "rank": 99,
+      "country": "Cameroon",
+      "remittances_received_usd_millions": "787",
+      "percentage_of_gdp": "1.6"
+    },
+    {
+      "rank": 100,
+      "country": "Tanzania",
+      "remittances_received_usd_millions": "759",
+      "percentage_of_gdp": "1.0"
+    },
+    {
+      "rank": 101,
+      "country": "Finland",
+      "remittances_received_usd_millions": "749",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 102,
+      "country": "Palestine",
+      "remittances_received_usd_millions": "736",
+      "percentage_of_gdp": "5.4"
+    },
+    {
+      "rank": 103,
+      "country": "Costa Rica",
+      "remittances_received_usd_millions": "725",
+      "percentage_of_gdp": "0.8"
+    },
+    {
+      "rank": 104,
+      "country": "Togo",
+      "remittances_received_usd_millions": "650",
+      "percentage_of_gdp": "7.1"
+    },
+    {
+      "rank": 105,
+      "country": "Niger",
+      "remittances_received_usd_millions": "624",
+      "percentage_of_gdp": "3.7"
+    },
+    {
+      "rank": 106,
+      "country": "Cyprus",
+      "remittances_received_usd_millions": "622",
+      "percentage_of_gdp": "1.8"
+    },
+    {
+      "rank": 107,
+      "country": "Norway",
+      "remittances_received_usd_millions": "621",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 108,
+      "country": "New Caledonia",
+      "remittances_received_usd_millions": "621",
+      "percentage_of_gdp": "6.5"
+    },
+    {
+      "rank": 109,
+      "country": "Burkina Faso",
+      "remittances_received_usd_millions": "584",
+      "percentage_of_gdp": "2.9"
+    },
+    {
+      "rank": 110,
+      "country": "French Polynesia",
+      "remittances_received_usd_millions": "582",
+      "percentage_of_gdp": "9.1"
+    },
+    {
+      "rank": 111,
+      "country": "Ireland",
+      "remittances_received_usd_millions": "571",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 112,
+      "country": "Greece",
+      "remittances_received_usd_millions": "561",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 113,
+      "country": "Guyana",
+      "remittances_received_usd_millions": "546",
+      "percentage_of_gdp": "3.2"
+    },
+    {
+      "rank": 114,
+      "country": "Ethiopia",
+      "remittances_received_usd_millions": "539",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 115,
+      "country": "Panama",
+      "remittances_received_usd_millions": "532",
+      "percentage_of_gdp": "0.6"
+    },
+    {
+      "rank": 116,
+      "country": "Gambia",
+      "remittances_received_usd_millions": "529",
+      "percentage_of_gdp": "21.1"
+    },
+    {
+      "rank": 117,
+      "country": "Rwanda",
+      "remittances_received_usd_millions": "518",
+      "percentage_of_gdp": "3.6"
+    },
+    {
+      "rank": 118,
+      "country": "Fiji",
+      "remittances_received_usd_millions": "500",
+      "percentage_of_gdp": "9.2"
+    },
+    {
+      "rank": 119,
+      "country": "Lesotho",
+      "remittances_received_usd_millions": "499",
+      "percentage_of_gdp": "22.0"
+    },
+    {
+      "rank": 120,
+      "country": "Guinea",
+      "remittances_received_usd_millions": "497",
+      "percentage_of_gdp": "2.2"
+    },
+    {
+      "rank": 121,
+      "country": "Estonia",
+      "remittances_received_usd_millions": "496",
+      "percentage_of_gdp": "1.2"
+    },
+    {
+      "rank": 122,
+      "country": "Hong Kong",
+      "remittances_received_usd_millions": "462",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 123,
+      "country": "North Macedonia",
+      "remittances_received_usd_millions": "458",
+      "percentage_of_gdp": "2.7"
+    },
+    {
+      "rank": 124,
+      "country": "Mongolia",
+      "remittances_received_usd_millions": "455",
+      "percentage_of_gdp": "2.2"
+    },
+    {
+      "rank": 125,
+      "country": "Madagascar",
+      "remittances_received_usd_millions": "385",
+      "percentage_of_gdp": "2.4"
+    },
+    {
+      "rank": 126,
+      "country": "Benin",
+      "remittances_received_usd_millions": "339",
+      "percentage_of_gdp": "1.7"
+    },
+    {
+      "rank": 127,
+      "country": "Cape Verde",
+      "remittances_received_usd_millions": "336",
+      "percentage_of_gdp": "12.1"
+    },
+    {
+      "rank": 128,
+      "country": "Saudi Arabia",
+      "remittances_received_usd_millions": "322",
+      "percentage_of_gdp": "0.0"
+    },
+    {
+      "rank": 129,
+      "country": "Afghanistan",
+      "remittances_received_usd_millions": "320",
+      "percentage_of_gdp": "1.9"
+    },
+    {
+      "rank": 130,
+      "country": "Mauritius",
+      "remittances_received_usd_millions": "315",
+      "percentage_of_gdp": "2.2"
+    },
+    {
+      "rank": 131,
+      "country": "Comoros",
+      "remittances_received_usd_millions": "306",
+      "percentage_of_gdp": "21.4"
+    },
+    {
+      "rank": 132,
+      "country": "Sierra Leone",
+      "remittances_received_usd_millions": "293",
+      "percentage_of_gdp": "4.6"
+    },
+    {
+      "rank": 133,
+      "country": "Laos",
+      "remittances_received_usd_millions": "287",
+      "percentage_of_gdp": "1.8"
+    },
+    {
+      "rank": 134,
+      "country": "Samoa",
+      "remittances_received_usd_millions": "282",
+      "percentage_of_gdp": "26.4"
+    },
+    {
+      "rank": 135,
+      "country": "Mozambique",
+      "remittances_received_usd_millions": "267",
+      "percentage_of_gdp": "1.2"
+    },
+    {
+      "rank": 136,
+      "country": "Tonga",
+      "remittances_received_usd_millions": "257",
+      "percentage_of_gdp": "50.0"
+    },
+    {
+      "rank": 137,
+      "country": "Zambia",
+      "remittances_received_usd_millions": "246",
+      "percentage_of_gdp": "0.9"
+    },
+    {
+      "rank": 138,
+      "country": "Iceland",
+      "remittances_received_usd_millions": "241",
+      "percentage_of_gdp": "0.7"
+    },
+    {
+      "rank": 139,
+      "country": "Kazakhstan",
+      "remittances_received_usd_millions": "240",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 140,
+      "country": "Timor-Leste",
+      "remittances_received_usd_millions": "220",
+      "percentage_of_gdp": "11.7"
+    },
+    {
+      "rank": 141,
+      "country": "Guinea-Bissau",
+      "remittances_received_usd_millions": "204",
+      "percentage_of_gdp": "9.8"
+    },
+    {
+      "rank": 142,
+      "country": "Trinidad and Tobago",
+      "remittances_received_usd_millions": "199",
+      "percentage_of_gdp": "0.8"
+    },
+    {
+      "rank": 143,
+      "country": "Burundi",
+      "remittances_received_usd_millions": "198",
+      "percentage_of_gdp": "7.5"
+    },
+    {
+      "rank": 144,
+      "country": "Malawi",
+      "remittances_received_usd_millions": "180",
+      "percentage_of_gdp": "1.4"
+    },
+    {
+      "rank": 145,
+      "country": "Curaçao",
+      "remittances_received_usd_millions": "177",
+      "percentage_of_gdp": "5.4"
+    },
+    {
+      "rank": 146,
+      "country": "Mauritania",
+      "remittances_received_usd_millions": "168",
+      "percentage_of_gdp": "1.6"
+    },
+    {
+      "rank": 147,
+      "country": "Suriname",
+      "remittances_received_usd_millions": "160",
+      "percentage_of_gdp": "3.4"
+    },
+    {
+      "rank": 148,
+      "country": "Faroe Islands",
+      "remittances_received_usd_millions": "158",
+      "percentage_of_gdp": "4.1"
+    },
+    {
+      "rank": 149,
+      "country": "Belize",
+      "remittances_received_usd_millions": "154",
+      "percentage_of_gdp": "4.4"
+    },
+    {
+      "rank": 150,
+      "country": "Vanuatu",
+      "remittances_received_usd_millions": "145",
+      "percentage_of_gdp": "12.9"
+    },
+    {
+      "rank": 151,
+      "country": "Namibia",
+      "remittances_received_usd_millions": "143",
+      "percentage_of_gdp": "1.1"
+    },
+    {
+      "rank": 152,
+      "country": "Uruguay",
+      "remittances_received_usd_millions": "136",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 153,
+      "country": "Macau",
+      "remittances_received_usd_millions": "112",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 154,
+      "country": "Bhutan",
+      "remittances_received_usd_millions": "110",
+      "percentage_of_gdp": "3.6"
+    },
+    {
+      "rank": 155,
+      "country": "Chile",
+      "remittances_received_usd_millions": "100",
+      "percentage_of_gdp": "0.0"
+    },
+    {
+      "rank": 156,
+      "country": "Solomon Islands",
+      "remittances_received_usd_millions": "95",
+      "percentage_of_gdp": "5.4"
+    },
+    {
+      "rank": 157,
+      "country": "Saint Vincent and the Grenadines",
+      "remittances_received_usd_millions": "94",
+      "percentage_of_gdp": "8.2"
+    },
+    {
+      "rank": 158,
+      "country": "Barbados",
+      "remittances_received_usd_millions": "85",
+      "percentage_of_gdp": "1.3"
+    },
+    {
+      "rank": 159,
+      "country": "Eswatini",
+      "remittances_received_usd_millions": "80",
+      "percentage_of_gdp": "1.7"
+    },
+    {
+      "rank": 160,
+      "country": "Grenada",
+      "remittances_received_usd_millions": "70",
+      "percentage_of_gdp": "5.0"
+    },
+    {
+      "rank": 161,
+      "country": "Botswana",
+      "remittances_received_usd_millions": "70",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 162,
+      "country": "Bahamas",
+      "remittances_received_usd_millions": "66",
+      "percentage_of_gdp": "0.4"
+    },
+    {
+      "rank": 163,
+      "country": "Saint Lucia",
+      "remittances_received_usd_millions": "65",
+      "percentage_of_gdp": "2.5"
+    },
+    {
+      "rank": 164,
+      "country": "Djibouti",
+      "remittances_received_usd_millions": "56",
+      "percentage_of_gdp": "1.4"
+    },
+    {
+      "rank": 165,
+      "country": "Sint Maarten",
+      "remittances_received_usd_millions": "48",
+      "percentage_of_gdp": "3.0"
+    },
+    {
+      "rank": 166,
+      "country": "Andorra",
+      "remittances_received_usd_millions": "48",
+      "percentage_of_gdp": "1.3"
+    },
+    {
+      "rank": 167,
+      "country": "Republic of the Congo",
+      "remittances_received_usd_millions": "44",
+      "percentage_of_gdp": "0.3"
+    },
+    {
+      "rank": 168,
+      "country": "Oman",
+      "remittances_received_usd_millions": "39",
+      "percentage_of_gdp": "0.0"
+    },
+    {
+      "rank": 169,
+      "country": "Aruba",
+      "remittances_received_usd_millions": "39",
+      "percentage_of_gdp": "1.1"
+    },
+    {
+      "rank": 170,
+      "country": "Dominica",
+      "remittances_received_usd_millions": "38.6",
+      "percentage_of_gdp": "5.6"
+    },
+    {
+      "rank": 171,
+      "country": "Saint Kitts and Nevis",
+      "remittances_received_usd_millions": "36.4",
+      "percentage_of_gdp": "3.4"
+    },
+    {
+      "rank": 172,
+      "country": "Marshall Islands",
+      "remittances_received_usd_millions": "34.5",
+      "percentage_of_gdp": "13.3"
+    },
+    {
+      "rank": 173,
+      "country": "Antigua and Barbuda",
+      "remittances_received_usd_millions": "26.3",
+      "percentage_of_gdp": "1.2"
+    },
+    {
+      "rank": 174,
+      "country": "Federated States of Micronesia",
+      "remittances_received_usd_millions": "23.3",
+      "percentage_of_gdp": "5.3"
+    },
+    {
+      "rank": 175,
+      "country": "San Marino",
+      "remittances_received_usd_millions": "21.9",
+      "percentage_of_gdp": "1.2"
+    },
+    {
+      "rank": 176,
+      "country": "Kuwait",
+      "remittances_received_usd_millions": "20.4",
+      "percentage_of_gdp": "0.0"
+    },
+    {
+      "rank": 177,
+      "country": "Gabon",
+      "remittances_received_usd_millions": "18.5",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 178,
+      "country": "Malta",
+      "remittances_received_usd_millions": "15.4",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 179,
+      "country": "Angola",
+      "remittances_received_usd_millions": "14.1",
+      "percentage_of_gdp": "0.0"
+    },
+    {
+      "rank": 180,
+      "country": "Kiribati",
+      "remittances_received_usd_millions": "11.6",
+      "percentage_of_gdp": "4.0"
+    },
+    {
+      "rank": 181,
+      "country": "Seychelles",
+      "remittances_received_usd_millions": "11.4",
+      "percentage_of_gdp": "0.5"
+    },
+    {
+      "rank": 182,
+      "country": "Cayman Islands",
+      "remittances_received_usd_millions": "10.8",
+      "percentage_of_gdp": "0.2"
+    },
+    {
+      "rank": 183,
+      "country": "Papua New Guinea",
+      "remittances_received_usd_millions": "10.7",
+      "percentage_of_gdp": "0.0"
+    },
+    {
+      "rank": 184,
+      "country": "São Tomé and Príncipe",
+      "remittances_received_usd_millions": "10.0",
+      "percentage_of_gdp": "1.5"
+    },
+    {
+      "rank": 185,
+      "country": "Maldives",
+      "remittances_received_usd_millions": "5.7",
+      "percentage_of_gdp": "0.1"
+    },
+    {
+      "rank": 186,
+      "country": "Tuvalu",
+      "remittances_received_usd_millions": "2.6",
+      "percentage_of_gdp": "4.2"
+    },
+    {
+      "rank": 187,
+      "country": "Palau",
+      "remittances_received_usd_millions": "2.0",
+      "percentage_of_gdp": "0.7"
+    },
+    {
+      "rank": 188,
+      "country": "Brunei",
+      "remittances_received_usd_millions": "1.0",
+      "percentage_of_gdp": "0.0"
+    },
+    {
+      "rank": 189,
+      "country": "Nauru",
+      "remittances_received_usd_millions": "0.9",
+      "percentage_of_gdp": "0.6"
+    },
+    {
+      "rank": 190,
+      "country": "World",
+      "remittances_received_usd_millions": "740,508",
+      "percentage_of_gdp": "0.7"
+    }
+  ]
+}

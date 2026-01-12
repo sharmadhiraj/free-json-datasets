@@ -107,6 +107,8 @@ Each dataset follows this JSON format:
   Gini coefficients from World Bank, UNU-WIDER, and OECD with reporting years.
 - [**Inflation Rate by Country (2015–2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/list_of_countries_by_inflation_rate.json)  
   Annual inflation rates for each country from 2015 to 2024
+- [**Remittances Received by Country**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/list_of_countries_by_remittances_received.json)  
+  Annual remittances received by each country in USD millions and percentage of GDP
 - [**Largest Banks in the World by Assets**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/list_of_largest_banks.json)  
   Top global banks ranked by total assets (USD), based on S&P Global data (2025).
 - [**NEPSE Listed Companies**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/nepse_listed_companies.json)  
