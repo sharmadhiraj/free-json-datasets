@@ -91,6 +91,8 @@ Each dataset follows this JSON format:
 
 ### Economy & Finance
 
+- [**Debt-to-GDP Ratios by Country (2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/debt_to_gdp_ratio_by_country.json)  
+  Total, central government, and general government debt as a percentage of GDP by country.
 - [**Forbes Billionaires List**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/forbes_billionaires_list.json)  
   Up-to-date ranking of the world's wealthiest individuals as of August 20, 2025
 - [**Global GDP by Country (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/economy-finance/gdp_by_country.json)  

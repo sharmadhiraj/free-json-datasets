@@ -1,0 +1,1267 @@
+{
+  "title": "Debt-to-GDP Ratios by Country (2024)",
+  "subtitle": "Total, central government, and general government debt as a percentage of GDP by country.",
+  "updated_at": "January 12, 2026 10:22 AM UTC",
+  "data": [
+    {
+      "rank": 1,
+      "country": "Sudan",
+      "total_debt_to_gdp": "272%",
+      "central_gov_debt_to_gdp": "271.98%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 2,
+      "country": "Japan",
+      "total_debt_to_gdp": "237%",
+      "central_gov_debt_to_gdp": "200.93%",
+      "general_gov_debt_to_gdp": "236.66%"
+    },
+    {
+      "rank": 3,
+      "country": "Singapore",
+      "total_debt_to_gdp": "173%",
+      "central_gov_debt_to_gdp": "177%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 4,
+      "country": "Venezuela",
+      "total_debt_to_gdp": "164%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "164.27%"
+    },
+    {
+      "rank": 5,
+      "country": "Lebanon",
+      "total_debt_to_gdp": "164%",
+      "central_gov_debt_to_gdp": "164.13%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 6,
+      "country": "Eritrea",
+      "total_debt_to_gdp": "164%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 7,
+      "country": "Greece",
+      "total_debt_to_gdp": "154%",
+      "central_gov_debt_to_gdp": "169.99%",
+      "general_gov_debt_to_gdp": "150.89%"
+    },
+    {
+      "rank": 8,
+      "country": "Italy",
+      "total_debt_to_gdp": "135%",
+      "central_gov_debt_to_gdp": "132.5%",
+      "general_gov_debt_to_gdp": "135.33%"
+    },
+    {
+      "rank": 9,
+      "country": "Bahrain",
+      "total_debt_to_gdp": "134%",
+      "central_gov_debt_to_gdp": "134.01%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 10,
+      "country": "United States",
+      "total_debt_to_gdp": "124%",
+      "central_gov_debt_to_gdp": "102.69%",
+      "general_gov_debt_to_gdp": "120.79%"
+    },
+    {
+      "rank": 11,
+      "country": "France",
+      "total_debt_to_gdp": "113%",
+      "central_gov_debt_to_gdp": "94.34%",
+      "general_gov_debt_to_gdp": "113.11%"
+    },
+    {
+      "rank": 12,
+      "country": "Canada",
+      "total_debt_to_gdp": "111%",
+      "central_gov_debt_to_gdp": "52%",
+      "general_gov_debt_to_gdp": "110.77%"
+    },
+    {
+      "rank": 13,
+      "country": "Cape Verde",
+      "total_debt_to_gdp": "109%",
+      "central_gov_debt_to_gdp": "113.74%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 14,
+      "country": "Bhutan",
+      "total_debt_to_gdp": "108%",
+      "central_gov_debt_to_gdp": "107.78%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 15,
+      "country": "Belgium",
+      "total_debt_to_gdp": "104%",
+      "central_gov_debt_to_gdp": "85.43%",
+      "general_gov_debt_to_gdp": "104.47%"
+    },
+    {
+      "rank": 16,
+      "country": "Spain",
+      "total_debt_to_gdp": "102%",
+      "central_gov_debt_to_gdp": "93.57%",
+      "general_gov_debt_to_gdp": "101.82%"
+    },
+    {
+      "rank": 17,
+      "country": "Sri Lanka",
+      "total_debt_to_gdp": "96.1%",
+      "central_gov_debt_to_gdp": "99.43%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 18,
+      "country": "Republic of the Congo",
+      "total_debt_to_gdp": "95.4%",
+      "central_gov_debt_to_gdp": "95.44%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 19,
+      "country": "Bolivia",
+      "total_debt_to_gdp": "95%",
+      "central_gov_debt_to_gdp": "100.86%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 20,
+      "country": "United Kingdom",
+      "total_debt_to_gdp": "93.6%",
+      "central_gov_debt_to_gdp": "100.72%",
+      "general_gov_debt_to_gdp": "101.29%"
+    },
+    {
+      "rank": 21,
+      "country": "Portugal",
+      "total_debt_to_gdp": "93.6%",
+      "central_gov_debt_to_gdp": "101.54%",
+      "general_gov_debt_to_gdp": "94.93%"
+    },
+    {
+      "rank": 22,
+      "country": "Jordan",
+      "total_debt_to_gdp": "90.2%",
+      "central_gov_debt_to_gdp": "95.9%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 23,
+      "country": "Ukraine",
+      "total_debt_to_gdp": "89.8%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "89.84%"
+    },
+    {
+      "rank": 24,
+      "country": "China",
+      "total_debt_to_gdp": "88.3%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "88.33%"
+    },
+    {
+      "rank": 25,
+      "country": "Malawi",
+      "total_debt_to_gdp": "87.7%",
+      "central_gov_debt_to_gdp": "74.38%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 26,
+      "country": "Suriname",
+      "total_debt_to_gdp": "87.2%",
+      "central_gov_debt_to_gdp": "87.22%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 27,
+      "country": "Zimbabwe",
+      "total_debt_to_gdp": "87%",
+      "central_gov_debt_to_gdp": "94.59%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 28,
+      "country": "Argentina",
+      "total_debt_to_gdp": "83.2%",
+      "central_gov_debt_to_gdp": "85.33%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 29,
+      "country": "Egypt",
+      "total_debt_to_gdp": "82.9%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "90.93%"
+    },
+    {
+      "rank": 30,
+      "country": "Finland",
+      "total_debt_to_gdp": "82.1%",
+      "central_gov_debt_to_gdp": "82.05%",
+      "general_gov_debt_to_gdp": "82.53%"
+    },
+    {
+      "rank": 31,
+      "country": "Mauritius",
+      "total_debt_to_gdp": "82.1%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "91.36%"
+    },
+    {
+      "rank": 32,
+      "country": "India",
+      "total_debt_to_gdp": "81.92%",
+      "central_gov_debt_to_gdp": "53.82%",
+      "general_gov_debt_to_gdp": "81.29%"
+    },
+    {
+      "rank": 33,
+      "country": "Austria",
+      "total_debt_to_gdp": "81.8%",
+      "central_gov_debt_to_gdp": "62.12%",
+      "general_gov_debt_to_gdp": "81.21%"
+    },
+    {
+      "rank": 34,
+      "country": "Bahamas",
+      "total_debt_to_gdp": "81.5%",
+      "central_gov_debt_to_gdp": "77.79%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 35,
+      "country": "Guinea-Bissau",
+      "total_debt_to_gdp": "80.3%",
+      "central_gov_debt_to_gdp": "82.29%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 36,
+      "country": "Pakistan",
+      "total_debt_to_gdp": "80%",
+      "central_gov_debt_to_gdp": "70.07%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 37,
+      "country": "Tunisia",
+      "total_debt_to_gdp": "79.8%",
+      "central_gov_debt_to_gdp": "83.13%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 38,
+      "country": "Fiji",
+      "total_debt_to_gdp": "78.3%",
+      "central_gov_debt_to_gdp": "76.95%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 39,
+      "country": "South Africa",
+      "total_debt_to_gdp": "76.9%",
+      "central_gov_debt_to_gdp": "76.36%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 40,
+      "country": "Mozambique",
+      "total_debt_to_gdp": "76.9%",
+      "central_gov_debt_to_gdp": "96.63%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 41,
+      "country": "Brazil",
+      "total_debt_to_gdp": "76.5%",
+      "central_gov_debt_to_gdp": "83.48%",
+      "general_gov_debt_to_gdp": "87.28%"
+    },
+    {
+      "rank": 42,
+      "country": "Costa Rica",
+      "total_debt_to_gdp": "74.18%",
+      "central_gov_debt_to_gdp": "59.78%",
+      "general_gov_debt_to_gdp": "60.17%"
+    },
+    {
+      "rank": 43,
+      "country": "Hungary",
+      "total_debt_to_gdp": "73.5%",
+      "central_gov_debt_to_gdp": "74.49%",
+      "general_gov_debt_to_gdp": "73.45%"
+    },
+    {
+      "rank": 44,
+      "country": "Gabon",
+      "total_debt_to_gdp": "73.4%",
+      "central_gov_debt_to_gdp": "73.4%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 45,
+      "country": "Gambia",
+      "total_debt_to_gdp": "72%",
+      "central_gov_debt_to_gdp": "73.49%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 46,
+      "country": "Yemen",
+      "total_debt_to_gdp": "70.9%",
+      "central_gov_debt_to_gdp": "70.94%",
+      "general_gov_debt_to_gdp": "70.94%"
+    },
+    {
+      "rank": 47,
+      "country": "Ghana",
+      "total_debt_to_gdp": "70.5%",
+      "central_gov_debt_to_gdp": "70.51%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 48,
+      "country": "Malaysia",
+      "total_debt_to_gdp": "70.4%",
+      "central_gov_debt_to_gdp": "62.62%",
+      "general_gov_debt_to_gdp": "70.39%"
+    },
+    {
+      "rank": 49,
+      "country": "Uruguay",
+      "total_debt_to_gdp": "70.3%",
+      "central_gov_debt_to_gdp": "58.33%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 50,
+      "country": "Morocco",
+      "total_debt_to_gdp": "70%",
+      "central_gov_debt_to_gdp": "70.03%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 51,
+      "country": "Zambia",
+      "total_debt_to_gdp": "69.6%",
+      "central_gov_debt_to_gdp": "11494%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 52,
+      "country": "Togo",
+      "total_debt_to_gdp": "69%",
+      "central_gov_debt_to_gdp": "70.62%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 53,
+      "country": "Israel",
+      "total_debt_to_gdp": "69%",
+      "central_gov_debt_to_gdp": "66.46%",
+      "general_gov_debt_to_gdp": "67.85%"
+    },
+    {
+      "rank": 54,
+      "country": "Laos",
+      "total_debt_to_gdp": "68.71%",
+      "central_gov_debt_to_gdp": "96.45%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 55,
+      "country": "Jamaica",
+      "total_debt_to_gdp": "67.9%",
+      "central_gov_debt_to_gdp": "69.92%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 56,
+      "country": "Rwanda",
+      "total_debt_to_gdp": "67.2%",
+      "central_gov_debt_to_gdp": "67.24%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 57,
+      "country": "Slovenia",
+      "total_debt_to_gdp": "67%",
+      "central_gov_debt_to_gdp": "61.59%",
+      "general_gov_debt_to_gdp": "67.04%"
+    },
+    {
+      "rank": 58,
+      "country": "Kenya",
+      "total_debt_to_gdp": "65.5%",
+      "central_gov_debt_to_gdp": "65.59%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 59,
+      "country": "Namibia",
+      "total_debt_to_gdp": "65.3%",
+      "central_gov_debt_to_gdp": "67.7%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 60,
+      "country": "Thailand",
+      "total_debt_to_gdp": "63.7%",
+      "central_gov_debt_to_gdp": "56.57%",
+      "general_gov_debt_to_gdp": "57.17%"
+    },
+    {
+      "rank": 61,
+      "country": "Cyprus",
+      "total_debt_to_gdp": "62.8%",
+      "central_gov_debt_to_gdp": "100.19%",
+      "general_gov_debt_to_gdp": "65.32%"
+    },
+    {
+      "rank": 62,
+      "country": "Maldives",
+      "total_debt_to_gdp": "62.4%",
+      "central_gov_debt_to_gdp": "133.95%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 63,
+      "country": "Germany",
+      "total_debt_to_gdp": "62.2%",
+      "central_gov_debt_to_gdp": "43.97%",
+      "general_gov_debt_to_gdp": "63.89%"
+    },
+    {
+      "rank": 64,
+      "country": "Myanmar",
+      "total_debt_to_gdp": "61.3%",
+      "central_gov_debt_to_gdp": "61.3%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 65,
+      "country": "Colombia",
+      "total_debt_to_gdp": "61.3%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "61.28%"
+    },
+    {
+      "rank": 66,
+      "country": "El Salvador",
+      "total_debt_to_gdp": "61.13%",
+      "central_gov_debt_to_gdp": "56.19%",
+      "general_gov_debt_to_gdp": "87.58%"
+    },
+    {
+      "rank": 67,
+      "country": "Seychelles",
+      "total_debt_to_gdp": "61%",
+      "central_gov_debt_to_gdp": "57.8%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 68,
+      "country": "Philippines",
+      "total_debt_to_gdp": "60.7%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "57.06%"
+    },
+    {
+      "rank": 69,
+      "country": "Central African Republic",
+      "total_debt_to_gdp": "60.7%",
+      "central_gov_debt_to_gdp": "60.67%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 70,
+      "country": "Lesotho",
+      "total_debt_to_gdp": "60%",
+      "central_gov_debt_to_gdp": "59.75%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 71,
+      "country": "Slovakia",
+      "total_debt_to_gdp": "59.7%",
+      "central_gov_debt_to_gdp": "64.04%",
+      "general_gov_debt_to_gdp": "58.02%"
+    },
+    {
+      "rank": 72,
+      "country": "Iceland",
+      "total_debt_to_gdp": "59.3%",
+      "central_gov_debt_to_gdp": "59.94%",
+      "general_gov_debt_to_gdp": "59.08%"
+    },
+    {
+      "rank": 73,
+      "country": "Trinidad and Tobago",
+      "total_debt_to_gdp": "58.36%",
+      "central_gov_debt_to_gdp": "64.48%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 74,
+      "country": "Angola",
+      "total_debt_to_gdp": "58.2%",
+      "central_gov_debt_to_gdp": "62.5%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 75,
+      "country": "Croatia",
+      "total_debt_to_gdp": "57.7%",
+      "central_gov_debt_to_gdp": "56.52%",
+      "general_gov_debt_to_gdp": "57.65%"
+    },
+    {
+      "rank": 76,
+      "country": "Panama",
+      "total_debt_to_gdp": "56.6%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "56.62%"
+    },
+    {
+      "rank": 77,
+      "country": "Poland",
+      "total_debt_to_gdp": "55.1%",
+      "central_gov_debt_to_gdp": "45.04%",
+      "general_gov_debt_to_gdp": "55.28%"
+    },
+    {
+      "rank": 78,
+      "country": "Norway",
+      "total_debt_to_gdp": "55.1%",
+      "central_gov_debt_to_gdp": "14.88%",
+      "general_gov_debt_to_gdp": "42.72%"
+    },
+    {
+      "rank": 79,
+      "country": "Liberia",
+      "total_debt_to_gdp": "54.9%",
+      "central_gov_debt_to_gdp": "56.47%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 80,
+      "country": "Romania",
+      "total_debt_to_gdp": "54.8%",
+      "central_gov_debt_to_gdp": "54.73%",
+      "general_gov_debt_to_gdp": "54.58%"
+    },
+    {
+      "rank": 81,
+      "country": "Albania",
+      "total_debt_to_gdp": "54.7%",
+      "central_gov_debt_to_gdp": "59.23%",
+      "general_gov_debt_to_gdp": "55.65%"
+    },
+    {
+      "rank": 82,
+      "country": "North Macedonia",
+      "total_debt_to_gdp": "53.8%",
+      "central_gov_debt_to_gdp": "60.67%",
+      "general_gov_debt_to_gdp": "54.83%"
+    },
+    {
+      "rank": 83,
+      "country": "Nigeria",
+      "total_debt_to_gdp": "52.9%",
+      "central_gov_debt_to_gdp": "49.66%",
+      "general_gov_debt_to_gdp": "52.9%"
+    },
+    {
+      "rank": 84,
+      "country": "Burkina Faso",
+      "total_debt_to_gdp": "52.7%",
+      "central_gov_debt_to_gdp": "52.69%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 85,
+      "country": "Uganda",
+      "total_debt_to_gdp": "51.8%",
+      "central_gov_debt_to_gdp": "51.83%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 86,
+      "country": "Papua New Guinea",
+      "total_debt_to_gdp": "51.1%",
+      "central_gov_debt_to_gdp": "53.7%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 87,
+      "country": "Ecuador",
+      "total_debt_to_gdp": "50.6%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 88,
+      "country": "Armenia",
+      "total_debt_to_gdp": "50.3%",
+      "central_gov_debt_to_gdp": "50.3%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 89,
+      "country": "Mexico",
+      "total_debt_to_gdp": "49.7%",
+      "central_gov_debt_to_gdp": "45.45%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 90,
+      "country": "Tanzania",
+      "total_debt_to_gdp": "48.2%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "48.21%"
+    },
+    {
+      "rank": 91,
+      "country": "Serbia",
+      "total_debt_to_gdp": "47.2%",
+      "central_gov_debt_to_gdp": "47.2%",
+      "general_gov_debt_to_gdp": "44.48%"
+    },
+    {
+      "rank": 92,
+      "country": "Niger",
+      "total_debt_to_gdp": "47%",
+      "central_gov_debt_to_gdp": "47.17%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 93,
+      "country": "South Korea",
+      "total_debt_to_gdp": "46.8%",
+      "central_gov_debt_to_gdp": "44.77%",
+      "general_gov_debt_to_gdp": "52.49%"
+    },
+    {
+      "rank": 94,
+      "country": "Latvia",
+      "total_debt_to_gdp": "46.6%",
+      "central_gov_debt_to_gdp": "47.39%",
+      "general_gov_debt_to_gdp": "47.36%"
+    },
+    {
+      "rank": 95,
+      "country": "Algeria",
+      "total_debt_to_gdp": "46.2%",
+      "central_gov_debt_to_gdp": "46.2%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 96,
+      "country": "Dominican Republic",
+      "total_debt_to_gdp": "46.2%",
+      "central_gov_debt_to_gdp": "46.12%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 97,
+      "country": "Malta",
+      "total_debt_to_gdp": "46.2%",
+      "central_gov_debt_to_gdp": "46.58%",
+      "general_gov_debt_to_gdp": "47.39%"
+    },
+    {
+      "rank": 98,
+      "country": "Paraguay",
+      "total_debt_to_gdp": "45.2%",
+      "central_gov_debt_to_gdp": "38.17%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 99,
+      "country": "New Zealand",
+      "total_debt_to_gdp": "45.2%",
+      "central_gov_debt_to_gdp": "51.15%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 100,
+      "country": "Australia",
+      "total_debt_to_gdp": "43.8%",
+      "central_gov_debt_to_gdp": "36.79%",
+      "general_gov_debt_to_gdp": "49.83%"
+    },
+    {
+      "rank": 101,
+      "country": "Netherlands",
+      "total_debt_to_gdp": "43.7%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "43.23%"
+    },
+    {
+      "rank": 102,
+      "country": "Czechia",
+      "total_debt_to_gdp": "43.3%",
+      "central_gov_debt_to_gdp": "43.81%",
+      "general_gov_debt_to_gdp": "42.99%"
+    },
+    {
+      "rank": 103,
+      "country": "Sierra Leone",
+      "total_debt_to_gdp": "43%",
+      "central_gov_debt_to_gdp": "43%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 104,
+      "country": "Iraq",
+      "total_debt_to_gdp": "42.9%",
+      "central_gov_debt_to_gdp": "42.91%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 105,
+      "country": "Cameroon",
+      "total_debt_to_gdp": "42.7%",
+      "central_gov_debt_to_gdp": "39.54%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 106,
+      "country": "Nepal",
+      "total_debt_to_gdp": "42.6%",
+      "central_gov_debt_to_gdp": "47.87%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 107,
+      "country": "Belize",
+      "total_debt_to_gdp": "42.6%",
+      "central_gov_debt_to_gdp": "60.95%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 108,
+      "country": "Chile",
+      "total_debt_to_gdp": "41.7%",
+      "central_gov_debt_to_gdp": "41.65%",
+      "general_gov_debt_to_gdp": "41.98%"
+    },
+    {
+      "rank": 109,
+      "country": "Qatar",
+      "total_debt_to_gdp": "40.8%",
+      "central_gov_debt_to_gdp": "40.84%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 110,
+      "country": "Mauritania",
+      "total_debt_to_gdp": "40.3%",
+      "central_gov_debt_to_gdp": "44.92%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 111,
+      "country": "Honduras",
+      "total_debt_to_gdp": "39.8%",
+      "central_gov_debt_to_gdp": "47.87%",
+      "general_gov_debt_to_gdp": "41.14%"
+    },
+    {
+      "rank": 112,
+      "country": "Nicaragua",
+      "total_debt_to_gdp": "39.1%",
+      "central_gov_debt_to_gdp": "39.12%",
+      "general_gov_debt_to_gdp": "39.12%"
+    },
+    {
+      "rank": 113,
+      "country": "Indonesia",
+      "total_debt_to_gdp": "38.8%",
+      "central_gov_debt_to_gdp": "39.21%",
+      "general_gov_debt_to_gdp": "40.19%"
+    },
+    {
+      "rank": 114,
+      "country": "Madagascar",
+      "total_debt_to_gdp": "38.8%",
+      "central_gov_debt_to_gdp": "50.41%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 115,
+      "country": "Ireland",
+      "total_debt_to_gdp": "38.8%",
+      "central_gov_debt_to_gdp": "44.79%",
+      "general_gov_debt_to_gdp": "41.11%"
+    },
+    {
+      "rank": 116,
+      "country": "Lithuania",
+      "total_debt_to_gdp": "38%",
+      "central_gov_debt_to_gdp": "37.65%",
+      "general_gov_debt_to_gdp": "38.22%"
+    },
+    {
+      "rank": 117,
+      "country": "Moldova",
+      "total_debt_to_gdp": "37.8%",
+      "central_gov_debt_to_gdp": "37.57%",
+      "general_gov_debt_to_gdp": "38.13%"
+    },
+    {
+      "rank": 118,
+      "country": "Switzerland",
+      "total_debt_to_gdp": "37.6%",
+      "central_gov_debt_to_gdp": "13.65%",
+      "general_gov_debt_to_gdp": "37.58%"
+    },
+    {
+      "rank": 119,
+      "country": "Iran",
+      "total_debt_to_gdp": "36.8%",
+      "central_gov_debt_to_gdp": "36.85%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 120,
+      "country": "Equatorial Guinea",
+      "total_debt_to_gdp": "36.2%",
+      "central_gov_debt_to_gdp": "36.2%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 121,
+      "country": "Georgia",
+      "total_debt_to_gdp": "36.1%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "37.87%"
+    },
+    {
+      "rank": 122,
+      "country": "Oman",
+      "total_debt_to_gdp": "35.5%",
+      "central_gov_debt_to_gdp": "35.51%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 123,
+      "country": "Uzbekistan",
+      "total_debt_to_gdp": "35%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "32.65%"
+    },
+    {
+      "rank": 124,
+      "country": "Sweden",
+      "total_debt_to_gdp": "34%",
+      "central_gov_debt_to_gdp": "34.43%",
+      "general_gov_debt_to_gdp": "32.64%"
+    },
+    {
+      "rank": 125,
+      "country": "Chad",
+      "total_debt_to_gdp": "33.8%",
+      "central_gov_debt_to_gdp": "33.8%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 126,
+      "country": "Mongolia",
+      "total_debt_to_gdp": "33%",
+      "central_gov_debt_to_gdp": "38.95%",
+      "general_gov_debt_to_gdp": "44.36%"
+    },
+    {
+      "rank": 127,
+      "country": "Vietnam",
+      "total_debt_to_gdp": "32.9%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "32.86%"
+    },
+    {
+      "rank": 128,
+      "country": "Peru",
+      "total_debt_to_gdp": "32.8%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "30.92%"
+    },
+    {
+      "rank": 129,
+      "country": "Bangladesh",
+      "total_debt_to_gdp": "32.2%",
+      "central_gov_debt_to_gdp": "40.13%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 130,
+      "country": "United Arab Emirates",
+      "total_debt_to_gdp": "32.1%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "32.11%"
+    },
+    {
+      "rank": 131,
+      "country": "Ethiopia",
+      "total_debt_to_gdp": "32%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "32.3%"
+    },
+    {
+      "rank": 132,
+      "country": "Denmark",
+      "total_debt_to_gdp": "31.1%",
+      "central_gov_debt_to_gdp": "20.24%",
+      "general_gov_debt_to_gdp": "27.99%"
+    },
+    {
+      "rank": 133,
+      "country": "Palestine",
+      "total_debt_to_gdp": "30.7%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 134,
+      "country": "Tajikistan",
+      "total_debt_to_gdp": "29.5%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "29.54%"
+    },
+    {
+      "rank": 135,
+      "country": "Comoros",
+      "total_debt_to_gdp": "28.4%",
+      "central_gov_debt_to_gdp": "30.82%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 136,
+      "country": "Guatemala",
+      "total_debt_to_gdp": "27.9%",
+      "central_gov_debt_to_gdp": "28.24%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 137,
+      "country": "Cambodia",
+      "total_debt_to_gdp": "26.6%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "26.62%"
+    },
+    {
+      "rank": 138,
+      "country": "Luxembourg",
+      "total_debt_to_gdp": "26.3%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "25.98%"
+    },
+    {
+      "rank": 139,
+      "country": "Saudi Arabia",
+      "total_debt_to_gdp": "26.2%",
+      "central_gov_debt_to_gdp": "29.87%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 140,
+      "country": "Kyrgyzstan",
+      "total_debt_to_gdp": "25.9%",
+      "central_gov_debt_to_gdp": "36.64%",
+      "general_gov_debt_to_gdp": "36.64%"
+    },
+    {
+      "rank": 141,
+      "country": "Botswana",
+      "total_debt_to_gdp": "24.9%",
+      "central_gov_debt_to_gdp": "32.79%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 142,
+      "country": "Turkey",
+      "total_debt_to_gdp": "24.7%",
+      "central_gov_debt_to_gdp": "21.32%",
+      "general_gov_debt_to_gdp": "25.97%"
+    },
+    {
+      "rank": 143,
+      "country": "Guyana",
+      "total_debt_to_gdp": "24.3%",
+      "central_gov_debt_to_gdp": "24.27%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 144,
+      "country": "Bulgaria",
+      "total_debt_to_gdp": "24.1%",
+      "central_gov_debt_to_gdp": "23.55%",
+      "general_gov_debt_to_gdp": "24.08%"
+    },
+    {
+      "rank": 145,
+      "country": "Kazakhstan",
+      "total_debt_to_gdp": "23.7%",
+      "central_gov_debt_to_gdp": "24.95%",
+      "general_gov_debt_to_gdp": "24.8%"
+    },
+    {
+      "rank": 146,
+      "country": "Estonia",
+      "total_debt_to_gdp": "23.5%",
+      "central_gov_debt_to_gdp": "23.06%",
+      "general_gov_debt_to_gdp": "23.62%"
+    },
+    {
+      "rank": 147,
+      "country": "Azerbaijan",
+      "total_debt_to_gdp": "20.9%",
+      "central_gov_debt_to_gdp": "20.85%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 148,
+      "country": "DR Congo",
+      "total_debt_to_gdp": "19.3%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "19.31%"
+    },
+    {
+      "rank": 149,
+      "country": "Eswatini",
+      "total_debt_to_gdp": "19.3%",
+      "central_gov_debt_to_gdp": "37.21%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 150,
+      "country": "Bosnia and Herzegovina",
+      "total_debt_to_gdp": "16.9%",
+      "central_gov_debt_to_gdp": "32.75%",
+      "general_gov_debt_to_gdp": "32.75%"
+    },
+    {
+      "rank": 151,
+      "country": "Russia",
+      "total_debt_to_gdp": "16.4%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "20.3%"
+    },
+    {
+      "rank": 152,
+      "country": "Haiti",
+      "total_debt_to_gdp": "14%",
+      "central_gov_debt_to_gdp": "14.95%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 153,
+      "country": "Burundi",
+      "total_debt_to_gdp": "13.1%",
+      "central_gov_debt_to_gdp": "43.18%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 154,
+      "country": "Hong Kong",
+      "total_debt_to_gdp": "9.3%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 155,
+      "country": "Cayman Islands",
+      "total_debt_to_gdp": "6.4%",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 156,
+      "country": "Turkmenistan",
+      "total_debt_to_gdp": "4.6%",
+      "central_gov_debt_to_gdp": "4.62%",
+      "general_gov_debt_to_gdp": "4.62%"
+    },
+    {
+      "rank": 157,
+      "country": "Kuwait",
+      "total_debt_to_gdp": "3%",
+      "central_gov_debt_to_gdp": "3.04%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 158,
+      "country": "Brunei",
+      "total_debt_to_gdp": "2.3%",
+      "central_gov_debt_to_gdp": "2.29%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 159,
+      "country": "Ivory Coast",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "59.25%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 160,
+      "country": "Mali",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "51.83%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 161,
+      "country": "Taiwan",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "244.74%",
+      "general_gov_debt_to_gdp": "26.17%"
+    },
+    {
+      "rank": 162,
+      "country": "Senegal",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "113.67%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 163,
+      "country": "Guinea",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "47.84%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 164,
+      "country": "South Sudan",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "54.32%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 165,
+      "country": "Belarus",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "44.38%"
+    },
+    {
+      "rank": 166,
+      "country": "Vanuatu",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "44.6%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 167,
+      "country": "Barbados",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "104.38%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 168,
+      "country": "Sao Tome and Principe",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "43.46%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 169,
+      "country": "Samoa",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "27.71%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 170,
+      "country": "Saint Lucia",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "74.77%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 171,
+      "country": "Kiribati",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "9.92%",
+      "general_gov_debt_to_gdp": "9.92%"
+    },
+    {
+      "rank": 172,
+      "country": "Grenada",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "73.18%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 173,
+      "country": "Micronesia",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "10.92%"
+    },
+    {
+      "rank": 174,
+      "country": "Saint Vincent and the Grenadines",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "91.61%",
+      "general_gov_debt_to_gdp": "92.69%"
+    },
+    {
+      "rank": 175,
+      "country": "Antigua and Barbuda",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "67.06%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 176,
+      "country": "Dominica",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "104.35%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 177,
+      "country": "Saint Kitts and Nevis",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "52.19%"
+    },
+    {
+      "rank": 178,
+      "country": "Marshall Islands",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "16.68%"
+    },
+    {
+      "rank": 179,
+      "country": "San Marino",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "65.19%",
+      "general_gov_debt_to_gdp": ""
+    },
+    {
+      "rank": 180,
+      "country": "Nauru",
+      "total_debt_to_gdp": "",
+      "central_gov_debt_to_gdp": "",
+      "general_gov_debt_to_gdp": "17.59%"
+    }
+  ]
+}

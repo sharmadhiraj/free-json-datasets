@@ -160,6 +160,12 @@
     "category": "Economy & Finance",
     "datasets": [
       {
+        "title": "Debt-to-GDP Ratios by Country (2024)",
+        "subtitle": "Total, central government, and general government debt as a percentage of GDP by country.",
+        "updated_at": "January 12, 2026 10:22 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/debt_to_gdp_ratio_by_country.json"
+      },
+      {
         "title": "Forbes Billionaires List",
         "subtitle": "Up-to-date ranking of the world's wealthiest individuals as of August 20, 2025",
         "updated_at": "August 20, 2025 09:42 AM UTC",
