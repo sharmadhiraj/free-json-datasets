@@ -149,6 +149,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/most_urbanized_countries.json"
       },
       {
+        "title": "Refugee Population by Country (2012–2024)",
+        "subtitle": "Number of UNHCR-registered refugees hosted by each country or territory.",
+        "updated_at": "January 26, 2026 11:13 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/refugee_population_by_country.json"
+      },
+      {
         "title": "World Population by Country (2025)",
         "subtitle": "Latest country-wise population data as of 2025",
         "updated_at": "August 20, 2025 09:42 AM UTC",
@@ -162,7 +168,7 @@
       {
         "title": "Debt-to-GDP Ratios by Country (2024)",
         "subtitle": "Total, central government, and general government debt as a percentage of GDP by country.",
-        "updated_at": "January 12, 2026 10:22 AM UTC",
+        "updated_at": "January 26, 2026 10:24 AM UTC",
         "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/debt_to_gdp_ratio_by_country.json"
       },
       {

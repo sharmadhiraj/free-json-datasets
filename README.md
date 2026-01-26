@@ -86,6 +86,8 @@ Each dataset follows this JSON format:
   Median age is the age at which half the population is older and half is younger, roughly representing the midpoint of a population’s lifespan.
 - [**Most Urbanized Countries by Population (2023)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/most_urbanized_countries.json)  
   Countries ranked by share of population living in urban areas and urbanization growth rate.
+- [**Refugee Population by Country (2012–2024)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/refugee_population_by_country.json)  
+  Number of UNHCR-registered refugees hosted by each country or territory.
 - [**World Population by Country (2025)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/demographics-population/world_population_by_country.json)  
   Latest country-wise population data as of 2025
 
