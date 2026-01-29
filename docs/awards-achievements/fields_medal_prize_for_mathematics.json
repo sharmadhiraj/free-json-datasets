@@ -1,0 +1,619 @@
+{
+  "title": "Fields Medal Winners by Year",
+  "subtitle": "Year-wise list of Fields Medal recipients with nationality, gender, and affiliation",
+  "updated_at": "January 29, 2026 12:11 PM UTC",
+  "data": [
+    {
+      "year": "2022",
+      "winners": [
+        {
+          "first_name": "Maryna",
+          "last_name": "Sergiivna Viazovska",
+          "gender": "Female",
+          "citizenship": "Ukraine",
+          "born": "1984",
+          "affiliation": "Swiss Federal Institute of Technology in Lausanne, Switzerland"
+        },
+        {
+          "first_name": "James",
+          "last_name": "Maynard",
+          "gender": "Male",
+          "citizenship": "United Kingdom",
+          "born": "1987",
+          "affiliation": "University of Oxford, UK"
+        },
+        {
+          "first_name": "June",
+          "last_name": "Huh",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1983",
+          "affiliation": "Princeton University, USA"
+        },
+        {
+          "first_name": "Hugo",
+          "last_name": "Duminil-Copin",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1985",
+          "affiliation": "University of Geneva, Switzerland"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "winners": [
+        {
+          "first_name": "Caucher",
+          "last_name": "Birkar",
+          "gender": "Male",
+          "citizenship": "United Kingdom",
+          "born": "1978",
+          "affiliation": "University of Cambridge, UK"
+        },
+        {
+          "first_name": "Alessio",
+          "last_name": "Figalli",
+          "gender": "Male",
+          "citizenship": "Italy",
+          "born": "1984",
+          "affiliation": "Swiss Federal Institute of Technology in Zurich, Switzerland"
+        },
+        {
+          "first_name": "Peter",
+          "last_name": "Scholze",
+          "gender": "Male",
+          "citizenship": "Germany",
+          "born": "1987",
+          "affiliation": "Max Planck Institute for Mathematics in Bonn, Germany"
+        },
+        {
+          "first_name": "Akshay",
+          "last_name": "Venkatesh",
+          "gender": "Male",
+          "citizenship": "Australia",
+          "born": "1981",
+          "affiliation": "Princeton University's Institute for Advanced Studies, USA"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "winners": [
+        {
+          "first_name": "Artur",
+          "last_name": "Avila Cordeiro de Melo",
+          "gender": "Male",
+          "citizenship": "Brazil",
+          "born": "1979",
+          "affiliation": "CNRS - Institut de Mathématiques de Jussieu-Paris Rive Gauche, France"
+        },
+        {
+          "first_name": "Manjul",
+          "last_name": "Bhargava",
+          "gender": "Male",
+          "citizenship": "Canada",
+          "born": "1974",
+          "affiliation": "Princeton University, USA"
+        },
+        {
+          "first_name": "Martin",
+          "last_name": "Hairer",
+          "gender": "Male",
+          "citizenship": "Austria",
+          "born": "1975",
+          "affiliation": "University of Warwick, UK"
+        },
+        {
+          "first_name": "Maryam",
+          "last_name": "Mirzakhani",
+          "gender": "Female",
+          "citizenship": "Iran",
+          "born": "1977",
+          "affiliation": "Stanford University, USA"
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "winners": [
+        {
+          "first_name": "Ngô Bao",
+          "last_name": "Châu",
+          "gender": "Male",
+          "citizenship": "Vietnam",
+          "born": "1972",
+          "affiliation": "Université Paris-Sud 11, France, and Institute for Advanced Study, USA"
+        },
+        {
+          "first_name": "Elon",
+          "last_name": "Lindenstrauss",
+          "gender": "Male",
+          "citizenship": "Israel",
+          "born": "1970",
+          "affiliation": "Hebrew University of Jerusalem, Israel"
+        },
+        {
+          "first_name": "Stanislav K.",
+          "last_name": "Smirnov",
+          "gender": "Male",
+          "citizenship": "Russia",
+          "born": "1970",
+          "affiliation": "University of Geneva, Switzerland"
+        },
+        {
+          "first_name": "Cédric",
+          "last_name": "Villani",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1973",
+          "affiliation": "École Normale Supérieure de Lyon and Institut Henri Poincaré, France"
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "winners": [
+        {
+          "first_name": "Andrei",
+          "last_name": "Okounkov",
+          "gender": "Male",
+          "citizenship": "Russia",
+          "born": "1969",
+          "affiliation": "Princeton University, USA"
+        },
+        {
+          "first_name": "Grigori",
+          "last_name": "Perelman",
+          "gender": "Male",
+          "citizenship": "Russia",
+          "born": "1966",
+          "affiliation": ""
+        },
+        {
+          "first_name": "Terence",
+          "last_name": "Tao",
+          "gender": "Male",
+          "citizenship": "Australia",
+          "born": "1975",
+          "affiliation": "University of California, USA"
+        },
+        {
+          "first_name": "Wendelin",
+          "last_name": "Werner",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1968",
+          "affiliation": "Université Paris-Sud, France"
+        }
+      ]
+    },
+    {
+      "year": "2002",
+      "winners": [
+        {
+          "first_name": "Laurent",
+          "last_name": "Lafforgue",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1966",
+          "affiliation": "Institut des Hautes Études Scientifiques, France"
+        },
+        {
+          "first_name": "Vladimir",
+          "last_name": "Voevodsky",
+          "gender": "Male",
+          "citizenship": "Russia",
+          "born": "1966",
+          "affiliation": "Institute for Advanced Study, USA"
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "winners": [
+        {
+          "first_name": "Richard E.",
+          "last_name": "Borcherds",
+          "gender": "Male",
+          "citizenship": "United Kingdom",
+          "born": "1959",
+          "affiliation": "University of Cambridge, UK"
+        },
+        {
+          "first_name": "W. Timothy",
+          "last_name": "Gowers",
+          "gender": "Male",
+          "citizenship": "United Kingdom",
+          "born": "1963",
+          "affiliation": "University of Cambridge, UK"
+        },
+        {
+          "first_name": "Maxim",
+          "last_name": "Kontsevich",
+          "gender": "Male",
+          "citizenship": "Russia",
+          "born": "1964",
+          "affiliation": "Institut des Hautes Études Scientifiques, France"
+        },
+        {
+          "first_name": "Curtis T.",
+          "last_name": "McMullen",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1958",
+          "affiliation": "Harvard University, USA"
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "winners": [
+        {
+          "first_name": "Jean",
+          "last_name": "Bourgain",
+          "gender": "Male",
+          "citizenship": "Belgium",
+          "born": "1954",
+          "affiliation": "Institut des Hautes Études Scientifiques, France"
+        },
+        {
+          "first_name": "Pierre-Louis",
+          "last_name": "Lions",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1956",
+          "affiliation": "Université de Paris-Dauphine, CEREMADE, France"
+        },
+        {
+          "first_name": "Jean-Christophe",
+          "last_name": "Yoccoz",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1957",
+          "affiliation": "Université de Paris-Sud (Orsay), France"
+        },
+        {
+          "first_name": "Efim I.",
+          "last_name": "Zelmanov",
+          "gender": "Male",
+          "citizenship": "Russia",
+          "born": "1955",
+          "affiliation": "University of Wisconsin (now at the University of Chicago), USA"
+        }
+      ]
+    },
+    {
+      "year": "1990",
+      "winners": [
+        {
+          "first_name": "Vladimir",
+          "last_name": "Drinfeld",
+          "gender": "Male",
+          "citizenship": "Soviet Union",
+          "born": "1954",
+          "affiliation": "Steklov Mathematical Institute, Russia"
+        },
+        {
+          "first_name": "Vaughan F.R.",
+          "last_name": "Jones",
+          "gender": "Male",
+          "citizenship": "New Zealand",
+          "born": "1952",
+          "affiliation": "Columbia University, USA"
+        },
+        {
+          "first_name": "Shigefumi",
+          "last_name": "Mori",
+          "gender": "Male",
+          "citizenship": "Japan",
+          "born": "1951",
+          "affiliation": "Harvard University, USA"
+        },
+        {
+          "first_name": "Edward",
+          "last_name": "Witten",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1951",
+          "affiliation": "Princeton University, USA"
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "winners": [
+        {
+          "first_name": "Simon K",
+          "last_name": "Donaldson",
+          "gender": "Male",
+          "citizenship": "United Kingdom",
+          "born": "1957",
+          "affiliation": "University of Oxford, UK"
+        },
+        {
+          "first_name": "Gerd",
+          "last_name": "Faltings",
+          "gender": "Male",
+          "citizenship": "Germany",
+          "born": "1954",
+          "affiliation": "Princeton University, USA"
+        },
+        {
+          "first_name": "Michael H.",
+          "last_name": "Freedman",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1951",
+          "affiliation": "University of California, USA"
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "winners": [
+        {
+          "first_name": "Alain",
+          "last_name": "Connes",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1947",
+          "affiliation": "Institut des Hautes Études Scientifiques , France"
+        },
+        {
+          "first_name": "William P.",
+          "last_name": "Thurston",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1946",
+          "affiliation": "Princeton University, USA"
+        },
+        {
+          "first_name": "Shing-Tung",
+          "last_name": "Yau",
+          "gender": "Male",
+          "citizenship": "China",
+          "born": "1949",
+          "affiliation": "Institute for Advanced Study, USA"
+        }
+      ]
+    },
+    {
+      "year": "1978",
+      "winners": [
+        {
+          "first_name": "Pierre René",
+          "last_name": "Deligne",
+          "gender": "Male",
+          "citizenship": "Belgium",
+          "born": "1944",
+          "affiliation": "Institut des Hautes Études Scientifiques, France"
+        },
+        {
+          "first_name": "Charles Louis",
+          "last_name": "Fefferman",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1949",
+          "affiliation": "Princeton University, USA"
+        },
+        {
+          "first_name": "Gregori Aleksandrovitch",
+          "last_name": "Margulis",
+          "gender": "Male",
+          "citizenship": "Soviet Union",
+          "born": "1946",
+          "affiliation": "University of Moscow, Russia"
+        },
+        {
+          "first_name": "Daniel G.",
+          "last_name": "Quillen",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1940",
+          "affiliation": "Massachusetts Institute of Technology (MIT), USA"
+        }
+      ]
+    },
+    {
+      "year": "1974",
+      "winners": [
+        {
+          "first_name": "Enrico",
+          "last_name": "E Bombieri",
+          "gender": "Male",
+          "citizenship": "Italy",
+          "born": "1946",
+          "affiliation": "University of Pisa, Italy"
+        },
+        {
+          "first_name": "David Bryant",
+          "last_name": "Mumford",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1937",
+          "affiliation": "Harvard University, USA"
+        }
+      ]
+    },
+    {
+      "year": "1970",
+      "winners": [
+        {
+          "first_name": "Alan",
+          "last_name": "Baker",
+          "gender": "Male",
+          "citizenship": "United Kingdom",
+          "born": "1939",
+          "affiliation": "University of Cambridge, UK"
+        },
+        {
+          "first_name": "Heisuke",
+          "last_name": "Hironaka",
+          "gender": "Male",
+          "citizenship": "Japan",
+          "born": "1931",
+          "affiliation": "Harvard University, USA"
+        },
+        {
+          "first_name": "Serge P.",
+          "last_name": "Novikov",
+          "gender": "Male",
+          "citizenship": "Soviet Union",
+          "born": "1938",
+          "affiliation": "Belorusskii University, Belarus"
+        },
+        {
+          "first_name": "John Griggs",
+          "last_name": "Thompson",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1932",
+          "affiliation": "University of Chicago, USA"
+        }
+      ]
+    },
+    {
+      "year": "1966",
+      "winners": [
+        {
+          "first_name": "Michael Francis",
+          "last_name": "Atiyah",
+          "gender": "Male",
+          "citizenship": "United Kingdom",
+          "born": "1929",
+          "affiliation": "University of Oxford, UK"
+        },
+        {
+          "first_name": "Paul Joseph",
+          "last_name": "Cohen",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1934",
+          "affiliation": "Stanford University, USA"
+        },
+        {
+          "first_name": "Alexander",
+          "last_name": "Grothendieck",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1928",
+          "affiliation": "University of Paris, France"
+        },
+        {
+          "first_name": "Stephen",
+          "last_name": "Smale",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1930",
+          "affiliation": "University of California, USA"
+        }
+      ]
+    },
+    {
+      "year": "1962",
+      "winners": [
+        {
+          "first_name": "Lars",
+          "last_name": "Hörmander",
+          "gender": "Male",
+          "citizenship": "Sweden",
+          "born": "1931",
+          "affiliation": "Stockholm University, Sweden"
+        },
+        {
+          "first_name": "John Willard",
+          "last_name": "Milnor",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1931",
+          "affiliation": "Princeton University, USA"
+        }
+      ]
+    },
+    {
+      "year": "1958",
+      "winners": [
+        {
+          "first_name": "Klaus Friedrich",
+          "last_name": "Roth",
+          "gender": "Male",
+          "citizenship": "United Kingdom",
+          "born": "1925",
+          "affiliation": "London University, UK"
+        },
+        {
+          "first_name": "René",
+          "last_name": "Thom",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1923",
+          "affiliation": "University of Strasbourg, France"
+        }
+      ]
+    },
+    {
+      "year": "1954",
+      "winners": [
+        {
+          "first_name": "Kunihiko",
+          "last_name": "Kodaira",
+          "gender": "Male",
+          "citizenship": "Japan",
+          "born": "1915",
+          "affiliation": "Princeton University, USA"
+        },
+        {
+          "first_name": "Jean-Pierre",
+          "last_name": "Serre",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1926",
+          "affiliation": "Collège de France, France"
+        }
+      ]
+    },
+    {
+      "year": "1950",
+      "winners": [
+        {
+          "first_name": "Laurent",
+          "last_name": "Schwartz",
+          "gender": "Male",
+          "citizenship": "France",
+          "born": "1915",
+          "affiliation": "Nancy University, France"
+        },
+        {
+          "first_name": "Atle",
+          "last_name": "Selberg",
+          "gender": "Male",
+          "citizenship": "Norway",
+          "born": "1917",
+          "affiliation": "Institute for Advanced Study, USA"
+        }
+      ]
+    },
+    {
+      "year": "1936",
+      "winners": [
+        {
+          "first_name": "Lars Valerian",
+          "last_name": "Ahlfors",
+          "gender": "Male",
+          "citizenship": "Finland",
+          "born": "1907",
+          "affiliation": "Harvard University, USA"
+        },
+        {
+          "first_name": "Jesse",
+          "last_name": "Douglas",
+          "gender": "Male",
+          "citizenship": "United States",
+          "born": "1897",
+          "affiliation": "Massachusetts Institute of Technology (MIT), USA"
+        }
+      ]
+    }
+  ]
+}

@@ -60,6 +60,8 @@ Each dataset follows this JSON format:
 
 - [**Academy Award Winners for Best Picture**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/awards-achievements/academy_award_winners_for_best_picture.json)  
   Best Picture winners from 1927 to 2024
+- [**Fields Medal Winners by Year**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/awards-achievements/fields_medal_prize_for_mathematics.json)  
+  Year-wise list of Fields Medal recipients with nationality, gender, and affiliation
 - [**Grammy Winners (2025-1958)**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/awards-achievements/grammy_winners.json)  
   Award categories and nominations from 2025 to 1958
 - [**Nobel Prizes 2024**](https://github.com/sharmadhiraj/free-json-datasets/blob/master/docs/awards-achievements/nobel_prizes.json)  

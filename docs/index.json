@@ -79,6 +79,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/academy_award_winners_for_best_picture.json"
       },
       {
+        "title": "Fields Medal Winners by Year",
+        "subtitle": "Year-wise list of Fields Medal recipients with nationality, gender, and affiliation",
+        "updated_at": "January 29, 2026 12:11 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/fields_medal_prize_for_mathematics.json"
+      },
+      {
         "title": "Grammy Winners (2025-1958)",
         "subtitle": "Award categories and nominations from 2025 to 1958",
         "updated_at": "December 26, 2025 10:29 AM UTC",
