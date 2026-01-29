@@ -1,0 +1,2318 @@
+{
+  "title": "Countries by Recorded Temperature Extremes",
+  "subtitle": "Highest and lowest temperatures recorded by country, including location and date",
+  "updated_at": "January 29, 2026 08:18 AM UTC",
+  "data": [
+    {
+      "country": "Abkhazia",
+      "highest": {
+        "location": "Sukhumi",
+        "temp": "37.0 °C (98.6 °F)",
+        "date": "?"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Afghanistan",
+      "highest": null,
+      "lowest": {
+        "location": "Shahrak",
+        "temp": "−52.2 °C (−62.0 °F)",
+        "date": "January 1964"
+      }
+    },
+    {
+      "country": "Afghanistan (then, Islamic Republic of Afghanistan)",
+      "highest": {
+        "location": "Farah",
+        "temp": "49.9 °C (121.8 °F)",
+        "date": "August 2009"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Akrotiri and Dhekelia",
+      "highest": {
+        "location": "RAF Akrotiri,, Dhekelia",
+        "temp": "34.0 °C (93.2 °F)",
+        "date": "?"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Albania",
+      "highest": {
+        "location": "Kuçovë",
+        "temp": "44.0 °C (111.2 °F)",
+        "date": "25 July 2023"
+      },
+      "lowest": {
+        "location": "Bizë",
+        "temp": "−34.7 °C (−30.5 °F)",
+        "date": "N/A"
+      }
+    },
+    {
+      "country": "Algeria",
+      "highest": {
+        "location": "El Bayadh, El Bayadh Province Ouargla, Ouargla Province",
+        "temp": "51.3 °C (124.3 °F)",
+        "date": "2 September 1979 5 July 2018"
+      },
+      "lowest": {
+        "location": "Mécheria",
+        "temp": "−13.8 °C (7.2 °F)",
+        "date": "28 January 2005"
+      }
+    },
+    {
+      "country": "Andorra",
+      "highest": {
+        "location": "Borda Vidal",
+        "temp": "39.4 °C (102.9 °F)",
+        "date": "28 June 2019"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Anguilla",
+      "highest": {
+        "location": "The Valley",
+        "temp": "34.2 °C (93.6 °F)",
+        "date": "12 September 2015"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Antarctica",
+      "highest": {
+        "location": "Signy Research Station, Signy Island",
+        "temp": "19.8 °C (67.6 °F)",
+        "date": "30 January 1982"
+      },
+      "lowest": {
+        "location": "Vostok Station",
+        "temp": "−89.2 °C (−128.6 °F)",
+        "date": "21 July 1983"
+      }
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "highest": {
+        "location": "V. C. Bird International Airport, St. John's",
+        "temp": "34.9 °C (94.8 °F)",
+        "date": "12 August 1995"
+      },
+      "lowest": {
+        "location": "V. C. Bird International Airport, Antigua",
+        "temp": "16.1 °C (61.0 °F)",
+        "date": "31 December 1974 and, 28 January 1976"
+      }
+    },
+    {
+      "country": "Argentina",
+      "highest": {
+        "location": "Rivadavia, Salta Province",
+        "temp": "48.9 °C (120.0 °F)",
+        "date": "11 December 1905"
+      },
+      "lowest": {
+        "location": "Sarmiento, Chubut Province",
+        "temp": "−32.8 °C (−27.0 °F)",
+        "date": "1 June 1907"
+      }
+    },
+    {
+      "country": "Armenia",
+      "highest": {
+        "location": "Meghri, Yerevan",
+        "temp": "43.7 °C (110.7 °F)",
+        "date": "1 August 2011, 12 July 2018"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Armenia (then the Armenian SSR, Soviet Union)",
+      "highest": null,
+      "lowest": {
+        "location": "Paghakn and Ashocq",
+        "temp": "−42.0 °C (−43.6 °F)",
+        "date": "1961"
+      }
+    },
+    {
+      "country": "Aruba",
+      "highest": {
+        "location": "Queen Beatrix International Airport, Oranjestad",
+        "temp": "36.5 °C (97.7 °F)",
+        "date": "2003"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Australia",
+      "highest": {
+        "location": "Marble Bar, Western Australia",
+        "temp": "37.8 °C (100.0 °F)",
+        "date": "31 October 1923 to 7 April 1924 (160 days)"
+      },
+      "lowest": {
+        "location": "Charlotte Pass, New South Wales",
+        "temp": "−23.0 °C (−9.4 °F)",
+        "date": "29 June 1994"
+      }
+    },
+    {
+      "country": "Austria",
+      "highest": {
+        "location": "Bad Deutsch-Altenburg",
+        "temp": "40.5 °C (104.9 °F)",
+        "date": "8 August 2013"
+      },
+      "lowest": {
+        "location": "Grünloch doline",
+        "temp": "−52.6 °C (−62.7 °F)",
+        "date": "19 February 1932"
+      }
+    },
+    {
+      "country": "Azerbaijan",
+      "highest": {
+        "location": "Julfa and Ordubad",
+        "temp": "46.0 °C (114.8 °F)",
+        "date": "1 July 2018"
+      },
+      "lowest": {
+        "location": "Julfa and Ordubad",
+        "temp": "−33.0 °C (−27.4 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Bangladesh",
+      "highest": {
+        "location": "Rajshahi",
+        "temp": "45.1 °C (113.2 °F)",
+        "date": "18 May 1972"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Bangladesh (then the Bengal Presidency of British India)",
+      "highest": null,
+      "lowest": {
+        "location": "Dinajpur",
+        "temp": "1.1 °C (34.0 °F)",
+        "date": "3 February 1905"
+      }
+    },
+    {
+      "country": "Barbados",
+      "highest": {
+        "location": "Saint James",
+        "temp": "35.6 °C (96.1 °F)",
+        "date": "September 2023"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Belarus",
+      "highest": {
+        "location": "Gomel",
+        "temp": "38.9 °C (102.0 °F)",
+        "date": "7 August 2010"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Belarus (then the Byelorussian SSR, Soviet Union)",
+      "highest": null,
+      "lowest": {
+        "location": "Slavnom, Vitebsk Region",
+        "temp": "−42.2 °C (−44.0 °F)",
+        "date": "17 January 1940"
+      }
+    },
+    {
+      "country": "Belgium",
+      "highest": {
+        "location": "Begijnendijk, Flemish Brabant",
+        "temp": "41.8 °C (107.2 °F)",
+        "date": "25 July 2019"
+      },
+      "lowest": {
+        "location": "Valley of the Lesse in Rochefort",
+        "temp": "−30.1 °C (−22.2 °F)",
+        "date": "20 January 1940"
+      }
+    },
+    {
+      "country": "Belize",
+      "highest": {
+        "location": "Barton Creek",
+        "temp": "42.3 °C (108.1 °F)",
+        "date": "10 April 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Bhutan",
+      "highest": {
+        "location": "Phuentsholing",
+        "temp": "40.0 °C (104.0 °F)",
+        "date": "27 August 1997"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Bolivia",
+      "highest": {
+        "location": "Villamontes, Tarija Department",
+        "temp": "46.7 °C (116.1 °F)",
+        "date": "29 October 2010"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Bonaire",
+      "highest": {
+        "location": "Flamingo International Airport, Kralendijk",
+        "temp": "36.3 °C (97.3 °F)",
+        "date": "2008"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Bosnia and Herzegovina (then the SR Bosnia and Herzegovina, SFR Yugoslavia)",
+      "highest": null,
+      "lowest": {
+        "location": "Igman in Sarajevo Canton",
+        "temp": "−42.5 °C (−44.5 °F)",
+        "date": "24 January 1963"
+      }
+    },
+    {
+      "country": "Bosnia and Herzegovina, (then Austria–Hungary-occupied Bosnia Vilayet, Ottoman Empire)",
+      "highest": {
+        "location": "Mostar",
+        "temp": "46.2 °C (115.2 °F)",
+        "date": "31 July 1901"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Botswana",
+      "highest": {
+        "location": "Maun",
+        "temp": "44.0 °C (111.2 °F)",
+        "date": "7 January 2016"
+      },
+      "lowest": {
+        "location": "Tsabong",
+        "temp": "−15.0 °C (5.0 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Brazil",
+      "highest": {
+        "location": "Araçuaí, Minas Gerais",
+        "temp": "44.8 °C (112.6 °F)",
+        "date": "19 November 2023"
+      },
+      "lowest": {
+        "location": "Caçador, Santa Catarina",
+        "temp": "−14.0 °C (6.8 °F)",
+        "date": "11 June 1952"
+      }
+    },
+    {
+      "country": "British Virgin Islands",
+      "highest": {
+        "location": "Terrance B. Lettsome International Airport",
+        "temp": "35.0 °C (95.0 °F)",
+        "date": "22 July 2016"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Brunei",
+      "highest": {
+        "location": "Mukim Sukang",
+        "temp": "39.2 °C (102.6 °F)",
+        "date": "July 2025"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Bulgaria",
+      "highest": {
+        "location": "Sadovo, Plovdiv Province",
+        "temp": "45.2 °C (113.4 °F)",
+        "date": "5 August 1916"
+      },
+      "lowest": {
+        "location": "Tran",
+        "temp": "−38.3 °C (−36.9 °F)",
+        "date": "25 January 1947"
+      }
+    },
+    {
+      "country": "Burkina Faso",
+      "highest": {
+        "location": "Dori",
+        "temp": "47.2 °C (117.0 °F)",
+        "date": "1984"
+      },
+      "lowest": {
+        "location": "Markoye",
+        "temp": "5.0 °C (41.0 °F)",
+        "date": "January 1975"
+      }
+    },
+    {
+      "country": "Cambodia",
+      "highest": {
+        "location": "Preah Vihear and Svay Leu District",
+        "temp": "42.8 °C (109.0 °F)",
+        "date": "27 April 2024"
+      },
+      "lowest": {
+        "location": "Mondulkiri, Ratanakiri and Preah Vihear",
+        "temp": "7.0 °C (44.6 °F)",
+        "date": "29 January 2007"
+      }
+    },
+    {
+      "country": "Canada",
+      "highest": {
+        "location": "Lytton, British Columbia",
+        "temp": "49.6 °C (121.3 °F)",
+        "date": "29 June 2021"
+      },
+      "lowest": {
+        "location": "Snag, Yukon",
+        "temp": "−63.0 °C (−81.4 °F)",
+        "date": "3 February 1947"
+      }
+    },
+    {
+      "country": "Cape Verde",
+      "highest": {
+        "location": "Praia",
+        "temp": "37.3 °C (99.1 °F)",
+        "date": "2004"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Cayman Islands",
+      "highest": {
+        "location": "Owen Roberts International Airport, Grand Cayman",
+        "temp": "35.3 °C (95.5 °F)",
+        "date": "21 July 2023"
+      },
+      "lowest": {
+        "location": "Owen Roberts International Airport, Grand Cayman",
+        "temp": "11.1 °C (52.0 °F)",
+        "date": "11 February 1968"
+      }
+    },
+    {
+      "country": "Ceuta",
+      "highest": {
+        "location": "Ceuta",
+        "temp": "40.8 °C (105.4 °F)",
+        "date": "19 July 2023"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Chad",
+      "highest": {
+        "location": "Faya-Largeau",
+        "temp": "48.0 °C (118.4 °F)",
+        "date": "25 May 2023"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Chile",
+      "highest": {
+        "location": "Quillón, Biobio Region",
+        "temp": "44.9 °C (112.8 °F)",
+        "date": "26 January 2017"
+      },
+      "lowest": {
+        "location": "Balmaceda, Aysen Region",
+        "temp": "−28.5 °C (−19.3 °F)",
+        "date": "16 June 1958"
+      }
+    },
+    {
+      "country": "China",
+      "highest": {
+        "location": "Sanbu Township, Turpan, Xinjiang",
+        "temp": "52.2 °C (126.0 °F)",
+        "date": "16 July 2023"
+      },
+      "lowest": {
+        "location": "Mohe City, Heilongjiang",
+        "temp": "−53.0 °C (−63.4 °F)",
+        "date": "22 January 2023"
+      }
+    },
+    {
+      "country": "Cocos (Keeling) Islands",
+      "highest": {
+        "location": "Cocos (Keeling) Islands",
+        "temp": "33.2 °C (91.8 °F)",
+        "date": "3 December 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Colombia",
+      "highest": {
+        "location": "Puerto Salgar, Cundinamarca",
+        "temp": "45.0 °C (113.0 °F)",
+        "date": "29 December 2015"
+      },
+      "lowest": {
+        "location": "Páramo de Berlín, Tona, Santander",
+        "temp": "−11.0 °C (12.2 °F)",
+        "date": "11 December 1974"
+      }
+    },
+    {
+      "country": "Comoros",
+      "highest": {
+        "location": "Hahaya International Airport",
+        "temp": "36.2 °C (97.2 °F)",
+        "date": "12 March 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Costa Rica",
+      "highest": {
+        "location": "Cerro Huacalito, Guanacaste Province",
+        "temp": "41.5 °C (106.7 °F)",
+        "date": "23 March 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Croatia",
+      "highest": null,
+      "lowest": {
+        "location": "Gračac",
+        "temp": "−34.6 °C (−30.3 °F)",
+        "date": "13 January 2003"
+      }
+    },
+    {
+      "country": "Croatia (then the SR Croatia, SFR Yugoslavia)",
+      "highest": {
+        "location": "Ploče",
+        "temp": "42.8 °C (109.0 °F)",
+        "date": "5 August 1981"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Cuba",
+      "highest": {
+        "location": "Veguitas (Granma Province)",
+        "temp": "39.7 °C (103.5 °F)",
+        "date": "12 April 2020"
+      },
+      "lowest": {
+        "location": "Bainoa, Mayabeque Province",
+        "temp": "0.6 °C (33.1 °F)",
+        "date": "18 February 1996"
+      }
+    },
+    {
+      "country": "Curaçao",
+      "highest": null,
+      "lowest": {
+        "location": "Willemstad",
+        "temp": "18.9 °C (66.0 °F)",
+        "date": "12 December 2017"
+      }
+    },
+    {
+      "country": "Cyprus",
+      "highest": {
+        "location": "Athalassa Visitor Centre",
+        "temp": "46.2 °C (115.2 °F)",
+        "date": "4 September 2020"
+      },
+      "lowest": {
+        "location": "Trikoukia, Prodromos",
+        "temp": "−12.8 °C (9.0 °F)",
+        "date": "30 January 1964"
+      }
+    },
+    {
+      "country": "Czech Republic",
+      "highest": {
+        "location": "Dobřichovice, Prague-West District",
+        "temp": "40.4 °C (104.7 °F)",
+        "date": "20 August 2012"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Czech Republic (then part of Czechoslovakia)",
+      "highest": null,
+      "lowest": {
+        "location": "Litvínovice",
+        "temp": "−42.2 °C (−44.0 °F)",
+        "date": "11 February 1929"
+      }
+    },
+    {
+      "country": "Denmark",
+      "highest": {
+        "location": "Holstebro, Midtjylland",
+        "temp": "36.4 °C (97.5 °F)",
+        "date": "10 August 1975"
+      },
+      "lowest": {
+        "location": "Thisted Municipality, North Denmark Region",
+        "temp": "−31.2 °C (−24.2 °F)",
+        "date": "8 January 1982"
+      }
+    },
+    {
+      "country": "Dominica",
+      "highest": {
+        "location": "Canefield Airport",
+        "temp": "36.6 °C (97.9 °F)",
+        "date": "27 August 2023"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Dominican Republic",
+      "highest": {
+        "location": "Mao",
+        "temp": "43.0 °C (109.4 °F)",
+        "date": "31 August 1954"
+      },
+      "lowest": {
+        "location": "Valle Nuevo, La Vega Province",
+        "temp": "−7.0 °C (19.4 °F)",
+        "date": "17 January 1983"
+      }
+    },
+    {
+      "country": "Egypt",
+      "highest": {
+        "location": "Aswan and, Asyut",
+        "temp": "51.1 °C (124.0 °F)",
+        "date": "4 July 1918, 22 May 1973, 23 July 1994"
+      },
+      "lowest": {
+        "location": "Gabal Katrina at elevation of 2,629 m, While −6 °C in Saint Katherine City at 1,586 m., Sinai Peninsula is geologically part of the African Plate,, but geographically it is considered to be in Asia.",
+        "temp": "−18.0 °C (−0.4 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Estonia",
+      "highest": {
+        "location": "Võru",
+        "temp": "35.6 °C (96.1 °F)",
+        "date": "11 August 1992"
+      },
+      "lowest": {
+        "location": "Jõgeva, Jõgeva County",
+        "temp": "−43.5 °C (−46.3 °F)",
+        "date": "17 January 1940"
+      }
+    },
+    {
+      "country": "Eswatini (Swaziland)",
+      "highest": {
+        "location": "Lavumisa",
+        "temp": "47.4 °C (117.3 °F)",
+        "date": "?"
+      },
+      "lowest": {
+        "location": "Big Bend",
+        "temp": "−6.7 °C (19.9 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Ethiopia",
+      "highest": {
+        "location": "Dallol, Afar",
+        "temp": "48.9 °C (120.0 °F)",
+        "date": "1966"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Faroe Islands",
+      "highest": {
+        "location": "Vágar Airport",
+        "temp": "26.3 °C (79.3 °F)",
+        "date": "2003"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Fiji",
+      "highest": {
+        "location": "Vatukoula",
+        "temp": "37.4 °C (99.3 °F)",
+        "date": "2003"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Finland",
+      "highest": {
+        "location": "Joensuu Airport, Liperi",
+        "temp": "37.2 °C (99.0 °F)",
+        "date": "29 July 2010"
+      },
+      "lowest": {
+        "location": "Pokka, Kittilä, Lapland",
+        "temp": "−51.5 °C (−60.7 °F)",
+        "date": "28 January 1999"
+      }
+    },
+    {
+      "country": "France",
+      "highest": {
+        "location": "Vérargues, Hérault",
+        "temp": "46.0 °C (114.8 °F)",
+        "date": "28 June 2019"
+      },
+      "lowest": {
+        "location": "Mouthe, Doubs",
+        "temp": "−41.2 °C (−42.2 °F)",
+        "date": "17 January 1985"
+      }
+    },
+    {
+      "country": "French Guiana",
+      "highest": {
+        "location": "Grand-Santi",
+        "temp": "39.3 °C (102.7 °F)",
+        "date": "2024"
+      },
+      "lowest": {
+        "location": "Maripasoula",
+        "temp": "16.9 °C (62.4 °F)",
+        "date": "23 January 1964"
+      }
+    },
+    {
+      "country": "Gabon",
+      "highest": {
+        "location": "Tchibanga",
+        "temp": "37.5 °C (99.5 °F)",
+        "date": "2008"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Gambia",
+      "highest": {
+        "location": "Jenoi",
+        "temp": "49.0 °C (120.2 °F)",
+        "date": "2001"
+      },
+      "lowest": {
+        "location": "Jenoi",
+        "temp": "4.0 °C (39.2 °F)",
+        "date": "2003"
+      }
+    },
+    {
+      "country": "Germany",
+      "highest": {
+        "location": "Lingen, Lower Saxony",
+        "temp": "42.6 °C (108.7 °F)",
+        "date": "25 July 2019"
+      },
+      "lowest": {
+        "location": "Funtensee, Berchtesgadener Land, Bavaria",
+        "temp": "−45.9 °C (−50.6 °F)",
+        "date": "24 December 2001"
+      }
+    },
+    {
+      "country": "Ghana",
+      "highest": {
+        "location": "Navrongo",
+        "temp": "44.6 °C (112.3 °F)",
+        "date": "1 May 2024"
+      },
+      "lowest": {
+        "location": "Kumasi, Tafo",
+        "temp": "11.0 °C (51.8 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Greece",
+      "highest": {
+        "location": "Elefsina, Attica",
+        "temp": "48.0 °C (118.4 °F)",
+        "date": "10 July 1977"
+      },
+      "lowest": {
+        "location": "Ptolemaida",
+        "temp": "−27.8 °C (−18.0 °F)",
+        "date": "27 January 1963"
+      }
+    },
+    {
+      "country": "Greenland",
+      "highest": {
+        "location": "Ivittuut",
+        "temp": "30.1 °C (86.2 °F)",
+        "date": "23 June 1915"
+      },
+      "lowest": {
+        "location": "Klinck Automated Weather Station, Greenland Ice Sheet",
+        "temp": "−69.6 °C (−93.3 °F)",
+        "date": "22 December 1991"
+      }
+    },
+    {
+      "country": "Guatemala",
+      "highest": {
+        "location": "Estanzuela, Zacapa",
+        "temp": "45.0 °C (113.0 °F)",
+        "date": "12 May 1998"
+      },
+      "lowest": {
+        "location": "Olintepeque, Quetzaltenango Department",
+        "temp": "−11.5 °C (11.3 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Guernsey",
+      "highest": {
+        "location": "Rocquaine Bay",
+        "temp": "35.0 °C (95.0 °F)",
+        "date": "2003"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Guinea",
+      "highest": {
+        "location": "Koundara, Boké Region",
+        "temp": "45.0 °C (113.0 °F)",
+        "date": "29 March 2017"
+      },
+      "lowest": {
+        "location": "Bareing",
+        "temp": "2.5 °C (36.5 °F)",
+        "date": "2 January 1982"
+      }
+    },
+    {
+      "country": "Guyana",
+      "highest": {
+        "location": "Ebini",
+        "temp": "40.1 °C (104.2 °F)",
+        "date": "26 September 2023"
+      },
+      "lowest": {
+        "location": "Timehri, Demerara-Mahaica",
+        "temp": "12.7 °C (54.9 °F)",
+        "date": "August 2006"
+      }
+    },
+    {
+      "country": "Honduras",
+      "highest": {
+        "location": "San Pedro Sula",
+        "temp": "43.3 °C (109.9 °F)",
+        "date": "23 March 1987"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Hong Kong",
+      "highest": {
+        "location": "Sheung Shui",
+        "temp": "39.0 °C (102.2 °F)",
+        "date": "24 July 2022"
+      },
+      "lowest": {
+        "location": "Tai Mo Shan",
+        "temp": "−6.0 °C (21.2 °F)",
+        "date": "24 January 2016"
+      }
+    },
+    {
+      "country": "Hungary",
+      "highest": {
+        "location": "Kiskunhalas",
+        "temp": "41.9 °C (107.4 °F)",
+        "date": "20 July 2007"
+      },
+      "lowest": {
+        "location": "Görömbölytapolca",
+        "temp": "−35.0 °C (−31.0 °F)",
+        "date": "16 February 1940"
+      }
+    },
+    {
+      "country": "Iceland (then Danish Iceland)",
+      "highest": null,
+      "lowest": {
+        "location": "Grímsstaðir",
+        "temp": "−37.9 °C (−36.2 °F)",
+        "date": "21 January 1918"
+      }
+    },
+    {
+      "country": "Iceland (then the Kingdom of Iceland)",
+      "highest": {
+        "location": "Teigarhorn, Djúpivogur",
+        "temp": "30.5 °C (86.9 °F)",
+        "date": "22 June 1939"
+      },
+      "lowest": null
+    },
+    {
+      "country": "India",
+      "highest": {
+        "location": "Phalodi, Rajasthan",
+        "temp": "51.0 °C (123.8 °F)",
+        "date": "19 May 2016"
+      },
+      "lowest": null
+    },
+    {
+      "country": "India| India/ Pakistan (disputed territory of Ladakh in Kashmir)",
+      "highest": null,
+      "lowest": {
+        "location": "Dras, Ladakh",
+        "temp": "−45.0 °C (−49.0 °F)",
+        "date": "9 January 1995"
+      }
+    },
+    {
+      "country": "Indonesia",
+      "highest": {
+        "location": "Banjarbaru, South Kalimantan",
+        "temp": "40.6 °C (105.1 °F)",
+        "date": "16 August 1997"
+      },
+      "lowest": {
+        "location": "Dieng Plateau",
+        "temp": "−9.0 °C (15.8 °F)",
+        "date": "24 June 2019"
+      }
+    },
+    {
+      "country": "Iran",
+      "highest": {
+        "location": "Lut Desert",
+        "temp": "70.7 °C (159.3 °F)",
+        "date": "2005"
+      },
+      "lowest": {
+        "location": "Saqqez",
+        "temp": "−36.0 °C (−32.8 °F)",
+        "date": "1972"
+      }
+    },
+    {
+      "country": "Iraq",
+      "highest": {
+        "location": "Basra",
+        "temp": "53.9 °C (129.0 °F)",
+        "date": "22 July 2016"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Ireland (then part of the United Kingdom)",
+      "highest": {
+        "location": "Kilkenny Castle, County Kilkenny",
+        "temp": "33.3 °C (91.9 °F)",
+        "date": "26 June 1887"
+      },
+      "lowest": {
+        "location": "Markree Castle, County Sligo",
+        "temp": "−19.1 °C (−2.4 °F)",
+        "date": "16 January 1881"
+      }
+    },
+    {
+      "country": "Isle of Man",
+      "highest": {
+        "location": "Isle of Man Airport",
+        "temp": "28.9 °C (84.0 °F)",
+        "date": "12 July 1983"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Israel",
+      "highest": null,
+      "lowest": {
+        "location": "Merom Golan",
+        "temp": "−14.2 °C (6.4 °F)",
+        "date": "10 January 2015"
+      }
+    },
+    {
+      "country": "Israel (then Mandatory Palestine )",
+      "highest": {
+        "location": "Tirat Zvi",
+        "temp": "54.0 °C (129.2 °F)",
+        "date": "21 June 1942"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Italy",
+      "highest": {
+        "location": "Floridia, Sicily",
+        "temp": "48.8 °C (119.8 °F)",
+        "date": "11 August 2021"
+      },
+      "lowest": {
+        "location": "Busa Riviera, Pale di San Martino",
+        "temp": "−50.6 °C (−59.1 °F)",
+        "date": "7 January 2022"
+      }
+    },
+    {
+      "country": "Ivory Coast",
+      "highest": {
+        "location": "Odienne",
+        "temp": "49.5 °C (121.1 °F)",
+        "date": "26 January 2025"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Japan",
+      "highest": {
+        "location": "Isesaki, Gunma",
+        "temp": "41.8 °C (107.2 °F)",
+        "date": "5 August 2025"
+      },
+      "lowest": {
+        "location": "Asahikawa, Hokkaidō",
+        "temp": "−41.0 °C (−41.8 °F)",
+        "date": "25 January 1902"
+      }
+    },
+    {
+      "country": "Jordan",
+      "highest": {
+        "location": "Deir Alla",
+        "temp": "51.1 °C (124.0 °F)",
+        "date": "20 August 2010"
+      },
+      "lowest": {
+        "location": "Shoubak",
+        "temp": "−16.0 °C (3.2 °F)",
+        "date": "15 December 2013"
+      }
+    },
+    {
+      "country": "Kazakhstan",
+      "highest": {
+        "location": "Turkistan",
+        "temp": "49.1 °C (120.4 °F)",
+        "date": "2010"
+      },
+      "lowest": {
+        "location": "Atbasar",
+        "temp": "−57.0 °C (−70.6 °F)",
+        "date": "January 1893"
+      }
+    },
+    {
+      "country": "Kenya",
+      "highest": {
+        "location": "Wajir",
+        "temp": "42.6 °C (108.7 °F)",
+        "date": "2007"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Kosovo",
+      "highest": {
+        "location": "Klina",
+        "temp": "42.5 °C (108.5 °F)",
+        "date": "25 July 2025"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Kuwait",
+      "highest": {
+        "location": "Mitribah, Al Jahra Governorate",
+        "temp": "54.0 °C (129.2 °F)",
+        "date": "21 July 2016"
+      },
+      "lowest": {
+        "location": "Salmy",
+        "temp": "−4.8 °C (23.4 °F)",
+        "date": "3 January 2009"
+      }
+    },
+    {
+      "country": "Kyrgyzstan",
+      "highest": {
+        "location": "Jangy-Jer",
+        "temp": "43.6 °C (110.5 °F)",
+        "date": "July 1944"
+      },
+      "lowest": {
+        "location": "Fergana Valley",
+        "temp": "−53.6 °C (−64.5 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Laos",
+      "highest": {
+        "location": "Tha Ngon",
+        "temp": "43.7 °C (110.7 °F)",
+        "date": "1 May 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Latvia",
+      "highest": {
+        "location": "Ventspils",
+        "temp": "37.8 °C (100.0 °F)",
+        "date": "4 August 2014"
+      },
+      "lowest": {
+        "location": "Daugavpils",
+        "temp": "−43.2 °C (−45.8 °F)",
+        "date": "8 February 1956"
+      }
+    },
+    {
+      "country": "Lebanon",
+      "highest": {
+        "location": "Houche Al Oumara; Zahle",
+        "temp": "44.3 °C (111.7 °F)",
+        "date": "3 September 2020"
+      },
+      "lowest": {
+        "location": "Yammoune",
+        "temp": "−23.1 °C (−9.6 °F)",
+        "date": "January 20, 1964"
+      }
+    },
+    {
+      "country": "Lesotho",
+      "highest": null,
+      "lowest": {
+        "location": "",
+        "temp": "−21.0 °C (−5.8 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Liechtenstein",
+      "highest": {
+        "location": "Ruggell",
+        "temp": "37.4 °C (99.3 °F)",
+        "date": "13 August 2003"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Lithuania",
+      "highest": {
+        "location": "Zarasai, Utena County",
+        "temp": "37.5 °C (99.5 °F)",
+        "date": "30 July 1994"
+      },
+      "lowest": {
+        "location": "Utena, Utena County",
+        "temp": "−42.9 °C (−45.2 °F)",
+        "date": "1 February 1956"
+      }
+    },
+    {
+      "country": "Luxembourg",
+      "highest": {
+        "location": "Steinsel, Luxembourg and Remich, Remich",
+        "temp": "40.8 °C (105.4 °F)",
+        "date": "25 July 2019"
+      },
+      "lowest": {
+        "location": "",
+        "temp": "−20.2 °C (−4.4 °F)",
+        "date": "2 February 1956"
+      }
+    },
+    {
+      "country": "Macau",
+      "highest": {
+        "location": "Coloane",
+        "temp": "39.0 °C (102.2 °F)",
+        "date": "22 August 2017"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Madagascar",
+      "highest": {
+        "location": "Ejeda, Atsimo-Andrefana",
+        "temp": "43.6 °C (110.5 °F)",
+        "date": "?"
+      },
+      "lowest": {
+        "location": "Antsirabe, Vakinankaratra",
+        "temp": "−1.0 °C (30.2 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Malaysia",
+      "highest": {
+        "location": "Chuping",
+        "temp": "40.1 °C (104.2 °F)",
+        "date": "9 April 1998"
+      },
+      "lowest": {
+        "location": "Mount Kinabalu",
+        "temp": "−5 °C (23 °F)",
+        "date": "7 April 2023"
+      }
+    },
+    {
+      "country": "Maldives",
+      "highest": {
+        "location": "Hanimaadhoo",
+        "temp": "35.8 °C (96.4 °F)",
+        "date": "27 February 2025"
+      },
+      "lowest": {
+        "location": "Hulhulé Island, located at Ibrahim Nasir International Airport",
+        "temp": "17.2 °C (63.0 °F)",
+        "date": "11 April 1978"
+      }
+    },
+    {
+      "country": "Mali",
+      "highest": {
+        "location": "Kayes",
+        "temp": "48.5 °C (119.3 °F)",
+        "date": "3 April 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Malta",
+      "highest": {
+        "location": "Malta International Airport",
+        "temp": "43.8 °C (110.8 °F)",
+        "date": "9 August 1999"
+      },
+      "lowest": {
+        "location": "Malta International Airport",
+        "temp": "1.4 °C (34.5 °F)",
+        "date": "29 January 1981"
+      }
+    },
+    {
+      "country": "Marshall Islands",
+      "highest": {
+        "location": "Utirik Atoll",
+        "temp": "35.6 °C (96.1 °F)",
+        "date": "24 August 2016"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Martinique",
+      "highest": {
+        "location": "Caravelle",
+        "temp": "37.6 °C (99.7 °F)",
+        "date": "1 October 2025"
+      },
+      "lowest": {
+        "location": "Le Lamentin",
+        "temp": "14.1 °C (57.4 °F)",
+        "date": "25 December 1964"
+      }
+    },
+    {
+      "country": "Mayotte",
+      "highest": {
+        "location": "Poroani",
+        "temp": "35.8 °C (96.4 °F)",
+        "date": "2010"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Mexico",
+      "highest": {
+        "location": "San Luis Río Colorado, Sonora",
+        "temp": "52.0 °C (125.6 °F)",
+        "date": "6 July 1966"
+      },
+      "lowest": {
+        "location": "Madera, Chihuahua",
+        "temp": "−25.1 °C (−13.2 °F)",
+        "date": "27 December 1997"
+      }
+    },
+    {
+      "country": "Moldova",
+      "highest": {
+        "location": "Fălești",
+        "temp": "42.4 °C (108.3 °F)",
+        "date": "7 August 2012"
+      },
+      "lowest": {
+        "location": "Brătușeni, Edineț District",
+        "temp": "−35.5 °C (−31.9 °F)",
+        "date": "20 January 1963"
+      }
+    },
+    {
+      "country": "Monaco",
+      "highest": {
+        "location": "Monaco",
+        "temp": "35.1 °C (95.2 °F)",
+        "date": "20 July 2022"
+      },
+      "lowest": {
+        "location": "Monaco",
+        "temp": "−5.2 °C (22.6 °F)",
+        "date": "10 February 1986"
+      }
+    },
+    {
+      "country": "Mongolia",
+      "highest": {
+        "location": "Khongor, Darkhan-Uul Province",
+        "temp": "44.0 °C (111.2 °F)",
+        "date": "24 July 1999"
+      },
+      "lowest": {
+        "location": "Züüngovi, Uvs Province",
+        "temp": "−55.6 °C (−68.1 °F)",
+        "date": "26 December 1966"
+      }
+    },
+    {
+      "country": "Montenegro",
+      "highest": {
+        "location": "Podgorica, Danilovgrad",
+        "temp": "44.8 °C (112.6 °F)",
+        "date": "16 August 2007, 8 August 2012"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Morocco",
+      "highest": {
+        "location": "Agadir (Inezgane Airport)",
+        "temp": "50.4 °C (122.7 °F)",
+        "date": "11 August 2023"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Morocco (then the French protectorate in Morocco)",
+      "highest": null,
+      "lowest": {
+        "location": "Ifrane",
+        "temp": "−23.9 °C (−11.0 °F)",
+        "date": "11 February 1935"
+      }
+    },
+    {
+      "country": "Myanmar",
+      "highest": {
+        "location": "Myinmu",
+        "temp": "47.2 °C (117.0 °F)",
+        "date": "14 May 2010"
+      },
+      "lowest": {
+        "location": "Hakha",
+        "temp": "−5.0 °C (23.0 °F)",
+        "date": "30 December 1990"
+      }
+    },
+    {
+      "country": "Nauru",
+      "highest": {
+        "location": "Nauru Arc-2",
+        "temp": "34.6 °C (94.3 °F)",
+        "date": "2003"
+      },
+      "lowest": {
+        "location": "Yaren District",
+        "temp": "20.0 °C (68.0 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Nepal",
+      "highest": {
+        "location": "Ataria",
+        "temp": "46.4 °C (115.5 °F)",
+        "date": "16 June 1995"
+      },
+      "lowest": {
+        "location": "Sagarmatha",
+        "temp": "−45.0 °C (−49.0 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Netherlands",
+      "highest": {
+        "location": "Gilze en Rijen, North Brabant",
+        "temp": "40.7 °C (105.3 °F)",
+        "date": "25 July 2019"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Netherlands (then Nazi-occupied Netherlands)",
+      "highest": null,
+      "lowest": {
+        "location": "Winterswijk, Gelderland",
+        "temp": "−27.4 °C (−17.3 °F)",
+        "date": "27 January 1942"
+      }
+    },
+    {
+      "country": "New Caledonia",
+      "highest": {
+        "location": "Boulouparis",
+        "temp": "39.9 °C (103.8 °F)",
+        "date": "2002"
+      },
+      "lowest": null
+    },
+    {
+      "country": "New Zealand",
+      "highest": {
+        "location": "Rangiora, Canterbury",
+        "temp": "42.4 °C (108.3 °F)",
+        "date": "7 February 1973"
+      },
+      "lowest": {
+        "location": "Ranfurly, Central Otago",
+        "temp": "−25.6 °C (−14.1 °F)",
+        "date": "18 July 1903"
+      }
+    },
+    {
+      "country": "Nicaragua",
+      "highest": {
+        "location": "Managua",
+        "temp": "38.4 °C (101.1 °F)",
+        "date": "May 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Niger",
+      "highest": {
+        "location": "Diffa",
+        "temp": "49.5 °C (121.1 °F)",
+        "date": "7 September 1978"
+      },
+      "lowest": {
+        "location": "Bilma",
+        "temp": "−2.4 °C (27.7 °F)",
+        "date": "13 January 1995"
+      }
+    },
+    {
+      "country": "Nigeria",
+      "highest": {
+        "location": "Yola",
+        "temp": "46.4 °C (115.5 °F)",
+        "date": "2010"
+      },
+      "lowest": null
+    },
+    {
+      "country": "North Korea",
+      "highest": {
+        "location": "Hoeryong",
+        "temp": "40.5 °C (104.9 °F)",
+        "date": "30 July 1977"
+      },
+      "lowest": null
+    },
+    {
+      "country": "North Korea (then Japanese Korea)",
+      "highest": null,
+      "lowest": {
+        "location": "Chunggangjin",
+        "temp": "−43.6 °C (−46.5 °F)",
+        "date": "12 January 1933"
+      }
+    },
+    {
+      "country": "North Macedonia",
+      "highest": {
+        "location": "Demir Kapija, Demir Kapija",
+        "temp": "45.7 °C (114.3 °F)",
+        "date": "24 July 2007"
+      },
+      "lowest": null
+    },
+    {
+      "country": "North Macedonia (then the SR Macedonia, SFR Yugoslavia)",
+      "highest": null,
+      "lowest": {
+        "location": "Berovo, Berovo Municipality",
+        "temp": "−31.5 °C (−24.7 °F)",
+        "date": "27 January 1954"
+      }
+    },
+    {
+      "country": "Northern Cyprus",
+      "highest": {
+        "location": "Lefkoniko",
+        "temp": "46.6 °C (115.9 °F)",
+        "date": "2010"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Norway",
+      "highest": {
+        "location": "Nesbyen, Buskerud",
+        "temp": "35.6 °C (96.1 °F)",
+        "date": "20 June 1970"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Norway (then part of Sweden–Norway)",
+      "highest": null,
+      "lowest": {
+        "location": "Karasjok, Finnmark",
+        "temp": "−51.4 °C (−60.5 °F)",
+        "date": "1 January 1886"
+      }
+    },
+    {
+      "country": "Oman",
+      "highest": {
+        "location": "Qurayyat, Muscat Governorate",
+        "temp": "42.6 °C (108.7 °F)",
+        "date": "25 June 2018"
+      },
+      "lowest": {
+        "location": "Jabel Shams",
+        "temp": "−9.7 °C (14.5 °F)",
+        "date": "January 2015"
+      }
+    },
+    {
+      "country": "Pakistan",
+      "highest": {
+        "location": "Turbat",
+        "temp": "53.7 °C (128.7 °F)",
+        "date": "28 May 2017"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Pakistan| Pakistan/ India (undemarcated Kashmir area in disputed territory of Kashmir)",
+      "highest": null,
+      "lowest": {
+        "location": "Skardu",
+        "temp": "−24.0 °C (−11.2 °F)",
+        "date": "7 January 1995"
+      }
+    },
+    {
+      "country": "Palau",
+      "highest": {
+        "location": "Roman Tmetuchl International Airport",
+        "temp": "35.6 °C (96.1 °F)",
+        "date": "2 June 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Panama",
+      "highest": {
+        "location": "San Francisco",
+        "temp": "40.0 °C (104.0 °F)",
+        "date": "20 March 1998"
+      },
+      "lowest": {
+        "location": "Bajo Grande, Chiriquí Province",
+        "temp": "2.0 °C (35.6 °F)",
+        "date": "20 February 1995"
+      }
+    },
+    {
+      "country": "Paraguay",
+      "highest": {
+        "location": "Mariscal Estigarribia, Boquerón",
+        "temp": "46.4 °C (115.5 °F)",
+        "date": "28 January 2025"
+      },
+      "lowest": {
+        "location": "Pratts Gill, Boquerón Department",
+        "temp": "−7.5 °C (18.5 °F)",
+        "date": "13 July 2000"
+      }
+    },
+    {
+      "country": "Peru",
+      "highest": {
+        "location": "Iñapari",
+        "temp": "41.6 °C (106.9 °F)",
+        "date": "7 October 2023"
+      },
+      "lowest": {
+        "location": "Mazo Cruz, Puno Region",
+        "temp": "−25.2 °C (−13.4 °F)",
+        "date": "30 June 1966"
+      }
+    },
+    {
+      "country": "Philippines",
+      "highest": null,
+      "lowest": {
+        "location": "Baguio",
+        "temp": "6.3 °C (43.3 °F)",
+        "date": "18 January 1961"
+      }
+    },
+    {
+      "country": "Philippines (first recorded under the Insular Government)",
+      "highest": {
+        "location": "Tuguegarao, Cagayan Valley",
+        "temp": "42.2 °C (108.0 °F)",
+        "date": "12 April 1912, 11 May 1969"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Poland",
+      "highest": {
+        "location": "Prószków",
+        "temp": "40.2 °C (104.4 °F)",
+        "date": "29 July 1921"
+      },
+      "lowest": {
+        "location": "Litworowy Kocioł, Western Tatras",
+        "temp": "−41.1 °C (−42.0 °F)",
+        "date": "17 February 2025"
+      }
+    },
+    {
+      "country": "Portugal",
+      "highest": {
+        "location": "Amareleja, Beja",
+        "temp": "47.4 °C (117.3 °F)",
+        "date": "1 August 2003"
+      },
+      "lowest": {
+        "location": "Penhas da Saúde, Covilhã Municipality, Miranda do Douro",
+        "temp": "−16.0 °C (3.2 °F)",
+        "date": "16 January 1945 and, 5 February 1954"
+      }
+    },
+    {
+      "country": "Puerto Rico",
+      "highest": {
+        "location": "Mona Island",
+        "temp": "40.0 °C (104.0 °F)",
+        "date": "2 July 1996"
+      },
+      "lowest": {
+        "location": "Aibonito, San Sebastián",
+        "temp": "4.4 °C (40 °F)",
+        "date": "9 March 1911, 24 January 1966"
+      }
+    },
+    {
+      "country": "Qatar",
+      "highest": {
+        "location": "Doha",
+        "temp": "50.4 °C (122.7 °F)",
+        "date": "14 July 2010"
+      },
+      "lowest": {
+        "location": "Abu Samra",
+        "temp": "1.5 °C (34.7 °F)",
+        "date": "5 February 2017"
+      }
+    },
+    {
+      "country": "Republic of the Congo",
+      "highest": {
+        "location": "Impfondo",
+        "temp": "39.6 °C (103.3 °F)",
+        "date": "13 March 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Romania",
+      "highest": {
+        "location": "Ion Sion, Brăila County",
+        "temp": "44.5 °C (112.1 °F)",
+        "date": "10 August 1951"
+      },
+      "lowest": {
+        "location": "Bod, Brașov County",
+        "temp": "−38.5 °C (−37.3 °F)",
+        "date": "25 January 1942"
+      }
+    },
+    {
+      "country": "Russia",
+      "highest": {
+        "location": "Verkhoyansk, Sakha Republic",
+        "temp": "38.0 °C (100.4 °F)",
+        "date": "20 June 2020"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Russia (Asia) (first in the Russian Empire, then in the Russian SFSR, Soviet Union)",
+      "highest": null,
+      "lowest": {
+        "location": "Verkhoyansk and, Oymyakon, both in Sakha Republic",
+        "temp": "−67.8 °C (−90.0 °F)",
+        "date": "15 January 1885, 5, 7 February 1892, 6 February 1933"
+      }
+    },
+    {
+      "country": "Russia (Asian part)",
+      "highest": {
+        "location": "Bayevo, Altai Krai",
+        "temp": "39.6 °C (103.3 °F)",
+        "date": "7 June 2023"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Russia (Europe) (then the Russian SFSR, Soviet Union)",
+      "highest": null,
+      "lowest": {
+        "location": "Ust-Shchuger, Komi Republic",
+        "temp": "−58.1 °C (−72.6 °F)",
+        "date": "31 December 1978"
+      }
+    },
+    {
+      "country": "Russia (European part)",
+      "highest": {
+        "location": "Utta, Kalmykia",
+        "temp": "45.4 °C (113.7 °F)",
+        "date": "12 July 2010"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Rwanda",
+      "highest": {
+        "location": "Kigali",
+        "temp": "35.4 °C (95.7 °F)",
+        "date": "2005"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Réunion",
+      "highest": {
+        "location": "Le Port",
+        "temp": "36.9 °C (98.4 °F)",
+        "date": "6 March 2004"
+      },
+      "lowest": {
+        "location": "Gite de Bellecombe",
+        "temp": "−5.0 °C (23.0 °F)",
+        "date": "10 September 1975"
+      }
+    },
+    {
+      "country": "Saint Helena, Ascension and Tristan da Cunha",
+      "highest": {
+        "location": "Georgetown",
+        "temp": "34.9 °C (94.8 °F)",
+        "date": "2010"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Samoa",
+      "highest": {
+        "location": "Asau",
+        "temp": "35.3 °C (95.5 °F)",
+        "date": "24 December 1968"
+      },
+      "lowest": {
+        "location": "Afiamalu",
+        "temp": "11.1 °C (52.0 °F)",
+        "date": "29 September 1971"
+      }
+    },
+    {
+      "country": "San Marino",
+      "highest": {
+        "location": "Serravalle",
+        "temp": "40.3 °C (104.5 °F)",
+        "date": "3 August 2017, 9 August 2017"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "highest": {
+        "location": "Jeddah",
+        "temp": "52.0 °C (125.6 °F)",
+        "date": "22 June 2010"
+      },
+      "lowest": {
+        "location": "Turaif",
+        "temp": "−12.0 °C (10.4 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Serbia",
+      "highest": {
+        "location": "Smederevska Palanka, Podunavlje",
+        "temp": "44.9 °C (112.8 °F)",
+        "date": "24 July 2007"
+      },
+      "lowest": {
+        "location": "Karajukića Bunari, Zlatibor District",
+        "temp": "−39.8 °C (−39.6 °F)",
+        "date": "26 January 2006"
+      }
+    },
+    {
+      "country": "Singapore",
+      "highest": {
+        "location": "Tengah, Ang Mo Kio",
+        "temp": "37.0 °C (98.6 °F)",
+        "date": "17 April 1983, 13 May 2023"
+      },
+      "lowest": {
+        "location": "Paya Lebar",
+        "temp": "19.0 °C (66.2 °F)",
+        "date": "14 February 1989"
+      }
+    },
+    {
+      "country": "Slovakia",
+      "highest": {
+        "location": "Hurbanovo",
+        "temp": "40.3 °C (104.5 °F)",
+        "date": "20 July 2007"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Slovakia (then Czechoslovakia)",
+      "highest": null,
+      "lowest": {
+        "location": "Vígľaš-Pstruša",
+        "temp": "−41.0 °C (−41.8 °F)",
+        "date": "11 February 1929"
+      }
+    },
+    {
+      "country": "Slovenia",
+      "highest": {
+        "location": "Cerklje ob Krki",
+        "temp": "40.8 °C (105.4 °F)",
+        "date": "8 August 2013"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Slovenia (then SR Slovenia, SFR Yugoslavia)",
+      "highest": null,
+      "lowest": {
+        "location": "Babno Polje",
+        "temp": "−34.5 °C (−30.1 °F)",
+        "date": "15 February 1956, 16 February 1956, 13 January 1968"
+      }
+    },
+    {
+      "country": "Solomon Islands",
+      "highest": {
+        "location": "Honiara, Guadalcanal Province",
+        "temp": "36.1 °C (97.0 °F)",
+        "date": "1 February 2010"
+      },
+      "lowest": {
+        "location": "Tigoa, Rennell",
+        "temp": "17.0 °C (62.6 °F)",
+        "date": "June 2016"
+      }
+    },
+    {
+      "country": "Somaliland",
+      "highest": {
+        "location": "Berbera",
+        "temp": "47.8 °C (118.0 °F)",
+        "date": "2004"
+      },
+      "lowest": null
+    },
+    {
+      "country": "South Africa",
+      "highest": null,
+      "lowest": {
+        "location": "Buffelsfontein, near Molteno, Eastern Cape",
+        "temp": "−20.1 °C (−4.2 °F)",
+        "date": "23 August 2013"
+      }
+    },
+    {
+      "country": "South Africa (then the Union of South Africa)",
+      "highest": {
+        "location": "Dunbrody, Eastern Cape",
+        "temp": "50.0 °C (122.0 °F)",
+        "date": "3 November 1918"
+      },
+      "lowest": null
+    },
+    {
+      "country": "South Korea",
+      "highest": {
+        "location": "Hongcheon, Gangwon Province",
+        "temp": "41.0 °C (105.8 °F)",
+        "date": "1 August 2018"
+      },
+      "lowest": {
+        "location": "Yangpyeong",
+        "temp": "−32.6 °C (−26.7 °F)",
+        "date": "5 January 1981"
+      }
+    },
+    {
+      "country": "Spain",
+      "highest": {
+        "location": "La Rambla, Cordoba (as La Rambla Privilegio)",
+        "temp": "47.6 °C (117.7 °F)",
+        "date": "14 August 2021"
+      },
+      "lowest": {
+        "location": "Estany Gento (Province of Lleida)",
+        "temp": "−32.0 °C (−25.6 °F)",
+        "date": "2 February 1956"
+      }
+    },
+    {
+      "country": "Spain ( Canarias)",
+      "highest": null,
+      "lowest": {
+        "location": "Teide, Tenerife",
+        "temp": "−14.5 °C (5.9 °F)",
+        "date": "29 January 2018"
+      }
+    },
+    {
+      "country": "Sri Lanka",
+      "highest": {
+        "location": "Trincomalee",
+        "temp": "39.8 °C (103.6 °F)",
+        "date": "13 May 1890, 11 April 2019"
+      },
+      "lowest": {
+        "location": "Nuwara Eliya",
+        "temp": "−2.6 °C (27.3 °F)",
+        "date": "14 January 1929"
+      }
+    },
+    {
+      "country": "Sudan",
+      "highest": {
+        "location": "Dongola",
+        "temp": "49.7 °C (121.5 °F)",
+        "date": "25 June 2010"
+      },
+      "lowest": {
+        "location": "Zalingei",
+        "temp": "−1.0 °C (30.2 °F)",
+        "date": "December 1961, January 1962"
+      }
+    },
+    {
+      "country": "Svalbard",
+      "highest": {
+        "location": "Longyearbyen",
+        "temp": "21.7 °C (71.1 °F)",
+        "date": "25 July 2020"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Sweden",
+      "highest": {
+        "location": "Ultuna, Uppsala County, Målilla, Kalmar County",
+        "temp": "38.0 °C (100.4 °F)",
+        "date": "9 July 1933, 29 June 1947"
+      },
+      "lowest": {
+        "location": "Vuoggatjålme, Lappland",
+        "temp": "−52.6 °C (−62.7 °F)",
+        "date": "2 February 1966"
+      }
+    },
+    {
+      "country": "Switzerland",
+      "highest": {
+        "location": "Grono, Moesa District",
+        "temp": "41.5 °C (106.7 °F)",
+        "date": "11 August 2003"
+      },
+      "lowest": {
+        "location": "La Brévine",
+        "temp": "−41.8 °C (−43.2 °F)",
+        "date": "12 January 1987"
+      }
+    },
+    {
+      "country": "Syria",
+      "highest": {
+        "location": "Al-Hasakah",
+        "temp": "49.4 °C (120.9 °F)",
+        "date": "30 July 2000"
+      },
+      "lowest": {
+        "location": "Idlib",
+        "temp": "−23.0 °C (−9.4 °F)",
+        "date": "January 1951"
+      }
+    },
+    {
+      "country": "Taiwan",
+      "highest": {
+        "location": "Fuyuan",
+        "temp": "41.6 °C (106.9 °F)",
+        "date": "21 August 2022"
+      },
+      "lowest": {
+        "location": "Yushan",
+        "temp": "−18.4 °C (−1.1 °F)",
+        "date": "31 January 1970"
+      }
+    },
+    {
+      "country": "Tajikistan",
+      "highest": {
+        "location": "Panji Poyon",
+        "temp": "48.0 °C (118.4 °F)",
+        "date": "?"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Tanzania",
+      "highest": {
+        "location": "Abeid Amani Karume International Airport, Zanzibar City",
+        "temp": "39.4 °C (102.9 °F)",
+        "date": "2007"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Thailand",
+      "highest": {
+        "location": "Tak",
+        "temp": "45.4 °C (113.7 °F)",
+        "date": "15 April 2023"
+      },
+      "lowest": {
+        "location": "Sakon Nakhon",
+        "temp": "−1.4 °C (29.5 °F)",
+        "date": "2 January 1974"
+      }
+    },
+    {
+      "country": "Togo",
+      "highest": {
+        "location": "Mango",
+        "temp": "44.0 °C (111.2 °F)",
+        "date": "31 March 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Tonga",
+      "highest": {
+        "location": "Niuafoou",
+        "temp": "35.5 °C (95.9 °F)",
+        "date": "1 February 2016"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Tunisia",
+      "highest": {
+        "location": "Kebili",
+        "temp": "55.0 °C (131.0 °F)",
+        "date": "7 July 1931"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Turkey",
+      "highest": {
+        "location": "Silopi, Şırnak Province",
+        "temp": "50.5 °C (122.9 °F)",
+        "date": "25 July 2025"
+      },
+      "lowest": {
+        "location": "Çaldıran, Van Province",
+        "temp": "−46.4 °C (−51.5 °F)",
+        "date": "9 January 1990"
+      }
+    },
+    {
+      "country": "Turkmenistan",
+      "highest": null,
+      "lowest": {
+        "location": "Daşoguz Region",
+        "temp": "−36.0 °C (−32.8 °F)",
+        "date": "?"
+      }
+    },
+    {
+      "country": "Turkmenistan (then the Turkmen SSR, Soviet Union)",
+      "highest": {
+        "location": "Repetek Biosphere State Reserve, Karakum Desert",
+        "temp": "50.1 °C (122.2 °F)",
+        "date": "28 July 1983"
+      },
+      "lowest": null
+    },
+    {
+      "country": "US Virgin Islands",
+      "highest": null,
+      "lowest": {
+        "location": "Anna's Hope, Saint Croix",
+        "temp": "10.6 °C (51 °F)",
+        "date": "31 January 1954"
+      }
+    },
+    {
+      "country": "USA ( California)",
+      "highest": {
+        "location": "Death Valley",
+        "temp": "42.5 °C (108.5 °F)",
+        "date": "July 2024"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Uganda",
+      "highest": {
+        "location": "Kitgum",
+        "temp": "40.0 °C (104.0 °F)",
+        "date": "2005"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Ukraine",
+      "highest": {
+        "location": "Luhansk",
+        "temp": "42.0 °C (107.6 °F)",
+        "date": "12 August 2010"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Ukraine (then the Ukrainian SSR, Soviet Union)",
+      "highest": null,
+      "lowest": {
+        "location": "Luhansk",
+        "temp": "−41.9 °C (−43.4 °F)",
+        "date": "8 January 1935"
+      }
+    },
+    {
+      "country": "United Arab Emirates",
+      "highest": {
+        "location": "Sweihan, Al Ain",
+        "temp": "52.1 °C (125.8 °F)",
+        "date": "July 2002"
+      },
+      "lowest": {
+        "location": "Jebel Jais, Fujairah",
+        "temp": "−5.4 °C (22.3 °F)",
+        "date": "3 February 2017"
+      }
+    },
+    {
+      "country": "United Kingdom",
+      "highest": {
+        "location": "Coningsby, Lincolnshire",
+        "temp": "40.3 °C (104.5 °F)",
+        "date": "19 July 2022"
+      },
+      "lowest": {
+        "location": "Braemar, Aberdeenshire, Altnaharra, Sutherland",
+        "temp": "−27.2 °C (−17.0 °F)",
+        "date": "11 February 1895, 10 January 1982, 30 December 1995"
+      }
+    },
+    {
+      "country": "United States",
+      "highest": {
+        "location": "Furnace Creek, Death Valley, California",
+        "temp": "56.7 °C (134.06 °F)",
+        "date": "10 July 1913"
+      },
+      "lowest": null
+    },
+    {
+      "country": "United States Virgin Islands",
+      "highest": {
+        "location": "Saint Thomas, Cruz Bay",
+        "temp": "37.2 °C (99 °F)",
+        "date": "4 August 1994 and 23 June 1996, 31 July 1988"
+      },
+      "lowest": null
+    },
+    {
+      "country": "United States, ( Alaska)",
+      "highest": null,
+      "lowest": {
+        "location": "Prospect Creek, Alaska",
+        "temp": "−62.2 °C (−80 °F)",
+        "date": "23 January 1971"
+      }
+    },
+    {
+      "country": "United States, ( Hawaii)",
+      "highest": null,
+      "lowest": {
+        "location": "Mauna Kea, Hawaii",
+        "temp": "−11.1 °C (12.0 °F)",
+        "date": "17 May 1979"
+      }
+    },
+    {
+      "country": "United States, (contiguous)",
+      "highest": null,
+      "lowest": {
+        "location": "Rogers Pass, Montana",
+        "temp": "−56.7 °C (−70 °F)",
+        "date": "20 January 1954"
+      }
+    },
+    {
+      "country": "Uruguay",
+      "highest": {
+        "location": "Paysandú, Paysandú Department, Florida, Florida Department",
+        "temp": "44.0 °C (111.2 °F)",
+        "date": "20 January 1943, 14 January 2022"
+      },
+      "lowest": {
+        "location": "Melo, Cerro Largo Department",
+        "temp": "−11.0 °C (12.2 °F)",
+        "date": "14 June 1967"
+      }
+    },
+    {
+      "country": "Uzbekistan (then the Uzbek SSR, Soviet Union)",
+      "highest": {
+        "location": "Termez",
+        "temp": "50.0 °C (122.0 °F)",
+        "date": "July 1944"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Vanuatu",
+      "highest": {
+        "location": "Lamap Malekula",
+        "temp": "36.2 °C (97.2 °F)",
+        "date": "8 February 2016"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Vatican City",
+      "highest": {
+        "location": "Vatican City",
+        "temp": "40.8 °C (105.4 °F)",
+        "date": "28 June 2022"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Venezuela",
+      "highest": {
+        "location": "Santa Ana de Coro, Falcón",
+        "temp": "43.6 °C (110.5 °F)",
+        "date": "29 April 2015"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Vietnam",
+      "highest": {
+        "location": "Tương Dương District,, Nghệ An Province",
+        "temp": "44.2 °C (111.6 °F)",
+        "date": "7 May 2023"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Vietnam (then DR Vietnam)",
+      "highest": null,
+      "lowest": {
+        "location": "Sa Pa",
+        "temp": "−6.1 °C (21.0 °F)",
+        "date": "4 January 1974"
+      }
+    },
+    {
+      "country": "Wallis and Futuna",
+      "highest": {
+        "location": "Futuna Airport",
+        "temp": "35.8 °C (96.4 °F)",
+        "date": "10 January 2016"
+      },
+      "lowest": null
+    },
+    {
+      "country": "Zambia",
+      "highest": {
+        "location": "Mfuwe, Eastern Province",
+        "temp": "43.5 °C (110.3 °F)",
+        "date": "2011"
+      },
+      "lowest": null
+    }
+  ]
+}

@@ -108,6 +108,12 @@
         "url": "https://sharmadhiraj.github.io/free-json-datasets/climate-weather/countries_by_average_annual_precipitation.json"
       },
       {
+        "title": "Countries by Recorded Temperature Extremes",
+        "subtitle": "Highest and lowest temperatures recorded by country, including location and date",
+        "updated_at": "January 29, 2026 08:18 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/climate-weather/highest_and_lowest_recorded_temperatures_by_country.json"
+      },
+      {
         "title": "Tropical Cyclone Records (2025)",
         "subtitle": "Notable Tropical Cyclone Records in 2025",
         "updated_at": "September 11, 2025 04:17 PM UTC",
